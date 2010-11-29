@@ -1,0 +1,156 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CORPUS_DIR	./src/main/scala/corpus2/SentenceParser.scala	/^  val CORPUS_DIR = ".\/corpora\/"$/;"	C
+CasbahHandler	./src/main/scala/corpus2/CabashHandler.scala	/^object CasbahHandler {$/;"	o
+Corpus	./src/main/scala/corpus2/Word.scala	/^case class Corpus(corpusId: Int, corpus: String) {$/;"	c
+CorpusUtils	./src/main/scala/corpus2/CorpusUtils.scala	/^object CorpusUtils {$/;"	o
+Document	./src/main/scala/corpus2/Word.scala	/^case class Document(documentId: Int, code: String, title: String, sentences: ListBuffer[Int]) {$/;"	c
+Driver	./src/main/scala/corpus2/Driver.scala	/^object Driver {$/;"	o
+LB	./src/main/scala/corpus2/SentenceParser.scala	/^          val LB = ListBuffer.empty[SentenceIdx]$/;"	C
+LB	./src/main/scala/corpus2/SentenceParser.scala	/^        val LB = ListBuffer.empty[SentenceIdx]$/;"	C
+MongoHandler	./src/main/scala/corpus2/MongoHandler.scala	/^object MongoHandler {$/;"	o
+S	./src/main/scala/corpus2/SentenceQuerier.scala	/^    val S = sentences(si.sentenceId)$/;"	C
+Sentence	./src/main/scala/corpus2/Sentence.scala	/^case class Sentence(sentenceId: Int, number: String, raw: String, clean: String, words: ListBuffer[Int]) {$/;"	c
+Sentence	./src/main/scala/corpus2/Sentence.scala	/^object Sentence {$/;"	o
+SentenceIdx	./src/main/scala/corpus2/SentenceIdx.scala	/^case class SentenceIdx(sentenceId: Int, wordIdx: Int, rawIdx: Int, cleanIdx: Int) {$/;"	c
+SentenceIdx	./src/main/scala/corpus2/SentenceIdx.scala	/^object SentenceIdx {$/;"	o
+SentenceParser	./src/main/scala/corpus2/SentenceParser.scala	/^object SentenceParser {$/;"	o
+SentenceQuerier	./src/main/scala/corpus2/SentenceQuerier.scala	/^object SentenceQuerier {$/;"	o
+User	./src/main/scala/corpus2/MongoHandler.scala	/^case class User(val name: String) extends MongoObject$/;"	c
+User	./src/main/scala/corpus2/MongoHandler.scala	/^object User extends MongoObjectShape[User] {$/;"	o
+Word	./src/main/scala/corpus2/Word.scala	/^case class Word(wordId: Int, word: String, lemma: String, pos: String, sentences: ListBuffer[SentenceIdx]) {$/;"	c
+Word	./src/main/scala/corpus2/Word.scala	/^object Word {$/;"	o
+addedToExistingWord	./src/main/scala/corpus2/SentenceParser.scala	/^      var addedToExistingWord = false$/;"	l
+apply	./src/main/scala/corpus2/Sentence.scala	/^  def apply(x: MongoDBObject): Sentence = {$/;"	m
+apply	./src/main/scala/corpus2/SentenceIdx.scala	/^  def apply(x: MongoDBObject): SentenceIdx = {$/;"	m
+apply	./src/main/scala/corpus2/Word.scala	/^  def apply(x: MongoDBObject): Word = {$/;"	m
+bncdoc	./src/main/scala/corpus2/SentenceParser.scala	/^      val bncdoc = ((xml \\\\ "bncDoc")(0) \\ "@id").text$/;"	C
+buildMaps	./src/main/scala/corpus2/SentenceParser.scala	/^  def buildMaps(ss: ListBuffer[Sentence],$/;"	m
+c2w	./src/main/scala/corpus2/SentenceParser.scala	/^  val c2w = Map.empty[String, Set[Word]];$/;"	C
+canEqual	./src/main/scala/corpus2/CorpusUtils.scala	/^      def canEqual(other: Any): Boolean = other.isInstanceOf[MyClass]$/;"	m
+clean	./src/main/scala/corpus2/Sentence.scala	/^    val clean = x.getAs[String]("clean").get$/;"	C
+clean	./src/main/scala/corpus2/SentenceParser.scala	/^      val clean = wordNode.text$/;"	C
+cleanIdx	./src/main/scala/corpus2/SentenceIdx.scala	/^    val cleanIdx = x.getAs[Int]("cleanIdx").get$/;"	C
+cleanIdx	./src/main/scala/corpus2/SentenceParser.scala	/^    var cleanIdx = 0;$/;"	l
+cleanS	./src/main/scala/corpus2/SentenceQuerier.scala	/^      val cleanS = sentences(si.sentenceId).clean$/;"	C
+collSentenceIdxs	./src/main/scala/corpus2/CabashHandler.scala	/^  val collSentenceIdxs = mongoDB("sentenceIdxs")$/;"	C
+collSentences	./src/main/scala/corpus2/CabashHandler.scala	/^  val collSentences = mongoDB("sentences")$/;"	C
+collWords	./src/main/scala/corpus2/CabashHandler.scala	/^  val collWords = mongoDB("words")$/;"	C
+corpora	./src/main/scala/corpus2/SentenceParser.scala	/^  val corpora = new ListBuffer[Corpus]$/;"	C
+corpus2	./src/main/scala/corpus2/CabashHandler.scala	/^package corpus2$/;"	p
+corpus2	./src/main/scala/corpus2/CorpusUtils.scala	/^package corpus2$/;"	p
+corpus2	./src/main/scala/corpus2/Driver.scala	/^package corpus2$/;"	p
+corpus2	./src/main/scala/corpus2/MongoHandler.scala	/^package corpus2$/;"	p
+corpus2	./src/main/scala/corpus2/Sentence.scala	/^package corpus2$/;"	p
+corpus2	./src/main/scala/corpus2/SentenceIdx.scala	/^package corpus2$/;"	p
+corpus2	./src/main/scala/corpus2/SentenceParser.scala	/^package corpus2$/;"	p
+corpus2	./src/main/scala/corpus2/SentenceQuerier.scala	/^package corpus2$/;"	p
+corpus2	./src/main/scala/corpus2/Word.scala	/^package corpus2$/;"	p
+count	./src/main/scala/corpus2/SentenceParser.scala	/^      def count(result: String, map: Map[String, Int]): Unit = {$/;"	m
+cursor	./src/main/scala/corpus2/CabashHandler.scala	/^    val cursor = mongoColl.find(MongoDBObject({ "clean" -> p }))$/;"	C
+db	./src/main/scala/corpus2/MongoHandler.scala	/^    val db = mongo.getDB("corpus");$/;"	C
+dbColl	./src/main/scala/corpus2/MongoHandler.scala	/^    val dbColl = db.getCollection("sentences");$/;"	C
+dirFile	./src/main/scala/corpus2/CorpusUtils.scala	/^    val dirFile = new File(dir)$/;"	C
+doc	./src/main/scala/corpus2/MongoHandler.scala	/^      val doc = new User("Abigail");$/;"	C
+doc	./src/main/scala/corpus2/SentenceParser.scala	/^      val doc = Document(documents.size, bncdoc, title, ListBuffer.empty[Int])$/;"	C
+documents	./src/main/scala/corpus2/SentenceParser.scala	/^  val documents = new ListBuffer[Document]$/;"	C
+dropExistingCollections	./src/main/scala/corpus2/CabashHandler.scala	/^    def dropExistingCollections() = {$/;"	m
+extractSentence	./src/main/scala/corpus2/SentenceParser.scala	/^  def extractSentence(doc: Document, s: Node): Unit = {$/;"	m
+files	./src/main/scala/corpus2/SentenceParser.scala	/^    val files = CorpusUtils.recursiveListFiles(new File(CORPUS_DIR + corpus), """.*\\.xml$""".r)$/;"	C
+findSentenceIdxsWithClean	./src/main/scala/corpus2/SentenceQuerier.scala	/^  def findSentenceIdxsWithClean(clean: String): Iterable[SentenceIdx] = (for (w <- c2w(clean)) yield (w2s(w))).flatten$/;"	m
+findWindowClean	./src/main/scala/corpus2/SentenceQuerier.scala	/^  def findWindowClean(cleanW: String, window: Int): Iterable[String] = {$/;"	m
+findWindowRaw	./src/main/scala/corpus2/SentenceQuerier.scala	/^  def findWindowRaw(cleanW: String, window: Int): Iterable[String] = {$/;"	m
+findWordsThatHaveMultiplePOS	./src/main/scala/corpus2/SentenceQuerier.scala	/^  def findWordsThatHaveMultiplePOS(): Unit = {$/;"	m
+findWordsWithClean	./src/main/scala/corpus2/SentenceQuerier.scala	/^  def findWordsWithClean(clean: String): Iterable[Word] = c2w(clean)$/;"	m
+good	./src/main/scala/corpus2/CorpusUtils.scala	/^    val good = these.filter(f => r.findFirstIn(f.getName).isDefined)$/;"	C
+hash	./src/main/scala/corpus2/CorpusUtils.scala	/^    var hash = 0$/;"	l
+i	./src/main/scala/corpus2/SentenceParser.scala	/^    var i = 0;$/;"	l
+indexCollections	./src/main/scala/corpus2/CabashHandler.scala	/^    def indexCollections() = {$/;"	m
+installMaps	./src/main/scala/corpus2/CabashHandler.scala	/^    def installMaps() = {$/;"	m
+lemma	./src/main/scala/corpus2/SentenceParser.scala	/^      val lemma = (wordNode \\ "@lemma").text.trim$/;"	C
+lemma	./src/main/scala/corpus2/Word.scala	/^    val lemma = x.getAs[String]("lemma").get$/;"	C
+listXmlFiles	./src/main/scala/corpus2/CorpusUtils.scala	/^  def listXmlFiles(dir: String): Array[File] = {$/;"	m
+loadCorpora	./src/main/scala/corpus2/SentenceParser.scala	/^  def loadCorpora(corporaStrs: String*): Unit = {$/;"	m
+loadCorpus	./src/main/scala/corpus2/SentenceParser.scala	/^  def loadCorpus(corpus: String): Unit = {$/;"	m
+loadCorpusTest	./src/main/scala/corpus2/Driver.scala	/^  def loadCorpusTest = loadCorpus("BNCBaby\/")$/;"	m
+loadDocumentsFromXML	./src/main/scala/corpus2/SentenceParser.scala	/^    def loadDocumentsFromXML(xmlFilenames: Array[String]): Unit = {$/;"	m
+loadDocumentsFromXML	./src/main/scala/corpus2/SentenceParser.scala	/^  def loadDocumentsFromXML(xmlFilenames: String*): Unit = {$/;"	m
+loadFromMongo	./src/main/scala/corpus2/CabashHandler.scala	/^  def loadFromMongo(): Unit = {$/;"	m
+loadSentence	./src/main/scala/corpus2/CabashHandler.scala	/^    def loadSentence(dbo: MongoDBObject) = sentences += Sentence(dbo)$/;"	m
+loadWord	./src/main/scala/corpus2/CabashHandler.scala	/^    def loadWord(dbo: MongoDBObject) = words += Word(dbo)$/;"	m
+loadXMLTest	./src/main/scala/corpus2/Driver.scala	/^  def loadXMLTest = {$/;"	m
+main	./src/main/scala/corpus2/Driver.scala	/^  def main(args: Array[String]): Unit = {$/;"	m
+makeDots	./src/main/scala/corpus2/SentenceQuerier.scala	/^    def makeDots(num: Int): String = { for (x <- 0 until num) yield "." } mkString$/;"	m
+makeHash	./src/main/scala/corpus2/CorpusUtils.scala	/^  def makeHash(objs: Any*): Int = {$/;"	m
+makeMaps	./src/main/scala/corpus2/SentenceParser.scala	/^      def makeMaps(): Map[Word => String, scala.collection.mutable.Map[String, Int]] =$/;"	m
+makePrefix	./src/main/scala/corpus2/SentenceQuerier.scala	/^    def makePrefix(cleanS: String, si: SentenceIdx): String = {$/;"	m
+makePrefix	./src/main/scala/corpus2/SentenceQuerier.scala	/^    def makePrefix(rawS: String, si: SentenceIdx): String = {$/;"	m
+makeSuffix	./src/main/scala/corpus2/SentenceQuerier.scala	/^    def makeSuffix(cleanS: String, si: SentenceIdx): String = {$/;"	m
+makeSuffix	./src/main/scala/corpus2/SentenceQuerier.scala	/^    def makeSuffix(rawS: String, si: SentenceIdx): String = {$/;"	m
+map	./src/main/scala/corpus2/Driver.scala	/^     val map = buildMaps(sentences, List(getClean(_), getPOS(_), getLemma(_)))$/;"	C
+maps	./src/main/scala/corpus2/SentenceParser.scala	/^          val maps = Map.empty[Word => String, Map[String, Int]]$/;"	C
+maps	./src/main/scala/corpus2/SentenceParser.scala	/^      val maps = makeMaps$/;"	C
+mongo	./src/main/scala/corpus2/MongoHandler.scala	/^  val mongo = new Mongo();$/;"	C
+mongoColl	./src/main/scala/corpus2/CabashHandler.scala	/^      val mongoColl = mongoDB("bar")$/;"	C
+mongoColl	./src/main/scala/corpus2/CabashHandler.scala	/^    val mongoColl = mongoDB("bar")$/;"	C
+mongoConn	./src/main/scala/corpus2/CabashHandler.scala	/^  val mongoConn = MongoConnection();$/;"	C
+mongoDB	./src/main/scala/corpus2/CabashHandler.scala	/^  val mongoDB = mongoConn("corpus");$/;"	C
+newWord	./src/main/scala/corpus2/SentenceParser.scala	/^          val newWord = Word(words.size, trim, lemma, partofspeech, LB)$/;"	C
+newWord	./src/main/scala/corpus2/SentenceParser.scala	/^        val newWord = Word(words.size, trim, lemma, partofspeech, LB)$/;"	C
+number	./src/main/scala/corpus2/Sentence.scala	/^    val number = x.getAs[String]("number").get$/;"	C
+number	./src/main/scala/corpus2/SentenceParser.scala	/^    val number = (s \\ "@n")(0).text$/;"	C
+oldCount	./src/main/scala/corpus2/SentenceParser.scala	/^          val oldCount = if (map.contains(result)) { map(result) } else { 0 }$/;"	C
+parseXML	./src/main/scala/corpus2/SentenceParser.scala	/^  def parseXML(xml: NodeSeq): Unit =$/;"	m
+partofspeech	./src/main/scala/corpus2/SentenceParser.scala	/^      val partofspeech = (wordNode \\ "@type").text.trim$/;"	C
+pos	./src/main/scala/corpus2/Word.scala	/^    val pos = x.getAs[String]("pos").get$/;"	C
+printDataStructures	./src/main/scala/corpus2/Driver.scala	/^  def printDataStructures = {$/;"	m
+queryCleanWithRegex	./src/main/scala/corpus2/CabashHandler.scala	/^  def queryCleanWithRegex(p: Pattern) {$/;"	m
+queryCleanWithRegex	./src/main/scala/corpus2/CabashHandler.scala	/^  def queryCleanWithRegex(s: String) {$/;"	m
+queryCleanWithRegex	./src/main/scala/corpus2/CabashHandler.scala	/^  def queryCleanWithRegex(s: String, caseInsensitive: Boolean) {$/;"	m
+raw	./src/main/scala/corpus2/Sentence.scala	/^    val raw = x.getAs[String]("raw").get$/;"	C
+rawIdx	./src/main/scala/corpus2/SentenceIdx.scala	/^    val rawIdx = x.getAs[Int]("rawIdx").get$/;"	C
+rawIdx	./src/main/scala/corpus2/SentenceParser.scala	/^    var rawIdx = 0;$/;"	l
+rawS	./src/main/scala/corpus2/SentenceQuerier.scala	/^      val rawS = sentences(si.sentenceId).raw$/;"	C
+recursiveListFiles	./src/main/scala/corpus2/CorpusUtils.scala	/^  def recursiveListFiles(f: File,$/;"	m
+saveSentence	./src/main/scala/corpus2/CabashHandler.scala	/^    def saveSentence(s: Sentence) = collSentences += s.toMongoDBObject()$/;"	m
+saveToMongo	./src/main/scala/corpus2/CabashHandler.scala	/^  def saveToMongo(): Unit = {$/;"	m
+saveToMongo	./src/main/scala/corpus2/MongoHandler.scala	/^  def saveToMongo(sentences: ListBuffer[Sentence]): Unit = {$/;"	m
+saveWord	./src/main/scala/corpus2/CabashHandler.scala	/^    def saveWord(w: Word) {$/;"	m
+sentence	./src/main/scala/corpus2/SentenceParser.scala	/^    val sentence = Sentence(sentenceId, number, wordNodes.mkString, s.text, wordIds)$/;"	C
+sentenceId	./src/main/scala/corpus2/Sentence.scala	/^    val sentenceId = x.getAs[Int]("sentenceId").get$/;"	C
+sentenceId	./src/main/scala/corpus2/SentenceIdx.scala	/^    val sentenceId = x.getAs[Int]("sentenceId").get$/;"	C
+sentenceId	./src/main/scala/corpus2/SentenceParser.scala	/^    val sentenceId = sentences.size$/;"	C
+sentenceIdx	./src/main/scala/corpus2/SentenceParser.scala	/^      val sentenceIdx = SentenceIdx(sentenceId, wordIdx, rawIdx, cleanIdx)$/;"	C
+sentences	./src/main/scala/corpus2/SentenceParser.scala	/^  val sentences = new ListBuffer[Sentence]$/;"	C
+si	./src/main/scala/corpus2/SentenceParser.scala	/^      val si = SentenceIdx(sentence, i);$/;"	C
+si	./src/main/scala/corpus2/SentenceQuerier.scala	/^    val si = findSentenceIdxsWithClean("legend").head$/;"	C
+sis	./src/main/scala/corpus2/SentenceParser.scala	/^  val sis = new ListBuffer[SentenceIdx](); \/\/ListBuffer.empty; \/\/needed?$/;"	C
+sis	./src/main/scala/corpus2/Word.scala	/^    val sis = new ListBuffer[SentenceIdx] ++= {$/;"	C
+testMongo	./src/main/scala/corpus2/MongoHandler.scala	/^  def testMongo(): Unit = {$/;"	m
+testQueries	./src/main/scala/corpus2/Driver.scala	/^  def testQueries = {$/;"	m
+testQuery	./src/main/scala/corpus2/CabashHandler.scala	/^  def testQuery(): Unit =$/;"	m
+testRaw	./src/main/scala/corpus2/SentenceQuerier.scala	/^  def testRaw = {$/;"	m
+these	./src/main/scala/corpus2/CorpusUtils.scala	/^    val these = dirFile.listFiles$/;"	C
+these	./src/main/scala/corpus2/CorpusUtils.scala	/^    val these = f.listFiles$/;"	C
+title	./src/main/scala/corpus2/SentenceParser.scala	/^      val title = (xml \\\\ "title")(0).text.trim$/;"	C
+toMongoDBObject	./src/main/scala/corpus2/Sentence.scala	/^  def toMongoDBObject(): MongoDBObject = MongoDBObject("sentenceId" -> sentenceId, "number" -> number, "raw" -> raw, "clean" -> clean, "words" -> words)$/;"	m
+toMongoDBObject	./src/main/scala/corpus2/SentenceIdx.scala	/^  def toMongoDBObject(wordId: Int): MongoDBObject = MongoDBObject("wordId" -> wordId, "sentenceId" -> sentenceId, "wordIdx" -> wordIdx, "rawIdx" -> rawIdx, "cleanIdx" -> cleanIdx)$/;"	m
+toMongoDBObject	./src/main/scala/corpus2/Word.scala	/^  def toMongoDBObject(): MongoDBObject = MongoDBObject("wordId" -> wordId, "word" -> word, "lemma" -> lemma, "pos" -> pos)$/;"	m
+trim	./src/main/scala/corpus2/SentenceParser.scala	/^      val trim = clean.trim.toLowerCase$/;"	C
+w2s	./src/main/scala/corpus2/SentenceParser.scala	/^  val w2s = Map.empty[Word, ListBuffer[SentenceIdx]];$/;"	C
+word	./src/main/scala/corpus2/Word.scala	/^    val word = x.getAs[String]("word").get$/;"	C
+wordBuffer	./src/main/scala/corpus2/Sentence.scala	/^    val wordBuffer = new ListBuffer[Int]()$/;"	C
+wordId	./src/main/scala/corpus2/SentenceParser.scala	/^      var wordId = -1;$/;"	l
+wordId	./src/main/scala/corpus2/Word.scala	/^    val wordId = x.getAs[Int]("wordId").get$/;"	C
+wordIds	./src/main/scala/corpus2/Sentence.scala	/^    val wordIds = for (w <- words.toArray) yield (w.asInstanceOf[Int])$/;"	C
+wordIds	./src/main/scala/corpus2/SentenceParser.scala	/^    val wordIds = new ListBuffer[Int]()$/;"	C
+wordIdx	./src/main/scala/corpus2/SentenceIdx.scala	/^    val wordIdx = x.getAs[Int]("wordIdx").get$/;"	C
+wordIdx	./src/main/scala/corpus2/SentenceParser.scala	/^    var wordIdx = 0;$/;"	l
+wordNodes	./src/main/scala/corpus2/SentenceParser.scala	/^    val wordNodes = new ListBuffer[Node]()$/;"	C
+wordSet	./src/main/scala/corpus2/SentenceParser.scala	/^        val wordSet = Set(newWord)$/;"	C
+words	./src/main/scala/corpus2/Sentence.scala	/^    val words = x.getAs[BasicDBList]("words").get;$/;"	C
+words	./src/main/scala/corpus2/SentenceParser.scala	/^  val words = new ListBuffer[Word]$/;"	C

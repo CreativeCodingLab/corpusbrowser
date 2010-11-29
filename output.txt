@@ -1,0 +1,280 @@
+[0m[[0minfo[0m] [0mBuilding project corpus2 1.0 against Scala 2.8.0[0m
+[0m[[0minfo[0m] [0m   using MongoProject with sbt 0.7.4 and Scala 2.7.7[0m
+> run
+[0m[[0minfo[0m] [34m[0m
+[0m[[0minfo[0m] [34m== compile ==[0m
+[0m[[0minfo[0m] [0m  Source analysis: 3 new/modified, 0 indirectly invalidated, 0 removed.[0m
+[0m[[0minfo[0m] [0mCompiling main sources...[0m
+[0m[[33mwarn[0m] [0m/Users/angus/ScalaProjects/corpus2/src/main/scala/corpus2/SentenceParser.scala:102: type Collection in package scala is deprecated: use Iterable instead[0m
+[0m[[33mwarn[0m] [0m  def buildMaps(ss : ListBuffer[Sentence], funcs: List[Word => String]): Collection[Map[String, Int]] =[0m
+[0m[[33mwarn[0m] [0m                                                                         ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0minfo[0m] [0mCompilation successful.[0m
+[0m[[0minfo[0m] [0m  Post-analysis: 53 classes.[0m
+[0m[[0minfo[0m] [34m== compile ==[0m
+[0m[[0minfo[0m] [34m[0m
+[0m[[0minfo[0m] [34m== copy-resources ==[0m
+[0m[[0minfo[0m] [34m== copy-resources ==[0m
+[0m[[0minfo[0m] [34m[0m
+[0m[[0minfo[0m] [34m== run ==[0m
+[0m[[0minfo[0m] [0mRunning corpus2.SentenceParser [0m
+cursor size = 61
+This article challenges the conceptual and practical appropriateness of applying the notion of punishment to the probation context.
+
+This non-punitive paradigm will provide a framework for contrasting the efficacy of current practice with future plans inappropriately to transform probation work into Ôa new approach to punishment in the communityÕ (p. 18, para. 4.3).
+
+This aim is underpinned by three interrelated objectives and it is not without significance how they complement and serve to implement the White Paper's own trinity of Ôaims of supervisionÕ, that is, protection of the public, prevention of reoffending and successful reintegration of the offender in the community (p. 35, para. 7.3).
+
+This is plainly evident from the section of the contract signed by each participant where what is expected of them is spelt out:
+
+This session allows for an in depth examination of the drinking diaries over the last five weeks Ñ identifying the risky circumstances or situationsÉ.
+
+This may be so for the population of probationers generally but does not apply to the AEC sample.
+
+This involved the collection and analysis of five different types of information: an alcohol knowledge test, a drink profile questionnaire, a drink diary, a consumer questionnaire and reconviction rate statistics.
+
+This means that there was an overall increase in the participants' alcohol knowledge between the start and the finish of the course of 50.5 per cent: not abstract knowledge, but knowledge that is relevant to drinking with associates in the pub or elsewhere.
+
+This is because the aim of the exercise is to provide the participants with a practical tool for monitoring their drinking: if they want to cheat, they will only be cheating themselves.
+
+This point was made by one commentator during the first review of the ÔProbation SystemÕ at the beginning of this century: his comments remain pertinent for the Home Office in their current review at the end of the century.
+
+This trend reflects a developing and successful specificity of probation practice: the pity is that this specificity of practice has not been complemented by a more appropriate specificity of language from the authors of the White Paper. 
+
+This paper then looks at the characteristics of the people who spent some or all of their time in such homes and at the care they got from general practitioners, community nurses and hospitals.
+
+This can be seen from the figures in Table 5 which also suggest that the longer the time they had lived in an old people's home the less likely they were to go into hospital.
+
+This lower use of hospital inpatient facilities was not accounted for by the older age of the people in residential homes although fewer of all those aged 85 or more had spent time in hospital Ñ 64 per cent against 80 per cent of those under 85.
+
+This showed that in practice relatively few, one in ten, of those who had spent any time in residential homes were thought to have been admitted Ôtoo lateÕ; this proportion was a quarter for those who had not spent any time in a residential home.
+
+This was similar to the proportion receiving help from district and other nurses among those who had not spent any time in such homes once sudden deaths and those who had spent all their last year in hospital have been excluded.
+
+This was very good.
+
+This question is considered for people who had been in such homes for a year or more.
+
+This compares with one in four of those living in the community who were felt to have relatives who might have helped more Ñ a difference which might well occur by chance.
+
+This probably reflects the perceptions of the respondents rather than a real difference in the actual quality of life of the people who died, although staff members may have been more willing to act as respondents for residents they had got on well with, and those residents may have had a better quality of life because of their relationship with the staff.
+
+This can be seen in Table 7.
+
+This paper examines the concepts of client or citizen participation in community work and of effectiveness in social work and other related fields.
+
+This paper will consider the issue in the context of community work, in which the elements accentuated by Rothman are of less consequence and client participation has indisputably remained a primary value.
+
+This question is important whether the client system be a social group, a committee of a functional community or a neighbourhood activist group.
+
+This kind of Ômotivational congruence between practitioners and clientsÕ was generally missing from the studies in the first wave of effectiveness research, they suggest (p. 338).
+
+This implies the connection between client participation and effectiveness that Bernstein (1960) (as quoted above) seems to take almost as axiomatic, and which we would like to demonstrate empirically.
+
+This model is clearly process oriented.
+
+This means that Ôorganizational assessment is best conceived of not as a one-shot affair, but as an ongoing processÕ (Miles, 1980, p. 380).
+
+This, then, is the model which seems to us most appropriate for attempting empirically to answer our question: How can we measure the effects of client participation on the effectiveness of social work intervention?
+
+This, however, is particularly grave with sections because of civil liberties implications.
+
+This article examines general practitioners (GPs) as referrers, and women as the subject of referral for section under the 1983 Act.
+
+This is interesting, both because of the serious consequences of a mental health section, and because of concern expressed about sexist practice by GPs in other areas of their work (Barrett and Roberts, 1978; Cooperstock, 1978).
+
+This is primarily carried out under sections 2, 3, and 4, although section 5 provides for doctor and nurse holding powers, police powers exist under section 136 and courts have powers to direct individuals into hospital (for example, section 37).
+
+This is consistent with trends identified by Barnes et al .
+
+This may be related to a relative lack of social stability: being more frequently single and in less permanent accommodation.
+
+This still leaves the issue of the process by which more women were referred. 
+
+This indicates a significantly greater diversion of women, following ASW assessment, generally with a psychiatrist, away from compulsory admission when referred by GPs.
+
+This combination of data Ñ an excess of GP over other referrals of women, together with a significantly greater likelihood of diversion of women referred by GPs away from compulsory admission compared with other female referrals Ñ suggests apparent discrimination on the part of GPs against women.
+
+This shows a noticeable excess of women referred by GPs over other female referrals who were not admitted at all.
+
+This group involves women who were considered to need assessment or treatment, but where compulsion was not considered necessary.
+
+This suggests the significance of specialist workers in two possible ways: either preventing compulsion where there was insufficient risk to the patient or others, or persuading those who would otherwise have been sectioned to enter hospital informally.
+
+This was a woman in her twenties who was considered to be schizophrenic.
+
+This search for a medical solution, then, may present a serious threat to civil liberties.
+
+This suggests GPs were attempting to deal, both medically and compulsorily, and only in the case of women, with problems which at subsequent assessment were considered to be primarily about social relationships.
+
+This may be because the GP's previous contact with the family facilitated such contact or that a balance to the GP's assessment was sought.
+
+This suggests, perhaps, two possibilities.
+
+This strongly indicates that it is only males who have the status and power to provide, in the eyes of the relevant professionals, a credible challenge to the GP.
+
+This shows significant differences: women's wishes were taken into account most frequently when they were informally admitted or not admitted.
+
+This creates a strongly patriarchal image: of women as the hapless subjects where, in the face of the (professionally powerful) GP referral, it was through ASW consultation with males that a potential section was averted, or the duration of a section was shortened.
+
+This is, of course, a not surprising by-product of some forms of mental illness and some women, despite this, might still argue that they were needed at home.
+
+This is most clearly the case in referrals where relationship problems were considered primary and where no compulsory admission took place.
+
+This is particularly the case in relation to social and familial factors considered, and the members of the individual's social network interviewed, as part of the assessment process.
+
+This bias is reflected in practice, where medicine's primary concern is with the biophysical consequences of diagnosis and treatment, not its social causes and consequences (Freidson, 1970).
+
+This, Huntington (1981) thinks, is allied to an action orientation: a predilection for ÔdoingÕ traceable back to teaching hospitals, where the dominant image of the emergency prevails.
+
+This does not mean that legal rights are entirely ignored, but it does mean the scope for making decisions primarily based on illness is increased.
+
+This involves the balance of emphasis placed on the mental health status of the patient versus the social risk they present (to the health or safety of the patient or protection of others).
+
+This mental health orientation leads to a more pessimistic outlook on patient needs Ñ they not only require treatment, but it is assumed that it must be compulsory Ñ and there is a tendency towards a Ôpresumption of riskÕ Ñ that the presence of mental illness makes the situation inherently risky.
+
+This is consistent with the behaviour of these GPs: placing mental illness to the fore when the problem may be primarily social, and seeking a compulsory rather than voluntary route.
+
+This leaves women in a catch 22 Ôwhether to exhibit those positive characteristics considered desirable for men and adults and have their Ôfemininity'Õ questionedÉ or to behave in the prescribed feminine manner [and] accept second class adult status' (Broverman et al .,
+
+This takes medical ideology to an extreme point.
+
+This involves a medical solution in so far as GPs seek medical care in a hospital environment.
+
+
+
+***
+
+
+cursor size = 9
+The results indicate GPs discriminated against women, referring considerably more women than men with less emphasis on major (psychotic) mental illness.
+
+There was a tendency, however, for female GP referrals to involve less major mental illness than others, although differences were not significant.
+
+The pattern of social and mental health problems indicates GPs were more sensitized to mental health and illness, and that this played a significant part in choice of referral.
+
+This is, of course, a not surprising by-product of some forms of mental illness and some women, despite this, might still argue that they were needed at home.
+
+Viewed from the subsequent assessment, GPs mostly correctly identified individuals with mental illness.
+
+This does not mean that legal rights are entirely ignored, but it does mean the scope for making decisions primarily based on illness is increased.
+
+This mental health orientation leads to a more pessimistic outlook on patient needs Ñ they not only require treatment, but it is assumed that it must be compulsory Ñ and there is a tendency towards a Ôpresumption of riskÕ Ñ that the presence of mental illness makes the situation inherently risky.
+
+This is consistent with the behaviour of these GPs: placing mental illness to the fore when the problem may be primarily social, and seeking a compulsory rather than voluntary route.
+
+Since medical advice has the force of moral imperative, health and illness are concepts expanding to ever increasing parts of human existence (Zola, 1975).
+
+
+
+***
+
+
+cursor size = 26
+In the sections to follow the stark question is therefore put ÔIs the Probation Service in the business of inflicting pain?Õ and the answer which unfolds may be summarized ÔNo, because it neither aspires nor wishes to!Õ 
+
+Methodological objections could be made to comparing the two groups because of the different periods of time monitored, that is, for prisoners the period of time refers to after the sentence has been served whereas for probationers it is after the sentence has been imposed.
+
+Moreover, it could be argued that prisoners are more at risk of further offences than probationers because of, first, their commission of relatively more serious offences, and second, their more extensive and therefore more entrenched criminal careers.
+
+The possibility that the sample's previous convictions simply reflected persistent petty offending can be discounted because over a third had already received a custodial sentence (37 per cent); a further fifth community service (20 per cent); and nearly another fifth a probation or supervision order (17 per cent).
+
+Regarding behaviour, participants were asked to indicate from always (five points) to never (one point) the frequency of instances occurring where, for example, they got drunk even when they did not intend to; their drinking left them short of cash; they drank to help themselves deal with a crisis; and they missed meals because they wanted to drink instead.
+
+This is because the aim of the exercise is to provide the participants with a practical tool for monitoring their drinking: if they want to cheat, they will only be cheating themselves.
+
+Moreover, children attending school and adults turning up for work inevitably have their liberty restricted: simply because the engagement in one activity necessarily restricts their opportunity to participate in other activities, that is, restriction by effect.
+
+So the evidence suggests that because of their age and frailty those living in residential homes will have needed more care during the last year of their lives than other people who died.
+
+The doctor had not been asked to come more often Ôbecause we're resigned to the fact that, unless it's an emergency, he won't come out.Õ
+
+The matron also told us that this patient had to go into a nursing home Ôtowards the endÕ because Ôshe needed morphine injections which the doctor wouldn't give otherwise she wouldn't have had to move to somewhere strange.
+
+The whole point of his being there was because of his condition.
+
+Limited Ñ not because they didn't want to care, they just didn't know how to care for this type of patientÉ.
+
+Because of her awkward manipulative ways she just didn't get any visitors.
+
+She did get visits from other visitors but they wore off because of her awkwardness.
+
+This probably reflects the perceptions of the respondents rather than a real difference in the actual quality of life of the people who died, although staff members may have been more willing to act as respondents for residents they had got on well with, and those residents may have had a better quality of life because of their relationship with the staff.
+
+He was worried because he was deaf, worried because of his bowels.
+
+Because of the nature of the sample this study could not ascertain the views of residents themselves.
+
+This, however, is particularly grave with sections because of civil liberties implications.
+
+This is interesting, both because of the serious consequences of a mental health section, and because of concern expressed about sexist practice by GPs in other areas of their work (Barrett and Roberts, 1978; Cooperstock, 1978).
+
+Because they occupy key positions in primary care, they are for most people the most accessible caring profession, and psychiatry is considered by doctors to be primarily their occupational territory.
+
+The noticeable familial disruption occurring in other cases is particularly interesting because it reflects social role expectations of women, where the primary role traditionally is that of homemaker, family manager, and housewife (Oakley, 1981).
+
+She had left home and was refusing to return because of the Ôweird thingsÕ that were going on.
+
+The more frequent presence of social problems among female GP referrals is interesting here because these might be expected to raise the possibility of alternative referral (for example, to a social worker) and management.
+
+This may be because the GP's previous contact with the family facilitated such contact or that a balance to the GP's assessment was sought.
+
+Second, the male family members, because they are male, are given a credibility Ñ and hence power Ñ to influence non admission not given to female members.
+
+A possible (relatively) benign explanation might be presented for GPs' failure to pursue a non compulsory route: that women, whose conventional role involves running the home and family, would be less willing to go into hospital precisely because of their feelings of responsibility for others in the home.
+
+
+
+***
+
+
+cursor size = 18
+In the sections to follow the stark question is therefore put ÔIs the Probation Service in the business of inflicting pain?Õ and the answer which unfolds may be summarized ÔNo, because it neither aspires nor wishes to!Õ 
+
+To increase knowledge about alcohol so that future alcohol use can be more informed and therefore more prudent.
+
+In a review of reconviction rates, for example, a Home Office report concluded: ÔThose given probation orders were therefore less likely to be reconvicted within two years of being given probation than those released from custodyÕ (Home Office, 1986, p. 5).
+
+Moreover, it could be argued that prisoners are more at risk of further offences than probationers because of, first, their commission of relatively more serious offences, and second, their more extensive and therefore more entrenched criminal careers.
+
+Accordingly, the AKT was administered during the first and last of the group sessions and constituted a straightforward method for evaluating the success of the first course objective: specifically, to increase participants' alcohol knowledge so that future alcohol use can be more informed and therefore more prudent.
+
+These variations reflect the fact that siblings themselves age and die and therefore become less of a source of support as people grow older.
+
+The level of participation becomes, therefore, a function of the motivation of the partners.
+
+Probably, therefore, Cameron (1986) is right when, after summarizing five areas of agreement on effectiveness and three areas of conflict, he concludes that Ôagreement about effectiveness is mainly an agreement to disagreeÕ (p. 544).
+
+We learn, therefore, two important lessons: deciding before intervention what our goals and objectives are, if possible a common decision of all the participants (though separate, if not conflicting decisions would be legitimate); and setting criteria and measurement indicators to show the relationship between participation and effectiveness.
+
+They are likely, therefore, to be the first profession approached by, for example, relatives, for assessment.
+
+There is, therefore, a variety of possible outcomes following a referral.
+
+Although, therefore, quite high, the rate of referral in this study was well within the range for different areas.
+
+GPs, therefore, more frequently resorted to section referrals for women with neurotic and social problems than is evident in other referrals.
+
+Consulting both male and female family members was therefore associated with briefer section periods, but only males were associated with non admission.
+
+They therefore made little attempt, for example in relation to family history, income, education, and criminal history, to collect information on social circumstances.
+
+It is reasonable to suppose, therefore, that in relation to social factors influencing decision making, the ASW played an important part.
+
+The injection of a more psychosocial perspective, therefore, diverted some women away from sections, and even informal hospitalization.
+
+Valium, therefore, is frequently prescribed for problems such as loneliness and marital discord, the latter interestingly considerably more evident in female than male section referrals in our study.
+
+
+
+***
+
+
+done!!!
+[0m[[0minfo[0m] [34m== run ==[0m
+[0m[[32msuccess[0m] [0mSuccessful.[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal time: 10 s, completed Aug 30, 2010 2:52:33 AM[0m
+> [0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal session time: 11 s, completed Aug 30, 2010 2:52:33 AM[0m
+[0m[[32msuccess[0m] [0mBuild completed successfully.[0m

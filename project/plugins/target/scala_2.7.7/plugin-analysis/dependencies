@@ -1,0 +1,12 @@
+#Source Dependencies
+#Sun Nov 28 18:11:27 PST 2010
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/Utils.scala=src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ProjectFile.scala\:src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathFile.scala
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ProjectFile.scala=src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/SbtEclipsify.scala
+src_managed/sbt-scalariform-1.0.1/SourceTask.scala=src_managed/sbt-scalariform-1.0.1/ScalariformPlugin.scala
+src_managed/sbt-scalariform-1.0.1/ScalariformPlugin.scala=
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathFile.scala=src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/SbtEclipsify.scala
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathEntry.scala=src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathFile.scala
+src_managed/sbt-scalariform-1.0.1/ScalariformOptions.scala=src_managed/sbt-scalariform-1.0.1/ScalariformPlugin.scala
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/Filter.scala=src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathEntry.scala\:src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathFile.scala
+src_managed/sbt-scalariform-1.0.1/Actions.scala=src_managed/sbt-scalariform-1.0.1/ScalariformPlugin.scala
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/SbtEclipsify.scala=src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ProjectFile.scala\:src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/Utils.scala\:src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathFile.scala

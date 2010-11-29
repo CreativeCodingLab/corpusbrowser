@@ -1,0 +1,366 @@
+package gui
+
+
+import swing._ //{ MainPanel, Panel, Component, LayoutContainer, Orientation }
+import swing.event._
+import scala.Enumeration
+import scala.collection.mutable._
+import java.awt.{ Dimension, Color, Rectangle, Polygon, Shape, Toolkit }
+import java.awt.image._
+import javax.swing.RepaintManager
+import java.awt.Font
+import java.awt.FontMetrics
+import java.awt.RenderingHints
+import scala.swing.event.Key._
+import javax.swing.SwingConstants
+import CorpusData._
+import corpus2._
+import corpus2.Driver._
+
+//need to make sure mouse stuff doesn't happen if NO corpora attached to navigate panel...
+class SentencePanel extends Panel{
+}
+
+  public DataSentence dataSentence = null;
+
+  public int sentenceId = -1;
+  JScrollPane jsp;
+  SentenceHolder2 sentenceHolder;
+  
+  public SentencePanel2()
+  {
+    setLayout(new BorderLayout());
+
+    sentenceHolder = new SentenceHolder2(this);
+    sentenceHolder.setMinimumSize(new Dimension(300, 700));
+    sentenceHolder.setPreferredSize(new Dimension(300, 700));
+
+    jsp = new JScrollPane(sentenceHolder, ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED,
+            ScrollPaneConstants.HORIZONTAL_SCROLLBAR_ALWAYS);
+
+    add(jsp, BorderLayout.CENTER);
+  }
+  
+  public void newSentence(int sentenceId)
+  {
+    System.out.println("in SentencePanel : in newSentence(), sentenceId = " + sentenceId );
+    this.sentenceId = sentenceId;
+
+    this.dataSentence = Main.project.sentenceIdToSentenceMap.get(sentenceId);
+ 
+    if (dataSentence == null)
+    {
+      System.out.println("dataSentence is null!");
+      //clear stuff and return...
+      return;
+    }
+    System.out.println("dataSentence = "  +dataSentence);
+    sentenceHolder.dataSentence = dataSentence;
+    sentenceHolder.setPreferredSize(new Dimension(sentenceHolder.getWidth(), sentenceHolder.getHeight()));
+    sentenceHolder.revalidate();
+    sentenceHolder.repaint();
+    repaint();
+  }
+}
+ 
+class SentenceHolder2 extends JComponent implements ComponentListener
+{
+  SentencePanel2 sentencePanel = null;
+  DataSentence dataSentence = null;
+  Font bigFont = new Font("Lucida Console", Font.PLAIN, 14); 
+  Font smallFont = new Font("Lucida Console", Font.PLAIN, 10); 
+  
+  public SentenceHolder2(SentencePanel2 sentencePanel)
+  {
+    this.sentencePanel = sentencePanel;
+    addComponentListener(this);
+  }
+
+  //assuming a word part-of-speech
+  public Color getColorForPos(String pos)
+  {
+    if (pos == null)
+    {
+      return Color.GRAY;
+    }
+    
+    if (pos.startsWith("n"))
+    {
+      return Color.RED;
+    }
+    else if (pos.startsWith("v"))
+    {
+      return Color.BLUE;
+    }
+    else if (pos.startsWith("a"))
+    {
+      return Color.GREEN;
+    }
+    else if (pos.startsWith("c"))
+    {
+      return Color.ORANGE;
+    }
+    else if (pos.startsWith("p"))
+    {
+      return Color.PINK;
+    }
+    else if (pos.startsWith("o"))
+    {
+      return Color.YELLOW;
+    }
+    else if (pos.startsWith("c"))
+    {
+      //return Color.BLACK;
+    }
+      
+    return Color.GRAY;
+  }
+  
+
+
+  private void displaySentenceFingerprint(Graphics2D g)
+  {
+    int margin = 0;
+    int pw = (getWidth() - (margin*2)) / dataSentence.posIds.size();
+    int remainder = (getWidth() - (margin*2)) - (pw * dataSentence.posIds.size());
+    double remainder_point = (double) ((double)dataSentence.posIds.size()/(double)remainder);
+    
+    double offset = 0.0;
+    double r_off = 0.0;
+    int curx = margin;
+    //int curx = 0;
+    //System.out.println("***\nCHUNK = " + pw + " REMAIN = " + remainder);
+    //System.out.println("REMAINDER POINT = " + remainder_point);
+    Color c;
+    for (int i = 0; i < dataSentence.posIds.size(); i++)
+    {
+      // draw pretty squares
+      c = getColorForPos(Main.project.posHash.get(dataSentence.posIds.get(i)));
+      g.setColor(c);
+      
+      int wid = pw;
+      if (i > r_off)
+      {
+        //System.out.println("------ idx " + i + " > remainderpoint " + r_off);
+        wid++;
+        r_off += remainder_point;
+      }
+      if (curx + wid > getWidth() - (margin))
+      {
+        wid = getWidth() - (margin) - curx;
+      }
+      
+      //g.fillRect(curx, getHeight() - 40, wid - 1, 20);
+      g.fillRect(curx, 4, wid - 1, 20);
+      
+      curx+=wid;
+    }
+  }
+
+  //actually, store this as Rectangle2Ds or whatever so that they can be selcted, etc
+  //Also, should be able to display tokens as well as words and pos, and
+  //also lemmatized words (to do)
+  public void displayWords(Graphics2D g2)
+  {
+    //System.out.println("in SentenceHolder2 : in displayWords()");
+    dataSentence.printTokens();
+    
+    Color c;
+    
+    int xpos2 = 20;
+    int strw = 0;
+    int strwtrim = 0;
+    int spacer = 18;
+    int ypos = 30;
+    boolean startsWithPunc = false;
+    boolean firstWordOfLine = true;
+    
+    FontMetrics metrics;
+    
+    //System.out.println("tokenMappers size = " + dataSentence.tokenMappers.size());
+    if (dataSentence.tokenMappers.size() == 0)
+    {
+      return;
+    }
+
+    String wordStr;
+    String totalPosStr;
+    List<String> posStrs;
+    
+    for (int i = 0; i < dataSentence.tokenMappers.size(); i++)
+    {
+      TokenMapper tm = dataSentence.tokenMappers.get(i);
+
+      //build wordStr//
+      wordStr = "";
+      for (Integer wordId : tm.wordIds)
+      {
+        wordStr += Main.project.wordHash.get(wordId);
+      }
+      
+      /*
+      for (Integer wordId : tm.tokenIds)
+      {
+        wordStr += Main.project.tokenHash.get(wordId);
+      }
+      */
+      
+      //draw wordStr//
+      g2.setFont(bigFont);
+      metrics = g2.getFontMetrics();
+    
+      g2.setColor(Color.DARK_GRAY);
+            
+      //g2.drawString(p, xpos, 50);
+      strw = metrics.stringWidth(wordStr);
+      strwtrim = metrics.stringWidth(wordStr.trim());
+      if (wordStr.trim().length() < 1)
+      {
+        continue;
+      }
+      
+      //if ( wordStr.matches("^\\p{Punct}.*") )
+      if ( wordStr.matches("^[!\"#$%&'()*+,-./:;=?@\\[\\]^_`{|}~].*" ) )
+      //if ( wordStr.matches("^[.,!].*" ) )
+      {
+        //System.out.println("begins with punc!");
+        xpos2 -= spacer; //metrics.stringWidth(" ");
+        startsWithPunc = true;
+      }
+    
+      if (xpos2 + strw > getWidth() - 40 && !startsWithPunc)
+      {
+        xpos2 = 21;
+        ypos += 35;
+        firstWordOfLine = true;
+      }
+      //System.out.println("xpos2 is at : " + xpos2);
+    
+      g2.drawString(wordStr, xpos2, ypos);
+   
+      
+      //build posStr//
+      totalPosStr = "";
+      posStrs = new ArrayList<String>();
+      for (Integer posId : tm.posIds)
+      {
+        String p = Main.project.posHash.get(posId);
+
+        if (p.indexOf('w') != 0 && p.indexOf('W') != 0 
+                //&& p.indexOf('c') != 0 && p.indexOf('C') != 0 
+              )
+        {
+          continue;
+        }
+     
+        p = p.substring(2, p.length()).trim();
+        
+        totalPosStr += " " + p;
+        posStrs.add(p.trim());
+      }
+      
+      totalPosStr = totalPosStr.trim();
+      //draw posStr//
+      //if (posStr.length() < 1) continue;
+      g2.setFont(smallFont);
+      metrics = g2.getFontMetrics();
+      
+      int strw2 = metrics.stringWidth(totalPosStr);
+      int xpos3 = xpos2 + (strwtrim / 2) - (strw2 / 2);
+   
+      if (firstWordOfLine == true && strw2 > strwtrim)
+      {
+        xpos3 = xpos2;
+      }
+
+      
+      for (String pos : posStrs)
+      {
+        c = getColorForPos(pos.toLowerCase());
+        g2.setColor(c);
+     
+        g2.drawString(pos + " ", xpos3, ypos + 12);
+        xpos3 += metrics.stringWidth(pos + " ");
+      }
+      //System.out.println("wordStr = <" + wordStr + ">");
+        
+      xpos2 += strw + spacer;
+      firstWordOfLine = false;
+      startsWithPunc = false;
+      
+    }
+  }
+    
+
+  
+  @Override
+  public void paintComponent(Graphics g)
+  {
+    System.out.println("in SentenceHolder2 : in paintComponent()");
+    if (dataSentence == null)
+    {
+      System.out.println("in SentenceHolder2 : in paintComponent() : dataSentence == null");
+      return;
+    }
+		//System.out.println("repainting SentencePanel : " + System.currentTimeMillis());
+   
+    Graphics2D g2 = (Graphics2D) g;
+    
+    g2.setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING, RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
+    g2.setFont(new Font("Arial", Font.PLAIN, 12));
+    
+    //g.setColor(Color.LIGHT_GRAY);
+    g.setColor(Color.WHITE);
+    g.fillRect(0,0,getWidth(), getHeight());
+    
+    g.setColor(Color.BLACK);
+    g.drawLine(0,1,getWidth(),1);
+    
+    
+    System.out.println("in SentenceHolder2 : in paintComponent() : dataSentence id = " + dataSentence.sentence_id);
+    if (dataSentence.posIds.size() == 0)
+    {
+      System.out.println("in SentenceHolder2 : in paintComponent() : posIds.size = 0");
+      return;
+    }
+    
+    FontMetrics metrics = g.getFontMetrics();
+    //int fontHeight = metrics.getHeight();
+    
+    displayWords(g2);
+    //displaySentenceFingerprint(g2);
+    
+    //this just draws the sentence_id, later have more interesing stats
+    g2.setFont(bigFont);
+    g.setColor(Color.BLACK);
+    int strw = metrics.stringWidth("" + dataSentence.sentence_id);
+    //g.drawString("" + sentencePanel.getSentenceId(), getWidth() - 10 - strw,  41);
+  }
+
+  
+  public void componentHidden(ComponentEvent e)
+  {
+  }
+
+  public void componentMoved(ComponentEvent e)
+  {
+  }
+
+  public void componentResized(ComponentEvent e)
+  {
+    System.out.println("in SentenceHolder : in componentResized()");
+    setPreferredSize(new Dimension(300, getHeight()));
+    sentencePanel.jsp.revalidate();
+    repaint();
+    sentencePanel.repaint();
+  
+    repaint();
+    //updateView();
+  }
+
+  public void componentShown(ComponentEvent e)
+  {
+  }
+}
+
+
