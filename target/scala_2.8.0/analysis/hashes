@@ -1,24 +1,25 @@
 #Source Hashes
-#Sun Nov 28 18:13:24 PST 2010
+#Sat Dec 04 18:38:38 PST 2010
 src/main/scala/gui/CorpusData.scala=978da9213a5de979991983edc5618ae164eb4fba
 src/main/scala/corpus2/Sentence.scala=719715c8dadb5fb15eb08d9192826c48523d9769
 src/main/scala/corpus2/CabashHandler.scala=a644d7f1936e255a24d5d6642a7a1ee6681204d0
 src/main/scala/gui/TreePanel.scala=25e6671fe971bafaa9b31e956189c9c2f5efcf9f
 src/main/scala/gui/MigLayout.scala=1f392a5cc8bd65c650351da5826a1ec0c77b1615
 src/main/scala/gui/CorpusMenuBar.scala=9c75ee6b8f54b3f26956b3f983c85467062d9c4b
-src/main/scala/patterns/SearchPattern.scala=c90af11f09ce1efcf2185869301d8b50103b240e
+src/main/scala/patterns/SearchPattern.scala=7aea8edf9046af25b9f1a754a2a1dd011b691138
 src/main/scala/corpus2/CorpusUtils.scala=6e0083f46ababeeb44a7fb86c3d7af0ec1d8235a
 src/main/scala/corpus2/MICASESentenceParser.scala=fd5ff64c19989ff35b4cfe24bd9d67ef1de530c5
+src/main/scala/gui/ConcordancePanel.scala=d3238552233c6595d20f0e1bae6d5d00433bcfeb
 src/main/scala/corpus2/Driver.scala=db5c7a430a92f06de4351912e6f31452fe6629d3
-src/main/scala/corpus2/SentenceParser.scala=2a51db7fb310264a568e2c2b509d97028ea6e04e
-src/main/scala/gui/DispersionPanel.scala=8df9b72f8442aec7e7342fc549a486a66807118f
-src/main/scala/corpus2/SentenceIdx.scala=315ba124ac8c1008b9c387ff2d948a8c069ff5ae
+src/main/scala/corpus2/SentenceParser.scala=2da68d43b12ebe410d1a0a6552a82ef66479b1d9
+src/main/scala/gui/DispersionPanel.scala=addc99f06afa8a7436ffff931163a8af83f6d7a4
+src/main/scala/corpus2/SentenceIdx.scala=6a5cff1417070f3209a8f6b3a59dea6fdc6dc3b8
 src/main/scala/gui/SentencePanel.scala=8cf95f18e99c22751641c723c1b29df1c44f35a2
 src/main/scala/gui/PatternPanel.scala=16af1d4df86ec0b12296e0cff1a1c3580de6774e
-src/main/scala/gui/Main.scala=b87ec5d8d1a45638c2ffbed0ed51af72b95a6a15
+src/main/scala/gui/Main.scala=e83685842cfa9d8838beecc57dc6e4450609f1e1
 src/main/scala/corpus2/MongoHandler.scala=281a764f90d5c5438f8bed7e3c351cd125873f19
 src/main/scala/gui/NavigatePanel.scala=e91b708ee330f07e5f43ab56412b07cbc74fc448
-src/main/scala/gui/NavigatePanelOld.scala=b490e1c38b2f911533a3e4e8b9f18d9dcd34cd24
 src/main/scala/corpus2/SentenceQuerier.scala=6baf366c72c3a920e286f97fe765fcf38a1cda75
-src/main/scala/corpus2/Word.scala=222da2434e119a21bfe345d950dd3435a675aca0
+src/main/scala/gui/NavigatePanelOld.scala=b490e1c38b2f911533a3e4e8b9f18d9dcd34cd24
+src/main/scala/corpus2/Word.scala=c19db5fa20a1a5de4cfc7e9a0d9b05e095923c82
 src/main/scala/corpus2/ExpressionIdx.scala=47ce74052d0175e46dfaaebef9f9d5223fb3dc01

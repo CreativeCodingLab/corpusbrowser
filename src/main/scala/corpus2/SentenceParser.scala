@@ -177,7 +177,11 @@ else {
       */
 
       positionIdxs += PositionIdx(sentenceId, wordIdx, 
-              rawIdx, rawIdx + rawStr.length, cleanIdx, cleanIdx + clean.length, posIdx, posIdx + partofspeech.length)
+              rawIdx, rawIdx + rawStr.trim.length, cleanIdx, cleanIdx + clean.trim.length, posIdx, posIdx + partofspeech.trim.length)
+      // positionIdxs += PositionIdx(sentenceId, wordIdx, 
+      //         rawIdx, rawIdx + rawStr.length, cleanIdx, cleanIdx + clean.length, posIdx, posIdx + partofspeech.length)
+      // positionIdxs += PositionIdx(sentenceId, wordIdx, 
+      //         rawIdx, rawIdx + rawStr.length - 1, cleanIdx, cleanIdx + clean.length - 1, posIdx, posIdx + partofspeech.length - 1)
 
 
       //4. increment the indexes

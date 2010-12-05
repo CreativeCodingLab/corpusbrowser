@@ -24,7 +24,6 @@ import scala.collection.JavaConversions._
 import java.util.concurrent.ConcurrentMap
 import java.util.concurrent._
 
-//need to make sure mouse stuff doesn't happen if NO corpora attached to navigate panel...
 class DispersionPanel extends PatternPanel {
 
   val LEFT_MARGIN = 5
@@ -48,8 +47,12 @@ class DispersionPanel extends PatternPanel {
     super.updatePanel(sIdxs)
     numSentenceIdxs = sIdxs.size
     
+    println("updating DispersionPanel")
+    
     patternToPositionIdxs.clear
     for (p <- patterns) { patternToPositionIdxs += p -> p.getPositionIndexesOfMatchingSentence(sIdxs) } 
+
+    for (p <- patterns) { p.printCurrentMatchedTokens(sIdxs) }
 
     repaint
   }
@@ -64,21 +67,21 @@ class DispersionPanel extends PatternPanel {
     def clear(g2: Graphics2D) {
       g2.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON)
       g2.setColor(Color.WHITE);
-      g2.fillRect(0,0,size.width, size.height);
+      g2.fillRect(0,0, size.width, size.height);
     }
 
     override def paintComponent(g2: Graphics2D) {
 
       clear(g2)
 
-      val sectionWidth = dividerWidth(patterns.size)
-      val plotPerc = calculatePlotPercent
-      val colBottom = makeBottom 
-      val colTitleY = makeTitleY 
-      val colWidth = makeWidth(sectionWidth)
-      val rectHeight = if (numSentenceIdxs > 0) {calculatePlotHeight / numSentenceIdxs} else 0
-
+      
       for (i <- 0 until patterns.size; p = patterns(i)) {
+        val sectionWidth = dividerWidth(patterns.size)
+        val plotPerc = calculatePlotPercent
+        val colBottom = makeBottom 
+        val colTitleY = makeTitleY 
+        val colWidth = makeWidth(sectionWidth)
+        val rectHeight = if (numSentenceIdxs > 0) {calculatePlotHeight / numSentenceIdxs} else 0
         val colLeft = makeLeft(i, sectionWidth); 
 
         drawBorder

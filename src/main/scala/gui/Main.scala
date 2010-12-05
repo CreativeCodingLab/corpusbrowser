@@ -23,21 +23,35 @@ import patterns._
 
 object Main extends SimpleSwingApplication {
 
-   Driver.loadBNCTest
-
+  Driver.loadBNCTest
 
   val sentencePanels = new ListBuffer[SentencePanel] //all of these need to be updated when the navigate panel current sentence changes
   val patternPanels = new ListBuffer[PatternPanel] //all of these need to be updated when the navigate panel view changes
 
   val navigatePanel = new NavigatePanel
 
+  //start with this one for testing also
+  val concordancePanel = new ConcordancePanel
+  patternPanels += concordancePanel
+  
   //start with this one for testing
   val dispersionPanel = new DispersionPanel
-  patternPanels += dispersionPanel
+  //patternPanels += dispersionPanel
+
+
   //dispersionPanel.patterns += new WordPattern("answer")
   //dispersionPanel.patterns += new CleanSentenceRegexPattern("""(?i)aware of.*not""".r)
-  dispersionPanel.patterns += new CleanSentenceRegexPattern("""hat are the dimen""".r)
+  //concordancePanel.patterns += new CleanSentencePattern("""hat are the""".r)
+  concordancePanel.patterns += new CleanSentencePattern("""here""".r)
+  //dispersionPanel.patterns += new CleanSentencePattern("""hat are the""".r)
   //dispersionPanel.patterns += new WordRegexPattern("""^t.*t$""")
+
+  //dispersionPanel.patterns += new CleanTokenPattern("""a\w*y""")
+  //dispersionPanel.patterns += new CleanTokenPattern("""any""")
+  //dispersionPanel.patterns += new PartOfSpeechTokenPattern("""NP0...1""")
+  //dispersionPanel.patterns += new RawSentencePattern("lemma=\"why\"")
+  //dispersionPanel.patterns += new PartOfSpeechSentencePattern("DT0 AT0 NN2 PNP VVZ PR")
+  //dispersionPanel.patterns += new PartOfSpeechSentencePattern("AT0 NN1")
 
   val sentencePanel = new SentencePanel
   sentencePanels += sentencePanel
@@ -147,25 +161,19 @@ object Main extends SimpleSwingApplication {
 
     dragMode = DragMode.Live //Outline
     background= new Color(255,255,255)
-    var if1 = new MyIF("dispersion", 100, 10, 300,200,250, 100, dispersionPanel)
+    var if1 = new MyIF("dispersion", 100, 10, 300, 200, 250, 100, dispersionPanel)
     add(if1)
     
-    var if2 = new MyIF("sentence", 130, 20, 300,200,250, 100, sentencePanel)
+    var if2 = new MyIF("sentence", 130, 20, 300, 200, 250, 100, sentencePanel)
     add(if2)
+    
+    var if3 = new MyIF("concordance", 100, 10, 300, 200, 250, 100, concordancePanel)
+    add(if3)
 
     def add(ifr: InternalFrame) {
       super.add(ifr, new LayerConstraints)
     }
-
   }
-
-
-
-
-
-
-
-
 
 
   //just testing out migpanel stuff below here...

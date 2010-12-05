@@ -60,7 +60,7 @@ case class Word(wordId: Int, word: String, lemma: String, pos: String, sentences
 
 case class Token(id:Int, raw:String, clean:String, partofspeech:String, lemma:String) {
   override def toString(): String = {
-    "id: " + id + " | raw: [" + raw + "] | clean: [" + clean + "] | pos: [" + partofspeech + "] "
+    "id: " + id + " \t| clean: [" + clean + "] | raw: [" + raw  + "] | pos: [" + partofspeech + "] "
   }
 }
 

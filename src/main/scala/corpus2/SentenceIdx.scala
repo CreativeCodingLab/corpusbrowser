@@ -42,12 +42,12 @@ case class SentenceIdx2(sentenceId: Int, startIdx: Int, endIdx: Int) {
 }
 
 //position of the token within each of the different sentence modalities
-case class PositionIdx(sentenceId: Int, tokenIdx: Int, 
+case class PositionIdx(sentenceId: Int, tokenPosition: Int, 
   rawStartIdx:Int, rawEndIdx:Int, 
   cleanStartIdx:Int, cleanEndIdx:Int,    
   posStartIdx:Int, posEndIdx:Int) {
 
-  override def toString(): String = "[" + sentenceId + ":" + tokenIdx + ":"
+  override def toString(): String = "[" + sentenceId + ":" + tokenPosition + ":"
     + rawStartIdx + ":" + rawEndIdx + ":" 
     + cleanStartIdx + ":" + cleanEndIdx + ":" 
     + posStartIdx + ":" + posEndIdx + "]"
