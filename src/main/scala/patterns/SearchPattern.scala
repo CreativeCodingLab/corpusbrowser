@@ -65,8 +65,8 @@ abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
       println("[" + sentences(p.sentenceId).clean.substring(ps, pe) + "] ps/pe = " + ps + "/" + pe + " esi/eei = " + eidx.si + "/" + eidx.ei)
 
       //def checkIfBeginningOverlaps : Boolean = (eidx.si >= ps && eidx.si < pe)
-      //def checkIfEndOverlaps : Boolean = (eidx.ei >= ps && eidx.ei < pe)
-      //def checkIfContainedWithin : Boolean = (eidx.si < ps && eidx.ei > pe)
+      //def checkIfEndOverlaps : Boolean = (eidx.ei >= ps && eidx.ei <= pe)
+      //def checkIfContainedWithin : Boolean = (eidx.si <= ps && eidx.ei > pe)
       
       //debugging versions...
       def checkIfBeginningOverlaps : Boolean = {
@@ -77,8 +77,9 @@ abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
       }
       def checkIfEndOverlaps : Boolean = {
         if (eidx.ei >= ps && eidx.ei <= pe) {
-        println("end overlaps...")
-        true } else false
+          println("end overlaps...")
+          true 
+        } else false
       }
       def checkIfContainedWithin : Boolean = {
         if (eidx.si <= ps && eidx.ei > pe) {

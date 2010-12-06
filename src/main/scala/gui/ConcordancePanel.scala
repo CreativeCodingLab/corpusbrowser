@@ -28,8 +28,8 @@ import java.util.concurrent._
 
 class ConcordancePanel extends PatternPanel {
 
-   implicit def tuple2Dimension(tuple: Tuple2[Int, Int]) = new Dimension(tuple._1, tuple._2)
-  
+  implicit def tuple2Dimension(tuple: Tuple2[Int, Int]) = new Dimension(tuple._1, tuple._2)
+
   val LEFT_MARGIN = 5
   val RIGHT_MARGIN = 5
   val TOP_MARGIN = 0
@@ -43,32 +43,39 @@ class ConcordancePanel extends PatternPanel {
   val FONT_WIDTH = 7;
   val LINE_HEIGHT = 15;
 
-  val CONCORDANCE_FONT = new Font("Menlo", Font.PLAIN, 12)
-  val display = new Display
-  val control = new Control
+  val CONCORDANCE_FONT_PLAIN = new Font("Menlo", Font.PLAIN, 12)
+  val CONCORDANCE_FONT_BOLD = new Font("Menlo", Font.BOLD, 12)
+  val WINDOW_TEXT_COLOR = Color.DARK_GRAY
+  val MATCH_TEXT_COLOR = Color.BLACK
+
+  var longestRightMatch = -1
 
   //val linesToRects : ConcurrentMap[Line, List[Rect]] = new ConcurrentHashMap[Line, List[Rect]] 
   val rects = new ListBuffer[Rect]
   val patternToLines : ConcurrentMap[SearchPattern, List[Line]] = new ConcurrentHashMap[SearchPattern, List[Line]] 
-  val patternToExactIdxs : ConcurrentMap[SearchPattern, List[ExactIdx]] = new ConcurrentHashMap[SearchPattern, List[ExactIdx]] 
   var numSentenceIdxs = 0
 
-  var leftWindow = 20
+  var leftWindow = 10
   var rightWindow = 10
+
+
+  val display = new Display
+  val control = new Control
+
 
   val jsp = new ConcordanceScrollPane(display) 
   add(jsp, Position.Center);
   add(control, Position.South);
-  
+
   listenTo(this)
   reactions += {
     case scala.swing.event.ComponentResized(src) => revalidateAll
     case _ =>
   }
 
- class ConcordanceScrollPane(c : Component) extends ScrollPane(c) {
+  class ConcordanceScrollPane(c : Component) extends ScrollPane(c) {
     border=null
-    horizontalScrollBarPolicy = BarPolicy.Never
+    horizontalScrollBarPolicy = BarPolicy.AsNeeded
     verticalScrollBarPolicy = BarPolicy.AsNeeded
   }
 
@@ -78,33 +85,33 @@ class ConcordancePanel extends PatternPanel {
     display.revalidate;
     display.repaint;
   }
-  
+
   override def updatePanel(sIdxs: List[Int]) {
+
+    def resetVals {
+      numSentenceIdxs = sIdxs.size
+      longestRightMatch = 0
+      patternToLines.clear
+      rects.clear
+    }
+
     super.updatePanel(sIdxs)
-    numSentenceIdxs = sIdxs.size
-    
-    patternToLines.clear
-    rects.clear
-    for (p <- patterns) patternToLines += p -> makeLines(p, sIdxs)
-     
+
+    resetVals
+
+    for (p <- patterns) {
+      patternToLines += p -> makeLines(p, sIdxs)
+    }
+
     var i = 0;
     for ((p, lines) <- patternToLines; line <- lines) {
-      //println (p + "-->" + line) 
       rects ++= makeRects(line, i) //will be added to linesToRects which is what will be used in drawing/selecting
       i+=1
     }
 
-    display.preferredSize = (size.width, TOP_MARGIN + ((i-0) * LINE_HEIGHT) + BOTTOM_MARGIN)
-    
+    display.preferredSize = ((leftWindow + longestRightMatch) * FONT_WIDTH, TOP_MARGIN + ((i * LINE_HEIGHT) + BOTTOM_MARGIN))
 
-    //for (p <- patterns) { p.printCurrentMatchedTokens(sIdxs) }
-     // for ((p, mis) <- patternToExactIdxs; mi <- mis) {
-     //    println("in CP, mi = " + mi) 
-     //    println(sentences(mi.sid).clean.substring(mi.startIdx, mi.endIdx))
-     //   }
-
-     revalidateAll
-    //repaint
+    revalidateAll
   }
 
   case class Line(uei:ExactIdx, wei:ExactIdx, chunks:List[Chunk]) {
@@ -116,13 +123,13 @@ class ConcordancePanel extends PatternPanel {
   case class Rect(chunk:Chunk, x:Int, y:Int, w:Int, h:Int, selectable:Boolean) {
     var isHovered = false
     var isSelected = false
+    var hasBold = false
     var part1 = ""
     var part2 = chunk.str
     var part3 = ""
     var part1x = -1
     var part2x = -1
     var part3x = -1
-    var hasBold = false
     override def toString = x + "/" + y + "/" + w + "/" + h + " [" + chunk.str + "]"
   }
 
@@ -131,94 +138,107 @@ class ConcordancePanel extends PatternPanel {
     var y = TOP_MARGIN + (LINE_HEIGHT * lineNum);
     var x = 0;
 
-     def setBold(r:Rect) {
+    def markBoldLetters(r:Rect) {
       val c = r.chunk
 
-      //if (
-      if (c.si >= line.uei.si && c.si < line.uei.ei) {
+      val startMatchIdx = line.uei.si
+      val endMatchIdx = line.uei.ei
+      val startChunkIdx = c.si
+      val endChunkIdx = c.ei
+      var startBoldIdx = 0
+      var endBoldIdx = 0
+
+      if (startMatchIdx >= startChunkIdx && startMatchIdx < endChunkIdx) {
         r.hasBold = true
-        val sb = c.si - line.uei.si
+        startBoldIdx = startMatchIdx - startChunkIdx
+        if (endMatchIdx < endChunkIdx) {
+          //  ----
+          // ----
+          endBoldIdx = c.str.length - (endChunkIdx - endMatchIdx)
+        } else {
+          //  ---
+          // -----
+          endBoldIdx = c.str.length 
+        }
+        markPositions(startBoldIdx, endBoldIdx)
+      } else if (startChunkIdx >= startMatchIdx && startChunkIdx < endMatchIdx) {
+        r.hasBold = true
+        startBoldIdx = 0
+        if (endChunkIdx > endMatchIdx) { 
+          // ----
+          //  ----
+          endBoldIdx = c.str.length - (endChunkIdx - endMatchIdx)
+        } else {
+          // -----
+          //  ---
+          endBoldIdx = c.str.length 
+        }
+        markPositions(startBoldIdx, endBoldIdx)
+      }
 
-        println("in setBold for chunk [" + c.str + "] ... sb = " + sb)
-        //val eb = sb + 1//c.ei - (line.uei.ei - c.ei)
-        val eb = c.str.length - (c.ei - line.uei.ei)
-        println("in setBold for chunk [" + c.str + "] ... sb/eb = " + sb + "/" + eb)
-        //val eb = sb + 1//c.ei - (line.uei.ei - c.ei)
-
-        r.part1 = r.chunk.str.substring(0, sb)
+      def markPositions(startBoldIdx:Int, endBoldIdx:Int) {
+        r.part1 = r.chunk.str.substring(0, startBoldIdx)
         r.part1x = r.x
-        r.part2 = r.chunk.str.substring(sb, eb)
+        r.part2 = r.chunk.str.substring(startBoldIdx, endBoldIdx)
         r.part2x = r.x + (FONT_WIDTH * r.part1.length)
-        r.part3 = r.chunk.str.substring(eb, r.chunk.str.length)
+        r.part3 = r.chunk.str.substring(endBoldIdx, r.chunk.str.length)
         r.part3x = r.x + (FONT_WIDTH * (r.part1.length + r.part2.length))
       }
     }
 
-    //calculate left dots if needed and update xoff if needed
-    var dotLoff = 0
-    val usingL = line.uei.si - line.wei.si
-    if (usingL != leftWindow) {
-      val numdotsL = leftWindow - usingL 
+    def makeDots(numDots:Int) : String = (for (i <- 0 until numDots) yield {"."}).mkString
 
-      var dotsL = ""
-      for (i <- 0 until numdotsL) { dotsL += "." }
-      val r = Rect(Chunk(-1, dotsL, -1, -1), 0, y, dotsL.length * FONT_WIDTH, FONT_HEIGHT, false)
-      rs += r
-      dotLoff = numdotsL
+    //calculate left dots
+    val numLeftDots = leftWindow - (line.uei.si - line.wei.si)
+    if (numLeftDots > 0) {
+      rs += Rect(Chunk(-1, makeDots(numLeftDots), -1, -1), 0, y, FONT_WIDTH * numLeftDots, FONT_HEIGHT, false)
     }
 
-    var endletter = -1
+    //calculate center rects
     for (c <- line.chunks) {
-      var xoff = c.si - line.wei.si + dotLoff
+      val centerIdx = c.si - line.wei.si + numLeftDots
 
-      //val r = Rect(c, (FONT_WIDTH * c.si) - (FONT_WIDTH * line.wei.si), y, c.str.length * FONT_WIDTH, FONT_HEIGHT)
-      val r = Rect(c, FONT_WIDTH * xoff, y, c.str.length * FONT_WIDTH, FONT_HEIGHT, true)
+      val r = Rect(c, FONT_WIDTH * centerIdx, y, FONT_WIDTH * c.str.length, FONT_HEIGHT, true)
       rs += r
 
-      setBold(r)
-      endletter = xoff + c.str.length //better way to do this...
+      markBoldLetters(r)
     }
 
     //calculate right dots
-    val usingR = line.wei.ei - line.uei.ei
-    if (usingR != rightWindow) {
-      val numdotsR = rightWindow - usingR 
-      var dotsR = ""
-      for (i <- 0 until numdotsR) { dotsR += "." }
-      val r = Rect(Chunk(-1, dotsR, -1, -1), FONT_WIDTH * (endletter), y, dotsR.length * FONT_WIDTH, FONT_HEIGHT, false)
-      rs += r
-
-
+    val rightIdx = line.chunks.last.ei - line.wei.si + numLeftDots 
+    val numRightDots = longestRightMatch - (line.wei.ei - line.uei.si)
+    if (numRightDots > 0) {
+      rs += Rect(Chunk(-1, makeDots(numRightDots), -1, -1), FONT_WIDTH * (rightIdx), y, FONT_WIDTH * numRightDots, FONT_HEIGHT, false)
     }
 
-   
     rs
   }
 
   def makeLines(p:SearchPattern, sIdxs: List[Int]) : List[Line] = {
-    for ((uei, wei) <- p.getCurrentWindowedAndUnwindowedExactIdxs(sIdxs, leftWindow, rightWindow)) yield {
-      //println("in makeLines: " + wei.si + "-->" + wei.ei + " : " + sentences(wei.sid).clean.substring(wei.si, wei.ei))
 
+    def checkIfLongestRightMatch(uei:ExactIdx, wei:ExactIdx) = {
+      val thisRight = if ( (uei.ei + rightWindow) > wei.ei) { (wei.ei - uei.si) } else { (uei.ei - uei.si) + rightWindow }
+      if (thisRight > longestRightMatch) longestRightMatch = thisRight
+    }
+
+    for ((uei, wei) <- p.getCurrentWindowedAndUnwindowedExactIdxs(sIdxs, leftWindow, rightWindow)) yield {
+      checkIfLongestRightMatch(uei, wei)
       Line(uei, wei, makeChunks(p, wei))
     }
   }
 
   def makeChunks(p:SearchPattern, ei:ExactIdx) : List[Chunk] = {
     val tps = p.findTokenPositions(ei)
-    println("in makeChunk: chunks = " + tps)
     val sentence = sentences(ei.sid) 
-    println("in makeChunk: window = [" + sentence.clean.substring(ei.si, ei.ei) + "]") 
 
     (for (i <- 0 until tps.size) yield {
-
         val position = (tps(i))
         val pi = sentence.positionIdxs(position)      
         val tokenId = sentence.tokens(pi.tokenPosition)
         val token = tokens(tokenId)
-        val chunksi = pi.cleanStartIdx //if (i == 0) ei.si else pi.cleanStartIdx
+        val chunksi = pi.cleanStartIdx 
         val chunkei = if (i == tps.size - 1) ei.ei else pi.cleanEndIdx
 
-        println("in makeChunk : tokenpos " + i + " = " + chunksi + "-->" + chunkei + "   :   " + token.clean)
         Chunk(tokenId, sentence.clean.substring(chunksi, chunkei), chunksi, chunkei)
       }).toList
   }
@@ -278,7 +298,7 @@ class ConcordancePanel extends PatternPanel {
     override def paintComponent(g2: Graphics2D) {
       clear(g2)
 
-      val metrics = getFontMetrics(g2, CONCORDANCE_FONT)
+      val metrics = getFontMetrics(g2, CONCORDANCE_FONT_PLAIN)
       g2.setColor(Color.BLACK);
 
       for (r <- rects) {
@@ -295,26 +315,56 @@ class ConcordancePanel extends PatternPanel {
         }
 
         if (r.hasBold) {
-          g2.setColor(Color.BLACK);
+          g2.setColor(WINDOW_TEXT_COLOR);
+          g2.setFont(CONCORDANCE_FONT_PLAIN)
           g2.drawString(r.part1, r.part1x, r.y + FONT_HEIGHT)
-          g2.setColor(Color.GREEN);
+
+          g2.setColor(MATCH_TEXT_COLOR);
+          g2.setFont(CONCORDANCE_FONT_BOLD)
           g2.drawString(r.part2, r.part2x, r.y + FONT_HEIGHT)
-          g2.setColor(Color.BLACK);
+
+          g2.setColor(WINDOW_TEXT_COLOR);
+          g2.setFont(CONCORDANCE_FONT_PLAIN)
           g2.drawString(r.part3, r.part3x, r.y + FONT_HEIGHT)
         } else {
-          g2.setColor(Color.BLACK);
+          g2.setColor(WINDOW_TEXT_COLOR);
+          g2.setFont(CONCORDANCE_FONT_PLAIN)
           g2.drawString(r.chunk.str, r.x, r.y + FONT_HEIGHT)
         }
       }
     }
   }
 
-  class Control extends Component {
+  class Control extends BorderPanel {
 
+    val slider = new Slider {
+      min              = 0
+      value            = leftWindow
+      max              = 50
+      majorTickSpacing = 5
+      paintTicks       = false
+      /*labels           = Map(0 -> new Label("Aut."),
+        1 -> new Label("Winter"),
+        2 -> new Label("Summer"),
+        3 -> new Label("Sea Shr."),
+        4 -> new Label("Mon/re"))
+      */
+      //paintLabels      = true        
+    }
+    //layout(slider) = South
+
+    listenTo(slider)
+    reactions += {
+      case ValueChanged(`slider`) => {
+        //if ( !slider.adjusting ) {
+          println("moved slider... " + slider.value)
+          leftWindow = slider.value
+          rightWindow = slider.value
+          updatePanel(currentIdxs)
+          //}
+        }
+      }
+
+      add(slider, Position.Center)
+    }
   }
-
-
-
-
-
-}

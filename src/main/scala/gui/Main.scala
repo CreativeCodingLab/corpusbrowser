@@ -42,7 +42,8 @@ object Main extends SimpleSwingApplication {
   //dispersionPanel.patterns += new WordPattern("answer")
   //dispersionPanel.patterns += new CleanSentenceRegexPattern("""(?i)aware of.*not""".r)
   //concordancePanel.patterns += new CleanSentencePattern("""hat are the""".r)
-  concordancePanel.patterns += new CleanSentencePattern("""here""".r)
+  //concordancePanel.patterns += new CleanSentencePattern("""here""".r)
+  concordancePanel.patterns += new CleanSentencePattern("""t\w*e f\w*\b""".r)
   //dispersionPanel.patterns += new CleanSentencePattern("""hat are the""".r)
   //dispersionPanel.patterns += new WordRegexPattern("""^t.*t$""")
 
