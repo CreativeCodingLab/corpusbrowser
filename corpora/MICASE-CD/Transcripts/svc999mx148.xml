@@ -1,0 +1,1783 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="svc999mx148">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Science Learning Center Service Encounters </TITLE>
+				<TITLE> Rackham Div: NA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SVC999MX148 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="121">
+						<DATE> April 10, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Darrell Tibbles </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Amy Burke, Darell Tibbles </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 02/4/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="215"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="215"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S11" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Science Learning Center Service Desk, Chemistry Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="SU-m"> can i get a P-C computer? </U>
+			<U WHO="S1"> actually we don't have one right now. <U WHO="SU-m">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> there's </OVERLAP> a waitlist if you wanna sign up. </U>
+			<U WHO="SU-m"> okay <OVERLAP> oh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we have </OVERLAP> a regular computer if you want. </U>
+			<U WHO="SU-m"> do they have disk drives? </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="SU-m"> okay </U>
+			<U WHO="S1"> i just need your M-Card <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-m"> thanks. <PAUSE DUR=":14"/> you wouldn't happen to have change for a dollar would you? </U>
+			<U WHO="S1"> actually no, sorry. </U>
+			<U WHO="SU-m"> do you know where i can get change, anywhere? </U>
+			<U WHO="S1"> um, Chem Stand downstairs maybe or, i wo- are you using it for vending machines? cuz they take dollars. </U>
+			<U WHO="SU-m"> i'm using it for the, copier. </U>
+			<U WHO="S1"> the copier takes dollars. </U>
+			<U WHO="SU-m"> okay </U>
+			<U WHO="SU-m"> hi. </U>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> just a computer? </U>
+			<U WHO="SU-m"> yeah. <EVENT DESC="SCANS CARD"/> thanks. </U>
+			<U WHO="SU-f"> hey </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> there you go </U>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="SU-f"> Teresa do you have a Post-it by chance? </U>
+			<U WHO="S1"> yeah actually i think i do, right here </U>
+			<U WHO="SU-f"> thank you. what's going on with the thing? </U>
+			<U WHO="S1"> um, some linguistic study i'm not sure exactly </U>
+			<U WHO="SU-f"> and you're participating in it? </U>
+			<U WHO="S1"> well the S-L-C is and i just happen to be working. <U WHO="SU-f"> oh okay </U> they're not <EVENT DESC="LAUGH"/> following me around (or anything) </U>
+			<EVENT WHO="S5" DESC="LAUGH"/>
+			<PAUSE DUR=":07"/>
+			<U WHO="S1"> we have uh regular computers just <OVERLAP> not P-Cs </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> oh do </OVERLAP> you? </U>
+			<U WHO="S1"> yeah <PAUSE DUR=":12"/>
+				<EVENT DESC="SCANS CARD"/> there you go </U>
+			<U WHO="SU-f"> thanks <PAUSE DUR=":04"/> coming back again? </U>
+			<U WHO="S1"> mhm <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-f"> (with the) drive, <EVENT WHO="S2" DESC="SCANS CARD"/>
+				<U WHO="SU-f"> hi </U>
+				<U WHO="S1">
+					<OVERLAP> hi </OVERLAP>
+				</U>
+				<OVERLAP> do you want </OVERLAP> my card? </U>
+			<U WHO="S1"> nope <OVERLAP> i- i'm all set </OVERLAP> and a P-C </U>
+			<PAUSE DUR=":08"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thanks </U>
+			<U WHO="S1"> mhm </U>
+			<PAUSE DUR="1:00"/>
+			<U WHO="SU-m"> you already on a waitlist? or </U>
+			<U WHO="S1"> only if you want a P-C </U>
+			<U WHO="SU-m">
+				<OVERLAP> oh </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (you know, i) </OVERLAP> what? i'm sorry i need a P-C <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> do you need a floppy drive? cuz i have one that doesn't_ the floppy drive's not working </U>
+			<U WHO="SU-f"> i i need a C-D drive. is </U>
+			<U WHO="S1"> the C-D drive's <U WHO="SU-f">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> (probably) </OVERLAP> working. i i have one. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> okay okay </OVERLAP> i, find a pen </U>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> there you go </U>
+			<U WHO="SU-f"> do you have any P-Cs? </U>
+			<U WHO="S1"> uh actually no. but you'd be the first person on the waitlist if you (need) a P-C </U>
+			<U WHO="SU-f"> mm that's okay i'll just take a Mac </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> oh there's a P-C <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-m"> do you have any other <U WHO="SU-f">
+					<OVERLAP> thanks </OVERLAP>
+				</U>
+				<OVERLAP> uh reserves </OVERLAP> on file? like physics <U WHO="S1"> physics </U> like, i'm i'm looking for my physics final lab, lab final <OVERLAP> from one-twenty </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i don't </OVERLAP> think so <U WHO="SU-m">
+					<OVERLAP> one-twenty-eight </OVERLAP>
+				</U>
+				<OVERLAP> i think the only </OVERLAP> thing that we keep for physics are, the textbooks. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="SU-m"> do you have that? </U>
+			<U WHO="S1"> have what? </U>
+			<U WHO="SU-m"> no i was just talking into the mic </U>
+			<U WHO="S1"> oh <EVENT DESC="LAUGH"/> um i only have the textbook i don't_ we don't have any <OVERLAP> folders for </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> thank you </OVERLAP>
+			</U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="SU-f"> can i have a Mac? </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> could you, help me on uh making transparencies? uh, </U>
+			<U WHO="S1"> do you, do you_ have you bought them yet? </U>
+			<U WHO="SU-m"> yeah it's uh 3-M i think it's similar to the ones you guys have. </U>
+			<U WHO="S1"> uh you have to buy the exact same ones here. <OVERLAP> ju- </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> do i </OVERLAP> have to? </U>
+			<U WHO="S1"> yeah because people when they use 'em outside, sometimes they melt in our copier. <OVERLAP> so that ensures that they won't melt </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> can i see what </OVERLAP> brand it is? and then i'll show you my box? <U WHO="S1"> um </U> cuz i think it's a similar one. </U>
+			<U WHO="S1"> okay, i'll look. </U>
+			<PAUSE DUR=":05"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thanks </U>
+			<PAUSE DUR=":17"/>
+			<U WHO="S1"> where are our transparency boxes? we don't have any leftover boxes? <PAUSE DUR=":07"/> i don't have our box but i'll recognize it. not it's not them. </U>
+			<U WHO="SU-m"> it's not that one? </U>
+			<U WHO="S1"> ours has like a yellow and black case thing_ i don't have any boxes cuz we're out. </U>
+			<U WHO="SU-m"> it's four for a dollar? </U>
+			<U WHO="S1"> they're in the vending machine right around the corner. year, it's four d- for a dollar. </U>
+			<U WHO="SU-m"> thank you </U>
+			<PAUSE DUR=":45"/>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> there you go </U>
+			<U WHO="SU-m"> thank you </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> hi <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR=":49"/>
+			<U WHO="SU-f"> um, can i have a new computer? this uh, this froze. <EVENT WHO="S2" DESC="SCANS CARD"/> thanks. <PAUSE DUR=":05"/> thank you </U>
+			<U WHO="S1"> yep </U>
+			<U WHO="SU-f"> um i'm trying to print a P-D-F file, from a Mac but it froze how do i_ i don't know how to restart 'em </U>
+			<U WHO="S1"> well you can try doing, <U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> it's option apple escape </U>
+			<U WHO="SU-f"> escape? </U>
+			<U WHO="S1"> yeah or it might be control apple escape i can't remember it's one of these three combinations i think it's option apple escape. <U WHO="SU-f"> okay </U> and then uh, that can force quit it if not then i'll hafta come and unfreeze it for you. </U>
+			<U WHO="SU-f"> okay, thanks </U>
+			<U WHO="S1"> restart it. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-m"> can you uh, help me? <PAUSE DUR=":08"/> (xx) </U>
+			<U WHO="S1"> okay uh you put a nickel in for the, copy. is this one of the things you wanna make? </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> okay. you just wanna make sure it says ready for bypass feeding, and then, good to go. oh it didn't work. why didn't it work? it said_ hm. lemme try this again. i'll, give you a nickel. <PAUSE DUR=":15"/> okay there. i don't know why it didn't work last time. i'll get you a nickel. </U>
+			<U WHO="SU-f"> i can't get it to open up (xx) </U>
+			<U WHO="S1"> okay. hang on a second. <PAUSE DUR=":16"/> i need a nickel. <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":04"/> well it's for this other kid h- i- it ate his nickel. how do i uh, open a (xx) (graph?) do you know? </U>
+			<U WHO="SU-f"> i don't know, i think i (xx) </U>
+			<U WHO="S1"> um where is it supposed to be? cuz i've never used it personally. but wha- are you just clicking on it? </U>
+			<U WHO="S2"> i mean it's there it's ju- i'm just clicking on it it's doing nothing. </U>
+			<U WHO="S1"> okay let me look at it (real quick.) where are you? <PAUSE DUR=":21"/> oh here. it's just it's_ when you click on it it's like already up here. <OVERLAP> so just press (xx) and i don't know what do you want a data window graph window? okay, there you go. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> hi um my computer froze and i can't restart it </OVERLAP>
+			</U>
+			<U WHO="S3"> ha- were you, </U>
+			<U WHO="SU-f"> i was trying to tri- print out a P-D-F <OVERLAP> file </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh. </OVERLAP> uh do you need another computer? <OVERLAP> (xx) is frozen? okay, alright sorry about that (xx) we'll have to take care of it </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> well, i have class now so i it's alright. do you_ okay, thanks </OVERLAP>
+			</U>
+			<U WHO="SU-f"> hi is there any chance i can check out a computer but i don't have my M-Card? </U>
+			<U WHO="S3"> um, have you checked out computers here before? </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> oh yeah lotsa times </U>
+			<U WHO="S3"> okay, well um <PAUSE DUR=":07"/> what's your last name? </U>
+			<U WHO="SU-f"> Sarandon S A R, A N D, O N... </U>
+			<U WHO="S3"> Connie? </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S3"> okay. computer (xx) <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-f"> thanks </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> that's all we did </U>
+			<U WHO="SU-f"> that's okay </U>
+			<PAUSE DUR="1:41"/>
+			<U WHO="SU-f"> can i have a computer? </U>
+			<U WHO="S1"> yep. <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="SU-f"> can i get a computer? <OVERLAP> or </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes. </OVERLAP> is P-C okay? </U>
+			<U WHO="SU-f"> you know what? i guess i could just go to that little station. </U>
+			<U WHO="S1"> okay. </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<PAUSE DUR=":25"/>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> is P-C okay? </U>
+			<U WHO="SU-f"> yeah it's fine. <EVENT DUR="S2" DESC="SCANS CARD"/> thank you... </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thanks </U>
+			<U WHO="SU-f"> can i have a P-C (if you have one?) <EVENT WHO="S2" DESC="SCANS CARD"/> thank you. </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thank you. </U>
+			<U WHO="S1"> you're welcome. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> there you go </U>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR=":40"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thanks. </U>
+			<U WHO="SU-f"> are there any P-Cs available now...? </U>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> have you been here before? </U>
+			<U WHO="SU-f"> not this year. </U>
+			<U WHO="S1"> mkay <PAUSE DUR=":15"/>
+				<EVENT DESC="SCANS CARD"/> here you go </U>
+			<U WHO="SU-f"> thank you. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-f"> do you have any P-Cs? no? </U>
+			<U WHO="S1"> uh no not right now. <U WHO="SU-f"> okay </U> don't know why (i have this one aside) this one might be frozen <EVENT DESC="SCANS CARD"/> i don't know. <EVENT DESC="LAUGH"/>
+				<OVERLAP> just let me know </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> alright, i'll </OVERLAP> find out </U>
+			<U WHO="S1"> it's the last one i have. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="SU-f"> are there no computers? </U>
+			<U WHO="S1"> not right now. </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S1"> you can sign up though if you want </U>
+			<PAUSE DUR=":57"/>
+			<U WHO="SU-m"> what are the mics for? </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="SU-m"> what are the mics for? </U>
+			<U WHO="S1"> uh, some linguistics study to see what kind of, English words are spoken in the, various university settings. <EVENT WHO="SU-m" DESC="LAUGH"/> for non-English students. </U>
+			<U WHO="SU-m"> (i don't think they're, gonna hear,) a lot of variations in this (xx) </U>
+			<U WHO="S1"> Andrea? <U WHO="SU-f">
+					<OVERLAP> right here </OVERLAP>
+				</U>
+				<OVERLAP> is that you? </OVERLAP> i (don't have) a computer right now i have (xx) </U>
+			<U WHO="SU-f"> is there a um, a P-C in there or no? <U WHO="S1">
+					<OVERLAP> no. do you need a P-C? </OVERLAP>
+				</U>
+				<OVERLAP> i mean they're both_ okay, no problem. </OVERLAP>
+				<EVENT WHO="S2" DESC="SCANS CARD"/> thanks. </U>
+			<U WHO="S1"> hey how are you? </U>
+			<U WHO="SU-f"> good how are you? </U>
+			<U WHO="S1"> not too bad <EVENT DESC="SCANS CARD"/> there you go. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="SU-m"> i'd like a P-C </U>
+			<U WHO="S1"> i don't have one right now. <U WHO="SU-m">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> you can sign up </OVERLAP> for one if you want or </U>
+			<U WHO="SU-m"> alright. </U>
+			<PAUSE DUR=":17"/>
+			<EVENT DUR="1:45" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="S1"> Bryant? </U>
+			<U WHO="SU-f"> do you have a P-C? </U>
+			<U WHO="S1"> uh, well, i'm waiting for someone <U WHO="SU-f">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> to </OVERLAP> get it right now_ is a Mac okay? or do you wanna wait? <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> yeah, </OVERLAP> Mac's okay. </U>
+			<U WHO="SU-m"> what's up? </U>
+			<U WHO="S1"> Bryant. <EVENT DESC="SCANS CARD"/> do you need a disk drive? </U>
+			<U WHO="SU-m"> um, i think just a floppy. i think... <EVENT DESC="S2 SCANS CARD"/> thank you. </U>
+			<U WHO="S1"> you're welcome </U>
+			<U WHO="SU-f"> P-C. um </U>
+			<U WHO="S1"> i'm sorry could you hold on one second. Bryant... okay. </U>
+			<PAUSE DUR=":43"/>
+			<U WHO="SU-m"> (hi) could i have the P-chem coursepack please? </U>
+			<U WHO="S1"> what is P-chem? <U WHO="SU-m">
+					<OVERLAP> two-thirty </OVERLAP>
+				</U>
+				<OVERLAP> two-thirty? </OVERLAP>
+			</U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> nope <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-m">
+				<EVENT DESC="LAUGH"/> close, </U>
+			<U WHO="S1"> thanks </U>
+			<U WHO="SU-m"> thank you. </U>
+			<PAUSE DUR=":27"/>
+			<U WHO="SU-f"> (xx) hey can you get her_ <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> yeah i'm sorry <U WHO="SU-f">
+					<OVERLAP> i mean i thought you were looking (it up) </OVERLAP>
+				</U>
+				<OVERLAP> i was just, </OVERLAP>
+				<U WHO="SU-f"> (looking at the) </U> i was just looking at this. </U>
+			<PAUSE DUR=":24"/>
+			<U WHO="S1"> computer? </U>
+			<U WHO="SU-f"> (yeah please) <EVENT DESC="S2 SCANS CARD"/> thank you. </U>
+			<EVENT DUR=":47" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="SU-f"> or something it's not working. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> i don't have another computer right now (Xx) </U>
+			<EVENT DUR=":13" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="SU-f"> no P-Cs? </U>
+			<U WHO="S1"> there's nothing (right now) </U>
+			<U WHO="SU-f"> oh okay thanks. </U>
+			<U WHO="S1"> (xx) </U>
+			<U WHO="SU-f"> that's okay </U>
+			<PAUSE DUR=":50"/>
+			<U WHO="SU-m"> hey do you have any I-B-Ms open? </U>
+			<U WHO="S1"> (yes) </U>
+			<U WHO="SU-m"> could i take some please? <PAUSE DUR=":07"/>
+				<EVENT DESC="S2 SCANS CARD"/> thanks. </U>
+			<U WHO="SU-m"> (xx) computers? </U>
+			<U WHO="S1"> uh actually no. <U WHO="SU-m"> no? </U> you can sign up you'll be the first person. </U>
+			<U WHO="SU-m"> okay. it's not that big of a deal, i'll use this </U>
+			<PAUSE DUR=":25"/>
+			<U WHO="SU-m"> can i open another one of these? this one's missing a test... <EVENT DESC="S2 SCANS CARD"/>
+				<PAUSE DUR=":09"/> thanks... </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="SU-m"> thanks. </U>
+			<U WHO="SU-m"> you got any more P-Cs? </U>
+			<U WHO="S1"> no </U>
+			<PAUSE DUR=":35"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thanks </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S1"> David, do you need a disk drive? <U WHO="SU-m"> (pardon) </U> do you need a disk drive? </U>
+			<U WHO="SU-m"> uh for the_ i need a floppy yeah. </U>
+			<U WHO="S1"> yeah that's a disk drive (xx) </U>
+			<U WHO="SU-m"> you don't have any other information about these and what tests should be in there and what shouldn't be? i mean i don't see an exam four for nineteen ninety-six in any of 'em. <PAUSE DUR=":12"/> okay... i guess. thank you. </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<PAUSE DUR="1:53"/>
+			<U WHO="SU-f"> hi thanks um do you have_ is the blue one for like over there, on that side? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="SU-f"> okay thanks. </U>
+			<PAUSE DUR=":09"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<PAUSE DUR=":19"/>
+			<U WHO="SU-m"> you have a P-C? </U>
+			<U WHO="S1"> oh actually wait. wait, this one doesn't have a disk drive though. (xx) </U>
+			<U WHO="SU-m"> thank you </U>
+			<PAUSE DUR=":08"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> can i have a P-C please? </U>
+			<U WHO="S1"> i don't have one. <U WHO="SU-m"> mm </U> is a Mac okay? </U>
+			<U WHO="SU-m"> um, well i_ nah i need to print some stuff up so, i'll just sign up. </U>
+			<PAUSE DUR=":23"/>
+			<U WHO="SU-f"> hi... what's this for? </U>
+			<U WHO="S1"> um, they're doing a study, one of the research schools are doing a study. <U WHO="SU-f">
+					<OVERLAP> oh okay um, </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP>
+				<EVENT DESC="SCANS CARD"/> what do you <OVERLAP> need? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> oh </OVERLAP> computer. yeah, thank you. </U>
+			<U WHO="SU-m"> is Joy Brendan in? </U>
+			<U WHO="S1"> yes. i don't know where she is but i just saw her. um her office is in, against the back wall, do you know where her office is? </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="SU-f"> hi, do you have a lost and find anywhere? <OVERLAP> for this building? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> what did you lose? </U>
+			<U WHO="SU-f"> um i lost keys like a month ago. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay um we, we bring all our lost and found to the (xx) stays behind the counter for a little while. so chances are it'd be there. which is down the hallway on the left. </U>
+			<U WHO="SU-f"> okay thank <OVERLAP> you. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m"> this one's like slow and broken can i get a new one? <EVENT WHO="S2" DESC="SCANS CARD"/> thanks. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> can i check out a calculator? </U>
+			<U WHO="S1"> all i have is this, mini one. </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S1"> okay do yo- do you have your M-Card? </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="SU-f"> something wrong with his? </U>
+			<U WHO="S1"> he said it's slow and broken. <EVENT DESC="LAUGH"/> i don't know what that means and this one's frozen. <EVENT DESC="SCANS CARD"/> have you been here before? </U>
+			<U WHO="SU-f"> no </U>
+			<U WHO="S1"> David <PAUSE DUR=":06"/>
+				<EVENT DESC="SCANS CARD"/>
+				<PAUSE DUR=":08"/> David </U>
+			<U WHO="SU-m"> yeah hold on. </U>
+			<U WHO="S1"> oh <PAUSE DUR=":09"/>
+				<EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-f"> thanks </U>
+			<U WHO="SU-m"> hi </U>
+			<PAUSE DUR=":05"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thanks </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thank you </U>
+			<U WHO="S1"> mhm </U>
+			<PAUSE DUR=":15"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<PAUSE DUR=":13"/>
+			<U WHO="SU-f"> (hi) i just wanted to cancel my um subscription before, my first week (xx) or whatever. i just want to cancel (xx) </U>
+			<PAUSE DUR=":40"/>
+			<U WHO="SU-m"> do you have any P-C? </U>
+			<U WHO="S1"> um... no there's a waitlist for a P-C. </U>
+			<U WHO="SU-m"> okay so a, Mac. </U>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<PAUSE DUR=":40"/>
+			<U WHO="SU-f"> can i have a Mac please? </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thanks </U>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-m"> thanks </U>
+			<PAUSE DUR=":17"/>
+			<U WHO="SU-f"> hi </U>
+			<U WHO="S1"> hi. Justin. okay. </U>
+			<U WHO="SU-f"> can i have a P-C please? </U>
+			<U WHO="S1"> um actually i don't have one. there's a waitlist for one though. </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S1"> do you want (xx) </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S1"> Justin. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> do you have a, any with um disk drives. </U>
+			<U WHO="S1"> i have a Mac, yeah. </U>
+			<PAUSE DUR=":19"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thank you. </U>
+			<PAUSE DUR=":10"/>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="SU-f"> thank you </U>
+			<U WHO="S1"> Justin </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="SU-f"> do you guys have um, a phone book? </U>
+			<U WHO="S1"> yeah. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-f"> it doesn't scan. </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="SU-f">
+				<OVERLAP> it doesn't scan </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (that one doesn't) </OVERLAP> scan? <PAUSE DUR=":13"/> there you go. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="SU-f"> hi i need a station (xx) <PAUSE DUR=":05"/> thank you </U>
+			<U WHO="S1"> mhm </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-f"> do you have...? </U>
+			<U WHO="S1"> here you go <EVENT DESC="SCANS CARD"/> thanks <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-f"> thanks </U>
+			<U WHO="SU-f"> do you have any P-Cs? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="SU-f"> okay </U>
+			<EVENT WHO="S2" DESC="SCANS FOUR CARDS"/>
+			<U WHO="SU-f"> thanks </U>
+			<U WHO="S1"> you're welcome </U>
+			<PAUSE DUR=":43"/>
+			<U WHO="SU-f"> could i have a P-C please? </U>
+			<U WHO="S1"> actually i don't have a P-C right now, <U WHO="SU-f">
+					<OVERLAP> no? </OVERLAP>
+				</U>
+				<OVERLAP> is </OVERLAP> Mac okay or do you want to sign up for one? </U>
+			<U WHO="SU-f"> um... i'll uh i'll use a Mac. </U>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR=":17"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thanks </U>
+			<PAUSE DUR=":21"/>
+			<U WHO="SU-f"> do you guys have any P-Cs? </U>
+			<U WHO="S1"> uh no, <U WHO="SU-f">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> can sign up for one if you want or <OVERLAP> (you could just have a Mac) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> uh no </OVERLAP> can i just have one of these things? </U>
+			<U WHO="S1"> (xx) <EVENT DESC="SCANS TWO CARDS"/>
+			</U>
+			<PAUSE DUR=":24"/>
+			<U WHO="SU-f"> is there a pras- practice exam on reserve for bio three-oh-six? </U>
+			<U WHO="S1"> bio three-oh-six <PAUSE DUR=":08"/> yes, do you have your M-Card? </U>
+			<U WHO="SU-f"> yep </U>
+			<U WHO="S1"> (xx) </U>
+			<PAUSE DUR=":06"/>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-f"> thank <OVERLAP> you </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (thanks) </OVERLAP>
+			</U>
+			<PAUSE DUR=":23"/>
+			<U WHO="SU-m"> hi. </U>
+			<U WHO="S1"> do you need a disk drive? </U>
+			<U WHO="SU-m"> uh no. <EVENT WHO="S2" DESC="SCANS CARD"/> thanks. </U>
+			<EVENT WHO="S2" DESC="SCANS FOUR CARDS"/>
+			<PAUSE DUR=":15"/>
+			<U WHO="SU-m"> (i'm sor-) (can i st-) can i still use a computer with like my I-D or something cuz i don't have my M-Card? </U>
+			<U WHO="S1"> to get on a computer_ </U>
+			<U WHO="S4"> what's your last name? </U>
+			<U WHO="SU-m"> uh Crestfeld. </U>
+			<U WHO="S4"> C R E S T F E L D? </U>
+			<U WHO="SU-m"> mhm </U>
+			<U WHO="S4"> what's your first name? </U>
+			<U WHO="SU-m"> Nathaniel. </U>
+			<U WHO="S1"> did you check him in? </U>
+			<U WHO="S4"> yeah. </U>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="S4"> you ever been here before? </U>
+			<U WHO="SU-m"> no. </U>
+			<U WHO="S4"> let's see </U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S1"> oh this computer froze trying to print </U>
+			<U WHO="S4"> okay. do you still need to use it? </U>
+			<U WHO="S1"> no if you could just log me out, when you get off it. </U>
+			<U WHO="SU-m"> um, the telnet will load but it won't let me log on to it so i can't, log on to pine or <OVERLAP> telnet to it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it won't </OVERLAP> let you to log onto it what <OVERLAP> do you mean? </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> yeah </OVERLAP> i- y- y- you know how it has like the little paragraph at the beginning, <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> it'll </OVERLAP> put that on but it won't it won't say log in it won't go past that. <U WHO="S1">
+					<OVERLAP> uh </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> i don't know </U>
+			<U WHO="S1"> um it might be the whole server i just_ i doubt just the computer. but you can try another computer <OVERLAP> (if you want.) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> if if that's </OVERLAP> okay yeah that'd be good. </U>
+			<EVENT WHO="S2" DESC="SCANS THREE CARDS"/>
+			<U WHO="SU-m"> thanks </U>
+			<U WHO="SU-m"> can i get a Mac? </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="SU-m"> thank you </U>
+			<PAUSE DUR=":06"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<PAUSE DUR=":10"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thank you </U>
+			<PAUSE DUR=":35"/>
+			<U WHO="SU-m"> do we have any more of the model kits out? </U>
+			<U WHO="S1"> excuse me? </U>
+			<U WHO="SU-m"> the model kits that you had in there or do i have to check 'em out <OVERLAP> now? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh </OVERLAP> u- are they_ they're not there? </U>
+			<U WHO="SU-m"> i don't see any in there. </U>
+			<U WHO="S1"> they might all be checked out. </U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT : 39"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="S5"> hello </U>
+			<U WHO="SU-m"> so how's your, avoiding of (grain?) you made it alive? </U>
+			<U WHO="S5"> oh, it's good actually. <EVENT DESC="LAUGH"/> my roommate came back today from home (xx) <U WHO="SU-m"> mhm </U> she brought home so much food like from_ i was over at her house on Sunday night for, for (her, dinner.) oh my god so much food we can't even close our fridge cuz my mom sent up food with my friends. <OVERLAP> (xx) (home) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> so, </OVERLAP> where's the problem? </U>
+			<U WHO="S5"> there's no problem (with it) </U>
+			<U WHO="SU-m"> okay. you seem to be kind of disappointed. </U>
+			<U WHO="S5"> no there's just too much food w- for (xx) it's ridiculous. </U>
+			<EVENT DESC="CONVERSATION 2"/>
+			<PAUSE DUR=":13"/>
+			<U WHO="SU-m"> has it got some stuff in it? </U>
+			<U WHO="S1"> uh that's that's just spare parts it's not like the (xx) </U>
+			<U WHO="SU-m"> oh an- any major parts in there? don't need that much. oh yeah there's plenty in there. that'll work. </U>
+			<U WHO="S1"> there's none of the </U>
+			<U WHO="SU-m"> i i can make that work. if i can borrow that for a little bit. that'll work no problem. okay. </U>
+			<EVENT DESC="END SIMULTANEOUS CONVERSATIONS"/>
+			<U WHO="S1"> okay. can i help you? </U>
+			<U WHO="SU-f"> can i get a Mac? </U>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<PAUSE DUR=":06"/>
+			<U WHO="S5"> (xx) P-C. nope. P-C's waitlist. (xx) Mac? </U>
+			<U WHO="SU-m"> yeah sure. </U>
+			<U WHO="S1"> Janet? do you need a disk drive? </U>
+			<U WHO="SU-m"> thank you. </U>
+			<U WHO="SU-f"> uh no, (xx) okay </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> no thanks </U>
+			<U WHO="S1"> oh okay </U>
+			<U WHO="SU-f"> this one's not working right. </U>
+			<U WHO="S5"> is it frozen or what? </U>
+			<U WHO="SU-f"> it's just like_ it's not frozen but it's just not doing anything like i'll, click on something and it'll just like keep going and it won't, <U WHO="S5"> okay </U> it's <OVERLAP> like it's always busy </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> any P-Cs right now? or </OVERLAP>
+			</U>
+			<U WHO="S1"> no if you want to sign the waitlist </U>
+			<U WHO="S5"> (xx) switch (xx) </U>
+			<EVENT DUR=":06" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="SU-f"> actually, i'll just take a Mac. </U>
+			<U WHO="S1"> okay. </U>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-f"> thanks. </U>
+			<EVENT DUR=":36" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S5"> no i just restarted it. i'm assuming it'll be okay. </U>
+			<U WHO="S1"> oh, that's right. <U WHO="S5"> did you want a cu- </U> Megan? oh she needs a P-C. </U>
+			<U WHO="SU-f">
+				<OVERLAP> i </OVERLAP> need a P-C. </U>
+			<U WHO="S5"> oh <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<EVENT DESC="SCANS TWO CARDS"/>
+			</U>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S5"> if you need a P-C you need to sign up. </U>
+			<U WHO="S1"> if you need a Mac we have one. </U>
+			<U WHO="SU-m"> no </U>
+			<U WHO="S5">
+				<OVERLAP> here </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<PAUSE DUR=":22"/>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> thanks </U>
+			<U WHO="S5"> are there any more? </U>
+			<U WHO="S1"> um, (yeah) </U>
+			<U WHO="S5"> sorry </U>
+			<EVENT DUR=":03" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="SU-f"> thanks </U>
+			<PAUSE DUR=":05"/>
+			<EVENT DUR=":03" DESC="AUDIO DISTURBANCE"/>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"> hi what do you_ no she's waiting (xx) </U>
+			<EVENT DUR=":03" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="S1"> thanks </U>
+			<U WHO="SU-f"> um, do you have any P-Cs right now? </U>
+			<U WHO="S1"> no, there's a waitlist for P-Cs. </U>
+			<U WHO="SU-f"> okay thanks. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> is there a waitlist? </U>
+			<U WHO="S1"> just for P-Cs. </U>
+			<U WHO="SU-f"> okay </U>
+			<PAUSE DUR=":09"/>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="S1"> (mhm) </U>
+			<PAUSE DUR=":25"/>
+			<U WHO="SU-f"> i don't have my M-Card can you just, use my last name? </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> mhm. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> Megan </U>
+			<U WHO="S5"> what's your last name? </U>
+			<U WHO="SU-f"> Evald, (xx) </U>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="SU-f"> N O U, <U WHO="S5"> N O U </U> S E A U. </U>
+			<U WHO="S5"> S E A U? </U>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="S5"> first name? </U>
+			<U WHO="SU-f"> Paula. <PAUSE DUR=":06"/> oh <PAUSE DUR=":06"/> thanks. </U>
+			<U WHO="SU-m"> do you know if there's a book in here called instrument a- analysis? </U>
+			<U WHO="S5"> uh what class is it for? </U>
+			<U WHO="SU-m"> it's for two-forty-two. chemistry </U>
+			<U WHO="S6"> you need to sign the list that's up in there. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> did </OVERLAP> you take the pen with you when you used it? </U>
+			<U WHO="SU-m"> excuse me? </U>
+			<U WHO="S1"> did you take the pen with you when you used it? </U>
+			<U WHO="SU-m"> nope </U>
+			<U WHO="S1"> okay never mind </U>
+			<U WHO="S6"> well if you miss- Jen there's a_ uh oh... </U>
+			<U WHO="S1"> just put me at_ what time is it? </U>
+			<U WHO="S6"> i don't know. it's twenty to </U>
+			<U WHO="S5"> (xx) </U>
+			<EVENT DESC="RECORDING RELATED SPEECH"/>
+			<U WHO="SU-m"> okay thanks. </U>
+			<U WHO="S1"> okay well maybe these people are gone... like good old Justin. </U>
+			<U WHO="S5"> can i help you? </U>
+			<U WHO="SU-f"> i'm just waiting <OVERLAP> for the, computer. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you can share </OVERLAP> one. </U>
+			<U WHO="S6"> yeah </U>
+			<U WHO="S5"> well a computer i have <OVERLAP> i just (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> here you get one <U WHO="S6">
+					<OVERLAP> no i don't care. that's fine. </OVERLAP>
+				</U>
+				<OVERLAP> i'm gonna go to the bathroom </OVERLAP> then. <PAUSE DUR=":04"/> thanks. </U>
+			<PAUSE DUR=":27"/>
+			<U WHO="S7"> (uh) my computer just is stuck i guess. </U>
+			<U WHO="S5"> frozen? </U>
+			<U WHO="S7"> huh? </U>
+			<U WHO="S5"> frozen. <U WHO="SU-m">
+					<OVERLAP> frozen </OVERLAP>
+				</U>
+				<OVERLAP> where </OVERLAP> are you <OVERLAP> at? </OVERLAP>
+			</U>
+			<U WHO="S7"> right in that row, station <U WHO="S5">
+					<OVERLAP> okay what computer number? </OVERLAP>
+				</U>
+				<OVERLAP> seventy-one. </OVERLAP> station seventy-one. </U>
+			<U WHO="SU-f"> can i get a computer? </U>
+			<U WHO="S1"> mhm </U>
+			<EVENT WHO="S6" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> this isn't working. </U>
+			<U WHO="S5"> is it frozen? </U>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="S1"> um, you have to wait a second cuz i don't have any, computers right now. oh wait here's one. <EVENT DESC="SCANS CARD"/> can you look at this one too while you're at it? </U>
+			<U WHO="S5"> yep </U>
+			<U WHO="S1"> thanks. you have to sign up on the </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-m"> do you have a I-B-M, (computer?) </U>
+			<U WHO="S1"> no, there's a waitlist. <PAUSE DUR=":05"/> you need a P-C <OVERLAP> too? </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> yeah. </OVERLAP> yeah. </U>
+			<U WHO="S1"> it'll probably be a while. </U>
+			<U WHO="SU-m"> it's gonna be a while? </U>
+			<U WHO="S1"> well i_ the the first person on the list has been waiting a couple minutes already. </U>
+			<U WHO="SU-m"> oh w- well does it have um, do they have Word on it? do the Macs have Word on it? </U>
+			<U WHO="S1"> Word? yeah all of them <U WHO="SU-m">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> have Word </OVERLAP> on it. </U>
+			<U WHO="SU-m"> then i'll take it then. </U>
+			<EVENT WHO="S2" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thanks. </U>
+			<U WHO="S1"> w- wh- what's your_ what was your name? are you John? </U>
+			<U WHO="SU-m"> Charles. </U>
+			<U WHO="S1"> Charles okay. <PAUSE DUR=":12"/> there's a waitlist right now. if you wanna sign up... it's right here... and then if you want a M- if you want a P-C write P-C next to it. </U>
+			<U WHO="SU-m"> can i check out a workstation? </U>
+			<U WHO="S1"> actually they're all, <U WHO="SU-m"> oh they're all </U> being used right now but you can sign up if you want. if you want a Mac you'd be the first person. <U WHO="SU-m"> mm </U> if you want a P-C there's a little bit of a wait. </U>
+			<PAUSE DUR=":29"/>
+			<U WHO="SU-f"> (xx) the printer has a paper jam </U>
+			<U WHO="S1"> excuse me? </U>
+			<U WHO="SU-f"> the printer has <OVERLAP> paper jam </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-m"> you've no computers? </U>
+			<U WHO="S5"> no there's a waitlist for them. </U>
+			<PAUSE DUR=":29"/>
+			<U WHO="S5"> oh you're gonna be next, as long as n- Justin </U>
+			<PAUSE DUR="1:01"/>
+			<U WHO="S1"> Jen, and Tim. </U>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-f"> thanks </U>
+			<PAUSE DUR=":04"/>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-m"> thanks </U>
+			<U WHO="S1"> there's a waitlist right now. </U>
+			<U WHO="S6"> oh okay. </U>
+			<PAUSE DUR=":29"/>
+			<U WHO="S1"> Steven </U>
+			<PAUSE DUR=":13"/>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-m"> thanks </U>
+			<U WHO="SU-f"> i can't get the C-D to eject from the... </U>
+			<U WHO="S1"> from th- your <U WHO="SU-f">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> computer? </OVERLAP> um did you click on the C-D and then go up to special and eject? did you </U>
+			<U WHO="SU-f"> is that what you have to do? <OVERLAP> click </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> or you or you can trash it but, make sure you that you're clicked on it, <U WHO="SU-f"> okay </U> and then go to special. </U>
+			<PAUSE DUR=":41"/>
+			<U WHO="SU-f"> i don't know it should work fine, like i opened telnet and it worked so, i don't know about other programs. </U>
+			<U WHO="S1"> Nicole </U>
+			<PAUSE DUR=":08"/>
+			<EVENT WHO="S2" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="S1"> mhm. </U>
+			<U WHO="SU-f"> is this waitlist all computers or...? </U>
+			<U WHO="S5"> all computers. </U>
+			<PAUSE DUR=":19"/>
+			<U WHO="SU-f"> do you guys have any more single transparencies? </U>
+			<U WHO="S5"> no we don't have any but the tens. i can break a pack of ten i guess. </U>
+			<U WHO="SU-f"> i need two more do you have change? do you guys have a five? </U>
+			<U WHO="S1"> we definitely don't have change up here </U>
+			<U WHO="S5"> no i'm just_ i'll (break 'em off here and) put 'em in the vending machine and then it, <U WHO="S1"> yeah </U> can sell 'em to you. </U>
+			<U WHO="SU-f"> is this the waitlist for any computer? </U>
+			<U WHO="S1"> yes. </U>
+			<PAUSE DUR=":21"/>
+			<U WHO="SU-f"> (xx) have a pair of scissors? </U>
+			<U WHO="S6"> yeah we do... here you go. you're welcome. </U>
+			<U WHO="S1"> William, and Mary. </U>
+			<PAUSE DUR=":16"/>
+			<U WHO="SU-f"> do you have any computer stations available? </U>
+			<U WHO="S1"> no there's a waitlist right now... j- uh Jay? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> how long's the wait (xx) </U>
+			<U WHO="S1"> um, only, a couple people ahead of you. are you Jay? </U>
+			<U WHO="SU-m"> Sanchez. <EVENT WHO="S2" DESC="SCANS CARD"/> uh can i get, do you guys have uh, i'm looking for two books on reserve for bio three-oh-eight? </U>
+			<U WHO="S5"> yeah we have 'em </U>
+			<U WHO="S1"> Danielle </U>
+			<U WHO="S5"> oh wait i sh- okay </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> Danielle </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S1"> oh you're right there sorry. </U>
+			<U WHO="SU-f"> it's okay... i just wanted to (xx) </U>
+			<PAUSE DUR=":14"/>
+			<U WHO="SU-m"> thanks </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="S1"> Katy <PAUSE DUR=":19"/> Candice </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> do you need a computer? </U>
+			<U WHO="SU-f"> yeah </U>
+			<PAUSE DUR=":13"/>
+			<U WHO="SU-f"> did you (club) last night Candice? </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="SU-f"> oh i didn't go out. i was </U>
+			<U WHO="SU-f"> (xx) (you weren't there?) </U>
+			<U WHO="SU-f"> nope </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1">
+				<EVENT DESC="SCANS CARD"/> thank you </U>
+			<U WHO="SU-f"> thank you. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-f">
+				<OVERLAP> can i just walk in and (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> (xx) just need this card </OVERLAP> right? </U>
+			<U WHO="SU-f"> uhuh </U>
+			<U WHO="S6"> okay </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-f"> do you have any P-Cs yet? </U>
+			<U WHO="S5"> um no. </U>
+			<U WHO="SU-f"> okay is there anybody waiting? or </U>
+			<U WHO="S5"> there's one person. </U>
+			<U WHO="SU-f"> okay. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S5"> oh my gosh. </U>
+			<U WHO="SU-f"> yeah... it happens every once in a while. (haven't heard it lately though) </U>
+			<U WHO="S5"> what stops it? </U>
+			<U WHO="SU-f"> someone's trying to use, water in there i guess that doesn't work or something. </U>
+			<U WHO="S5"> they haven't turned it off? <U WHO="SU-f"> yeah </U> maybe they left it on. </U>
+			<U WHO="SU-f"> um, <U WHO="S5">
+					<OVERLAP> Nadhi </OVERLAP>
+				</U>
+				<OVERLAP> do you have, the, </OVERLAP> the exams for Chem two-sixteen? </U>
+			<U WHO="S5"> is that your name? </U>
+			<U WHO="SU-f"> two-sixteen? um </U>
+			<U WHO="SU-f"> yep </U>
+			<U WHO="SU-f"> um </U>
+			<U WHO="S5"> do you want a P-C? <OVERLAP> or maybe that's, maybe that's another person </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> no i, </OVERLAP> yes. </U>
+			<U WHO="S5"> yes </U>
+			<U WHO="SU-f"> do you know where Christina Meninski would be? </U>
+			<U WHO="S5"> um, yeah Chemistry, in the back right-hand corner of the room there's alcoves. <U WHO="SU-f"> okay </U> like right back there, <U WHO="SU-f"> okay </U> and she's sitting in one of those. </U>
+			<U WHO="SU-f"> thank you </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="SU-f"> this computer's frozen. </U>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="SU-f"> it's like the start-up like it's reloading and it's stopped. you know like there's that little bar that goes across? </U>
+			<U WHO="S5"> yeah. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-f"> (okay) </U>
+			<PAUSE DUR=":17"/>
+			<U WHO="S5"> someone helping you? </U>
+			<U WHO="SU-f"> i'm not sure if she checked_ um i need the Chem two-sixteen exams. </U>
+			<U WHO="S5"> oh. <PAUSE DUR=":07"/> you have your M-Card? </U>
+			<U WHO="SU-f"> yeah. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S5"> there you go. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="SU-m"> what's this all about? </U>
+			<U WHO="S5"> oh the microphones? </U>
+			<U WHO="SU-m"> yes </U>
+			<U WHO="S5"> um, there's_ they're doing a research study on, the words that are being used in various university settings. </U>
+			<U WHO="SU-m"> oh okay </U>
+			<U WHO="S5"> i don't know. </U>
+			<U WHO="SU-m"> i see. do you mind_ um i got like something caught in that little machine i bought some notecards and it didn't fall out. </U>
+			<U WHO="S5"> yeah. </U>
+			<U WHO="SU-m"> thanks. </U>
+			<PAUSE DUR=":59"/>
+			<U WHO="SU-f"> is this computer frozen? </U>
+			<U WHO="S5"> yeah she said it's frozen on the start-up. (xx) </U>
+			<PAUSE DUR=":44"/>
+			<U WHO="SU-f"> hi <PAUSE DUR=":07"/> thanks. </U>
+			<PAUSE DUR="1:07"/>
+			<U WHO="SU-m"> hi... Geo introductory oceanography. bet that's a fun class. </U>
+			<U WHO="SU-f"> computer goes o- classroom goes on reserve at one. <U WHO="S5"> yeah </U> so we need to start finding out if, if they're gonna be here for an hour or not. </U>
+			<PAUSE DUR=":57"/>
+			<U WHO="SU-f"> do you have any open P-Cs? </U>
+			<U WHO="S5"> no. there's still a waitlist for the P-Cs. </U>
+			<U WHO="SU-f"> um can i get a Mac with a floppy? </U>
+			<U WHO="S5"> mhm. <PAUSE DUR=":05"/> will you be on longer than an hour? </U>
+			<U WHO="SU-f"> uh no. </U>
+			<EVENT WHO="S5" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S5"> you're welcome </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> hi. </U>
+			<U WHO="S5"> hi. </U>
+			<EVENT WHO="S5" DESC="SCANS TWO CARDS"/>
+			<U WHO="SU-f"> do you happen to have a paper clip? </U>
+			<U WHO="S5"> yes we <OVERLAP> do. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> thanks. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> thank you </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Beth </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> y- </OVERLAP> you're welcome. </U>
+			<PAUSE DUR=":26"/>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S5"> mhm. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="SU-f"> um i'll wait for a P-C. </U>
+			<U WHO="S5"> you_ put your name down. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="SU-f"> can i have a different card (xx) this computer's (xx) </U>
+			<U WHO="S5"> um, will you be on longer than an hour? </U>
+			<U WHO="SU-f"> uh no... <EVENT WHO="S5" DESC="SCANS CARD"/> thanks. </U>
+			<PAUSE DUR=":45"/>
+			<U WHO="SU-f"> thank you. </U>
+			<EVENT WHO="S5" DESC="SCANS CARD"/>
+			<U WHO="S5"> will you be on longer than an hour? </U>
+			<U WHO="SU-f"> no <EVENT WHO="S5" DESC="SCANS CARD"/> thanks. </U>
+			<PAUSE DUR=":23"/>
+			<U WHO="SU-f"> i don't know it wasn't frozen when when i got there. <PAUSE DUR=":04"/> typed in the password and it booted right up. </U>
+			<PAUSE DUR=":25"/>
+			<U WHO="SU-m"> hey uh, can i use a calculator? </U>
+			<U WHO="S5"> actually, i don't believe we have a calculator, and we don't. </U>
+			<U WHO="SU-m"> you don't? </U>
+			<U WHO="S5"> sorry. </U>
+			<U WHO="SU-m"> thanks. </U>
+			<PAUSE DUR=":47"/>
+			<U WHO="SU-m"> hi i need a uh, C-D for geological sciences, two-twenty-two. </U>
+			<PAUSE DUR=":12"/>
+			<EVENT WHO="S5" DESC="SCANS TWO CARDS"/>
+			<U WHO="S5"> there you go. </U>
+			<U WHO="SU-m"> um, i need a computer to do this (xx) </U>
+			<U WHO="S5"> oh </U>
+			<U WHO="SU-m"> oh no. </U>
+			<PAUSE DUR=":04"/>
+			<EVENT WHO="S5" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thank <OVERLAP> you. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> mhm. </OVERLAP>
+			</U>
+			<PAUSE DUR=":15"/>
+			<U WHO="SU-m"> this computer's frozen up can i have another one? </U>
+			<U WHO="S5"> mhm... i don't need your M-Card. </U>
+			<U WHO="SU-m"> okay </U>
+			<PAUSE DUR=":50"/>
+			<U WHO="SU-f"> i forgot my M-Card can i just...? </U>
+			<U WHO="S5"> i need your last name. </U>
+			<U WHO="SU-f"> Brunswick B R U, N S W_ oh sorry <U WHO="S5"> B R U </U> N S W, I C K. </U>
+			<U WHO="S5"> first name? </U>
+			<U WHO="SU-f"> Tracy </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> are you gonna be on longer than an hour? </U>
+			<U WHO="SU-f"> no. <EVENT WHO="S5" DESC="SCANS CARD"/> thank you. </U>
+			<U WHO="S5"> mhm. </U>
+			<PAUSE DUR=":13"/>
+			<U WHO="SU-f"> excuse me, is there a fifty-eight? cuz it says thirty-six through fifty seven <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah </OVERLAP> it's in the classroom straight back. </U>
+			<PAUSE DUR=":44"/>
+			<U WHO="SU-f"> hi <U WHO="S5"> hi </U> um there's something wrong with the computer i'm using. i can't get my disk out now. <U WHO="S5">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> i was </OVERLAP> trying to open up a file and, it won't op- it first it took forever now, it's like frozen <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> okay (xx) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> hey how's it going? </U>
+			<U WHO="S8"> i can get your disk out for you. </U>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S8"> nah the disk won't be ruined. <PAUSE DUR=":20"/> i'm just gonna unplug the computer (xx) restart it. <U WHO="SU-m"> thank you. </U> (cuz i don't want anything to be lost on the disk.) </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-f"> hi. </U>
+			<U WHO="S8"> you're recording. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> it's not me but... how are you? </U>
+			<U WHO="SU-f"> i'm okay. are you graduating? </U>
+			<U WHO="S5"> yeah. you? </U>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="S8"> you excited? </U>
+			<U WHO="S5"> oh yeah you were looking at schools (xx) right? </U>
+			<U WHO="SU-f"> um, i don't know (xx) </U>
+			<U WHO="S8"> yeah but i'm, decided i'm either going here or Vanderbilt. </U>
+			<U WHO="SU-f"> (xx) no problem. </U>
+			<U WHO="S5"> good luck. <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="SU-f"> thank you </U>
+			<U WHO="S8"> can she get another computer? </U>
+			<U WHO="SU-f"> cuz it's, freezing up. </U>
+			<U WHO="S5"> will you be on longer than an hour? </U>
+			<U WHO="SU-f"> no <EVENT WHO="S5" DESC="SCANS CARD"/> thank you. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S5"> do you need a disk drive? </U>
+			<U WHO="SU-f"> (i have one) thanks. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="SU-m"> (i had that) P-C i (just) wanna return it <EVENT WHO="S5" DESC="SCANS CARD"/> thanks. </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="SU-f"> can i have a P-C? </U>
+			<U WHO="S5"> yes <EVENT DESC="SCANS CARD"/> will you be on longer than an hour? </U>
+			<U WHO="SU-f"> no </U>
+			<EVENT WHO="S5" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> i forgot my M-Card can i just </U>
+			<U WHO="S5"> your last name? </U>
+			<U WHO="SU-f"> F A L, D H, U R I. </U>
+			<U WHO="S5"> first name? </U>
+			<U WHO="SU-f"> L U M A. can i get a hard drive? <EVENT WHO="S5" DESC="SCANS CARD"/> thank you. </U>
+			<U WHO="S5"> oh will you be l- on longer than an hour? </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S5"> okay. will you be on longer than an hour? <EVENT DESC="SCANS CARD"/> shit. </U>
+			<U WHO="SU-f"> can i have a Mac please? <PAUSE DUR=":09"/>
+				<EVENT WHO="S5" DESC="SCANS CARD"/> thanks. </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="S5"> will you be on longer than fifty minutes? </U>
+			<U WHO="SU-m"> no. <EVENT DESC="SCANS CARD"/> thanks. </U>
+			<U WHO="SU-m"> can i have a station card? it's not gonna scan right. <OVERLAP> Koopa, Koopa </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> just gimme your last name yeah sorry </OVERLAP>
+				<PAUSE DUR=":04"/> uh what's your first name? </U>
+			<U WHO="SU-m"> Sunir, S U N I R. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S5"> this'll be reserved at one can you be off <OVERLAP> (by) that time? </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> i'm gonna be </OVERLAP> five minutes. <U WHO="S5"> oh </U> thank you. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S5"> is P-C okay? </U>
+			<U WHO="SU-f"> um, no i need a um, <U WHO="S5"> a Mac? </U> yeah. </U>
+			<U WHO="S5"> okay you have to wait a couple of minutes. i'm sure it won't be long. </U>
+			<U WHO="SU-f"> okay. </U>
+			<U WHO="S8"> i restarted that one and it just wasn't, like reading your disk it might work now </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> is a P-C okay? </U>
+			<U WHO="SU-m"> excuse me? </U>
+			<U WHO="S5"> is a P-C okay? </U>
+			<U WHO="SU-m"> yeah... <EVENT WHO="S5" DESC="SCANS CARD"/> thanks. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-f"> hey, do i_ do you need my M-Card? or </U>
+			<U WHO="S5"> no you're all set </U>
+			<U WHO="SU-f"> alright thanks. </U>
+			<U WHO="S8"> do need_ do you need to use the disk drive on the Mac? or just </U>
+			<U WHO="SU-f"> yeah i need to use it. but that's alright if it doesn't have one. </U>
+			<U WHO="S5"> it's alright if it doesn't have a disk drive? okay then i have one that the, disk drive's not working. <EVENT DESC="SCANS CARD"/>
+			</U>
+			<U WHO="S8"> i wouldn't put your disk in the drive because the last girl got hers stuck. okay, sure. <PAUSE DUR=":04"/> dry erase one or <OVERLAP> a regular one? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> it doesn't matter </OVERLAP> a regular one's fine. </U>
+			<U WHO="S8"> cuz, like we have overhead pens. <U WHO="SU-f"> (just a regular) (xx) </U> yeah </U>
+			<U WHO="SU-f"> am i supposed to let you guys know if i change my office hours? </U>
+			<U WHO="S9"> uh yeah actually. </U>
+			<U WHO="S5"> are you changing them permanently or jus- </U>
+			<U WHO="SU-f"> no it was just for this week. </U>
+			<U WHO="S5"> oh no you don't_ no that's fine <U WHO="SU-f"> okay </U> you can right it on the, board up there so the people that, are looking can see that you changed it. </U>
+			<U WHO="SU-m"> can i get a P-C? </U>
+			<U WHO="S5"> yes. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S5"> thank you </U>
+			<U WHO="SU-m"> thanks. </U>
+			<U WHO="SU-m"> i found one of these under the keyboard. </U>
+			<U WHO="S5"> you found one, <U WHO="SU-m">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> underneath </OVERLAP> the computer. okay just throw it in there. thank you. </U>
+			<PAUSE DUR=":25"/>
+			<U WHO="SU-f"> what is today's date? </U>
+			<U WHO="S5"> the tenth. </U>
+			<U WHO="SU-f"> thank you. </U>
+			<PAUSE DUR=":39"/>
+			<U WHO="SU-m"> (hey) could i get a Mac please? </U>
+			<U WHO="S5"> yes. </U>
+			<PAUSE DUR=":08"/>
+			<EVENT WHO="S5" DESC="SCANS CARD"/>
+			<U WHO="SU-m"> thanks. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-m"> thank you. </U>
+			<PAUSE DUR=":24"/>
+			<U WHO="SU-m"> do you_ um you haven't gotten any calculators back? </U>
+			<U WHO="S9"> we have calculators now um, they're not scientific or anything but, <U WHO="SU-m"> oh they're not </U> that's all we have. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-m"> mm <EVENT WHO="S9" DESC="LAUGH"/>
+				<PAUSE DUR=":04"/> i'll try to work with it then. </U>
+			<U WHO="S9"> better than nothing </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-m"> actually how many scientifics you have out? </U>
+			<U WHO="S9"> i don't know. like fi- we used to have a lot i feel they've all been stolen or something. <EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S5"> they seem to have disappeared... along with our graphing calculators. </U>
+			<U WHO="SU-m"> oh. thank you. </U>
+			<U WHO="S5"> we should look 'em up and see who has 'em. <EVENT DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":28"/>
+			<U WHO="SU-f"> thank you. </U>
+			<PAUSE DUR=":30"/>
+			<U WHO="SU-m"> could i get P-C please? </U>
+			<U WHO="SU-f"> i'm doing karaoke. </U>
+			<U WHO="SU-m"> really? where? </U>
+			<U WHO="SU-f"> right here </U>
+			<U WHO="SU-m"> oh, sweet. <EVENT DESC="LAUGH"/> go ahead start off. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<PAUSE DUR=":07"/>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S9"> oh i'm so hungry. </U>
+			<U WHO="S5"> so am i. i'm starving. </U>
+			<PAUSE DUR="1:07"/>
+			<U WHO="SU-f"> hi, i need a P-C. um not P-C, Mac. what i am doing? <PAUSE DUR=":05"/> uh can i go to the uh pink one? </U>
+			<U WHO="S5"> i- it'll be reserved in forty-five minutes can you be off? <U WHO="SU-f"> uh yeah. </U> (in forty?) </U>
+			<U WHO="SU-f"> twenty minutes is okay, thank you. </U>
+			<U WHO="SU-f"> do you have any P-Cs? </U>
+			<U WHO="S5"> uh, yes. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR="1:12"/>
+			<U WHO="SU-m"> do you have any P-Cs? </U>
+			<U WHO="S5"> uh no i don't. </U>
+			<U WHO="SU-m"> okay an Apple's fine. </U>
+			<U WHO="S5"> that's your credit card. </U>
+			<U WHO="SU-m"> oops i'm sorry. <EVENT WHO="SS" DESC="LAUGH"/> i grabbed the <OVERLAP> wrong one. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> thanks though. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> i'll buy one. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S5"> it's gonna be reserved in forty-five minutes do you need longer than that? <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> oh no that's fine. </OVERLAP>
+				<PAUSE DUR=":04"/>
+				<EVENT WHO="S5" DESC="SCANS CARD"/> thank you. </U>
+			<U WHO="SU-m"> i can't get something to print on this one. </U>
+			<U WHO="S5"> can you help him? </U>
+			<U WHO="S9"> sure. </U>
+			<U WHO="SU-m"> n- <EVENT DESC="LAUGH"/> i logged off now but </U>
+			<U WHO="S9"> oh </U>
+			<U WHO="S5"> do you just want to try a different computer then or do you </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S5"> you're welcome. </U>
+			<U WHO="S9"> that's an odd message. </U>
+			<U WHO="S5"> thanks. </U>
+			<PAUSE DUR=":30"/>
+			<EVENT DUR="1:03" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="SU-f"> that's you? </U>
+			<U WHO="SU-m"> that's me. <U WHO="SU-f">
+					<OVERLAP> it looks so different </OVERLAP>
+				</U>
+				<OVERLAP> freshman y- </OVERLAP> it's freshman year. i don't think it looks that different. </U>
+			<U WHO="SU-f"> you do </U>
+			<U WHO="SU-m"> yeah i'm <OVERLAP> old. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> it's </OVERLAP> (xx) different. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> i'm a geezer now i'm a relic here </U>
+			<U WHO="SU-f"> what year are you? </U>
+			<U WHO="SU-m"> fourth year. </U>
+			<U WHO="SU-f"> oh. </U>
+			<U WHO="SU-f"> you're outta here? </U>
+			<U WHO="SU-m"> one more semester. </U>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S9"> i think there's something you have to do, special for um P-D-Fs so, <OVERLAP> i'll go ask her. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> are there any P-Cs? </OVERLAP> or <U WHO="S5">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> i'll </OVERLAP> just have any computer. <PAUSE DUR=":07"/>
+				<EVENT WHO="S5" DESC="SCANS CARD"/> thanks. </U>
+			<U WHO="SU-m"> so no P-Cs? </U>
+			<U WHO="S5"> nope. </U>
+			<U WHO="SU-m"> can i get an iMac then? </U>
+			<U WHO="S5"> yes. <PAUSE DUR=":07"/> there you go. </U>
+			<U WHO="S9"> what do we have to do to print a P-D-F file? </U>
+			<U WHO="S5"> P-D-F that's acrobu- acr- ac- Acrobat Reader should just automatically open it up. </U>
+			<U WHO="S9"> right but the other day Aar- i mean_ yeah Aaron was doing stuff because th- it wasn't, if you try to print it and it won't print. </U>
+			<U WHO="S5"> oh i don't i don't know, then. you might have to try a new computer then i don't know. </U>
+			<U WHO="SU-m"> you guys are out of single transparencies? </U>
+			<U WHO="S5">
+				<OVERLAP> (um) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> oh it worked? </OVERLAP> okay... it worked this time. </U>
+			<U WHO="S5"> can you hang on a second? </U>
+			<U WHO="S5"> what? yeah i know. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> can i have_ i'm sorry. can i have the I-R index? </U>
+			<U WHO="S9"> sure. </U>
+			<U WHO="S5"> how many more, how many more do you need? </U>
+			<U WHO="SU-m"> well actually i, i bought one, one of these but i thought (there) was another one so (xx) </U>
+			<U WHO="S9"> are you gonna use it just up front or are you gonna, check it out? </U>
+			<U WHO="SU-f"> no i'll just use it right here. <U WHO="S9"> okay </U> (thank you) </U>
+			<U WHO="S9"> you're welcome. <OVERLAP> hi </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> hi </OVERLAP>
+			</U>
+			<U WHO="S9"> do you need a Mac? </U>
+			<U WHO="SU-m"> uh it doesn't matter. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S9"> here you go. </U>
+			<U WHO="SU-m"> thank you very much. </U>
+			<U WHO="S9"> you're welcome. hi. </U>
+			<U WHO="S10"> hi can i have a P-C? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S9"> we don't have any P-Z P-Cs in right now. if you want to sign your name on the waitlist you'll be the first one. </U>
+			<U WHO="S10"> um, okay thank you. (xx) </U>
+			<U WHO="S9"> (okay) <PAUSE DUR=":06"/> there you go. </U>
+			<U WHO="SU-f"> thanks </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S9"> hi. </U>
+			<U WHO="SU-m"> P-C is there a waitlist or something? </U>
+			<U WHO="S9"> uh yeah, we don't have any P-Cs but if you want to sign you name, then i'll get you one as soon, as i can. </U>
+			<PAUSE DUR=":13"/>
+			<U WHO="S6"> what are you looking for? like uh, which experiment are you doing? </U>
+			<U WHO="SU-f"> ten. </U>
+			<U WHO="S6"> oh. okay. </U>
+			<U WHO="SU-f"> so <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> so it's different </U>
+			<U WHO="SU-f"> yeah totally. actually i'll be right back. </U>
+			<U WHO="SU-f"> (excuse me) (xx) is there a way that we can get fifty-eight and fifty-nine? cuz these aren't acr- next to each other they're across the room. </U>
+			<U WHO="S9"> um, lemme check for you. </U>
+			<U WHO="SU-f"> (xx) how are you? </U>
+			<U WHO="S5"> good. </U>
+			<U WHO="SU-f"> (oh wow.) </U>
+			<U WHO="SU-f"> (those are) peeps. </U>
+			<U WHO="SU-f"> yeah is that the thing that they did yesterday? what was that for? </U>
+			<U WHO="S5"> i don't know <OVERLAP> they </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> someone </OVERLAP> has the station card to fifty-nine so i can't get you that one. </U>
+			<U WHO="SU-f"> okay maybe the one next to that. </U>
+			<U WHO="S9"> i have fifty-eight and sixty. </U>
+			<U WHO="SU-f"> oh that works <OVERLAP> we can do that </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> yeah, we'll </OVERLAP> take that. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> do you have a marker i could borrow for the dry erase board? <EVENT WHO="S9" DESC="SCANS CARD"/> thank you. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S5"> there's (xx) </U>
+			<U WHO="S9"> what's her name again? </U>
+			<U WHO="S5"> i <OVERLAP> can't tell who that is </OVERLAP>
+			</U>
+			<U WHO="S9"> Lauren what's up? </U>
+			<U WHO="SU-f"> hello how are you? </U>
+			<U WHO="SU-f"> good. </U>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S5"> you're welcome. </U>
+			<U WHO="S9"> hey have you seen (xx) </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S5"> hi. </U>
+			<U WHO="SU-f"> hi. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S5"> there you go. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="S5"> you're welcome. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-m"> thanks </U>
+			<U WHO="S5"> you're welcome. </U>
+			<U WHO="S9"> is there an N-M-R catalog too? it exists? </U>
+			<U WHO="S5"> yeah, yeah. </U>
+			<U WHO="S9"> does it? </U>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="SU-f"> um, could i get that? </U>
+			<U WHO="S5"> get what? </U>
+			<U WHO="SU-f"> the e- the N-M-R catalogue? </U>
+			<U WHO="S5"> yeah. </U>
+			<U WHO="SU-f"> thank you. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S5"> here you go. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="SU-f"> are you doing ten also? </U>
+			<U WHO="SU-f"> um ten and eight, <OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> okay, </OVERLAP> (that's a lot.) </U>
+			<U WHO="S9"> can i help you? </U>
+			<U WHO="SU-m"> computer. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S9"> here you go. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> so this is all the transparencies we have (xx) </U>
+			<U WHO="SU-f"> yes. </U>
+			<U WHO="S9"> there's no more. </U>
+			<U WHO="SU-f"> are these books checked in? </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S9"> hi. </U>
+			<U WHO="SU-m"> hey </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S9"> here you go. </U>
+			<U WHO="SU-m"> thanks. </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S9"> (xx) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-f"> hi. is there anyway we can get di- two computers checked out on, this? </U>
+			<U WHO="S9"> (yeah) </U>
+			<U WHO="SU-f"> cuz i, i lost my M-Card. <EVENT DESC="LAUGH"/> why you guys have all these microphones? </U>
+			<U WHO="S9"> we're being recorded for some language, thing. </U>
+			<U WHO="SS"> oh. </U>
+			<U WHO="SU-m"> that sounds like fun. am i being recorded too? </U>
+			<U WHO="SU-f"> where's the index (if you need the...) where's the index (xx) </U>
+			<U WHO="S9"> are you going to be longer than a, half hour? </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="SU-m"> not likely. </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="SU-f"> did you get what you wanted? </U>
+			<U WHO="SU-f">
+				<OVERLAP> um (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> but can we have two next to each other please? </OVERLAP>
+			</U>
+			<U WHO="SU-m"> God i hate this. </U>
+			<U WHO="SU-f"> me too. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> i'm so glad it's the last one. </U>
+			<U WHO="SU-f"> i'm almost convinced that i have like_ my N-M-R is not, what my I-R is. it's so far off (xx) </U>
+			<U WHO="SU-f"> yeah, they are. </U>
+			<U WHO="SU-m"> (xx) <EVENT DESC="LAUGH"/> sorry... <U WHO="S9">
+					<OVERLAP> there you go. </OVERLAP>
+				</U>
+				<OVERLAP> thank you. </OVERLAP> thank you. </U>
+			<U WHO="SU-f">
+				<OVERLAP> thank you. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> you're welcome. </OVERLAP>
+				<PAUSE DUR=":04"/> hi </U>
+			<U WHO="SU-m"> hi </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S9"> there you go. </U>
+			<U WHO="SU-m"> thanks... hey can i see this? </U>
+			<U WHO="S9"> yeah. </U>
+			<U WHO="SU-m"> alright thanks. </U>
+			<PAUSE DUR=":21"/>
+			<U WHO="S9"> do you need to use a disk drive? </U>
+			<U WHO="SU-f"> hm? </U>
+			<U WHO="S9"> do you need to use a disk drive? </U>
+			<U WHO="SU-f"> 'm'm. </U>
+			<U WHO="S9">
+				<EVENT DESC="SCANS CARD"/> here you go. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="S9"> you're welcome. </U>
+			<U WHO="SU-f"> yeah i need an I-R and an N-M-R book for_ this is </U>
+			<U WHO="S9"> they have them right there. the index are you looking for or do you need_ know the number of the book? </U>
+			<U WHO="SU-f"> well i just like need, like the books_ are they back there (xx) </U>
+			<U WHO="SU-f"> i have a question fifty-eight isn't working is there a way i can have sixty-one? </U>
+			<U WHO="S9"> uh no sixty-one is out of order. </U>
+			<U WHO="SU-f"> out of order, mm can i have any other one then i guess? </U>
+			<U WHO="S9"> okay. </U>
+			<U WHO="SU-f"> even actually sixty-five will do too cuz that's right across. <PAUSE DUR=":07"/>
+				<EVENT WHO="S9" DESC="SCANS CARD"/> thanks. </U>
+			<U WHO="SU-m"> can i get a computer please? </U>
+			<U WHO="S9"> sure... <EVENT DESC="SCANS CARD"/>
+				<U WHO="SU-m">
+					<OVERLAP> excellent thank you. </OVERLAP>
+				</U>
+				<OVERLAP> there you go. you're </OVERLAP> welcome. hi. </U>
+			<U WHO="SU-f"> hi. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S9"> there you go. </U>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S9"> you're welcome. </U>
+			<PAUSE DUR=":35"/>
+			<U WHO="SU-m"> there was somebody on that computer with a card that said station fifty-three. <U WHO="S9"> okay </U> so i guess you have two, <OVERLAP> (of that) card. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> well i think what </OVERLAP> happened was someone, took the card and then they came back with it and just <U WHO="SU-m">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> (go to) </OVERLAP> the computer. cuz, <U WHO="SU-m"> okay. </U> i pulled this card this morning because we didn't have it. <U WHO="SU-m"> hm </U> someone brought it back <U WHO="SU-m">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> um are you going to be longer than thirty minutes? </U>
+			<U WHO="SU-m"> no. <PAUSE DUR=":06"/>
+				<EVENT WHO="S9" DESC="SCANS CARD"/>
+				<OVERLAP> thank you. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> (there you go.) </OVERLAP> you're welcome. </U>
+			<PAUSE DUR=":16"/>
+			<EVENT DESC="TELEPHONE RINGS"/>
+			<U WHO="S6">
+				<EVENT DESC="SPEAKING ON TELEPHONE"/> hello? science learning center. Angie. um, no Teresa's here. um she's here until one. yep. um, sure whenever she comes back. she's helping somebody with something. um i can have her give you a call if you want me too. okay. no problem. bye. <PAUSE DUR=":11"/> Aaron wants you to call him. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="SU-f"> (is) does that (xx) the copying machine ate twenty cents (my twenty cents) (xx) and it's </U>
+			<U WHO="S6"> uh </U>
+			<U WHO="SU-f"> and i still need <OVERLAP> to make a, </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> do you have a nickel? </OVERLAP>
+				</U> few more (xx) </U>
+			<U WHO="S9"> five cents? </U>
+			<U WHO="SU-f"> (i might.) </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S9"> hi. </U>
+			<U WHO="SU-f"> i just need a computer. </U>
+			<U WHO="S9"> okay. </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S9"> there you go. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="SU-f"> i think you might have the same um, one as i do. <OVERLAP> how many (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> your aldehyde does </OVERLAP> not look_ nothing, i mean, it definitely is not </U>
+			<U WHO="SU-f"> one two three four five six, seven (eight nine.) </U>
+			<U WHO="SU-f"> lemme see your N-M-R. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> (alright) </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> this is my I-R. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-f"> are you guys using both those books? like can i just check, to see where one of the </U>
+			<U WHO="SU-f"> sure. </U>
+			<U WHO="SU-f"> which one aren't you using? </U>
+			<U WHO="SU-f"> well, i w- i kind of am_ i'm using this one she's using that one so </U>
+			<U WHO="SU-f">
+				<OVERLAP> the indexes are (xx) (book too) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> um i'm done using this one. </OVERLAP> but this isn't the index or anything so </U>
+			<U WHO="SU-f"> this is the index? </U>
+			<U WHO="SU-f"> no this is N-M-R under here. </U>
+			<U WHO="SU-f"> one of these is an index. </U>
+			<U WHO="SU-f"> that's index. that's the one i'm using. <U WHO="SU-f"> (oh <OVERLAP> okay) </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> i mean you could check something in it if you, want to. </U>
+			<U WHO="SU-f"> there should be an index in volume two of the N-M-R. </U>
+			<U WHO="SU-f"> yeah this is not_ that's not what an N-M-R looks like at all. </U>
+			<U WHO="SU-f"> okay. </U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT 2:20"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="S9"> hi. </U>
+			<U WHO="S10"> um, can i have a P-C please? </U>
+			<U WHO="S9"> yes you can. <EVENT DESC="SCANS CARD"/> here you go. </U>
+			<U WHO="S10"> thank you. </U>
+			<PAUSE DUR=":40"/>
+			<U WHO="SU-m"> how you doing? </U>
+			<U WHO="S9"> good how are you doing? </U>
+			<U WHO="SU-m"> is that research uh, information right there? <OVERLAP> (asking the) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> yeah, </OVERLAP>
+				<EVENT DESC="LAUGH"/> i_ but we're not the <OVERLAP> r- researchers. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> wh- what's </OVERLAP> going on here? </U>
+			<U WHO="S9"> um, i think they're just trying to, see what kinds of language is sp- like what kind of English is spoken in various university settings (xx) non-native speakers (xx) </U>
+			<U WHO="SU-m"> really? well i, i speak it, English that is. <EVENT DESC="LAUGH"/> alright. thank you. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S9"> what volume do you need? </U>
+			<U WHO="SU-f"> um, volume one for um, what is this? this is I-R i think. yeah. </U>
+			<U WHO="S9"> (xx) </U>
+			<U WHO="SU-f"> hi Becky. </U>
+			<U WHO="SU-f"> hi (Peter Sarah) what's up. hanging in there? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> hi this book's on reserve for, Bio three-oh-eight i was wondering if i could get this. </U>
+			<U WHO="S9"> yes </U>
+			<U WHO="SU-m"> what's the microphones for? </U>
+			<U WHO="S9"> do you_ what'd you say? </U>
+			<U WHO="SU-m"> what's the microphones for? </U>
+			<U WHO="S9"> um they're doing_ someone's doing a research, uh s- s- study on, different, words that are said in, university settings. </U>
+			<U WHO="SU-m"> oh are those tests? okay. </U>
+			<U WHO="S9"> yeah is that what you wanted? </U>
+			<U WHO="SU-m"> um i'll take that too and, <OVERLAP> the books. yeah </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> do you want the books? oh sorry </OVERLAP>
+			</U>
+			<U WHO="SU-m"> (xx) </U>
+			<PAUSE DUR=":10"/>
+			<EVENT DESC="CONVERSATION 2"/>
+			<U WHO="SU-f"> the aldehydes are (xx) </U>
+			<U WHO="SU-f"> i don't think this is an aldehyde though. <OVERLAP> if this is an al- </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> huh? </OVERLAP> no th- i'm p- i- i'm positive <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> that yours </OVERLAP> is an aldehyde? <U WHO="SU-f">
+					<OVERLAP> it's an aldehyde </OVERLAP>
+				</U>
+				<OVERLAP> well </OVERLAP> my only problem is that, if it's an aldehyde why isn't it on here on my N-M-R at all? </U>
+			<U WHO="SU-f"> the way you read, N-M-R is how many hydrogens you have. </U>
+			<U WHO="SU-f"> oh i know but, um, i don't have a hydrogen for an aldehyde and a hydrog- uh aldehyde hydrogen on here. um, should <OVERLAP> i (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> so, </OVERLAP> you said yours isn't an aldehyde, or <OVERLAP> it is? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> i i </OVERLAP> don't know how it c- well, i i first i thought that_ see i wrote aldehyde i thought that it was for sure an aldehyde and then, <OVERLAP> i look at </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> because yeah </OVERLAP> it has the <U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> twenty-seven </OVERLAP> twenty-eight hundred dip right there </U>
+			<U WHO="SU-f"> here's an aldehyde_ where is it? at nine-point-seven there should be, s- an absorption (xx) and i definitely don't have that. </U>
+			<U WHO="SU-f"> so have you narrowed, it down to like a few? </U>
+			<U WHO="SU-f"> i, i can't like i, i have no idea like, i_ all i know is it can't be a carbon chain for me. </U>
+			<U WHO="SU-f"> i did i did like how many hydrogen things there are. this one has like six, but one of 'em has nine, this one has nine or something <OVERLAP> (i guess.) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> see i don't </OVERLAP> have any double humps in mine. i have no couple. so there's no neighbors there's no um, chemical_ do you know what i mean? <U WHO="SU-f"> mhm </U> so i can't have i can't have i can't have this i can't have this... i can't have this or this... i have no O-Hs, i think it might be, <OVERLAP> i think it's (maybe) one of these. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP> one of these or something? <U WHO="SU-f"> mhm </U> (xx) </U>
+			<U WHO="SU-f"> but you know for sure it's (xx) </U>
+			<U WHO="SU-f"> i mean, i- there's no absorption. so, but otherwise i thought it would be. </U>
+			<EVENT DESC=":20 UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-f"> can i see, (xx) </U>
+			<U WHO="SU-f"> C-seven, hold on i'm just gonna look at this really fast. </U>
+			<U WHO="SU-f"> I-R index. </U>
+			<U WHO="SU-f"> (xx) two days three days. </U>
+			<U WHO="SU-f"> that's N-M-R. </U>
+			<U WHO="SU-f"> oh, this is what i was gonna look at really fast. C </U>
+			<EVENT DESC="END SIMULTANEOUS CONVERSATIONS"/>
+			<U WHO="S9"> could you guys actually um, go to a, like <OVERLAP> check these out and go to a table? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> oh sure i thought you didn't </OVERLAP> want us to, <OVERLAP> leave this area. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> no you just have to </OVERLAP> check 'em out. </U>
+			<U WHO="SU-f"> oh okay. <OVERLAP> that's no problem. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> so i just </OVERLAP> need your M-Cards. </U>
+			<U WHO="SU-f"> oh what time? </U>
+			<U WHO="SU-f"> oh. </U>
+			<U WHO="SU-f"> can i just see, this real quick? i just, need to (xx) </U>
+			<U WHO="SU-f"> no i was just on North Campus </U>
+			<U WHO="S9"> okay, there you go. </U>
+			<U WHO="SU-m"> thanks. </U>
+			<U WHO="S9"> can you check, this out to her? you want this one? </U>
+			<U WHO="SU-f"> i just want this one. <U WHO="S9">
+					<OVERLAP> (okay) </OVERLAP>
+				</U>
+				<OVERLAP> i'll just take </OVERLAP> the N-M-R. </U>
+			<U WHO="SU-f"> doing a research, project on, linguistics or something. (i don't_) English (in different...) (xx) uh areas on campus. i think they're making (xx) like a dictionary-type thing for people that aren't native English speakers (xx) </U>
+			<U WHO="S6"> (oh that's) (xx) is. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S9"> who's this for? here you go </U>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="S9"> hi can i help you? </U>
+			<U WHO="SU-f"> do we check these out? or </U>
+			<U WHO="S9"> yeah you have to check 'em out. </U>
+			<U WHO="SU-f"> um </U>
+			<U WHO="S9"> do you know which one you need? </U>
+			<U WHO="SU-f"> huh? </U>
+			<U WHO="S9"> do you know which one you need? </U>
+			<U WHO="SU-f"> yeah i need this one but um i <OVERLAP> need (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S9"> yeah we need your M-Card. </U>
+			<U WHO="S5"> this'll actually be, reserved in twenty-five minutes. </U>
+			<U WHO="SU-f"> that's fine i'll be done. <EVENT WHO="S5" DESC="SCANS CARD"/> thank you. </U>
+			<U WHO="S9"> so (xx) that job. </U>
+			<U WHO="S9"> you got it? when'd you hear? </U>
+			<U WHO="S5"> yesterday at four o'clock... yeah i got it. </U>
+			<U WHO="S9"> i can't believe that. <U WHO="S5"> yep. </U> what's your what's your salary? </U>
+			<U WHO="S5"> twenty-four. </U>
+			<U WHO="S9"> that's more than you asked for. </U>
+			<U WHO="S5"> yeah, it is. </U>
+			<U WHO="S6"> she got it? </U>
+			<U WHO="S5"> we played phone tag all day i guess she called me at like, eight-oh-nine in the morning and i was <OVERLAP> in the sh- </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> i can't believe_ </OVERLAP> good job </U>
+			<U WHO="S5"> thank you thank you (xx) </U>
+			<U WHO="SU-f"> how how, (what a load off) </U>
+			<U WHO="S5"> i- g- i- u- unbelievable uh, she's like, it feels pretty good to graduate with a job in your hand doesn't it? and i was like you have no idea </U>
+			<U WHO="S9"> what did uh, what did, your parents say? </U>
+			<U WHO="S5"> um, yeah they were very excited for me my dad's like well congratulations and now we can start making a budget for your car insurance payments. i was like hm you're (xx) taking all the wind out of my sails. </U>
+			<U WHO="SU-f"> well it's about time you start paying for things. i've been doing it since i was twelve. </U>
+			<U WHO="S5"> i know, i know but that's just not the </U>
+			<U WHO="S9"> hi can i help you? </U>
+			<U WHO="SU-m"> what's this? </U>
+			<U WHO="S9"> we're doing a research study on the, different words that are used in different, <U WHO="SU-m"> oh </U> areas on campus i believe. i'm not sure <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> uh, can </OVERLAP> i get a P-C? </U>
+			<U WHO="S9"> yes you, can. </U>
+			<U WHO="SU-m"> and i don't have my I-D on me. </U>
+			<U WHO="S9"> what's your last name </U>
+			<U WHO="SU-m"> D A R, R E, L S O N. </U>
+			<U WHO="S9"> first name? </U>
+			<U WHO="SU-m">
+				<OVERLAP> Lars </OVERLAP>
+			</U>
+			<U WHO="SU-f"> yeah. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S9"> there you go. </U>
+			<U WHO="SU-m"> thank you. </U>
+			<U WHO="S5"> can we check these out? </U>
+			<U WHO="SU-f"> volume one. </U>
+			<U WHO="S5"> here you go. </U>
+			<U WHO="SU-f"> this is the I-R. (xx) oh okay. </U>
+			<PAUSE DUR=":17"/>
+			<U WHO="S9"> okay </U>
+			<U WHO="SU-f">
+				<OVERLAP> sorry, </OVERLAP> can i check out the other volume too? </U>
+			<U WHO="S9"> what volume? </U>
+			<U WHO="SU-f"> um of the N-M-R. the volume two. </U>
+			<U WHO="SU-f"> are you done using <OVERLAP> the N-M-R by any chance? </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> do you mean volume one? i don't seem to </OVERLAP> have volume two. (xx) </U>
+			<U WHO="SU-f"> oh then i have volume two. <EVENT DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":07"/>
+			<U WHO="SU-f"> okay can i check this out? </U>
+			<U WHO="S6"> yep. do you have your M-Card with you? </U>
+			<U WHO="SU-f"> mhm. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S9"> there you go. </U>
+			<U WHO="SU-f"> thank you. </U>
+			<U WHO="SU-m"> can i have another computer we're not_ that computer and i weren't getting along so well. </U>
+			<U WHO="S5"> um, it'll be reserved in twenty minutes is that okay or do <U WHO="SU-f">
+					<OVERLAP> that's fine. </OVERLAP>
+				</U>
+				<OVERLAP> you need </OVERLAP> longer than that? </U>
+			<EVENT WHO="S5" DESC="SCANS CARD"/>
+			<U WHO="S5"> there you go. </U>
+			<U WHO="SU-f"> thank you. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S9"> there you go. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR=":22"/>
+			<EVENT WHO="S9" DESC="SCANS CARD"/>
+			<U WHO="SU-f"> thanks. </U>
+			<PAUSE DUR=":35"/>
+			<U WHO="SU-f"> okay you probably want to kill me. is there a third volume of this? </U>
+			<U WHO="S9"> a th- of N-M-R i don't think so i think there's only two N-M-Rs. </U>
+			<U WHO="SU-f"> okay cuz i_ i- it says like page like fou- one-thousand four-hundred-seventy and this only goes up to like, <OVERLAP> one thousand </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> it's it's f- </OVERLAP> it's like volume one four-hundred and twenty. try that. </U>
+			<U WHO="SU-f">
+				<OVERLAP> oh (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> the first </OVERLAP> number is the volume <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> oh it </OVERLAP> is? okay. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="SU-m"> (xx) is there a wait for P-Cs? </U>
+			<U WHO="S9"> uh yes. </U>
+			<U WHO="SU-m"> (okay) </U>
+			<U WHO="S9"> do you do you need to, <U WHO="SU-m"> yeah </U> sign up? here's a waitlist. </U>
+			<PAUSE DUR=":21"/>
+			<U WHO="S9"> this'll be reserved in twenty minutes do you need it longer than that? </U>
+			<U WHO="SU-m"> no. </U>
+			<U WHO="S9"> okay there you go. </U>
+			<U WHO="SU-m"> can i get an I-B-M instead? </U>
+			<U WHO="S9"> actually there's a waitlist for I-B-Ms right now <U WHO="SU-m">
+					<OVERLAP> oh really </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> put your name on (xx) </U>
+			<U WHO="SU-m"> yeah sure <PAUSE DUR=":04"/> well can i get another Mac then? can i differ- a different Mac? </U>
+			<U WHO="S9"> mm yeah. how long are you gonna be on those? <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> like </OVERLAP> ten minutes. </U>
+			<U WHO="S9"> (okay) <PAUSE DUR=":08"/> is something wrong with that computer? </U>
+			<U WHO="SU-m"> yeah it wasn't starting a program for me so, (xx) yeah thanks. </U>
+			<U WHO="S9"> mhm </U>
+			<U WHO="SU-f"> i'm sorry can i grab (xx) volume (back here.) yeah i did. <PAUSE DUR=":07"/> thank you so much. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> hey (xx) guess what? i got two more points on my exam (xx) <PAUSE DUR=":04"/> he_ well for one of 'em he marked thr- minus three when it was only mi- worth two points. and then for the other one for the type problem, i got the right type... like type one error type two error, i got the right one. type one <PAUSE DUR=":04"/> so i had a_ i didn't do that badly but... but on the (xx...) (xx) </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

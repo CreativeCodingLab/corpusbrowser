@@ -1,0 +1,474 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="ofc578mx037">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Technical Communications Tutorial </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> OFC578MX037 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="25">
+						<DATE> September 29, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Joanne Morgan </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Ed Filisko </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Janine Ovens </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Final Editing, 3/7/99 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="2"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="2"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Office, Engineering Programs Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> what about the third? oh i'm sorry (xx) <EVENT DUR=":04" DESC="AUDIO DISTURBANCE"/> okay that's great. that's good. <EVENT DUR=":15" DESC="PAUSE WHILE READING UNDER BREATH"/> so uh yeah both, both of these... wait which came first? </U>
+			<U WHO="S2">
+				<SEG TYPE="READING"> both field-based, empirical models and numerical, model approaches </SEG>
+			</U>
+			<U WHO="S1">
+				<SEG TYPE="READING"> were considered </SEG> but, which, which came first? <SEG TYPE="READING"> the paper, reviewed the strengths and weaknesses </SEG>
+			</U>
+			<U WHO="S2">
+				<SEG TYPE="READING"> and weaknesses of, available models and made recommen- </SEG>
+				<U WHO="S1"> okay </U> and <U WHO="S1"> and these are <OVERLAP> the two </OVERLAP>
+				</U>
+				<OVERLAP> the_ those </OVERLAP> are the two yeah both field-based empirical and numerical modelling approaches were the two. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> it feels to me like this, sentence should come first... you know, <OVERLAP> first they considered </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> so the (xx) </OVERLAP>
+				</U> that_ first they considered these models and then <U WHO="S2"> okay that's fine, </U> they committed_ then the paper so </U>
+			<U WHO="S2"> put that yeah put that (in parentheses i'll move that up too no problem) </U>
+			<U WHO="S1"> mkay <EVENT DUR=":05" DESC="PAUSE WHILE READING UNDER BREATH"/> okay and then that follows this be- better too <U WHO="S2"> okay </U> okay? that just fits in there better. um <EVENT DUR=":06" DESC="PAUSE WHILE READING"/> they </U>
+			<U WHO="S2"> the task committee? </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S2"> would you say the task <OVERLAP> committee? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i would. </OVERLAP>
+			</U>
+			<U WHO="S2"> the committee <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> s- something like </OVERLAP> that, organized. <PAUSE DUR=":04"/>
+				<SEG TYPE="READING"> extremal hypothesis or geofluvial, </SEG> geofluvial feels like it's an adjective geofluvial what? </U>
+			<U WHO="S2"> geofluvial, model. that's a type of model it's a geof- the two models are extremal hypothesis or geofluvial. so i can put the word model, after each of 'em, <OVERLAP> extremal model </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP> yeah </U> extremal hypothesis model or geofluvial model, or i could say_ cuz i had, geo- </U>
+			<U WHO="S1"> okay i got_ that's that's okay yeah <EVENT DUR=":05" DESC="PAUSE WHILE READING"/> mkay... <SEG TYPE="READING"> an extremal hypothesis model is one, that, </SEG> or, which whatever you like <EVENT DUR=":12" DESC="PAUSE WHILE READING"/>
+				<SEG TYPE="READING"> this type of model numerical... this type of model numerical, predicts? </SEG>
+				<U WHO="S2"> oh </U> model, numerical model predicts <U WHO="S2"> yeah </U>
+				<OVERLAP> predicts the potential for (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah, when you're r- like someti- </OVERLAP> that's one of those things when i read it i don't even read it, out of order i just write </U>
+			<U WHO="S1">
+				<SEG TYPE="READING"> potential, that does not predict the rate therefore only, an overall estimate of change is given, not how the individual links change (xx) with time this type of model is also </SEG>
+				<EVENT DUR=":08" DESC="PAUSE WHILE READING UNDER BREATH"/>
+			</U>
+			<U WHO="S2"> i actually wanna change that. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S2"> so we don't <U WHO="S1"> okay </U> we don't_ i don't need to talk about it </U>
+			<U WHO="S1"> and it's not as attractive because, </U>
+			<U WHO="S2"> with the advancement of computer capabilities allow us, (xx) cuz i mean, we don't_ the extremal hypothesis model doesn't, predict anything with time. so the computer models allow us, to predict things with time <OVERLAP> (so we should) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> do you say </OVERLAP> that? that the extremal hypothesis model doesn't allow <U WHO="S2"> yeah right here </U>
+				<SEG TYPE="READING"> therefore only an overall estimate of change is given </SEG>
+			</U>
+			<U WHO="S2">
+				<SEG TYPE="READING"> not how the individual links change with time. </SEG>
+			</U>
+			<U WHO="S1">
+				<EVENT DUR=":18" DESC="PAUSE WHILE READING"/> mm, um, i'm not_ i_ and it kinda seems like you could be a little more, clear on_ highlight, the pro- uh highlight more, the problem of time <U WHO="S2"> okay </U> so um, when you're talking in class this week you'll be talking about nested problem statements <U WHO="S2"> mhm yeah (xx) <OVERLAP> i know what those are </OVERLAP>
+				</U>
+				<OVERLAP> so one solution </OVERLAP> is the um, extremal hypothesis model <U WHO="S2"> mhm </U> it does, X Y and Z, however, you know it solved the problem by using this m- the uh extremal hypothesis model. however it doesn't work on the uh, it, it's not very good about time. so, <U WHO="S2"> yeah <OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> now </OVERLAP> the problem becomes time, and now we have a solution to the time problem, and so that's why this isn't as uh um, as attractive <U WHO="S2"> mhm </U> as it once was <OVERLAP> because now, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> it's also </OVERLAP> spatial too so </U> oh it's spatial? okay. </U>
+			<EVENT DUR=":04" WHO="S2" DESC="PAUSE WHILE READING"/>
+			<U WHO="S1"> okay, so, again, i think_ like i said, the lectures this week are really critical for you. um, okay now we m- move on to the geofluvial model. <SEG TYPE="READING"> this is (xx) unlike extremal models utilize the advancement in computer tech- </SEG> they becoming more sophisticated every year but <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> what does that </OVERLAP> do for me? by_ in what way, are they becoming more_ exactly what problem do they solve by becoming <OVERLAP> more </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well i mean </OVERLAP> computers are getting faster i mean what do_ <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> how much </OVERLAP> do you wanna go <EVENT WHO="S1" DESC="LAUGH"/> in detail do you want to get into i mean Bill Gates puts out something that's faster every two weeks (xx) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, they utilize, </OVERLAP> the advancement in computer <OVERLAP> technology </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> technology </OVERLAP> just, stop there or? </U>
+			<U WHO="S1"> um what <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> advancement, </OVERLAP> do they utilize and how does it benefit the model? </U>
+			<U WHO="S2"> speed. (xx) i mean just </U>
+			<U WHO="S1"> speed allows the model to do <OVERLAP> what? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> to </OVERLAP> to actually move fa- i mean you know the model is moving faster instead of having_ it's the same problem that_ this is like a whole nother topic it's like, you know the old computers would take, four days to solve a problem new ones it's just like a calculator i mean everything's, quicker faster, i mean it's uh, a lot of it's speed a lot of it is uh, the other part of it would be, um... storage, you know modern computers have a lot larger hard disk than they used to and this is <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> this'll be </OVERLAP> extremely </U>
+			<U WHO="S1"> okay but you're using that as a tool to get, what you want. <U WHO="S2"> mhm </U> and what you want is, the speed, um, the capacity <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> allows </OVERLAP> you to get where you want to go. where is it that you wanna go? </U>
+			<U WHO="S2"> to a better model, i mean to a </U>
+			<U WHO="S1"> to a better_ and why d- why is this a better model it gives you, something, what does it give you? what is_ is <OVERLAP> speed </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> more accur- </OVERLAP> i mean, these k- these uh, equations aren't even solvable on the slower computers. <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> it would just you know it it's not practical to turn on a m- a computer and let it it run for a month just to get a prediction of a, of a one hundred, you know foot channel. you see_ i mean <U WHO="S1"> okay </U> so... i mean i_ it was just kind of uh, i i was thinking that most of the people_ i guess what i was thinking is that most people realize w- that_ how computers are advancing, and modelling i mean, pretty much all the professors and stuff realize that modelling is getting more sophisticated and better because of the increasing speeds and capacities of computers. <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> so, </OVERLAP> i mean i didn't want to go into too much detail about that would it be better_ <U WHO="S1">
+					<OVERLAP> i think mo- </OVERLAP>
+				</U>
+				<OVERLAP> i mean do i need </OVERLAP> to go into detail or <U WHO="S1">
+					<OVERLAP> i th- well </OVERLAP>
+				</U>
+				<OVERLAP> should i just throw </OVERLAP> it out completely? </U>
+			<U WHO="S1"> when i when i see a phrase like um, <SEG TYPE="READING"> they utilized the advancement by becoming more sophisticated </SEG> i feel like, more detail is needed right there this is just a little <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> too </OVERLAP> vague i mean it it sounds like um, spin you know it sounds like, <OVERLAP> sorta like </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well what i mean </OVERLAP> what about i mean the next sentence <SEG TYPE="READING"> increased computer speed allows the inclusion of more processors (xx) increased time steps </SEG>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (and then) </OVERLAP> i'm going into the details. </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S2"> so </U>
+			<U WHO="S1"> but still_ yeah that's the details of what? </U>
+			<U WHO="S2"> of how they're more sophisticated. </U>
+			<U WHO="S1"> yeah but what's the end <OVERLAP> product? </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> (i) mean </OVERLAP>
+				</U> the end product is a model that... </U>
+			<U WHO="S2"> predicts, river bank erosion. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S2"> i mean, pretty much the the end product is a a model that will allow you to predict, river bank erosion, essentially. by including all these different processes. <EVENT DUR=":10" DESC="READING"/> (now) let's see <OVERLAP> let me read </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<EVENT DUR=":08" DESC="PAUSE WHILE READING"/> how 'bout <U WHO="S1"> yeah </U> something like this unlike extremal models geofluvial models utilize the advancement in cur- computer technology <U WHO="S1"> yeah <OVERLAP> this is </OVERLAP>
+				</U>
+				<OVERLAP> the increased </OVERLAP> computer speed allows the inclusion of more processors finer grade spacing and increased time steps all of which increase the accuracy of this type of model, <U WHO="S1"> okay </U> all of which increase the accuracy of this type <OVERLAP> of model </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> accuracy, </OVERLAP> okay </U> thus making geofluvial the more attractive option for the future. </U>
+			<U WHO="S1"> is is that the main, thing is that it's more accurate? </U>
+			<U WHO="S2"> not just accurate it's also more uh, it's also, faster. i mean, the solution is <OVERLAP> faster </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the solution </OVERLAP> comes faster but the <U WHO="S1"> mhm </U> ultimate goal is that you have an accurate model? </U>
+			<U WHO="S2"> right i mean that's the ultimate goal </U>
+			<U WHO="S1"> okay so so this is </U>
+			<U WHO="S2"> i mean a- a- accuracy is the ultimate goal i mean it_ they're willing to sacrifice time, for accuracy, but there reaches a point where, time does become an issue because you know no one wants to wait a month before seeing, the results. <U WHO="S1"> mhm </U> so, that's why they're becoming, more in use because now you can turn it on run it for eight hours and get a nice prediction of what happened over the course of a month. <U WHO="S1"> mhm </U> whereas you know maybe five ten years ago, you know what takes place in our time as a second might take place in ten seconds in computer time <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> whereas </OVERLAP> now it's opposite you know we can do ten seconds real time in one second computer time. <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> type of thing. so, well anyway, does that sound better if i just <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> get rid </OVERLAP> of the end here? <EVENT DUR=":04" DESC="PAUSE WHILE READING UNDER BREATH"/> now isn't this sentence too long though now? <U WHO="S1"> no </U> (xx) we just_ no <OVERLAP> it's okay? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> in fact </OVERLAP> i could say_ i was gonna say you could even hook this one up there, almost. uh, but but i think a period is good. um, this this and this <SEG TYPE="READING"> all of which increase the accurac- </SEG> no i think that's a fine (sentence) <OVERLAP> it's not too </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but then i have a_ </OVERLAP> i mean it continues </U>
+			<U WHO="S1"> that's okay </U>
+			<U WHO="S2"> that's alright? </U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2"> okay, it seems pretty long. alright. </U>
+			<U WHO="S1"> i think it's just, fine. </U>
+			<U WHO="S2"> okay </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> uh you could connect these two sentences with a semicolon. </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> because they're_ if you wanted to but a period's fine too. um, okay i wanted to <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> keep </OVERLAP> in mind that the most important thing, about, this geofluvial model, is, the accuracy. mkay? and here we have it, right in the very last sentence at the end of the paragraph. so... a- as you're as you're in lectures this week, think about wh- uh think um, (Leslie'll) still be talking about criteria, for a <U WHO="S2"> mhm </U> solution, you know what what makes <U WHO="S2">
+					<OVERLAP> what i- </OVERLAP>
+				</U>
+				<OVERLAP> the best </OVERLAP> solution and i may have talked to you about <OVERLAP> (this in previous) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh you took 'em from the essay </OVERLAP> what did you say about this paragraph the last time right here? i mean </U>
+			<U WHO="S1"> mm it's in here <EVENT DUR=":05" DESC="LOOKING THROUGH NOTES"/> um, <U WHO="S2"> mhm </U> accuracy </U>
+			<U WHO="S2"> na- nothing? </U>
+			<U WHO="S1"> no </U>
+			<U WHO="S2"> you just changed that? okay </U>
+			<U WHO="S1"> yeah <PAUSE DUR=":06"/> yeah... yeah anyway, r- keep keep in mind that um, that's wo- that's gonna be one of your criteria, for success <U WHO="S2"> mhm </U> and so she'll be talking about that <U WHO="S2"> well </U> mkay? <U WHO="S2"> mkay </U> um now we're talking about (xx) transport. we're still geofluvial model <EVENT DUR=":53" DESC="PAUSE WHILE READING"/> thi- so this method, this bacterial bedload transport method, <U WHO="S2"> mhm </U> is what's a significant departure and included two innovative features this <U WHO="S2"> mhm </U> mkay <EVENT DUR=":11" DESC="PAUSE WHILE READING"/> i think you need to, just period here. <EVENT DUR=":12" DESC="PAUSE WHILE READING UNDER BREATH"/> okay, okay. like i said we're we're gonna_ the introduction is crucial, you know it's really, the, most important part of the_ well, for your readers. it's nice to have 'em not_ a, good introduction so, i think we'll continue to rework that. <EVENT DUR=":43" DESC="PAUSE WHILE READING"/> so, the research objective is, to, improve on the Kovacs-Parker model? </U>
+			<U WHO="S2"> yup </U>
+			<U WHO="S1">
+				<EVENT DUR=":16" DESC="PAUSE WHILE READING"/> and this task force talks about </U>
+			<U WHO="S2"> i'm done completely with the <OVERLAP> task force </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U> i won't mention it again. </U>
+			<U WHO="S1"> but they're... </U>
+			<U WHO="S2"> there's actually <OVERLAP> a good chance </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this is </OVERLAP> still part of it? </U>
+			<U WHO="S2"> yeah b- yeah it's a g- it's part <U WHO="S1">
+					<OVERLAP> so only the Kovacs </OVERLAP>
+				</U>
+				<OVERLAP> of my proposal there's a good chance when i actually, </OVERLAP> there's a good chance actually when i show this to my professor he's gonna tell me to throw it all out anyway so, <U WHO="S1"> oh great </U> it's only partially <U WHO="S1">
+					<OVERLAP> yeah yeah, yeah, yeah </OVERLAP>
+				</U>
+				<OVERLAP> relevant i mean it's more of a </OVERLAP>
+			</U>
+			<U WHO="S1"> okay, but, uh the task committee did review this <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> and this, and the Kovacs-Parker model was one of them that they reviewed. </U>
+			<U WHO="S2"> yes. i i_ <U WHO="S1"> mkay </U> yeah the way i had the introduction written up so far is i was trying to include, almost a time line <U WHO="S1"> mhm </U> um <U WHO="S1"> yeah, <OVERLAP> that'll be helpful </OVERLAP>
+				</U>
+				<OVERLAP> (in terms of you know) </OVERLAP> there is extremal p- there's_ these are the two types of models, the geofluvial model's better, um one of the geofluvial models is, Kovacs-Parker, task force likes Kovacs-Parker, that's why_ that's, one of the big reasons i am, doing this. and that's <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> what </OVERLAP> i was trying to set_ i'm trying to kinda set up, set up the fastball you know <OVERLAP> for the </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U> yeah so, but i don't even know </U>
+			<U WHO="S1"> so, you know that the Kovacs-Parker, is, a, good solution. </U>
+			<U WHO="S2"> yes </U>
+			<U WHO="S1"> right? but, you wanna make it better? </U>
+			<U WHO="S2"> oh yeah, i- i- it's deficient in quite a few ways </U>
+			<U WHO="S1"> so, your research objective is to improve, on, the Kovacs, Parker model </U>
+			<U WHO="S2"> yup </U>
+			<U WHO="S1"> and do you say that anywhere, exactly? </U>
+			<U WHO="S2"> mhm, well <SEG TYPE="READING"> this, this research is not intended to address all the above deficiencies in Kovacs-Parker model but would address some of the more significant ones. </SEG>
+			</U>
+			<U WHO="S1"> so, <U WHO="S2"> so </U> the the the <U WHO="S2">
+					<SEG TYPE="READING"> this research (xx) </SEG>
+					<OVERLAP> oh, okay, the objective of this </OVERLAP>
+				</U>
+				<OVERLAP> objective is, to address, </OVERLAP>
+				<U WHO="S2"> got it </U> some of the more significant, <U WHO="S2">
+					<OVERLAP> deficiencies </OVERLAP>
+				</U>
+				<OVERLAP> deficiency </OVERLAP> in the Kovacs. that's what your research objective is and i feel like it's again, it's b- a little bit buried, in the last <OVERLAP> paragraph </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but don't you </OVERLAP> need to set up_ okay so alright <U WHO="S1"> well, yeah </U> i- if i put it in a small paragraph here, <U WHO="S1"> yeah </U> stating this <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> then i won't have addressed any of the deficiencies, and i need to talk about where it's good before i talk about its deficiencies. i i <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> could put </OVERLAP> in a small, paragraph here, setting this up, <U WHO="S1"> okay </U> but i was <OVERLAP> just wondering </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> um </OVERLAP>
+				</U> basically what i did is i do a quick description of the Parker-Kovacs model here <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> based </OVERLAP> on these two paragraphs, and then say okay, this is <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> what's, </OVERLAP> where it's lacking this is what i'm gonna do <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> i see your p- i see your point exactly obviously but um i could put a small paragraph in here saying, um, the goal of this research is to, um, make some of the, well i was wondering about s- </U>
+			<U WHO="S1"> i think this is perfect the way it said it right here, is to address <OVERLAP> some of the </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> but then put put it up to here, </OVERLAP> or leave it there? </U> mm, some of the more significant deficience_ u- mm, is to improve on the Kovacs-Parker model and, um </U>
+			<U WHO="S2"> but i- should i_ you're s- you're, commenting on it being buried in the third paragraph <U WHO="S1"> right </U> so... </U>
+			<U WHO="S1"> hm </U>
+			<U WHO="S2"> i mean i could move that, sentence, up here but i can't leave the rest <OVERLAP> of this paragraph </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> actually this is a </OVERLAP> good sentence too. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S2"> okay so how 'bout, we do something like </U>
+			<U WHO="S1"> you know what? <U WHO="S2">
+					<OVERLAP> this is </OVERLAP>
+				</U>
+				<OVERLAP> i don't </OVERLAP> i don't think you should decide yet. i think this week is a- is perfect timing, the lectures this week are perfect timing for you and i think you should, listen on, Tuesday and Thursday <U WHO="S2"> okay </U> because i think uh i i think it'll just, really fall into place for you but, uh some of the things that i've out- um highlighted today, um... you're ready <U WHO="S2"> okay </U> you're ready. uh i wanted to talk to you about um... did you, work on your node diagram? </U>
+			<U WHO="S2"> oh, a little bit, not too much </U>
+			<U WHO="S1"> that would be really helpful, uh whe- when is it due? </U>
+			<U WHO="S2"> what? the <OVERLAP> proposal? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the </OVERLAP> diagram. </U>
+			<U WHO="S2"> mm there is no diagram due. </U>
+			<U WHO="S1"> oh that's not? really...? hm... um okay, so <EVENT WHO="S2" DESC="LAUGH"/> so there wasn't an actual assignment you just <U WHO="S2"> no </U> discussed <OVERLAP> it </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> yup </OVERLAP>
+				</U> well then, i'm gonna give you some homework <EVENT DESC="LAUGH"/> i think it would be really, helpful and um, if you have trouble with it i think, it would be great for you to make an appointment with Professor Olsen </U>
+			<U WHO="S2"> oh i don't think i'll have a problem with it it just_ i don't know there's other things i'm just working on right now. </U>
+			<U WHO="S1"> yeah? <U WHO="S2"> but </U> i think it would go_ it would, blend nicely, and really help you along this way so with the node diagram and with the two lectures this week, i think it'll really help you shake out, a nice introduction, um, okay so </U>
+			<U WHO="S2"> well the, the one thing i was thinking of if i go into the node diagram, <U WHO="S1"> mhm </U> i basically figured that i would have to throw out, <OVERLAP> numerous </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no i don't </OVERLAP> mean it goes in your paper. </U>
+			<U WHO="S2"> oh cuz i_ cuz if i use the node diagram as an introduction then i really <U WHO="S1">
+					<OVERLAP> no no no no no no </OVERLAP>
+				</U>
+				<OVERLAP> have to give up all that cuz it won't </OVERLAP> flow at all. </U>
+			<U WHO="S1"> no all_ it's it's uh as, just, almost like an an alternative to an outline. where you, um, you see, the flow, from the problem statement, to, s- n- suggested </U>
+			<U WHO="S2"> well the, the problem_ <U WHO="S1">
+					<OVERLAP> uh, solutions </OVERLAP>
+				</U>
+				<OVERLAP> the node </OVERLAP> diagram she talked about was a historical one. in terms of going back <U WHO="S1"> well you can do it that <OVERLAP> way too but, it's an idea </OVERLAP>
+				</U>
+				<OVERLAP> i mean that's that's the only one she talked about, it's different than uh, </OVERLAP> cuz i_ what i assume you're talking about is something more like, here's the problem <U WHO="S1"> mhm </U> and then here are solutions to the problem. <U WHO="S1"> right </U> that's yeah it's a little diff- it's_ she kinda addressed that but she actually had it going back (forever) um <U WHO="S1"> well sh- i <OVERLAP> think </OVERLAP>
+				</U>
+				<OVERLAP> but there's </OVERLAP> more than one_ i mean, now, in terms of addressing that way the problem, isn't it really like five problems though for this, cuz i'm talking about the five deficiencies <U WHO="S1"> well <OVERLAP> then, then um </OVERLAP>
+				</U>
+				<OVERLAP> and then, i mean so </OVERLAP> i mean, basically it's like, it's, it's almost like <OVERLAP> here's the model </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but they all, </OVERLAP> but they all, <U WHO="S2">
+					<OVERLAP> stem from just, from that </OVERLAP>
+				</U>
+				<OVERLAP> come stem from what's </OVERLAP> the what's the, okay, <U WHO="S2">
+					<OVERLAP> from the Kovacs-Parker model </OVERLAP>
+				</U>
+				<OVERLAP> and the and the </OVERLAP> Kovacs-Parker. but the Kovacs-Parker is, one solution_ it's just one of many solutions to, what's the big, <OVERLAP> picture? what's the </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> river bank river bank erosion </OVERLAP>
+				</U> okay </U>
+			<U WHO="S2"> i mean yeah you could have river bank erosion, and then there are f- the fi- i mean i could you know <U WHO="S1"> okay </U> they all would_ there's like, twelve models alone, reviewed in that paper. </U>
+			<U WHO="S1"> mhm mhm over_ another_ i just wanna talk in general, um, overall, i i feel like you're, um, u- um, using different terms, for the same, thing and i feel like they're not fully defined <U WHO="S2"> mhm </U> um </U>
+			<U WHO="S2"> well there's_ yeah that's one of the problems though, unlike a lot of other, unlike a lot of other, disciplines <U WHO="S1"> mhm </U> where, steel is steel is steel, <U WHO="S1"> mhm </U> unfortunately in a lot of civil engineering especially what i'm getting into the_ there's so many, different terms i mean people in, the Midwest say things different than the Southeast say things_ you know there's a lot of terms for the same thing <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and now </OVERLAP>
+				<U WHO="S1"> and that's one <OVERLAP> reason </OVERLAP>
+				</U>
+				<OVERLAP> and there </OVERLAP> and there's slight, there is slight, <SIC> frequent </SIC> there are slight defi- i mean there are slight differences between them <U WHO="S1"> mhm </U> um, but i guess i was trying to encompass, mm, i don't know exactly what i wanna say but i guess i was, trying to encompass, you know address, some different terms for similar things, <OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's </OVERLAP> good, <U WHO="S2"> channel <OVERLAP> morphology </OVERLAP>
+				</U>
+				<OVERLAP> that's good </OVERLAP> but you kinda need to do it right <U WHO="S2"> okay </U> up front <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well it's </OVERLAP> kinda like channel morphology is anything that changes in the channel, anything. <U WHO="S1"> okay </U> so river, bank erosion is a subset of channel morphology. </U>
+			<U WHO="S1"> okay great <OVERLAP> great great </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay? </OVERLAP> so i mean, i don't know what, ah but see that's not, no this can't be from the same tree anymore y- you're talking <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> about </OVERLAP> okay i mean well, it could be like way way up here <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> it can't </OVERLAP> be up there <U WHO="S1"> okay </U> so now i don't know </U>
+			<U WHO="S1"> what what are some other types of channel morphology? </U>
+			<U WHO="S2"> (i don't know) <EVENT DESC="LAUGH"/> you know there <U WHO="S1"> i <OVERLAP> yeah, i can't </OVERLAP>
+				</U>
+				<OVERLAP> you know the bottom_ </OVERLAP>
+				<EVENT WHO="S1" DESC="LAUGH"/> well i mean if you stand in a river what do you see i mean there's banks, and braided channels i mean there's yeah there's tons of 'em. i mean if you look at a river, and even a change (xx) river is a chain- is a type but i mean that's way, like you said that's way up </U>
+			<U WHO="S1"> okay, <U WHO="S2">
+					<OVERLAP> up the chain </OVERLAP>
+				</U>
+				<OVERLAP> and and you're </OVERLAP> not concerned with these things? you are <OVERLAP> concerned with, river bank erosion </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh i'm mo- yeah, with river bank erosion </OVERLAP> um, i'm slightly concerned with channel morphology as well and i talk about that because we do have the uh, we do have_ i wanna in- one of the things i wanna include in the Ko- Kovacs-Parker model is changes in the longitudinal direction. <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> which is </OVERLAP> actually the riverbed changes. </U>
+			<U WHO="S1"> so another one that you (interested in) is longitudinal direction change. </U>
+			<U WHO="S2"> right. </U>
+			<U WHO="S1"> okay, and you're gonna be talking about_ and that's different than river bank erosion? </U>
+			<U WHO="S2"> right, <OVERLAP> but i- but it's gonna be yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, so </OVERLAP>
+			</U>
+			<U WHO="S2"> mkay </U>
+			<U WHO="S1"> i i would, i really would like to see you, <U WHO="S2"> sure </U> take it back, you know and maybe, channel morphology is just one of, you know <U WHO="S2"> okay </U>
+				<OVERLAP> a bunch of </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> now if </OVERLAP> mkay, i i can_ i have to get going like real badly <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah, oh sorry sorry </U>
+			<U WHO="S2"> um, but uh, yeah but i could take it back that far i guess i um you know maybe after i do that i'll see how i might work it in can i have the, the front page, too? </U>
+			<U WHO="S1"> here? </U>
+			<U WHO="S2"> yup </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S2">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, </OVERLAP>
+				<U WHO="S2"> uh </U> cuz i'd like to hear what you have to say about the uh lectures, this week </U>
+			<U WHO="S2"> yeah i i might go, i mean if i can take it back there it's, uh, i don't we_ yeah i'll think about how i wanna try and do that. i have i've already thought <U WHO="S1"> i hope you'll be inspired </U> well i- i i've already thought that i've, probably put too much in on that uh, task force <OVERLAP> there </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> i don't_ </OVERLAP>
+				</U> extremal models technically is not, relevant wh- or the the extremal hypothesis models that i mention in there, <U WHO="S1"> yeah </U> (frankly) that's not relevant whatsoever <U WHO="S1"> right </U> it's just, there's two ways of solving it, and so i mention the two ways and then i <U WHO="S1"> yeah </U> kinda discard it it's really not relevant whatsoever, so that's the kinda thing where i think <U WHO="S1">
+					<OVERLAP> well i think we'll really take off </OVERLAP>
+				</U>
+				<OVERLAP> in the end my professor </OVERLAP> might say get rid of it, you know </U>
+			<U WHO="S1"> i'm hoping we'll really take off next week and i hope that, i- lectures today are inspirational just, if you think what does it have to do with me? <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> just </OVERLAP> bear with it because i want you to_ you wanna keep that? </U>
+			<U WHO="S2"> no i don't need it actually </U>
+			<U WHO="S1"> okay, um... yeah. </U>
+			<U WHO="S2"> okay, thanks a lot i appreciate it. </U>
+			<U WHO="S1"> okay, see you next week. hey thanks for doing the recording thing. </U>
+			<U WHO="S2"> oh it's not_ no problem at all. </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

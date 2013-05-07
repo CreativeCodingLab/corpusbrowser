@@ -1,0 +1,2072 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="sgr999su146">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Senior Thesis Study Group </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SGR999SU146 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="64">
+						<DATE> March 28, 2001 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Darell Tibbles </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Final Editing, 02/14/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="4"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="4"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Espresso Royale Cafe </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S1"> oh, okay. <PAUSE DUR=":09"/> i_ okay <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> yeah seven's good. <U WHO="S1"> okay </U> thanks. <EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> alright. </U>
+			<U WHO="S3">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> alright </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> we'll </OVERLAP> be here. </U>
+			<U WHO="S1"> yo- you wanna put our forms all together, (in this) </U>
+			<U WHO="S2"> i hope that music from the coffee shop doesn't, well they're pretty powerful microphones i suppose. <EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> w- should we go up and like testing <OVERLAP> testing. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> testing </OVERLAP> testing one two three. <U WHO="S3">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> who's gonna talk first? i have some <OVERLAP> exciting news. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i have a lot of news too. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay i want to hear the </OVERLAP> exciting news. </U>
+			<U WHO="S2"> well i mean it's not exciting personal news it's just <OVERLAP> about my project. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well yeah i know. </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> tell us. </U>
+			<U WHO="S2"> okay well i f- well i first i talked to Frank Erikson and i got the uh extension. </U>
+			<U WHO="S1"> good </U>
+			<U WHO="S3">
+				<OVERLAP> oh i need to do that </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so that was good_ </OVERLAP> are you gonna do it? did you </U>
+			<U WHO="S3"> well i need to talk to um, C-K my boss my... <EVENT WHO="SS" DESC="LAUGH"/> um to see if she's gonna be around or not or, like i don't... <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i'm just laughing at you. <OVERLAP> okay i'm gonna stop now. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i know Emily. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> to see if she'll be around this summer and if she's not then, i don't know whether i can ask Frank is he gonna be around? </U>
+			<U WHO="S2"> well he said he's gonna be in Germany in May but <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> he'll </OVERLAP> be here in June and <OVERLAP> i would_ </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U> cuz all you need to do is just hand it in to him. he's just gonna <OVERLAP> read it or whatever. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well, i mean, </OVERLAP> do you think it's okay if i wa- t- were to do a paper that didn't have an advisor? like she didn't end up reading it or <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> well i don't_ i mean he asks me he asked me again last week if he was my advisor for my I-C-P. <U WHO="S1"> oh dear </U> but i know when he had me do the senior thes- you know i mean he's technically should be my advisor for that too, <U WHO="S3"> mhm </U> but, i think he was under the impression that my professor on North Campus was gonna read it too and i might have her read it_ well actually, my big news is, involves that she probably will read it but i don't think he would care. </U>
+			<U WHO="S3"> yeah mkay cuz like </U>
+			<U WHO="S2"> could y- could you email it to her or something? </U>
+			<U WHO="S3"> i was thinking about that. i'm_ the thing i'm most worried about is that i want a letter of recommendation from her and i feel like she's gonna be like, you know she didn't really turn in a very good paper for me last semester and now she's not even doing this one i only kn- i know she's only taking a couple classes like <U WHO="S2">
+					<OVERLAP> mhm mhm </OVERLAP>
+				</U>
+				<OVERLAP> why doesn't she have </OVERLAP> like </U>
+			<U WHO="S1"> i don't think so i think that like she might feel that you're going like out of your way to do this special project <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> or something. </OVERLAP> and she might be like, <U WHO="S3"> yeah </U> this <OVERLAP> girl is motivated. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i need to have, </OVERLAP> i need to have Frank email her and just like i think she's too_ like she thinks it's more of a thing than it is like that. you know cuz i was like oh it's like twenty-five or thirty pages and she's like well how much like ah you know she wants like, <U WHO="S2">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> i don't know. </OVERLAP>
+				<U WHO="S1"> um </U> she's not used to the R-C. </U>
+			<U WHO="S1"> i, i thought that yeah like i thought that Mabelle my advisor was gonna she was gonna read my paper and write my <OVERLAP> evaluation. that's what i think. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, that's the other thing. </OVERLAP> is i'm afraid that, <U WHO="S2"> oh </U>
+				<OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's what </OVERLAP> Fra- that's actually what Frank told me. <U WHO="S3"> mkay </U>
+				<OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> see that's my other problem so, if <OVERLAP> she needs_ </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> maybe you won't </OVERLAP> be able to </U> yeah i might not be able to or i need to see if like someone else could like kinda just take it on right now or, if Frank if i could be like oh Frank will you just write it? or something like that you know. </U>
+			<U WHO="S2"> uhuh mhm, <U WHO="S3"> (xx) </U> yeah. well so i got the extension from him and then i finally just ended up talking to my professor on North Campus about it. and i told her what i was interested in doing, and then i was like could i use the research? and she was like_ cuz there's several different parcels of research like, there's like five different communities i think in Detroit that they did interviews with and like s- like (peer g-) the diff- there're different characteristics for all of 'em. some of 'em are like industrial areas some of 'em are retail areas, and so some of them a- um all of them are gonna be going into the research that she does at the end of the year and stuff but also like she went to like different neighborhood organizations like, maybe like um, employment organizations and things in the area and was like do you guys want some of the information that we get from this stuff? like cuz it would probably be <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> helpful to </OVERLAP> them. so that's what i've been working on a lot for her last year was doing that for a couple um like uh, industrial organizations around the area and some of them haven't been done at all. so she wanted me to do some of those um for, my project. so then <EVENT WHO="SS" DESC="LAUGH"/> so then i would do them and i would put that in my project. like i would have a part that was like this is empowerment zones in Detroit. <U WHO="S1"> yeah </U> this is um, like what local labor market theory is and then like this is one specific thing so i would on- also get i would paid for it. <EVENT DESC="LAUGH"/>
+				<OVERLAP> which is kind of cool. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that's nice. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i think that that, </OVERLAP> that would be good because like, we're supposed to have like a other aspect besides <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> the research in our project. <OVERLAP> (we'll like) do something else </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> mhm yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> that's what he's been saying a lot is <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> that like </OVERLAP> it's gotta be like h- kinda hands-on or something <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> like that. </OVERLAP> so, <U WHO="S1"> yeah </U> i mean, she's really hard to work with like she was just like y- i m- she's just very vague and like you can't pin her down but i got like a rough draft of s- um something someone else did for her so, <U WHO="S3"> yeah </U> i don't know. and then i got um some good articles so i'm still reading some articles about theory but my plan is to read these articles about theory, and then um, read the rough draft that someone made <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and then </OVERLAP> um, kind of propose an idea to her, and then she can like_ i don't t- i totally don't mind if she completely knocks it down because if she knocks it down <U WHO="S3">
+					<OVERLAP> she'll give you </OVERLAP>
+				</U>
+				<OVERLAP> at least she's telling </OVERLAP> me what she wants. <U WHO="S3">
+					<OVERLAP> yeah exactly </OVERLAP>
+				</U>
+				<U WHO="S1">
+					<OVERLAP> yeah she'll (xx) </OVERLAP>
+				</U> cuz at this point she's not saying anything. <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S1">
+					<OVERLAP> like if </OVERLAP> she w- <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> so_ so </OVERLAP> i'm all like_ i envision this so she'll be like, no do this i'll be like okay fine. <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and i'll </OVERLAP> do it. </U>
+			<U WHO="S1"> are do you think that your um, like your research packet is gonna be like useful to these businesses too? like you might want to give them a copy of <OVERLAP> it or </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well that's </OVERLAP> who's gonna be getting it_ or oh you mean the people who were interviewed? </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S2"> um, i think that when they went around and did the interviews o- the one of the questions was like would you be interested in seeing our results? or something <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> that. so that's being taken care of. it's someone e- <U WHO="S1"> oh </U> maybe like the final cumulative results will be given to them or something. <U WHO="S1"> yeah </U> but for example like the thing i wrote last year, it was given to this, Eastside Industrial Council that included most of the businesses we interviewed so they inadvertently got it. </U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S2"> so </U>
+			<U WHO="S1"> that's good. useful. </U>
+			<U WHO="S2"> yeah. so that's good that my project has a lot_ i mean it's just definitely being done now <EVENT DESC="LAUGH"/> i <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> guess. </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> you have like yeah i mean you have a direction. yeah </OVERLAP>
+				</U>
+				<OVERLAP> it's not more done, but at least now i know what i'm doing </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> yeah before you just had like these little forms and you were like circling things and, <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S2"> i know, i know </U> and you wouldn't show up ever. <EVENT WHO="SS" DESC="LAUGH"/> no you were s- </U>
+			<U WHO="S3"> or chewing gum. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> but you were s- <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> yeah and i would chew gum. <EVENT WHO="SS" DESC="LAUGH"/> yeah i was the class delinquent and now i'm the head of the class. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> and </OVERLAP> you're getting paid for your work. </U>
+			<U WHO="S1"> yeah you're <OVERLAP> getting paid. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well yeah </OVERLAP> i don't know if she's gonna, i'm sure she'll pay me for it i bet if Frank knew that he'd be like no you can't do it. <EVENT WHO="SS" DESC="LAUGH"/> it seems so but she might be like well can you_ she might question it or something like that at which point i wouldn't, <U WHO="S3">
+					<OVERLAP> you wouldn't like </OVERLAP>
+				</U>
+				<U WHO="S1">
+					<OVERLAP> you wouldn't like push it. </OVERLAP>
+				</U>
+				<OVERLAP> get the money for </OVERLAP> or whatever like <EVENT WHO="SS" DESC="LAUGH"/> i don't really care. </U>
+			<U WHO="S3">
+				<OVERLAP> you wouldn't threaten to quit or anything </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i have to do it either way. </OVERLAP> yeah. </U>
+			<U WHO="S1"> how much would you get paid? <OVERLAP> (just to) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it's ten dollars an hour </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i get paid ten dollars an hour. </OVERLAP>
+			</U>
+			<U WHO="S1"> oh, <EVENT WHO="S2" DESC="LAUGH"/> that's nice. </U>
+			<U WHO="S3"> yeah ten dollars an hour is a nice um </U>
+			<U WHO="S2"> should i should put in like all <U WHO="S3">
+					<OVERLAP> salary </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> research time i do on my own <EVENT WHO="S1" DESC="LAUGH"/> for like the other parts of it that (were) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah <U WHO="S1">
+					<OVERLAP> you could really_ money-making </OVERLAP>
+				</U>
+				<OVERLAP> it's hard not to be </OVERLAP> like how do you k- um keep track of your hours? </U>
+			<U WHO="S2"> with h- oh it's so random. like today i just filled it in on the bus. li- from the last five weeks. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah exactly like that's how it is with C-K and like it's hard not to just kinda like skimp a little cuz like, <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> yeah there's times i spend emailing her there's times i go like to check her office see if she's <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> there </OVERLAP> like i mean </U>
+			<U WHO="S2"> yeah well i <U WHO="S3">
+					<OVERLAP> (i don't know) </OVERLAP>
+				</U>
+				<OVERLAP> think that </OVERLAP> if anything i underestimate it and i wish i kept better track because like, <U WHO="S3"> yeah </U> like for example i spent, i like some of the stuff i'm not willing to put down because like i spent like fifty hundred hours at Kinko's because the people there were like, <U WHO="S1"> yeah </U> totally screwing around and like i couldn't get <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> this really </OVERLAP> simple thing done. so i don't, <OVERLAP> i like, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> i think you </OVERLAP> should include <OVERLAP> that. </OVERLAP>
+				</U>
+				<OVERLAP> i know </OVERLAP> i get i don't i know if i should_ i mean i, i feel like on one hand i should but on the other hand it was like a ten-minute project or whatever. </U>
+			<U WHO="S1"> yeah and you got a little break like you weren't actually working you were just <OVERLAP> kinda waiting. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah although th- that was definitely worse than working you know cuz i'm sitting in there going like oh my god i hate this place and, <EVENT WHO="SS" DESC="LAUGH"/> but, whatever. and and then i also like added a couple hours on because i- it cost me so much money at Kinko's. </U>
+			<U WHO="S3"> yeah i have um yeah i always use like, i translate how many <U WHO="S2">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> hours i </OVERLAP> use from the cards and i always make it a little bit more cuz taxes are gonna take out. so </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> Emily </U>
+			<U WHO="S2">
+				<OVERLAP> oh that's funny. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it's true cuz like </OVERLAP> sometimes i'll go through like twenty dollars in copying <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> if i say two hours i'm not gonna get two hundred </U>
+			<U WHO="S1">
+				<OVERLAP> oh i see what you're saying yeah </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> dollars see what i'm saying? </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> the taxes are gonna take <OVERLAP> out so. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> that's funny. </OVERLAP> yeah that's true. it is true. </U>
+			<U WHO="S1"> so they_ your people don't give you money for when you make copies? they don't </U>
+			<U WHO="S2"> well she_ if i said something to her_ she's just so scatter- she's just <U WHO="S1">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> yeah print it out. <EVENT WHO="S3" DESC="LAUGH"/> you know and it's like an eighty-page thing and like ten of pages are color, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> so that's </OVERLAP> i had to go t- for the ten pages of color i had to go to Kinko's or whatever. <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> she </OVERLAP> doesn't think it through but if i was like, explain_ i just don't even want to hassle her about it <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> cuz she's </OVERLAP> just so_ so i'm like it'd be easier for me. it's coming out of the same pot. <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> it'd be </OVERLAP> easier for me to just be like i worked an extra hour, <U WHO="S3"> right </U> and to get the money that way. </U>
+			<U WHO="S3"> yeah also um like the lady at the Center for Chinese Studies is where i actually get paid from um she was like oh you should use our, copiers and she'll have like a code you know it's like all the money that you'll you know come but, like i'm not gonna take journal i can't even take out journals from the library <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like, </OVERLAP>
+				<U WHO="S1"> yeah </U> out_ i mean that'd be such a hassle even if i could (bring) like five books across the s- you know <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> s- </OVERLAP> and so </U>
+			<U WHO="S2"> i have this uh funny st- i don't know if i told you this but_ well m- i don't know which if i told either of you this <EVENT WHO="SS" DESC="LAUGH"/> but it's related to my research work or whatever like, when we had our last meeting for just my job job like um she wanted me to try to find these books for her on like this, kind of obscure topic that she was having trouble finding books on and so like she told me a little bit about like, the issue involved and, um you know like what type of things she was interested in learning from it and then like i just went to MIRLYN and kinda like messed around for a while and like you know just entering various words and like looking through different um, ways going through it on the internet and i found like fifteen titles or whatever and gave it to her and then the next couple of days i got this email from her research assistant who's a grad student, <EVENT WHO="S3" DESC="LAUGH"/> and she's like u- could i meet with you about these titles or whatever and i'm like this i don't understand like why do you need to meet with me about thi- but i go in and she's like well, Margie said that o- or, i guess that this woman had tried to find these titles on this thing and couldn't find anything about it and Margie was like Erica's so wonderful at finding obscure top- i'm like all i_ it's not_ <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> no one </OVERLAP> does anything better <EVENT WHO="S3" DESC="LAUGH"/> like you just look at_ so she's like i wanted to know some of your secrets about_ so i had to sit there for twenty minutes <EVENT WHO="S1" DESC="LAUGH"/> and i'm like well, well first i do keyword searches, <EVENT WHO="SS" DESC="LAUGH"/> and, you know i <OVERLAP> you know uh </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> then i </OVERLAP>
+			</U>
+			<U WHO="S1"> i think it's true though because i <OVERLAP> re- </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> mix </OVERLAP> up the words </U> i remember when you_ like i was trying to research that Warren/Connor Development <U WHO="S2">
+					<OVERLAP> oh uhuh </OVERLAP>
+				</U>
+				<OVERLAP> Center that you told me about </OVERLAP> and i was like Erica i can't find anything on the internet about it and so you're like okay fine i'll go on the internet. and you found like ten things you came back with like a list of things </U>
+			<U WHO="S3">
+				<OVERLAP> you're gifted </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and i mean_ yeah you (could) be a librarian. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i mean, if_ yeah i mean like i i believe </OVERLAP> that like yeah like i'm a little better maybe at going through those things because the first year i worked on this project that's all i did for her. was i had to find titles for <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> these </OVERLAP> two topics and like, the more titles i brought back like the you know better i had done <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> basically </OVERLAP> so i tried really hard. but it's nothing li- you know what i mean like, </U>
+			<U WHO="S3">
+				<OVERLAP> i think it's just like fiddling around and like </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it was very strange that this woman_ </OVERLAP> exactly. it was just the amount <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> of time </OVERLAP> i put into it. or like looking in <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> bibliographies and </OVERLAP> going_ like it was very a- weird that this woman was asking me <OVERLAP> that. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, </OVERLAP> like i think i'm probably a lot better at it now after working for C-K cuz it's all i <U WHO="S2">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> have to do </OVERLAP> and just like i know like how to use like Wilson Index <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and SocioFile </OVERLAP> and things <OVERLAP> like that. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah i </OVERLAP> feel all that stuff is so hard to use sometimes <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> if you do- </OVERLAP> i mean there's so much like there aren't just a couple avenues to get information. </U>
+			<U WHO="S3"> yeah like even when you go and watch the librarians do it they'll like type in these random codes onto like classic <OVERLAP> MIRLYN and you're like what are they doing? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> exactly, you're like why </OVERLAP> can't i know that? <U WHO="S3">
+					<OVERLAP> yeah like why don't they tell you? </OVERLAP>
+				</U>
+				<OVERLAP> like i don't have to come </OVERLAP> up here and talk to you if you taught me that. <U WHO="S3"> mhm </U> yeah they do <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> they </OVERLAP> type in random codes, <OVERLAP> that are like only known to them. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well they use a whole different program. </OVERLAP> they use like a different program you're like okay and they're like oh well there's a bunch of stuff and you're like oh okay. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> yeah it's just so that they can keep their jobs. cuz <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S3">
+					<OVERLAP> i know. </OVERLAP>
+				</U>
+				<OVERLAP> if they think_ </OVERLAP> if they let the secrets out. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> what would they do besides like get paper for the printers <OVERLAP> otherwise? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah. </OVERLAP> oh and something else about my project so i'm reading this book for class Detroit Divided, and it has tons of stuff about, um local labor markets so, </U>
+			<U WHO="S3"> perfect. </U>
+			<U WHO="S2"> perfect. <EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> your life is just coming together. <OVERLAP> where'd you get that Coke? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i know. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> can i see that? yeah </OVERLAP> can i see that? </U>
+			<U WHO="S2"> you want coat? <U WHO="S3">
+					<OVERLAP> just the cap. </OVERLAP>
+				</U>
+				<OVERLAP> some Coke? </OVERLAP> oh yeah. </U>
+			<U WHO="S3"> it's why is it_ why <OVERLAP> do we have purple caps now? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> where did i get this? i don't know </OVERLAP> Angell Hall i think. </U>
+			<U WHO="S1"> oh i want some pop. </U>
+			<U WHO="S3"> look under cap, </U>
+			<U WHO="S2">
+				<OVERLAP> it's something about the Red Wings. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you guys i_ i have to go_ </OVERLAP> i have to go leave. i have to go to the bathroom. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> is it okay <OVERLAP> for me to leave? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think </OVERLAP> that's a <U WHO="S2">
+					<OVERLAP> should sh- </OVERLAP>
+				</U>
+				<OVERLAP> normal common </OVERLAP> thing to happen <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> should she </OVERLAP> talk about her thing while you're gone? <OVERLAP> do you </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think </OVERLAP> we're supposed to make it as natural as possible. </U>
+			<U WHO="S2"> i_ no but i mean like do you mind if sh- did you mind? </U>
+			<U WHO="S1"> i don't care cuz <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> di- think </OVERLAP> you told me some stuff already <U WHO="S3">
+					<OVERLAP> yeah, sure </OVERLAP>
+				</U>
+				<OVERLAP> today earlier </OVERLAP> when we ran into each other. </U>
+			<U WHO="S3"> um, okay so i'm a little stressed out about it now because i only have like a couple weeks to work on it and i haven't contacted C-K like i should've like contacted her, like two or three weeks ago and been like hey i'm at a point_ cuz i'm not like i haven't really done work on it the last couple weeks, <U WHO="S2"> mhm </U> and so now it's like weeks have gone by and i still haven't con- you know, i don't know. </U>
+			<U WHO="S2"> so now you it's like you're going there and you h- don't have enough work to show for the amount of time is that what you mean? </U>
+			<U WHO="S3"> well i have the same amount of work i did about two weeks ago and it was just like if i had gone then it wouldn't have been so bad cuz you know i'd just done all this stuff. but now it's like an extra two weeks for me to <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> do, </OVERLAP> you know so, i needed to talk to her but like basically um when i interviewed, Kelly's boss Carol, um like the most like the biggest thing that you know stood out was that there's like a new way of doing things amongst like, younger um, college educated like, Chinese-owned businesses versus like older ones and, like i guess i kinda wanna find out like, you know what the if there's like a if the variables are like education or young you know, <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> how </OVERLAP> old they are and she kept on talking about the old way of doing things and the new way. </U>
+			<U WHO="S2"> i mean what what has wh- does anything factor into, to it that they're first generation versus like second generation? or is that really not seem to be like <OVERLAP> a factor? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well, </OVERLAP> um i'm not really sure like she of course is like you know, fourth fifth <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> generation </OVERLAP> but her husband's first generation like he lived in <OVERLAP> China. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and he's </OVERLAP> kinda the one that, i mean do you think she is more influence in like the new w- wave part of their business? </U>
+			<U WHO="S3"> i think so, and i don't know whether it's more because she's more established here or whether cuz she has an economics degree from U-of <OVERLAP> M. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah, </OVERLAP> or maybe just that she's female. <U WHO="S3"> yeah <OVERLAP> that's true. </OVERLAP>
+				</U>
+				<OVERLAP> cuz the </OVERLAP> like things that, the, they that seem to be different from new wave, seem to be, <U WHO="S3"> mhm </U> like more <OVERLAP> femininish. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> right </OVERLAP> that's a good actually that's a really good point i hadn't really thought of it. <EVENT DESC="LAUGH"/> um <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> taking notes? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah, um so i guess what i had_ am planning on doing is you know coming up with a set of questions like i can't, i like i can- i feel a little_ like it's such a social anxiety thing to like go and like ask people to like talk to you or like take their picture <OVERLAP> or, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> hard </OVERLAP> yeah </U> it's very difficult and so </U>
+			<U WHO="S2"> what if you had like a_ i don't know if this is helpful at all <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> when they did the the questions for this they had like a, you know thing they had with all the questions already written down so it wasn't like an informal chat or <OVERLAP> something? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> mhm </OVERLAP> i mean i could give them the questions and have them think about it um, like i don't want to do it in survey formats cuz i haven't got surveys <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> um </U>
+			<U WHO="S2"> yeah it doesn't really, alleviate any of the social anxiety <OVERLAP> does it? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah like </OVERLAP> i'm hoping that, i on- like i'll, you know interview her again maybe and then, um the owner of um, Sweetwaters cuz it's like her c- like, Ben's cousin, <U WHO="S2"> mhm </U> so i think she'll i'll just be like Carol said i could talk to you. and then i mean she's supposed to be on the side of like the new young female, <U WHO="S2"> mhm </U> and um, i'm a little bit nervous about going and asking to talk to someone who like works who owns Dinersty. or a place like that cuz like i don't even know if they speak English and like <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> i know </OVERLAP> i'm supposed to be able to speak Chinese but, <U WHO="S2"> mhm </U> like i'm not sure about that um, also so i i mean i need to get like certain information from the owners and i need certain information from the employees. <U WHO="S2"> mhm </U> and so, like i mean i'm not gonna be like so you treat your workers terribly. so i don't know. </U>
+			<U WHO="S2"> yeah, well didn't Carol say some stuff about being able to hook you up with someone from Dinersty? or what did <OVERLAP> she say about that? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well she </OVERLAP> um the guy Brian who Kelly knows, </U>
+			<U WHO="S2"> yeah yeah </U>
+			<U WHO="S3"> yeah he worked there <U WHO="S2">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U>
+				<OVERLAP> and he </OVERLAP> knows some of the other people who work there. <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> you could meet them like off hours <OVERLAP> somewhere or something. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah i can meet the </OVERLAP> workers from there fine i think. i'm a little bit i mean it's the owners <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i'm </OVERLAP> more nervous about. like i mean they're really, when they get really busy and like, <U WHO="S2"> yeah </U> i don't know. we'll see. </U>
+			<U WHO="S2"> mhm. i can see why that would be nerve-racking. </U>
+			<U WHO="S3"> right. so i'm trying to finish up like i only have like a chapter left in, um this buis- this book and then like there's one chapter in this one that's about my topic and_ like i've read five books, <OVERLAP> and </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> that's </OVERLAP> a lot. </U> yeah like i really spent a- </U>
+			<U WHO="S2"> and they were_ they're all pretty u- they were all pretty useful? </U>
+			<U WHO="S3"> yeah they were pretty good um, <U WHO="S2">
+					<OVERLAP> that's great. </OVERLAP>
+				</U>
+				<OVERLAP> yeah. </OVERLAP> so like um four of them, <U WHO="S2"> that's like a class. </U> yeah, i think so. four of them are by Light so, <U WHO="S2">
+					<OVERLAP> that's funny. </OVERLAP>
+				</U>
+				<OVERLAP> he's, really </OVERLAP> into that stuff too. so it's kind of easy to find them because they all are by the same person <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and like </OVERLAP> they all talk about each other and stuff so </U>
+			<U WHO="S2"> maybe we should say Kelly enters no, <EVENT DESC="LAUGH"/> i'm just kidding. </U>
+			<U WHO="S1"> i'm back from the bathroom. <EVENT WHO="SS" DESC="LAUGH"/> um, <OVERLAP> is </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> stage </OVERLAP> left. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> is this is this uh, you made this list of questions? </U>
+			<U WHO="S3"> i made those a long time ago. <U WHO="S1"> oh okay </U> as kind of like things i though about when i read. <U WHO="S1"> oh okay </U>
+				<OVERLAP> so </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U> and then this is like the notes from when i talked to Carol. <U WHO="S1"> uhuh </U>
+				<OVERLAP> it's </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> how many interviews total would you wanna have? </U>
+			<U WHO="S3"> i think i'd_ like ideally i'd wanna have, like, four to six businesses, <U WHO="S2"> mhm </U> and then their employees. <OVERLAP> but that's like a lot. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> what about Lucky Kitchen? </OVERLAP> are you trying to do_ i mean cuz, those are all restaurants right? <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> are there </OVERLAP> ones nonrestaurants that you know of? </U>
+			<U WHO="S1">
+				<OVERLAP> Sweetwaters is a cafe </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well, i mean </OVERLAP> yeah like th- i they're both, <U WHO="S2"> they're all kind of </U> yeah </U>
+			<U WHO="S1"> you wanna do nonrestaurants? </U>
+			<U WHO="S3"> no i wanna do mostly <U WHO="S2">
+					<OVERLAP> mostly restaurants </OVERLAP>
+				</U>
+				<OVERLAP> restaur- or like, </OVERLAP> Asian baker- you know? </U>
+			<U WHO="S1"> Asian bakeries <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i think that's good because even if you can- even if some of the information's like, restauranteering specific at least i mean, you've, g- gained some insight into that specific thing. <U WHO="S3"> mhm </U> it's better to narrow it <OVERLAP> down probably. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i mean she </OVERLAP> said that i wouldn't have to do a large amount that, i you know like interviewing, a small number <U WHO="S2">
+					<OVERLAP> C-K or </OVERLAP>
+				</U>
+				<OVERLAP> would be fine. </OVERLAP> yeah so </U>
+			<U WHO="S1"> you_ yeah it would be like a confounding factor if you had other businesses probably <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> like i'd like to spend um, a good portion of the paper talking about, like why i should interview them and like what makes them similar. because i mean it is_ you wanna make sure that there's like enough to be like oh you're not just picking random businesses. </U>
+			<U WHO="S2"> i think this paper sounds really interesting. <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i think </OVERLAP> it sounds good. </U>
+			<U WHO="S3"> i just feel like i'm i mean, i </U>
+			<U WHO="S2"> is it the time that's, <OVERLAP> anxiety? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah it's the </OVERLAP> time like we have to write a twenty page paper for Frank's class. </U>
+			<U WHO="S1"> twenty-one </U>
+			<U WHO="S2"> sounds like, the incomplete would be really, good for you. <EVENT WHO="SS" DESC="LAUGH"/> well no just <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> in terms of anxiety. <U WHO="S3"> yeah <OVERLAP> and when we </OVERLAP>
+				</U>
+				<OVERLAP> (i think you can) </OVERLAP> get it done but </U>
+			<U WHO="S1"> and i i um emailed Frank and i asked him if you had to be enrolled in at the same time if you're gonna take an incomplete. and he says you don't have to be enrolled so, <U WHO="S2">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<U WHO="S3">
+					<OVERLAP> oh </OVERLAP> okay </U> that's like excellent. </U>
+			<U WHO="S2"> yeah <U WHO="S3">
+					<OVERLAP> yeah i'm sure they </OVERLAP>
+				</U>
+				<OVERLAP> that's nice. </OVERLAP> you're gonna do it then? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"> i'm sure they um a lot of people end up doing that <OVERLAP> for R-C. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i mean he was </OVERLAP> almost like welcoming of it. he was like oh yeah <U WHO="S3">
+					<OVERLAP> mkay </OVERLAP>
+				</U>
+				<OVERLAP> everyone </OVERLAP> does it. <EVENT WHO="S3" DESC="LAUGH"/>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> he wasn't like <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> oh </OVERLAP> okay well a lotta people do it. <OVERLAP> he was like that's great. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well i think they must realize that </OVERLAP> like all (of a sudden) people don't have the time and like they want them to do better papers. </U>
+			<U WHO="S2"> well he was funny about it cuz <EVENT WHO="S3" DESC="LAUGH"/> he he was i don't know he said something to make me feel like, uh, you know people just take on so much and the projects are so intense <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> and they </OVERLAP> do so much good work <EVENT WHO="SS" DESC="LAUGH"/> and sometimes they just need more time and i'm like yeah except i basically haven't started. <EVENT WHO="SS" DESC="LAUGH"/> but i didn't <OVERLAP> say that. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> like i jus- </OVERLAP> i don't want to_ i mean it yeah it would be cool to get so engrossed in a paper but like i just wanna get this over with <EVENT DESC="LAUGH"/>
+				<U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> i don't, <U WHO="S3"> yeah </U>
+				<OVERLAP> i wanna graduate. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i mean i can </OVERLAP> see like people wanting to do this for like a doctoral thesis <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> or some- </OVERLAP> or <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> not this but like i can see someone wanting to spend months and months and being totally engrossed in it, <U WHO="S1"> yeah </U> but, not for something like this. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"> yeah just thirty pages, <U WHO="S2"> pssh </U> or twenty-five in your case. <EVENT WHO="SS" DESC="LAUGH"/> are you done talking or are you gonna talk <OVERLAP> more? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> um </OVERLAP> i don't know. l- like talk about what you did yesterday. </U>
+			<U WHO="S1"> oh okay well i wanted to talk about today actually. <U WHO="S3"> mkay <OVERLAP> sure </OVERLAP>
+				</U>
+				<U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<EVENT WHO="SS" DESC="LAUGH"/> cuz i met with Mabelle. i <OVERLAP> already s- ta- talked to Emily </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh, we've all made a lot </OVERLAP> of progress <OVERLAP> this past week. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i know. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> you know (it) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i haven't. i'm in the negative. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i guess it's c-_ no you have. </OVERLAP>
+				<EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> well you made i- made the decision to s- maybe you weren't gonna have C-K as your advisor anymore. </U>
+			<U WHO="S3"> hey </U>
+			<U WHO="S4"> hello </U>
+			<U WHO="S1">
+				<OVERLAP> hi </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> hi. </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> don't be alarmed. </U>
+			<U WHO="S3"> this is oh, this is Jeremy this is Kelly <OVERLAP> and Erica. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's a talk show. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i'm alarmed </OVERLAP> i'm sorry. </U>
+			<U WHO="S2"> hi Jeremy. </U>
+			<U WHO="S4"> hi (i'm) Jeremy what are </U>
+			<U WHO="S1">
+				<OVERLAP> you're from East Quad aren't you? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> you guys doing with big microphones? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> we're getting taped. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> we're vain </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh baby. </OVERLAP>
+			</U>
+			<U WHO="S1"> we just like to listen to <OVERLAP> ourselves. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> you guys just </OVERLAP> wreaking havoc? </U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> no they're </OVERLAP> gonna use our um what we say <OVERLAP> in a </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> voices </OVERLAP> to teach non-native English <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> speakers. </OVERLAP>
+			</U>
+			<U WHO="S4"> oh that's exciting. hope you guys have good <OVERLAP> grammar. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (yeah the) </OVERLAP> most perfect <EVENT WHO="S3" DESC="LAUGH"/> voices. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> yup, (don't use that.) <EVENT WHO="S2" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yup, thanks for that bit of advice. </U>
+			<U WHO="S2"> well you've read f- five books. </U>
+			<U WHO="S1"> i <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> know </OVERLAP> Jesus Emily. <U WHO="S2"> yeah </U>
+				<EVENT WHO="S3" DESC="LAUGH"/> um <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i think you're okay. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> i have yeah i- it was al- it was you know pretty humiliating to talk to <EVENT WHO="S3" DESC="LAUGH"/>
+				<OVERLAP> Mabelle. </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> was </OVERLAP> it? <OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> well because i </OVERLAP> haven't done anything you know she's_ i've read half of one book that she assigned to me like in September or maybe it was even before_ or not September but i don't <OVERLAP> know. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> was </OVERLAP> she disappointed? </U>
+			<U WHO="S1"> um well i don't you know it's hard to tell but, she's pretty like, straight like, </U>
+			<U WHO="S2"> like a wall </U>
+			<U WHO="S3"> yeah <OVERLAP> that's C-K right there </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah she's, </OVERLAP> cool calm and collected but_ so she was she's the whole thing with her she doesn't understand what she has to do. and like she's like all c- she's kind of like, <OVERLAP> w- what k- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> don't they encounter </OVERLAP> this <OVERLAP> sometimes? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> she's never </OVERLAP> done this before she's s- for the R-C she's done it for the Linguistics Department where they have like their own specific class for it and like, <U WHO="SS"> mhm </U> a committee that does it and like she, is like what committee do i report to? who's the main advisor? and i'm just like i i don't know. <EVENT WHO="S3" DESC="LAUGH"/> and like she i think she kind of thought i was like, an idiot because i didn't know but i think they're i just think they keep it open like they_ i don't think there is, <OVERLAP> any </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it's just like a report </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well i think the R-C should like </OVERLAP> maybe, make a little paragraph to give to these people that we are <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> encouraged </OVERLAP> to find. <OVERLAP> because like </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> or why not </OVERLAP> make it into a class? like it since it seems to be so_ i mean cuz aren't all the people that are social science majors doing one? </U>
+			<U WHO="S1">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> mhm </OVERLAP> yeah. </U>
+			<U WHO="S2"> like that's a substantial amount of people. </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S2"> they should do it like they do in the L-S-A. </U>
+			<U WHO="S1"> yeah kinda guide you through it. </U>
+			<U WHO="S2"> and then the I-C people people can do it with you guy_ you know? </U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well </OVERLAP> even if the class was just like it didn't have to be like a four credit ordeal maybe like a one or two and where you would go and like, i don't know just like once a week and meet and like i mean just like what we do kind of <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but like </OVERLAP> with a teacher and </U>
+			<U WHO="S1"> have to have results. </U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah. </OVERLAP> and if yeah if it was more well-known to other people, <U WHO="S3"> mhm </U> i didn't really tell_ i don't really know who's i guess Frank's my advisor go ahead, please, <EVENT WHO="SS" DESC="LAUGH"/> i don't mean to interrupt. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> but he doesn't even know that he's your other <OVERLAP> advisor </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i </OVERLAP> yeah i </U>
+			<U WHO="S2"> he even wrote it down in my file and he's like yeah i just wanna make sure this was, true or whatever. i'm like you ask me every time you even wrote it down. <EVENT WHO="S3" DESC="LAUGH"/> it's pretty true. </U>
+			<U WHO="S1"> yeah maybe <OVERLAP> you should email him on a weekly basis, reminding him. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> sad but true. i hate him. yeah </OVERLAP> i told you he's making me take another c- class. </U>
+			<U WHO="S3"> i was concerned about that. </U>
+			<U WHO="S1"> are you did you talk to Warren <OVERLAP> about it? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i know </OVERLAP> you were concerned about that. <U WHO="S3">
+					<OVERLAP> i know, i you i thought he might have screwed it up. </OVERLAP>
+				</U>
+				<OVERLAP> i mean so therefore therefore the fault, </OVERLAP> therefore the fault lies on me. and, like definitely like fifty-fifty you know because i should be aware of what, <OVERLAP> credits </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but he </OVERLAP> shouldn't have told you that you were fine. </U>
+			<U WHO="S2"> yeah i know he should have, <OVERLAP> i sh- </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> like </OVERLAP> i'm still afraid that there's gonna be something wrong with <OVERLAP> mine and i, don't know. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i know. like i told him </OVERLAP> like this is what i'm planning to take what do i need t- and you know like i didn't i wasn't like oh things will be fine you know like, <U WHO="S1"> yeah </U> and he told me everything was okay. so i am going in to Warren on Monday and i'm gonna try to get_ i didn't think i was gonna try to get out of it i thought i was just gonna be like can you help me find a creative expression for three credits? cuz i can't, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U> find one. </U>
+			<U WHO="S3"> well you might be able to do like an independent one this summer. </U>
+			<U WHO="S1"> oh yeah you could do independent one. </U>
+			<U WHO="S2"> see i don't wanna take any credits, you know cuz i have four-oh-two to take, and the G-R-E to study for and work and research </U>
+			<U WHO="S1">
+				<OVERLAP> well then try to get out of it. try to get out of it. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and a job. i know that's my </OVERLAP> first, first goal is to get out of it. </U>
+			<U WHO="S3">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what </OVERLAP> about doing independent with your voice teacher? </U>
+			<U WHO="S2"> i don't even know if she's gonna be around. i wouldn't want to do that i don't think. if i was, gonna do it i would, i would make him, let me do only a two credit one and i would take like the English writing, creative writing or <OVERLAP> something. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1"> ew i would wanna take something that doesn't involve writing papers. </U>
+			<U WHO="S2"> but i have so many extra credits <U WHO="S3">
+					<OVERLAP> you shoulda </OVERLAP>
+				</U>
+				<OVERLAP> it's not like </OVERLAP> i've been like taking twelve <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> credits </OVERLAP> a semester and like and getting a general studies degree. like i have two degrees, i've been working every semester like eighteen credits, done two classes in the summer, i should be cut some slack from this stupid three credits. </U>
+			<U WHO="S3"> maybe um also maybe if you you know you, if you can't get out of it like maybe you can make your writing your paper the thing cuz it's like a a you're writing something you know. </U>
+			<U WHO="S2">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you </OVERLAP> could write a poem about it. <EVENT WHO="S3" DESC="LAUGH"/> a book of poetry about it <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> maybe </OVERLAP>
+			</U>
+			<U WHO="S3"> you could find old papers you have </U>
+			<U WHO="S2"> i could take this tape recording. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> this is a spoken word. </U>
+			<U WHO="S2"> it's kind of the hip hop dance thing <EVENT WHO="SS" DESC="LAUGH"/> you know like girls studying. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> that's funny. um so can i continue? or </U>
+			<U WHO="S2">
+				<OVERLAP> sorry </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah sorry. so it was </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> can i have </OVERLAP> the center of attention back onto me? <EVENT WHO="SS" DESC="LAUGH"/> um, so what was i talking about? <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> Mabelle </OVERLAP> was really humiliating. </U>
+			<U WHO="S1"> yeah m- Mabelle kinda made me feel dumb. but i think it's just because she like is working with other people in the Linguistics Department that are doing their thes- their theses, or <EVENT DESC="LAUGH"/>
+				<SIC> thesi </SIC> and um, they have it more together than i do. so_ but anyway she has this, hu- beautiful plan for me to do, which involves me um going to the school that i'm at and observing their classes, um and <U WHO="S2">
+					<OVERLAP> hmm </OVERLAP>
+				</U>
+				<OVERLAP> figuring </OVERLAP> and finding out what they do to acco- like talking to teachers and the principal, try to figure out what they do to accommodate bilingual students if anything at all, and then um try to like_ and figure out what their constraints are like their money constraints time energy <U WHO="S2">
+					<OVERLAP> mm mhm </OVERLAP>
+				</U>
+				<OVERLAP> constraints </OVERLAP> and figure out like a plan for them <U WHO="S2">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> to the how best to </OVERLAP> accommodate their bilingual students. </U>
+			<U WHO="S2"> that's a really <OVERLAP> good idea. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so i'll be </OVERLAP> helping the community at the same time. <EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> you're <OVERLAP> helping people </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> giving back. </OVERLAP>
+			</U>
+			<U WHO="S2"> that's a really good idea. </U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> so it it involves a l- like, yeah she's like okay now you have to i have to read this other book about like practical methods and then i have to make a list and then i have to talk with meet with her again then i have to talk um to the principal so that i can, like get an in at the school so that they'll let me, talk to the <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> other teachers </OVERLAP> and in- observe their <OVERLAP> classes. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> see </OVERLAP> you're really lucky cuz i feel like C-K is like a s- a wall and you're like, i haven't done this and she doesn't give you any like she's not giving me any help. <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> i would love if, <OVERLAP> C-K </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well maybe </OVERLAP> you should meet with her again <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> she will </OVERLAP> do this. cuz the first time i met with Mabelle she didn't give me this. </U>
+			<U WHO="S3"> yeah she doesn't </U>
+			<U WHO="S2"> if she gets panicky maybe she'll do it for you. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> i know, i kn- if she realizes i can't take care of myself. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> it is it's embarrassing. </U>
+			<U WHO="S2"> that sounds like a really great <OVERLAP> project too. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah i think </OVERLAP> that sounds <OVERLAP> good. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> i think it'll be very interesting and very_ it'll be practical which will be nice. </U>
+			<U WHO="S2">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> Frank'll </OVERLAP> love that. </U>
+			<U WHO="S1"> yeah <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> yeah he will. </U>
+			<U WHO="S1"> i like practical. so i have to get this other book <OVERLAP> (that's the catch) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and maybe </OVERLAP> it'll open a career path up for you. <EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> who knows, what <EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> you could be like the, bilingual consulting firm. <EVENT WHO="S1" DESC="LAUGH"/> go around and offer consulting <OVERLAP> advice to school districts. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i could. that's a good </OVERLAP> idea i don't know if i really want to do that though. um, what was i gonna say? and i have to do this all like in two months and one of the months i'm also writing a like thirty pages, <U WHO="S2"> for Frank? </U> well twenty for Frank and ten for C-K. </U>
+			<U WHO="S2"> and you have to do it before the kids get out let out of school and no one's at the school anymore. <U WHO="S1"> yeah </U> but that's not till June, <OVERLAP> so you'll be done. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but i wanna finish </OVERLAP> this in May. i wanna finish. </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S3"> by your birthday it's done. </U>
+			<U WHO="S1"> yeah, <U WHO="S2"> done </U> twenty-second of April. </U>
+			<U WHO="S3"> two months to your birthday. </U>
+			<U WHO="S2"> you can do it. <EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> so i can tell you i can talk about what i did with the kids yesterday. <U WHO="SS"> okay </U> um nothing really. <EVENT DESC="LAUGH"/>
+				<OVERLAP> i just </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> what time is it? </OVERLAP>
+			</U>
+			<U WHO="S3"> six-thirty. </U>
+			<U WHO="S2"> oh we we're doing <OVERLAP> good. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we're going strong. </OVERLAP>
+			</U>
+			<U WHO="S3"> yeah we're doing good. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> um, <EVENT WHO="S3" DESC="LAUGH"/> the kids, um i just i'm doing this thing where i like, for half of the time i'm there for like about twenty minutes half an hour i work with one kid c- learning how to count cuz there's <OVERLAP> the kids that're, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh he's that </OVERLAP> one, (yeah) </U>
+			<U WHO="S1"> well it's a different girl now it's a different person <U WHO="S3">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> now, </OVERLAP> she's having a hard time counting but she's actually much better than, the other kid. and then the oth- the rest of the time i do this um, re- these reading activities like getting them to learn the alphabet and sounds of the letters and reading books and stuff. so that's really fun cuz i do it with this group of kids and like i get to pick out the group and um this time around i picked out, Maria and she's my fav- my favorite student in the class so, <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> oh, <OVERLAP> that's so awful. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i uh she's really, </OVERLAP> she's really cool. um, if you met her you would think she's really cool too. <EVENT WHO="SS" DESC="LAUGH"/> maybe i'll invite her to come over some time. <EVENT WHO="SS" DESC="LAUGH"/> she's six. um, <EVENT DESC="LAUGH"/>
+				<OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> hey </OVERLAP> my friends and i are hanging out tonight. we're going to Dominick's you wanna come? </U>
+			<U WHO="S1"> she's real- she would_ she'd be down for it. <EVENT WHO="S2" DESC="LAUGH"/> um, so but then this is the second time_ i already told Emily this where the teacher asks me to take the students to gym class. the, um did i tell you this already? the there's probably like twenty kids in the class like twenty rambunctious, Spanish-speaking six-year-olds and i'm like, <FOREIGN> caminan </FOREIGN>
+				<EVENT WHO="S2" DESC="LAUGH"/> like i don't i can't even like say the forms right or like anything, <EVENT WHO="S3" DESC="LAUGH"/> um, so, </U>
+			<U WHO="S3"> i bet they laugh a lot. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> they're probably like what is she saying? <EVENT WHO="S2" DESC="LAUGH"/> so i have to take them and like they have to line up but they're all pushing each other and like, they're totally disord- and like i'm, trying to lead this line all the other teachers are like what is going on? this person has no control of the kids at all. it's really embarrassing. <U WHO="S2"> oh </U>
+				<EVENT WHO="S3" DESC="LAUGH"/> and then oh and on top of it this poor little kid Jonathan wet his pants. </U>
+			<U WHO="S2"> oh that sucks. </U>
+			<U WHO="S1"> yeah and he like, i don't know it just caused a problem. </U>
+			<U WHO="S2"> so it's just a regular public school in Detroit right? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S2"> where is it in Detroit? </U>
+			<U WHO="S1"> it's um, you know Fort, <OVERLAP> street? it's in southwestern Detroit. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> uhuh i- that's on my </OVERLAP> project that's in my project. <EVENT WHO="S1" DESC="LAUGH"/> Fort and what? <OVERLAP> like what's the </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well i- </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> you </OVERLAP> guys should work together. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> it's a it's on a street i- do you know like Lafayette and Florida are parallel to each other <U WHO="S2">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> Lafayette? it's in between those two by the cross street of Waterman. </U>
+			<U WHO="S2"> okay yeah that's i think that's exactly my area i think i <OVERLAP> have a map. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh </OVERLAP> it's all it's all Mexican, pretty much that <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> area </OVERLAP> is. </U>
+			<U WHO="S2"> hmm that's interesting. </U>
+			<U WHO="S3">
+				<OVERLAP> (mm) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you </OVERLAP> have a map? </U>
+			<U WHO="S2"> small world it is. </U>
+			<U WHO="S1"> i drove around the area w- it's neat cuz it's like Mexican st- like everything_ oh, Spanish Hispanic stuff all over the place. </U>
+			<U WHO="S2"> let's see. okay so here's Fort... oh no it's right outside of my area. cuz my, Fort is there and that's Lafayette and my area is like all of this in here. </U>
+			<U WHO="S1"> oh okay wh- <OVERLAP> where's Water- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so to the water. </OVERLAP>
+			</U>
+			<U WHO="S1"> where's Waterman? </U>
+			<U WHO="S2"> i think Waterman's in my a- area but it, not <U WHO="S1">
+					<OVERLAP> cuz i </OVERLAP>
+				</U>
+				<OVERLAP> Waterman </OVERLAP> and Lafayette. </U>
+			<U WHO="S1"> i'm Fort_ between Fort and, where's Laf- where'd Lafayette go? </U>
+			<U WHO="S2"> here, here is, Lafayette. and Waterman <PAUSE DUR=":05"/> Waterman's right here. so you're right there. <U WHO="S1"> yeah </U> i know uh this map really well cuz i have to like go through it i we have like big uh photocopies of it and like i have to go through it all the time it's really annoying. </U>
+			<U WHO="S1"> and your area's on the other side of <OVERLAP> Fort street? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah it's </OVERLAP> like, from here to here up to Fort. <U WHO="S1"> uhuh </U> that's it's a really bad neighborhood. yeah i think_ is it Mexican Mexican town is like <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> here </OVERLAP> right? <U WHO="S1"> how </U> this area is really not Mexican Fort i- street is but that's really it. </U>
+			<U WHO="S1"> how is that considered southwestern Detroit is there is it southwestern? <OVERLAP> oh okay </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah because </OVERLAP> um <U WHO="S3">
+					<OVERLAP> (it seems like it'd be southeastern) </OVERLAP>
+				</U>
+				<OVERLAP> this is Dearborn over </OVERLAP> here. oh right here. and Detroit_ <U WHO="S3">
+					<OVERLAP> oh like not within the city of Detroit. </OVERLAP>
+				</U>
+				<OVERLAP> this is the Ambassador Bridge right here and Detroit's up there. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh i see </OVERLAP> yeah. </U>
+			<U WHO="S3"> i get it. </U>
+			<U WHO="S2"> yep. so should we do a plan of what we want to get done for this next week? </U>
+			<U WHO="S3"> i think i need to <OVERLAP> be on a plan. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> or do you just </OVERLAP> do you want to talk about more stuff? </U>
+			<U WHO="S1"> um i don't have anything more to say. </U>
+			<U WHO="S2"> kay i think i have our itinerary, here. <EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> let's see if we got our stuff accomplished from six months ago. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> oh God </U>
+			<U WHO="S2"> where is it? </U>
+			<U WHO="S1"> got a expandable file. </U>
+			<U WHO="S2"> yeah you like that? </U>
+			<U WHO="S1"> you girls and your expandable, files. </U>
+			<U WHO="S2"> i don't_ does anyone have a new piece of paper? <EVENT WHO="S3" DESC="LAUGH"/> where are our goals? <U WHO="S1"> i don't think th- </U> they're out the window. <PAUSE DUR=":05"/> hmm </U>
+			<U WHO="S3"> so who's coming to sewing circle tonight? <OVERLAP> Sarah? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i </OVERLAP> don't know Sarah and her recruits. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> oh yeah i am doing the study on the sewing circle Erica. </U>
+			<U WHO="S2"> oh <OVERLAP> you are? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i'm gonna </OVERLAP> yeah i have to give you a consent form. </U>
+			<U WHO="S2"> really? </U>
+			<U WHO="S1"> yeah but i don't have it <OVERLAP> with me right now. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh that's funny. </OVERLAP>
+				<U WHO="S1"> yeah </U> consent forms are so funny. <EVENT WHO="S3" DESC="LAUGH"/> what's the use. <EVENT WHO="S1" DESC="LAUGH"/> okay oh </U>
+			<U WHO="S1"> they like ask all these specific questions on the um, that I-R-B form i had to fill out, and they're like what are you gonna do with the data when you are done with it? and i was like well it'll probably go into a folder and it'll probably eventually make it to my parents' basement and then maybe it'll be thrown away when my mom decide_ <EVENT DESC="LAUGH"/> i didn't put that. like i typed it but then i was like i'm not gonna put that and i deleted it. <EVENT WHO="SS" DESC="LAUGH"/> but </U>
+			<U WHO="S2"> okay so Kelly's goals were... you taught th- your kid but you were gonna make the rest of the flashcards and you were gonna email Mabelle an email for more words. </U>
+			<U WHO="S1"> right, didn't do that. </U>
+			<U WHO="S2"> whatever. <EVENT WHO="S1" DESC="LAUGH"/> you were gonna finish your book and start your other book. </U>
+			<U WHO="S3"> i did that. </U>
+			<U WHO="S2"> and i was_ i don't know what i was gonna do. </U>
+			<U WHO="S1"> circle more, </U>
+			<U WHO="S2"> it's done </U>
+			<U WHO="S1"> do m- put more circles on forms. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> what did i do that was (circling) </U>
+			<U WHO="S1"> you just got all these forms out and you were just doo doo doo doo doo, circle something <U WHO="S2"> yeah </U> and then like, <EVENT WHO="SS" DESC="LAUGH"/> look over the forms. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> that was serious business. i'm gonna get my thesis published and when you g- <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> what what were you doing though with those forms if you had no point to your thesis paper? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i <OVERLAP> think you're talking about </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think she just came </OVERLAP> to hang out with us. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i think you're talking about the interview <OVERLAP> the th- the </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah the interviews. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah yeah </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah i was trying to figure out what i should do for my thesis. cuz this is the information i have you know. </U>
+			<U WHO="S1"> oh okay </U>
+			<U WHO="S2"> but i don't remember circling things. <EVENT WHO="S3" DESC="LAUGH"/> yeah there's nothing i circled. <U WHO="S1"> </U>
+			</U>
+			<U WHO="S1"> oh well you know </U>
+			<U WHO="S2"> i wrote so- s- down here some, </U>
+			<U WHO="S3"> you went like this </U>
+			<U WHO="S2"> possible questions. <EVENT WHO="S3" DESC="LAUGH"/> i don't know what you're talking about. okay so </U>
+			<U WHO="S3"> so are you excited about that Cosi opening up? </U>
+			<U WHO="S2"> oh oh </U>
+			<U WHO="S3">
+				<OVERLAP> Julie's so excited about it </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you know, i'm </OVERLAP> not. <U WHO="S1">
+					<OVERLAP> why? </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> worse than Starbucks i think. </U>
+			<U WHO="S1"> well why does Juzi- Julie like it if it's so bad. </U>
+			<U WHO="S2"> it's a chai- it's a big chain it's just like Starbucks. it looks exactly like that same kind of like plush <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> urban </OVERLAP> yuppie da da da. and uh, it's like they sell like really expensive like nine ten dollar sandwiches there and like there's like the chef making the sandwiches they looked really good. the first time i saw it was when i was in Chicago last weekend, <U WHO="SS"> oh </U> and i went in there to get a sandwich and they were like so expensive so i was like i just left. <U WHO="S1"> uhuh </U> and it just looked really upsetting cuz like the area i was in was like this nice like cool like, normal people area with like lots of people of different colors and then you go in and it's like this really icky, <U WHO="S3"> hmm </U> yuppie white people in <OVERLAP> there. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> is </OVERLAP> it a place where you can study? or </U>
+			<U WHO="S2"> well may- i'm sure that's what they're intending to do for it here i mean basically it's set up a lot like Starbucks but not as study-oriented. </U>
+			<U WHO="S3"> will they serve alcohol at night? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> at <OVERLAP> night </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> i know you said that that was weird cuz it's, yeah i m- i mean maybe it's gonna be_ i bet they have like two or three different s- you know those type of like chains like that have like two or three different setups based on what they wanna do or whatever. </U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> that's true. how was Chicago last weekend with Avi? </U>
+			<U WHO="S2"> it was, th- one of the worst three days of my life <EVENT WHO="S1" DESC="LAUGH"/> being with Avi but it w- <OVERLAP> i had a good time other than that. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i don't know_ you keep doing this </OVERLAP> to yourself with him. </U>
+			<U WHO="S2"> i was like i'm gonna write down a list of people to remind myself that i don't enjoy hanging out with them and like why, because i forget. <EVENT WHO="S1" DESC="LAUGH"/> i don't like hanging out with him. it was terrible terrible terrible. </U>
+			<U WHO="S3"> did you get to meet all his like relatives and friends and <OVERLAP> stuff? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no </OVERLAP> i didn't meet anyone. like i was supposed to meet his grandma and i was supposed to go to lunch with his mom until he let it slip that she was really pissed that i was there. and i'm like that makes me want to go. like why say that and then encourage me to go visit her? <U WHO="S3"> mhm </U> and then, the place we were staying at was his uncle's place but his uncle was gone. so i didn't meet any of his family. and he met my aunt and uncle and i was really upset be- about that cuz he was really obnoxious so icky there so icky. and then, he was he wanted to go to lunch with me and my cousins but i was like oh well i think they're gonna wanna get going before you get back so, i didn't have to go <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> (over) with him. </OVERLAP> but i got this shirt </U>
+			<U WHO="S1">
+				<OVERLAP> i like that i was gonna say it </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i like it too. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and i got two other shirts_ i like it too </OVERLAP> thanks. <EVENT WHO="S1" DESC="LAUGH"/> um, i had a good time shopping except he left me out there for nine hours. <U WHO="S1"> oh </U>
+				<EVENT WHO="S3" DESC="LAUGH"/> and then he was like <U WHO="S3">
+					<OVERLAP> it was cold </OVERLAP>
+				</U>
+				<OVERLAP> could you walk </OVERLAP> several blocks down maybe in this direction i'm not sure if that's where i am right now to_ <EVENT WHO="S1" DESC="LAUGH"/> like everywhere he went he was late. he w- um, left his car lights on twice, <U WHO="S1"> oh </U> in three days. </U>
+			<U WHO="S3"> what's wrong with him? <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i mean he's just so obnoxious such a jerk. <OVERLAP> i hate him. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> um, </OVERLAP> i found this hat today on a tree. </U>
+			<U WHO="S2"> it's really nice. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> that's a woman's hat isn't it? </U>
+			<U WHO="S3"> i think so. </U>
+			<U WHO="S2"> it's <OVERLAP> nice. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it </OVERLAP> could be a man's hat. </U>
+			<U WHO="S2"> it could be but yeah it's <OVERLAP> nice. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> did </OVERLAP> you know that Emily's not going to the R-C senior dinner? </U>
+			<U WHO="S2"> i didn't see your name on there. </U>
+			<U WHO="S3"> i told you last Tuesday. </U>
+			<U WHO="S2"> i know. why is <OVERLAP> that? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you're a deviant. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i told you </OVERLAP> because <OVERLAP> i forgot </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> what's up with </OVERLAP> this deviant behavior? </U>
+			<U WHO="S3">
+				<OVERLAP> i forgot. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you can probably </OVERLAP> still go. </U>
+			<U WHO="S3"> i know but i like i'm writing <OVERLAP> my paper that night. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) she doesn't want to go. </OVERLAP> she doesn't want to go. </U>
+			<U WHO="S3"> i'm sorry you'll have a great time together. </U>
+			<U WHO="S2"> yeah i remember you did tell me and i was like if we all we're all gonna bond and not care about you. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"> you me and Katy? </U>
+			<U WHO="S2"> we're gonna solidify our relationships for after school. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah <OVERLAP> that's (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we're gonna make </OVERLAP> we're gonna make connections Emily <EVENT WHO="S3" DESC="LAUGH"/> with people <OVERLAP> and jobs, jobs, money </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> lifelong. lifelong. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> networking. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i know and i- and if you did i would feel really </OVERLAP> bad about it <EVENT WHO="SS" DESC="LAUGH"/> it's a risk i'm taking. </U>
+			<U WHO="S1"> we've got business c- <OVERLAP> we should get business cards made. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> your picture's gonna be up. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> why? </OVERLAP>
+				</U>
+				<OVERLAP> because </OVERLAP> all of our pictures from orientation are <OVERLAP> up. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh well </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh man. </OVERLAP> you mean that <OVERLAP> group picture? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i don't know </OVERLAP> if you're on there i don't don't remember seeing you. <OVERLAP> i'm not on there either. i'm </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> she's in Dan- she's </OVERLAP> in Danny's group. </U>
+			<U WHO="S1"> yeah i was in Danny's group. </U>
+			<U WHO="S2"> yeah i don't, that's weird i didn't know that. <OVERLAP> he wasn't on there either. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well when they had those_ </OVERLAP> yes you do, well they must have left out our picture <OVERLAP> or something. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> they left </OVERLAP> out mine too. well she had like just this pack of like all these old orientation pictures. <U WHO="SS">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> but she </OVERLAP> had 'em separated into years, but there were lots that were missing from our year so we looked through the rest and there're weren't other ones Darcy and mine <OVERLAP> well we went together </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i could see people </OVERLAP> stealing cuz aren't they just like hanging up someone like grabbing 'em or <OVERLAP> something. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah and i feel like they really didn't intend for them to have any purpose after being up so they weren't really like super <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> careful </OVERLAP> about, where to put them. <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> cuz </OVERLAP> a lot are missing. </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S1"> what are we gonna do at the dinner? just eat, <OVERLAP> give out awards </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> um, </OVERLAP> well if you go at six-thirty then the open bar'll be there which is nice. and you're gonna put_ you're gonna look at the pictures, and then um also <OVERLAP> put down where you're gonna be on the map. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the like six pictures </OVERLAP>
+			</U>
+			<U WHO="S3"> well put me down on the map. </U>
+			<U WHO="S1">
+				<OVERLAP> Shanghai? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well i know_ </OVERLAP> i think they're just gonna rip the stuff off <U WHO="S3">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> after. </OVERLAP> but i i can put you on the map. <EVENT WHO="S3" DESC="LAUGH"/> that'd be cool. i'll put you on the map. <EVENT WHO="SS" DESC="LAUGH"/> um, and then, that's for like a half hour and there's gonna be this guy who i guess is graduating with us but he's like forty years old, h- he's plays the piano and i then i think two violins, <U WHO="S1"> mm </U>
+				<U WHO="S3"> that'll <OVERLAP> be nice. </OVERLAP>
+				</U>
+				<OVERLAP> and they're </OVERLAP> gonna be playing through the c- like, <U WHO="S1">
+					<OVERLAP> dinner </OVERLAP>
+				</U> drink part and the dinner. <U WHO="S1"> uhuh </U> and then at the end of the dinner <EVENT DESC="S2 BURPS"/> excuse me. Tom Warnhoch gets up and talks about um, i don't know if he well the head the robin those Robbie awards or whatever, are f- are based on a scholarship that was set aside by the first president of the R-C head of the R-C, <U WHO="S1"> uhuh </U> and he's gonna be there with his wife so i think he like introduces them, and introduces <U WHO="S3">
+					<OVERLAP> who gets the scholarships? we don't know? </OVERLAP>
+				</U>
+				<OVERLAP> anyone else that was there. </OVERLAP> well didn't you someone say Katy was getting one? </U>
+			<U WHO="S1"> what a- what are you ta- i have no idea what you're <OVERLAP> talking about. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> the Robbie aw- </OVERLAP> i told you about this cuz you're like oh i don't wanna go cuz i'm not gonna get one. </U>
+			<U WHO="S1"> you didn't tell me about those you said they were for the the arts. </U>
+			<U WHO="S2"> yeah, they're called the Robbie awards <U WHO="S1">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> and it's </OVERLAP> like each department but then i also thought it wasn't each department in the R-C it was like, just the art departments but i could be wrong. i don't know. </U>
+			<U WHO="S3"> so Katy's getting one? <OVERLAP> so she's going </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh God why </OVERLAP> does she get all the breaks? </U>
+			<U WHO="S2"> why is she getting one? <OVERLAP> i can't </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> why is she going? </OVERLAP> i thought she wasn't going. </U>
+			<U WHO="S2"> maybe she's not. i don't remember if her name was on there or not. </U>
+			<U WHO="S1"> well did you put her at our <OVERLAP> table? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> maybe she's </OVERLAP> not_ didn't you tell me she was getting one? maybe Darcy did. </U>
+			<U WHO="S3"> must've been Darcy. </U>
+			<U WHO="S2"> i don't know why she's getting one. i would imagine all those teachers turn around and hate her. </U>
+			<U WHO="S3"> well i know that what's her name does. </U>
+			<U WHO="S2"> who? </U>
+			<U WHO="S3"> like what's her name? um, she's the one she had for like Greek. </U>
+			<U WHO="S2"> oh Cindy <OVERLAP> Shire </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> Cindy Shire doesn't like her. </U>
+			<U WHO="S2"> well she'd be getting it from </U>
+			<U WHO="S3"> well she's g- she's getting it from her advisor who <OVERLAP> loves her. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> Ken Reskowski? </OVERLAP>
+			</U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> he loves her? </U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Tim? isn't his_ Mike </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but, i feel like all the_ </OVERLAP> Kin, Ken <U WHO="S1">
+					<OVERLAP> Ken yeah </OVERLAP>
+				</U>
+				<OVERLAP> Reskowski. </OVERLAP> i feel like all probably all the students that he has like they're so close and blah blah <OVERLAP> blah, but like that she would be the favorite? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah like why would she get it over Tori </OVERLAP> or, <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> Mariah or <OVERLAP> something like that? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah i'm surprised that she's the favorite. i don't know if it's true i i thought i heard it from you but <U WHO="S1">
+					<OVERLAP> well </OVERLAP>
+				</U>
+				<OVERLAP> i guess </OVERLAP> i heard it from Darcy. </U>
+			<U WHO="S1"> i think, i think people when they initially meet Katy really like her <OVERLAP> i mean we all did. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but they've known her </OVERLAP> for a while <U WHO="S1">
+					<OVERLAP> yeah but they live </OVERLAP>
+				</U>
+				<OVERLAP> and do you think she's talented enough </OVERLAP> to get that? or like, like you want it to be someone who like has a lot of talent and is like maybe very ambiti- you know like what <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> are the </OVERLAP> qualities you look for in someone to r_ it's only like a hundred or two hundred dollar award but like, she doesn't excel in her field you know what i mean? like she hasn't done writing outside of school she hasn't had like a job related to it or, <U WHO="S3"> yeah </U> you know gone to help kids write poetry. </U>
+			<U WHO="S1"> that's true </U>
+			<U WHO="S2"> she's a weird candidate for something like <OVERLAP> that. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i guess </OVERLAP> she was complaining to me about how i think Ken saw her um final book of poems did you see it? and he said it was like, sh- it looked like she hadn't spent enough time on it <OVERLAP> or something. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i she said </OVERLAP> that, to us <OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh </OVERLAP> both of u- yeah and i like i mean she does like she, the thing's probably not due for like three weeks and she's did it in like two nights or something <OVERLAP> like that </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well i mean </OVERLAP> all it is is twenty of her poems that she's written over the past four <OVERLAP> years. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1"> she was stressing about what format to put it in and like </U>
+			<U WHO="S3"> well like i mean sh- yeah i would s- i would be like okay this is your senior project like </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S2"> was she supposed to do that just pumulate accumulate poems that she had already <OVERLAP> done? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i </OVERLAP> thought that they were supposed to do more than that i mean <U WHO="S2">
+					<OVERLAP> you'd think so. </OVERLAP>
+				</U>
+				<OVERLAP> yeah they're supposed </OVERLAP> to do like i think it was supposed to be like, i think ideally they wanted you to write poems on a certain theme and put 'em into a book like what everyone else does like you know Walt Whitman's Leaves of Grass or something <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like that </OVERLAP> you know like, there's like some sort of overriding, and like maybe you would be like oh well i wrote this and this would really fit in well but like i feel like <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> she just, </OVERLAP> i don't know whether she writes poetry anymore. </U>
+			<U WHO="S2"> yeah i di- i thought she was more of just a fiction writer or, creative writing. <U WHO="S3"> yeah </U> not poetry. </U>
+			<U WHO="S1"> oh i always thought she was just poetry. </U>
+			<U WHO="S2"> well what was that book she's been writing for a while, <U WHO="S1">
+					<OVERLAP> oh yeah i forgot about the book. </OVERLAP>
+				</U>
+				<OVERLAP> on her own or whatever. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah. </OVERLAP> she doesn't i mean </U>
+			<U WHO="S1"> what happened to that book is she still writing it? she finish it? </U>
+			<U WHO="S2"> i don't <OVERLAP> know </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well it </OVERLAP> was like sixty pages when she finished it. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> um, <OVERLAP> (oh) i forgot what i was just gonna say </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i personally don't even </OVERLAP> i don't like her poetry. <EVENT WHO="S1" DESC="LAUGH"/> i'm gonna say it. </U>
+			<U WHO="S2"> i yeah i haven't read many things of hers that i like but maybe that's tainted b- i, <U WHO="S3">
+					<OVERLAP> well even when </OVERLAP>
+				</U>
+				<OVERLAP> tainted by </OVERLAP> not liking her but even when i did like her <U WHO="S3">
+					<OVERLAP> even when her i did like her i didn't really it </OVERLAP>
+				</U>
+				<OVERLAP> i didn't, </OVERLAP> yeah i felt it was just like whiny white girl <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> suburban </OVERLAP> white girl <U WHO="S3">
+					<OVERLAP> well and i thought </OVERLAP>
+				</U>
+				<OVERLAP> like it's very </OVERLAP> atypical poetry. </U>
+			<U WHO="S3"> well i thought also that it was like um, like she made all these like she has a good vocabulary and like lots of these random words put together but they didn't really always form like an image to me or something like that i'm like i'm like oh you have a good vocabulary but like what are you saying? <OVERLAP> like i don't get it. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> like there was too many </OVERLAP> random words <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> (filling it) was like </OVERLAP> too many images all together. </U>
+			<U WHO="S2"> i feel like her poetry really exemplifies the way she is where she_ i- or in terms of like like like where she really wants to impress you and </U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> she </OVERLAP> wrote in h- the preface to her book that she's like i want to make it very clear that none of these poems are autobiographical or bi- and then like, how could she ever do anything that's not centered around herself? <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S2">
+					<OVERLAP> they are, all </OVERLAP>
+				</U>
+				<OVERLAP> like, </OVERLAP> her entire_ yeah, everything in the world is center <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> on </OVERLAP> centered around her. i think it was really funny <EVENT DESC="LAUGH"/> like first year, <OVERLAP> she was (on the bottom of the bottom as an art student) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> like obviously she must have </OVERLAP> written so many things in there that would be construed as negative towards someone and like now <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> she wants </OVERLAP> to like, <U WHO="S1">
+					<OVERLAP> maybe </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> probably like why i hate my housemates or like something like that. <EVENT WHO="S1" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> no you know she wasn't she would like to let us know that. </U>
+			<U WHO="S1"> i wanted to ask you if you'd be willing to go in on a scheme with me <EVENT WHO="S3" DESC="LAUGH"/> to um cuz her and me are warring <U WHO="S2">
+					<OVERLAP> to evict her? </OVERLAP>
+				</U>
+				<OVERLAP> right now, </OVERLAP> um yeah no because uh she won't let me keep any of my shampoo or conditioner along the edge of the bathtub </U>
+			<U WHO="S2"> why won't she she keeps putting it back up there, she puts my stuff <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> up there </OVERLAP> too. </U>
+			<U WHO="S1"> let's let's can we can </U>
+			<U WHO="S2"> is it cuz she bathes every night and puts it up there? or is she </U>
+			<U WHO="S3"> i think it's cuz she's clumsy and she doesn't like the idea of like knocking over stuff. cuz when i lived at Walnut Street, it was a similar situation where but she would never actually move it cuz she was you know too scared of us or whatever you know she wasn't as like, forward about things but she'd be like oh guys i have an idea for the bathroom to make it neater like why don't we all get our own little, like caddies and put our stuff in it and then she like did it for her as an example and none of us did it and then like </U>
+			<U WHO="S2"> well she's tolerated it for the whole year and then when she cleaned the bathroom <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> boom everything's like crushed up there or whatever. </U>
+			<U WHO="S3"> well i'm i'm sure it irritated her when she cleaned the bathroom. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so </OVERLAP> i think that we should just line up all of our things around the edge <EVENT WHO="S3" DESC="LAUGH"/> together at one time. <EVENT DESC="LAUGH"/>
+				<U WHO="S2"> okay </U> just to annoy her. or do you think that's <U WHO="S2">
+					<OVERLAP> well i </OVERLAP>
+				</U>
+				<OVERLAP> going </OVERLAP> to her level? </U>
+			<U WHO="S2"> i mean when sh- no i don't care. <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> i'll </OVERLAP> do it. <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> i don't want_ i- some of my stuff i'll just leave up_ you think i should put it all (xx) </U>
+			<U WHO="S1"> and i think maybe we should put her stuff there <OVERLAP> t- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> like </OVERLAP> deliberately. <U WHO="S1"> yeah </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> you do it. you can put_ you have, my permission <OVERLAP> to put all my stuff on </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well i don't know what </OVERLAP> your stuff is and what's Darcy's <OVERLAP> and what's Ka- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i think </OVERLAP> Darcy only has stuff in her little caddy thing. <U WHO="S1"> oh okay </U> my stuff is <OVERLAP> all, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> the all </OVERLAP> animal friendly stuff. <EVENT WHO="S1" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i have like three things on the, <U WHO="S1">
+					<OVERLAP> rack </OVERLAP>
+				</U>
+				<OVERLAP> rack. </OVERLAP>
+				<U WHO="S1"> okay </U> and then, one thing, on the window sill. </U>
+			<U WHO="S1"> okay i think those, um caddies are kind of not very hygienic because you don't_ like they get all grimy in the bottom <U WHO="SS">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and like </OVERLAP> i just don't really like to use 'em. </U>
+			<U WHO="S2"> i mean i, would <U WHO="S3">
+					<OVERLAP> well does anyone have a </OVERLAP>
+				</U>
+				<OVERLAP> put my stuff up there but </OVERLAP> she keeps crowding it. i mean it's, not so much that i care that it's up there but that every time i put it somewhere else it gets moved <OVERLAP> everyday. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah every </OVERLAP> my stuff gets moved too all the time. </U>
+			<U WHO="S2"> i thought it was because_ cuz sometimes when she takes a bath she takes <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> everything </OVERLAP> off from around there and like puts it on the ground. <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> you know. </OVERLAP> i thought that's why it's been happening but you think everyday she's like deliberately <U WHO="S1">
+					<OVERLAP> well </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> i am gonna move <OVERLAP> this. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> just </OVERLAP> i guess i mean it happened like when she took baths or just a few times before but it's happened two days in a row. </U>
+			<U WHO="S2"> yeah it has happened since she, <U WHO="S1">
+					<OVERLAP> cleaned the bathroom. </OVERLAP>
+				</U>
+				<OVERLAP> cleaned the bathroom. </OVERLAP> her greatest gift to us. </U>
+			<U WHO="S1"> yeah, what a great housemate she is. <EVENT WHO="S2" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> i'm sure she um, is telling Bill and saying like i'm the only who even cleans around the house. (xx) </U>
+			<U WHO="S2"> that yeah that freaks me out <OVERLAP> that um </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> she </OVERLAP> yeah well she does like those things once in a while just so she can say that you know. </U>
+			<U WHO="S2"> it's so bizarre. it's so, bizarre. she l- she interprets things so, <EVENT DESC="LAUGH"/>
+				<U WHO="S3"> yeah </U> differently than reality. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> um, and i know you're gonna yell at me but i read her mood gauge or whatever <EVENT WHO="S2" DESC="LAUGH"/> and like first of all one day when she cleaned the house she was like i cleaned my stupid apartment without a break blah blah blah, blah blah blah. <EVENT WHO="S2" DESC="LAUGH"/> and then um, the one that she f- or you know she hates her job or whatever and she's like, everyone waits to the last minute to do their things then they come bitching at me like it's my fault. it's not my fault just start working on your stuff earlier. but like when you go to the computer lab like it's (stressful right now) and like you just want the computers to work and the printers to work and like i'm sure that people are not actually like, <U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> like bitching to her like i'm sure <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> they're like </OVERLAP> there's something wrong with the computer. and like i'm sorry that like every job has like its pros and cons <U WHO="S2">
+					<OVERLAP> she hates her Angell Hall job? </OVERLAP>
+				</U>
+				<OVERLAP> and one of yours is that_ </OVERLAP> she always complains about people being rude to her. </U>
+			<U WHO="S1"> i bet she's so rude to everybody <OVERLAP> else. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> i'm sure </OVERLAP>
+				</U>
+				<OVERLAP> sometimes </OVERLAP> she's like i l- i thought she used to be like i love that job. </U>
+			<U WHO="S3"> she's on and off with it. <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> cuz </OVERLAP> like she's knows it's like a really good job to have <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> cuz </OVERLAP> it is really easy but she also like hates when people talk to her <EVENT WHO="SS" DESC="LAUGH"/> at work. like that's her job like your f- job is to help people. <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i'm </OVERLAP> sorry that that's </U>
+			<U WHO="S1">
+				<OVERLAP> she's not cut out for customer service. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> Katy Katy Katy Katy. </OVERLAP> yeah sh- no she's not and it's funny cuz that's the only job she's ever had. <U WHO="S1"> mhm </U>
+				<EVENT DESC="LAUGH"/> so should we do goals? </U>
+			<U WHO="S3"> mkay yeah. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> kay what are your goals? </U>
+			<U WHO="S1"> by Tuesday right <U WHO="S2">
+					<OVERLAP> by Tuesday </OVERLAP>
+				</U>
+				<OVERLAP> of next week, </OVERLAP> i will have gotten ahold of that book that Mabelle recommended to me and have... pretty much read it all. God that's never gonna happen. </U>
+			<U WHO="S3"> did you finish your other book? </U>
+			<U WHO="S1"> no, no way. <EVENT DESC="LAUGH"/> i'm a slow reader. </U>
+			<U WHO="S2"> you need to learn how to um, speed read. </U>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S1"> nope i haven't ever been able to do it my whole life. </U>
+			<U WHO="S2"> is that good? </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S3"> um my goal is to get in contact with C-K and hopefully meet with her, and to finish my reading cuz there's not much left. </U>
+			<PAUSE DUR=":13"/>
+			<U WHO="S2"> i'm gonna circle more stuff on the interview, no. <EVENT WHO="SS" DESC="LAUGH"/> um, i'm gonna finish up the reading cuz there's not that much left at all. </U>
+			<U WHO="S1"> have you_ you've been reading books? </U>
+			<U WHO="S2"> um <PAUSE DUR=":04"/> i haven't r- i mean i haven't read a single_ there aren't any books on the topic. <U WHO="S1"> right </U> there are some books that are o- on local labor markets, but, i think that almost everything i've read i'm gonna be able to use and like there's some stuff in here, i don't know maybe i'll e- there's Caleb <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> i gotta see him. </U>
+			<U WHO="S2"> i can't tell <OVERLAP> if that's (xx) him. yeah that's him. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh i recognize him he's got a </OVERLAP> he's got a drawing pad, or whatever. </U>
+			<U WHO="S2"> oh he i'm sure he's, </U>
+			<U WHO="S1"> an artist? </U>
+			<U WHO="S2">
+				<OVERLAP> so artistic. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> where is he? who is he? </OVERLAP>
+			</U>
+			<U WHO="S2"> he's this jerk from my class that's a real asshole. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> he's picking he's posting something on the board <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh okay </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah i'm sure it's like slam or uh <OVERLAP> poetry slam. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no it's the film </OVERLAP> it's the film farm (xx) <EVENT DESC="LAUGH"/> what isn't he involved <U WHO="S2">
+					<OVERLAP> i know </OVERLAP>
+				</U>
+				<OVERLAP> in? </OVERLAP> film, poetry, </U>
+			<U WHO="S2"> he's incredible. </U>
+			<U WHO="S1"> drawing. </U>
+			<U WHO="S2"> so i'm gonna finish the reading i'm gonna read the rough draft that she gave me, and i'm going to um, create or i'm gonna try_ i_ see i'm gonna have a lot of trouble like from the rough draft deciding what i think like i should produce or whatever, but i'm gonna try to conceptualize what i should produce and then, email it to her so that she can like, critique it or whatever <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> i'm gonna have trouble with that. <EVENT WHO="S3" DESC="LAUGH"/> that's the, brain part. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> so um, do we get_ don't we get free pizza or <OVERLAP> something? </OVERLAP>
+				<EVENT WHO="S2" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah i know, </OVERLAP> do_ when's the <OVERLAP> free pizza? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i don't know. </OVERLAP> i mean i bet she just gives you like a, <U WHO="S3"> coupons </U>
+				<OVERLAP> a coupon. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> a coupon </OVERLAP> do you think so? <U WHO="S2"> mhm </U> i was hoping she was gonna give us like, <U WHO="S3"> money </U>
+				<OVERLAP> money. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well we can go </OVERLAP> get the pizza now. <OVERLAP> or afterwards. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i'm hungry. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah i'm hungry too. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i'd like to go get the pizza too. </OVERLAP>
+			</U>
+			<U WHO="S2"> maybe we should get it after this if she gives a coupon. </U>
+			<U WHO="S3"> you just want her to give us like twenty dollars. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> i don't want a p- i don't really want pizza though. <U WHO="S3"> oh </U> but that's <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well m- </OVERLAP> we'll see. </U>
+			<U WHO="S3"> it'd be fun <OVERLAP> for the three of us to go after </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's it's free </OVERLAP> it's free. </U>
+			<U WHO="S3"> (yeah it's kinda) </U>
+			<U WHO="S2"> so cuz i- and email Dewer. </U>
+			<U WHO="S3"> um i hope they think we're funnyish. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i think <U WHO="S1">
+					<OVERLAP> comedians </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> they're gonna think </OVERLAP> we're really snotty. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> yeah we're, we're really s- </U>
+			<U WHO="S2"> and we were i think we were pretty tame, <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> too. </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S1">
+					<OVERLAP> oh dear </OVERLAP>
+				</U>
+				<OVERLAP> well, </OVERLAP> this is what American life's like. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> yeah </U>
+			<U WHO="S3"> so we had a really good speaker today in our class. </U>
+			<U WHO="S2"> for what class. </U>
+			<U WHO="S3"> for Frank's class, <U WHO="S2">
+					<OVERLAP> hmm </OVERLAP>
+				</U>
+				<OVERLAP> we </OVERLAP> actually read like an article she made and then she came and talked about it. </U>
+			<U WHO="S2"> who was it? </U>
+			<U WHO="S3"> Liz Anderson. </U>
+			<U WHO="S2"> who_ weren't you talking about, her <OVERLAP> yesterday? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i think </OVERLAP> i did i said that i had to read this article because <U WHO="S2">
+					<OVERLAP> she was, to speak. </OVERLAP>
+				</U>
+				<OVERLAP> she was gonna be in class. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> she was really good i liked it <OVERLAP> a lot. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> what </OVERLAP> it was the article about? </U>
+			<U WHO="S3"> um equality it's what all the article's about like, she was talking about like her idea of what equality should mean versus like a what a lot of people we've read have said, <U WHO="S2">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> and s- </OVERLAP> and um i thought she made some really good points and like in class, she spoke loudly and concretely which is really good cuz i was afraid <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> if people were like well and like going around the bushes like, when people would ask questions she'd be like well, that person's racist then and that would be the end of it. like she wouldn't be like well i don't want to try to be nice about it and like, <OVERLAP> come up with some </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what did she say </OVERLAP> that about? she was like people that don't <U WHO="S3">
+					<OVERLAP> well Nick_ yeah </OVERLAP>
+				</U>
+				<OVERLAP> the doctors one </OVERLAP> the black doctors. </U>
+			<U WHO="S2"> wha- </U>
+			<U WHO="S3"> Nick_ yeah and this guy well Nick Feuer from a radio station, he um, </U>
+			<U WHO="S1"> your boyfriend </U>
+			<U WHO="S2"> oh yeah </U>
+			<U WHO="S3"> yeah <EVENT DESC="LAUGH"/> he was like well what're we gonna do about when people are still like i don't wanna see a black doctor cuz i don't think they'll be as qualified, like what w- what're we sh- what should we do about that? and she was like well that person's racist so, and then she like he w- i don't know people in our class </U>
+			<U WHO="S1"> he like he came to class like i swear </U>
+			<U WHO="S3">
+				<OVERLAP> with his Palm Pilot </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> he had run, </OVERLAP> like he had read up on all these different like really specific studies that had been done <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and like </OVERLAP> knew <OVERLAP> about like </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> for today's class </OVERLAP> or just <OVERLAP> class in </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> the um, the what the system of government in um California he was talking about and like, <U WHO="S3"> proposal <OVERLAP> (yeah) </OVERLAP>
+				</U>
+				<OVERLAP> proposal </OVERLAP> like he was just talking about this really specific stuff that was so not like gonna it was not gonna provoke any ki- type of conversation cuz no one knew anything else about it <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> except </OVERLAP> for him. </U>
+			<U WHO="S3"> that's what Peter does too. </U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and </OVERLAP> Peter was talking about his sweatshops that's all he talks about. </U>
+			<U WHO="S3"> i know. he um, <OVERLAP> h- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i </OVERLAP> guess it's nice to know that he's not um really well-versed in other many things. </U>
+			<U WHO="S3"> he's not very smart. </U>
+			<U WHO="S1"> he doesn't_ yeah he didn't lis- <OVERLAP> wasn't listening to the conversation </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> P-R-F not </OVERLAP> smart. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> wait a minute he works for E-S-I. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> um </U>
+			<U WHO="S1"> we like him he has things on tape. </U>
+			<U WHO="S3"> i know. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> let's make a list of the three ugliest boys we knew. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> i wonder if, we saw that li- if it would be funny to look at that list now. </U>
+			<U WHO="S3"> we threw it out though didn't we cuz it was </U>
+			<U WHO="S2"> i'm sure we did <OVERLAP> if we didn't we were really stupid. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, we didn't i remember we didn't want </OVERLAP> Darcy to see it cuz she'd think it <OVERLAP> was really mean. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> she'd be like </OVERLAP> guys. <EVENT WHO="SS" DESC="LAUGH"/> hmm. <U WHO="S3"> yeah </U> so do you feel like um since you're class with Frank you have like a um better handle on your political philosophy? </U>
+			<U WHO="S1"> your my my <U WHO="S3">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> own? no </OVERLAP> way. <U WHO="S1">
+					<OVERLAP> i feel </OVERLAP>
+				</U>
+				<OVERLAP> he has </OVERLAP> broadened it so much that i cannot even </U>
+			<U WHO="S3"> see i feel like i mean i like i actually like the class a lot </U>
+			<U WHO="S1">
+				<OVERLAP> oh yeah i i l- i like it. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> like um, because like i </OVERLAP> feel like i know about almost all like, egalit- like equality issues reg- like since John Rawls and like, <U WHO="S2"> mhm </U> like i can talk_ i feel_ but see i really liked three-oh-one but i feel more comfortable talking about, like all the people we've had this semester versus then. cuz everything like last semester was so like important and big and we never read enough of it but like <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> we've </OVERLAP> read the books you know like </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S2"> hmm </U>
+			<U WHO="S1"> there was such yeah s- intimidating just to be talking about like <OVERLAP> Marx or like Nietzsche or something. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, like i don't feel comfortable talking </OVERLAP> about what Hegel's philosophy is all about but i can say what i think that like, Dworkin or Cohen say. </U>
+			<U WHO="S1"> yeah, cuz they're not <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> really, </OVERLAP> yeah i think that he is like_ we've looked at so many different dimensions of possible equality that i don't even i can't re- pick a personal favorite <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> i can't </U>
+			<U WHO="S2">
+				<OVERLAP> i h- </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think i'm </OVERLAP> biased towards Liz Anderson maybe it's cuz she came to our class but </U>
+			<U WHO="S2"> i have such difficulty in any of my classes taking away like, a a fundamental idea or like, <EVENT WHO="S3" DESC="LAUGH"/> like a, <U WHO="S1"> oh yeah </U> main thought. i can't do it i, <U WHO="S1"> well doesn't it upset <OVERLAP> you if </OVERLAP>
+				</U>
+				<OVERLAP> i don't </OVERLAP> retain anything first of all, even specific information and i can't develop i don't feel like i'm any better at like understanding my interpretation of the world any better than i was in like, five years ago. </U>
+			<U WHO="S3"> hmm </U>
+			<U WHO="S1"> i think that college like, i mean it's hard to remember all the things that you learned or whatever um i think it's more of a like a confidence booster, like you have a college degree. <U WHO="S2"> mhm </U> as opposed to not having one. um but also if you could also reduce your classes to like a one liner wouldn't you feel kinda like, <OVERLAP> i don't know i always feel kinda bad when i reduce things to a one liners </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well no but i can't even i can't e- like if um </OVERLAP> you wanted to talk to me about a topic that i feel like i've had a lot of classes in like equality or just like liberal thought in <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> general </OVERLAP> or something like that, like, i w- don't think i'd be very good at the conversation. </U>
+			<U WHO="S1"> i doubt that. </U>
+			<U WHO="S3"> see like i mean, like maybe i don't know um i mean i think that you know a lot more about ac- like Detroit than i do and like things going on there and like, <OVERLAP> i don't know. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i know specific </OVERLAP> yeah like i know specific things but like philosophical or political <OVERLAP> wise i can't. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but have you taken mo- </OVERLAP> like i think you've taken more specific classes. </U>
+			<U WHO="S2"> well like the class with Frank Erikson the inequality class the class i'm taking now of the, um political economy of black America that's totally supposed to be like that like, <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> your philosophy about like racism and inequality in America and stuff <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like that. </OVERLAP> and a couple other classes i've taken maybe not specifically about that but that, definitely i should be, i don't know i think i should be forming more, ideas here in this head. </U>
+			<U WHO="S1"> maybe in the years that you are not learning like when you're not going to school anymore you'll start thinking <OVERLAP> about these things. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well that's what i've </OVERLAP> always said is that like i'm gonna like read a lot on my own and like try to <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> really <EVENT WHO="S3" DESC="LAUGH"/> develop my own s- and it's never gonna happen. <OVERLAP> just kinda go to job and </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i think once you're s- part of the, real </OVERLAP> world you'll_ this might b- it might be become more like rea- like real to you these <OVERLAP> issues. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> mhm. </OVERLAP> i mean i feel like my job is gonna be, it's gonna be really important for me to understand like my like, world goals or whate- you <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> know like </OVERLAP> what i think like the United States should be have as its important goals in order for me to like make or support policies or whatever <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> on city levels and i don't feel like i'm ca- i mean hopefully i'll be capable of doing that in ten years but </U>
+			<U WHO="S3"> yeah, i feel like you should read the Liz Anderson article. <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> i thought it was really good. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i mean that's the other thing </OVERLAP> is that like, i read something i read something conservative and i'm like that's completely right i completely understand that and i read something (that) liberal and i'm like that's complete- i mean i, <U WHO="S3"> mhm </U>
+				<U WHO="S1">
+					<OVERLAP> agree. mhm </OVERLAP>
+				</U>
+				<OVERLAP> have no ability </OVERLAP> to have <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> some sort </OVERLAP> like basis for my own decision making. </U>
+			<U WHO="S1"> i always agree with everything but i feel like that it's not like, you know like this as opposed to some other author like they're opposites like it's just like they're adding on to bigger and <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> bigger and </OVERLAP> bigger, making it more complex and sophisticated. </U>
+			<U WHO="S2"> well with Frank's class i mean he would have us_ we'd stop and then we would have to like critique it in like a five- to ten-page paper, and i was like i can't critique it. i think it's all right. </U>
+			<U WHO="S3">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's what </OVERLAP> um, my friend Chris, Croftey he said the same thing to me about um his classes is like he doesn't ever think to like disagree with the author, he thinks about comparing the authors but never <OVERLAP> criticizing </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i mean i think that's </OVERLAP> what makes a smart person, is being able to like_ i mean cuz obviously even if you don't disagree with it there are like flaws or like elements of like, you know this isn't entirely like, i don't know there're ways to criticize u- someone's approach or someone's ideas even if you think the base ideas are right and, i can't do that. </U>
+			<U WHO="S3"> i mean i feel like um, but like the opposite if you do have too strong of an opinion one way then you'll always be able to critique other ones you know like it's kinda like you have to, k- like find a balance. <U WHO="S2"> yeah </U> i mean i feel like um everything that we've read for this class like i think there's been, like i'm not really sat- like this is probably the thing that i've liked the most so far and like the other things like i've been dissatisfied with some parts satisfied with other parts but like i feel like Zach would automatically disregard all of them just because it wasn't exactly what he thinks and i think that's kind of b- that's a bad thing i think <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> so </U>
+			<U WHO="S1"> yeah like i told him i wanted him to read some of our stuff from the class cuz i was like i think it'll like, maybe like change your mind a little bit about Marxism but, <OVERLAP> he didn't seem to respond (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well see i don't think the things we've read have </OVERLAP> really talked too much about it. </U>
+			<U WHO="S1"> well Cohen did </U>
+			<U WHO="S3"> but like his was just mostly like i grew up in this like you know militant like communist upbringing and like <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> now </OVERLAP> i mean like </U>
+			<U WHO="S1"> i think that all of these a- authors are in agreement that Marxism is, implausible. </U>
+			<U WHO="S3"> yeah, see i don't i don't know like i didn't think the Cohen one was like very much at all, cuz he didn't even talked about like, Hegel and dialectic and stuff, but </U>
+			<U WHO="S2"> i saw the girl but i think she left. <EVENT DESC="LAUGH"/> what time is it? </U>
+			<U WHO="S1"> it's seven. </U>
+			<U WHO="S3"> see that wasn't hard at all. </U>
+			<U WHO="S1"> no </U>
+			<U WHO="S2"> nope, we're good chit-chatters. we'll do it for two more hours. </U>
+			<U WHO="S1"> we have to do it for <U WHO="S2">
+					<OVERLAP> she </OVERLAP>
+				</U>
+				<OVERLAP> two </OVERLAP> more hours? </U>
+			<U WHO="S2"> she's looking over here but, she saw me look at her. oh well. <U WHO="S1"> wait we a- </U> maybe she'll come <OVERLAP> back later. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we don't </OVERLAP> have to meet again do we? </U>
+			<U WHO="S2"> i mean when we do sewing circle. <U WHO="S1"> oh <EVENT DESC="LAUGH"/>
+				</U> which reminds me i have to go get my knitting and <OVERLAP> earrings </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i don't </OVERLAP> think i'm gonna go. i have to get interview clothes. <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> where </OVERLAP> are you going? Meijer? this late? </U>
+			<U WHO="S1"> no like the mall, the mall's open till nine. </U>
+			<U WHO="S2"> oh, <U WHO="S1">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> for </OVERLAP> your April fifth interview? </U>
+			<EVENT DESC=":16 RECORDING RELATED CONVERSATION"/>
+			<U WHO="S2"> so you're gonna go to the mall now? </U>
+			<U WHO="S1"> i, well no </U>
+			<U WHO="S2"> well when is <OVERLAP> the interview? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i need to do something productive with my day the fifth. </OVERLAP>
+			</U>
+			<U WHO="S2"> what_ that's next Thursday? </U>
+			<U WHO="S1"> yeah. </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

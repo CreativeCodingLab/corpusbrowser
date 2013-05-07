@@ -1,0 +1,926 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="sem140jg070">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Graduate Buddhist Studies Seminar </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SEM140JG070 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="167">
+						<DATE> October 28, 1999 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Bonnie Malczewski, Janine Ovens </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Bonnie Malczewski, Aaron Stark </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Rodney Pratt </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 10/27/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: MIX </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="8"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="8"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NRN" ROLE="SF, Instructor" SEX="M" RESTRICT="NONE" AGE="4">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SG, Student (Samantha)" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JG, Student (Marvin)" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SG, Student (John)" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NNS" ROLE="JG, Student (Sung)" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="ST, MICASE researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-1" LANG="NRN" ROLE="SF, Instructor" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-2" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-3" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-4" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-5" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-7" LANG="NNS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-8" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, Frieze Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> somehow Tantra is more practiced than other things, <OVERLAP> and i just_ </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U> what i believe is very artificial distinction between theory and practice. <U WHO="S2"> mhm </U> but, you know, gotta listen to everyone. rethink our positions. um, <OVERLAP> so yeah, hm? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so we, we were </OVERLAP> thinking of having Ruti Abay come, <U WHO="S1"> mhm </U> um, and then we're sort of at a loss for who else to invite we wanted to invite four people. <U WHO="S1"> four </U> so i mean, we thought about bringing John (xx) <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> to the talk </OVERLAP>
+				<U WHO="S1"> mhm </U> um, and Matthew Capstin, <U WHO="S1"> yeah </U> um, or Bernard Four cuz he, i guess he's dabbling in esoteric stuff in China and Europe. but i don't really know anyone else so, um... </U>
+			<U WHO="S3"> well i'm_ um a local choice, J- Judy Baker has done a lot of, several books on sort of Tantra in, Japanese w- (xx) stuff. <U WHO="S2"> uhuh </U> and i haven't read them and i don't know what they're about. but </U>
+			<U WHO="S2"> yeah maybe we should <OVERLAP> take a look at that </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that would be a possibility. </OVERLAP> and it would be totally different from, Tantra which would (be stunning) though <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP>
+			</U>
+			<U WHO="S4"> the local choice would make it five speakers. <EVENT DESC="LAUGH"/> she's cheap. </U>
+			<U WHO="S2"> yeah right </U>
+			<U WHO="S5"> five for the price of one. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> you're thinking of one day? </U>
+			<U WHO="S2"> no we were thinking over the course of the semester like five <U WHO="S1">
+					<OVERLAP> ah ah </OVERLAP>
+				</U>
+				<OVERLAP> Friday like, </OVERLAP> five Fridays <OVERLAP> in class </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i see </OVERLAP> i see. yeah </U>
+			<U WHO="S2"> i mean it would be great if we could have a big conference </U>
+			<U WHO="S5"> yeah, well i <U WHO="S2">
+					<OVERLAP> but </OVERLAP>
+				</U>
+				<OVERLAP> thought, </OVERLAP> sort of just sort of as an option doing it like that not to do a long <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> (time) </OVERLAP> strictly for, the intention of <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U> making it a little bit more... </U>
+			<U WHO="S1"> pity that Alex is not here. um, i'm just thinking, out loud. and that is the, the move it's a f- it's a very slow move but the moving in the department is to try and get, the barriers that separate different parts of the requirement, down, so that if we could, make a gesture in that direction it would be good. i'm not sure how fast this will move, this (is) gonna </U>
+			<U WHO="S5"> well that was a little bit the idea in trying to get speakers from, <U WHO="S2"> from all (over) </U> different regions </U>
+			<U WHO="S1"> mhm. yeah but i'm thinking of, maybe one or two who are not quite buddhologists but are more, <U WHO="S5"> hm </U> something else. <EVENT DESC="LAUGH"/> whatever that is. </U>
+			<U WHO="S2"> right, mhm </U>
+			<U WHO="S5"> of course Buddhist Studies is the common link. </U>
+			<U WHO="S1"> yes we all know that. <EVENT WHO="SS" DESC="LAUGH"/> actually not, not that true. <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> that's not </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> did you </OVERLAP> mention Alex cuz he's on the committee? </U>
+			<U WHO="S1"> right that's because you know he would <U WHO="S2"> yeah </U> be thinking about this <U WHO="S2"> right </U> uh <U WHO="S5"> correct </U> and may have i- some ideas that, that so </U>
+			<U WHO="S2"> yeah well we've certainly talked about that </U>
+			<U WHO="S1"> yeah. so, you know us having someone who does Hinduism for example we_ whi- which White does, <U WHO="S2"> yeah </U> would be, <U WHO="S2"> and if </U>
+				<OVERLAP> would be good </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> we'd actually talked </OVERLAP>
+				</U>
+				<U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> right. </OVERLAP> and then having maybe someone who is more on the Taoist side of things, <U WHO="S2"> right <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> i can't think right now of a name but you know we can, start thinking about it. there are a number of people, um, (who) would probably be better. and you have everything you need? </U>
+			<U WHO="R1"> mhm </U>
+			<U WHO="S1"> well i don't think you have any papers from John, so, you can, you can go ahead without his consent um <EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT DUR=":22" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S1"> you can tell this is not the medical school because the form in the medical school says, you will not be injected any chemicals <EVENT WHO="SS" DESC="LAUGH"/> (or drugs.) <EVENT WHO="SS" DESC="LAUGH"/> and then there is the last paragraph that is really scary that says you know, if you <EVENT DESC="LAUGH"/> i- if you are harmed in any way the hospital is not held responsible for it, it will not pay for your treatment. <EVENT WHO="SS" DESC="LAUGH"/> so, shall we, begin? okay. so, the first thing i wanna do is uh, look at Cort, uh, i w- i don't want to do the whole thing today because it's gonna get tiring <EVENT DESC="LAUGH"/> if we do that, but i would like to do two chapters, the modernity and the postmodernity chapter, with a certain degree of care. so reading some sections and talking about them. um, and we wanna do, two things with it okay? one of them is, try to get something from the way in which he summarizes the the issues. which i think is, is pretty good i mean he gives you an uh quite an overview, of everything so. two great periods in your reading the, text. the other thing we wanna do is begin reflecting on what his assumptions are which, are you know_ he has more than one, what they are so that we can then decide how many, of those assumptions we share and which ones we don't share. and then once we do the, last chapter on the conclusion which we'll do next week, uh we can go back and talk a little bit about, how you felt about the book generally sort of more, subjective reaction to the book. um, needless to say it's obvious what the main agenda is for him and i mean he's putting it, uh, on the table so there's no question about what it is, right? uh he's a theologian and he's interested in somehow, uh given the uh, giving the reading of the Bible, its proper place whatever that is. um, and in a course like this i'd assume most of us are kind of, skeptical, about that, goal and the possibility of being objective in that kind of context but apart from that he has other assumptions. so let's talk about modernity uh section and the question of reading history and, nature, as scripture. uh, any general comments about that? what do you think he's trying to do? what are the historical bases for his uh claim? <PAUSE DUR=":28"/> is he in some way um... misreading, the shift in history or, does he have, some kind of basis on, the evidence, to assume that the shift from Bible to nature in history, was, to some extent, modeled on the notion of reading, something as authoritative text? </U>
+			<PAUSE DUR=":26"/>
+			<U WHO="S4"> i'm, i mean that th- he talks about the progression, as... at first being warranted to the looking at other stuff. moving stuff beyond the Bible <U WHO="S1"> mhm </U> and i assume in that way he's talking about the various arguments for the existence of God, wherein, look at nature you can see God in the details all that kind of stuff. </U>
+			<U WHO="S1"> well, that's part of it right? theistic, uh notions. but also, there is_ which i think it's much more important and that is what's the model gonna be, for a normative, uh view, of human societies, right? and that's where it brings in Tom Paine Vico Baker etcetera. um, so, is the, is the Bible enough to provide a model for a modern society? is what these people are asking so i mean they were'nt asking themselves modern, cuz that's the word we invented later, but for the kinds of society they wanna create and, of course they say no. nature or history are the proper texts to be read. but my question is is Cort justified, in saying, that this is simply a shift in the notion of what is scripture? A is there more to it than a shift? and B, did the people who participate in this change, conceive of it as actually, <U WHO="S6"> right </U> a shift, in reading <OVERLAP> of scripture? </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> i mean in one </OVERLAP> sense it seems, more likely h- the shift was in that, um, how scriptu- the importance of scripture and how scripture was understood. i mean people didn't, at least explicitly refer to um, the uh, you know, scientific literature <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> or those </OVERLAP> type of things as scripture. the Bible, the Bible was still considered scripture but what that meant changed. </U>
+			<U WHO="S1"> right. and what about nature? was nature considered, scripture? </U>
+			<U WHO="S6"> mm... i mean, i can't really think of explicit, <U WHO="S1"> mhm </U> examples (of it) </U>
+			<U WHO="S4"> i think nature has kind of moved in and out of being scriptural, and the ei- eighteenth century Romanticists i'd say, would've treated it as such, but then other groups w- certainly wouldn't wouldn't have. i mean the sc- the_ being able to read th- read God in nature, is an idea that's shared in a lot of different, a lot of different places in a lot of different times. so, i think yes, and wi- if the you know uh nineteenth century Romantics, would see that, but i can at the same time you'd, science and rival religious traditions which were flat out rejected. and i mean the Catholic church i don't think is really really that big on that kind of, um that kind of, idea. </U>
+			<U WHO="S1"> so, uh do you think do you think you can generalize that you can, move in and out of that model? </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S4"> i don't think you... i w- say again? </U>
+			<U WHO="S1"> do you think you can generalize? i mean you said_ what you just said could be, an observation of what happened (in) particular parts of history or it could be an observation, of a big general notion, that he's trying to present which is, that textuality is, part of, almost every intellectual or cultural process. that's, that's an underlying assumption. <U WHO="S4"> right. </U> right? uh, now what what that means is part of the problem. you know what do we mean by that? so when you say that people move in and out of the model of nature or history as scripture, in some ways it's implying, not necessarily and that's what i'm asking you, it's implying that, you know challenge to the model that textuality is as universal as ideas per se. or at least textuality as scriptural, reading. </U>
+			<U WHO="S4"> i guess, i guess i would answer that that what i'm seeing that is that we have two questions here one is the degree of textuality permeating everything, and then the next would be the textuality as scripture, <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> permeating </OVERLAP> a broader <U WHO="S1">
+					<OVERLAP> mhm mhm </OVERLAP>
+				</U>
+				<OVERLAP> area. </OVERLAP> and i guess i'm, first i would have to say that i actually am somewhat dubious on the first assumption, though i would say it, covers a much broader area <U WHO="S1"> mhm </U> than, scripture would. <U WHO="S1"> right </U> meanwhile the idea of, text and, expanding scripture to much broader ag- fields does occur but i'm not willing to go with a generalized <OVERLAP> statement. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP> mhm </U> i don't think it's possible to say that, modernity, is, that process. <U WHO="S1"> mhm mhm </U> um i think, there's far too many if you start_ you see, where mod- in modernity where nature is seen as being, almost, it's not, it's not as important anymore. i mean there would be the arguments that m- that nature in fact is being pushed away because people are not experiencing, the wilds of nature as much. <U WHO="S1"> mm </U> um </U>
+			<U WHO="S1"> of course this is nature in a slightly different sense <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP> yeah yeah (okay) </U>
+			<U WHO="S4"> but i mean i didn't, i didn't even_ i mean going from that first level to the second level to the third level i would say, no i don't think textuality is an appropriate way to talk about everything, of course that's not a surprise given my job. <U WHO="S1"> mhm </U> but, <EVENT WHO="S1" DESC="LAUGH"/>
+				<OVERLAP> then, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but not </OVERLAP> necessarily right? <U WHO="S4"> um <OVERLAP> there's a few </OVERLAP>
+				</U>
+				<OVERLAP> different kinds </OVERLAP> of anthropologists <U WHO="S4"> yeah uh <OVERLAP> probably </OVERLAP>
+				</U>
+				<OVERLAP> he says </OVERLAP> a few. <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> now is </OVERLAP> that_ <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> ar- no arche- i'm sorry i was being_ specifically in archeology, <OVERLAP> there're </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's </OVERLAP> right you're in archeology </U>
+			<U WHO="S4"> yeah so in archeology there are a couple but they're widely hated. um, <EVENT WHO="SS" DESC="LAUGH"/> but then but seeing it as scripture is labelling a partic- particular type of textuality and that i think is even more problematic. </U>
+			<U WHO="S1"> alright okay. i think i told you you'd probably be very happy in Mexico. <EVENT WHO="SS" DESC="LAUGH"/> the distinction in anthropology history and anthropology is not made. um, you had something (to say?) </U>
+			<U WHO="S2"> does the metaphor reading imply interpretation? <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> is that </OVERLAP> one of the things textuality (i mean) that metaphor is we're gonna read nature. then, or versus reading the scripture, wouldn't one of the differences be in therefore you can start to prove the shift that shift had occurred, away from textuality and, because nature was seen as something much more, sort of concrete, <U WHO="S1"> mhm </U> there were these facts, right? it didn't necessarily have to be interpreted, but they were there for, the taking. <U WHO="S1"> mhm </U> we just had to like get down to them. <U WHO="S1"> mhm </U> so it's a little different it's, in some ways it's a, a type of interpretation, <U WHO="S1"> mhm </U> but not the same as scripture and also like what about, the role of like commentarial traditions and stuff like, when you're talking about textuality, in, in a Christian sense right, there's a lotta other stuff that comes along with, scripture <U WHO="S1"> mhm </U> right? but when you're talking about nature, it sort of devoids from those other, means of interpretation. <U WHO="S1"> yeah </U> sort of textualizing (forces) or whatever, <U WHO="S1"> mhm </U> you can call it. </U>
+			<U WHO="S1"> mhm... right right. now the the other thing is, i think he gives examples, that are... i mean you really can't object to, examples of, figures that, conceive of nature or history as alternative to scriptures, to the extent of calling it, scripture right? nature is, <U WHO="S2"> mhm </U> a scr- scripture. but i wonder uh it's similar to the way some people, nowadays speak of science as religion, <U WHO="S2"> mhm </U> uh which is really very problematic. because there's a difference between science being like a religion and science being a religion it's a big difference. and there's a big difference between, saying that nature is like scripture which to me is a polemical argument, not necessarily a methodological, statement. uh in other words you're really not reading nature the way you read scripture. you don't. you don't read nature that way i mean you could but, but in fact, what characterizes modernity is, the shift away from that notion. now, s- having said that and assuming that, that i'm right, <EVENT WHO="SS" DESC="LAUGH"/> does Cort still have some kind of point? some important point? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> the broadening of what is valuable. of what matters to be <OVERLAP> read? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP> right </U>
+			<U WHO="S2"> or uh sources of information. </U>
+			<U WHO="S1"> right, information and also a source of <U WHO="S2">
+					<OVERLAP> knowledge </OVERLAP>
+				</U>
+				<OVERLAP> authority, </OVERLAP> right? <U WHO="S4"> what </U> and and that's why in the, section on postmodernism then he will raise the issue, of tradition and ethics which of course is in fact, a- an important issue. uh so i feel that he e- really pushes it to the extreme, to an extreme that i, i i'm not very happy with, by reading, uh into the metaphor of nature is scripture, um, too much, i think. but on the other hand, he is right that by displacing scripture, the use of nature or history of a, as a basis for authority, in fact ends up excluding other things that are, important for any tradition or culture. so, somebody else, i don't mean to gesture a lot. was it you Samantha? or (thought) you <OVERLAP> wanted to say something? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (i think we've forgotten) </OVERLAP> something along the way </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S1"> oh. well, go ahead (xx) </U>
+			<U WHO="S2"> so what exactly does it mean to say that um, there's a difference between science is like a religion and science is religion if you're talking about moving our, you know authority and knowledge and all these, even inspiration right? you talk about being inspired by nature and, you know scientists are these inspired creatures walking around campus with these_ so what exactly does that <OVERLAP> mean? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well the </OVERLAP> difference is, uh l- lemme first point out the similarities of them be- people right? similarities. you have something that is like a priesthood right? with the people who have, the mystified technical knowledge. and there's no question that it's mystified. and there's no question that it's technical, and there's no question that most people cannot have it. i mean we like to believe that, most people can but it's not true, right? in fact it is, to such an extent that most people even if they try they couldn't have it. in other words, there is a held notion of rationality that goes with science and is really not accessible, to the vast majority, of the population. so in that sense it's an exclusive club, right? an elite, and it's an elite that is mystified by the society in which they are. so that's similar. okay. it competes with religion, in many ways, so you can then say look, it competes with religion then it must be, that somehow, it is one of them. the fallacy with that by the way just a footnote, is that everything competes with religion. <EVENT WHO="SS" DESC="LAUGH"/> because religion makes claims that are universal right? everything competes with religion. uh, you can say that about uh say you know, uh does science compete with basketball? well, maybe sometimes but, <EVENT DESC="LAUGH"/>
+				<U WHO="S2"> (xx) </U> intellectually it doesn't because it's two completely separate realms right? but basketball could compete with religion, <EVENT DESC="LAUGH"/> in principle at least. so it competes with religion. also it may have and often has, pronouncements that could have implications that are normative, with regards to ethics and cosmology. and therefore it competes with religion. now, the big difference is the big differences is that, at least in principle, and institutionally also there are the mechanisms, to attempt to preserve that, principle, that is that in principle, science, has, a source of validation or falsification that is outside of the guild itself. okay? and that's a big difference outside of the the literature and outside of the guild. so in science, you'll find that, you you can and it is allowable and it is arguably part of the scientific process, to question the text itself. this is difference from, different from, questioning the interpretation of the text, it's actually questioning the text. so there is no single text and there is no single stable text. right? even when there is a, a text available it is not stable. um, it is also an, an area in which, everything is at least in principle open to fals- falsification which is not true in religion. and of course, nowadays, cuz religious people have become more sophisticated, they often will say oh yeah you know it's falsifiable but it really isn't. i mean it really isn't falsifiable. uh, and that's, huge difference. also, science although it aspires to universal laws, seldom does it really produce a law or could in fact produce a law that'd be universal in the same sense that the religious law is in other words, absolutely universal in every realm of, human activity and human value. so i think the big difference is there. so in the same way when you talk about, the n- nature as, somehow scripture it is really metaphoric use because nature cannot serve all the functions of scripture and and actually has never done it, uh, and that's part of what i think Cort is, sly- uh slips a little bit, at least in his historical, conception of it. nevertheless it is true that, science in displacing religion which d- it did in modernity, also displaced certain concerns that are, of extreme importance and which, Cort is trying to bring out. which is concerns of the, ethics uh, and the foundation of ethics, and the foundation of a community, ethics foundation of tradition and etcetera. and that's what he tries to do then in the last chapters of the book. (let's) see how can you recover, some sense of scripture? in the sense of a common text that give a tradition of some kind, continuity. and Sung you had a, comment, question. </U>
+			<U WHO="S7"> um, actually, i didn't but um, i was just wondering when you say that, somehow that, the displacement of these, three different kinds of scriptures from uh, Bible to then ancient history to literature, uh when you say that that's sort of, uh valid that (disappointment) is valid i wonder if, if it, actually is some sort of displacement since they would've always sort of overlapped for a, awhile and then, the, i don't know i don't know if it's exactly um, any, i don't know, order that he says it says it mentions something like meaning </U>
+			<U WHO="S2"> the displacement? </U>
+			<U WHO="S7"> yeah. it happened in some kind of serial order that, um, he seems to not wanna mention specifically where, how it was displaced. </U>
+			<U WHO="S1"> yeah um, yeah i th- i i i see what you're saying but, just to be fair, to him any time you do history that happens right? <U WHO="SU-7"> right </U> um, i think i mentioned before at the talk we had some time ago about, modernity in twelfth century Japan, uh and you know, it makes sense i mean modernity is not, something that only happened, after, whatever fourteen ninety-two whatever the date's gonna be. and then before that nothing happened right? we talked a little bit about that the other night when we talked about the self and the notion of self. <U WHO="S2"> mhm, right </U>
+				<U WHO="S7"> mhm </U> so it's not like at some point people sit down and say well from now on we're gonna be modern right? so i- that any time you do a history and you generalize you, produce this model, of shifts or changes and its approximate dates, but of course it's s- s- it's generalization with uh, all sorts of problems and it, uh, but i think it's, he's, it's fair to say that, generally there was a move to nature then history then literature. and over- there a lot, there's a lot of overlap, and skipping. right? of steps... uh you know it's also fair to say that, science technology, developed with early stages, of, market economies. in the West. and th- that's, the first ground for modernity. so that um the notion of history comes later and it comes later with a greater awareness, of difference. um Europe vis a vis the rest of the world. uh at which point the history becomes central. and literature comes much later after that because you need to have a complete secularization to begin to think that, uh there is such a thing as literature and art. uh those (you know) unless you're a completely secularized society you'd never even think of that, as something separate. which creates all sorts of problems wi- to our own speculation right? <EVENT DESC="LAUGH"/> to what extent is it, totally culturally determined and, ethnocentric whatever but you know that's a, debate for another day. <EVENT DESC="LAUGH"/> but you know the shock that, uh it's something, that today because we wanna be politically correct we never think about that but the shock that Europe suffered, with colonialism. you know people don't talk about that because of course they were the bad guys right? the whites were the bad guys. but you think about it uh, if you look at, at least th- the histories that i'm familiar with which are you know Spain and It- and uh France, the shock that those s- societies suffered when they discovered that there were people who were different, who resisted them, right? you know i mean it's a major shock to a society that uh in some ways had been isolated. um, and the Spanish had gone through that with the Muslims but when they came to America uh, just the fact that these people are, physically different, culturally diverse not just different but diverse, and that they don't accept us you know it was a major shock. uh i'm not saying we should cry about this but <EVENT WHO="SS" DESC="LAUGH"/> uh, i'm saying historically what that meant (to a) society and that's part of modernity right? so the the reverse of colonialism is, what Europe had to undergo to adapt itself to this change in reality. <PAUSE DUR=":04"/> so, let's look at a few um... (one of these. over here) <PAUSE DUR=":09"/> page fifty-three. actually Sung this uh sort of uh another aspect of of this whole a- thing about generalizing. has anyone of you ever read Vico? i suggest you do. yeah. it's the most confusing <EVENT WHO="SS" DESC="LAUGH"/> abstruse, sometimes senseless text there is and when you read this you say wow. and the thing is that the- <EVENT DESC="LAUGH"/> that there are these lines and these passages of Vico that are incredibly modern. right? the rest is the worst that you can imagine of it in terms of uh total ethnocentricity, total uh lack of sense of history etcetera. uh but when you write it out you know to try to say how important Vico was then Vico comes out looking very nicely right? <U WHO="S2"> mhm </U> it's like Life of Saints you probably know that's, (the concept to date) right? <U WHO="SU-f"> yeah </U> then you look at the whole life and say wow this is a great saint and then you start finding out things about how the saint treated his parents or uh <EVENT DESC="LAUGH"/> it gets more complicated. <U WHO="S2"> yeah </U> okay. so page fifty-three. <SEG TYPE="READING"> that is the pattern of laws that Vico points out as common to the development of constitutions of diverse societies are so easily extractable because he so deliberately and repeatedly refers to and contends for them. indeed his new science has far more to do with shared patterns of laws than with the diverse histories of gentile nations. </SEG> which is actually, uh true when you look at the text uh you will really have a hard time, t- finding any diversity or any awareness of cultural diversity. <SEG TYPE="READING"> this is due to the argument that Vico is making for reading the history of gentile nations as a complementary scripture, one in which the work of God can be recognized and acknowledged. </SEG> and this is actually a good example of how, you can read history as scripture right? he he was speaking in terms, of God's work. and the meaning of God's work as we can discover it through history. <SEG TYPE="READING"> by reading the texts of the gentile nations as documents in which providence can be seen as working, Vico offers history as a second scripture to be read with a two fold result first the texts of the special history of Hebrews and Christians, from Adam down can be joined to the complementary scripture. </SEG> uh in other words, history of the gentile peoples, <SEG TYPE="READING"> and second Christians can read this complementary scripture, in order to gain a wider knowledge of God that will enhance piety. </SEG> so it's really uh, his example's probably the best, example that one of Vico. where you do have, a conscious and explicit shift, in the reading, uh in what you consider to be scripture. okay and then, um if you look at page fifty-five which now talking about Hegel. very last line, <SEG TYPE="READING"> reading history for Hegel displaces reading the Bible as scripture. </SEG> and it says the terms were what remains of value in reading the Bible. <SEG TYPE="READING"> Julius Wilhausen provides a clear influential example of the dominance of reading history as scripture over reading the Bible. Wilhausen reads history as a text that counters the Bible because he believes that the Bible often advocates institutions, and their functionaries, that for Wilhausen not only are derivative from the creative historical effects of individuals and the spontaneous response of people to natural occurrences, but also have a deadening effect on them </SEG> now this is different right? this is a case where, reading history as, as if it were the Bible really means, rep- supplanting the Bible completely this is different from Vico. <U WHO="SU-m"> mhm </U> and this is where i think Cort doesn't make that distinction very clear. <PAUSE DUR=":05"/> then <PAUSE DUR=":05"/> fifty-seven, paragraph, beginning of that page paragraph one two three. <SEG TYPE="READING"> the irresistible conclusion of, Wilhausen's argument is not only that the Bible is to be read with suspicion but that the Bible like an institution, always is secondary to history as it is made by or epitomizes the lives of representative individuals </SEG> so this is, that's a complete break it's not the same thing. uh and generally that's the way that we, read Buddhist texts right? <U WHO="S2"> mhm </U>
+				<PAUSE DUR=":04"/> okay. now. any, questions or points about that particular chapter? <PAUSE DUR=":06"/> (shall) we take a quick look at the next chapter...? i think it's a very nice, summary. of uh... the issues at least insofar as they affect the notion of text and scripture. the issues that we, normally call postmodernism. okay, page seventy-one. first stage, what he calls the first stage which is marked by a decentering. and uh this is going to need, commentary. so, <SEG TYPE="READING"> decentering ludic incoherence and unimpeded eclecticism and antinomianism. </SEG> so, who is gonna explain for us those, fancy words? <PAUSE DUR=":04"/> what is decentering? that's probably the easiest of all <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S4"> i'm sorry i gotta admit i got lost and haven't found you yet. </U>
+			<U WHO="S1"> okay page seventy-one, <U WHO="S4"> yep </U> line two. </U>
+			<U WHO="S4"> line two ah okay. </U>
+			<U WHO="S1"> yeah yeah <EVENT WHO="S2" DESC="LAUGH"/>
+				<SEG TYPE="READING"> the first stage of postmodernism, arising from emphasis derived primarily from Nietzsche, is marked by decentering ludic incoherence and unimpeded eclecticism and antinomianism. </SEG> if you have uh <U WHO="S4"> w- </U> Microsoft Word you can see it's all gonna be (xx) <EVENT WHO="SS" DESC="LAUGH"/> red and green. </U>
+			<U WHO="S4"> i'll i'll put in votes for the first two. <U WHO="S1"> oh okay. </U> decentering <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> is uh </OVERLAP> basically, trying to topple exis- whatever existing, frameworks there are and is the ludic pros- is that from Luddites? is is that what they're trying to do, is that what they're deriving that word from? the Luddites? </U>
+			<U WHO="S1"> no no no uh <OVERLAP> it's from uh... </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> no? damn. </OVERLAP>
+					<EVENT DESC="LAUGH"/> damn. </U>
+				<FOREIGN> ludens ludere </FOREIGN> to play. </U>
+			<U WHO="S4"> ah okay. okay that's, damn. </U>
+			<U WHO="S1"> are you familiar with a book called Homo Ludens? very popular way back in the, fifties before even i was in college, but when i went to college people were still talking about it. uh by a Dutch historian Huizinga a very famous, m- medieval historian Huizinga H-U-I, Z, I-N-G-A. and um, it's still a very valuable book it's one of those, books that is, gets shelved in the library and people don't read anymore of it it's a really fascinating book. what the word what the title Homo Ludens means is, the human being as player. in other words, he interprets culture as play. has a lot of examples of, connection between, play and culture. really interesting book. so the lu- root <FOREIGN> lud- ludere </FOREIGN> means to play... so... </U>
+			<U WHO="S3"> but ludic doesn't just mean playful right? ludic means, sort of carnival-like almost <U WHO="S1"> yeah </U> sort of, grotesque in its <OVERLAP> bizarreness </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> in this context </OVERLAP> yes in this context it would have that notion yeah. because of the incoherence (xx) </U>
+			<U WHO="S3"> yeah </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> yeah. <OVERLAP> by </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP> mhm? </U> (by) this part of_ this early postmodernism which he's talking about its, big agenda is this decentering in terms of there is no sort of stable place from which you can posit truth. <U WHO="S1"> mhm. </U> um, you know everything is just all these plays of discourses and surfaces and all this kind of thing. um, so there is no, (i mean) there are there are no centers at all whether they're outside like a some scriptural center, which could actually challenge who you are cuz first of all there's no, who which can be challenged. second of all there's nothing, stable or something out there which can challenge you. the way Cort wants to read scripture as doing. <U WHO="S1"> mhm right. </U> so it's just a flattening of values. <U WHO="S1"> mhm </U> just an illusion. </U>
+			<U WHO="S1"> mhm yeah dislocation is a good, good way of putting the consequences of decentering... and what about ludic incoherence? <PAUSE DUR=":06"/> some grammar what's the head of the phrase? <PAUSE DUR=":07"/> what's the adjective? </U>
+			<U WHO="SS"> ludic </U>
+			<U WHO="S1"> ludic right? and the noun is the head incoherence so if you begin with that right, what does incoherence mean? </U>
+			<U WHO="S4"> meaning incoherence. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> what does that mean? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> lack of organization or understandability? </U>
+			<U WHO="S1"> understandability <OVERLAP> organization </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> or holding together </OVERLAP>
+				</U> what? </U>
+			<U WHO="S3"> ho- holding together. </U>
+			<U WHO="S1"> right right holding together. so that things are not necessarily, linked. now what, would this be in opposition with historically? if you, posit it as part of your intellectual program, incoherence what are you trying to, uh move away from or against? </U>
+			<U WHO="S3"> the grand narratives of, modernity. </U>
+			<U WHO="S1"> right and of course and al- and premodernity also <OVERLAP> right? </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> right </OVERLAP> right </U> the idea that you can come up with a coherent system, of nature. a coherent system of value etcetera. yeah and of course that's what character- what's characteristic of Nietzsche right? that's why, personally he drive me bananas but, okay <EVENT DESC="LAUGH"/> now when you add the word ludic to it then what? what are you trying to say? </U>
+			<U WHO="S3"> history becomes a sort of ph- phantasm of these weird things happening, um <EVENT DESC="LAUGH"/> that's sort of th- th- this image <U WHO="S1"> right </U> just comes to my mind when i read this phrase. </U>
+			<U WHO="S1"> now whenever you say that someone i mean um, you know when you're talking to your to your nephew and you say you are being extremely ludic what do you mean when you say that? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> yeah what do you mean when you say that? </U>
+			<U WHO="S1"> yeah Samantha what do you mean? confusing that your poor nephew. </U>
+			<U WHO="S4"> i didn't even know the word coming in so </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> um <PAUSE DUR=":09"/> well </U>
+			<U WHO="S1"> what's the implication? </U>
+			<U WHO="SU-m"> uh </U>
+			<U WHO="S2"> well one is that, okay you've displaced these grand narratives but yet you're playing by your own rules or </U>
+			<U WHO="S1"> and, in playing by your own rules which is the important word there? </U>
+			<U WHO="S2"> rule, your own? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> no playing. playing playing <EVENT WHO="SS" DESC="LAUGH"/> l- ludic <U WHO="S2"> right. </U> right? play. so the idea is, that n- you're not just being incoherent because the world is incoherent you're also being incoherent because you think it's fun. to make <U WHO="S2">
+					<OVERLAP> for the sake of uh, playing </OVERLAP>
+				</U>
+				<OVERLAP> things incoherent. </OVERLAP> exactly. so, it's not just a decentering it's a desacrilegization right? <U WHO="S5"> uh i- </U> it's an irreverence. </U>
+			<U WHO="S5"> it also shows a certain understanding that even your own point of view is unstable. <U WHO="S2"> right. </U> i mean, <U WHO="S1">
+					<OVERLAP> yeah i'm not so sure about that </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> yeah i- you're right. </OVERLAP>
+				</U>
+				<OVERLAP> well no this is well this is it's the it's it's the </OVERLAP> irony, <U WHO="S1">
+					<OVERLAP> yeah, right </OVERLAP>
+				</U>
+				<OVERLAP> of all of this is </OVERLAP> that so much of it is <U WHO="S1">
+					<OVERLAP> right yeah exactly exactly. </OVERLAP>
+				</U>
+				<OVERLAP> not playful. </OVERLAP> it's it it becomes a dogmatic <U WHO="S1">
+					<OVERLAP> of course. </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> but but i mean the underlying idea is that even your <U WHO="S1"> yeah </U> own, position is <U WHO="S1"> yes </U> kind of </U>
+			<U WHO="S1"> and publicly that's what most of these people say even when they are <OVERLAP> you know </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U> furious at the other person for not agreeing with them but </U>
+			<U WHO="S4"> i've always thought of it as the little asterisk down there and if you go to the bottom of the page, accepting my work. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> oh i thought you were gonna say go to the bottom of the page it says, laugh now. <EVENT WHO="SS" DESC="LAUGH"/> yeah right yeah accepting my work. okay so we got two two out of the way? okay we move on then, unimpeded eclecticism. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> it's something like an aes- an aesthetic st- an aesthetic stance as much as a philosophical stance right? <U WHO="S1"> you could yeah. </U> yeah and so i think he talks about Learning from Las Vegas in this book? <U WHO="S1"> mhm </U>
+				<U WHO="S4"> in the next paragraph </U> right right right. and, the idea there is sort of the strip mall culture just sort of the all these things are just scattered together and lumped all together and, also it's part of the result of being a world economy is that all of these things are available and then, especially in commodified form they're all just kind of lumped on top, no grand plan no anything it's just_ there's just, surfaces which are there to to be played with. </U>
+			<U WHO="S1"> mhm, yeah that's the aesthetic part right? <U WHO="S3"> yeah </U> now, what about the philosophical part, which is also part of it. </U>
+			<U WHO="S3"> um... any attempt to impose a unifying order, on things, is subject to, question. </U>
+			<U WHO="S1"> now what does the word eclecticism mean let's start with that. </U>
+			<U WHO="S2"> well doesn't it mean an intentional collection of disparate things i mean <U WHO="S1"> right, um </U>
+				<OVERLAP> it intentionally (avoids) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh, yeah i'm i'm </OVERLAP> surprised you chose the word by the way because usually eclecticism is the benevolent form. <U WHO="S2"> right. </U> of what's the word when it's not benevolent </U>
+			<U WHO="SS"> syncretism </U>
+			<U WHO="S1"> syncretism right. <U WHO="SU-m"> right. </U> syncretism. i actually was, the symposium i was in Mexico was about syncretism so, a lot of discussion about the word and its origin and <OVERLAP> how it's used </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well </OVERLAP> syncretism would be modernistic (xx) right? cuz it's, <U WHO="S1"> no </U> putting everything together. </U>
+			<U WHO="S1"> uh y- well but the, historically the word syncretism and eclecticism go back to the uh Middle Age late Middle Ages. <U WHO="S3"> mhm </U> and what, they implied syncretism was when you, lump together things that should <U WHO="SU-m">
+					<OVERLAP> should not be </OVERLAP>
+				</U>
+				<OVERLAP> not be together. </OVERLAP> whereas eclecticism imply that there're two disparate systems where that somehow, they complement each other or somehow they reinforce each other so that's good. so being eclectic is the word you use if, uh for example there is a, type of psychotherapist called eclectic psychotherapy right? and the ones who practice it think it's great because what you're doing is you discover that there are different techniques and they all are actually leading to the same, outcome. <U WHO="S2"> mhm </U> people who don't like it call it syncretic, psychotherapy right. <U WHO="S2"> mhm </U> and i_ what that means is you're lumping together things that don't go together and it's ridiculous kind of thing. so by using eclecticism i'm not too sure that, i mean he might be_ i i'm not too sure why he chose the word, i may be reading too much into it. but the idea is, that you will take elements from diverse systems, and that is unimpeded you really have no, uh, constraints on how you do that and to what extent you do it, mkay? and antinomianism? </U>
+			<U WHO="S2"> just irreverence toward the system? </U>
+			<U WHO="S1"> uh system law right? law, moral value etcetera. okay? so. <SEG TYPE="READING"> then fears of textuality are folded completely into the dynamics of instability </SEG> which of course goes to, with much of what he, said before and then <SEG TYPE="READING"> Linda Hutchin in her Poetics of Postmodernism refers to the attitude of readers towards text characteristic of this ethos as parodic. self-consciously eclectic constructive and irreverent </SEG> which of course is not synonymous with parodic right? um what do parodic mean? </U>
+			<U WHO="S3"> making a parody. <U WHO="S1"> right </U> which is to say, um, making a funny replica of something which, um, highlights that it itself uh like the replica itself is a false thing, <U WHO="S1"> right </U> but in doing so it, suggests that the thing the original itself is false. </U>
+			<U WHO="S1"> right mhm exactly exactly right mhm, (xx) because i know these terms, <EVENT WHO="SS" DESC="LAUGH"/> i guess that's a, <EVENT DESC="LAUGH"/> uh uh you know of course that they say that, um the nir- nirvana is empty and why is it empty because samsara is empty so it's a similar kind of, argument right? <U WHO="SU-m"> right mhm. </U> okay <SEG TYPE="READING"> she calls the Poetics of Postmodernism one of both and rather than either or. yoking contrary standing above differences and celebrating incoherence </SEG> that's_ celebrating incoherence that's, i mean like when he said sa said that to begin with. <U WHO="SU-m"> (this is getting ridiculous) </U> say say it with some effort, <SEG TYPE="READING"> postmodernism indicates more than a newer style (where) posits choosing using and combining as detached from or transcendent over situations occasions and materials. Robert Venturi not only wants to affirm the architecture of Las Vegas, he wants to learn from it because it includes. that is he takes it as a model of collective irreverence and inventiveness and in so doing positions its designers above the textual locations of the themes parodied, juxtaposed and combined. </SEG> okay i'm not too sure that i buy that but, <EVENT DESC="LAUGH"/> it's advocating agency where there is none. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> or missing, what agency there is right? <U WHO="S1"> right. </U> there there's big corporate money making incentives which is (alternative) design. </U>
+			<U WHO="S1"> exactly </U>
+			<U WHO="S4"> i was about to say that same kind of positing incoherence where there is none. <U WHO="S1"> right </U> um, but </U>
+			<U WHO="S1"> there is underlying coherence right? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> makes a lot of money right? <EVENT DESC="LAUGH"/> and people designed it to do so. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> okay. um <PAUSE DUR=":10"/> and page seventy-five. <PAUSE DUR=":06"/> i'm testing you here whether you're using the dictionary although i must uh, <EVENT WHO="SU-m" DESC="LAUGH"/> confess that many of these words will not be in the dictionary. <PAUSE DUR=":04"/> and uh, i introduce words like this in an undergraduate class and the students say where can i find the words that you get? <EVENT WHO="SS" DESC="LAUGH"/> okay just last night i was looking polymath and i couldn't find it in my dictionary i had to go to a bigger dictionary. okay <SEG TYPE="READING"> Barbara Aronstein Smith provides a good example of an attempt to address the aporias of postmodernism </SEG> what are aporias? <PAUSE DUR=":07"/>
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> yeah she says, Sung </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> yeah i think Sung (use if) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> Sung's actually read this book. </OVERLAP>
+			</U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S2"> Sung's actually read this book </U>
+			<U WHO="S7"> didn't go past the first page, but </U>
+			<U WHO="S1"> oh i see. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> uh isn't it literally like the different place? um is that translating or am i totally (xx) </U>
+			<U WHO="S1"> uh no you've, no (xx) </U>
+			<U WHO="S3"> gaps isn't it? </U>
+			<U WHO="S1"> yeah it's gaps in the sense of doubts. <U WHO="S7"> oh </U> doubts. so. it, it of course usually means an, irresor- irresolvable doubt. um, it's, it's a term that comes from philosophy of course it's Greek needless to say, and it comes from philosophy and refers to, major issues in philosophy that have not been resolved that everybody tries to resolve them no one has. it's closely related to antinomy, have you heard that word? <U WHO="SU-m"> mhm </U> antinomy or antinomy (of course a) another pronunciation. and antimony is when you have two elements, for example e- the world's eternal the world is, not eternal. and, y- you feel forced to make a decision between the two but you cannot, logically or by reason, come to that decision. and when you have that sort of situation then you often have an aporia, a doubt that cannot be resolved. and uh it's used in the postmodernist context to imply, a doubt, that cannot be resolved because it is in language itself rather than reality. that's why (xx) there. and of course by applying it to <SIC> postmodernist </SIC> itself then you start questioning, uh the the ground of postmodernist, postmodernism. <SEG TYPE="READING"> although her work is most widely known for its attack on modernist assumptions of inherent significance of value she moves from those attacks to a theory of how values are determined and stabilize in a culture. while she addresses primarily the question of the turning literary values (Smith) does not limit her position to judgment of this kind alone, she houses her fear of literary evaluation in a comprehensive account, of how the importance validity and goodness of things events and ideas are determined, the treatment of judgment is inclusive kinds and levels. </SEG> okay. <SEG TYPE="READING"> while she attacks claims that judgments of value are based on intrinsic and objective qualities, she rejects the notion that value judgments are subjective or matters of whim and caprice. </SEG> is that <SEG TYPE="PRON" SUBTYPE="/ca'priss/"> caprice </SEG> or <SEG TYPE="PRON" SUBTYPE="/capreece'/"> caprice </SEG> ? </U>
+			<U WHO="SS">
+				<SEG TYPE="PRON" SUBTYPE="/capreece'/"> caprice </SEG>
+			</U>
+			<U WHO="S1"> caprice, um, we had a, long debate remember (uh that's) fou- four weeks ago <U WHO="SU"> mhm </U> on exactly the same issue. <SEG TYPE="READING"> she does this by deploying a socioeconomic model for explaining how values are determined. a model, that also keeps value from arising from anything exceptional to the system. the principle metaphors that she uses to describe the system are economic and she places the question of value in the theory of exchange </SEG> etcetera etcetera. now. <PAUSE DUR=":09"/> it makes criticism of her, and then moves on page eighty to Stanley Fish... very well-known, figure who i believe was chair of the Department of English at uh, Duke. um there was an article in the New York Times, sometime, last spring i believe, about how the department collapsed <U WHO="S2"> yeah </U> when he left uh, you know there's some people blaming him for that uh it was really interesting it uh brought out the, the real politics of postmodernism. <EVENT DESC="LAUGH"/> okay. so Stanley Fish. <SEG TYPE="READING"> while Stanley Fish agrees with much in Smith, he departs from her by turning in the direction that she discredits namely toward the stabilizing roles for determining value that are played by communities within the society. </SEG> and this_ remember the Bruner a- article that you read? of course Bruner is very much inspired by Fish, in looking at community as the basis for the stability of a values. <SEG TYPE="READING"> this move gives Fish's position more focus and clarity since it is more partial. but these qualities also weaken the potential adequacy of his position since they raise the question of whether a description of value of determination, in one community can be applied to others or to the whole. </SEG> what do you think about that? <PAUSE DUR=":10"/> A what is he trying to say? and B what do you think about what he's trying to say? </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S4"> i'm trying to figure out what the phrase <SEG TYPE="READING"> for determining value that are played by communities </SEG> what he means by played by. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> oh <SEG TYPE="READING"> the stabilizing roles, that are played... </SEG> reading this kind of English is like reading Sanskrit right? <U WHO="S4"> yeah yeah </U>
+				<EVENT DESC="LAUGH"/> figuring out, what's the relative clause, <EVENT DESC="LAUGH"/> and what's the head of the main clause </U>
+			<U WHO="S2"> this is what our Japanese reading group does. we start from the back and <U WHO="S1"> right </U> (xx) </U>
+			<U WHO="S1"> actually in some ways Japanese is easier right? you have a particular order, that uh you can follow. <PAUSE DUR=":07"/>
+			</U>
+			<U WHO="S2"> so this is i mean, i don't understand why this is a_ why Fish's option (is better.) because it presents the same problem, that he critiques Smith for right according to Cort which is that how are values determined <U WHO="S1"> mhm </U> (xx) in the first place. <U WHO="S1"> right </U> and so she provides an answer. which Fish, rejects but then he makes this blanket sta- blanket statement that there are values in a community. and now Cort's saying hey but how did he arrive at this right that's where he's, <U WHO="S1"> right </U> so i don't think, i don't know whether we've got (from him or not.) </U>
+			<U WHO="S1"> i think what Cort is saying, uh which doesn't mean i necessarily agree with him but what Cort is saying is that, Fish has localized the construction of value in a way that is more manageable. <U WHO="SU-4"> mhm </U> than what Smith had done. i think that's his essential argument. that's why he says uh, <SEG TYPE="READING"> since it is more partial. </SEG> uh that's again poor choice of words what he means is it's more localized. <U WHO="SU-4"> loca- okay </U> as identified that the, societal locus for the formation of values and therefore then he can reflect on that formation. however then he says right? <SEG TYPE="READING"> these qualities also weaken the potential adequacy of the position, since they raise the question, of whether a description of value determination in one community can apply to others or to the whole. </SEG>
+			</U>
+			<U WHO="S5"> which is exactly the problem, because <U WHO="S1"> right </U> if they can be then, you're saying well that there is actually some quality there <U WHO="S1"> exactly </U> if it can't be then what's the point? </U>
+			<U WHO="S1"> exactly... as i see it the real problem is that values like religion (xx) religion falls under that right um, remember when we put Max Schiller on the board and talked ab- i didn't i do- don't think i gave you the last in the list of values which is of course religious values right? <U WHO="SU-m"> mhm </U> (right) so, he talks about values of truth which is logic right? values of morality that's ethics values of aesthetics, beauty but he also needs values of religion. so within that, cha- if you look at culture as system of values then of course religion is central to that. the problem with, values and religion is that it always, to exist it has to make a claim that is universal. otherwise, it it undermines itself. so that even when you say no i'm gonna be completely open to other cultures i'm gonna be completely tolerant, well that in itself right is making a universal claim. uh, t- tolerance is always in some ways intolerant, of intolerance right? <EVENT DESC="LAUGH"/> so, any time you try to describe a, a a foundation of value and you see it in a specific locality right, being whatever it might be, you are implicitly undermining the value <OVERLAP> itself. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> but then </OVERLAP> you wonder whether the, Madhyamika sort of alternative which is to make no statement is itself a blanket, universal statement </U>
+			<U WHO="S1"> yeah yeah, i think it is mhm. <U WHO="SU-5"> well </U> yeah i think it is, mhm. and it's it's actually doubly problematic, once i get into that, <EVENT DESC="LAUGH"/> doubly problematic because, you're making that claim and yet at the same time you're making a claim that the good is bad that's a fact. a fact that, <U WHO="SU-5"> right, mhm </U> so and how will those two claims match is not completely altruist i think you can sort of argue for how they uh, come together but i'm not sure it's obvious or s- self-evident. how they come together. <PAUSE DUR=":05"/> okay (xx) questions? <PAUSE DUR=":08"/> page eighty-four then? eighty-four is interesting because he brings out something that, people usually don't bring, mkay? bring out and that is the question of professional communities. uh one thing i like about Cort and that's why i'd selected it is that because of his, uh, theological position he is often seeing things that people don't see who are, like most of us in a non theological setting. and, he catches this particular aspect of Fish which i think people don't always notice. he says, beginning page eighty-four at the end of that very first paragraph, <SEG TYPE="READING"> although Fish's position by including an account of belief and of temporality is more adequate than Smith's, it leaves la- lacks and creates </SEG> at leaves lacks? </U>
+			<U WHO="S4"> yeah lacks is a noun phrase. </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> yeah i guess it is. at leaves lacks and creates, problems that (xx) <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> it lacks problems. </U>
+			<U WHO="S4"> either that or, it it could just be a le- a comma, typo. </U>
+			<U WHO="S5">
+				<OVERLAP> no no cuz he uses it over and over </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh yeah yeah </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah, i think he (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> it doesn't lack problems </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> no that's true. i was just i was trying. </U>
+			<U WHO="S1"> to help him out? </U>
+			<U WHO="S3"> as opposed to (lots) of problems </U>
+			<U WHO="S1"> good editors are hard to come by. <EVENT WHO="SS" DESC="LAUGH"/> okay <SEG TYPE="READING"> first he ontologizes professional communities. not only does he posit them as exemplary he also locates within them as constitutive of their very existence the resolution of those contraries that have always dogged, the philosophy of time namely the relation and temporality of change to constancy. </SEG> okay. <EVENT DESC="LAUGH"/> translation. <EVENT DESC="LAUGH"/> what does that mean? <PAUSE DUR=":13"/> i i by the way i like very much the way that, Cort translates interpretive community to professional community. <U WHO="SU-m"> mhm </U> cuz that's really what it means. but you m- <EVENT DESC="LAUGH"/> by choosing interpretive community then you're sort of covering up, right? </U>
+			<U WHO="S4"> now, i mean my translation would be that professional communities are both repositories of knowledge and creators of them, and creators of it. <U WHO="S1"> mhm </U> but that seems not nearly deep enough for what, (A) is that kind of sentence. <EVENT DESC="LAUGH"/> (xx) is. </U>
+			<U WHO="S1"> no no what what you say is true but i think he's trying to say more it's just that, it's </U>
+			<U WHO="S4"> well and also and then of course then but then the last part is that they resolve the con- the problems of, the dif- difficulty of stasis versus change <U WHO="S1"> right. mhm </U> but i mean fundamentally i just find that <EVENT DESC="LAUGH"/> that that idea, relatively laughable. um </U>
+			<U WHO="S1"> yeah but Fish doesn't <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4"> yeah Fish doesn't yeah i <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> mean </OVERLAP> i <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> just, </OVERLAP> y- yeah. </U>
+			<U WHO="S1"> mhm yeah th- thi- yeah this is really incredibly awkward isn't it? <SEG TYPE="READING"> locates within them as constitutive of their very existence the resolution of those contraries that have always dogged the philosophy of time namely the relation temporality of change to constancy, </SEG> uh which could be said how? <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":07"/> that Fish claims, that professional communities have as their very own reason for existing right? resolving these contraries namely, the contrary between change and, stability right? </U>
+			<U WHO="S3"> (hey) how does Fish do that? </U>
+			<U WHO="S1"> no no, he makes the claim i don't think he, does that, <U WHO="S3"> okay </U> right? <OVERLAP> that's part </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> well he's not </OVERLAP> actually claiming that they resolve it. <U WHO="S1"> right </U> it's that that's their job. </U>
+			<U WHO="S1">
+				<OVERLAP> that's their job. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> that's their job </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh okay. </OVERLAP>
+			</U>
+			<U WHO="S3"> is it, says that their job? i'm reading the sentence as, that's what constitutes them. <U WHO="S1"> right </U> that that's not their goal but that's, their cause. </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S5"> well is it that they, ac- that they think about resolving it or that they actually resolve it? </U>
+			<U WHO="S4"> they have resolved it yeah </U>
+			<U WHO="S5"> that's where it becomes funny that they're constitutive of their existence the resolution. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) </OVERLAP> uh yeah but resolution is an an agent noun but, agent nouns <EVENT WHO="SS" DESC="LAUGH"/> can mean, can mean the, the outcome of the action <U WHO="S5">
+					<OVERLAP> or the action itself right? </OVERLAP>
+				</U>
+				<OVERLAP> but can also mean the action. that's part </OVERLAP> that's prob- probably part of the whole sentence <U WHO="S5"> right </U> when you get to that level of abstraction. </U>
+			<U WHO="S5"> i mean i think it's, <U WHO="S1"> it's not clear, <OVERLAP> right? </OVERLAP>
+				</U>
+				<OVERLAP> it only </OVERLAP> makes sense if you talk about the, professional community as talking about it thinking about it <U WHO="SU-m">
+					<OVERLAP> yeah right </OVERLAP>
+				</U>
+				<OVERLAP> making, </OVERLAP> problematizing this whole idea of, of of, resolving these issues rather than actually, <OVERLAP> doing it </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> doing it, </OVERLAP> yeah </U>
+			<U WHO="S4"> i read it i read it the first time as that they've actually solved it because when i said it was, seemed </U>
+			<U WHO="S1"> oh i see no no <U WHO="S4"> (xx) yeah they <OVERLAP> bothered you </OVERLAP>
+				</U>
+				<OVERLAP> (xx) and and Fish would never claim that no no. yeah, yeah, mhm, mhm </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah that's i mean that's why i was, i mean i called it laughable </OVERLAP> i read it as, they've resolved they they're the ones who've solved this intract- intractable problem which clearly they haven't. <EVENT DESC="LAUGH"/> um </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S6"> they'd be out of a job if they did. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S5"> which is why it will never be solved. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> actually you know John that's very profound. <EVENT WHO="SS" DESC="LAUGH"/> you know y- you know seriously in the sense that even, in communities where there's a belief that they have resolved it, um, they haven't. and that's why they keep their jobs. um, i don't know if you've heard of the, the last man, and this uh this uh very postmodernist notion, which Foucault mentions and Derrida also mentions have you heard of it, do you know what that is? do you know Sung what the last man is? uh, everybody wants to be the last man. and and here, uh you don't have to worry about feminist issues it s- was meant to be man. the last man means, the person who's gonna solve everything the definitive everything right? and, <EVENT DESC="LAUGH"/> part of the postmodernist critique (on) that is is is laughable in a sense that many of these postmodernists often see themselves as the last man. right? but traditionally the last man would be the one who would come up with a system a complete system and resolve all of these contradictions. but the truth is that it never happens so that even, when a person produces this final, like the uh Summa of Saint Thomas Aquinas right, then immediately because it is not final, you need the specialists who are gonna write commentaries on it, <U WHO="SU-m"> yeah </U> and so then, they don't they never lose their jobs. <EVENT WHO="SS" DESC="LAUGH"/>
+				<PAUSE DUR=":04"/> okay. then eighty-five. the last stage. or actually the third or ethical <OVERLAP> stage. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i'm sorry... </OVERLAP>
+				<U WHO="S1"> huh? </U> w- wha- what does Fish do if he's not, actually doing what Cort's saying that he does? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> no no no no. uh our discussion was what what is Cort really saying? <U WHO="S3"> okay </U> and at that point we weren't sure if he was saying, that Fish believes, <U WHO="S3"> mkay </U> that these communities, actually resolved the, <U WHO="S3"> okay </U> uh, conflict between change and stability. <U WHO="S3"> right mkay </U> and then we concluded that he actually is, most likely describing Fish accurately. as saying, that these communities set out to resolve it. <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> doesn't mean that they are resolved okay does that answer your, question? <U WHO="S3"> yeah </U>
+				<PAUSE DUR=":04"/> okay. <PAUSE DUR=":06"/> so page eighty-five by the way page eighty-five those la- the, last paragraph of section two? um... you should look at it very carefully if you haven't um it's not as difficult as the other ones uh... it sort of summarizes his concern that in some ways, although Fish is addressing the issue of textuality, by placing, the source of value in communities he may have in fact detextualized, the enterprise and that's his concern. uh, i personally wonder whether, you don't have in the end to do that if you're gonna talk of value right? you just stay in the textual realm i'm not too sure. you can do it although it's part of what Cort is trying to do. to somehow preserve textuality as constitutive constitutive of culture. and at the same time, uh speak of values that kinda have some kind of universal, claim to validity or acceptance... <SEG TYPE="READING"> the third or ethical stage in the narrative of postmodernism arises because the status and role of systems and communities for determining value and significance at the second stage, cannot, because they are basically non-textual (to) themselves brought into question. </SEG> so, uh <SEG TYPE="READING"> Smith and Fish for example provide no possibility of criticizing the systems and communities they point uh, they posit and affirm. there seems to be no option but to accept them. indeed everyone as in a system or community that cannot be interrogated, because that interrogation is part of the system or community acceptance of or aci- acquiescence to these systems may not trouble people who have done well within them. but a theory of acceptance that does not provide for its own interrogation is a simple act of identity or voice warranting, </SEG> Cort has just redeemed himself as as far as i'm concerned. <EVENT DESC="LAUGH"/> it's clear what he's saying and i, to me makes a lot of sense, right? <SEG TYPE="READING"> where these positions err is in the assumption that the principle if not exclusive problem of postmodernism's first stage is lack of coherence, stability and continuity. but the problem is as much how to allow oneself's, oneself group institution or even system to be questioned. the third or ethical stage of postmodernism tries to compensate this lack </SEG> yeah there is this this lack <SEG TYPE="READING"> and to do so </SEG> but singular. <EVENT WHO="SU-m" DESC="LAUGH"/>
+				<SEG TYPE="READING"> and to do so without reintroducing discredited notions of transcendence. i present three recent attempts to locate some basis for the ethical interrogation of society or culture and to avoid returning to the absolutist or objectivist notions, that mark the status and role of ethical norms in modern thought. </SEG> and of course, in premodern thought too. so then he goes on to give some examples, and i will just... address two of them, page eighty-eight... um, the last paragraph i don't know how, if any of you have seen this book. Sung since you, seem to be in uh, interested in uh beginning to read books that you can never finish this is good, good candidate. good candid- <EVENT DESC="LAUGH"/> has anyone tried reading this book? </U>
+			<U WHO="SU-4"> the Steven Conner? </U>
+			<U WHO="S1"> uh no no. the, uh <U WHO="S2"> the (xx) </U> i don't even know how to pronounce their name. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> (Shifberg) (xx) </U>
+			<U WHO="S1"> Weishegrad <U WHO="SS"> alright </U> or Weischegrad, uh book it's, incredibly dense it's jargon from beginning to end. so you should be grateful to Cort that he's summarizing it for you. <EVENT WHO="SS" DESC="LAUGH"/> okay. uh one two three line four of that paragraph. <SEG TYPE="READING"> Weischegrad isolates the life of the saint as an arresting departure from the currents of contemporary culture, a departure that, if it does not imply some general judgment calls the adequacy of the culture into question. the singular which he contends is not homologous to or a segment of the social for he marks departure and exceptions, subverts the completeness and intransigence of the whole. </SEG> and you know whether she's right or not we're, gonna go, not go into that right, i i would question it but um, <SEG TYPE="READING"> aware that ethics and moral theory are stymied, because there is no way to secure theory as an imperative for behavior and because there is no common ground on which to mount norms that can be shared. she turns to exceptional actions that (arrest) attention and for that reason have authority. positing the force of the singular over the corporate, action over theory and the body specificity of a moral principle she points to the radical and excessive desire of a saint, for the total well-being of the other, as a critical and liberating departure from the determinations and structures of late capitalist culture. </SEG> okay any comment, uh on that. </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S3"> it reinforces, the bodhisattva theory. </U>
+			<U WHO="S1"> mhm <EVENT DESC="LAUGH"/> it does. <PAUSE DUR=":15"/> so is everybody happy with it? </U>
+			<U WHO="S5"> uh it's a little bit, funny that i mean when you try to, base your entire system of, of ethics or morality, on the exception. </U>
+			<U WHO="S1"> right. mhm. </U>
+			<U WHO="S5"> i mean where does that leave the sort of average, or the rest of everyone else who's not the saint <OVERLAP> who's not, who doesn't </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well well that's </OVERLAP> a good point yeah i'd i that's not what i was thinking but yeah that's, that's a very good point right, yeah that's a, point i of- often make in my, psychology of religion class. i i begin by asking them, uh does a person who goes to Sunday at the church every Sunday, uh and then goes home and, mows the lawn and goes to play golf and doesn't think anymore about, service, is this a good subject for the study of the psychology of religion? and the vast majority of them say no. <EVENT DESC="LAUGH"/> so in other words the va- the vast majority of religious people are not good subjects for <EVENT DESC="LAUGH"/> the study of psychology of religion. and and there's that, you know you see that tendency in James himself right? if you wanna understand how religious people feel then you hafta go to the exceptions well uh maybe yes maybe not right, but here it's even, worse because you're gonna, use as a foundation for nor- for the normative religious behavior, people who, uh are not only exceptions but, which Weischegrad also says, they often deviate from the norm so wait a minute, i mean you can't have your cake and eat it too. on the other hand if you put that next to Fish, you may be getting close to what the dynamics of it is right? i mean the dynamics is, there's an interaction with several communities and individual behaviors. but that doesn't mean that the individual behavior is the only source. not even maybe perhaps a major source. of of value... okay <U WHO="S3"> so </U> mhm? </U>
+			<U WHO="S3"> the big critique i've, seen, is that uh, first of all she, implies that, sort of, the common culture is monolithic. that is it's somehow there's sort of unitary, um <U WHO="S1"> right </U> culture with capital C which the individual works against. that also implies that individual is- individualistic) and that saints, aren't just departing from norms they're entering into other norms. <U WHO="S1"> right </U> and other conventions. <U WHO="S1"> that's a good point. </U> so </U>
+			<U WHO="S1">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> well which is, </OVERLAP> where y- i mean it's just another shift it's like the shift from, uh from the basis of, ethics or morality whatever is distinct to remit itself in an absolutist way to moving into a community where they're interpretative community or professional community, <U WHO="S1"> mhm </U> and then moving it once more, maybe up another level or down another level to the individual. <U WHO="S1"> right </U> as a saint it's just, kind of moving it around <U WHO="S1"> right </U> it's not really, <U WHO="S1"> it's not </U> getting getting </U>
+			<U WHO="S1"> still doesn't tell you how, the community decides. who's gonna be the saint and who's <U WHO="S4">
+					<OVERLAP> that's </OVERLAP>
+				</U>
+				<OVERLAP> gonna be the </OVERLAP> madman. <OVERLAP> right. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> that's </OVERLAP> what i was, yeah. and one more_ the other thought i have is that, in many ways the saint, as a person doesn't matter, in this discussion so much as the saint as a story <U WHO="S1"> mhm </U> that the non saints read. <U WHO="S1"> exactly <OVERLAP> exactly </OVERLAP>
+				</U>
+				<OVERLAP> i mean it, </OVERLAP>
+				<U WHO="S1"> mhm </U> that seems to be where a saint_ <U WHO="S1"> mhm </U> it's that, the saint's used as an ideal to sound them aga- sound your own values against. (so, i don't) </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> i mean in some ways when you say the the the word saint, like like every word right? you're saying several things. and your argument, y- her argument is in part based on the fact, that she doesn't sit down to reflect i mean wha- about how many things the word means. and that allows her to slide back and forth between meanings without realizing, that someone could argue i think, very convincingly, that, the referent of the word sometimes are very different things. you can think of saint as, a story right? a myth. which of course is several stories not one, usually right? uh you can also s- think of a saint as a charismatic figure, which is not necessarily, the f- the person him or herself whatever that means, and then you can uh think of the saint also, as a creator of institutions, many of them were creators of institutions, right? and therefore organizers and so forth, and you can s- uh think of a saint as a moral model, right? so they're all of these which uh don't always correspond, not just in the same person but also do not always correspond in the imagination of the community as they perceive this person... okay <PAUSE DUR=":05"/> then the end of the chapter page ninety-five <PAUSE DUR=":07"/>
+				<SEG TYPE="READING"> now i realize that to ask for content or norms in an ethics is to place the discourse within the system, that it is, the purpose of the theory at this stage in postmodernism to de- destabilize and to question. Conner, by locating the ethical in particular kinds of discourses of text, is unable to get outside the system or to articulate a norm, by which these languages are both different from normal discourses and yet critical often normative of them all. Weischegrad by positing that reality outside of this textuality sets limits on the extent to which discourse can affect both, what we notice and w- w- we might count it as exceptional, and (Cricksley) while he presents a position that stresses uncertainty either throws us back into the first stage of postmodernist theory and practice or gives us ways to modify or check the ongoing interests of the culture, without bringing them radically into question. his ethic becomes a word of caution that only those already inclined to heed it, will (adhere.) perhaps these attempts at a postmodernist ethics disappoint because to succeed, ethics seem to require a modernist scaffolding that can no longer be assumed, or that has been torn away. what is needed first of all then is not an ethics but a cultural discipline from which ethics can again eme- again emerge. </SEG> i'm really not very sure what he means by that i assume, that's what he then develops in the next two, two chapters but it's not clear to me. <SEG TYPE="READING"> all three of the stages in this part of the narrative however may contribute something to the next the first contributes the, retextualization of culture and reading as a definite, a definitive cultural practice. the second contributes the emphasis on functionally non contingent values on the world enabling (the role) of belief. and the third contributes three items the importance of reading texts, the lure of exciting the culture, and the morality of uncertainty. </SEG> okay, so uh shall we explain that? what does that mean? i mean that paragraph. </U>
+			<U WHO="S3"> it's the lure of exiting the culture right? </U>
+			<U WHO="S1"> i'm sorry? </U>
+			<U WHO="S3"> the lure of exiting the culture not exciting. </U>
+			<U WHO="S1"> i'm sorry exiting yeah yeah <EVENT DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":23"/>
+			<U WHO="S3"> well they're the ingredients, of Cort's uh <U WHO="S1"> sure </U> theory. </U>
+			<U WHO="S1"> right <U WHO="S3"> yeah </U>
+				<EVENT WHO="SU-m" DESC="LAUGH"/> exactly. uh, so that's why i want, to make sure we have understood what, what he means, what what are the ingredients? </U>
+			<U WHO="S3"> well meaning as a practice which is what i think he means by um, <SEG TYPE="READING"> the cultural discipline from which ideas can emerge, </SEG> (not that) someone's saying this is the way the world is but, having a practice. <U WHO="S1"> mhm </U> and uh by reading text i think refers to_ by reading scripture he means, reading something which is, uh sorry, reading something and thinking of it as real. as something which can challenge your own beliefs and force you to <OVERLAP> change </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP>
+			</U>
+			<U WHO="S6"> right reading the Bible and thinking it's real. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3">
+				<OVERLAP> yeah o- o- </OVERLAP> o- o- or, or reading other things. and seeing them as presenting a valid challenge. to your own viewpoints. um the lure of exiting a culture as a saint does. uh, and the morality of uncertainty uh, we didn't talk about the (xx,) um... but it seems like a lot of, postmodernism is about, not being certain about any grand narratives. because uncertainty will then allow you to, </U>
+			<U WHO="S4"> is the exiting allowing certainty? </U>
+			<U WHO="S1"> i think so. yeah but i d- <OVERLAP> but here </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> or maybe exiting is allowing the certainty </OVERLAP>
+				<U WHO="S1"> yeah </U> is that the culture does not provide the certainty but yet there is certainty outside of it. which i think would be the exact opposite way that, would have been conceived of in med- in modernity. <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S1"> can you repeat that? </U>
+			<U WHO="S4"> you've got, <EVENT DESC="LAUGH"/> i don't know. <EVENT WHO="SS" DESC="LAUGH"/> in modernity, culture provides the organizing and provides the order. wherein postmodernity what what what Cort is arguing is that if you get outside of_ culture is what confuses the issue by exiting culture, by getting beyond it, you can gain the certainty or at least something, like it. </U>
+			<U WHO="S1"> uhuh okay i (understand...) you know when undergraduates raises his hand and says could you repeat that, it's strmessful i understand. <EVENT WHO="SS" DESC="LAUGH"/> i can't repeat it i just made it up. i can't <EVENT WHO="SS" DESC="LAUGH"/> yeah um and now notice, you have to understand you know to to to use the argument from charity right? the (then s-) understand Cort's position. uh let's forget that he is, trying to make a theological argument. his position is no different from that of the rest of us and that is, you do have values and d- you do want to make them somehow, be universally applicable. right? you want to s- persuade at least yourself if not other people, that the values you have are the true values. and you're trapped in between two two worlds one of them is not just the postmodernist world, but what i think is the myth of the modern world which, i think he falls for, to a certain extent. and and that's why a while ago when you talk about you know being out of a job i i made the observation that, even in culture where supposedly the system is closed it isn't. it isn't at all right, but there is this lure of, a system or a state in history in which people in which people had certainty. now <U WHO="SU-m">
+					<OVERLAP> the fifties? </OVERLAP>
+				</U>
+				<OVERLAP> (try) (xx) that? </OVERLAP>
+			</U>
+			<U WHO="SU-m"> the fifties </U>
+			<U WHO="S5"> that's in the fifties </U>
+			<U WHO="S1"> yeah the fifties. <EVENT DESC="LAUGH"/> that's the end of modernity right? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> sorry. </U>
+			<U WHO="S1"> yeah and they and the nuclear family with mom dad, <U WHO="SU-m"> right </U> daughter and, and son. yeah? okay so. trying to find his way through that he also is dealing with another th- issue and that is, the, postmodern notion of the text. in opposition to the notion of scripture. so what he's trying to do is find a way in which you can read scripture, without giving up much of what, modern and postmodern criticism has contributed which would include things like, the natural sciences history, appreciating literature, understanding and how literature works. that, questioning the foundation of te- of the text etcetera so he had to find a middle ground and that's what he's trying to do. so here he's giving you the outline, it's gonna come up in the next chapters, <U WHO="SU-m"> right </U> of how he's trying to do it. now re- regardless of whether you agree with him or not it is in my view a good, summary of what it means to be where we are right now. if, if it is that we are interested in reading religious texts, how do you read them? how can you make sense of the text, from where you stand, where you, stand in a culture in which you're not allowed to claim that values are, important or absolute. yet you have them. okay? you you have them how- however secret they are you have them. so you're trapped between, a text that has authority over a particular community or had authority over particular communities, that you wanna read and you want to understand, a society that denies the value of that text, at certain levels on other levels it doesn't, and then your own values whatever they are. mkay? uh so what Cort is struggling to do in some ways, is suggestive of what we all struggle to do, to a greater or lesser extent. </U>
+			<U WHO="S5"> but i wonder how at at the end of Cort's day how far he's really looking beyond the Bible like you, said it kind of jokingly <U WHO="S6"> right </U> i mean all of this discussion he_ i get the feeling he's really bringing it back so he can go and read the Bible and sort of say that well this is <OVERLAP> how we do this. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah sure sure yeah yeah </OVERLAP> of course yeah yeah. there's no question about it. </U>
+			<U WHO="S5"> okay oh i wasn't sure about that. <U WHO="S1"> (oh no) </U> (xx) </U>
+			<U WHO="S1"> i mean the the i i i, i'll say it. it's it's kind of like an obsession right? because uh in the end he hasn't told us well there are other scriptures, there are <U WHO="SU-m"> right </U> competing scriptures right, in fact there are competing Bibles. and that is, very much part of what modernity is about and that's one that he doesn't mention. <U WHO="SU-m"> mm </U> so, when he talks about modernity and doesn't, mention at all the cultural changes that accompany this, very intellectual, issue of what is a text and what is scripture, when he doesn't mention that you w- you wonder, whether he really has understood what modernity is all about. (xx) </U>
+			<U WHO="S6"> right. it's sort of like he's, writing a, an interesting description of, this small procession of changes but, all seen through the seminary window, <U WHO="S1">
+					<OVERLAP> yeah, mhm sure </OVERLAP>
+				</U>
+				<OVERLAP> in a way </OVERLAP> that i mean he never, accounts <OVERLAP> for (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm </OVERLAP> and you see that even people who are not seminarians i think i mentioned, before, uh Robert Bella, <U WHO="S6"> mhm </U> who is, very devout i believe Baptist himself. and it comes up all the time you know there are certain things that he will not give up. uh, so for example he has this paper i think i mentioned, maybe not in this class mentioned it before called religious evolution, uh which at some point you should read because it's fascinating, and in some ways reminds me of Cort right? where he goes through the history of religion which of course is the re- history of religion in Europe, <EVENT WHO="SU-m" DESC="LAUGH"/> and in North America and then speaks of, institutional evolution of religion, trying to be very neutral as a sociologist but clearly implying, that religion gradually evolves into Protestant Christianity as the culmination of, of religion. no sense of of the fact that this, that this progression is historical accident. you know (in the) great scheme of things when you look at everything as a historical accident. okay so let's take a short break ten minutes, about we'll be back. </U>
+			<EVENT DESC="BREAK IN RECORDING"/>
+			<U WHO="S4"> right yeah i think it, yeah that was my first fear was that </U>
+			<U WHO="S7"> we, see we thought that, the skunk actually died in (here) </U>
+			<U WHO="S6"> that's what we <OVERLAP> thought (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but that's </OVERLAP> actually easy they won't spray when they're dead. <EVENT WHO="SS" DESC="LAUGH"/> yeah but you know but i- </U>
+			<U WHO="S1"> is that a fact? </U>
+			<U WHO="S4"> uh n- growing up with with many of them on the road, <EVENT DESC="LAUGH"/> it's uh one one burst when they die and that's_ then they're fine. </U>
+			<U WHO="SU-m">
+				<OVERLAP> then it continues to, </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> but then they decompose </OVERLAP>
+			</U>
+			<U WHO="SU-1">
+				<OVERLAP> oh, wait wait a minute wait you </OVERLAP> lost me there <EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT WHO="S4" DESC="LAUGH"/>
+			<U WHO="S1"> are you, making a philosophical <OVERLAP> (point) (xx) spray </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S4">
+					<OVERLAP> no no this is (purely) practical </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S1"> or are you saying that they don't smell if they get crushed. </U>
+			<U WHO="S4"> they don't smell if they get crushed. </U>
+			<U WHO="S1"> then how come um <U WHO="S8"> (why) </U> roads sometime smell (the way) </U>
+			<U WHO="S4"> oh that's that's the the the final the final moment </U>
+			<U WHO="S5">
+				<OVERLAP> but it lasts </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well right yes. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> it lasts forever. </U>
+			<U WHO="S5">
+				<OVERLAP> yeah it lasts for a long time. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> precisely. you're making a subtle </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> it kind of permeates </OVERLAP>
+				</U> metaphysical distinction (that is) pragmatically irrelevant </U>
+			<U WHO="S8"> so did you get a pest person to go look? <U WHO="S6"> um </U> to see if he's there? </U>
+			<U WHO="S6"> well i'm sure it's not in the, because i i went and, i, just sort went to the furnace and then, checked all the pipes that go out from it and checked where where they went and, there there's no way that he actually could have, gone up just gotten inside but somehow he m- did manage to the, the spray got inside. so it d- it definitely uh you know comes out through all the, heating vents. but it's th- the first night it was really we we we did not sleep the whole night because, it was the, so strong that uh our eyes were completely tearing and our sinuses completely inflamed like it was really <U WHO="S1"> wow </U> so strong i'd never experienced anything quite like that. <U WHO="SU-8"> oh my </U>
+				<EVENT DESC="LAUGH"/> but now it's much more_ it's tolerable and after being in the house for a little while you don't notice so much. <EVENT WHO="SS" DESC="LAUGH"/> but then when we go out, and then i'm, seriously and then i'd walk back towards the house and like you know just on the threshold of the house in the doorway uh you're hit so strong <OVERLAP> you know it's alright </OVERLAP>
+			</U>
+			<U WHO="SU-8">
+				<OVERLAP> it </OVERLAP> hits you. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> yeah, but i don't know what can be done about it it's one of those, you know, difficult things that, no one really has any idea everyone says, oh that's, that's too bad, you know. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S5"> well they do sell these, things that kind of absorb, odor </U>
+			<U WHO="S6"> smells right. </U>
+			<U WHO="S8"> yeah that sort <OVERLAP> of that powder </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah cuz i had a a dozen of them </OVERLAP> in our basement when we moved in. <EVENT WHO="SS" DESC="LAUGH"/> she had, no skunks she had cats. </U>
+			<U WHO="S1"> okay. um, can i see you for a minute, after class, <U WHO="S5"> sure </U> for just a second. okay. um so. let's um, we have a number we wanted to look at today as usual we're a little bit behind. <EVENT WHO="SU-m" DESC="LAUGH"/> so uh i do want to uh spend some time, talking about, the legends of the <FOREIGN> siddhas </FOREIGN> but lemme first say something about it. before i i do that remember i had told you to, look at them again i'm, going to actually, uh read to you a version of, of one story. so that you don't really don't need the book if you don't have it with you but, and i wanna talk about the stories themselves. because the issue that, it's not completely related to to Cort but it's the issue that we were raising last time and we want to raise in the next uh, session also, is... the question of history and canonicity. and the question has two aspects which, as i said a while ago i think Cort really mixes up. uh, maybe to his own advantage i don't know i wanna be charitable to him but, um and the issue is, one thing is is to think of, a shift from reading scripture to reading history as a source of authority. and a other issue is the question of reading, a text that is canonical, let's not say scriptural it might be scriptural or not but a text that is canonical and that is separated, from you by history... that is part of what modernity is about and that's one of those aspects of modernity that Cort just chooses to ignore right? <U WHO="SU"> mhm </U> the distance that separates him from the Bible, chronologically, culturally, and uh, also, in terms of mere distance physical distance right? linguistic distance, is one that requires particular approaches one, and number two, is constantly, reminding you that, this is a mediated text. i mean it's very hard, to, think that a text is not mediated, when you have to go through so many hoops just to get, to understand it. right? uh and the kind of text that we read of course are, precisely of that nature. so that then history becomes not the bogeyman that is gonna displace scripture, but actually one of the tools that we have to try to understand the text. that we may or may not regard as scriptural or authoritative. (right?) also the very notion of authoritative, uh changes the moment you you have a text of this nature, because it doesn't come to you naturally as authoritative, as authoritative. you've grown up with a particular set of scriptures whatever they might be, or a particular set of authorities. you know the kind of culture i i grew up in, uh when i was a kid. not anymore right, that has changed. but when i was a kid the Bible was, not mentioned. i mean that was not the authority the authority was the church right? um so, if you grow up in that kind of context then, it's, uh the idea of mediation is (that) someho- someways erased or blurred, by the fact that you are in that world that's the real world. right? but the moment you have an alternative world, then mediation appears immediately. so if you're dealing with a text that is (sat) outside of your c- your culture and that's true about these texts right? um and you can't avoid mediation, one, that's the first point and the second point is, actually you need to reflect the mediation to understand the text. uh it's it's hard not to do that. needless to say you could have your, own private guru, which would then give you things in what appears to be non-mediated form right? in that case, then you don't have to go through this process of reasoning history, reasoning literature. and what i wanted to do today i don't know if i'll finish but i'll begin, is talk about the uh one particular story. and the extent to which, just to begin to understand the story we actually have to do just what, Cort is finding problematic which is, to use history as a, way of measuring, the meaning. right? determining the mean- meaning, and also reflect, on the text as literature. and also on the text as genre or as we've said before as a collection of genres. uh genre as a way of speaking, uh when we talk about scriptural text right, presents interesting problems, some of which are not just merely aesthetic but also are cultural. in other words if you have varying genre or a genre that you cannot recognize as your own, are you in fact talking about different cultural values that go deeper than just the form as people would say. and i would argue that they do. that they do present cultur- major cultural differences. and that you have to come to grips with those cultural differences and with those, forms of the genre, if you are going to begin to get some sense of of what a text means. now, these particular texts are, complicated further like many of the texts we're looking not all of them, many of the texts we're looking at, is complicated further by the fact that, we know so little about its history. or their history because there's more than one person. now what Keith Damen did in his book and some of you pointed it out, uh when we read the passages at the beginning of the course, uh what he does is he creates artificially right? a a complete context. um, he does it in three ways. you i think, caught the f- the last two but not the first. and the first way in which he does it is by writing his own story. in other words, these are really not translations. they're compilations. right? um, and, and the second thing he does is he offers as a commentary that he calls the <FOREIGN> sadhana </FOREIGN> , which i find interesting that he uses that word, because of the authority that the word carries and i guess now you understand what the word means right? from our, previous reading. um a <FOREIGN> sadhana </FOREIGN> is both a ritual and a meditation and therefore, means, it is both tradition and individual realization at the same time. so to call your, footnotes, uh <FOREIGN> sadhana </FOREIGN> implies that they are in fact, the truth, of the text somehow. and then he includes this historical section which, is in itself problematic, uh for many reasons that i'll mention in a few seconds, okay? so the uh the story that i wanted to look at is the story of Santideva uh, first because it's the one i know best and second because, it's one in which we have actually a lot of sources, and not just a couple. um, the version that he uh, uses as his primary source is the uh Abhahayadatta version that, i'll say more about that, soon. um, but then of course he elaborates it in his own way and adds things, he also adds verses that are taken from the Caryagiti. now what i find interesting in the historical section i wanna say a few things before i start, say somethi- saying something about how i read the story. what i find interesting is that he is, still in the same mode in which, scholars have been with these stories since they were first, introduced in the West. um and they were first introduced in the West way back in eighteen-nineties in the eighteen-nineties. um and that is, reading the stories as if they were some kind of historical, account. and therefore, if the story talks about Santideva and calls him Bhusuku then the first question that arises is well was, were there two Santidevas? it's um, it's almost like watching a Western right? where you know how it's gonna end, and whenever you find <EVENT DESC="LAUGH"/> one of these legends, you know that somebody's gonna propose <OVERLAP> two </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> two of them, yeah </OVERLAP>
+				</U> two of them right, <EVENT DESC="LAUGH"/> which makes the whole enterprise doubly suspect that there are, two Nagarjan- actually three Nagarjanas two Avasabandhus two Santidevas etcetera etcetera. um and, clearly we have a problem. i mean we <EVENT DESC="LAUGH"/> we have a problem we're not understanding what these people are trying to do with these stories. um so he distinguishes for example <SEG TYPE="READING"> the Sitapur, Bhusukupadha who may have been ordained </SEG> this is on page two-twenty-seven, <SEG TYPE="READING"> by the Abbot of Nalanda, Jayacada at the beginning of the ninth century. and who wrote in the style associated with (Sahaja.) has a song that echoes Santideva's explanation of his flesh-eating habit in our legend, and the song says what is uncreated from the beginning can have neither birth nor death nor any kind of existence. Bhusuku says this is the nature of all things. nothing comes or goes and there is neither existence nor nonexistence in Sahaja. </SEG> now how you get flesh eating from this line, really baffles me okay? <SEG TYPE="READING"> in another song Bhusuku sings, i have steered the thunder boat through the canal of the lotus and cast all of, off all afflictions after reading Nanjiobengal. today, Bhusuku has indeed become a Bengali, for he has taken Acandali a- as his wife. </SEG> again i'm not too sure what he intends to do with these lines. <SEG TYPE="READING"> this song seems to indicate that Bhusuku was originally from outside Bengal. but although there is no reason why the writer of the ethically immaculate Bodhicaryavatara should not also write songs about his Acandali consort. the principle that induced him to write his songs in the vernacular should also have been applied to his popular discourse in the Bodhisattva's path, which was written in Sanskrit. other lines of Bhusuku that stick in the mind are, dark as night </SEG> etcetera etcetera i really don't know what he's trying to say. <EVENT DESC="LAUGH"/> notice that the implicit arguments, uh for which the evidence is really not there right? first argument. that, this, in the legend of Santideva, the eating of flesh, is somehow based on some kind of philosophical notion about the identity of birth and death right? which, <EVENT DESC="LAUGH"/> how does that follow? i have no idea. then, that he's originally not from Bengal because he has reached the Nanjiobengal, uh Marvin can you say something about that? </U>
+			<U WHO="S5"> sorry say again i wasn't <OVERLAP> (listening) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Bengal </OVERLAP> the theme of Bengal have you seen it before? </U>
+			<U WHO="S5"> the theme of Bengal in? </U>
+			<U WHO="S1"> in the Caryagiti? <U WHO="S5"> oh </U> it's a common trope. it's a common trope, so about half of them would have been born outside of Bengal according to this argument. and clearly what Bengal here is some kind of uh s- uh, abstract or symbolic use, of the location of the of the uh <FOREIGN> siddha </FOREIGN> . so maybe they were maybe they weren't. i mean we have no way of knowing, if one of them says that, then yeah but if, you know four or five six seven of them say it then, <EVENT DESC="LAUGH"/> you begin to wonder, what are they sa- talking about when they say, you know. and al- they, also the theme of marrying a Bengali woman, it's this common theme and it, must have some kind of symbolic meaning. and the commentaries give it a symbolic meaning i'm not sure if that's what, what it has but, i suspect that it did have some symbolic meaning. okay. uh so that's the, th- notice how it's all a question of taking, a a strip of text and trying to derive from it some kind of factual history. it's as if that's the only way you can read, the particular texts. so, but notice that it's not using history to clarify the text, but using the text as, the scriptural basis for historical arguments exactly, upside-down what Cort was talking about right? okay then the question of the Acandili consort he says <SEG TYPE="READING"> the principle that induce him to write his songs in the vernacular, should have been applied to his popular discourse in the Bodhisattva's path </SEG> etcetera, it's a, beautiful example of how you can construct a historical narrative and confuse it with fact right? uh in fact his, the the very use of the words <SEG TYPE="READING"> the principle that induce him to write his songs </SEG> so, it is a fact. uh he somehow decided, consciously to use the vernacular. right? it is decided that that was not, the natural way in which he would write. i me- on what basis? on what basis? </U>
+			<U WHO="S5"> but even if you say that it still doesn't, follow. </U>
+			<U WHO="S1"> right yes <U WHO="S5">
+					<OVERLAP> (from) from him </OVERLAP>
+				</U>
+				<OVERLAP> ex- exactly exactly. </OVERLAP> and then he says, the the popular discourse i mean it's popular in in at the end of the twentieth century in the West but <EVENT DESC="LAUGH"/> in India it is not exactly popular. you you didn't uh, go to the local bookstore and get the Oxford University Press, version of Bodhicaryavatara to take it home and read it uh you know by your, uh uh at bedside or whatever. um, so i- it's fascinating how he's trying to come up with some kind of historical narrative, when there really is no no way of coming up with that narrative. </U>
+			<U WHO="S5"> when you talk about him doing this backwards i almost got the, sense that, you know he chose to, publish the the biographies in order to give him the space to talk about, his own, <OVERLAP> sort of ideas about something </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well of course </OVERLAP> yeah yeah. but that's what we all do right? </U>
+			<U WHO="S5"> well no but instead of, sort of beginning with with the, translations and working on the commentary it becomes like his commentary is <U WHO="S1">
+					<OVERLAP> oh okay yeah yeah sure sure </OVERLAP>
+				</U>
+				<OVERLAP> almost the, the main thing </OVERLAP> and the story's gonna, support it. </U>
+			<U WHO="S1"> there are different extremes. <U WHO="S5"> yeah </U>
+				<EVENT WHO="SU-m" DESC="LAUGH"/> yeah no you're right yeah. but you know this uh question of of uh creating a narrative, that because it is a narrative sounds true is pervasive. it's pervasive and any time you read a history of Buddhism for example, you'll find it. all the time. in some ways maybe it's not, avoidable i'm not sure. okay so let's talk about the legend and see how, how much we can do in the time that is left to us. the legend um, is known today, um in in six versions. they differ to greater or lesser extent. som- they have some common themes, but some of them are longer than others and some have more elements than others some s- do not have the elements found in another one. the most uh ancient seems to be the one by Abhahayadatta which was, the basis for, Damen but which uh, Robinson, what's his first name, anybody know, Robinson's first name? </U>
+			<U WHO="S2"> Richard? </U>
+			<U WHO="S6">
+				<OVERLAP> no, um </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no it's not </OVERLAP> Richard it's the other Robinson. Robert? </U>
+			<U WHO="S6"> i- i- doesn't he use initials? to Robinson? </U>
+			<U WHO="S1"> yeah i, it's probably in here somewhere but, anyway. it's the Abhahayadatta. <PAUSE DUR=":10"/>
+				<EVENT DUR=":07" DESC="PAUSE WHILE WRITING ON BOARD"/> and that's the oldest version. probably, as all of these things are, from the twelfth century. and this is the one that is known as the deeds of the eighty-four <FOREIGN> siddhas </FOREIGN> , and uh, it was first translated into a European language, it's actually the second of these versions to be translated into a European language. it was translated in nineteen sixteen into German. and then more recently by Robinson into English. </U>
+			<U WHO="S3"> Robinson as in Robinson and Johnson? </U>
+			<U WHO="S1"> uhhh, no no no. that's Richard. <U WHO="S3"> right </U> yeah that's Richard, no no. this is a different Rob- uh different Robinson. also from Wisconsin but not <U WHO="S3"> yeah </U> he probably got there after the first Robinson had died. the first Robinson died in an accident. he was like relatively young. okay, uh the second version which is from, probably the end of the twelfth century or beginning of the thirteenth, is a commentary by Guticanda which is preserved only in Tibetan, and is a commentary for the Bodhicaryavatara. <EVENT DUR=":09" DESC="PAUSE WHILE WRITING ON BOARD"/> so. </U>
+			<U WHO="S6"> it's James Robinson. </U>
+			<U WHO="S1"> James? <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> yeah James </OVERLAP> E Robinson </U>
+			<U WHO="S1"> okay, thanks... <EVENT DESC="WRITING ON BOARD NEXT :43 OF UTTERANCE"/> now these are... collections of... of actual legends. so this is the basis for, for this one and the Robinson book. whereas this one is a commentary, to Santideva's... most famous work <EVENT DUR=":07" DESC="PAUSE WHILE WRITING ON BOARD"/> and i don't want to qualify everything that i say, out, of existence, <EVENT WHO="SU-m" DESC="LAUGH"/> uh but needless to say when i say most famous means, today in the West it's the one that people know best that's all that it means, i don't wanna, it doesn't mean anything about how it was read in India or Tibet or, how it's gonna be read in next year or anything like that. <EVENT WHO="SU-m" DESC="LAUGH"/> you got to be careful these days you don't wanna create canons right? okay. <EVENT DESC="LAUGH"/> and that's only preserved in Tibetan. however, </U>
+			<U WHO="S3"> does it talk about the stories at all? </U>
+			<U WHO="S1"> yeah yeah. that's uh i, we're talking about the st- the story. </U>
+			<U WHO="S3"> okay the the the story that, <OVERLAP> Santideva (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Santideva's </OVERLAP> right yeah. Santideva is is our topic <U WHO="S3"> okay </U> behind everything i say. <U WHO="S3"> okay </U> Santideva's legend. so, this one being a commentary, includes the legend sort of le- let me tell you who the author was etcetera. it's really important you'll see later on when i say something about the legend, it's really important that it's there, because one of my arguments is that one of the functions of these legends is as commentaries to the texts. okay in other words it's telling people how to read particular texts. um </U>
+			<U WHO="S5"> first one is still, extant in Sanskrit? </U>
+			<U WHO="S1"> nope Tibetan. <U WHO="S5">
+					<OVERLAP> only in Tibetan? </OVERLAP>
+				</U>
+				<OVERLAP> in fact, </OVERLAP> so le- uh let's put it next to it since uh, <EVENT WHO="SU-m" DESC="LAUGH"/> i forget you guys wanna know about this. </U>
+			<U WHO="S3"> i'm gonna read it, this evening. </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S3"> i'm gonna read it this evening. </U>
+			<U WHO="S1"> this evening oh okay <EVENT WHO="SS" DESC="LAUGH"/>
+				<EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> uh, the colophon okay? do you know what colophon is? okay... tell her what a colophon is. </U>
+			<U WHO="S5"> it's a little blurb at the end of, </U>
+			<U WHO="S1"> a little blurb at the end of okay <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> a book that <EVENT DESC="LAUGH"/> usually tells who the author was and the circumstances in which it was written and published in. </U>
+			<U WHO="S1"> so it's equivalent of what? <OVERLAP> in modern books? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> an </OVERLAP> introduction. <U WHO="S3">
+					<OVERLAP> an introduction? </OVERLAP>
+				</U>
+				<OVERLAP> or </OVERLAP> a preface, <U WHO="SU-3"> signature </U>
+				<U WHO="S1"> or a preface uh </U> or the <OVERLAP> back </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> sometimes sometimes </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> back matter, </OVERLAP>
+				</U> a title right? </U>
+			<U WHO="S3"> back matter, right? </U>
+			<U WHO="S4"> the author blurb? </U>
+			<U WHO="S1"> uh not quite back matter. it's more like, what you would get in the title page. <U WHO="SU-5"> yeah title page that's what i (xx) </U> right, so it tells you, what the complete title is who the author is, when it was done, <EVENT WHO="SU-m" DESC="LAUGH"/> but in the old manuscripts it came at the end, okay, interesting. and sometimes also it may have like the blurb at the end may have something saying, and this was the greatest man who ever lived and you should read this book you know, kinds of things that, <U WHO="S4">
+					<OVERLAP> is a professor of religion and literary studies. </OVERLAP>
+				</U>
+				<OVERLAP> make you buy this book and it's </OVERLAP> what's that? </U>
+			<U WHO="S4"> is a professor of literature and literary studies at Duke University </U>
+			<U WHO="S1"> right yeah. yeah they'll say something like he was a monk at such a monastery so you know so you see those things have been around for a long time, this is the way you write it. in uh, i- in countries like France, Italy, Spain, books sometimes still have colophons. and will say this book was printed in such and such a place and the author is such and so at the end. and they also have title of course. okay so, um, the colophon to this one, suggests that it was transmitted orally, so that, uh, Abhahayadatta, did not give them a text for them to translate but actually recited the stories. and if that is the case that makes it, interesting. because what that means is, that there was an oral tradition, recounted in these tales. okay. at this point, uh let me clarify at this point most of the te- most of the texts a vast majority of the texts brought from India were, brought in manuscript form. so the fact that this was brought orally would suggest that it was in fact, orally transmitted at that time. okay. um, the third one, uh and and again just to make sure, uh the point is clear, the third version of the legend, is almost identical with the second one, and, may be in fact, a variant, redaction of the story. and it is from the fourteenth century and it is preserved in Sanskrit, and doesn't have a title it was a fragment, discovered in Bengal, so <EVENT DESC="WRITING ON BOARD NEXT :07 OF UTTERANCE"/> fourteenth, Sanskrit, and, Bengali manuscript. okay? um, what's a redaction? we wanna make sure that, our, critic here, knows that you know. so what is a, a redaction? i said, this is probably, right, the redaction of the same. story of number two. so what's a redaction? </U>
+			<U WHO="S5"> sort of retelling of the story in your own words? </U>
+			<U WHO="S1"> right and of course i- i- it doesn't have to be a, a retelling cuz the two may be at the same level historically, right? uh, so it's really <U WHO="S5">
+					<OVERLAP> reformulation </OVERLAP>
+				</U>
+				<OVERLAP> a different, </OVERLAP>
+				<U WHO="S3"> (finished) </U> a different reformulation that's presented as a finished text right? uh so if you have two, let's say you get two copies of this book, and, you find that, page two-twenty-seven where it says <SEG TYPE="READING"> adding some interesting details... </SEG> your version says, and, there were also some details that might be of interest. would those be two redactions? <PAUSE DUR=":05"/> this one and the other one? <PAUSE DUR=":07"/> not necessarily right, not necessarily. usually re- redaction implies what John? </U>
+			<U WHO="S6"> um, a- a- a- just some more significant difference <U WHO="S1"> right </U> in the structure or, <U WHO="S1"> right </U> of the the </U>
+			<U WHO="S1"> the implicit uh, assumption which is not necessarily true but the implicit assumption is, that a redaction is a conscious effort to close the book in some ways and say this is it, and that therefore the difference would have to be greater than the kind of differences that you could attribute, to typos nowadays and to, <FOREIGN> lapsus calumni </FOREIGN> in the old days right? and that's that's the, any m- kind of mistake that the scribe would make so, it has to be more than that. and therefore redactions often reflect differences in tradition, differences in the community that produced the text and things like that. but all of these are, reasonable assumptions doesn't mean that they are, necessarily true right? you could have two separate redactions within the same community <U WHO="SU-m"> same </U> etcetera etcetera. okay? so. number three is probably an, other redaction of this text. preserved in a separate manuscript. and number four, um, lost my place, oh by the way that was first known in the West in nineteen-thirteen. so note i, wanna remind you how early these things were known. um then the fourth one is from the fourteenth century, and it's by an old friend of ours <EVENT DUR=":06" DESC="PAUSE WHILE WRITING ON BOARD"/> okay, (Cynthia's) history of Buddhism, um and it was first made known in the West in nineteen thirty-one. the fifth, is from the seventeenth century, and it's uh from, someone who, i'm sure is an old friend of some of yours but i'm not sure, in this class, we've met him yet. <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> okay. so John? who was this person? </U>
+			<U WHO="S5"> do- he was um, a important Tibetan scholar that um, is, uh was important in, formulating the collections of uh texts that had um, <U WHO="S1"> mhm </U> sort of been studied in Tibet for a long time and trying to systematize them. and he wrote a very influential history of Buddhism. that tried to present the history of Buddhism in India. and (xx) </U>
+			<U WHO="S1"> well in the fourth century, in the fourteenth century he was, trying to present some kind of, coherent right? not ludic incoherence <EVENT WHO="SS" DESC="LAUGH"/> but some kind of coherent, story of Buddhism right? and it which was produced for Tibetans, and he also, you can speculate although there's some evidence to this effect that he spent a lot of time in a huge library. uh putting the books in order. sort of like a librarian except that, this is much more of a challenge than being a librarian. putting them in order, labelling them classifying them, and his classification are the basis for contemporary, Tibetan canons the collection of scriptures. um so that's, why i was looking for the word polymath last night uh, cuz he was a polymath, <U WHO="SU-m"> polymath </U>
+				<U WHO="S6"> he was <OVERLAP> a polymath right </OVERLAP>
+				</U>
+				<OVERLAP> meaning </OVERLAP> someone who knows many different fields <U WHO="S6"> right </U>
+				<EVENT WHO="SU-m" DESC="LAUGH"/> okay, um having nothing to do with mathematics i guess. well it does historically but, okay and Taranatha who was Taranatha? </U>
+			<U WHO="S5"> was he another, influential Tibetan scholar? in (Jonah?) uh, and he grew as a great historian among other things, <U WHO="S1"> mhm </U> um he was also interested in these kind of, uh lineages of teachings and especially concerned with the t- people, who transmitted the lineages. </U>
+			<U WHO="S1"> right mhm, uh by the way these two figures, uh it's a footnote it's a big footnote but it's an important footnote. show that the whole issue of history as scripture is much more complex than Cort assumes, <U WHO="SU-m"> mhm </U> because here you have, these were not the only histories of Buddhism that were produced in Tibet by the way, many were produced these are just the most famous one. but it shows that, at the very least that at that uh stage probably earlier than that, history was scripture. that's why <U WHO="SU-m">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> you had </OVERLAP> to construct it <U WHO="SU-m"> yeah </U> right? a parallel scripture in some way. so then it's, once more modernity goes out the window right, it's been around for a long time. <EVENT DESC="LAUGH"/> it wasn't invented in fourteen ninety-two. um, now, let me tell you something about Taranatha you probably don't know. very important. when i visited Bod Gaya many years ago, there was this uh young, Indian, adolescent basically who later impressed me by the fact that he spoke Japanese very well, uh who offered to be my guide. and i said okay sure and then he was my guide and he showed me different things and at one point he says, and you know there is this professor, doctor Taranatha. who says <EVENT DESC="LAUGH"/> that this building was constructed in such and such a date <U WHO="SU-f"> ooh </U> and i thought it was kinda cute that he that he you know he was a scholar he has to be a professor and has to be a doctor <U WHO="SU-m"> doctor right </U>
+				<EVENT DESC="LAUGH"/> but goes without saying. okay so that's number four. then, uh uh i'm sorry that's number five from the seventeenth century, and actually it was the first one to be published in a modern translation, in eighteen sixty-eight. the last one and we've, i think actually seen uh last term we saw in a class, and it's from the eighteenth century, and it's the one by Sumpa Mkhanpo. <EVENT DUR=":19" DESC="PAUSE WHILE WRITING ON BOARD"/> okay, and that was published in in a modern transla- uh edition, in ninenteen-oh-eight. so notice how early <U WHO="SU-3">
+					<OVERLAP> (early these were) </OVERLAP>
+				</U>
+				<OVERLAP> these things </OVERLAP> were known in the, known, in the West. as i noted, notice earlier when people are confronted with this variety of legends, plus the fact that, Santideva is called by at least three names in the legend. the historian then uh, sort of the instinctive reaction of the We- Western historian is to say well this, <EVENT DESC="WRITING ON BOARD NEXT :28 OF UTTERANCE"/> is a problem because, we can't get this uh, fact straight... we have six versions of the story, three names, and we have certain words attributed to Sa- Santideva, and some attributed to Bhusuku, which seem to be very different and therefore by two different persons. so, presented by that, evidence, then the instinctive reaction of the Western historian is to say well then we have to take the legend and break it to pieces. and say well this part is about Bhusuku this part <U WHO="SU-m">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> is about </OVERLAP> Santideva. (hm?) and that might be true in a sense of history particular sense of history, but the truth is that the legend is presented as some kind of unit so that, it raises all sorts of, other issues. that we have to, approach. so... just so that you know, as we move, sort of giving you the footnotes, so i won't, have to interrupt myself later, the words attributed to Santideva <EVENT DUR=":27" DESC="PAUSE WHILE WRITING ON BOARD"/> okay, so these two are anthologies <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> sort of the, classical equivalent of a course pack, right? <EVENT WHO="SU-f" DESC="LAUGH"/> and without any any copyright, <U WHO="SU-m"> right </U>
+				<EVENT DESC="LAUGH"/> costs, but without the Xerox machine so, take your pick. <EVENT WHO="SU-m" DESC="LAUGH"/> okay? and this one is survey or a, general introduction to what it means to be a Bodhisattva. and this is, as we said before, has been extremely, famous in the West since about nineteen, when was the first translation in the nineteen twenti- i, no it was before nineteen twenty nineteen ten more or less. okay? um, the Caryagiti is a collection of poem, oh th- these by the way were originally in Sanskrit. and these two are preserved in Sanskrit, <EVENT DESC="WRITING ON BOARD NEXT :13 OF UTTERANCE"/> this one isn't, so for this one you have to go to Tibetan and Chinese. this one presents all sorts of problems and we won't go into that <U WHO="S5">
+					<OVERLAP> are they </OVERLAP>
+				</U>
+				<OVERLAP> because it's not too, </OVERLAP> hm? </U>
+			<U WHO="S5"> are they still studied traditionally, the the first two? </U>
+			<U WHO="S1"> no... this one of course is <U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> right. </OVERLAP> s- this one also, which i find really interesting, provides of course a lot of models for ritual even today, in certain Tibetan communities, and i've always found it interesting that the Siksasamucaya, could do_ perform that role and it didn't, <U WHO="S5"> oh </U> so you know why? it's it's hard to tell why. okay. the, these are, written not just in Sanskrit but in classical Sanskrit, they clearly reflect, a very scholastic well trained mind, very important to understand the legend because the legend has a lot to do with that, whereas this one is written in Apabhramsa <EVENT DUR=":10" DESC="PAUSE WHILE WRITING ON BOARD"/> which is, a ver- a vernacular, actually a literary language. it's not a popular language as uh, Damen implies and uh Robinson also does that. um, the Apabhramsa is is a vernacular in the sense that it is not Sanskrit, but is a literary language in other words it's a written language, and clearly a language of people who had some, degree of education it's like not it's you know, the language of the streets as often the books suggest. but still, it's a, very different language from Sanskrit, so there already you have a question you know how come, you have these two? is it the same person? writing about these, (xx) t- two different styles two different forms, or is it more than one person? this is the question we raise and i suspect the tradition to a certain extent raise and was trying to solve, with the legend. especially the question of the authorship of these works. so, more about that, as we proceed. so, first of all i'm going to give you, sort of highlights of the legend which are, a combination, of Taranatha's version and Vibhuticandra's version. so that's, means it's a combination of, number two and, uh that was what <U WHO="SU-m">
+					<OVERLAP> five </OVERLAP>
+				</U>
+				<OVERLAP> number </OVERLAP> five. okay. um, and the reason i'm doing that, sort of, conflating the two, is not because i believe that's a good, philological or historical method, <EVENT DESC="LAUGH"/> but so that you can see how, the legend, is reflecting different moves in the tradition. so when you put the one next to the other then you can see how, one is addressing one issue and one is addressing another issue. to understand the story there you really don't need to know much except what i've put on the board, and also, just in case you need to know something about, one of the characters in the legend... because he appears several times and i think his appearance is significant. <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> okay? pop quiz who is he? who is Manjusri? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> bodhisattva of wisdom? </U>
+			<U WHO="S1"> uhuh okay. you don't need to explain bodhisattva right? i think we did that, already. remember that time we did it, okay? <EVENT DESC="WRITING ON BOARD NEXT :09 OF UTTERANCE"/> so bodhisattva of wisdom, what else? </U>
+			<U WHO="S5"> someone who often appears, in visions, to people <U WHO="S1">
+					<OVERLAP> people uh, yeah that's right </OVERLAP>
+				</U>
+				<OVERLAP> like he does in this text </OVERLAP> and sort of, gives the, crib sheet just before some major event, <U WHO="S1">
+					<OVERLAP> exactly yeah </OVERLAP>
+				</U>
+				<OVERLAP> sort of helps </OVERLAP> people <U WHO="S1"> mhm </U> out or, empowers them to do <U WHO="S1">
+					<OVERLAP> right mhm </OVERLAP>
+				</U>
+				<OVERLAP> something, just in the last </OVERLAP> (xx) </U>
+			<U WHO="S1"> so if you see the bodhisattva of wisdom in a dream or in,n or a- or in front of you which is not the same thing by the way there's a big difference i mean traditional is aware of that there's a big difference between a dream and actually seeing it in front of you. if that happens, if that happened to you Marvin what? </U>
+			<U WHO="S5">
+				<EVENT DESC="LAUGH"/> it's good. </U>
+			<U WHO="S1"> yeah will it uh it's great. <EVENT DESC="LAUGH"/> why? </U>
+			<U WHO="S5"> uh because he's sort of is able to confer, on you uh great wisdom <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> or the ability </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> uh of analytical reasoning or </U>
+			<U WHO="S1"> right yeah yeah you know if he appears in front of you it's almost like, i'm the one right, so it's, it's important. so it confers or confirms wisdom. which wisdom? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S7"> perfection of wisdom? </U>
+			<U WHO="S1"> right perfection of wisdom right? <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> what is the perfection of wisdom? i rewrote it this way on purpose right? cuz perfection of wisdom sounds technical it's meant to sound technical. uh, this one sounds like, just any wisdom that is perfect right, but this one in particular is a particular tradition of wisdom. and he's associated with that tradition right? so, what's the Sanskrit Sung for perfection of wisdom? </U>
+			<U WHO="S7"> uh <FOREIGN> prajnaparamita </FOREIGN> . </U>
+			<U WHO="S1">
+				<EVENT DUR=":08" DESC="PAUSE WHILE WRITING"/> and this is, particular kind of wisdom but it's also a book right? or a set of books depending on how you look at it. so what that means is that Manjusri's pretty specific. he's always associated with that tradition. so when you say the bodhisattva of wisdom that sounds very nice but it's really not, faithful to history because he's the bodhisattva of particular kind of wisdom. he does not appear to Yogachara people. he appears to Madhyamika people right? that's the problem with religion right <U WHO="S2"> yeah <EVENT DESC="LAUGH"/>
+				</U> it's always has to be specific to one group. it can never be what it claims to be. okay... it's distressing. <EVENT WHO="SS" DESC="LAUGH"/> okay. and what <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> now, are you with us so far, <U WHO="S8"> mhm </U> up to here? okay so now they're gonna tell you what this is, <U WHO="S8"> okay </U> don't worry they know. <U WHO="SU-m">
+					<OVERLAP> (i'm getting too old) </OVERLAP>
+				</U>
+				<OVERLAP> okay. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> would you like me to say it again? it's in my notes </U>
+			<U WHO="SU-m"> thanks </U>
+			<U WHO="S1"> it's better that i embarrass you here then uh you get embarrassed in front of a large group of undergraduates. <EVENT DESC="LAUGH"/> so what does it, mean. </U>
+			<U WHO="S5"> the middle way between the extremes of, <U WHO="S1"> uhuh </U> permanence, and nihilism. <U WHO="S1"> alright. and <OVERLAP> historically </OVERLAP>
+				</U>
+				<OVERLAP> or absolutism </OVERLAP> and nihilism. </U>
+			<U WHO="S1"> and historically? </U>
+			<U WHO="S5"> uh historically it's said to be a philosophical view that was developed in reaction to, earlier philosophical views that, held phenomena to actually exist as they appear to exist. </U>
+			<U WHO="S1"> okay now we, slow it down a little bit first it's a philosophical view. <U WHO="S5"> view </U>
+				<EVENT DUR=":06" DESC="PAUSE WHILE WRITING ON BOARD"/> and where do views exist? </U>
+			<U WHO="S5"> in the minds of people. </U>
+			<U WHO="S1"> and if Stanley Fish were here what would he say? </U>
+			<U WHO="S5"> in the minds of professionals? </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="SU-m"> interpretive communities </U>
+			<U WHO="S1"> interpretive communities right, yeah yeah, the there is a, i forgot the Latin, exact Latin but it's attributed to Seneca anyway it says, there is no, single bad book. you know (there's) every book has something to teach you. so we might criticize Fish but please try to learn from Fish right? i mean that's part of the, philosophy of my class so. so, we might criticize the full implications of the notion but it's pretty, darn good notion right? there's an interpretive community, that has to be behind the view. otherwise they're in the view right, and an interpretive community usually has what else? </U>
+			<U WHO="S6"> an institution. </U>
+			<U WHO="S1"> an institution. right? so what would i- what do we call, interpretive communities that are institutionalized? </U>
+			<U WHO="SU-m"> univer- </U>
+			<U WHO="S5"> universities </U>
+			<U WHO="S1">
+				<EVENT WHO="SS" DESC="LAUGH"/> good okay touche. <EVENT DESC="LAUGH"/> schools right? schools yeah. actually we would have to say departments right? <U WHO="SU-m"> yeah </U>
+				<EVENT DESC="LAUGH"/> not university, or maybe even factions within departments right? <EVENT DESC="LAUGH"/> okay school. so this is a particular school right, so if Manjusri appears, Marvin i'm sorry to tell you, it's not confirming you're a wise man <U WHO="S5"> it's </U> it's just confirming that you're a Madhyamika. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> uh it, no that's absolutely, i never thought of it like that but it's </U>
+			<U WHO="S1"> yeah yeah yeah it's it's good enough but it's not as great as. right? <EVENT DESC="LAUGH"/> uh needless to say implicit in, if if you s- instead saying Madhyami- saying Manjusri appears, of course then it's meant to add right, it's meant to add to it. that it is more than, a particular school. okay. good. </U>
+			<U WHO="SU-5"> it's only Majtraya that appears to Yo- </U>
+			<U WHO="SU-m"> Yogachara </U>
+			<U WHO="S1"> yes exactly you got it right. now if both appear to you then you're on the right track to eclecticism. right? <EVENT DESC="LAUGH"/> or syncretism. </U>
+			<U WHO="S3"> or the wrong track to syncretism. </U>
+			<U WHO="S1"> yeah right yeah. the downward spiral. <EVENT DESC="LAUGH"/> okay. </U>
+			<U WHO="S5"> this must be the ludic incoherence <OVERLAP> that (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah right ludic incoherence huh? </OVERLAP> um okay. so, this particular school, uh now is your turn Marvin now you can tell us something about, what did they, think? </U>
+			<U WHO="S5"> what do they think. they propound a view which is, said not to propound any view at all. <U WHO="S1"> uhuh </U> because any view falls to one extreme or another. </U>
+			<U WHO="S1"> right. therefore, normally what can you predict about their way of speaking? <OVERLAP> uh rhetoric </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> uh </OVERLAP>
+				</U> or the genre? </U>
+			<U WHO="S5"> they sort of, circumvent the issue altogether or they circumvent, making any claim, <OVERLAP> at all? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm mhm. </OVERLAP> um therefore they'll say something like, it is but it is not, it both is and is not you've <OVERLAP> heard that right, </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> right neither </OVERLAP> is. </U> neither is nor is not is not. and very important in the, in the legend itself, also. okay. that's a long footnote, <EVENT WHO="SS" DESC="LAUGH"/> before we talk about the actual story. so, now we gonna <OVERLAP> tell you the sto- </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> a long </OVERLAP>
+				<FOREIGN> saddana </FOREIGN> before you (xx) </U>
+			<U WHO="S1"> right long <FOREIGN> saddana </FOREIGN> . <EVENT DESC="LAUGH"/> actually since you have the <FOREIGN> saddana </FOREIGN> you don't need the story right? <EVENT WHO="SS" DESC="LAUGH"/> okay the story. Santideva was born in Suvastra, in western India, and not all versions of the story tell us where he was born... but Taranatha does. <EVENT DUR=":10" DESC="PAUSE WHILE WRITING ON BOARD"/> even as a child he saw in his dreams, fill in the blanks <U WHO="SS">
+					<FOREIGN> landusri </FOREIGN>
+				</U>
+				<FOREIGN> landusri </FOREIGN> of course. yeah you gott- you know that's the only way you can enjoy, any kind of literature, is by being able to predict that's part of the enjoyment uh in case you hadn't noticed that. uh that's the enjoyment of classics. like you go to Shakespeare because you know the play. right? you don't go if you don't know the play. you go to the opera because you know the plot and part of the enjoyment is predicting, and seeing how it's realized okay, so, okay. by the way, i'm i should mention, that Manjusri the whole a collection of the eighty-four <FOREIGN> siddhas </FOREIGN> , appears only twice, uh i mean several times in Santideva and then, another time in the life of which <FOREIGN> siddha </FOREIGN> can you predict which <FOREIGN> siddha </FOREIGN> ? </U>
+			<U WHO="S6"> Nagarjima? </U>
+			<U WHO="S1"> Nagarjima right exactly. so that, in certain way that confirms his role. Manjusri's role in the legend. okay. so, when he reached the age of maturity when he was to become the king of Suvastra, in a dream, <U WHO="SU-m"> (xx) </U> Manjusri appeared to him, and he appeared, sitting on the throne of his father, of s- of Santideva's father. and then he said my child, it is unseemly that we both sit on the same throne. therefore, you should give up the idea of becoming a king. he woke up, and then, that morning, during the rite of consecration, which in India involves sprinkling water over the head of the prince, the queen, threw, hot boiling water over his head. when he couldn't resist it any more <EVENT DESC="LAUGH"/> which also was the minute it hit him but anyway, <EVENT WHO="SU-m" DESC="LAUGH"/> uh the mother then gave him some advice. she says my child, if you become king you will commit many sins. give up the idea of becoming king, so sort of confirming what Manjusri had said. give up the idea of being a king my dear son go to the land of Buddhas and bodhisattvas right, it's like the whole, metaphor is couldn't be more clear. and there, in that land you will receive the blessing of, fill in the blank <U WHO="SS"> Manjusri </U> Manjusri uh okay, you're getting good at it. then he respectfully accepted, his mother's orders. right this was before our century right? so <EVENT DESC="LAUGH"/> he sets out goes into the forest and keeps on going without eating drinking or sleeping cuz he's so eager to meet the bodhisattvas, then all of a sudden he sees a beautiful damsel, that's an important element in all these stories, and as he sees her he also sees water, and he runs to the water because he's thirsty notice, that's right the mistake right, uh in the order of things, and she says stop. that water, is poisonous. right it's poison, water, (music) of desire. notice how the beautiful damsel represents not desire but the opposite, interesting. then she prepared food for him. it's interesting by the way, that in Vibhuticandra version uh she prepares meat for him. <U WHO="SU-m"> huh </U> which uh then makes other parts of the story less surprising you know when he actually eats meat. i don't know what to make of that. then he ask her who she was and she said that he was studying with a great teacher, who had reached, the <FOREIGN> samadhi </FOREIGN> of Bunjubujra which is really a temperate manifestation of Manjusri. and he asked to be taught so he went to the teacher and he lived with that teacher, for twelve years. at the end of that time, the teacher sent him away, because he had already, had a vision of Manjusri. and th- this is a vision now not a dream right? and he went then to Madyadesa. Madyadesa means central India. central India. <EVENT DUR=":07" DESC="PAUSE WHILE WRITING ON BOARD"/> but in much of the literature of Buddhism Madyadesa is identified with the, sacred land right, because this is the land where the Buddha lived and also the land where Nalanda the great university was. so he went there, and in the kingdom of Magadha <EVENT DUR=":06" DESC="PAUSE WHILE WRITING ON BOARD"/> pop quiz, why is that important? </U>
+			<U WHO="S5"> it was one of the place where the Buddha made, <U WHO="S1"> right </U> his kind of, centers for, <U WHO="S1"> right </U>
+				<OVERLAP> (xx) (yeah) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> his preaching was, </OVERLAP>
+				<U WHO="S5"> right </U> mostly in Magadha. mhm. and there he served the king of Magadha. and serving the king of Magadha he became, um, a knight under his service. and he was called Acalasena so that's when we find, first time we find a name for him. sometimes they begin the story with this name some times they say a, young man. without giving him a name until you've reached that point. he assumed that name, Acalasena and served the king as one of his knights, and as a knight he had to carry a sword. but his sword was made of wood. it was a wooden sword, and he never took it out of the sheath. that way, he was able, to serve the king as a knight, and yet preserve the dharma. okay? <EVENT WHO="SU-m" DESC="LAUGH"/> now the other knights were jealous of him. because he was so happy. <EVENT DESC="LAUGH"/> he was smiling dharma all day. and, then they told the king there's something fishy about this knight. ask him to show you his sword. we think that he has a wooden sword, in which case he could never defend you if we were attacked. so the king finally agreed and he, ask all the knights to come before him for inspection. when he asked Santideva to show his sword or uh Acalasena to show his sword, he refused, three times he refused to show his sword, and three times the king insisted until finally he had to show it but before doing that he said, if you look at it, keep one eye closed. then Acalasena drew the sword and show it. and the, brightness of the sword was such, that one of the King's eyes was popped out and rolled on the floor. <EVENT DESC="LAUGH"/> okay? in some of the versions of the story it is said that the sword, had the seal of? <U WHO="SS">
+					<OVERLAP> Manjusri </OVERLAP>
+				</U>
+				<OVERLAP> Manjusri </OVERLAP> right <EVENT DESC="LAUGH"/> the seal of Manjusri on it. so that the s- the the brightness of the s- of the sword of course means wisdom. but uh what i (did) find interesting is that usually, the sword of wisdom is just a regular sword and it cuts, like you know like diamond and so forth. this is a wooden sword i kinda like that. i think it's a good touch right? <EVENT WHO="SS" DESC="LAUGH"/> this uh, blinding uh, light of wisdom comes from a piece of wood. <EVENT DESC="LAUGH"/> now Acalasena felt remorse because he felt he had humiliated the king in public. so he destroyed his sword by breaking it against a rock. and he left the kingdom. he went then to a small village, where he lived by himself, near a forest. there were many antelopes in the forest. and somehow, by a feat of magic the antelopes would enter Santideva's cell and disappear. you can ima- t- try to_ it's important to, take movie when you've, hear these legends right? try to envision the the whole story right the Santideva in the little cell, and the antelopes just going in and in and in and in and in, and the cell doesn't grow or anything they just disappear right? actually Santideva was eating them. <EVENT WHO="SU-f" DESC="LAUGH"/> now the other monks, realize, that something was go- going wrong. <EVENT WHO="SS" DESC="LAUGH"/> the population of antelopes was, <EVENT DESC="LAUGH"/> rapidly shrinking. so they came to the cell and looked through the window of the cell, and they shaw saw Santideva just about to eat big chunk of antelope. they ran to stop him prevent him from doing this, really angry at him for violating his vows, when all of a sudden the door of the cell popped open and out start coming antelopes one after the other all of them alive, and pretty soon the whole forest was_ population had been restored to its or- original, s- state. Santideva's, uh, fellow monks then asked him to please stay right now they suddenly realize that he's not an idiot but he's a great <FOREIGN> siddha </FOREIGN> right? that he can do this. and Santideva says no no no this is not a place for me i'm, no one seems to understand me. so he goes to Nalanda. and of course in Nalanda he dedicates himself to studying very seriously and in one version we are told, that he received the name of Santideva at that time. which, Santideva means the god or the god of serenity, because he was so calm... okay? according to, uh one tradition, he was called Bhusuku because he had realized a s- very deep <FOREIGN> samadhi </FOREIGN> . called Bhusuku. it's the other name... in, in Vibhuticandra's version we're told, that he became cal- he was called Bhusuku because of this <FOREIGN> samadhi </FOREIGN> . you know what <FOREIGN> samadhi </FOREIGN> is? no? explain, <FOREIGN> samadhi </FOREIGN> what's <FOREIGN> samadhi </FOREIGN>
+				<EVENT DESC="WRITING ON BOARD NEXT :05 OF UTTERANCE"/>
+			</U>
+			<U WHO="S7"> uh... <FOREIGN> samadhi </FOREIGN> mean presentation or, uh concentration. </U>
+			<U WHO="S1"> mhm it's the state of mental concentration, right, usually associated with uh, special powers special insights so forth. um, however other versions like Taranatha's, say that the real reason he was called Bhusuku, was because the only thing he ever did was eat, sleep and, go out for a walk. and this is based on a, really, very questionable etymology, because the root to eat is <FOREIGN> bhuj </FOREIGN> which would give <FOREIGN> bhu </FOREIGN> right? the root to sleep is <FOREIGN> svap </FOREIGN> which could be reduced to <FOREIGN> sup </FOREIGN> and then supposedly that would be <FOREIGN> su </FOREIGN> , <EVENT DESC="POINTS TO BOARD"/> and here you run into real trouble because the root to, to walk is <FOREIGN> gumorcara </FOREIGN> . uh but they say it's from <FOREIGN> gum </FOREIGN> that <FOREIGN> gum </FOREIGN> gives you <FOREIGN> ku </FOREIGN> somehow. so it's really a forced etymology trying to explain the name. trying to explain a name which doesn't mean anything in Sanskrit essentially. but, it's not just a question of an etymology it's also a question of of preparing the story for what's gonna happen. either way you have a great story. because you can predict_ what did the fellow monks feel? what's the feeling they had? <U WHO="S5">
+					<OVERLAP> jealousy. </OVERLAP>
+				</U>
+				<U WHO="S4">
+					<OVERLAP> jealousy </OVERLAP>
+				</U>
+				<OVERLAP> envy. </OVERLAP> right? envy jealousy right? uh it's predictable already we've seen it before that sort of a pattern right? in the story. um so you can either, go in either direction you can say well, he was so good, right? this the this deep <FOREIGN> samadhi </FOREIGN> that they could not achieve. then they said no no no this can't be this guy can't be so good let's try to show that he's not so good, or, that he was so lazy and s- and eating all the time that the other monks said you know he pretends to know a lot but he doesn't just look at his behavior so either way you get, the story to move in the direction you want it to move which is having these monks be really upset. </U>
+			<U WHO="S6"> that etymology you mentioned um, breaking the name into those three parts is from Taranatha's <OVERLAP> the first time? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Taranatha's yeah mhm </OVERLAP> but i, i remember (well Puten) also has it, <U WHO="S6"> oh <OVERLAP> i see </OVERLAP>
+				</U>
+				<OVERLAP> so it's </OVERLAP> probably an old one... uh, th- if if the stories are transmitted orally and people are playing with the name they will do different things with it. in fact even when they say that it is a <FOREIGN> samadhi </FOREIGN> , they say it's a <FOREIGN> samadhi </FOREIGN> that you achieve, while eating <U WHO="SS">
+					<OVERLAP> hm sure </OVERLAP>
+				</U>
+				<OVERLAP> while sleeping </OVERLAP> while walking so that, that part of the etymology probably goes, way back <U WHO="S6"> way back right, i see </U> okay but here too the monks, became very jealous and, m- started, rumoring about Santideva. hm, does he really know what he claims to know? we should put him to the test. now once a year, uh the monks in Nalanda would recite all the scriptures. you're probably familiar_ i think we've mentioned this in class right? there there is such a tradition in many parts of Asia. of reading the scriptures either the whole thing or selections whatever once a year. what is interesting about the legend in this uh version the Vibhuticandra version, is that it explains why it was done. in in a very peculiar way. <SEG TYPE="READING"> the monks said, the annual recitation is approaching. the great, sutras and treatises the shastras, often suffer change and damage, due to magical influences. </SEG>
+				<EVENT WHO="SU-m" DESC="LAUGH"/> so it's a fear that the text will degenerate by some kind of magical influence. needless to say there are also other, factors like insects and humidity and so forth but i i find it interesting there's a magical influence of some evil power that is bringing all of these uh, um uh what's the word, uh insects that b- eat books... what do you call the insects that eat books? </U>
+			<U WHO="S5"> silverfish </U>
+			<U WHO="S1"> yeah that's one of them but in <U WHO="S5">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> that's what they had. </OVERLAP>
+				</U>
+				<OVERLAP> in India it's, </OVERLAP> more like uh, Spanish is coming, and not English, anyway okay okay. anyway. uh we have to revise them carefully in order to restore them so uh presumably when they did this reading if there were any leaves that were damaged they would actually rewrite them and, <U WHO="SU-m"> hm </U> and so forth. this will be a good occasion for examining Bhusuku right? because he'll have to prove that he knows <U WHO="SU-2"> mhm </U> the texts. but when they call him in, he said i know nothing. i'm totally ignorant. they insisted again and again and he finally concluded, i will have to say something. in in the uh, Vibhuticandra version it's really interesting because we're told that, they f- they follow him to the courtyard they follow him to the library it's almost like a summary of the setup of Nalanda really very nice. okay. i will have to say something he said. but i can always use any one of my works. right, oh and i erased them. you know, i can use Cipcasamacaya Suntrasumacaya, and Bodhicaryavatara. right, i can use any one of my works. and then he went and he sat on the, throne of dharma. this is tradition that you still find find in many parts of Asia you're gonna preach this particular throne then you sit in that throne to preach. and he said now what do you want me to do? do you want me to recite, the primary words of the scriptures, or the meaning that one derives from them? really interesting distinction right? exegetical distinction. um <PAUSE DUR=":10"/>
+				<EVENT DESC="WRITING ON BOARD NEXT :13 OF UTTERANCE"/> remember that this one, and this one... are anthologies. so the legend in certain ways telling you know this is just the <FOREIGN> sutras </FOREIGN> this is no interpretation which of course isn't true but that's the way the legend is seen. whereas this one, is not, an anthology but rather <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> um, an independent work. so he implicitly is asking him wha- which one do you want me to recite? and, because they doubt it very much his understanding they said why don't you recite... what wise men derive from the scriptures. right? implicitly Bodhicaryavatara which, he recited. and then during the recitation he reached that point in the text which is close to the end of the text by the way the text has about seven hundred, stanzas. close to the end of the text about it's about a hundred stanzas from the end, there's a passage that says <SEG TYPE="READING"> when neither existence nor nonexistence appears before the mind, then, because it has nowhere else to go, because it has no foundation, the mind will reach peace. </SEG> and when he read that i mean when he recited that passage, even as he was pronouncing those words, before him appeared </U>
+			<U WHO="SS"> Manjusri </U>
+			<U WHO="S1"> Manjusri <EVENT DESC="LAUGH"/> and both of them ascended together to heaven. his body was no longer visible but one could hear his voice, speaking. and he continued to recite until he r- reached the end of the text right <U WHO="SU-2"> mm </U> has to be, uh and when he reached the end of the text, and he disappeared and was never seen again. the wise men of Nalanda, were, completely enraptured by the recitation. and they ran to Santideva's cell to see what they could find. and there, in a jar they found the manuscripts of the three works of Santideva. right? you know the, manuscripts were kept in jars to protect them. and since then wise men have spread these three works throughout the whole world. and that's the end of that, uh legend. now, as i explained to you just to give you sort of a preview notice how already here you can see the extent to which the legend, is in fact, a scholarly commentary right? it is reassuring you that the three works are his, that they were actually found there, very important because there have been questions about the authorship of this work throughout th- of actually all of them throughout their history. so to read the legend naively as just you know some kind of, of myth or literally as actual factual history is missing the point. and the point is that the legend, is trying to, tell us something, something that is in fact contested or was contested at that time and i'll, read you some more, arguments as we move along, um, try to, actually assume a position vis a vis a number of contester, polemical issues. okay. so... actually i had Robinson here James Robinson nineteen seventy-nine. <PAUSE DUR=":06"/> have a <OVERLAP> question? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i- d- no </OVERLAP> no, i'm just remembering what... version it is. </U>
+			<U WHO="S1"> okay. so here we have what we can, we could call_ i think it's fair to call, a fable. and it's a piece of fantastic literature. i me- i think we, we can do that. if after all much of what happens in it is, incredible. and i suspect that even for people who believe in it it is incredible. in other words, it is something that challenges your credibility even if you in the end believe that it actually happened... and yet it is something that, was not originally presented to us as fiction. it was not meant to be fiction in the sense in which we understand it. today when we talk about fantastic literature we usually think it's fiction right? but the truth of the matter is that much of the religious literature of India is in fact fantastic fabulation but it is not fiction and that's on i think a very important distinction to make. okay. today we know, or we accept in a certain way the fact that, particular religious claims about reality, are not part of the natural order. and what this does it's creates both a distance, and a set of distinctions of disjunctives, that often... cloud our understanding of these texts, and prevent us from understanding the text, as it was probably presented, within the tradition. we re- read with suspicion, looking either for a sociological background, and in doing so it's not that it's not legitimate to do so but in doing so we often forget, to think about what the story does. you know what is the, function of the story. the story is, of course, literature and it's of course fiction in a p- particular manner of speaking, but it is a kind of history. it's a making of history. and we have to understand it what really works as history. it is also a type of commentary and we have to understand in what sense it works as a, commentary. whatever we might want to do with the story in terms of social history, the story is also a marvelous story, that delights us. but in delighting us, it does so i- a- in delighting us it also makes us, want to believe what the story says. and it's reasonable to assume, that in its original context or in the context that tradition has provided for the story, it is reasonable to assume that the pleasure of the text was closely related, to credibility, in other words to conviction. and in that sense we can talk about the story, as, not just story but also argument. and that's part of, the point i want to make as i develop these ideas. it is argument in the sense that it refers to polemical settings, but it is also argument in the sense that it tries to persuade us of something, something about ourselves, and something about the works that it is alluding to. <PAUSE DUR=":05"/> to us today the story thus teaches us something about the imaginary world or the imaginal wor- world of its authors, come to tha- come to this in a second... not in your dictionary either. okay. in telling us something about this imaginal world, it reveals aspects of certain cultural horizons, that cannot be explained simply in terms of a sociology, or a factual history of the origin of the story. okay? so having finished that part let me say something about, this is a word that has, been um used occasionally, in history of religions, to refer, i- i- it often stands for French <FOREIGN> imiginaire </FOREIGN> which is of course imaginary, but <FOREIGN> le imiginaire </FOREIGN> is not the same thing as, what is imaginary. in English imaginary usually implies something that is totally con- concoto- concocted and totally artificial. but <FOREIGN> le- le imaginaire </FOREIGN> is around somewhere between reality and, uh what is purely mental. and it refers to those, worlds that are not natural, but that a culture accepts as somehow real. and the degree of reality that i attribute, varies of course, not just, with tradition and culture, but also with individuals. so when you're talking about heaven, to call it imaginary, then has decided the whole issue beforehand and then is gonna put you in a position that you will, not be able to, appreciate what it means to believe in it so then this, it's an attempt to protect, the, reality for the believer by using that term. admittedly it's a term nobody understands except the people who use it <EVENT WHO="SU-m" DESC="LAUGH"/> but, probably true about, every word. but okay. so coming back to the story then. i think the story can be read in three, separate levels. one of them is, as, uh i'll say legitimation but i'd rather use authorization than legitimation. because authorization is not the same thing as legitimation. authorization which has to do with persuasion i will say more about it, number two... as, a fable, in the sense of a marvelous fantastic story, that is fantastic, not just in the sense of imaginary but also in the sense of, creating in the reader a sense of attraction. right? the fantastic, uh attracts you towards the reality that it's creating. it has to do a lot with the pleasure of the text but it also has a lot to do, with the fragility, of a sense of reality which stories of course exploit right? and they exploit very well. and the third point is the story as a hermeneutic, in other words the story as a key to understanding other, texts. other, doctrines. about which we already have said a few things about how that, works. the first of these the so-called, what i call authorization, is the idea that the story... acts to affirm a certain truth. and to affirm the authority of particular individuals, texts or communities... under this category of the story as authorization, i also include, the function of the story as, the establishment of authorship, which i already mentioned in this particular story. it is actually an oral, tradition of authorship right? it tells you who the author of a particular work is. in other words the story tells us, who, possesses truth, who expresses truth, and what truth is... the second point the notion of the fable means that the story reveals, we can't tell you know how conscious this process is but it reveals, a vision of reality, that we could call a magical vision. what that means is that for us i'm um um unfortunately we only have our eyes and our own minds to read the story right? but for us, this smacks us as pure fantasy about magic. but part of what i'm trying to say is that, to to try to re- to relate somehow from the context of the story traditional context of the story, you have to understand that this magical creation is part of the vision of reality of that particular culture. <PAUSE DUR=":05"/> now, i avoid, purposefully the expression, magical realism which some of you may have heard to separate the Indian notion of fiction from our notion of fiction. when you say magical realism which has, was originally applied to the work of Garcia Marquez but applies to a lot contemporary fiction. um, we associate that term with modern notions of fiction whereas we're talking now, about a particular kind of religious fiction or religious fictionalization or religious narrative. and to use that expression i think would, really distort further our understanding of what the story is doing. we're not talking about, a secular self-conscious literary fabulation right? we're talking about a different kind of thing. in the case of secular literature, we are asked to somehow suspend our sense of reality... for the sake of literary pleasure of some sort. in the religious setting we're asking, we're being asked to suspend our normal sense of reality which i would argue was the normal sense of reality. <FOREIGN> mutatis mutandis </FOREIGN> uh, for the Indians also, but we're asked to do so for the sake of, a milac- a a miraculous reality, that is closely linked to a doctrine, of in the case of Buddhism, liberation. so in other words, there's a doctrine that proposes an alternative reality or an alternative outcome to human life and the way that you connect to it is through this particular kind of fiction. so it has a very different function, from the one that secular literature has... it is true that, literary creation in a secular setting is in some ways a liberating, process. in other words it liberates the author and the, the reader in the particular sense of the word. but it is not a new reality that can be thought of as, if i may use the word transcendent. in other words somehow, extending beyond reality into a different realm. the transcendence of the mystic fable the religious text, or the milac- uh miraculous fable of the text that we have been reading, is of course a very fragile transcendence. but i would argue that that's part of the force of the legend is precisely in the fragility of the distinction in other words the, distinction between the real, world and the imaginary world, is always fragile. it's always a very permeable boundary. so that to think of it only as pointing to transcendence is in fact to miss the point. but nevertheless you have to think of it as pointing to transcendence. okay. is it time? <OVERLAP> no? oh okay oh okay </OVERLAP>
+			</U>
+			<U WHO="R1">
+				<OVERLAP> you can keep going as long as you </OVERLAP> want </U>
+			<U WHO="S1"> okay i didn't okay good. <EVENT DESC="LAUGH"/> now. in the same way that secular fiction or poetry can, literally pull you into, a different world, and in doing so, give you a particular kind of pleasure, or even, shake you out of a particular kind of slumber. because in some ways it is so imminent in in our human reality in the same way, or in the opposite way i should say the religious story gives you pleasure, shakes you out of a particular kind of slumber and leads you in an alt- alternative reality precisely because it is pointing to a radical transcendence. in other words the absurdity of the story is part of, of the charm and its force. then, let's uh talk a little bit now about the story and how it functions as, a means of authorization. first remember that in this story you have Manjusri which i, don't believe i belabor, the point, <EVENT DESC="LAUGH"/> appearing many times and we already saw who he was, and what he is doing. in a certain way, Manjusri is actually on the background right? after all it's a story about Santideva but it's in the background with such a consistency that we cannot ignore its presence. the uh Santideva sword may seem like any old sword, at least wooden sword, but it has the seal of Manjusri. by the way s- the word seal of course is <FOREIGN> mudra </FOREIGN> needless to say which, immediately evokes other... <SEG TYPE="WRITING"> images. </SEG> right, so what is <FOREIGN> mudra? </FOREIGN> pop quiz? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S6"> um uh <FOREIGN> mudra </FOREIGN> is uh um, could be a posture, or a um gesture <U WHO="S1"> mhm </U> um, and it also sometimes in Tantric literature uh it refers to a consort </U>
+			<U WHO="S1"> mhm, and what did the word <OVERLAP> mean? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> or it could </OVERLAP> be the, the mark of all, of the true nature of all, <OVERLAP> things </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP> yeah now what does the word mean in everyday, Sanskrit on the streets if you're speaking Sanskrit. </U>
+			<U WHO="S5"> is it physical isn't it basically? i i </U>
+			<U WHO="SU-4">
+				<OVERLAP> it's a s- yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's a seal it's a seal </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> yeah well yeah. right. </OVERLAP>
+				</U> it's a royal seal especially right, um so what does a seal do? let's say you're <OVERLAP> the king </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> it imprints, </OVERLAP> marks something? </U>
+			<U WHO="S1"> right, it marks it as legitimate right? and in a certain way it's a perfect copy right? the perfect copy of, of the King's status essentially. so when you put it, when it appears in wax or whatever, you're using to to put down the seal, it's a perfect copy. so it stands as you all of you have already suggested. as different physical or mental states that correspond exactly, to divine reality. in this case, Buddha reality alright? um, so what that means is any time you talk about <FOREIGN> mudra </FOREIGN> you're thinking about, approval, right? definitely approval, talking about authorization you're authorized as representative of this particular truth of power, and you're also talking about a physical manifestation. which can be a gesture or can be, a lot of other things. so, <U WHO="S2"> (xx) </U>
+				<U WHO="S3">
+					<OVERLAP> we </OVERLAP>
+				</U>
+				<OVERLAP> the fact </OVERLAP> that_ yeah? </U>
+			<U WHO="S3"> sorry_ i i have sort of a lunch meeting, <U WHO="S1"> okay <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> and i mean i- would it possible to (leave now?) </U>
+			<U WHO="S1"> sure. (well you know) it's not possible but we'll do it. <EVENT WHO="SS" DESC="LAUGH"/> okay so let's stop there and we'll continue this. and yeah let me give you the_ i forgot, i just realized i made a mistake this is for next week, and where it says Mahavamsa, chapters two to ten, and part of what we want to do with Mahavamsa is, in some ways, what i'm doing with the story of Santideva and that is, look and see how many different ways you can read the story the the chronicle because this, chronicle, <EVENT WHO="SU-f" DESC="LAUGH"/> is presented as history. so you're moving one step away and we wanna see how it, how that happens. how much the two genres share and how much they don't share. okay. <PAUSE DUR=":05"/> well thank you. </U>
+			<U WHO="R1"> thank you. </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

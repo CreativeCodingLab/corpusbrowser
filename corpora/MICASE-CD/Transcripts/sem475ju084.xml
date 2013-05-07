@@ -1,0 +1,830 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="sem475ju084">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> First Year Philosophy Seminar </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SEM475JU084 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="72">
+						<DATE> February 21, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Rita Simpson, Rodney Pratt, Aaron Stark </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Rodney Pratt </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 10/15/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: MIX </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="25"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="14"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NRN" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> CAN </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NRN" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> HIN </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="JU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, Mason Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> okay, well just to um, reiterate, last time we agreed that we'd push back the paper due dates from this Wednesday to, the Monday after break, so that's Monday, um March eighth, due in class um, and are there any questions about those, the papers? (the next) papers that are due? they're gonna be a little bit longer than the ones from last time, and i w- i want to reiterate that i'm, i'm glad to meet with people if you want to come to my office hours today after class or, this week. so i'm happy to make appointments. um, and i wanna thank you guys for filling out the survey, it was really very helpful. um, a couple of things came out of it, um one was that pretty much everybody was, in favor of doing more small groups. um, that was that was very popular. so i'm gonna try and make sure that we do some of that, at least once every time in in class. and i think that's_ you know it's something i've been noticing too, it's hard to get people to participate when we're all in a big group. um and i as i said at the beginning of class, a couple of people mentioned that it, it might be easier to to speak up, in the whole class setting if we actually m- moved closer together. i was just wondering if, um if people, thought that was a good idea, we have some definite nos. how about a, how about a show of hands, um, how many people would be against moving, yeah, closer up to the front? couple, a- any people, and how many_ you wanna, wanna try that again? <EVENT DESC="LAUGH"/> like three, <U WHO="S2"> nos </U> nos, yeah. <U WHO="S2"> everybody in the class </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> okay, what about yeses? <PAUSE DUR=":04"/>
+				<U WHO="S2"> nos (xx) </U> i know there are some yeses out there. you don't have to be shy. <EVENT DESC="LAUGH"/> okay well we have, looks like we have sort of a, um a sticking point. people who want to say yes aren't aren't uh, speaking out in favor of it. so, we're gonna stay in this format for the, for the time being. uh i might try and force you a little bit later on. um, uh another, another thing that came out is a lot of people have said they appreciated having a summary of the lecture, uh at the begi- of the readings, at the beginning of of class, and so i'm gonna be trying to do some more of that, make sure that we go over the structure of the readings for you. um, and also, maybe i should emphasize you should try and interrupt me, if you're, i- during the lecture if you're if you're um, if there're some points of unclarity, just jump in an- and you know yell, and let me know. um, other, other points, um, as for the readings there was a lot of variation. there were some people f- speaking out in favor of just about everything. um, some people wanted less of the historical stuff and more modern stuff and some people wanted the reverse, but overall there was a pretty good spread for uh what people liked in the readings. so um, um and homework most people seemed to s- think that it was helping a bit. so, i th- we'll keep on with that. um, we might try and tone down the the number of questions for, later on. so but if you have more suggestions later on, please do get back to me, okay? okay, um i wanted to start out with, just, outlining what the Dennett reading was, the structure of the Dennett reading for you, and then we're gonna, break u- break down into small groups and discuss it in the second half of the class. so <PAUSE DUR=":18"/> so Dennett, the reason i was giving you this this particular um, this particular reading now is it gives us a way of summing up some of the issues that we've been talking about in the past few weeks. um, issues about, um <EVENT DESC="WRITING ON BOARD THROUGHOUT THE NEXT 20:46 OF UTTERANCE"/>
+				<EVENT DUR=":08" DESC="PAUSE WHILE WRITING ON BOARD"/> who i am at a particular time, what makes me the person that th- particular person i am at a time, which we're discussing under the under the heading of, the unity of consciousness. <EVENT DUR=":09" DESC="PAUSE WHILE WRITING ON BOARD"/> so we were <EVENT DUR=":11" DESC="PAUSE WHILE WRITING ON BOARD"/> so, uh on the unity of consciousness readings we were, talking about Descartes Hume and Nagel, um this also brings together a question about who i am through time... or over time <EVENT DUR=":18" DESC="PAUSE WHILE WRITING ON BOARD"/> which we've been discussing under the rubric of personal identity. and they're uh, the the people that we've been looking at are Nagel, uh sorry, Perry <PAUSE DUR=":06"/> Perry Williams and um, um, Parfit. right... and, both of these are <EVENT DESC="TRIPS OVER CORD"/> whoops, excuse me, <U WHO="R1"> sorry </U> uh, both of these, are being picked up by, um, both of these things are being picked up by Dennett, who's asking the question, who am i? and he's he's uni- he's talking both about who you are at a particular time, and who you are through time in his examples. and, just to give us a, just to remind you the various kinds of theory that we've been looking at here, both for the unity of consciousness and personal identity, have some similar themes, um, similar sorts of theories have been proposed, so, some people have thought that we a- what explains who you are, what makes you the particular individual that you are at a particular time is that you have, a distinctive immaterial soul, which unifies your consciousness all your conscious experiences at a time and makes you the very person you are from the m- moment that you are born to the moment that you cease to exist. um... there's a body theory, and a brain theory, what makes you the very person that you are is that you have this particular ongoing body, that continues from you- from your birth until your death, or this particular brain, um and that might explain, and particularly the brain might explain the unity of your consciousness at a particular time, what makes all of your f- thoughts and feelings belong to one particular person. and finally um there's, in each of these, each of these themes, (where) we looked at one thinker who was thinking that, claiming that, what unifies your consciousness in, at a time and through time, is not any of these particular, items these particular objects, that that last through time, but rather the connections among your thoughts and feelings. so, um, basically <EVENT DUR=":37" DESC="PAUSE WHILE WRITING ON BOARD"/> the final point, the final, theory that we've been looking at is that you, what makes you the very person that you are is a particular point of view, that is, integrates various of your thoughts and theor- feelings with each other. so, for instance you remember Nagel, that was his view about what makes you the very_ one person at a particular time, is that your thoughts and feelings are integrated in a particular way. they can be more or less integrated, they could be more or less in communication with each other, but, um, what makes, what makes for your personal identity at a particular time, is just the relations among your thoughts and feelings. and similarly, Derek Parfit argued that through time, there's no, hard and fast yes or no fact about you who you are, it's, who you are depends on how well integrated your thoughts and feelings are over time. the more psychological connections you have with a past or future person, the more that_ the more you're, you are, quote unquote identical with that person, or you're more the, the more you are a survivor of that person. but, there's no hard and fast yes or no, answer to the question of is that person you? if the, in the past or the future. so Nagel and Parfit are both taking a similar sort of line on this. and in fact, Dennett is very sympathetic to that, line, in, um, what he does, though is he, he starts by giving us this, um, thought experiment. well, science fiction. he says, he tells us a story where he is, he has been uh, recruited by NASA for this supersonic, tunnelling underground device test. right? this... STUD, is his acronym. um and h- what he's supposed to do is, h- he's supposed to, participate in this experiment where he donates his brain, his brain is separated from his body, and then his body goes on this, this mission, to dismantle a missile underground. right? um, and, so <EVENT DUR=":11" DESC="PAUSE WHILE WRITING ON BOARD"/> so our first, the first thought experiment is where he asks us he, tells us a story where his brain and his body are separated. and we're supposed to ask, okay, where are you? where, where is Dennett located? once his brain and his body are in separate locations, where is Dennett? and this gives us a way, a n- a new way in to trying to decide among these various theories of personal identity. <EVENT DUR=":15" DESC="PAUSE WHILE WRITING ON BOARD"/>
+				<EVENT WHO="S1" DESC="TRIPS OVER CORD"/> sorry excuse me <U WHO="R1"> sorry, </U> there's no <U WHO="R1">
+					<OVERLAP> other um, outlet, um </OVERLAP>
+				</U>
+				<OVERLAP> no, maybe if we let it, </OVERLAP> if we push it over this way, yeah <U WHO="R1"> there we go. </U> um, and the second stage of the, of, the experiment is he, he loses contact with his body. <EVENT DUR=":12" DESC="PAUSE WHILE WRITING ON BOARD"/> so, his body, the con- the radio connections between his brain and his body start going on the fritz, and all of the sudden he realizes, you know he thinks for a moment that he's about to die and then he realizes oh wait i'm, i'm actually in Houston right? i'm it, he thinks he's in the_ at that point, he no longer identifies with where he is at the, i- where his body is which is underground, working on this missile, but he identifies with hi- with his brain back in Houston, in this little um, metallic tub, full of electrodes and, so at that point he's he's um, he comes up with a n- a new kind of view about where he is, which influences, should influence his view about, who he is. what kind of a thing, he is. um, finally <EVENT DUR=":28" DESC="PAUSE WHILE WRITING ON BOARD"/> they give him a new human body and, and he gets at the same time a spare computer brain. <EVENT DESC="LAUGH"/> okay, and then, and at the very end, the brain in- the two sort of brains that are controlling this body, become_ go out of sync, and um, so it looks like w- at that point, he's got, two brains and one body. <EVENT DUR=":15" DESC="PAUSE WHILE WRITING"/> so, he's giving us a range of puzzle cases to, to um, and in each stage we're asked, well, where is he? where is Dennett? and he's trying to, he's trying to, uh pump our intuitions in this way, get us thinking about this case from a new angle. this question about where am i located is supposed to help us, help us come to some sort of decision about what kind of thing, Dennett is, that individual thing. um, and he proposes, a number of different solutions to this. and this what i'd like to, to discuss in small groups about how, plausible each of these solutions is. okay, so, around about page two-twenty, he says, maybe he is, he is located, wherever his brain is located, um, <U WHO="SU-m"> huh? </U> no no wherever his body is located. his body, he calls his body, Hamlet and his brain Yorick. <EVENT DESC="LAUGH"/> um so, he says okay, maybe i am where my body is. in that case, my body, is me... <EVENT DESC="WRITING ON BOARD"/> and then he thinks well, maybe, maybe it's th- it's the opposite, maybe it's not my body that's me, because f- you know after all, couldn't i get a body transplant. um, so maybe my_ and then he says suggests second suggestion's maybe my brain is me... wherever, my brain is there am i. but he finds this hard to believe because as he's sitting there, you know he's got his brain in in a in a vat, and his his body is walking all over and he thinks well, i can't be where my brain is. you put my brain in prison, and i don't care. i seem to be you, you know it seems obvious that where i am is, the place where i see feel hear touch talk, you know where my body is. so, he's not very satisfied with the second solution either. a third solution is <EVENT DUR=":10" DESC="PAUSE WHILE WRITING ON BOARD"/> i am wherever my point of view is. that is, wherever it seems, to me that i, s- wherever seems like here, to me is where i am. so, um, if it seems to you that you're walking around, the labs at Houston and it doesn't seem to you that you're in this tank of, nutrients, floating in a tank of r- nutrients, and that's the way it seems to Dennett, when his brain is separated from his body. well then, it's just in virtue of the fact that it seems to you that you're walking around that that you are walking around, you're located where it seems to you that you're located. um, he's not very satisfied with that one either. um, he's a little bit worried about it, partly because he thinks well, can't i be wrong about where, i am? can't it be, can't i make mistakes about this? and you could think about, he mentions these illusions that you can have, with um, you know, simulated mechanical, arms and so on. where you actually feel the tension of the um, of the the resistance of the object you're trying to move, and you can s- you can feel the um, um, the drag and pull of of, the mechanical devices that you're manipulating, and you project yourself into the mechanical device. but, he says, that would be just, a seeming. even if you identified fully with this mechanical these mechanical arms, if you are in a body, you know sitting on, say a boat and you're manipulating mechanical arms undersea, under the, in a in a device that's crawling on the ocean floor, it seems right to say that, it may seem to you that you are, that you're down on the ocean floor. but in fact, you really are, up on the on the boat, manipulating these things. so, he's worried that the, wherever, the view that your point of view is where you are, must be wrong because you can be wrong about, um you can have these illusions about where you are. um so, then around uh, page two-twenty-one, he comes up with a new idea. this is as his b- body is flying off to to go recover the m- the missile. he says okay. i'm getting used to this now, it's not such a great conundrum, i don't have to choose, between, the location of my body and the location of my brain. i can just think of myself as composed of both body and brain. so, i'm, you know, part of me is in Houston. and part of me is_ where was he flying off to Phoenix? someplace else. so y- and i'm in both places. i'm partly in one place and partly in the other place. so <EVENT DUR=":08" DESC="PAUSE WHILE WRITING"/> so, on this view i don't have to choose. i'm composed of both my body and my brain... it's like, uh a great big scattered, device. we can we're familiar with various, um machines that can be located in different places. you have a power plant and um, it might be connected up with some other, power generating source, and both of them, together, constitute the power-generating machine. or, you can think of a, one of those little s- tiny sailboats that it's controlled by a remote control uh, operator. well, the, the device, you know the sail, the mechanical sailboat, is located both in the hand of the person who's manipulating it, and, partly, on th- on the l- um the pond where the sailboat is being, uh driven around. the device is in, you know it's a scattered device, it's in two places. similarly he thinks okay, i'm both brain and body. so i don't have to choose... but, he's no- he's fails to be satisfied with that, after, his body goes, on the fritz. so around page two-twenty-four, he says, his his body starts losing contact with his brain, and you know one by one the connections are, severed and he's gets this feeling of complete, panic, and um, and disorientation, and, he's thinks he's about to die and then he realizes wait a second, i'm not in Phoenix at all, i'm back in Houston, i am my brain, in this little, hermetic vat. um, that's where i'm located. and then he, he's not actually reverting to the brain theory at that point. he thinks he's <EVENT DUR=":06" DESC="PAUSE WHILE WRITING ON BOARD"/> made a big philosophical discovery. he thinks that he's, his idea is that somehow, he is a kind of immaterial soul. but he's got a very special, understanding of this, soul. he calls it, um, his s- uh, center of gravity. <EVENT DUR=":09" DESC="PAUSE WHILE WRITING ON BOARD"/> and, w- what he seems to mean by that is, that, h- h- and he wants to espouse purely physicalistic principles here, but, so he thinks that he's located where one of his physical parts is. remember Descartes, who is, who had a, an immaterial conception of the soul thought that, um, souls didn't have to be located anywhere in space... Dennett, this, lemme put this in sort of quotation marks. Dennett's idea of a soul is different. he thinks of it, as something like a point of view. but not the kind of point of view that he he, he mentioned a- at the beginning, at number three here, his idea o- of a center of gravity is, like a point of view but you can be wrong about it. so he thinks, right after, after his disconnections after his body starts getting disconnected from his brain, he's still thinking that he's in Houston, i mean, no, he's still thinking that he's in Phoenix underground. but, then he_ it occurs to him, that he's wrong about that, and he corrects himself. he says, no wait i can't be in, Phoenix underground. that body_ i don't have any sort of um, connection with that body anymore. he remembers that his brain is back in Houston, and then he sort of i- reidentifies himself with the brain. he starts thinking okay, i must be that brain. and it's not just, it's not just that he was that brain when he thinks it. so, as soon as the thought occurs to him, oh i must be the brain, i must be where the brain is, that that sort of switches his location. his idea is no, as soon as the connections start being severed between the body and the brain, he should have been, locating himself and identifying with himself when, as, the brain in Houston. so the center of gravity looks like, something like a corrected point of view. <EVENT DUR=":15" DESC="PAUSE WHILE WRITING ON BOARD"/> so it's like three except it's corrected for these possible errors that you can make about where you identify yourself w- identify yourself. so, each of these, options that he lays out, presents one way of reacting to the brain and body, separate brain and body scenario. and what i'd like to do, um, is to, break down into smaller groups and see if we can think of, see if you can decide whether_ what you think of each of these scenarios, which one is the most plausible. for each one you get to a, a different decision about, where you are, if you're Dennett. the first one locates you with the, with your body, the second one locates you wherever your brain is, the third one locates where you, wherever you currently think you are, the fourth one, says that you are, anyplace where any part of you is. so, if you're composed of two parts, a body and a brain, you're both places. and the fifth one has, locates you, wherever your point of view should be. and it's a little bit mysterious how exactly we're supposed to decide where your point of view should be. but he thinks he has an answer in this kind of, in this case. so, what i'd like to do now is, do our habitual thing is to, break down into groups of, four or five at each of the corners and um, discuss this. before we go on to talking about, the cases at the end, which sort of complicated matters, where he's got_ because in those cases Dennett gets this extra, body extra, this new body with this extra spare brain. but in those cases too, we're gonna have to, we're gonna have to take a look at these sorts of theories and figure out which one, does best justice, to that kind of case. okay, you wanna, break down? </U>
+			<EVENT DUR="1:04" DESC="NOISE AND UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> um, why don't why don't you two groups break into, two separate ones? </U>
+			<U WHO="SU-m"> alright, we got our <OVERLAP> four right here </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> just split </OVERLAP> in the middle there. </U>
+			<EVENT DESC="SIMULTANEOUS SMALL GROUP DISCUSSIONS FOLLOW"/>
+			<EVENT DUR=":28" DESC="UNINTELLIGIBLE SPEECH"/>
+			<EVENT DESC="BEGIN FIRST GROUP'S DISCUSSION"/>
+			<U WHO="S5"> i thought this was the best, the best reading </U>
+			<U WHO="S4"> yeah, it is yeah. yeah. it's (xx) </U>
+			<U WHO="S3"> it's because (it) gave so many different things to think about, instead of, <OVERLAP> (kind of you know) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i h- (it) </OVERLAP> was more like life-like. <U WHO="S3"> yeah </U> like life-like terms <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> you could </OVERLAP> unders- yeah you could kind of understand where he was going better. </U>
+			<U WHO="S5"> i thought it made sense too. i agreed with him. </U>
+			<U WHO="S4"> which one of those, do you think <OVERLAP> it is? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> all five </OVERLAP> but the fifth one, i think he d- i think he disproves all the others. (xx) </U>
+			<U WHO="S3"> the first one. </U>
+			<U WHO="S4"> yeah i, i don't agree with the <OVERLAP> first two </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> when he's </OVERLAP> going through all of them? </U>
+			<U WHO="S4"> yeah, yeah </U>
+			<U WHO="S3"> the first one with the body, thing you know, i mean i think, all the other people who've looked at it have kind of <U WHO="S4"> yeah </U> disputed that, maybe cuz, the body's there, and then like it loses attachment from the brain it's, just gonna sit there so, <U WHO="S4"> right </U> that kind of proves (xx) then the brain, </U>
+			<U WHO="S4"> that was the one we always talk about was kinda like you need the brain and the bo- like they work together. </U>
+			<U WHO="S3"> uhuh, at least without the body the brain's not gonna (do) very much either. so, </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S5"> yeah, i- it won't do anything. </U>
+			<U WHO="S4"> i don't know, the last three, <U WHO="S5"> yeah they all sorta </U> i can't_ like they all seem somewhat, plaus- like you could work with, (that) you could work with 'em. </U>
+			<U WHO="S3"> see the point of view one i think is good except for <U WHO="S4"> yeah </U> when he throws in like, your point of view (it can) be wrong. you know that's basically <OVERLAP> is that is that (all he said to) (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah like i don't, i don't get like, </OVERLAP> between like three and five, i don't (agree with) that </U>
+			<U WHO="S6"> well he used an example with three, about like, i think it was like something about watching a movie, <U WHO="S4"> oh yeah yeah </U> like you know like you think, like like how you scream if like something, <U WHO="S4">
+					<OVERLAP> yeah, you're not </OVERLAP>
+				</U>
+				<OVERLAP> you know bad happens </OVERLAP> cuz that's like <U WHO="S4">
+					<OVERLAP> you don't remember </OVERLAP>
+				</U>
+				<OVERLAP> you think that you </OVERLAP> you know your point of view changes. </U>
+			<U WHO="S3"> is that like what the ro- like robotics (xx) <U WHO="S4"> yeah </U> (working) on machines <U WHO="S4"> oh, yeah </U> kinda can feel like you're, that, <U WHO="S4"> right <OVERLAP> (i see that) </OVERLAP>
+				</U>
+				<OVERLAP> i agree </OVERLAP> i see it as being i mean it's defin- (different,) you know, so i don't know how strong that example would be to, i guess </U>
+			<U WHO="S4"> i mean how c- </U>
+			<U WHO="S3">
+				<OVERLAP> (defer me from his example) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> but like, in that example </OVERLAP> like why does it matter where you, actually are, if like you think that you're somewhere, (like) you're there. <U WHO="S4"> yeah </U> you know? </U>
+			<U WHO="S3"> uh huh </U>
+			<U WHO="S4"> yeah, i don't i agree with four somewhat too i mean, <OVERLAP> i mean it's not plausible but i agree. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i i like i like four. </OVERLAP>
+			</U>
+			<U WHO="S4"> yeah. like it covers <OVERLAP> both </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> because th- </OVERLAP> then like they'll bring up the points that like, um, your body and brain are separate that's two different things <U WHO="S4"> yeah </U> so, then what are you, what is your identity? </U>
+			<U WHO="S4"> but still it makes it like nice and <OVERLAP> easy </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> but i </OVERLAP>
+				</U> just to be like </U>
+			<U WHO="S3"> i still <OVERLAP> like it </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> but then </OVERLAP> what about like, when his body's dead, and it's just his brain? </U>
+			<U WHO="S4"> then half of him is dead. <EVENT DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S5"> i mean i, i think you could <OVERLAP> modify four, and say </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> see the tough thing i- the </OVERLAP> tough thing is um, like physically doesn't a brain only work if it's gonna have a body with it? </U>
+			<U WHO="S5"> not in the story. </U>
+			<U WHO="S3"> right, but i- no i'm wondering like in real life like, do you need a body for the brain to work? like will there still be like, electrical transmissions or whatever going on? </U>
+			<U WHO="S5"> well there's no, there would be no blood </U>
+			<U WHO="S3"> to send things to, i'm assuming you can find like some kind of vat to put it in, to keep nutrients in. that's why i don't, know, because, <U WHO="S5"> that i </U>
+				<EVENT DESC="LAUGH"/> not that (would) ask. </U>
+			<U WHO="S5"> i_ in terms of the story, <U WHO="S3"> uh huh <OVERLAP> it works </OVERLAP>
+				</U>
+				<OVERLAP> the brain </OVERLAP> the brain like it works </U>
+			<U WHO="S3"> assuming we can function, that is what we have to go with. </U>
+			<U WHO="S5"> no i think you could modify four and like, if it was_ could be like any combination of the two or some- i mean something like that? <U WHO="S3"> mhm </U> like it can be both, or it can be just one that just ba- that basically just like throws all four of 'em in, <OVERLAP> together </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that </OVERLAP> that kind of, pushes a little bit more towards the last one because, </U>
+			<U WHO="S4"> i don't get what the <OVERLAP> little, the last </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> um, i i think </OVERLAP>
+			</U>
+			<U WHO="S6"> yeah, me neither <OVERLAP> (i don't know) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i see </OVERLAP> the last one as being, kinda like, three and four but, knowing like being the right one. like <OVERLAP> the three </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but how do </OVERLAP> you know which is the right one if you think <EVENT DESC="LAUGH"/>
+				<OVERLAP> you </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> you don't </OVERLAP> you don't have to know, but you just are the right one. </U>
+			<U WHO="S4"> cuz like <OVERLAP> in three if </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> there's no reason why </OVERLAP>
+				</U> you think you're in that place, how do you? </U>
+			<U WHO="S3"> how how are you not? </U>
+			<U WHO="S4"> cuz i don't think even like, with his movie theater example i mean yeah you (xx) you_ or whatever but, no one thinks they're actually in the movie. it's like you <OVERLAP> still know that you're sitting there it's still (xx) point of view is st- (like) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> maybe you, maybe you do like, unle-unless </OVERLAP> you actually think about it like, you might be believing that <OVERLAP> you're there </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah there </OVERLAP> could be a time where you actually like, just slip into it or whatever and you think you're in the <OVERLAP> movie and then </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> and then you think about it and you're right there </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah but then if </OVERLAP> someone asked you while you were sitting there, where are you? <EVENT DESC="LAUGH"/> you're not <OVERLAP> gonna be like </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah but, if someo- </OVERLAP> if someone asks you that's a little different that what you're <U WHO="S4"> yeah <OVERLAP> experiencing, yeah </OVERLAP>
+				</U>
+				<OVERLAP> thinking during it </OVERLAP> yeah. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> um, any of the <OVERLAP> last three work for me </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> once again we haven't proved anything </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i know. </OVERLAP>
+			</U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> what did you get on the last one? like what did you think <OVERLAP> about (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> the fifth </OVERLAP> thing? <U WHO="S3"> yeah </U> it's kinda weird. like, i st- i think it r- it's kinda hard to t- draw the line between three and five. <U WHO="S3"> yeah. </U> but i can s- i can see where he's going with three like, like, before you get to five, i believe that he dis- like that he disproved three, like with his robotics example, (then) i thought he disproved three but then, he comes back to it, again and it s- it seems like he's just going back to the same, theory to me. </U>
+			<U WHO="S3"> yeah i, wish i knew more about the distinction between the two. <EVENT DESC="LAUGH"/> like really, </U>
+			<U WHO="S4">
+				<U WHO="S4"> how much time do we (have left?) </U>
+				<EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> so why'd he use all Shakespeare names in it? (xx) <PAUSE DUR=":05"/> hm </U>
+			<U WHO="S5"> is that relevant? maybe that's an underlying, <U WHO="S3"> it could be </U> subplot </U>
+			<U WHO="S3"> it could be. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S5"> see i just don't_ i don't know what it me- like connected point of view, i don't know what that, what that's supposed to be. like for nu- five? </U>
+			<U WHO="S3"> is that, um <U WHO="S4"> yeah </U>
+			</U>
+			<U WHO="S5"> like she said connected <OVERLAP> point of view </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> corrected </OVERLAP>
+			</U>
+			<U WHO="S5"> oh, <OVERLAP> corrected. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> corrected? </OVERLAP>
+			</U>
+			<U WHO="S4"> corrected. </U>
+			<U WHO="S5"> alright, okay (i got that wrong.) <OVERLAP> but, what's the difference between that and change? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> does that mean that you can't (get it) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah, that's why i </OVERLAP> don't really think that </U>
+			<U WHO="S3"> that means it can change right? </U>
+			<U WHO="S5">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> what? </OVERLAP>
+			</U>
+			<U WHO="S3"> it can, is it that it means it can change? </U>
+			<U WHO="S5"> it can change but, you're like </U>
+			<U WHO="S4"> it could be wrong with where you think you are. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> i mean the only thing i can think of is that like, in the robotics example, you cou- ma- like you may think you're like actually handling the <OVERLAP> radioactive material </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> like </OVERLAP>
+				</U> or whatever </U>
+			<U WHO="S3"> like i th- like you can feel (like) like, the different like thing (xx) but do you really think that you are? </U>
+			<U WHO="S4"> yeah, that's what <OVERLAP> i'm saying. like </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that's why i'm not sure </OVERLAP> i see it more in that one than in the movie one. <U WHO="S4"> yeah </U> i don't know why <EVENT DESC="LAUGH"/> but, </U>
+			<U WHO="S4"> cuz like, (i don't know) no one's gonna be like, (we're moving this stuff ar-) you know <OVERLAP> what i mean? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah. </OVERLAP> i guess i don't have enough experience <OVERLAP> in the robotics field. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i know, yeah. </OVERLAP> maybe if you're doing it for like, five hours in a row by the end you're just like, </U>
+			<U WHO="S4"> one with the machine. <EVENT WHO="S3" DESC="LAUGH"/> so what we say the three or five? </U>
+			<U WHO="S3"> yeah it's re- it's hard to tell, i think, between three and five. </U>
+			<U WHO="SU-m"> mhm </U>
+			<U WHO="S6"> i don't understand like, at the end, when he like, he woke up out of the coma and he was li- and </U>
+			<U WHO="S5">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> the other </OVERLAP> brain </U>
+			<U WHO="S5">
+				<OVERLAP> i think </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> like </OVERLAP>
+				</U> we were gonna do that, next. </U>
+			<U WHO="S6"> in another (xx) </U>
+			<U WHO="S4"> it was like there were the two b- cuz remember it was like, you could s- (he had) the two brains and you could switch back and forth between the two of 'em, <U WHO="S6"> right </U> and he never knew which one was like his real brain and which one was the other one. <U WHO="S6"> right </U> and so then like, what happened like something ha- like he said that there was like a, <U WHO="S3"> like, he thought </U> that there was a, complication that altered the <OVERLAP> one of 'em. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> where </OVERLAP> yeah where they where, they ended up splitting kinda the two brains, like <OVERLAP> so (that it was like) (xx) each other </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> it was like a complication </OVERLAP>
+				</U> so then like when it would </U>
+			<U WHO="S4">
+				<OVERLAP> and then he when he like </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> randomly </OVERLAP> it like would randomly <OVERLAP> kinda switch- </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> oh right he flipped the s- </OVERLAP>
+			</U>
+			<U WHO="S3"> or he did </U>
+			<U WHO="S4">
+				<OVERLAP> he switched it. and then it was like </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> switched it. but he didn't know which </OVERLAP> was which. </U>
+			<U WHO="S4"> yeah cuz he never knew what was his <OVERLAP> original and what one was the created one, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> uh huh, they weren't marked, it was this brain or this brain </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so before </OVERLAP> he'd always switch it, and then, a complication <OVERLAP> happened. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> uh huh </OVERLAP> it kinda seemed like, like one of the brains, was telling the story, </U>
+			<U WHO="S4">
+				<OVERLAP> it was </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> and then especially </OVERLAP> right then i- but the other one, <U WHO="S4"> had been hiding </U> knew knew that they were different, or was more contr- wanted more control, but <U WHO="S4"> yeah </U> but the one that was telling <OVERLAP> everything </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> cuz then </OVERLAP> remember the one at the end was like, i know that you're in there and </U>
+			<U WHO="S3"> uh huh. and the second one was thinking, it's it's like i'm trapped and i wanna get out </U>
+			<U WHO="S4"> yeah... </U>
+			<U WHO="S3"> but did, the first one know that they were different? </U>
+			<U WHO="S4"> the first, <OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> when he </OVERLAP> was first telling the story he <OVERLAP> didn't know </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, </OVERLAP> i i don't think he <OVERLAP> brought up that they were different until after the story </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> and, right, no </OVERLAP>
+				</U> so maybe the first one didn't even know </U>
+			<U WHO="S4">
+				<OVERLAP> right, i don't think he did </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah, cuz like the last, </OVERLAP> i think that like the chan- the split happened, since the last time he changed, <OVERLAP> the brain (xx) </OVERLAP>
+				<U WHO="S3"> (xx) </U>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah, it did </OVERLAP> and then he switched it and then, but then, the, new brain still had, which was weird, still had knowledge of the other brain </U>
+			<U WHO="S3">
+				<OVERLAP> yeah... like an onlooker </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> like... you'd think if it was </OVERLAP> a completely different brain like it wouldn't <OVERLAP> know, </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> uh huh </OVERLAP>
+				</U> you know what i mean it wouldn't know about the other one, it would just switch to the, </U>
+			<U WHO="S3"> like something like watching you, <U WHO="S4"> yeah </U> like nothing new, just <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> kinda </OVERLAP> stored everything </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S5"> that's a whole nother argument. </U>
+			<U WHO="S3"> yeah i think we're gonna do that next. <PAUSE DUR=":10"/> how long are you gonna be gone? </U>
+			<U WHO="S4"> Friday to Friday. </U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S3"> i like that they call that STUD. </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> yeah, i was like where is he throwing this in from? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> where did, where would he even come up_ where do these people <OVERLAP> come up with this stuff? </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> i know i was just </OVERLAP> thinking that. <OVERLAP> who </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> it's interesting </OVERLAP>
+				</U> comes up with these <OVERLAP> hypothetical (situations?) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think they co- </OVERLAP> try to come up with like they know they wanna split you somehow </U>
+			<U WHO="S5"> so he spends like, <U WHO="S3"> yeah </U>
+				<U WHO="S6"> just a cern- </U> a week just trying to <OVERLAP> come up with a situation </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah and then an- then </OVERLAP> it flows from there. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> i think he has too much time on his hands. </U>
+			<U WHO="SU-m"> it's interesting... </U>
+			<U WHO="S5"> that's that's weird, just to like think about that, remote controlled body, <OVERLAP> basically </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3"> it seems s- so like, possible in the future. because, everything i- is basically like, electrical impulses, that (take) radio signals or whatever </U>
+			<U WHO="S5"> everyone could just have, <U WHO="S3"> and i- like <OVERLAP> especially when he says </OVERLAP>
+				</U>
+				<OVERLAP> your brain </OVERLAP> sitting at home </U>
+			<U WHO="S3"> it's like stretching like the nerves like <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> a little bit </OVERLAP> why can't you just do it (one more time) whenever they do anything like little by little, it makes it so much more believable. like for any of the things that we've read. </U>
+			<U WHO="S5">
+				<PAUSE DUR=":04"/> everyone can just leave their brain at home and, go about their daily business. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> i think making the computer program brain that was, a pretty big jump from what they already did. </U>
+			<U WHO="S5"> yeah, that was <PAUSE DUR=":13"/> that just creates, too many problems, <U WHO="S3"> yeah, </U> to deal with. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S4"> the only thing that could argue with, like about trying to be would be like dreaming. think about dreams. <U WHO="S5"> are you actually <OVERLAP> there then? </OVERLAP>
+				</U>
+				<OVERLAP> like in a dream </OVERLAP> like, you're not gonna be like, i'm really (xx) but you're not ac- obviously actually there. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S4"> yeah i don't know. cuz like when you're dreaming obviously you're not (thinking of) yourself as lying (in bed,) you know? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S6"> well, isn't that like the difference between three and five? </U>
+			<U WHO="S4"> yeah, i think it i think it is. </U>
+			<U WHO="S3"> good call. </U>
+			<U WHO="S4"> i think that's <PAUSE DUR=":06"/> so five, we're going with five? </U>
+			<U WHO="S3"> i wanna know more about three, five (i don't know about) the other two </U>
+			<U WHO="S1"> how you guys doing? </U>
+			<U WHO="S3"> pretty <OVERLAP> good </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> yeah, we're </U>
+			<U WHO="S5"> we need more distinction between three and <OVERLAP> five </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> three and five </OVERLAP> we're having trouble with. </U>
+			<U WHO="S1"> ah, yeah. i think thr- the difference between three and five is kind of, difficult. i mean, his i- his idea though is that, in um, where your point of view, three is, you are wherever you think you are. so, if you think you're you know down, the tunnel, that's exactly where you are. </U>
+			<U WHO="S3"> like she said, uh what if you're dreaming? <U WHO="S1"> ah </U> are you actually in the dream then? </U>
+			<U WHO="S1"> you're aware_ i think that's a that's a very good, worry about the (xx) for, for three cuz i mean, <U WHO="S3"> uh huh </U> um <OVERLAP> that's </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> cuz you're </OVERLAP> gonna actually i mean when you're dreaming that's where you think you are. </U>
+			<U WHO="S1">
+				<OVERLAP> right. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> right. </OVERLAP> but like the center of gravity, like where you actually are, that that's not in the dream. </U>
+			<U WHO="S1"> right. it's number five seems to en- allow us (sort of) to correct for that unless_ but it's <OVERLAP> not clear exactly what the (connection to the) process is. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so it's just like wherever </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it's okay it's not exactly like </OVERLAP> your opinion for five, it's where you are, based on, </U>
+			<U WHO="S4"> (where you are) <OVERLAP> you're just like, </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> based on something </OVERLAP>
+				</U> i think i'm here but i could be wrong? </U>
+			<U WHO="S3"> yeah, </U>
+			<U WHO="S1"> where you think where your point of view should be, <U WHO="S3"> okay </U> but, it's not exactly clear what the, <U WHO="S3"> yeah </U> what what criterion he's using in deciding, where you where you should be identifying yourself, um... so i mean, it might be that he's re- he's actually relying on something like number two, that you're your brain, to to be locating yourself back in Houston... in which case number five would be different. </U>
+			<U WHO="S5"> yeah. </U>
+			<PAUSE DUR=":07"/>
+			<EVENT DESC="BEGIN SECOND GROUP'S DISCUSSION"/>
+			<EVENT DUR=":19" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S7"> well cuz i think this one, this is <OVERLAP> kinda short. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> hey are you recording right now? </OVERLAP>
+			</U>
+			<U WHO="SU-m"> bring a microphone over here </U>
+			<U WHO="S7"> okay, uh lovely conversation </U>
+			<U WHO="S8"> i think that a- besides, i think (i) have a lot to talk (about) </U>
+			<U WHO="S7"> yeah i <OVERLAP> think (that's true) that right there, </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> it's strange how they (just say things) (xx) </OVERLAP>
+			</U>
+			<U WHO="S7"> seriously, like i'm just gonna sit here (and) </U>
+			<U WHO="S10"> it's like a sci-fi story, like basically </U>
+			<U WHO="S8"> yeah, you should just listen to her, (xx) or whatever </U>
+			<U WHO="S10"> like, how she talked about how there was like an extra, brain and body </U>
+			<U WHO="S8"> it was like reading science fiction but, </U>
+			<U WHO="S10"> what exactly are we supposed to talk about? </U>
+			<U WHO="S7"> (xx) </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S10"> has anyone (xx) this is? </U>
+			<U WHO="S11"> (i don't think) none of us could be recorded (today.) </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S10"> so, so you guys (didn't do it,) did you, read? </U>
+			<U WHO="S11"> no, i'm just thinking, <EVENT WHO="S10" DESC="LAUGH"/> cuz there's no homework so i haven't started reading. </U>
+			<U WHO="S10"> am i the only one who read? <U WHO="S11">
+					<OVERLAP> i don't know if anyone (xx) </OVERLAP>
+				</U>
+				<OVERLAP> so what exactly </OVERLAP> would you like us to discuss? <U WHO="S1"> hm? </U> what exactly should we be discussing? </U>
+			<U WHO="S1"> um like, just to go through the <OVERLAP> the </OVERLAP>
+				<U WHO="S10">
+					<OVERLAP> the </OVERLAP>
+				</U> um, the different, um, <U WHO="S10"> okay </U> accounts that he gives, he o- on page two-twenty <U WHO="S10">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> he gives us a </OVERLAP> you know, three different options for thinking about this case and uh, and then later on he proposes a couple more. i'm just wondering, how plausible you think, the, the various options are. </U>
+			<U WHO="S10"> okay. </U>
+			<U WHO="S1"> did you did you guys like the, like the, the reading? </U>
+			<U WHO="S10"> i did, personally, i though it m- l- eas- eas- a little easier to grasp the concepts, <U WHO="S1"> mhm </U> and easy- more enjoyable to read. cu- it was kind of like ridin- reading science fiction <U WHO="S1"> yeah </U> slightly, so i- for me anyways it made it easier to grasp, exactly what was going on cuz, there's been some other ones where it was just like, i read the whole thing and i was like, <EVENT DESC="LAUGH"/> what was the point of? what did i miss? but, i don't know, i liked this one. but okay, <SEG TYPE="READING"> Where Hamlet Goes There Goes (Thine.) </SEG> um, (let's see) <PAUSE DUR=":32"/> okay, so </U>
+			<U WHO="S9"> do you agree with the first one? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S10"> yeah. i think so, but... </U>
+			<U WHO="S9">
+				<OVERLAP> he needs a body </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> this this </OVERLAP> no, number one is kind of like the whole Julia North, type, switching the brains and, okay, i don't think you're the body i think you're the_ i mean my opinion is you're the, brain but that goes against, his his theory in there. </U>
+			<U WHO="S8"> which one you say? </U>
+			<U WHO="S10"> well with the first one <U WHO="S8">
+					<OVERLAP> the first one? oh </OVERLAP>
+				</U>
+				<OVERLAP> where he says </OVERLAP> it's like the body, is you, i beli- like, if you had to say i- is the body me, or is the brain me? i'd say the brain is. <U WHO="SU-m"> yeah </U> so i don't, i don't like the first one but, <OVERLAP> i don't know. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> i think </OVERLAP> i think i i'd go for the fifth one. i mean tha- i (think) um, for the point of view one that, it just depends on how you see it, there's no one way of saying that, this is me and either the body is me or the soul is me. it's probably like, how you (how you really see it) </U>
+			<U WHO="S7"> wait i don't understand the center of gravity thing, <U WHO="S1"> mhm </U> like what, what exactly does that_ like how, how is it the corrected, point of view one? like i just got confused cuz like this (xx) </U>
+			<U WHO="S1"> yeah, well it's_ if you look on page two-twenty-four where he's where he's stored as, where he's introducing the uh, the idea that he is, that he is t- somehow this, version of the immaterial soul. it's, i think it's actually kind of confusing what he's what he's getting at but, in the scenario he's thinking, okay your connection with your body is severed, and um, you've got this moment of s- thinking oh well, i'm in_ he's got this moment of thinking well basically i'm underground in this tunnel, and i must be sort of dead, but, but that can't be right i'm still thinking, i'm still i'm still somewhere, and he's he thinks well, oh i've got_ it must be, that i'm back in Houston and that, i'm just the brain in that um, tank, that i saw covered with electrodes, that's where i am. and in that moment of saying oh i know, i was wrong to think that i'm underground, unconscious in um, in Phoenix i think it is. um, he's, he's saying look i can't be (un-) identified with my point of view it seems to, it seemed to me, that i was, underground just a minute ago, um, but underground and not and not, in contact with anything, not sensing anything, but i was wrong. actually at that moment when it seemed to me i was, unconscious and i must be in Hou- in Phoenix, i was in fact back in Houston. and it seems to be that, somehow he's thinking that, there's a correct_ he he should, have been, identifying with his brain. um, even, so he was making a mistake, his point of view wasn't wasn't correct. but, why was he making the mistake and why was he, why should he identify with his brain, is less clear exactly what, what um, what makes it correct to say he's (uh) located in one place or another. </U>
+			<U WHO="S11"> i think i think that just proves that he's the brain cuz li- like when he says that you know since there's something thinking <U WHO="S1"> mhm </U> and since the, probably i mean and since the body's not thinking and so i have to be the brain, so i mean if you just destroy the brain, then nothing will think. so do- doesn't that just mean that he's the brain (then) </U>
+			<U WHO="S10"> uh, does, the fifth point, i- that with it being changeable that can account for like okay when they have the two, like the brain and the machine and them being able to like <U WHO="S1"> mhm </U> turn the brain off, <U WHO="S1"> mhm </U> so, okay. i don't know where i was going but, <EVENT WHO="SS" DESC="LAUGH"/> brain freeze. okay. </U>
+			<U WHO="S1"> so you wanted to say that the brain theory can't be right. you were you were you, were arguing, you were saying that you we- you thought the brain theory was probably the, <OVERLAP> the right way to look at it </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> well ov- no </OVERLAP> over the body, <U WHO="S1"> mhm </U> theory, i if i had to chose between, brain or body i would choose brain but then, if you introduced an artificial brain and you're still the body but it's not your, (your real) body it just gets so confusing <EVENT WHO="S7" DESC="LAUGH"/> cuz there're so many different levels. i don't know. </U>
+			<U WHO="S11"> i just think that, i mean from these kind of extreme cases you just can't use your common sense of knowledge of everything, like you just can't say, well you know, this is this and this is (xx) you have t- i i don't think a single answer can ever, (exist) for, (xx,) but i mean i mean, the most, most strongest one would probably be that, the brain is you, or something. i mean i wouldn't, i i don't see any reason for saying the body is, me <U WHO="S1"> mhm </U> except that it just looks like, probably, the person. </U>
+			<U WHO="S1"> so what what ex- what arguments does he give against thinking that the brain is you...? he's not very satisfied with that. </U>
+			<U WHO="S10"> yeah </U>
+			<PAUSE DUR=":13"/>
+			<U WHO="S10"> oh the whole, robbery <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> thing </OVERLAP> is that <U WHO="S1"> mhm... </U> that ma- i mean, it kinda makes sense, like, which one would you prosecute? the body or the brain? <EVENT DESC="LAUGH"/> and </U>
+			<U WHO="S8"> but you wo- you wouldn't, prosecute the brain cuz the people, can't do anything to a brain. it does- it, i mean it doesn't move by itself, (it) you know? <U WHO="S10"> yeah, i know </U> and it, it's not, cuz if you charge a person you're basically charging a f- like a fine on him or you're, t- you're, you're trapping him in prison right? so, you trap a brain that doesn't do anything <U WHO="S10"> yeah you can't </U> you c- like the brain can still like think and control the body to do something else outside <U WHO="S10"> yeah </U> right? so it doesn't do anything different. but, but you can't really identify a person a- as the body though, because, it's the brain that's doing the control, right? so, </U>
+			<U WHO="S7"> that's kinda hard. </U>
+			<U WHO="S11"> no but if you had a choice between either defining the body and the, and the brain or the brain as a person, what would you define, would you say that <OVERLAP> your </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (i would) </OVERLAP> go for the brain, yeah </U>
+			<U WHO="S1"> so his argument there, hinges on what would you punish? would you punish the brain or would you punish the body? but how would you how, i mean one thing i was thinking about, how do you actually punish a brain? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S8"> yeah, that's what i was that's what i was actually thinking about <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> cuz like </OVERLAP> in here he said even if like they ha- have it in like the state prison or whatever <U WHO="S1"> mhm </U> his body would still be out there and like, if it was still transmitting, <OVERLAP> signals, he'd still feel like </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> yeah, so they wouldn't do anything </OVERLAP>
+				</U> he was free running <OVERLAP> around. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm... </OVERLAP> so what would be punishment for the brain? i mean (if) the b- the brain's happy in that kind of case right? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S7"> they're just storing it s- someplace else, in the prison. </U>
+			<U WHO="S1"> so can you punish the brain and body separately? </U>
+			<U WHO="S7"> i don't think so </U>
+			<U WHO="S10"> it doesn't seem like it </U>
+			<U WHO="S8"> could you stop the brain from s- thinking though? </U>
+			<U WHO="S7"> i mean that would be killing <U WHO="S9">
+					<OVERLAP> killing </OVERLAP>
+				</U>
+				<OVERLAP> it </OVERLAP> though </U>
+			<U WHO="S10"> which is, <U WHO="S8"> like </U> capital punishment </U>
+			<U WHO="S8"> o- or restricted it from, <SIC> hafting </SIC> the connection (between) the brain to the body? </U>
+			<U WHO="S1"> yeah you could cut the connections <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah </OVERLAP> you could cut the connection, that's that's sorta <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> then it would be </OVERLAP> like when he lost his, <U WHO="S8"> well <OVERLAP> he co- </OVERLAP>
+				</U>
+				<OVERLAP> connection </OVERLAP> underground or <OVERLAP> whatever. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S10"> would you be able to keep it alive though without like, if you, cut all the connections? </U>
+			<U WHO="S8"> yeah, he co- like he could still think, but he just couldn't connect with the body. like he couldn't tell the body to do something. he was still able to think. </U>
+			<U WHO="S10"> but you need to keep the connection so that like, the body like lives like, the brain needs to be able to tell the body to breathe, and <OVERLAP> circulate </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> mhm </OVERLAP>
+				</U> blood, and eat and drink </U>
+			<U WHO="S8"> that's true </U>
+			<U WHO="S10">
+				<EVENT DESC="LAUGH"/> so, </U>
+			<U WHO="S1"> so if you put the body on life support someplace else? </U>
+			<U WHO="S10"> well <OVERLAP> yeah, i guess you could do that. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah, how about that? </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S10"> but this is more trouble than it's wo- no, </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S7"> i don't know, that poses an interesting question... </U>
+			<U WHO="S1"> so it's not that the, that the argument he has given against the brain theory is actually, a good one. his argument is where do you who do you punish, the brain or the body? who do you put in prison? well if that's the argument, uh that doesn't show, just because you don't put the brain in prison that the brain, isn't the one, isn't you as the one that's responsible. <U WHO="S10"> mhm </U> so that i think is is some support for your view, that maybe his his argument against the brain theory isn't as strong as it looks at first sight. </U>
+			<U WHO="S10"> yeah </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S11"> um, for the third one, like i i didn't quite get it i mean, but where he says that where, the point of view is (whereever) (xx) i mean i couldn't understand what he's saying. <OVERLAP> the third point? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> for the point of view? </OVERLAP> um, point of view is where it seems to you that you're located. so, wherever, you know it seems to, seems to you now that you're in this classroom on the second floor of Mason Hall and, his o- his view is, the third view is, well that can't be wrong. wherever it seems to that you, located, you're that's where you are. </U>
+			<U WHO="SU-m"> okay. </U>
+			<U WHO="S11"> so, i mean isn't a- isn't that true for all practical purposes, i mean even if i'm wrong, i mean who cares whether i know i'm still here. so </U>
+			<U WHO="S1"> well, </U>
+			<U WHO="S10"> when you're dreaming though you think you're somewhere el- like, when yo- your body is actually in your bed, you think you could be in space and, you know, in (xx) wherever your dream takes you, <U WHO="S1"> mhm </U>
+				<OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> w- at that </OVERLAP> point you're probably, i mean, so like you're like i i don't there's anything wrong with that, i mean i don't know about that <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> i'm gonna go, check on some of the other groups. </U>
+			<U WHO="S10"> oh, okay. <PAUSE DUR=":05"/> i don't know, point of view </U>
+			<U WHO="S7"> i don't understand that one <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> i don't </OVERLAP> see the point of, i mean have yo- <OVERLAP> did you see (the like) for the past five classes? </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> the point of point of view? </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S11"> for the past five classes we're just discussing like <OVERLAP> i don't know weird cases </OVERLAP> i mean, it's just the same (xx) </U>
+			<U WHO="S7"> so, how is the, o- how does he disprove, the point of view? </U>
+			<U WHO="S10"> i don't know, <U WHO="SS">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> i couldn't tell where like the point of, i love how like, i love how i'm like the only one </OVERLAP> who read it. seeing how i usually never, you know i usually do my homework just right before i come to class, but, no i had trouble like figuring out where he stopped arguing for point of view and where it was just like, continuing his story. </U>
+			<U WHO="S8"> i think he probably would have, corrected it when he said, the soul equaled the b- (on) page two-twenty-four, you <U WHO="S10">
+					<OVERLAP> (okay) </OVERLAP>
+				</U>
+				<OVERLAP> know how </OVERLAP> she said, it's the corrected point of view <U WHO="S10"> yeah </U> so probably <OVERLAP> somewhere </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> so somewhere, </OVERLAP> i (s- also) remember seeing that because like i knew she said it's like the corrected version of the point of view thing, but i don't understand <U WHO="S8">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> where </OVERLAP> the point of view thing was like, <U WHO="S8"> wrong </U> wrong <U WHO="S8"> yeah </U> like i understand that </U>
+			<U WHO="S8"> because <OVERLAP> it would be </OVERLAP>
+				<U WHO="S10">
+					<OVERLAP> yeah and it's </OVERLAP>
+				</U> it would just be another version of point of view like, like you just thinking of us, i mean just correcting yourself, but it still be point of <OVERLAP> view, yeah </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> point of view, yeah. </OVERLAP> like, if point of view is just where you think you are at that moment, then isn't it continuously corrected cuz like, <U WHO="S8"> yeah, exactly </U> you're correcting where you are you're gonna, <U WHO="S8"> mhm mhm </U>
+				<OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> so </OVERLAP> how could that be, a different view? <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> yeah, or, </OVERLAP> i mean it might be totally different but she just, it's not like stated, like the way it's labeled as corrected point of view, probably isn't the best, but no- i have no clue what his final point like this is what it is. <OVERLAP> cuz </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> well he </OVERLAP> he wants you to think about it </U>
+			<U WHO="S10"> yeah </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S7"> well wait is he saying that the soul thing is what he think is cor- what he thinks is correct? </U>
+			<U WHO="S8"> mm </U>
+			<U WHO="S10"> cuz he said like right here my mood was, on like the top of two-twenty-five, <SEG TYPE="READING"> my mood then was chaotic, on the one hand i was fired up with, elation of my philosophical discovery and was racking my brain </SEG>
+				<OVERLAP> you know, so </OVERLAP>
+			</U>
+			<EVENT DESC="END OF SECOND SIMULTANEOUS CONVERSATION"/>
+			<U WHO="S1">
+				<OVERLAP> okay, if you, do you guys wanna take a short break? </OVERLAP>
+				<U WHO="SS"> yeah, sure </U> okay w- no more than five minutes. <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="SU-f">
+					<OVERLAP> she's limiting us. </OVERLAP>
+				</U>
+				<OVERLAP> five minutes maximum, and then back here. </OVERLAP>
+			</U>
+			<EVENT DUR="5:00" DESC="BREAK IN RECORDING"/>
+			<U WHO="S1"> okay um... okay guys um, like to get back, back together. and just to to poll where you guys got to in your deliberations, did you, did you guys come up with a with a, with a best answer? </U>
+			<U WHO="S4"> (with like) five </U>
+			<U WHO="S3"> i think we came up with five. </U>
+			<U WHO="S1"> five? </U>
+			<U WHO="S3"> that's our best. </U>
+			<U WHO="S1"> how come? </U>
+			<U WHO="S3"> um, beca- well basically we looked at it as, ki- a lot like three, <U WHO="S1"> mhm </U> but, with a set kind of standard? but we didn't really know what that was, so. with what we could think of as being the best set standard, we liked it, <OVERLAP> (i think) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm </OVERLAP> so, you think, it's not just for the case where he's, where the connections start fizzling out, <U WHO="S3"> mhm </U> but it works for all of the cases. you are wherever, sort of the center of gravity for you, is. <U WHO="S3"> yeah. </U> what about what about other groups? </U>
+			<U WHO="S12"> uh, we went with four, more or less. </U>
+			<U WHO="S1"> body plus brain? so you're partly, you're partly where your body is <U WHO="S12"> right </U> and partly what your <OVERLAP> brain is </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> right </OVERLAP> because when they were together, uh like right in the beginning before any of the operations, he knew exactly where he was, he knew everything about himself. but then when he got separated, he still had a point of a, a specific point of view. <U WHO="S1"> mhm </U> but he didn't know which one and that's when he started questioning it. and then uh, when everything got severed, i- he didn't really have a body. you know? it was just like wow i don't have a body, and he seemed (just) so, like discontent because he didn't understand anything he was just like what's this what's that, all he could do was think and it didn't seem like he really had any point of view, he didn't really have much of an identity. and then once the new body came it was like, it's a new body. and then he was kind of complete but then it got all kinda jumbled <OVERLAP> with the </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> o- </OVERLAP>
+				</U> two different brains. </U>
+			<U WHO="S1"> okay so you thought his, when the body starts losing contact, the body just, dies, <U WHO="S12"> mhm </U> and so, he's only located in Houston where his brain is. <U WHO="S12"> right. </U> um even, even when the, even when the connection, even before the br- body completely dies, do you think that's right? if the connection is severed, he lo- he's located where the brain is? <U WHO="S12"> what do you <OVERLAP> mean? </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> well it might, it probably takes his body a little, a while to actually, you know, completely die, <U WHO="S12"> right </U> after the connections are severed. <U WHO="S12"> right. </U> um, so, before the body completely dies, but the connections are severed, do you think, do you think he's in both places or do you think he's in, just in Houston? </U>
+			<U WHO="S12"> well, he's partly in both pl- i mean he's predominately, like most of him, the part of him where, where everything goes on, like everything <U WHO="S1"> mhm </U> (that makes) i mean his body is alive and breathing, so that's part of him that's alive in <U WHO="S1"> mhm </U> i thought it was in Tulsa? is that where it was? <OVERLAP> i don't really remember </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP> i don't remember it exactly </U> so, that's still alive so that's still there. but once that dies and you know it doesn't know where it is then, or when that point exactly comes, then everything that's left of him is, what's in Houston. </U>
+			<U WHO="S1"> okay, so you, you're you're inclined to think that, still before it dies, it's located in two places. <U WHO="S12"> yeah. </U> yeah. and you guys would think, in going for number five, you're inclined to think when the se- when the severing comes, he's located actually where his brain is, not not in both places. and before the severing comes, where would you say the center of gravity is? </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S5"> i don't know. before he loses communication with, <U WHO="S1"> mhm </U> with the body? </U>
+			<U WHO="S1"> okay so it just, it travels back and forth depending on where <U WHO="S3"> yeah </U> his point of view should be. what about what about you guys? what did you, come up with? </U>
+			<U WHO="S13"> we went with number five as well. pretty much like, the same reasons as them, and, how you said like the severing, <U WHO="S1"> mhm </U> was like, with the body. </U>
+			<U WHO="S1"> so, when yo- when it severs, when the severing comes, he's wholly with his brain, not with, not at all with the the living body that's, just completely disconnected. <U WHO="S13"> mhm. </U> what about what about you guys? </U>
+			<U WHO="S10"> i don't think we actually came up with one that we, totally liked. <U WHO="S1"> mhm </U> there were_ like we had a lot of people, i guess, like five, but we didn't totally understand five and how it, how it varied from, regular point of view, so, we couldn't really like accept that one, but, i don't know. </U>
+			<U WHO="S1"> are, you guys were also pretty tempted i kn- i know you were <U WHO="S10"> wha- </U> by the bra- just the straight brain theory. i'm wondering whether there could be a comeback for the brain theory against this, this intuition about your point of, your point, you are where your point of view is. </U>
+			<U WHO="S10"> i don't know. </U>
+			<U WHO="S12"> i felt like number five combined the two, two and three, like, it's your brain but then it's, i mean it's your point of view but then your brain is what is correcting itself. i don't know if that that helps <OVERLAP> with anything </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so how is it </OVERLAP> how does it combine the two? </U>
+			<U WHO="S12"> cuz it's your point of view, like you said, and then it's corrected, like that's, it's like logical thinking is what's correcting it and that's basically your brain and when, the whole time the perspective, perspective that we're getting is from the brain so, i feel like that's what's, actively correcting, the point of view. </U>
+			<U WHO="S1"> well, your brain is doing all of the th- all of the thinking right? <U WHO="S12"> yeah. </U> um, but i'm wondering how exactly, how exactly number five can be a combination of two and three. <U WHO="S12"> i'm just, i don't know. </U>
+				<OVERLAP> c- could </OVERLAP>
+				<U WHO="S12">
+					<OVERLAP> if i didn't kn- </OVERLAP> if i didn't explain it, then it's (xx) </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> well, it's just the thing is, two says, you are wha- just identical to your brain. your body is just this kind of, it's like a- having artificial limb. it's no more you than an artificial limb are, is, or no more you than your clothes are. um... so, looks like number five, the sort of point of view corrected, point of view, um, center of gravity view, doesn't wanna take that kind of view about what you are. they does, they don't wanna say, a- advocate of number five doesn't wanna say, you're wholly identified with your brain, irrespective of where you think you are. s- so number three, the advocate of_ sorry, n- the advocate of number two, the brain theory would say, it's just an illusion to think, that you are, walking around, underground. that's completely, just as much an illusion as if you were in this um, you were controlling this um, this this um uh you're on this boat controlling this robot underseas, with this virtual reality kind of, m- manipulation. on that kind of case, you really are up on the boat y- however much it might seem, virtual reality wise that you were, um under, on the sea floor. and, the advocate number two says it's the same thing, with your brain. you are wherever your brain is even though it may seem that you're completely, um, you're in completely, another place altogether <PAUSE DUR=":07"/> so, i think that it's hard to combine two and three. um, they've got really_ number, the advocate of number three, thinks well look you are wherever you think you are. where you are who you are, depends on your, on your actual, point of view. what how it seems to you... a couple of people i think you, um were saying, a problem for number three would be that uh how can you be where, it seems to you, cuz in dreams for instance you're um, you're clearly, not, is that? <U WHO="S4"> mhm. yeah, that was just what we said. <EVENT DESC="LAUGH"/>
+				</U>
+				<PAUSE DUR=":05"/> what do, what do people think? is it, could you be, is that a good objection to the, number three? <U WHO="SU-m"> mhm. </U>
+				<PAUSE DUR=":04"/> well, and a lotta people are are really tempted by, by the idea that you are this sort of immaterial thing, this semi- center of gravity. how do how exactly do you think we should capture the idea of, you know, where your center of gravity should be? <PAUSE DUR=":06"/> how do you decide that you were wrong that your center of gravity, how can you ever just, you know, decide that you're wrong about where your center of gravity is? <PAUSE DUR=":10"/>
+				<U WHO="S12"> wait, could you say that again? </U> i'm just wondering what the standard for, sort of correcting your, yourself is. so in the case of a dream, (you know) you're dreaming, that you're on Mars. <U WHO="S12"> mhm </U> and, maybe it's a completely, absolutely lifelike dream. you're imagining it vividly and, it's completely true, that Mars is like that. but, you're actually, we wanna say you're actually at home in bed under the covers asleep. how is it_ why is that the right answer? why why does the center of gravity, why is your center of gravity still here on earth, even though you're dreaming about Mars? </U>
+			<U WHO="S12"> cuz it's not real it's not really happening. your point of view doesn't isn't only like you looking at Mars. it's, what that point of view is is that your body's up there on Mars and you're interacting with things like feeling them looking at them <U WHO="S1"> mhm </U> hearing them smelling them whatever. but the fact is like that's not really happening. that's not, what's really going on. what your, where your body really is, is under the covers, and because of that you can't see and you can't hear and you can't do any of that stuff <U WHO="S1"> mhm </U> cuz you're dreaming, so it's not real and that's why you don't take it as real. </U>
+			<U WHO="S1"> okay so maybe that's a, a new, a different way of understanding what a point of view is. a point of view is where, the place where all of the sensory information is coming in. <U WHO="S12"> right. </U> so in the case of the the body <OVERLAP> example </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> well </OVERLAP>
+				<U WHO="S1"> hm? </U> that's, that's not where you are, but i'm saying in that particular case you can't take a dream as to be, as in well, you can't say that your your brain is up on Mars and you <U WHO="S1"> mhm </U> can't say that your point of view is up on Mars because that's just an illusion, you know? it's like if somebody, <U WHO="SU-m"> i don't agree </U> goes and, like hypnotizes me or something that doesn't mean that that's the way things are, it's just an illusion <OVERLAP> (to see that) </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> but that's </OVERLAP> your point of view though. you'll still say, i mean if s- if you asked a dream person where they are they'll say wherever you're dreaming that you are, whether or not your body's there. </U>
+			<U WHO="S12"> well, then you could go like, the same thing that happened with uh, (Wira) was it Perry's dialogues? <U WHO="S1"> mhm </U> it's like is it, is that your point of view, is that caused the right way or the wrong way, or is it your seeming point of view? you could go back to that sorta argument you know? </U>
+			<U WHO="S13"> but, that's not really the argument. all it's saying is that, the number three's like, wherever you're thinking you are that's where you are. </U>
+			<U WHO="S1"> um, right i think that's i think that's a good point. i think actually both of these are really good points because, um, <EVENT WHO="SS" DESC="LAUGH"/> yeah you could, could be giving us a new way of trying to figure out where your real point of view is. you point of view, if the seeming point of view is actually coming from ac- real, sensory input, in the case an- and that is the case, with the um, with when your body is separated from your brain. the body is gathering real sensory input. it's got a real, you know point of view on the world. whereas in the dreaming case, you've got, you've just imagining input. there isn't any real input. so that might be a way of distinguishing number three from number five. number five says look in order to have a, a point of view you have to have real input, coming into you. and um if there's n- and in the case where the the the link got severed between the body and the brain, you don't have any more real input going in, to that distant body. so you don't have an apparent point of view that's distinct from, from where your th- your actual um, mental processing is taking place back in the brain. yeah? </U>
+			<U WHO="S13"> i had a question that led up, uh about how he, he came about with number five. once the body and the brain got severed and separated, he was talking about, a connection how he was losing the connection <U WHO="S1"> mhm </U> but what type of connection did they have? i was wondering about that because, in the examples that you gave like a, a remote control <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then the car or whatever, uh, the remote control is c- controlling the car just as a brain would control <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> a body </OVERLAP> as it seems in that example, so like what kind of connection wo- did they have? </U>
+			<U WHO="S1"> it's supposed to be something just like that. he says it's radio connection, between <OVERLAP> the the neurons </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> so like if </OVERLAP> he was thinking to raise the arm, the arm would raise. <U WHO="S1"> yeah. </U> okay. </U>
+			<U WHO="S1"> yeah, so think, whatever the, you've got, for all of your i- it's kind of an, outrageously complex and and probably technologically impossible feat, <U WHO="S13">
+					<OVERLAP> well i was just </OVERLAP>
+				</U>
+				<OVERLAP> but the idea is that </OVERLAP> for every of of your neurons coming, output neurons, you've got a little, uh transmitter attached that would trama- transmit it to, the other end of the ne- the nerve, which would, help control your muscles in the body. and then vice versa, for every for every nerve and um, sensory, uh neuron, you have another transmitter going back to hooking it up to the right place in the brain. so it's just like these these um, remote control cars and so on... but this raises another i me- this suggestion, yeah your suggestion, um that that you are wherever tha- your real, sensory input is being, um channeled from. <U WHO="S12"> i don't really </U> well, </U>
+			<U WHO="S12"> i mean, i don't really believe in the whole point of view thing to begin with <U WHO="S1"> okay. </U> but i'm saying just, like what i was saying was just kinda in response to your whole dream thing. </U>
+			<U WHO="S1"> okay you know, that's okay. you don't have to_ i'm not saying, you know, it's your final considered opinion, it was just, reaction to this point. um, but, <U WHO="S13"> just relax alright, <EVENT WHO="S1" DESC="LAUGH"/> God </U> one one thing one question it it raises for me at least is, what do we say about the the person who's who's controlling the robot under, under the sea? who's on the ship and has got these, these connections with the robot undersea and it, seems to that person in some ways, that she is, down on the sea floor. that she can see things down there that she could move around to pick things up, drag them, and she's getting real sensory input from down there, and real, you know, really manipulating, uh, a body, down there. should we, should the advocate of the the point of view, center of gravity view say that, that person is partly on the sea floor and, partly up, on the ship? or wholly down on the sea floor? <PAUSE DUR=":15"/>
+			</U>
+			<U WHO="S13"> what's on top of the ship? just a brain? </U>
+			<U WHO="S1"> no, the whole body. the person's there, you know </U>
+			<U WHO="S13"> oh like a do it like a, machine is down on the bottom </U>
+			<U WHO="S1"> yeah. the machine is down on the bottom, the person is up on top, and she's got, you know, a whole ki- all these levers, it's like a it's like a really high tech video game. <U WHO="S13"> mhm </U> and you know, she can she, pulls and and pushes as if she were down on the bottom, and i- and starts to feel to her as if she's, really down there. she kind of identifies with the with the machine down there. <PAUSE DUR=":07"/> it's ki- it's like a virtual reality, machine for her. does that make her partly, down there on the sea floor do you think? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S5"> i don't think so. i thi- i think for one thing like, cert- she'll have certain sensory inputs from down on the sea floor <U WHO="S1"> mhm </U> but like if someone calls out her name up on the ship, <U WHO="S1"> mhm </U> she's gonna be, like she'll respond to that if w- when just the brain's sitting in the vat, if someone calls your name to the brain, <U WHO="S1"> mhm mhm </U> there's gonna be no response whatsoever. </U>
+			<U WHO="S1"> so she's, the fact that she's already, she's got a point of view, a situated, perspective up on the ship <U WHO="S5"> yeah </U> and a situated perspective down on the sea floor, do you wanna say that, it's only the one on the ship that's that's, that's really, real? <U WHO="S5"> yeah. </U> does that seem right to other people? and you might think, one_ you might think look, you know she's probably in two places. this center of gravity is is kind of divided, in this kind of case. because you've got both the ability to respond an- to things going on in the ship, and the ability and readiness to respond to things down, on the sea floor. you've got this, sort of two, two part, consciousness. or maybe it depends on where you're focusing your attention. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S13"> i agree like temporarily like she feels that but, <U WHO="S1"> mhm </U> i don't know it's a machine and after sh- you know it'll come up and she'll be herself and, there's gotta, you gotta say something about like, you know pers- i think she'd she'd feel like she's down there you know and she'd feel like a part and she'd feel physically she'd feel down there but i don't think, i think if you asked her straight out like where are you? she'd be like, on the boat. i mean i <U WHO="S1"> mhm </U> and if you asked a machine, obviously the machine wouldn't answer anything (it didn't know) </U>
+			<U WHO="S1"> so she's always sort of <OVERLAP> somewhat aware </OVERLAP>
+				<U WHO="S13">
+					<OVERLAP> just physically </OVERLAP>
+				</U> of her real <OVERLAP> physical body </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> i mean she's just the, </OVERLAP> when you do virtual reality, you're devoting your consciousness and all your physical energy towards, moving a machine. </U>
+			<U WHO="S1"> mhm. would it make a difference do you think if you, if she went into a sort of a trance? you know you_ people can get so concentrated on what they're doing that, you know y- you, you nudge them or you you you you you say something to them and they just, they c- completely ignore you. if she was so bound up in in what was going on under, under the sea, would it make sense then? would it be like having a remote controlled body? </U>
+			<U WHO="S13"> can you, i mean is temporarily a a, an acceptable answer? </U>
+			<U WHO="S1"> yeah, well i think with the, i mean, the the shifting center of gravity point of view, um, is something that, that that can change, that can move from one place to another in an instant. i mean that's what Den- Dennett's idea was, is that at the, at, during this example where th- the body is under, underground, in Tulsa um, and also when the connections start shif- start going on the fritz, he says well look it just it sh- his center of gravity shifted in an instant, back to, um, back to the vat. it didn't take any time, it doesn't you know, there's no material transfer of anything that has to take place... so looks like you know the the the time it takes, or the time aspect doesn't, and distance travel doesn't make any difference t- for this kind of, for this kind of view to, to work. <PAUSE DUR=":05"/> um, i wanna i wanna take a few minutes just to talk about um, um for next time i'd like to follow up next time to, talk about the next stage of this thought experiment taking it on to the, the, stage where he's got a new, spare brain which is actually a computer, um, and whether that's actually just one person, or two people um, and whether you can actually, one one worry th- you might have is whether the the computer is actually doing any thinking at all, um and whether you can have one person with these two brains. um, so, that's what i wanna concentrate on next time and i wanted to find out if there'd be some people willing to, um, volunteer to lead the discussion for that, next time? </U>
+			<U WHO="S5"> i'll do it. </U>
+			<U WHO="S1"> okay, um, also people su- someone suggested, that we might just give, a sign up sheet and let you sign up beforehand for, um, the rest of the, the presentations. um, would that be, would people like to do that or would you like to continue doing it sort of on a, um, after we've had a chance to do the readings for the week? </U>
+			<U WHO="S13"> let's do a sign-up sheet. </U>
+			<U WHO="S1"> let me, let me take a vote. for of, how many people haven't done a presentation so far? okay, of the people who haven't done a presentation so far, how many would like to do sign-up sheet now in advance of the readings, and versus how many people would like to wait until we do the readings, so, sign-up sheet now? how many people for a sign-up sheet now? one? </U>
+			<U WHO="SU-m"> two </U>
+			<U WHO="S1"> two? how many people for wait, three. </U>
+			<U WHO="S13"> three. </U>
+			<U WHO="S1">
+				<OVERLAP> wait and see? </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> come on people. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<EVENT WHO="SS" DESC="LAUGH"/> you can't be voting for both. </U>
+			<U WHO="SU-m"> oh whoops, no, i, i'll go for the wait and see. </U>
+			<U WHO="S1"> wait, wait and see, that was one two three four. oh, i think the wait and sees have it, um </U>
+			<U WHO="S13"> can you send me around a sign up sheet please? i'd like to know (xx) </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<EVENT DESC="BACKGROUND NOISE AS STUDENTS LEAVE CLASS"/>
+			<U WHO="S1"> when would you like to? </U>
+			<U WHO="S13"> um, i'd say, mid March, to late March. </U>
+			<EVENT DESC="UNINTELLIGIBLE SPEECH IN BACKGROUND UNTIL END"/>
+			<U WHO="S1"> um... no the, no actually (we didn't do this) the last time, but one thing to, one thing to, that i'd like to, to go (through then) is the is the plausibility of the second scenario. could you have, could you have two (controlling centers) in one person, um and secondly, is it plausible to think that, a computer, could be a real (xx) a real control (center, the com-) a computer would be a person. uh, because he's assuming that as he switches back, (from) one, one brain to another, artificial brain, it doesn't make any difference... did y- do you two know each other? </U>
+			<U WHO="S8"> i'm Pearl </U>
+			<U WHO="S3"> i'm Max </U>
+			<U WHO="S1"> um, so we were just talking about what to concentrate on next time. um, um two things to, to think about is, to, how plausible is this case as, is it plausible to think a person could have two different control centers, and still be one person? the spare brain idea, is that even a s- a starting point? um a second kind of idea. one of these brains, brains quote unquote, is supposed to be a computer. could a computer actually be a person? could it have thoughts and feelings and (xx) could that even be part of_ could it be a person? could it be part of a person? um, so that's another uh, another worry. um, and then a final worry is well, what should, what should what kind of a theory should we think is true in order to, you know describe this person? is it, if we take Dennett's word and it's one person, two brains, one artificial one real, um, is it the point of view, number five that he's appealing to here? </U>
+			<U WHO="S8"> (are we) applying the, the theory <OVERLAP> (on Dennett's,) okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. i mean that's </OVERLAP> that might be a harder, <OVERLAP> a harder </OVERLAP> thing to get a grip on, but that's that's another direction to take it. how, what cou- what should the theory say about this? about this kind of case and, you know what seems, what seems plausible? um, and um, and then when the two, the two come apart, that's kind of the case that um, that Parfit was thinking about where you have, you know two_ where you've got, uh, a consciousness that divides, um and they're both (okay) just gonna be survivors, of you, and all of sudden you have two people in one body, um, (this) so that's a- also kind of a split brain case. so, that's another another, place to, to wonder about what should we say about that kind of case? are (they) really two people or one people. so you, i mean these are just sort of starting points to get you thinking about what, you can (cull something out of) just one or two, points of this. <U WHO="S8"> (xx) </U> oh. yes thank you. </U>
+			<U WHO="S8"> okay okay. and um Grace is sick today, <U WHO="S1">
+					<OVERLAP> ah </OVERLAP>
+				</U>
+				<OVERLAP> so she </OVERLAP> told me to tell you that. </U>
+			<U WHO="S1"> okay thanks. i hope she's, feeling better. it's a bad time to be sick. </U>
+			<U WHO="S8"> so, okay </U>
+			<U WHO="SU-m"> do you have my Parfit, uh sheet (that i handed in?) </U>
+			<U WHO="S1"> oh um, yes i do. where is it? it should be in my bag. </U>
+			<EVENT DUR=":38" WHO="S13" DESC="CONVERSATION WITH MICASE RESEARCHERS"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

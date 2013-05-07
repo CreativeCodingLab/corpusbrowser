@@ -1,0 +1,2813 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="ofc195su116">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Heat and Mass Transfer Office Hours </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> OFC195SU116 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan  </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  WARNING -- Citation of examples is restricted for one or more speakers in this transcript.  Permission to cite examples from this transcript in any presentation or publication must be obtained from the English Language Institute. </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="137">
+						<DATE> October 12 and 25, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Shannon Dubenion-Smith </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Shannon Dubenion-Smith </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Darell Tibbles </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz, Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 01/18/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="21"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="23"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NRN" ROLE="JG, Graduate Student Instructor" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> FAR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="SG, Graduate Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S17" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S18" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S19" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S20" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="ALL" AGE="1"> </PERSON>
+				<PERSON ID="S21" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S22" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S23" LANG="NRN" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Conference Room, Dow Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT DESC="MULTIPLE BACKGROUND CONVERSATIONS NEXT 26:34"/>
+			<U WHO="S1"> so, who came here first? i don't know, um, you wanna start, do you have a question? <OVERLAP> specific question? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no i'm fine </OVERLAP> you can </U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (start with them) </OVERLAP> i got here late. <OVERLAP> (xx) they were waiting. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> umm </OVERLAP> specific questions? you have a specific question? </U>
+			<U WHO="S3"> um, everyone <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> else </OVERLAP> was here first. </U>
+			<U WHO="S1"> (Robin?) </U>
+			<U WHO="S4"> yeah, i have a question, (xx) </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S4"> this, right here i'm not sure_ i don't understand why we use this, <OVERLAP> this um </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh oh, </OVERLAP> okay so this is, </U>
+			<U WHO="S4"> shape factor </U>
+			<U WHO="S1"> (xx) you use the shape factor when you don't know like when you have two dimensional heat transfer right? </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> which is the case here because you know like (heat) is going this way, it's radially going out <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then it's it going off. okay? it's going to the surface here. <U WHO="S4"> mhm </U> now you can't model this as a one dimensional heat transfer you know like the, um the sort that we learned before so you, take care of, the heat transferred from the surface of the tube, to the surface of the, soil or solid or whatever here it, it is, <U WHO="S4"> mhm </U> um by the shape factor, okay? </U>
+			<U WHO="S4"> but if that's_ this shape factor is it says it's for, hollow cyl- cylinder. <U WHO="S1"> um </U> and that's why i don't understand why <OVERLAP> we use that </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh is this for </OVERLAP> the hollow cylinder? okay. i thought you were talking about this. is this the same as this? </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S1"> because this is for, no this is for buried, buried cylinder. for a hollow cylinder </U>
+			<U WHO="S4"> it's the same thing except you have R-two, except <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP> so this is for a buried maybe it's not a hollow cylinder cuz this H is, this H actually <EVENT DUR=":04" DESC="AUDIO DISTURBANCE"/> yeah but what_ if you have something like this? this shape factor takes care of the heat transfer from the surface to here. <U WHO="S4"> okay </U> okay? so what you do is you say, the formula is like this, the heat transferred from here to here, is just K of this material here, <U WHO="S4"> uhuh </U> times the S shape factor that you have for this geometry which is this thing, times the delta-T the delta-T would be from the surface to the surface. <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> okay? </OVERLAP> so this shape factor only takes care of um this region, from this surface to this surface. okay? that's all it does. now for the rest of it if you wanna go from here to here you have to worry about the other resistances that you have <OVERLAP> for example </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (this example) here? </OVERLAP>
+			</U>
+			<U WHO="S1"> right. this is like the internal resistance, the convection resistance inside the pipe and this is for the thickness of the pipe itself. and then, from here to here the shape factor takes care of it. and you need to_ if you want to add the resistances you have to convert the shape factor into a resistance first which is one over K-S just like this. okay? so this is the shape factor, this is the Q for it, and this is the resistance for it. and it takes care of (heat) transfer from here to here. <OVERLAP> okay? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (then) </OVERLAP> whenever you have a cylinder you j- you just use A, <OVERLAP> the log mean </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> log mean </OVERLAP> yeah. if you have like multiple layers <OVERLAP> of some </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> what if you </OVERLAP> what if like this, thickness is really really, small? can you just use the </U>
+			<U WHO="S1"> if it's if it's a very small thickness and if the material is very conductive, then you can probably say that the resistance is very small because this is, this delta-R is really, small and this K is very big so this resistance is very small you neglect it in favor of the other one. </U>
+			<U WHO="S4"> so usually when you have thick, i mean thin, layer you can tell you can say that </U>
+			<U WHO="S1"> the resistance is very small it has to be very conductive too. you can't really say only by, the delta-R because if this thing is very small too then, <U WHO="S4"> okay </U> it might not necessarily give H (xx) <OVERLAP> right? </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> (uhuh) </OVERLAP>
+				</U> so i- if delta-R is very small and it's very conductive then you can probably say the resistance is very small so it's all the uniform temperature throughout the thickness of the tube, right? </U>
+			<U WHO="S4"> so there's jus- just one more question (xx) one more question like <U WHO="S1"> mhm </U> if you if we have, problems that we did like at the beginning of cla- of the year, <U WHO="S1"> right </U> and have Hs in 'em, like can we expect that, he's gonna give us like (another one) (xx) </U>
+			<U WHO="S1"> yeah yeah you should <U WHO="S4">
+					<OVERLAP> so we gotta combine all </OVERLAP>
+				</U>
+				<OVERLAP> be able to </OVERLAP> combine right. actually let me draw a picture for you think about this case, do you have an extra sheet of paper (i can) use? okay so think about this case let's say you have a box, sort of like a box here, and then there's a, pipe in it. okay? </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> now there's another box here, and there's another pipe in it. <OVERLAP> okay? </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> uhuh </OVERLAP>
+				</U> you know the dimensions. here and here, fluid is, flowing like let's say with a velocity of, ten meters per second, and temperature is given, <U WHO="S4"> uhuh </U> for the fluid inside. here, another fluid is flowing with a velocity of let's say two meters per second, another temperature this is T-one this is T-two is given. and for h- here, the heat transfer coefficient is given. okay? for, between the two. so we have a heat transfer coefficient for the fluid that's here, and the velocities of these. now they say, calculate the rate of heat transfer from this to this. okay? so you have one resistance for the H here, which you have to calculate from </U>
+			<U WHO="S4"> is this solid right here? </U>
+			<U WHO="S1"> yeah <OVERLAP> this is solid right here. </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> is this materi- </OVERLAP> okay. </U> so, you have one resistance here which you can calculate from the Nusselt number. <U WHO="S4"> okay </U> you have the Nusselt number you get the H you calculate the resistance here. then you have, probably like, you might you might wanna think about the thickness too but let's not worry about that. then from here from to here you have a shape factor which is given here. <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> it's this </OVERLAP> case right? so you use this shape factor for the resistance from here to here. <U WHO="S4"> okay </U> then from here to here you have an H, so it's one over H-A area being this, and then again from here to here another shape factor from here to here, another H. </U>
+			<U WHO="S4"> Nusselt number, and would the Nusselt number be the same for these two or <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no </OVERLAP> because the velocities are different. </U>
+			<U WHO="S4"> okay. i mean w- </U>
+			<U WHO="S1"> the velocities are different so you have to first check if they're in the same regime you might be able to use the same formula for them, if the re- regime is the same <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i mean they </OVERLAP> they only give you like a Nusselt number of, i don't know whatever, ten. </U>
+			<U WHO="S1"> oh okay. if they just give you a Nusselt number a value for Nusselt number <OVERLAP> then you (can say) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> and then you have to find </OVERLAP> the Hs in here, i mean do you use the same Nusselt number, to find the Hs in there? </U>
+			<U WHO="S1"> yeah if they <OVERLAP> give you, one less </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (and so i,) just check </OVERLAP> (with) the formu- formula i tried to use right? </U>
+			<U WHO="S1"> um yeah but they, they probably won't give you a number for Nusselt number you know they won't say like Nusselt number is ten. </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> they just give you a velocity and you should be able to calculate the Nusselt number yourself, using the formulas for for (inside <OVERLAP> the pipe,) </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U> right? </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> great. </U>
+			<U WHO="S4"> thank you. </U>
+			<U WHO="S1"> okay. next. </U>
+			<U WHO="S1"> do you have a question? </U>
+			<U WHO="S3"> i'll, i'll go after them. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S5"> alright i just had a few, uh, conceptual things (here.) <U WHO="S1"> (alright) </U> uh, first off, i know we have equations for_ to find N-F, do you thin- exam_ we can copy_ just use the charts right? </U>
+			<U WHO="S1"> yes if it's_ if it falls in the chart if it's falls in this <OVERLAP> range, </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> mhm </OVERLAP>
+				</U> use the chart it's <OVERLAP> easier. </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> okay </OVERLAP>
+				</U> okay? </U>
+			<U WHO="S5"> okay great. <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> do you </OVERLAP> have a, hyperbolic tangent on your calculator? </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> you do? okay, cool. </U>
+			<U WHO="S5"> yeah so, a- another thing (i was confused on) is that i know, you talked about this before and i don't_ i wanna make sure i have it right, now if you um_ because the one equation for, um, case two, <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> N </OVERLAP> N-F it's it's just this huge equation, <U WHO="S1"> mhm </U> and i know you said before you could you could probably just use this, <U WHO="S1"> yeah </U> and just use L-C instead? </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S5"> okay so you can <OVERLAP> use that. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> as long as </OVERLAP> the thickness is not very big. </U>
+			<U WHO="S5"> okay </U>
+			<U WHO="S1"> okay? as long as the thickness of the pipe is not really big you can use L-C because, um, as we said before <PAUSE DUR=":04"/> what L-C does is that they say we we we, okay we saw the case that this was insulated right? </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> and that's case one. if it's not really insulated, we correct the length by saying we cut this in half add half of it to this side add half of it to this side, so this is just a little bit longer, right? </U>
+			<U WHO="S5"> mhm </U>
+			<U WHO="S1"> so if this thickness is not very big now, this correction won't make too much of an error </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> right? in the, actual case. but if this thickness is big you need to use the formula for case two which is the exact formula for, <U WHO="S5">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> a </OVERLAP> noninsulated (tip) right? </U>
+			<U WHO="S5"> um, and then uh, oh for semi-infinite, um... so, i was just uh curious is tha- is this exponential is that, all of this <OVERLAP> (or is it just E-X-P of this?) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no no error function, </OVERLAP> no exponential_ see it's, error function of this minus exponential of this, <OVERLAP> times </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> times </OVERLAP>
+				</U> error function of <OVERLAP> this. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> okay </OVERLAP> okay </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S5"> i was thinking (xx) <U WHO="S1"> right </U> now (xx) how you keep track of this right i mean this is pretty big. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> this if you know the surface temperature. </U>
+			<U WHO="S5"> y- yeah if you know </U>
+			<U WHO="S1"> yeah if you know the surface temperature you can use this, this is probably in terms of H so you know the heat transfer coefficient outside and the temperature outside. okay? </U>
+			<U WHO="S5"> well this is saying it's, T-one (and then this) (xx) is T-one? </U>
+			<U WHO="S1"> yeah T-one is in the fluid, it's not the surface temperature right? </U>
+			<U WHO="S5"> yeah, so, you can use this chart when you have fluid temperature? </U>
+			<U WHO="S1"> right. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> and then surface </OVERLAP> temperature, surface temperature it's just this term right here you know that, cuz this is just just, to deal with the fluid? <U WHO="S1"> um </U> i thought mm, cuz you're, it looks like <OVERLAP> from the, (xx) surface temperature. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh it looks like the surface_ </OVERLAP> oh you mean this this, part is the same as what the (equation) you had_ you know the surface temperature? </U>
+			<U WHO="S5"> yeah but i i j- if i read the notes right it's just you need to know that this <OVERLAP> term is </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes, </OVERLAP> correct correct. <U WHO="S5">
+					<OVERLAP> and then </OVERLAP>
+				</U>
+				<OVERLAP> so if </OVERLAP> you solve this part (xx) it's it's the surface <OVERLAP> temperature. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> if you know </OVERLAP> the surface temperature. and then you use (the card) if you don't know it. or this big <OVERLAP> chain. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> actually </OVERLAP> you know what this is for the general case yeah this this deals with the fluid this is for the surface temperature correct. <U WHO="S5"> okay </U> yeah exactly. </U>
+			<U WHO="S5"> okay, um, i think that was basically it, <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> if i </OVERLAP> think of something else <EVENT DESC="LAUGH"/> i guess (xx) </U>
+			<U WHO="S4"> so when do we use this equation then? </U>
+			<U WHO="S1"> which one? </U>
+			<U WHO="S4"> only if you know the surface temperature? </U>
+			<U WHO="S1"> um see if it's, only_ if if you know the surface temperature it's only the first term that you need to, deal with, okay? if you ne- if you know the surface temperature and that's in your notes </U>
+			<U WHO="S4"> it's right <OVERLAP> here? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's </OVERLAP> in your lecture notes. right yeah, that's the only term that you need to worry about if you know the surface temperature. if you don't know the surface temperature you can either use this whole thing or use the chart. which i would say use the chart it's easier, <EVENT WHO="SS" DESC="LAUGH"/> (you know) don't <EVENT DESC="LAUGH"/> those exponentials and </U>
+			<EVENT DUR=":07" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> yes </U>
+			<U WHO="S4"> okay, and so, what_ i mean like you use this if you know the, s- the surface temperature (xx) (now where does T-S come from?) </U>
+			<U WHO="S1"> um T-one would be T-S then. </U>
+			<U WHO="S4"> but i thought this (was) T-S <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no tha- </OVERLAP> that if if you know this_ if you know the_ see that's the case that_ because it's the same if the formula will be di- will be different you will have T-S here then, because it's as if the H is, extremely large so that these terms drop out, correct? </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> if the X is ex- extremely large, or the H, the exponential of, this minus this thing you know like <U WHO="S4">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> this (thing) </OVERLAP> drops out right. and then you will, um, have only this term right? and that means if the H is very very big, the surface temperature is the same as T-one. so you can put your surface temperature here. but i would say use the, th- the lecture notes cuz, it was derived for you in the lecture notes, (in here.) </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S4"> so surfa- temp- surface temperature would be T-one right? </U>
+			<U WHO="S1"> surface temperature would be T-one yes. </U>
+			<U WHO="S4"> and then you would just solve it <OVERLAP> (for the H) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you use_ </OVERLAP> right di- did he, T-infinity well he gave you the big one again right? he gave you the big equation? </U>
+			<U WHO="S5"> in his </U>
+			<U WHO="S1"> uh wi- uhh </U>
+			<U WHO="S5"> on his exam notes, he does (have the small) (xx) </U>
+			<U WHO="S1"> does it? </U>
+			<U WHO="S5"> yeah, <U WHO="S1"> okay </U> yes the two <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> which is which? </OVERLAP> which is T-S over that, right? T-S minus <OVERLAP> (T-S.) </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> (T-S) </OVERLAP>
+				</U> yeah </U>
+			<U WHO="S5"> yeah and he he showed the, (cases about.) </U>
+			<U WHO="S1"> right. so he just switched the T-S to T-one over the, </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> right? so if you know the surface temperature you can use that (xx) </U>
+			<U WHO="S5"> but, th- and then wouldn't you use this (part) if you know H? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S5"> okay. this one, you can use if it you don't know H? </U>
+			<U WHO="S1"> no if you don't know H how do you use this one? </U>
+			<U WHO="S5"> i don't_ i don't know why would you use this one? why <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no if </OVERLAP> you don't know H, and you don't know the surface temperature you can't do anything. you need to know either H or the surface temperature. if you know the surface temperature use this part, or use that equation in the notes. if you know H you can either use this equation which is very big or use charts. </U>
+			<U WHO="S5"> so if you don't know H you can still (use this) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> if you don't know H </OVERLAP> and you don't know surface temperature you can't do anything. </U>
+			<U WHO="S5"> no but i said if, if you know the surface temperature, and you don't know H you can (do the same?) </U>
+			<U WHO="S1"> you don't know surface temperature but_ and you know H? </U>
+			<U WHO="S5"> no you know the surface temperature but you don't know H. </U>
+			<U WHO="S1"> you know the surface temperature and you don't know H you can use only this part. <U WHO="S5"> yeah </U> or that equation. </U>
+			<U WHO="S5"> and that's not as accurate, right? </U>
+			<U WHO="S1"> it is it is very accurate. <U WHO="S5">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> if you </OVERLAP> know the surface temperature it's it's very accurate using this. <U WHO="S5"> okay </U> (xx) </U>
+			<U WHO="S4"> how're you gonna find (these?) i mean how are you gonna solve for T if you don't know H? </U>
+			<U WHO="S1"> no no, if they give it to you. if they give you like the surface_ they say like you have a semi-infinite solid initially at this, temperature at, like T-naught. and then at time T equals zero you set the surface temperature to be T-S and you keep it at T-S, how the heat, diffuses in, then you know T-S right? you know the surface temperature. <U WHO="S4">
+					<OVERLAP> yeah but that's </OVERLAP>
+				</U>
+				<OVERLAP> then you </OVERLAP> use that formula. </U>
+			<U WHO="S4"> that's gonna be, T-one right? T-S is going to T-one. </U>
+			<U WHO="S1"> right yeah <U WHO="S4">
+					<OVERLAP> (i mean) you don't know </OVERLAP>
+				</U>
+				<OVERLAP> you switch_ </OVERLAP> yeah. <OVERLAP> you don't know </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> what do you_ </OVERLAP> what do you have for your for your T? </U>
+			<U WHO="S1"> for your what? </U>
+			<U WHO="S4"> the T </U>
+			<U WHO="S1"> T is what you wanna solve for. </U>
+			<U WHO="S4"> yeah <OVERLAP> but you don't know </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> like it's a temp- </OVERLAP>
+			</U>
+			<U WHO="S4"> if you don't know H, you said you kno- you don't <OVERLAP> know H (you have to use) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no no </OVERLAP> if you don't know H you don't use_ see if you know, if you know the surface temperature you don't worry about these parts. you only, use <OVERLAP> the first, you on- you only, use the first </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh okay, alright just this one right here? </OVERLAP>
+			</U>
+			<U WHO="S1"> term right. <U WHO="S4"> alright </U> okay? </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S5"> oh just uh one quick_ i know you use alpha in this equation, uh, is rho a solid? is the K a solid? </U>
+			<U WHO="S1">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> the- </OVERLAP> these are all for solids? </U>
+			<U WHO="S1"> for, w- whichever material you're talking about but_ right in these equations it's for solid. </U>
+			<U WHO="S5"> okay </U>
+			<U WHO="S1"> in Prandtl it's for liquid, </U>
+			<U WHO="S5"> oh, yeah </U>
+			<U WHO="S1"> for fluid <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah yeah </OVERLAP>
+			</U>
+			<U WHO="S1"> okay. so in this one (is just_) everything is for solid. <U WHO="S5"> okay </U> alpha is for the same material like all of them are for same material. okay? i mean all everything actually Reynolds, Prandtl Nusselt everything is for the same material except for Biot. </U>
+			<U WHO="S5"> yeah, <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> in Biot, </OVERLAP> H is for fluid, uh K is for solid, <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well, </OVERLAP> um temperature is_ i'm getting confused about this. <U WHO="S1"> uhuh </U> for the, this one we're supposed to use the bulk temperature so is that a_ the average of the two temperatures? </U>
+			<U WHO="S1"> no no you have, two different cases. <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> for </OVERLAP> the first_ for the, cooling cycle you need to, do your you know like you, for this cooling cycle you need to (xx) your properties at this temperature and do your calculations based on this temperature and those (cool) properties <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and get </OVERLAP> an H. <U WHO="S3"> okay </U> that's H for the_ c- cooling cycle. <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and then </OVERLAP> for the heating cycle you have_ you do the same thing, so you have two different Hs <OVERLAP> one is </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U> for the cooling cycle, one is for heating. </U>
+			<U WHO="S4"> if you know H you don't know (xx) </U>
+			<U WHO="S1">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay </OVERLAP> so then when we, do the, plot of it we're gonna have, </U>
+			<U WHO="S1"> for each, for for the five, first five seconds you use the H for, <U WHO="S3"> oh <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> heating for the s- next five seconds you, use the H for cooling. <U WHO="S3"> okay </U> okay? and then again repeat, alternate between them, <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay. </OVERLAP> um and then, assuming, can we, check the Biot number or if we have two different Hs? </U>
+			<U WHO="S1"> you have to check the Biot number for both cases, <OVERLAP> and see if it's </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay i- it has </OVERLAP> to work for both cases <U WHO="S1"> yes </U> in order to use that? <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes </OVERLAP> yes if it works for only one case then lumped (key) capacity is, valid for that cycle and then, you can't do lumped (key) capacity for the other cycle <OVERLAP> because it's </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U> not valid. <U WHO="S3"> okay </U> so you have to make sure it's valid for both cycles so <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3"> and then, we want, we wanna graph the temperature naught, the theta over theta-naught right? </U>
+			<U WHO="S1"> no you wanna, plot the the temperature itself. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S6"> and is this, is this, equal theta over theta-naught or is this just theta? </U>
+			<U WHO="S1"> no that's theta over_ well it depen- depends on how you define your theta. <OVERLAP> sometimes theta is </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> oh okay cuz i </OVERLAP> know i saw it written as theta equals this <OVERLAP> but </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U> then i thought that was </U>
+			<U WHO="S1"> yeah, because som- usually how they define theta is, a nondimensionalized thing so it's actually this whole thing <OVERLAP> is </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> okay </OVERLAP>
+				</U> thay- theta. <U WHO="S6"> right </U> but i remember in the book, where was that? there was an equation that was theta over theta-naught remember that? <U WHO="S6"> uh, <OVERLAP> i don't know </OVERLAP>
+				</U>
+				<OVERLAP> um for the fin. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> oh okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> for the </OVERLAP> fin. it was theta over theta-naught that that was how they defined it which is not very good they usually don't dimensionalize it so </U>
+			<U WHO="S6"> okay so we wanna actually solve it for T? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S6"> okay </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S6"> and then, on the third one, <U WHO="S1"> uhuh </U> i was confused about temperature again. <OVERLAP> because, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U> they give us this temperature, but <U WHO="S1"> mhm </U> (xx) the film temperature, <U WHO="S1"> mhm </U> and we don't know what the temperature of the wall would be. <U WHO="S1"> right </U> so, are you supposed to use, conduction through it? <OVERLAP> or you don't </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um, </OVERLAP> you don't know the k- material <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP> you don't know the K <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> don't know the thickness <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> you don't (xx) </OVERLAP> okay so, we want to_ we want the temperature at (xx) at this location right? </U>
+			<U WHO="S6"> yeah </U>
+			<U WHO="S1"> so, let's say if we knew that temperature if you could evaluate the film temperature, and you could do all our (xx) calculations right? </U>
+			<U WHO="S6"> yeah </U>
+			<U WHO="S1"> so what if guess on, guess just the temperature for the walls, evaluate our film temperature, and get our physical properties, and then calculate an H, okay? </U>
+			<U WHO="S6"> okay </U>
+			<U WHO="S1"> and because we know we can calculate Nusselt numbers <U WHO="S6"> mhm </U> we know our physical properties and ca- calculate an H for here and then from H and Q, i know Q and i know H, i can calculate then the temperature of the wall. right? </U>
+			<U WHO="S6"> yeah </U>
+			<U WHO="S1"> because it's <U WHO="S6">
+					<OVERLAP> (xx) (it) </OVERLAP>
+				</U>
+				<OVERLAP> like Q is </OVERLAP> equal to H times <OVERLAP> delta-T. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> delta-T </OVERLAP> okay </U>
+			<U WHO="S1"> okay? so first guess, first just guess a, wall temperature in order to evaluate your physical properties and then just, don't worry about that, guessing, okay? just first guess one, get your physical properties, okay? and then calculate your H, and then calculate your temperature of the wall, of the plate. </U>
+			<U WHO="S6"> this won't be run? you don't have to iterate? </U>
+			<U WHO="S1"> y- then <OVERLAP> you will have to iterate, well yeah, then once you </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> oh oh then, okay </OVERLAP>
+				</U>
+				<U WHO="S3">
+					<OVERLAP> yeah, but then </OVERLAP>
+				</U> get that then you put it back into (uh here) and then <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> then you have to re- </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> review </OVERLAP> your <OVERLAP> physical properties? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> find your properties </OVERLAP>
+			</U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S6"> okay </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> but if you're smart enough you can, you can guess a value which is, close. <U WHO="S6">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> because, </OVERLAP> you don't you probably don't wanna guess a value of the, w- w- w- wall temperature to be i don't know like_ if this is twenty-five, and heat is being added to this thing, you know that it's probably gonna be, greater than, twenty-five <U WHO="S6"> uhuh </U> for sure right? </U>
+			<U WHO="S6"> right </U>
+			<U WHO="S1"> don't guess like zero. <EVENT DESC="LAUGH"/>
+				<OVERLAP> okay? </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> uhuh okay </OVERLAP>
+			</U>
+			<U WHO="S4"> alright, <OVERLAP> so um </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> yeah, okay </OVERLAP>
+			</U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> it should get you there in two iterations or something. it shouldn't take, <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (eight million years.) </OVERLAP>
+			</U>
+			<U WHO="S3"> alright </U>
+			<U WHO="S6">
+				<OVERLAP> thank you. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay. </OVERLAP> thank <OVERLAP> you. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and </OVERLAP> one more thing, one more thing you can do, guess um, in order to make the first iteration easy, guess something that makes the film temperature, a temperature that you don't need to interpolate for. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S6"> right, <OVERLAP> (one that's) on the table? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so you just (read them first time.) </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> right. </OVERLAP> okay? <EVENT WHO="SS" DESC="LAUGH"/> tips right? tips. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S7"> this i (am) still doing this. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> and i did, i finally did this (but i haven't been) able to correct it. <U WHO="S1"> okay </U> i mean (xx) </U>
+			<EVENT DUR=":07" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S7"> i mean i've done it (four times and then) </U>
+			<U WHO="S1"> thi- this is correct. </U>
+			<U WHO="S7"> it's cool? okay </U>
+			<U WHO="S1">
+				<OVERLAP> i </OVERLAP> think it's correct. um i don't remember the exact final answer but, <OVERLAP> this looks right. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> if this is- </OVERLAP> if this what you_ this is right you know i just i mean i don't think i messed it up. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S7"> you know? </U>
+			<U WHO="S1"> lemme just make sure this is right then. <PAUSE DUR=":05"/> T-naught and then minus yeah this is right. </U>
+			<U WHO="S7"> okay cool </U>
+			<U WHO="S8"> (should be right now. plus,) question one i did it_ i think an easier way you said you_ we should use like a, homogeneous (anaparticular) solution <OVERLAP> (and combine them.) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right </OVERLAP> right </U> i think it was easier just to do, what'd i do? well i i scratched it out but, in general, i just like_ you have D-T-D-T equals some (xx) constant with like this T in front of it, <U WHO="S1"> right </U> minus-T can't you just move <OVERLAP> the whole thing </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> minus it's_ </OVERLAP> th- you have a constant multiplied by T (through) right? it's like some some other <OVERLAP> constant? </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it's like </OVERLAP> (xx) </U>
+			<U WHO="S1"> right, yeah, okay </U>
+			<U WHO="S8"> so you move that down here, </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S8"> and this integrates relative to that and you have like a natural log (xx) </U>
+			<U WHO="S1"> uh that's not then the homogeneous solution, right? that's that's solving al- everything all together <U WHO="S8">
+					<OVERLAP> right? </OVERLAP>
+				</U>
+				<OVERLAP> right </OVERLAP> because <OVERLAP> you're </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> is there </OVERLAP> anything wrong with that? </U>
+			<U WHO="S1"> no no <U WHO="S8">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> nothing's </OVERLAP> wrong with that. it just your constant will be really big and the math is a little bit <OVERLAP> too involved. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah </OVERLAP> like my constant was, like that with <U WHO="S1"> yeah </U> T-naught at the end </U>
+			<U WHO="S1"> right <U WHO="S8"> so </U> as long as you make sure you don't make a math mistake <EVENT WHO="S8" DESC="LAUGH"/> the method is right. <U WHO="S8"> okay </U> but the math is really involved so, </U>
+			<U WHO="S8"> yeah just don't make a mistake. </U>
+			<U WHO="S1"> solving solving the homogeneous part and then adding the particular solution is easier. </U>
+			<U WHO="S8"> okay maybe if i have time this weekend i'll do that. </U>
+			<U WHO="S1"> okay <OVERLAP> great </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> okay? </OVERLAP> fine. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S9"> (i have a) question (xx) </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S9"> um, this is correct right? to find a particular solution? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S9"> you say that it's (xx) <OVERLAP> and then, (xx) and then you solve it? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes, yes i think i </OVERLAP> saw this yesterday yeah. </U>
+			<U WHO="S9"> okay, but then the final_ (this is) probably_ i'm hoping that it's right like you just solve for C, C-one, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) </OVERLAP> once you, <U WHO="S9"> okay </U> plug that back in, then you solve for your_ first you plug your um, particular solution in and then you solve for your constant <OVERLAP> by using the (xx) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> okay i put the both </OVERLAP> both parts Y-sub-C and Y-sub-(xx) </U>
+			<U WHO="S1"> yes yes </U>
+			<U WHO="S9"> okay and then you solve for C-one. </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S9"> okay </U>
+			<U WHO="S1"> and yeah, shou- i mean your <U WHO="S9">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> method </OVERLAP> is right. <U WHO="S9"> okay </U> as long as you don't make a math mistake. </U>
+			<U WHO="S9"> okay thanks </U>
+			<U WHO="S8"> i just have (xx) question in two now, with what you said and that, what i did was i just, what'd i do? i first, i got all the properties_ i can just write on this. i got all this and i calculated a Reynolds number and from that you can use this correlation to get the Reynolds_ or the Nusselt number. <U WHO="S1"> correct </U> and you can get H from that and then calculate the Biot number and then figure out_ say its like lumped (key) capacity, <OVERLAP> so you can </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U> you can use this equation here, <U WHO="S1"> right </U> all these constants_ i don't know if that's the right equation but, these constants here that i know there's a s- i know there's a s- a a, heat capacity and a density. <U WHO="S1"> right </U> that's up the steel wire though right? </U>
+			<U WHO="S1"> correct. you're talking about the solid. you're talking about the temperature's trajectory of the <OVERLAP> solid right? </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> the solid that's </OVERLAP> why that's why i use, </U>
+			<U WHO="S1">
+				<OVERLAP> everything is for solid </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it's_ everything is </OVERLAP> for the solid except for H. </U>
+			<U WHO="S1"> for H. exactly. H is for fluid around it, everything else is for solid. </U>
+			<U WHO="S8"> okay and, that's that's a (pretty small T let's see) does it matter that the air's going this way or this way? does it </U>
+			<U WHO="S1"> no. doesn't <OVERLAP> matter. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> i did- </OVERLAP> i didn't think so. </U>
+			<U WHO="S1"> no, it doesn't matter. it's just flow, past a cylinder, <U WHO="S8"> right </U> perpendicular to the axis of the cylinder. </U>
+			<U WHO="S2"> okay well, i don't know like but my plot was something like that i don't know if that's </U>
+			<U WHO="S1"> okay you're i know what you're doing probably. oh wait. </U>
+			<U WHO="S2"> this is time </U>
+			<U WHO="S1"> no it's not, it should s- it should start going off really fast <U WHO="S2">
+					<OVERLAP> fast </OVERLAP>
+				</U>
+				<OVERLAP> because, </OVERLAP> um, you'll pro- what kind of degeneration are you putting in? how much of the degeneration (are you putting in) the Q-dot? um oh wait that's for the okay second one no never mind. um, that's the H is V-point which one is for the, heating one? <U WHO="S2"> uh </U> this is for heating cycle, this is for cooling cycle? </U>
+			<U WHO="S2"> this is for the heating cycle. </U>
+			<U WHO="S1"> this is for heating cycle, <U WHO="S2"> yeah </U> okay. </U>
+			<U WHO="S2"> so H is like forty-two </U>
+			<U WHO="S1"> H is pretty big and then you don't have much of internal resistance so it should go up very fast. <U WHO="S2"> oh </U> yeah, so you pro- and it should go u- go up exponentially too because you know the solution is exponential <U WHO="S2">
+					<OVERLAP> yeah, okay </OVERLAP>
+				</U>
+				<OVERLAP> right? so </OVERLAP> you're probably <OVERLAP> (making it) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i sh- </OVERLAP> i sh- probably shoulda (got one of these) </U>
+			<U WHO="S1"> you're probably the way the way you plugged the formula <OVERLAP> in (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> this is this is this is </OVERLAP> this is the thing that's bad. <U WHO="S1"> uhuh </U> so this is something that's, (xx) then this is (xx) </U>
+			<U WHO="S1"> uh probably you're just plugging in the formula wrong because, everything is right here. um i mean you're_ you have the right formula (to combine that) so you should be able to </U>
+			<U WHO="S2"> use the (sample) (xx) <U WHO="S1"> okay </U> and, i'll worry about <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> minus, </OVERLAP> what do you have? min- </U>
+			<U WHO="S2"> i don't even know if that's the formula (or not) </U>
+			<U WHO="S1"> well okay just to make sure you put the right formula. it's H-A over rho-C-P-V, times T. </U>
+			<U WHO="S2"> it's </U>
+			<U WHO="S1"> H-A over rho-C-P-V times T. the whole thing times T. <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> right </OVERLAP> the whole quantity. </U>
+			<U WHO="S2"> okay. <U WHO="S1">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> and A is the surface area <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. </OVERLAP> A is the surface area of (both) V is the volume of the sphere. </U>
+			<U WHO="S2"> do you <OVERLAP> consider this a long </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> of the, (long) </OVERLAP>
+				</U> a long cylinder? cuz like you figured out surface area. </U>
+			<U WHO="S1"> doesn't <OVERLAP> matter. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it doesn't matter about the edges? </OVERLAP>
+			</U>
+			<U WHO="S1"> oh you can you can put it in but it's the same thing. like it gives you, it gives you pretty much the same answer <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> if you </OVERLAP> just worry about the outside surface area and neglect the two edges, the two <OVERLAP> ends, that's fine. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (xx) okay (i won't worry about it) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you can_ </OVERLAP> i mean_ it's just a formula right? you can just calculate it and <U WHO="SU-m">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> assign </OVERLAP> a cell to it and, </U>
+			<U WHO="S2"> yeah okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S2"> (xx) okay, that's, all. </U>
+			<U WHO="S10"> (xx) </U>
+			<U WHO="S1"> those are the surface area of the fin. </U>
+			<U WHO="S10"> they are? then what is the face area of the fin? </U>
+			<U WHO="S1"> that's the cross-sectional area, perpendicular to the direction of heat transfer. </U>
+			<U WHO="S10"> so when, so, so when is (sh- he) using this? </U>
+			<U WHO="S1"> when you say Q is minus-K-A D-T-D-X, that A is the cross-sectional area. perpendicular to the direction of heat <OVERLAP> transfer. </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> but he's </OVERLAP> not using that in here. </U>
+			<U WHO="S1"> um, no. probably, might be an M. </U>
+			<U WHO="S10"> (is it um) in in the C like this is like the same equation but except this is H-A and this <OVERLAP> is (C-A) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's A-F it's </OVERLAP> the same thing. oh K, no oh okay you know what he's doing? he's, doing the_ well okay, he's um, okay he's doin- what he's doing he's saying like the heat transfer is the same, all the heat transfer that is here, <U WHO="S10">
+					<OVERLAP> mhm mhm </OVERLAP>
+				</U>
+				<OVERLAP> comes from the base of the </OVERLAP> fin right? so, this if this is conduction then this would be the, cross-sectional area of_ perpendicular to the <OVERLAP> direction of the fin. </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> so, so i </OVERLAP> but i can use either one of these (equations) </U>
+			<U WHO="S1"> yes actually this is easier. <OVERLAP> this is much easier. as long as you know the efficiency of the fin </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> yeah (xx) (but i just wanna make) </OVERLAP> sure this i know what this is, this is cross-sectional? </U>
+			<U WHO="S1"> yeah cross-sectional because whenever you talk about conduction it's minus-K times A D-T-D-X right? and that A is the area, perpendicular to the direction of heat transfer right? </U>
+			<U WHO="S10"> mhm </U>
+			<U WHO="S1"> (alright?) so that that's the area that that's how it comes in the picture. </U>
+			<U WHO="S10"> uh, <OVERLAP> so, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> but then, should this, part this part is part of the, efficiency, so what happened to this (Biot number?) </U>
+			<U WHO="S1"> well you had the temperature profile and you took a derivative of it. right? </U>
+			<U WHO="S10"> well w- wait the Biot number, is <OVERLAP> less than (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and that's how this, </OVERLAP> um that's how they did this because that's not_ see they have this formula for the temperature profile they take the derivative of it and they get this. okay? and since this A-M is not the same as this, A-F and since this K is not the same as this H you don't expect, to have all the terms <OVERLAP> here (like) they just cancel out. </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> (that's what you use for this cycle?) </OVERLAP>
+			</U>
+			<U WHO="S1"> right </U>
+			<U WHO="S10"> so using this would probably (use them here?) </U>
+			<U WHO="S1"> that'll be easier right. </U>
+			<U WHO="S10"> okay </U>
+			<U WHO="S1"> yeah </U>
+			<EVENT DESC="TRANSCRIPT ABORTED AT 26:34; POOR SOUND QUALITY LAST 42 MIN"/>
+			<EVENT DESC="BEGIN SECOND TAPE; RECORDED 10/25/00"/>
+			<U WHO="S1"> alright. kay so, let's go on with your questions. you came first <U WHO="S11">
+					<OVERLAP> go ahead </OVERLAP>
+				</U>
+				<OVERLAP> right </OVERLAP> ? </U>
+			<U WHO="S12"> yeah, <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> okay, </OVERLAP> i wanna talk about number three. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S12"> i think i know how to do it but, like i didn't_ i'm not sure i'm like setting it up right, <U WHO="S1"> mhm </U> we can do spreadsheets for both parts right? </U>
+			<U WHO="S1">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> it's </OVERLAP> easier to do it that way. </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S12"> so i was thinking, you wanna guess this temperature right? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S12"> calculate the </U>
+			<U WHO="S1"> why do you wanna guess the temperature? </U>
+			<U WHO="S12"> so you can calculate you wanna calculate you don't know the H, the heat transfer coefficient <OVERLAP> (xx) here </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP> okay </U>
+			<U WHO="S12"> right? </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S12"> so, you wanna guess that so you can calculate G-F to evaluate the properties, to, you know do the Nusselt stuff to calculate H-all? or am i doing this wrong? </U>
+			<U WHO="S1"> no that that's correct. <U WHO="S12">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> you need </OVERLAP> the Grashoff number too right? yeah <OVERLAP> Grashoff and Prandtl. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> yeah a- and Grashoff </OVERLAP> and Prandtl. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S12"> okay, and then you wanna calculate, the, Q through here so then you can go back and recalculate this, </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S12"> to make sure it's right. </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S12"> so, but the question i was having is, you can either calculate Q like this, like being convected from this, or Q through here right? they'll be the same thing. </U>
+			<U WHO="S1"> do you think they'll be the same thing? </U>
+			<U WHO="S12"> won't they? </U>
+			<U WHO="S1"> well i'm just asking. </U>
+			<U WHO="S12"> yes </U>
+			<U WHO="S1"> yes, it's <OVERLAP> steady state. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> cuz it's steady state. </OVERLAP>
+			</U>
+			<U WHO="S1"> right yeah. </U>
+			<U WHO="S12"> okay </U>
+			<U WHO="S1"> okay so it doesn't matter if you </U>
+			<U WHO="S12"> if you calculate it either way. </U>
+			<U WHO="S1"> right. and the other thing is, you don't actually need this temperature <OVERLAP> do you? </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> you don't </OVERLAP> yeah no. </U>
+			<U WHO="S1"> right <OVERLAP> you can jump from h- </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> and on the second part </OVERLAP> you don't need the temperature on the inside of the insulation. </U>
+			<U WHO="S1"> inside of the insulation no you don't need it <U WHO="S12">
+					<OVERLAP> no you don't. yeah </OVERLAP>
+				</U>
+				<OVERLAP> because you can jump </OVERLAP>
+				<U WHO="S12"> yeah </U> from the inside of the room to <OVERLAP> the outside </OVERLAP>
+				<U WHO="S12">
+					<OVERLAP> t- yeah </OVERLAP>
+				</U> of the insulation right? </U>
+			<U WHO="S12"> okay, so i understand that, so i kinda_ yeah it's just setting it up that kind of confuses me, like what </U>
+			<U WHO="S1"> what to guess first and how to proceed you mean? </U>
+			<U WHO="S12"> ye- well i kind of, made just like a reason that it would be closer you know to this obviously than this and, i kind of (been) more confused on the second part how, it's the same, it's the same idea for the second part right? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S12"> except you're gonna guess three temperatures. </U>
+			<U WHO="S1"> which are, which temperatures? </U>
+			<U WHO="S12"> the temperature_ like th- if this is the inside of the insulation the temperature on the inside of the insulation inside of the window and the outside of the window. </U>
+			<U WHO="S1"> so outside of the insulation you mean. not inside of the insulation. </U>
+			<U WHO="S12"> yeah, <OVERLAP> yeah, sorry. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, right, yeah </OVERLAP>
+			</U>
+			<U WHO="S12"> in between the space. </U>
+			<U WHO="S1"> correct <U WHO="S12">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so but </OVERLAP> these three temperatures are all related right? it th- it's not that there's three independent temperatures you <OVERLAP> you </OVERLAP>
+				<U WHO="S12">
+					<OVERLAP> no </OVERLAP>
+				</U> guess them independently first, but then they're all related t- through the Q because at steady state the Q is the same that goes through, all of them right? </U>
+			<U WHO="S12"> mhm </U>
+			<U WHO="S1"> so, you guess the three temperatures but, what you can calculate all three in one step, right? in each step of your iteration you can calculate all three different temperatures. because if you know the Q, right? you can jump from, the inside of the room to the outside of the, um plastic, and calculate this temperature. and the with the same Q you can jump from here to here, you know to the inside of the window and calculate the temperature of the inside of the window with the same Q you can, jump from the inside of the room to the outside of the window, so all three temperatures can be <U WHO="S12">
+					<OVERLAP> dependent on this thing, here. yeah. </OVERLAP>
+				</U>
+				<OVERLAP> calculated in each iteration step. right? </OVERLAP> and then you, then the new, three temperatures that you calculate are are your next guesses. you put 'em in, into your next step of iteration. </U>
+			<U WHO="S12"> yeah </U>
+			<U WHO="S1"> right? </U>
+			<U WHO="S12"> yes </U>
+			<U WHO="S1"> so it's basically the same thing as part A it's just like three different temperatures that you have to guess. and as long as you guess them, you know like physically they're close to, what they're really <OVERLAP> going to be </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> it should be </OVERLAP> a good iteration <OVERLAP> and you </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U> don't have <OVERLAP> to do it </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> it's like in </OVERLAP>
+				</U> that many times. </U>
+			<U WHO="S1"> no i think it should converge in like </U>
+			<U WHO="S12"> couldn't you <U WHO="S1">
+					<OVERLAP> four </OVERLAP>
+				</U>
+				<OVERLAP> can you </OVERLAP> do a circular reference? or is it </U>
+			<U WHO="S1">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> better </OVERLAP> to do </U>
+			<U WHO="S1"> um circular <OVERLAP> reference </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> you </OVERLAP> know what i'm saying like, <U WHO="S1">
+					<OVERLAP> i- di- do </OVERLAP>
+				</U>
+				<OVERLAP> can't recalculate it </OVERLAP> and then have the first cell that you guessed reference that last one? </U>
+			<U WHO="S1"> yes you can do that yeah. </U>
+			<U WHO="S12"> okay </U>
+			<U WHO="S1"> right so, like you calculate the temperatures and then the temperatures that you calculate here you say these cells are <U WHO="S12">
+					<OVERLAP> (xx) yes </OVERLAP>
+				</U>
+				<OVERLAP> these temperatures right? </OVERLAP> but don't do the same ce- cells go down. you know what i mean? like don't do_ like if you guess the three tha- temperatures and you put 'em here, don't say that these three, are, put into this cell again. put 'em in in the next, row. you know what i mean? </U>
+			<U WHO="S12"> no i have no idea. </U>
+			<U WHO="S1"> okay. you guess_ you have three cells for the temperatures right? <OVERLAP> one </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1"> two three. so this is like T-one T-two T T-three and then you go on and you calculate these three. okay? </U>
+			<U WHO="S12"> mhm </U>
+			<U WHO="S1"> don't put these three in the same cells put 'em in the next row. <OVERLAP> put 'em here, and then, go on. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> ohh, i see what you're saying </OVERLAP> and then do, redo that. </U>
+			<U WHO="S1"> yeah because this way you know like you're referencing something to to itself it's not good because, sometimes Excel, gets <OVERLAP> confused. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> oh </OVERLAP> i see what you're saying </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S12"> um, okay then the only other, thing that, i have a question on, for the second part, is, do we do i wanna like go about it with the same steps like first calculate, this H, to calculate, you know, see i- it doesn't make as much sense to me there i guess. </U>
+			<U WHO="S1"> why? tell me what your thought process is. </U>
+			<U WHO="S12"> well cuz i know that you you don't_ for the second part you don't need this H_ you need this H and you need this H right? </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S12"> to calculate, the Q. </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S12">
+				<PAUSE DUR=":07"/> so would you calculate like, i know you said y- that you guess all three at the same time and then you qui- <PAUSE DUR=":04"/> i'm not, it's not making as much <OVERLAP> (sense to me.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> if you if you </OVERLAP> guess the three temperatures right? </U>
+			<U WHO="S12">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> can </OVERLAP> you calculate all the Hs that you need? </U>
+			<U WHO="S12"> yes </U>
+			<U WHO="S1"> yes. so what's the problem? </U>
+			<U WHO="S12"> oh okay. i see what you're saying. it's ju- but i'm just, yeah <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you </OVERLAP> don't understand what? </U>
+			<U WHO="S12"> no i just don't understand like what sh- i should go about doing first. </U>
+			<U WHO="S1"> you just guess three temperatures you know all your Hs right? if you guess the three temperatures, <OVERLAP> okay? </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> then you </OVERLAP> do know the Hs. oh okay <OVERLAP> i see what you're saying. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah you know the Hs </OVERLAP> so so you can calculate the <OVERLAP> Q </OVERLAP>
+				<U WHO="S12">
+					<OVERLAP> yeah </OVERLAP>
+				</U> and, by knowing Q you can cal- recalculate the temperatures that you guessed, and put 'em back into the next step. <U WHO="S12"> yeah </U> right? </U>
+			<U WHO="S12"> yes, yes, okay </U>
+			<U WHO="S1"> does that make sense? </U>
+			<U WHO="S12"> yeah no it makes sense i just, you know i'm thinking, like doing, i'm th- still thinking about it like one at a time like do this one, and then calculate this to recalculate <OVERLAP> that (but then) you should just do it all at once. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no no no no no. no no. calculate one </OVERLAP> at a time you know why? because, the Q that's going in here depends on this H right? </U>
+			<U WHO="S12"> mhm </U>
+			<U WHO="S1"> right? you can't just jump from here to here because, first of all, um, <OVERLAP> if you </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> cuz all </OVERLAP> of the three temperatures depend on each other. </U>
+			<U WHO="S1"> yeah, they all <OVERLAP> depend on each other </OVERLAP>
+				<U WHO="S12">
+					<OVERLAP> so everything </OVERLAP>
+				</U> so you kn- you need to know this H, right? so you can't really guess just one temperature, </U>
+			<U WHO="S12"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S12"> but it makes sense if i do that for the first part. </U>
+			<U WHO="S1"> yes, because, for the first part you can jump from the inside of the room to here right away. but, in the second part if you want to jump from the inside of the room to the outside of the window, on your way there's an H that you don't know so you can't calculate a resistance for this part. unless you know these temperatures wh- which you guess. </U>
+			<U WHO="S12"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S12"> mhm </U>
+			<U WHO="S1"> so just start, start working on it it'll make more sense to you, once you <OVERLAP> start. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> i i mean </OVERLAP> i do i have a spreadsheet set up for the first part. </U>
+			<U WHO="S1"> no no on_ for on for the second part <OVERLAP> i mean. </OVERLAP>
+				<U WHO="S12">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U> okay? </U>
+			<U WHO="S11"> okay i have um <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that was all? </OVERLAP> you should stay. <EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT WHO="S11" DESC="LAUGH"/>
+			<U WHO="S12"> what? </U>
+			<U WHO="S1"> you should stay. </U>
+			<U WHO="S12"> yep </U>
+			<U WHO="S1"> we need, words here. <EVENT WHO="S12" DESC="LAUGH"/> okay </U>
+			<U WHO="S12"> (unless you use_) we use, we use bad words. </U>
+			<U WHO="S11"> uh, for the first one um, i know it's like flow through a pipe but, you need to know what regime you're in don't you? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S11"> you need to_ so, to do that you need to calculate your Reynolds number? </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S11"> um, do you, do you need a rho? or </U>
+			<U WHO="S1"> you need a rho for what? </U>
+			<U WHO="S11"> a density o- of, rho of the oil flowing through the pipe? </U>
+			<U WHO="S1"> hmm hmm hm hm </U>
+			<U WHO="S11"> is there a way to get around that? </U>
+			<U WHO="S1"> did we not give it to you? okay we didn't give it to you okay but, um what is rho-V? </U>
+			<U WHO="S11"> oh um, if you have, mass (xx) (Q) oh it's just mass? rho times V </U>
+			<U WHO="S1"> no V meaning <OVERLAP> velocity. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> oh the velocity? </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S11"> oh K-G per area </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S11"> so you can multiply that by, </U>
+			<U WHO="S1"> it's kilogram per second per area right? </U>
+			<U WHO="S11"> yeah </U>
+			<U WHO="S1"> so it's like a mass flux. <OVERLAP> correct? </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> so </OVERLAP> yeah </U>
+			<U WHO="S1"> so the mass flux so it means tha- i- if you know the mass flow rate, and you know the area you can calculate that, right? </U>
+			<U WHO="S11"> oh yeah that's right okay. </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S11">
+				<OVERLAP> you can just divide, uh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and do you know, those </OVERLAP> parameters? </U>
+			<U WHO="S11"> yeah i can, i can play around with the units and (figure that out.) <U WHO="S1">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> but i </OVERLAP> (just wasn't taking it) </U>
+			<U WHO="S1"> see that's_ yeah, so that's, that's the mass flux going in here. <U WHO="S11"> mhm </U> so you know the mass flow rate, <U WHO="S11"> mhm </U> and you know this area. if you divide this mass flow rate by the area <OVERLAP> you get the mass flux. so that's </OVERLAP>
+				<U WHO="S11">
+					<OVERLAP> (xx) </OVERLAP> okay </U> rho-V </U>
+			<U WHO="S11"> alright <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> all </OVERLAP> together. </U>
+			<U WHO="S11"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S11"> um, for the second one i thought i knew how to do it but, there's nothing that we applied, like that we learned, recently right? there's no natural convection or anything? </U>
+			<U WHO="S1"> no there's no <OVERLAP> natural </OVERLAP>
+				<U WHO="S11">
+					<OVERLAP> okay </OVERLAP>
+				</U> convection. </U>
+			<U WHO="S11"> and then can you assume that the, ice is, zero degrees or the bulk of ice? </U>
+			<U WHO="S1">
+				<OVERLAP> yes, yes that's zero. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> (are they_) okay so </OVERLAP> delta-T would just be ten degrees. </U>
+			<U WHO="S1"> well actually you're only, you're only worrying about the surface of the ice right? </U>
+			<U WHO="S11"> mhm </U>
+			<U WHO="S1"> and the surface eye- of the ice which_ i- it's melting right? </U>
+			<U WHO="S11"> mhm </U>
+			<U WHO="S1"> so it has to be at <OVERLAP> zero. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> oh </OVERLAP> it has to be zero degrees okay. </U>
+			<U WHO="S1"> right? and the other thing is though, did you_ okay so, your solution scheme is right, but, once you start doing it you'll realize that there are some other things that you need to worry about. <U WHO="S11"> (alright) </U> your solution scheme is right but you haven't done it right. </U>
+			<U WHO="S11"> no not yet </U>
+			<U WHO="S1"> okay so, <OVERLAP> so you want </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> should i go ahead </OVERLAP> and try it first? </U>
+			<U WHO="S1"> yes <U WHO="S11">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> you want </OVERLAP> to model it as_ well okay if if you have questions ask it. </U>
+			<U WHO="S11"> okay. well i haven't, i haven't tried it yet so i don't know if i </U>
+			<U WHO="S1"> okay so, um, your_ you want to model this as a flow over flat plate <OVERLAP> right? </OVERLAP>
+				<U WHO="S11">
+					<OVERLAP> mhm </OVERLAP>
+				</U> okay that's fine, <OVERLAP> that's fine. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> okay </OVERLAP> alright </U>
+			<U WHO="S1"> just go ahead and do it and and you'll probably a- ha- have some more questions <OVERLAP> then. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> oh </OVERLAP> alright okay, and then, i haven't really tried number three yet so </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S11"> okay thank you. </U>
+			<U WHO="S1"> sure... um, this one was Regina's right? i think she left <U WHO="S11">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> it </OVERLAP> here. </U>
+			<U WHO="S13"> okay i think i <OVERLAP> was, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> hey </OVERLAP> Brandon </U> kinda listening in, what you were talking about, i was looking for rho as well, so you take, you said rho velocity equals uh, the... the mass flux </U>
+			<U WHO="S1"> yeah, <OVERLAP> check out, check </OVERLAP>
+				<U WHO="S13">
+					<OVERLAP> mass (flow) (xx) </OVERLAP>
+				</U> the units and see what it gives you, <U WHO="S13">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> rho </OVERLAP> velocity. </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S13"> so it's, kilograms per meters squared per second? </U>
+			<U WHO="S1"> yeah, so it's kilograms per meters squared per second it means that it's like a mass flux right? </U>
+			<U WHO="S13"> mhm </U>
+			<U WHO="S1"> because flux is, quantity per unit time per unit area. <U WHO="S13"> mhm </U> right? so that's a mass flux going into the tube. <U WHO="S13"> mhm </U> so, if you can calculate the mass flux somehow, okay you can get around, you know like calculating rho-V, calculating rho individually and multiplying it by V, now you know the mass flow rate in here right? the total <OVERLAP> mass flow rate </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> yeah, </OVERLAP> mhm </U>
+			<U WHO="S1"> and you know the area that it's going through, <U WHO="S13">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP> the perpendicular to the flow. um, so you can calculate the mass flux right? </U>
+			<U WHO="S13"> mhm <U WHO="S1">
+					<OVERLAP> just like </OVERLAP>
+				</U>
+				<OVERLAP> so then you calculate </OVERLAP> the mass flux and then, do you know the (xx) </U>
+			<U WHO="S1"> well rho-V itself is, <U WHO="S13"> yeah </U> the mass flux. <U WHO="S13">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> you don't know the ve- you don't need to know the velocity do you? </U>
+			<U WHO="S13"> mm... no, <OVERLAP> but </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> because </OVERLAP> rho-V is the mass flux and you calculated the mass flux why would you need the velocity? <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1"> you know the rho-V, <OVERLAP> so, </OVERLAP>
+				<U WHO="S13">
+					<OVERLAP> okay </OVERLAP>
+				</U> and that's all you need i mean you put it_ you say rho-V and then you'd multiply it by D divided by the viscosity gives you Reynolds number. <OVERLAP> right? </OVERLAP>
+				<U WHO="S13">
+					<OVERLAP> okay </OVERLAP>
+				</U> mhm </U>
+			<U WHO="S14"> i need to talk to the uh, advisor himself. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what's going on? </OVERLAP>
+			</U>
+			<U WHO="S14">
+				<OVERLAP> when you done man? </OVERLAP>
+			</U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="S14"> how how long you gonna be here? </U>
+			<U WHO="S1"> i'm gonna be here until one-thirty. </U>
+			<U WHO="S14"> ah </U>
+			<U WHO="S1"> why? </U>
+			<U WHO="S14"> i was just gonna see if you wanted to go eat. <OVERLAP> i hate </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> oh </OVERLAP>
+				</U> eating by myself. </U>
+			<U WHO="S1"> you do? i have office hours i can't. </U>
+			<U WHO="S14"> i guess so </U>
+			<U WHO="S1"> can't leave this room. </U>
+			<U WHO="S14"> you can't leave? come on </U>
+			<U WHO="S1"> no <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S14"> alright </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S14"> have fun </U>
+			<U WHO="S1"> have fun, bon appetit </U>
+			<U WHO="S13"> kay what, what Reynolds numbers am i looki- i mean, i found_ i mean like the only ones i s- ever saw were like, these i mean, these ones </U>
+			<U WHO="S1"> the Reynolds numbers? what, what do you mean like the formula for Reynolds number? </U>
+			<U WHO="S13"> like is it just like a regular Reynolds number? </U>
+			<U WHO="S1"> yeah <U WHO="S13">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> flow in a pipe. </U>
+			<U WHO="S13"> okay </U>
+			<U WHO="S1"> so it's just rho-V-D </U>
+			<U WHO="S13"> kay </U>
+			<U WHO="S1"> over mu... </U>
+			<U WHO="S13"> and that's for the, i mean you're using_ i guess this_ like it has a like a film temperature or a bulk temperature </U>
+			<U WHO="S1"> it's a bulk temperature <U WHO="S13">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> in </OVERLAP> the, in <OVERLAP> the </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> in the </OVERLAP> pipe </U>
+			<U WHO="S1"> pipe um you don't need to worry about the film temperature it's all <U WHO="S13">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> bulk </OVERLAP> temperatures. so that's the average bulk temperature that you need and we assume that, the physical properties are constant throughout the pipe, <U WHO="S13"> mhm </U> and we just put those values in, okay? </U>
+			<U WHO="S13"> okay </U>
+			<U WHO="S1">
+				<PAUSE DUR=":06"/> so, okay. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S13"> i think i was using the <OVERLAP> (wrong ) (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> hi Scott. </OVERLAP>
+			</U>
+			<U WHO="S15"> hey Ali. </U>
+			<U WHO="S1"> how's it going? </U>
+			<U WHO="S15"> pretty good. how're you? </U>
+			<U WHO="S1"> good. <PAUSE DUR=":14"/> okay, i'll get to Scott and then, get back to you okay? <PAUSE DUR=":04"/> most of this is yours, i think i forgot mine. </U>
+			<U WHO="S15"> okay </U>
+			<U WHO="S1"> so what's up? </U>
+			<U WHO="S15"> uh, for the first two i'm checking if i did it right, </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S15"> and the third one i was gonna, ask for some advice. <EVENT DESC="LAUGH"/>
+				<U WHO="S1"> mhm </U> um, let's see. so the first one i'm considering, what'd i do? what page? trying to think of my setup. oh i find Reynolds because it's a flow, so it... so then you can find <SIC> Nusslet </SIC> , and know what H i- or, Nusselt number what equation to use. </U>
+			<U WHO="S1"> okay, mhm </U>
+			<U WHO="S15"> and so then you can find an H. </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S15"> so then, you just set the Q equations equal to each other, </U>
+			<U WHO="S1"> um the Q equations <OVERLAP> being </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> um, you know, </OVERLAP> you know this equals that and it also equals, M-sub-P. </U>
+			<U WHO="S1"> um <OVERLAP> M-dot-C-T, well_ </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> see the delta-T is d- different. </OVERLAP>
+			</U>
+			<U WHO="S1"> okay yeah what delta-T are you using here and what delta-T are you <OVERLAP> using here? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> okay that's, </OVERLAP> this one's the fluid, delta-temp_ like from, the wall to the center, right? <OVERLAP> and then, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> to the </OVERLAP> to the bulk. </U>
+			<U WHO="S15"> yeah to the bulk <OVERLAP> yeah. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> correct </OVERLAP>
+				</U> so then uh and then this is from inlet to outlet. </U>
+			<U WHO="S1"> exactly </U>
+			<U WHO="S15"> okay </U>
+			<U WHO="S1"> okay great </U>
+			<U WHO="S15"> yeah i i suppose i should, define that a little better <EVENT DESC="LAUGH"/> better but, yeah i put that in there. <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP> so delta-T-two, is </U>
+			<U WHO="S15"> is the, inlet <OVERLAP> (to outlet) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so this is </OVERLAP> your T-out? seventy-four? </U>
+			<U WHO="S15"> yeah </U>
+			<U WHO="S1"> i think it's a little bit, low. </U>
+			<U WHO="S15"> oh yeah? </U>
+			<U WHO="S1"> i'm not sure but <OVERLAP> i think, </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> i- </OVERLAP>
+				</U> because you know i um </U>
+			<U WHO="S15"> it can't go much higher though cuz it's only seventy-seven. </U>
+			<U WHO="S1"> well, this seventy-seven is supposed to be the average, somehow, you know like, the average of the bulk temperature. <U WHO="S15"> oh </U> so it <OVERLAP> should </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> oh </OVERLAP>
+				</U> be, so your outlet should be, around ninety degrees Celsius or so. so just check your calculations it's, your method is right. <U WHO="S15"> okay </U> but just check your calculations and see if you, um did everything right. this should <OVERLAP> be </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> so </OVERLAP>
+				</U> fine... </U>
+			<U WHO="S15"> oh because, like when i take a delta-T, of uh, when i have a like, this delta-T, is that from ninety-eight, not to seventy-seven cuz that's bulk? is that where i'm doing it wrong? </U>
+			<U WHO="S1"> no i think that's right. <U WHO="S1"> okay </U> so because it's it's to the average bulk temperature. </U>
+			<U WHO="S15"> okay it <OVERLAP> is to (that) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so </OVERLAP> ninety-eight, is your wall <U WHO="S15">
+					<OVERLAP> wall </OVERLAP>
+				</U>
+				<OVERLAP> temperature </OVERLAP> right? so ninety-eight to seventy-seven is this one, <U WHO="S15"> mhm </U> and then this one is inlet to outlet. <OVERLAP> inlet </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> okay </OVERLAP>
+				</U> being sixty. it should be fine then, i don't know. <OVERLAP> the final answer_ </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> i'll i'll just look it over </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah your method is right and i don't know the final answer but it should be around ninety degrees Celsius because, um, that's why we gave you this average. <U WHO="S15"> oh </U> okay because the physical properties have to be at the average bulk temperature right? </U>
+			<U WHO="S15"> mhm </U>
+			<U WHO="S1"> and we give it to you at seventy-seven so it should be, around ninety. <U WHO="S15">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> or </OVERLAP> eighty-nine or something. so, yeah but <U WHO="S15">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<OVERLAP> your method </OVERLAP> is right </U>
+			<U WHO="S15"> okay </U>
+			<U WHO="S1"> okay now the second one </U>
+			<U WHO="S15"> okay and then </U>
+			<U WHO="S16"> i'm gonna listen in and <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S15"> yeah, <EVENT DESC="LAUGH"/> um, <EVENT WHO="S1" DESC="LAUGH"/> for the second one um i found a film temperature, and then evaluated a bunch of physical properties, <U WHO="S1"> okay </U> and i also set, um, i set my mass rate equal to rho-L-W D-D D-T. </U>
+			<U WHO="S1"> um rho-L-W okay, um L-W D-T right yeah <OVERLAP> correct. </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> okay </OVERLAP>
+				</U> mhm <U WHO="S15">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> rho </OVERLAP> is for? </U>
+			<U WHO="S15"> um the ice </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S15"> yeah </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S15"> okay so then i, um i said okay i foun- first i have to find a Reynolds number to do, figure out what region i'm in. <U WHO="S1">
+					<OVERLAP> (right) </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> i did have one question because, um i_ it said it'd be over the entire system. <U WHO="S1">
+					<OVERLAP> correct </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> you'd use, but um, i took the mean length and i'm not sure if that's what it_ you're supposed to do. </U>
+			<U WHO="S1"> mean length between where and where? </U>
+			<U WHO="S15"> because i_ because it's not square, so i wasn't sure so i said, it's gonna be the average of these two, that's what L would be, because it's point-five, kilometers by, <U WHO="S1">
+					<OVERLAP> but </OVERLAP>
+				</U>
+				<OVERLAP> one </OVERLAP> kilometer? </U>
+			<U WHO="S1"> no but when we were talking about flow over a flat plate, the L that we're using is just, in the direction of flow. we don't care how wide it is <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh </OVERLAP> really? </U>
+			<U WHO="S1"> yeah we only, care how long it is. so the L should be the length, <OVERLAP> always. </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh, </OVERLAP> oh it's always length. </U>
+			<U WHO="S1"> yeah, if you're modeling it as a flow over flat plate. </U>
+			<U WHO="S15"> okay. well then i can change that but, i don't think it will change it that much so then i just found, i found that (as in) turbulent and i think it'd still be if i used a thousand. </U>
+			<U WHO="S1"> yeah because it's even higher right? </U>
+			<U WHO="S15"> yeah oh yeah <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> because L is even <OVERLAP> higher </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> yeah </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U> right? so it's t- <U WHO="S15"> okay </U> just say it's still <OVERLAP> turbulent. </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> okay. </OVERLAP> so then i could find an equation for Nusselt. <U WHO="S1"> correct </U> and, i got P at_ <SIC> Prandalt </SIC> from there, <U WHO="S1"> mhm </U> i have, that, so then i can find an H. </U>
+			<U WHO="S1"> okay, and is this an average H or a local H? </U>
+			<U WHO="S15"> it'd be average. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S15"> i think, the equation <EVENT DESC="LOOKING IN BOOK"/> (xx) that's a good question. uh yeah page (two-forty-nine.) <PAUSE DUR=":04"/> (oh yeah) <PAUSE DUR=":04"/> both parallel looks like Nusselt <PAUSE DUR=":04"/> i don't know yeah i i'll just used this, it said for turbulent region, yeah and this is for R-E-L okay so yeah it should work. </U>
+			<U WHO="S1"> right. now, that thing_ you remember we talked about this in the class, that this is for the case where, all of your heat transfer is occurring in the turbulent regime. </U>
+			<U WHO="S15"> oh, <OVERLAP> oh so i should do a laminar (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so that's, that's what they say </OVERLAP> like the completely turbulent, region. <U WHO="S15"> oh </U> so this is a, fo- only for the case where all the heat transfer is occurring in the turbulent regime. <U WHO="S15"> mhm </U> now in this problem part of it is in the, <OVERLAP> laminar </OVERLAP> regime right? <U WHO="S15"> oh </U> now, the way that you wanna go, about this is, you need to calculate a, you need to calculate an average H, for the whole thing. </U>
+			<U WHO="S15"> okay <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S15"> do you, kinda, do you use like a what a (level ruler or covar) or like because y- you know a set length's gonna be in laminar and a set's gonna be in turbulent, </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S15"> so then you take the average, like they're weighted, or something <OVERLAP> or (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um </OVERLAP> you, okay but considering the turbulent, how do you want to consider the turbulent part say that, um, tell me how you want to consider the turbulent part. <U WHO="S15">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> do </OVERLAP> you want to put_ what kind of L do you wanna put in there and what kind of, Reynolds number do you wanna put in <OVERLAP> there? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh, </OVERLAP> obviously you (couldn't,) your L would be, if i remember right it's the entire region isn't it? when you calculate, <OVERLAP> Reynolds? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes </OVERLAP> okay lemme, give you a hint, you work on this, because it's not, you can't really see it, unless you start working on it mathematically. </U>
+			<U WHO="S15"> (get) another sheet here <EVENT DESC="LAUGH"/>
+				<EVENT DESC="TAKING OUT SHEET OF PAPER"/>
+			</U>
+			<U WHO="S1"> uh yeah just <U WHO="S15"> (xx) </U> is this_ were you gonna turn this in? </U>
+			<U WHO="S15"> yeah oh well i can find some more paper </U>
+			<U WHO="S1"> here, just (take this one off) <EVENT WHO="S15" DESC="LAUGH"/>
+				<EVENT DUR=":04 " DESC="PAUSE WHILE REMOVING PAPER"/> okay, so, wha- the f- the way we calculate the average heat transfer coefficient is we just, integrate it over the whole thing over the whole length right? so we say H-average, is just, one over length, okay the integral, from zero to L, of H-local-D-X. okay? this is <U WHO="S15">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> how </OVERLAP> we calculate the average right? and we have to mul- di- divide this by L because we're multiplying it by a dimension here, (like) in the integral. <U WHO="S15"> mhm </U> H is varying with X so we inte- we integrate it from zero to L, over X and then we divide by L to get a right dimension, right? </U>
+			<U WHO="S15"> mhm </U>
+			<U WHO="S1"> now, the way we wanna do it here we want to break this, because we have two different equations for i- local heat <OVERLAP> transfer </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> yeah </OVERLAP>
+				</U> coefficient in the <U WHO="S15">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> laminar </OVERLAP> and turbulent regime, so we say H average is just one over L, and then we, do the, do the laminar part separately, X-C being X-critical. </U>
+			<U WHO="S15"> okay and <OVERLAP> you find that. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's where_ </OVERLAP> yes, that's where it becomes turbulent <OVERLAP> right? </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> mhm </OVERLAP>
+				</U> so H-A-X for laminar, D-X, from zero to X-C, plus, from X-C to the L, <U WHO="S15"> yeah </U> H-X for turbulence, D-X okay? <U WHO="S15"> okay </U> now, you don't really need to do this, plus, you don't know the, local heat transfer coefficient for the turbulent right? they don't give it to you they just give you the, average one right? </U>
+			<U WHO="S15"> yeah </U>
+			<U WHO="S1"> this one is, the laminar one is just, point-three-three-two, Reynolds to the one half, Prandtl to the one-thirds, <U WHO="S15"> mhm </U> right? but this one you don't know. you don't know the local one they just give you the average one <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> yeah </OVERLAP> yeah </U>
+			<U WHO="S1"> okay but you know, first of all this thing you know when you integrate it what kind of, um what kind of a constant it gives you here because it's done for you right? <U WHO="S15">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> correct? </OVERLAP> the the laminar part it just gives you point-six-six-four, right? </U>
+			<U WHO="S15"> oh yeah yeah </U>
+			<U WHO="S1"> so this one you're all set, you jus- you know this point-six-six-four Reynolds, to the one-half and this Reynolds is at X-C, <U WHO="S15">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> Prandtl, </OVERLAP> to the one-thirds, <U WHO="S15"> mhm </U> and Reynolds at X-C you know what it is it's just five times ten-to-the-fifth right? </U>
+			<U WHO="S15"> oh yeah, yeah </U>
+			<U WHO="S1"> because that's where it becomes turbulent <U WHO="S15">
+					<OVERLAP> yes (xx) </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP> so you know this part this part is_ you're all set. <U WHO="S15"> mhm </U> now on this part, you you don't know this H-X you don't know the, <U WHO="S15"> (constant) </U> um local heat transfer coefficient <U WHO="S15"> yeah </U> for the turbulent part but you know, if you, <U WHO="S15"> oh </U> if you calculate it from zero to L-H-X-turbulent, D-X, it gives you point-oh-three-six-six Reynolds to the point-eighths Prandtl to the, one-thirds right? </U>
+			<U WHO="S15"> mhm </U>
+			<U WHO="S1"> so what will happen if you calculate from X-C to L? just think about it's very <OVERLAP> easy, you can find </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> um, it would it'd be half </OVERLAP> wouldn't it? or am i thinking it wrong? </U>
+			<U WHO="S1">
+				<OVERLAP> no, </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> wait </OVERLAP> X-C </U> the only thing is, </U>
+			<U WHO="S15"> oh oh oh </U>
+			<U WHO="S1"> you know, you d- you have to, you have to think about how X comes into picture in an in, heat transfer coefficient it's only through Reynolds right? <U WHO="S15"> oh </U> so if you integrate it from zero to L, you will have Reynolds-to-the-point-eight. <U WHO="S15"> mhm </U> if you have_ if you calculate it from X-C to L, wha- what kind of a, Reynolds number will you get? i mean, what will be the, form of this? the constant will be the same. <U WHO="S15"> oh <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> because </OVERLAP> you know when you integrate it it gives you this. but then the Reynolds number, will take a, different form just think about it, <OVERLAP> for a second and se- </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh i would </OVERLAP> think, just to the one or is that? <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh the power </OVERLAP> shou- probably shouldn't change <OVERLAP> because </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> wait the </OVERLAP> power doesn't_ this, this is only changing? or <OVERLAP> the pow- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no the_ </OVERLAP> even this is not changing the form of it is changing just just how you, calculate it. um think about how y- when you when you integrate this you say that's the integral of this and then evaluate them at the two limits, right? <U WHO="S15"> mm </U> and you get this, correct? </U>
+			<U WHO="S15"> yeah </U>
+			<U WHO="S1"> because lower limit is zero. if the lower limit is not zero, what would you get? think about it a little bit <OVERLAP> i i'll </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> okay okay </OVERLAP>
+				</U> get back to you okay? and do you do you have questions about the third one too? </U>
+			<U WHO="S15"> yeah um, <U WHO="S1">
+					<OVERLAP> okay let's let's </OVERLAP>
+				</U>
+				<OVERLAP> well i gue- </OVERLAP> we all have a question on the same thing for part three <U WHO="S16"> yeah </U> so, </U>
+			<U WHO="S1"> for_ <U WHO="S15">
+					<OVERLAP> if you want (to) </OVERLAP>
+				</U>
+				<OVERLAP> on the </OVERLAP> third <OVERLAP> one? </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> third one yeah </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1"> okay then let's get, <U WHO="S15"> okay </U> to all of you together. </U>
+			<U WHO="S15"> um </U>
+			<U WHO="S1"> hi Sarah. </U>
+			<U WHO="S17"> hi Ali. </U>
+			<U WHO="S15"> okay so <OVERLAP> the </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Rosabel </OVERLAP> you procrastinated till Wednesday. <EVENT WHO="SS" DESC="LAUGH"/> it's the first time. <EVENT DESC="LAUGH"/>
+				<U WHO="S15"> so </U> okay </U>
+			<U WHO="S18"> (do you h-) do you wanna sit? </U>
+			<U WHO="S1"> yeah, <U WHO="S18"> okay </U> i'll sit. okay. </U>
+			<U WHO="S15"> so the first part's pretty easy i th- ess- you just add up resistances right? </U>
+			<U WHO="S1"> you add up resistances from where to where? </U>
+			<U WHO="S15"> you assume you start somewhere (under) rho, and you're given an H for the air, and you're given a K for the glass. <U WHO="S1"> mhm </U> and you know the, inside and outside temperatures. so you have <OVERLAP> everything </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um, </OVERLAP> okay, just one thing though. if you're putting_ what_ um okay if you're putting, the resistance for, inside and then the glass, <U WHO="S15"> mhm </U> what kind of delta-T will you put in here? </U>
+			<U WHO="S15"> it'd be, sixty-five minus zero right? </U>
+			<U WHO="S1"> if you want to put sixty-five minus zero you have to go from, inside all the way to the outside. you're going only to the <OVERLAP> surface of the glass right? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh oh yeah i'm only going to the </OVERLAP> surface, okay. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> so this temperature difference will be the f- from the surface of the glass to the, inside of the <OVERLAP> room, </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> okay </OVERLAP>
+				</U> and you don't know that. you don't know the <OVERLAP> surface </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> you don't know (that) </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U> of the glass temperature correct? okay so </U>
+			<U WHO="S16"> surface of the glass on the outside? </U>
+			<U WHO="S1"> yes. <U WHO="S16"> mkay </U> correct. </U>
+			<U WHO="S16">
+				<OVERLAP> so your </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> can you </OVERLAP>
+				</U> H is of the, your H is of the room right? <U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> not of the gap? okay. </U>
+			<U WHO="S1"> no. which gap? </U>
+			<U WHO="S16"> after you put (the) in the <U WHO="S15">
+					<OVERLAP> with the film (in it) </OVERLAP>
+				</U>
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> plastic </OVERLAP> insulation </U>
+			<U WHO="S1"> oh no no no </U>
+			<U WHO="S16"> okay </U>
+			<U WHO="S1"> first it's like, right and we're we're only talking about part A yo- we haven't put the plastic insulation yet. okay? </U>
+			<U WHO="S16"> okay </U>
+			<U WHO="S1"> so, um, th- doing doing it the same way you can you can talk about this, you can say that Q is delta-two over R. R being this but then delta-T is from the inside of the room to the outside surface of the, window. the temperature of which we don't know. <U WHO="S16"> okay </U> so we can't use this right <OVERLAP> away now, </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> okay </OVERLAP> yeah </U> okay? but, let's say if we wanted to go from the inside of the room all the way to the outside. <U WHO="SU-m"> yeah </U> so we wan- we wanted to put the delta-T that you put in here what kind o- what <OVERLAP> modifications </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> oh </OVERLAP>
+				</U> do we have to put in here? </U>
+			<U WHO="S15"> you just have to, add a, natural convection <OVERLAP> (to it.) okay. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right you </OVERLAP> have to add the natural convection right? <U WHO="S16"> mhm </U> and natural convection itself, depends on the temperature of the window. <U WHO="S15"> mm </U> right? </U>
+			<U WHO="S15"> yeah </U>
+			<U WHO="S1"> because it, it's it depends on the delta-T that you have, between the vertical plate and the bulk <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<U WHO="S16">
+					<OVERLAP> mhm </OVERLAP>
+				</U> so, not knowing that temperature you can't really do anything, right now. okay? so, but let's say if we guess that temperature, let's see where we can go. if <OVERLAP> we </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> oh </OVERLAP>
+				</U> guess this outside temperature we can get this H right? and then we can calculate the Q going from here to here. <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1"> we can calculate the Q. now, once we calculate the Q, we can say, that same Q goes from the inside, to the right surface, through the outside of this, which is this formula. <U WHO="S16"> mhm </U> and then recalculate that temperature. </U>
+			<U WHO="S16"> right and check your T and if it's not the same T then you do it all over <OVERLAP> again. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. </OVERLAP> put that, che- if you get_ you get a new tem- uh you get a new temperature for the outside of the glass right? with that new temperature calculate the heat transfer coefficient here again, do the same thing again. </U>
+			<U WHO="S16"> so the first the first Q you calculate is just from the outside glass, to the outside, air, from like here to here using natural convection? </U>
+			<U WHO="S1"> you can do that you can do that if you want you can jump from here to here you can you can do whichever you want because the Q is the same. <U WHO="S16">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> they're </OVERLAP> all in series right? </U>
+			<U WHO="S16"> right </U>
+			<U WHO="S1"> so you have the same Q you can either go from here to here you_ or you can go from here to here. </U>
+			<U WHO="S16"> right but the H you calculate from natural convection is just from here, to here right? </U>
+			<U WHO="S1"> right, </U>
+			<U WHO="S15"> yeah </U>
+			<U WHO="S16">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> correct </OVERLAP> it's the natural convection from a_ for an outside wall. </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S16"> okay </U>
+			<U WHO="S15"> okay </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S16"> um so, for part B, do you treat, if you have air that's like, in the gap, and <U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> do </OVERLAP> you treat that as like an, i don't know would that be characterized by a K like an insulating material or would it be still have an H? </U>
+			<U WHO="S1"> no you won't have an H. <U WHO="S16">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> when you have air </OVERLAP> in between two different um, like between two different plates, <U WHO="S16"> uhuh </U> and they have different temperatures you know that air starts moving right? </U>
+			<U WHO="S16"> right </U>
+			<U WHO="S1"> it starts circulating probably. <U WHO="S16">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> going </OVERLAP> down on the cold side going up on the, hot side <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> so, </OVERLAP> but the only thing we were wondering is that it gives you a characteristic width, <OVERLAP> of </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U> that air. so, it seems like if there was an H, you know does that matter how wide it is? it seems like it would, <OVERLAP> (make a) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it does. </OVERLAP> yeah. </U>
+			<U WHO="S15"> okay </U>
+			<U WHO="S1"> so that <OVERLAP> characteristic </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> but it seems hard </OVERLAP> to figure out, <OVERLAP> how </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well because </OVERLAP>
+			</U>
+			<U WHO="S16"> oh that's how you get your, that's that's like the air between two plates then? </U>
+			<U WHO="S1"> exactly. yeah. <U WHO="S16"> okay </U> because you have these two plates at two different temperatures so air starts rising on the, col- on the hot side and then, going down on the cold side so it'll start circulating <OVERLAP> like this. </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> mhm </OVERLAP> oh okay </U>
+			<U WHO="S1"> so it's like the same thing that you <OVERLAP> had </OVERLAP>
+				<U WHO="S16">
+					<OVERLAP> right </OVERLAP>
+				</U> with an enclosed, um compartment that you had you know like air in, </U>
+			<U WHO="S15"> oh okay </U>
+			<U WHO="S1"> and it was circulating so your characteristic dimension would be the, gap <OVERLAP> dimension. </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh </OVERLAP> okay. <OVERLAP> oh yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay? </OVERLAP>
+			</U>
+			<U WHO="S16"> and then, the length is how, tall the window, is? </U>
+			<U WHO="S1"> yes. </U>
+			<U WHO="S16"> oh i forgot (xx) </U>
+			<U WHO="S1"> so thi- this part, you know the gap part is exactly the same as, what he, um, solved for you in the lecture. </U>
+			<U WHO="S16"> right <U WHO="S1">
+					<OVERLAP> Professor Thompson </OVERLAP>
+				</U>
+				<OVERLAP> where he had </OVERLAP> his delta characteristic. </U>
+			<U WHO="S1"> right the delta characteristic right? we called it delta (xx) </U>
+			<U WHO="S15"> oh okay </U>
+			<U WHO="S1"> okay so you have that thing too it's just like a, whatever i mean the gra- the normal gap that you would have and you have air circulating in it, that <OVERLAP> part </OVERLAP>
+				<U WHO="S16">
+					<OVERLAP> mkay </OVERLAP>
+				</U> right? </U>
+			<U WHO="S16"> mhm </U>
+			<U WHO="S1"> so you can calculate that too, um </U>
+			<U WHO="S16"> so once again you don't know, so once again you have to do natural convection, again get the Q, cuz you still don't know the temperature. </U>
+			<U WHO="S1"> right you_ there are several things that you don't know in part B, let's draw <OVERLAP> a picture first. </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> do you wanna piece of paper? </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> yeah i'm writing on the newspaper, okay. um let's draw a picture this is the window, and this is the, plastic okay? so we have this fan here, we know H here, now we know_ we don't know this temperature we don't know this temperature we don't know this temperature <EVENT WHO="SS" DESC="LAUGH"/> we don't know this temperature we don't know this H we don't know this H. </U>
+			<U WHO="S16"> right </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> right? so we don't know anything. but let's say, first of all do we need this temperature or not? this one, inside of the plastic. </U>
+			<U WHO="S15"> i don't think so. </U>
+			<U WHO="S16"> 'm'm </U>
+			<U WHO="S1"> we really don't need it. the temperatures that we need are these ones because we need them for the natural convection, right? so, we need this this and this. </U>
+			<U WHO="S16"> right </U>
+			<U WHO="S1"> so, there are three different temperatures that we don't know but let's let's, see if we guess them, okay, let's see if we if we guess the three temperatures can we calculate them all at_ all in one iteration step or not? okay? </U>
+			<U WHO="S16"> okay </U>
+			<U WHO="S1"> so let's say we call this T-one we call this T-two and we call this T-three right? </U>
+			<U WHO="S15">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1"> if we know these temperatures we can calculate this H and this H right? </U>
+			<U WHO="S15"> mhm </U>
+			<U WHO="S1"> because they're just natural convection they only depend on the delta-T and the characteristics here and the, <U WHO="S16"> right </U> you know like the, you know the dimensions you can calculate the physical properties if you know the temperatures. so <OVERLAP> you </OVERLAP>
+				<U WHO="S16">
+					<OVERLAP> (right) </OVERLAP>
+				</U> guess these three let's say, <U WHO="S16"> uhuh </U> and then you calculate this H this H. now knowing the Hs can you calculate the Q? </U>
+			<U WHO="S16"> mhm </U>
+			<U WHO="S1"> yes because you know this temperature in, <OVERLAP> and you know this temperature out. </OVERLAP>
+				<U WHO="S16">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> so you can go al- from here to here <U WHO="S16"> (okay) </U> or you can go from here to here or from here to here <OVERLAP> whatever </OVERLAP>
+				<U WHO="S16">
+					<OVERLAP> right </OVERLAP>
+				</U> you wanna do. you can calculate them, <U WHO="S16"> right </U> okay? so, in the first step if you guess, T-one T-two T-three, you can then go and calculate them, all of them. <OVERLAP> right? </OVERLAP>
+				<U WHO="S16">
+					<OVERLAP> right </OVERLAP>
+				</U> T-one T-two T-three then just repeat them. </U>
+			<U WHO="S16"> right </U>
+			<U WHO="S15">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so </OVERLAP> it's exactly the same thing as part A it's just like th- three different things that you don't know and you gue- guess all of them at once, and calculate all of them in one step. </U>
+			<U WHO="S15"> okay </U>
+			<U WHO="S1"> okay? and using a spreadsheet is much easier because you just put the formulas in you can say okay whatever H you calculated for here, put it in this formula for you know like resistances in series, go from here to here calculate this go from here to here calculate this go from here to here, calculate this, <U WHO="S16"> mhm </U> and once you get these three put 'em in the next row, T-one T-two T-three that you just calculated do the same thing until they converge. </U>
+			<U WHO="S15"> oh okay </U>
+			<U WHO="S16"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S15">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<U WHO="S16"> yeah </U>
+			<U WHO="S15"> oh yeah </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> you're happy now. </U>
+			<U WHO="S16"> no </U>
+			<U WHO="S1"> you're not happy now? </U>
+			<U WHO="S16"> it's okay, that's good </U>
+			<U WHO="S1"> well you started late you're not gonna be finished by Christmas. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S15"> alright cool </U>
+			<U WHO="S16"> thank you Ali. </U>
+			<U WHO="S1"> sure, no problem. so did you think about that? </U>
+			<U WHO="S15"> well i was trying to think about both <OVERLAP> at one </OVERLAP>
+				<U WHO="S16">
+					<OVERLAP> wait </OVERLAP>
+				</U> time <U WHO="S1">
+					<OVERLAP> okay right okay </OVERLAP>
+				</U>
+				<OVERLAP> but i i just </OVERLAP> stalled. </U>
+			<U WHO="S1"> think about that one. </U>
+			<U WHO="S15"> did you think about it Rosabel? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S16"> i didn't hear that much of what he was saying. this is this and this is, <U WHO="S15"> so <OVERLAP> what </OVERLAP>
+				</U>
+				<OVERLAP> oh </OVERLAP> this is, so it would just be, yeah it would just be Reynolds at L-point-eight minus Reynolds-at-X-C-point-eight. <U WHO="S15"> oh </U> cuz you're <OVERLAP> just </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> wow </OVERLAP>
+				</U> integrating. </U>
+			<U WHO="S1"> awesome </U>
+			<U WHO="S16"> right? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S16">
+				<OVERLAP> cuz the zero term drops out. </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh so it's this, just this equation. </OVERLAP>
+				<U WHO="S1"> exactly </U> oh duh. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> that's that's great. that's great it's not very obvious, where you say duh, it's not very obvious. <EVENT DESC="LAUGH"/>
+				<OVERLAP> great, great </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> i see. (xx) </OVERLAP> cool, so yeah that just equals, </U>
+			<U WHO="S1"> so we'll just rearrange <OVERLAP> it. </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh </OVERLAP> yeah so yeah just to make_ yes it's (R-E at point-eight.) </U>
+			<U WHO="S1"> so did you come first or did Renna? well Renna is busy now <EVENT DESC="LAUGH"/> so i don't, (think that's) </U>
+			<U WHO="S18"> i h- i heard what you were just saying. i totally, understood i was over here but i understand except, why was there only two, three T-thr- or three Ts unknown? </U>
+			<U WHO="S1"> uh no there're four Ts <OVERLAP> unknown but there're </OVERLAP>
+				<U WHO="S18">
+					<OVERLAP> there is four. okay. </OVERLAP>
+				</U> three that you need. because this T where's inside? this is H-inside right? yeah this T you really don't need, <U WHO="S18"> no </U> because you kno- you need these Ts to calculate your natural convection, coefficient right? </U>
+			<U WHO="S18"> yeah </U>
+			<U WHO="S1"> because it depends on delta-Ts. but this natur- this convection uh coefficient you already have it so you don't even need this T. <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> okay </OVERLAP> yeah yeah </U>
+			<U WHO="S1"> so, you_ there're four Ts that that're unknown but you that_ there's one of them that is of no use so we just like disregard that one we guess these three... okay? </U>
+			<U WHO="S18"> okay </U>
+			<U WHO="S1"> and once you guess them you can calculate the Hs here and here and calculate the Qs and then recalculate the Ts from the Qs right? </U>
+			<U WHO="S18"> okay is this one just gonna be um, (H-al-) that'll just be natural convection, <OVERLAP> (with a) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U> vertical plate </U>
+			<U WHO="S1"> for vertical plate, this one is natural <OVERLAP> convection, inside a (gap) </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> but, yeah, but the </OVERLAP> reason you have to do all that is cuz you need these two. </U>
+			<U WHO="S1"> yes. </U>
+			<U WHO="S18"> yeah. </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S18"> okay. </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S18"> yeah i have one other question. </U>
+			<U WHO="S1"> sure, <OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> um, </OVERLAP> on the second problem, i was wondering, for, if that's an okay equation circuit for that kinda (it's Prandtl.) that's where i went off of is this, and i got to, there. </U>
+			<U WHO="S1"> um lemme see what exactly you did you're saying energy over time is, Q over A <U WHO="SU-m">
+					<OVERLAP> thanks Ali </OVERLAP>
+				</U>
+				<OVERLAP> Q is </OVERLAP> on- sure. we'll see you in the lecture. um is this Q? what is this Q? oh okay so if you say, let's see, okay so this Q looks like it's a flux right? </U>
+			<U WHO="S18"> yeah </U>
+			<U WHO="S1"> okay so if you divide that flux by area <OVERLAP> again </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> yeah </OVERLAP> so i don't want that there if i ha- say Q is like that. yeah </U>
+			<U WHO="S1"> so you don't wanna do this. now </U>
+			<U WHO="S18"> i didn't really mean that. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S18"> cuz i haven't <OVERLAP> (written it yet.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so, </OVERLAP> and you're saying like energy over time right? </U>
+			<U WHO="S18"> mhm </U>
+			<U WHO="S1"> will be Q. if this Q is the flux, then you need energy over area over time, to have the flux, right? </U>
+			<U WHO="S18"> okay </U>
+			<U WHO="S1"> correct? </U>
+			<U WHO="S18"> yeah. </U>
+			<U WHO="S1"> okay so but let's, i- wha- these are just um, these are just dimensions that we want to um, lemme just, alright? these are just um, dimensions that you want to correct but let's see what your solution scheme is, what you want to do l- next. um let's say you correct this, <U WHO="S18">
+					<OVERLAP> okay </OVERLAP>
+				</U> dimension-wise right? you want to say that, um okay explain to me what you're doing here, um... okay you're s- here well, alright here you're saying that the energy that you're, um giving to the system, will, go into melting the ice. <U WHO="S18"> mhm </U> and melting the ice will, be like, okay melting the ice will cause it to, shrink right? </U>
+			<U WHO="S18"> yeah </U>
+			<U WHO="S1"> okay, that's correct. where do you want to get this E from though? you wanna get it from here. um <PAUSE DUR=":04"/> okay why are you c- worrying about this conduction in the ice? <U WHO="S18">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> let's look </OVERLAP> at the picture draw me a picture of this. </U>
+			<U WHO="S18"> i guess you should. <PAUSE DUR=":14"/> yeah since this is melting this would be at, zero degrees. (so) water (is at,) so this is gonna have, (xx) </U>
+			<U WHO="S1"> okay yeah. so, you're saying that, okay dra- show me where the conduction is from, where <OVERLAP> from where to where. </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> i guess it wouldn't </OVERLAP> because, as soon as um, the energy would just have to pass through, the water's resistance, i guess to get in there? </U>
+			<U WHO="S1"> yeah, the energy goes through the_ yeah through resistance for the convection and then gets to the surface and that's <U WHO="S18">
+					<OVERLAP> yeah and that's_ </OVERLAP>
+				</U>
+				<OVERLAP> all we worry about. </OVERLAP>
+			</U>
+			<U WHO="S18"> yeah <OVERLAP> okay yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right? so we don't </OVERLAP> really need <U WHO="S18">
+					<OVERLAP> 'm'm, 'm'm </OVERLAP>
+				</U>
+				<OVERLAP> that conduction right? </OVERLAP> okay, so that's fine. now, so you say, the only, thing that we need here is just like the H of water, times the area of course to get the total Q not the flux, <U WHO="S18"> mhm </U> and then we can relate that to the energy that is, used for melting the ice. okay. the solution scheme is absolutely correct, the only thing is how do you get this H then? H for water? </U>
+			<U WHO="S18"> yeah i wasn't sure because i know that they're traveling together so i thought, <OVERLAP> maybe </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> they're not </OVERLAP> traveling together the, the, um, the ice is being towed. so the ice is traveling at the, speed that we gave you, but water is stagnant... okay? so there's i- the the ice is traveling in stagnant water. so what does that look like, in terms of what you've learned before? </U>
+			<U WHO="S18"> i would <PAUSE DUR=":15"/> hm, i wanna say natural convection, but i don't think that that's it. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> natural convection is um, okay natural convection is when the, if this thing were, <OVERLAP> um, </OVERLAP>
+				<U WHO="S18">
+					<OVERLAP> were </OVERLAP> still </U> stagnant too right? </U>
+			<U WHO="S18"> but it's not </U>
+			<U WHO="S1"> it's not it's moving. <PAUSE DUR=":06"/> so if you have a plate that is moving in the, water, if you start moving with the plate, what will you see? from the observer's, point of view? you know like the observer's moving with the, with the plate. okay? so from the observer's point of view the plate is stagnant now. correct? if it's moving with the same <OVERLAP> speed </OVERLAP>
+				<U WHO="S18">
+					<OVERLAP> yeah </OVERLAP>
+				</U> as the, plate. </U>
+			<U WHO="S18"> so then the water would be moving <OVERLAP> (if) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U> you were at that <OVERLAP> point. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what </OVERLAP> does that look like then? </U>
+			<U WHO="S18"> then that looks like flow, past a, flat plate. </U>
+			<U WHO="S1"> exactly. exactly. so it looks like flow over, over a flat plate. <U WHO="S18"> yeah </U> so <OVERLAP> and </OVERLAP>
+				<U WHO="S18">
+					<OVERLAP> okay </OVERLAP>
+				</U> and you know some Nusselt number equation for that and you can get the H right? <U WHO="S18"> okay <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> okay? </OVERLAP>
+			</U>
+			<U WHO="S18"> thanks Ali. </U>
+			<U WHO="S1"> sure </U>
+			<U WHO="S18"> hey i did have that down. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> okay then why don't_ why didn't you tell me? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S18"> um, cuz i wasn't sure. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S18"> cuz i- yeah, i knew that only one of 'em was moving and i thought but, <U WHO="S1"> mhm </U>
+				<OVERLAP> i didn't know which one (xx) (mattered.) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> cuz it doesn't matter your reference frame </OVERLAP> is, um this th- you know like the physics of the problem doesn't depend on the refer- reference frame that you choose. <U WHO="S18"> 'm'm </U> so you say okay my referen- reference frame is moving with the, iceberg now. so it's as if the iceberg is stagnant and the water is flowing past, the iceberg right? </U>
+			<U WHO="S18"> okay yeah </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S18"> alright </U>
+			<U WHO="S1"> that was all? </U>
+			<U WHO="S18"> mhm </U>
+			<U WHO="S1"> okay, <OVERLAP> great. </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> thank you </OVERLAP>
+			</U>
+			<U WHO="S1"> mhm. </U>
+			<U WHO="S19"> don't worry Ali i don't have questions. </U>
+			<U WHO="S1"> you don't? </U>
+			<U WHO="S19"> i just came to try and do homework. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay. you just like this place huh? <EVENT WHO="S19" DESC="LAUGH"/> Ravi </U>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S1"> oh you're doing separations? <EVENT WHO="SS" DESC="LAUGH"/> okay your G-S-I is actually here. okay Brandon how are you doing? </U>
+			<U WHO="S13"> i think i'm doing (alright) now (xx) what you're trying to do here, or </U>
+			<U WHO="S1"> um you get the Reynolds number and see if it's laminar and then you're saying you have a Nusselt number equation yup that's fine. </U>
+			<U WHO="S13"> okay </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S13"> thank you. </U>
+			<U WHO="S1"> sure </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S1"> what? that's um they're just recording this for, some study. it's a project for the language insti- institute, and </U>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S1"> no that's <OVERLAP> just, it's not a big deal. </OVERLAP>
+			</U>
+			<U WHO="S21">
+				<OVERLAP> do you have, do you have the uh, </OVERLAP> assignment sheet, for today's homework? </U>
+			<U WHO="S19"> yeah </U>
+			<U WHO="S21"> can i borrow it for a sec? </U>
+			<U WHO="S19"> mhm </U>
+			<U WHO="S21"> i gave mine away, but i have to give (xx) week, to the graders. </U>
+			<U WHO="S19"> Connor i'd rather get an ass-kicking than help you out. </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S21"> yeah, i know... that might just be the case if you don't just give me that paper. <EVENT WHO="S19" DESC="LAUGH"/> thank you. </U>
+			<U WHO="S19"> you're horrible. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S21">
+				<EVENT DESC="LAUGH"/> i'll be right back. </U>
+			<U WHO="S1"> Elise you're working on heat and mass right? <EVENT WHO="S19" DESC="LAUGH"/> not separations? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S19"> Ravi you got half an hour. go go. </U>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S19"> dude i worked on that homework yesterday from like six o'clock until like midnight. like draw- with my ruler like drawing little lines, i was just_ yeah. </U>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S19">
+				<OVERLAP> i like </OVERLAP> i graphed it over and over again i was just like i can't make this look neat this is (something) (xx) </U>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S19"> it's like the most inaccurate method, to determine anything. </U>
+			<U WHO="S1"> wha- what method is that? </U>
+			<U WHO="S19"> it's um, we're we're doing multistage batch distillation, <U WHO="S1"> right </U> and so we're finding like, how much distillate we can get at a certain <EVENT DESC="S21 RETURNS HOMEWORK SHEET"/> thank you, </U>
+			<U WHO="S21"> thanks </U>
+			<U WHO="S19"> at a certain um, mole fraction a certain purity, <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> stuff, and they want us to compare the amounts that we can get at constant reflux ratio and constant distillate composition. <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> ho- </OVERLAP> so for like both of those methods, it's almost kinda like guess and check like you gotta draw a bunch of different operating lines <U WHO="S1"> right <OVERLAP> right. uhuh </OVERLAP>
+				</U>
+				<OVERLAP> and stuff, </OVERLAP> and then you've gotta calculate the integrals, like the areas under the curves of like, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> wh- of which curves? </OVERLAP>
+			</U>
+			<U WHO="S19"> um, what you have is, you graph one over X-D minus X-W where this is the mole fraction of the distillate <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> this is, mole fraction left in the liquid <OVERLAP> (of the plume) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U> which is X-W and you're gonna end up with graphs that look like that <OVERLAP> kinda, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U> and then you have to go from like certain values, you know that you determine, <U WHO="S1"> yeah </U> from another graph, and calculate this area but like we don't know how to do that, on Excel so we use_ we've been using like the trapezoidal rule some people are using the midpoint rule </U>
+			<U WHO="S1"> um trapezoidal is always better, <OVERLAP> it's </OVERLAP>
+				<U WHO="S19">
+					<OVERLAP> yeah </OVERLAP>
+				</U> always the best. </U>
+			<U WHO="S19"> i use the trapezoidal. but then like i mean, i like had to estimate cuz i didn't wanna just use like the values that we had cuz that'd only be like two or three values, so i like estimated points on the graph you know, it's just like, you know everyone's values are gonna like, range all over the <OVERLAP> place. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but </OVERLAP> you know, when you integrate, you don't really introduce much error. you <OVERLAP> know that? </OVERLAP>
+				<U WHO="S19">
+					<OVERLAP> really? </OVERLAP>
+				</U> yeah, if you integrate, if you have like a little bit of error for these things it usually doesn't matter. <U WHO="S19">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> know like integration is the, one with the least um round-off error, is the you know like operation with the least round-off error. <U WHO="S19"> really </U> yeah, so it shouldn't be the, i mean as long as your points are, pretty close you know </U>
+			<U WHO="S19"> well there was another one too we had to graph, okay this is the Y equals X line this is the equilibrium line, </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S19"> we had to graph lines of constant reflux ratio so line of constant slope, at different X-Ds, <U WHO="S1"> uhuh </U> so like we'd start over here and, you know pretend those are parallel <OVERLAP> somehow, right. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> oh right right okay </OVERLAP>
+				</U> well, i mean these are so close together, <U WHO="S1"> right </U> and stuff and then you've gotta estimate these points right here and then like step off a certain number of stages and <OVERLAP> estimate </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> correct </OVERLAP>
+				</U> these points <OVERLAP> right here, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP> right right </U>
+			<U WHO="S19"> and then like, but to, to generate a graph, that's um, that looks like this so we have points on this side and on this side, you have to draw a line starting almost at one. <U WHO="S1"> yeah, yeah </U> and then once you get up here it's like, how could_ how can <OVERLAP> you (xx) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right right i know </OVERLAP>
+				</U> (stages.) <U WHO="S1"> yeah, <OVERLAP> right but </OVERLAP>
+				</U>
+				<OVERLAP> so that's </OVERLAP> why it was it was like, frustrating cuz it's like you tried so hard to do it perfectly, and you're just like ugh, anyways </U>
+			<U WHO="S1"> that's engineering. </U>
+			<U WHO="S19"> yeah um, it kinda makes you wonder. </U>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S1"> okay. good </U>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S19"> hm? </U>
+			<U WHO="S20">
+				<GAP DESC="UTTERANCE OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S19"> for whi- for which one? </U>
+			<EVENT DESC="1:55 S19 AND S20 CONVERSATION CONTINUES IN BACKGROUND"/>
+			<U WHO="S1"> let's see what you have. what're you listening to? </U>
+			<U WHO="S22"> uh i don't even know actually, W-C-B-N. <U WHO="S1"> oh </U> i don't know if you know that station. they play some good music, <U WHO="S1"> W-C-B-N </U> on Sundays, uh, good Middle Eastern music. <U WHO="S1"> oh </U> uh, hold on (xx) alright let me uh, reorganize here. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S22"> (i gotta find everything.) <PAUSE DUR=":14"/> alright. <U WHO="S1"> mhm </U> i'm not sure if i'm going about this the right way. so for thi- for the first problem, (xx) interaction the first step you should take is find the heat transfer coefficient, um for the l- oil, using, a laminar_ (if you c-) f- figure out the Reynolds numbers below. </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S22"> alright okay. </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S22"> and then do you need to take into account, the heat transfer coefficient of the condensing steam or is that irrelevant? <U WHO="S1"> um </U> or is that, is that just to show you that that's what is keeping the pipe temperature constant? </U>
+			<U WHO="S1"> for the steam you mean for the steam outside of the pipe? </U>
+			<U WHO="S22"> yeah </U>
+			<U WHO="S1"> no no you don't need that. </U>
+			<U WHO="S22"> don't need that </U>
+			<U WHO="S1"> because, because we're given the temperature inside the pipe right? the temperature of the wall just right inside the, <U WHO="S22"> mhm </U> the pipe. so we don't really care what's happening outside, because we know the temperature inside and that's wh- all we need for here to calculate the new wall you know, <U WHO="S22">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> everything else is given. </U>
+			<U WHO="S22"> okay so you just need the heat transfer coefficient for the inside? okay. </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S22"> okay, and then after you find the heat transfer coefficient, um do we know a relationship to find like, the temperature like along the, uh length of the pipe? </U>
+			<U WHO="S1"> you mean a temperature okay a fun- um <OVERLAP> temperature </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> like </OVERLAP>
+				</U> as a function of <OVERLAP> X going </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> function of length. </OVERLAP> yeah </U>
+			<U WHO="S1"> okay <OVERLAP> no. </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> cuz i assume that's, </OVERLAP> we guess we don't need that. </U>
+			<U WHO="S1"> no you don't um you don't need it and you don't have an equation for that. <U WHO="S22"> okay </U> what you do have is this thing, right? <U WHO="S22">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> Nu- Nusselt number. now, why do you think you need a temperature um, as a function of X, as a function of Z, over X or whatever you call that length? </U>
+			<U WHO="S22"> because i thought it would be changing like along the whole length of <OVERLAP> the pipe. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP> so you want to that into_ you want to take the change into account through the, <U WHO="S22">
+					<OVERLAP> bulk temp- </OVERLAP>
+				</U>
+				<OVERLAP> physical </OVERLAP> properties you mean? wh- wh- why do you need why do you need that change? if you_ for the for <U WHO="S22">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> part </OVERLAP> A if you just want to calculate H right? </U>
+			<U WHO="S22"> mhm </U>
+			<U WHO="S1"> you want to use this equation <OVERLAP> right? </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> correct </OVERLAP> right </U> where does that change come into, picture then? </U>
+			<U WHO="S22"> the change i guess will come in through the, the bulk. <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> in the </OVERLAP> bulk temperature. </U>
+			<U WHO="S1"> okay, but what we gave you is um, <OVERLAP> is the, </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> do you want them the </OVERLAP> same? </U>
+			<U WHO="S1"> average, right we say okay we give you a temperature and we say like these physical properties are given at that temperature <OVERLAP> and </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> mhm </OVERLAP>
+				</U> we assume they're constant. <U WHO="S22"> oh </U> okay? </U>
+			<U WHO="S22"> okay </U>
+			<U WHO="S1"> and this temperature is actually average temperature of the bulk. so, um, but you don't know it yet because you don't know the ou- outlet temperature right? </U>
+			<U WHO="S22"> mhm </U>
+			<U WHO="S1"> but it is actually the average temperature of the bulk so that's the <OVERLAP> physical properties that you need </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> the s- the seventy-seven degrees? </OVERLAP>
+			</U>
+			<U WHO="S1"> right </U>
+			<U WHO="S22"> is the average temperature of the bulk <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. </OVERLAP> so, the physical properties are these and you assume they're constant so you don't really need to know, <OVERLAP> the change </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> of temperature with, um, along the tube you know. </U>
+			<U WHO="S22"> okay. okay. so you only need to know, inlet and outlet, okay? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S22"> alright. cool. </U>
+			<U WHO="S1"> so just put those physical properties in here and get the H, <U WHO="S22">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then you need to, to find the temperature for the next part. <U WHO="S22"> mkay </U> the outlet temperature. </U>
+			<U WHO="S22"> cool thanks. </U>
+			<U WHO="S1"> mhm <PAUSE DUR=":04"/> five kilowatts. </U>
+			<U WHO="S19"> oh hey Brandon? </U>
+			<U WHO="S13"> yeah </U>
+			<U WHO="S19"> i just thought of something. for part A, on number two, did you get the an- get answers that match the ones in the book? </U>
+			<U WHO="S13"> um... oh for the_ you mean for number one, part A? or </U>
+			<U WHO="S1"> oh yeah i'm sorry number one. </U>
+			<U WHO="S13"> actually no but i put down the ones that were in the book. but they're pretty close i got like, (i got) like point-four-oh-five and i got, point-three-nine-five. </U>
+			<U WHO="S19"> i thought the answer was like point-eight-seven-five or something like that. </U>
+			<U WHO="S13"> oh, i wa- i was, i was talking for the, the liquid, the leftover. <U WHO="S19"> mm </U> the, what'd i get for my answer? cuz the Y average depends on your, your X that you put in, <U WHO="S19"> mhm </U> so, basically i got point-three-nine-five so i just rounded up to point-four-oh-five. <U WHO="S19"> yeah </U> and then when you put that in you're, gonna get the same one as you do in the book, for your Y average. </U>
+			<U WHO="S19"> okay, maybe that's why my <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> what'd you </OVERLAP> get as your X? you remember? </U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :32"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="S19"> i just remember my answers didn't match up exactly... i got point-three-five, <U WHO="S13"> uhuh </U> and i didn't i didn't round which made my X to (the X) point-nine-seven-five which is like point-one, <U WHO="S13">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> different </OVERLAP> than the answer (xx) </U>
+			<U WHO="S13"> mhm... i can tell you what i got, i i think it's </U>
+			<U WHO="S19"> don't worry about. it's not like i'm gonna go back and change anything <OVERLAP> now. </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> yeah. </OVERLAP> i was talking to somebody else and they didn't get the same answer they did in the book either. so, yeah </U>
+			<EVENT DESC="CONVERSATION 2"/>
+			<PAUSE DUR=":08"/>
+			<U WHO="S22"> wait a minute, so, okay so once you find H, <U WHO="S1"> mhm </U> what, what equation could you use to determine the, temperature out? <OVERLAP> i'm still really </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U> confused. <U WHO="S1"> um, so </U> cuz this is the this is the, property at seventy-seven degrees right? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S22"> and this is the properties at, uh ninety-eight i think? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S22"> ninety-eight. </U>
+			<EVENT DESC="END SIMULTANEOUS CONVERSATIONS"/>
+			<U WHO="S1"> right, so um once you get the H, <U WHO="S22">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> equation that you write is um this is correct <U WHO="S22">
+					<OVERLAP> that was correct </OVERLAP>
+				</U>
+				<OVERLAP> but how do </OVERLAP> you, how do you, okay, how do you want to use this? this is the H for inside the pipe <U WHO="S22">
+					<OVERLAP> inside the pipe </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> you just calculated <U WHO="S22"> right </U> this is the A for, where? the area is </U>
+			<U WHO="S22"> the area's gonna be... (xx) maybe sur- surface area, <U WHO="S1"> yeah </U> of the pipe. </U>
+			<U WHO="S1"> the inner surface area <OVERLAP> right? </OVERLAP> . </U>
+			<U WHO="S22">
+				<OVERLAP> the </OVERLAP> inner surface area right. </U>
+			<U WHO="S1"> okay so you have this this too, now this is what T where? </U>
+			<U WHO="S22"> wall </U>
+			<U WHO="S1"> at wall right minus T </U>
+			<U WHO="S22"> um, i guess that'd be, that'd be T outside or, i don't know. (xx) that would be, the temperature of, the bulk. </U>
+			<U WHO="S1"> right temperature of the bulk, correct? </U>
+			<U WHO="S22"> mhm </U>
+			<U WHO="S1"> so, this is what, this is something you don't know yet <OVERLAP> right? </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> mhm </OVERLAP>
+				</U> now </U>
+			<U WHO="S22"> so this seventy-seven degrees is th- like the T-bulk that we're assuming for the physical properties but it's not necessarily the temperature coming out. </U>
+			<U WHO="S1"> no </U>
+			<U WHO="S22"> okay. </U>
+			<U WHO="S1"> no it's not. <U WHO="S22">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> okay so, so relating the Q to the change of temperature of the oil, <U WHO="S22"> mhm </U> as it goes in the pipe, what can you say? you can say that, this, this Q is transferred to the oil so it raises its temperature to <U WHO="S22">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> from </OVERLAP> the inlet to some outlet temperature, <U WHO="S22"> right </U> right? how do you write that, mathematically? </U>
+			<U WHO="S22"> th- the change in Q? umm </U>
+			<U WHO="S1"> it's not a change in Q it's just a change in temperature. </U>
+			<U WHO="S22"> change in temperature </U>
+			<U WHO="S1"> it's the same Q, just raises the temperature of the oil right? </U>
+			<U WHO="S22"> right so the, thing that's raising the temperature of the oil would be the, condensing the steam right? <U WHO="S1">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> or </OVERLAP> it's not_ that still doesn't take into account does it? </U>
+			<U WHO="S1"> right bu- it's the condensing the steam, it's it's the condensation of the steam but we don't care about that <U WHO="S22">
+					<OVERLAP> don't care about that </OVERLAP>
+				</U>
+				<OVERLAP> because we don't </OVERLAP> have any information on the steam either. <OVERLAP> right? </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> okay </OVERLAP>
+				</U> but, if you, you want to say this is the energy that is transferred to the oil. <U WHO="S22">
+					<OVERLAP> (mhm) </OVERLAP>
+				</U>
+				<OVERLAP> okay? </OVERLAP> now, this energy increases the temperat- temperature of the oil from some temperature to some other temperature right? </U>
+			<U WHO="S22"> mhm </U>
+			<U WHO="S1"> okay so how do you say, Q is equal to, um, the increase in the temperature of the oil times something? </U>
+			<U WHO="S22"> increase in temperature of the oil (xx) </U>
+			<U WHO="S1"> if you give energy to some system it_ the temperature increases right? <U WHO="S22">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> if </OVERLAP> you know the increase in temperature how you calculate the Q? </U>
+			<U WHO="S22"> increase in temperature, would it_ wouldn't be through conduction would it? <U WHO="S1">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> (would) </OVERLAP> conduction (xx) </U>
+			<U WHO="S1"> the the conduction </U>
+			<U WHO="S22"> because this is convective </U>
+			<U WHO="S1"> yeah this is convective <OVERLAP> but, </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> so </OVERLAP>
+				</U> um, we're talking about the increase of temperature, with time let's say. okay we're not talking about the conduction. actually i'm not explaining it good to you let me think of a better way <OVERLAP> to explain it. </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> it's probably like </OVERLAP> obvious. <OVERLAP> mm </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP> lemme, just draw you a picture. let's say, i have, this material, okay? initially i have some T-one some temperature inside of this T-one, and then i give some heat to it. <OVERLAP> okay? </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> mhm </OVERLAP>
+				</U> and then the temperature inside is T-two, at some other time. <U WHO="S22"> mhm </U> how can i calculate how much energy i gave to this? </U>
+			<U WHO="S22"> mm would it be like, accumulated uh, generation? </U>
+			<U WHO="S1"> correc- no it's not generation. it's not generation. generation is only when you have reaction. </U>
+			<U WHO="S22"> right okay so it'd be, amount leaving equals, accumulation. </U>
+			<U WHO="S1"> accumulation right. <U WHO="S22"> okay </U> accumulation what what did we have for accumulation what kin- what form did we have? </U>
+			<U WHO="S22"> it was uh, C-P </U>
+			<U WHO="S1"> exactly </U>
+			<U WHO="S22"> times delta-T </U>
+			<U WHO="S1"> times, yeah exactly. <U WHO="S22"> okay </U> C-P times delta-T times, we want to have it in terms of, energy, net energy. </U>
+			<U WHO="S22"> wasn't it <EVENT DESC="HUMMING"/> hm hm hm hm (xx) </U>
+			<U WHO="S1"> C-P is in terms of let's say joules per </U>
+			<U WHO="S22"> it wasn't D-T was it? </U>
+			<U WHO="S1"> D-T, D-T you mean temperature? </U>
+			<U WHO="S22"> (in) time </U>
+			<U WHO="S1"> uh no, no, we want to_ okay let's look at the units. <U WHO="S22"> okay </U> C-P is joules per kilogram Kelvin, and then delta-T will be in Kelvin <OVERLAP> right? </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> right </OVERLAP>
+				</U> so Kelvins cancel we have joules per kilogram. </U>
+			<U WHO="S22"> so we just do the mass? </U>
+			<U WHO="S1"> yeah, <OVERLAP> exactly, </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> okay </OVERLAP> okay </U>
+			<U WHO="S1"> so multiply by mass so it's M-C-P delta-T. </U>
+			<U WHO="S22"> okay </U>
+			<U WHO="S1"> and if you want to have it in terms of, joules per second you should have M-dot then. right? because this thing is just joules per second <U WHO="S22">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> this is </OVERLAP> watts right? or joules per second. <U WHO="S22">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so use </OVERLAP> M-dot. so, this is the M-dot-C-P delta-T of oil <U WHO="S22">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> this delta-T will be from where to where? </U>
+			<U WHO="S22"> that would be from, this is for the oil? </U>
+			<U WHO="S1"> yeah. we say we_ as it as it goes in we give it this much energy so it re- it increases its temperature this much from where to where? </U>
+			<U WHO="S22"> from sixty degrees to, where the T outlet is. </U>
+			<U WHO="S1"> exactly, exactly, from inlet to outlet. so this delta-T is from inlet to outlet, and this delta-T is just wall minus bulk. <U WHO="S22"> mkay </U> okay? <U WHO="S22">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> this bulk is average bulk right? </U>
+			<U WHO="S22"> mkay </U>
+			<U WHO="S1"> it's the <OVERLAP> same </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> so wait, </OVERLAP> would you have to take into account that this is gonna be negative since, the input temperature is lower than, the <OVERLAP> output? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um yeah, </OVERLAP> you you do actually, so this outlet minus inlet <OVERLAP> correct. </OVERLAP>
+				<U WHO="S22">
+					<OVERLAP> okay. </OVERLAP>
+				</U> good. </U>
+			<U WHO="S22"> okay </U>
+			<U WHO="S1"> so, um, so, in, in this equation you don't care what Q is but you have H you have A you have T-wall, you don't know T-bulk average because you don't know the outlet, <U WHO="S22"> mhm </U> but then, you have the same unknown here so you can sol- solve for the outlet, </U>
+			<U WHO="S22"> okay </U>
+			<U WHO="S1"> right? </U>
+			<U WHO="S22"> alright </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S1"> cool </U>
+			<U WHO="S13"> kay so i have a quick question on <OVERLAP> (xx) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> sure </OVERLAP>
+				</U> (but) so for this, the_ i mean basically you're saying these two equal to each other and this delta-T is this, temperature bulk inlet minus temperature bulk out, or the, other way around? </U>
+			<U WHO="S1"> yeah, <U WHO="S13">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> outlet minus inlet because outlet is higher. </U>
+			<U WHO="S13"> yeah outlet so it's temperature bulk outlet, so this is what that delta-T is, and this delta-T is basically this, from, equation right there right? <OVERLAP> cuz that's like </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mm </OVERLAP> yes, so it's like an average delta-T correct. <OVERLAP> yes. </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> so </OVERLAP> you're saying, solve for basically the same, T-bulk out okay. </U>
+			<U WHO="S1"> yep, that's all you need. okay. you have a question? </U>
+			<U WHO="S20">
+				<GAP DESC="10:50 CONVERSATION BETWEEN S20 AND S1 OMITTED" REASON="PER SPEAKER'S REQUEST"/>
+			</U>
+			<U WHO="S1"> okay so what happened? </U>
+			<U WHO="S17"> we, <OVERLAP> another quick question. </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> oh we just had_ </OVERLAP> real quick. okay, so, how you were saying that these Hs, um, but this equation's actually, or, <U WHO="S17">
+					<OVERLAP> Nusselt's </OVERLAP>
+				</U>
+				<OVERLAP> it's this, </OVERLAP> yeah that's Nusselt so you, you just have to multiply it by K over L like this to get the H. </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S15"> okay now we're just checking, um, the L will be, for like laminar, wouldn't it be zero to X-C, <U WHO="S17">
+					<OVERLAP> so your, L-is X-C </OVERLAP>
+				</U>
+				<OVERLAP> and then, turbulent would </OVERLAP> be, X-C, to L right? </U>
+			<U WHO="S1"> you're getting actually one N- Nusselt number for the whole thing, averaging like this. <U WHO="S15"> ye- </U> right? </U>
+			<U WHO="S15"> yeah, i th- oh </U>
+			<U WHO="S1"> so your <OVERLAP> L </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> well y- </OVERLAP> you've got two different equations though right? </U>
+			<U WHO="S1"> yeah but you put 'em in here and then you get just one H, one average H for the <U WHO="S15">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> whole </OVERLAP> thing, </U>
+			<U WHO="S15"> yeah </U>
+			<U WHO="S1"> right? </U>
+			<U WHO="S15"> yeah </U>
+			<U WHO="S1"> so you don't really need to break anything apart anymore, like you don't need to <OVERLAP> break </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> okay </OVERLAP>
+				</U> the solution, in two different solutions anymore. um, what i mean is, let's say this is the average H and if i put it in the equation for Nusselt i get the Nusselt average, is this H average times the total L, </U>
+			<U WHO="S15"> oh yeah, alright </U>
+			<U WHO="S1"> or sorry, times the K or times the total L. times the total L, right divided by K. <U WHO="S15">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<U WHO="S17">
+					<OVERLAP> mhm </OVERLAP>
+				</U> so that total L again cancels out, <U WHO="S17"> mhm </U> right? </U>
+			<U WHO="S15"> oh so this L, for each situation the L will be, total L. </U>
+			<U WHO="S1"> um, for_ <OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> well </OVERLAP> you're taking <U WHO="S1">
+					<OVERLAP> fo </OVERLAP>
+				</U>
+				<OVERLAP> into </OVERLAP> account </U>
+			<U WHO="S1"> well see this thing doesn't even have_ like when you do this you get this thing this equation times some L </U>
+			<U WHO="S15"> yeah tim- times K over L. H is, this, times K over L. because it's </U>
+			<U WHO="S1"> yes. <OVERLAP> oh okay </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> cuz this </OVERLAP>
+				</U> i see what you're saying, <U WHO="S15">
+					<OVERLAP> Nusselt equals that </OVERLAP>
+				</U>
+				<OVERLAP> okay, so you're saying </OVERLAP> that would be H and that would be the Nusselt right um... <U WHO="S15">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> are you saying that when you, calculate the average Nusselt number, </U>
+			<U WHO="S15"> it seems like when <U WHO="S1">
+					<OVERLAP> for here </OVERLAP>
+				</U>
+				<OVERLAP> you cal- </OVERLAP> calculate Nusselt, you're looking only at the whole th- or just the segment, like you're no- if, if it's laminar you're only going from, this point to this point and then for the turbulent you'd go from this point to this point <OVERLAP> for your </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> mhm </OVERLAP>
+				</U> L, for Nusselt. but i'm not <OVERLAP> sure </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes, </OVERLAP> that's true. </U>
+			<U WHO="S15"> because it seems like that would be a way that it's weighting it too because like if like, if this part's small, <U WHO="S1"> mhm </U> then, it will, take in account, by this L. </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S15"> so </U>
+			<U WHO="S1"> um, okay but, let's </U>
+			<U WHO="S17"> you're canceling your things out though too <OVERLAP> aren't you? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> to </OVERLAP> make sure to make sure not, to make sure we're not confused let's write it down, write it down and see what we're, what we're getting. um... </U>
+			<U WHO="S15"> alright, (you) can write it down (xx) </U>
+			<U WHO="S1"> so, let's, say, for this thing for H-X of laminar we have, it's K over X-C. <U WHO="S17">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> actually </OVERLAP> times point-three-three-two, Reynolds to the one-halves Prandtl to the one-third correct? <U WHO="S17">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<U WHO="S15">
+					<OVERLAP> mhm, </OVERLAP> mhm </U> so, and then H-X for turbulent is K over, </U>
+			<U WHO="S17"> L minus X-C? </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S15"> okay it is. yeah, that's what i was thinking. </U>
+			<U WHO="S1"> actually </U>
+			<U WHO="S15"> of course, <OVERLAP> this was the part that was ambiguous. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no no no, no no, it's just </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> you end up canceling. </OVERLAP>
+			</U>
+			<U WHO="S1"> no no it's X <OVERLAP> it's </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> it's just </OVERLAP>
+				</U> the big X whatever it is because, you say if it's turbulent, if you're talking about a local, heat transfer coefficient <PAUSE DUR=":06"/> (xx) yes it's L, L minus X-C. </U>
+			<U WHO="S15"> okay </U>
+			<U WHO="S17"> okay </U>
+			<U WHO="S1"> times point_ and there's a coefficient here which you're not given it's two-nine-six actually, (not) two-point-eight, so this is the coefficient that you actually put in here but you don't really need to know it. </U>
+			<U WHO="S15"> oh really? </U>
+			<U WHO="S1"> because you know when you integrate it you'll get this and that's all you need to know. <OVERLAP> right you know </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> okay </OVERLAP> so, instead of like doing this as two, you can just do it a w- as one like, they're, never mind. <EVENT DESC="LAUGH"/> yeah okay. <OVERLAP> because, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> um </OVERLAP>
+				</U> if you evaluate this two points you cou- you could get that equation is that what you're saying? </U>
+			<U WHO="S1"> if i evaluate, these two points i can get, <OVERLAP> this equation? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> you you'd, </OVERLAP> yeah you'd end up with that equation is that what you're saying? </U>
+			<U WHO="S1"> no no no i'm saying this is the equation for the local one that you put in there <U WHO="S15"> oh <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then when you integrate it you get this. </U>
+			<U WHO="S15"> oh okay. </U>
+			<U WHO="S1"> but you actually don't need it because you know when you integrate it what kind of, constant you get here. </U>
+			<U WHO="S15"> oh okay </U>
+			<U WHO="S1"> so you don't really need to know the constant you just have to know, what kind of functionality it will have for, Reynolds because you're integrating differently, and, you've_ well we talked about this this will be Reynolds to the point-eight at the end minus Reynolds to the point-eight, </U>
+			<U WHO="S15"> yeah okay </U>
+			<U WHO="S1"> at the transition point, <U WHO="S17"> mhm </U> and um, then that gives you... K-H <PAUSE DUR=":17"/> you know what's easier? what you can do is you can just calculate an average Nusselt number. say Nusselt number is um, one over L, Nusselt average is one over L, times the integral of zero to X-C of Nusselt, for laminar, D-X, plus X-C to L, Nusselt for turbulent, D-X, so you won't have to worry about those rearranging those X and L and everything. <OVERLAP> okay? </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> oh okay </OVERLAP>
+				</U> an equation for this is given as this thing now. right? </U>
+			<U WHO="S17"> mhm </U>
+			<U WHO="S1"> so you <U WHO="S15">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> just </OVERLAP> stick this in here, and then you stick the other one and this one in here, <OVERLAP> and then you </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> okay so </OVERLAP> you just use the two locals? or, or wait </U>
+			<U WHO="S1"> yeah the two <OVERLAP> locals </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> mhm </OVERLAP>
+				</U> and then you know when you integrate them how_ what kind of co- coefficient they give you, so from here you say, from here you say that, so the Nusselt average is one over L, for this part i know it gives me six-six-four, Reynolds at X-C to the one-halves Prandtl to the one-thirds, okay? <U WHO="S15"> mhm </U> plus, um, the point-oh-three-six-six that i had, <U WHO="S15">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> Reynolds </OVERLAP> to the point-eight, Prandtl to the one-third this thing evaluated at X-C, and L, correct? <U WHO="S15">
+					<OVERLAP> yep </OVERLAP>
+				</U>
+				<U WHO="S17">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<U WHO="S15"> yep </U> and then that gives you the average Nusselt number. and then <U WHO="S15">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<U WHO="S17">
+					<OVERLAP> you can find your average H </OVERLAP>
+				</U>
+				<OVERLAP> once you know the average Nusselt number </OVERLAP> you can find tw- your avera- average <OVERLAP> H. </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> okay </OVERLAP>
+				</U> now Ravi pointed something out which is which actually is very interesting that, he calculated where it becomes transition, <U WHO="S17"> mhm </U> where it becomes turbulent the transition point, and he found out that it was only two-point-seventy-three meters inside the thing. <U WHO="S15">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<U WHO="S17">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> for the most part it's actually turbulent. <U WHO="S15">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<U WHO="S17">
+					<OVERLAP> mhm </OVERLAP>
+				</U> so in i- just just using this equation, just using like the average, turbulent for the <U WHO="S17">
+					<OVERLAP> mhm, </OVERLAP>
+				</U>
+				<OVERLAP> whole </OVERLAP> thing, <U WHO="S17">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> won't introduce much </OVERLAP> error. <U WHO="S15"> oh </U> i assume because it's only two-point-seventy-three <U WHO="S15">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> meters </OVERLAP> in and it's one kilometer long. <U WHO="S15">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S17">
+					<OVERLAP> okay </OVERLAP>
+				</U> so for the most part it's actually turbulent. so, i would say if you, if you don't want to do this, <EVENT WHO="S15" DESC="LAUGH"/> just put the ran- put the turbulent one in. i will talk to the grader and make sure that, <U WHO="S17">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> know they_ cuz, your answer will be very close actually. <U WHO="S15"> okay </U> because it_ i mean for most part it's actually turbulent right? </U>
+			<U WHO="S15"> okay </U>
+			<U WHO="S17"> okay </U>
+			<U WHO="S15"> i think <OVERLAP> that's </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> but tha- </OVERLAP>
+				</U> what i did. <OVERLAP> yeah i just did </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> yeah that's what i did too. </OVERLAP>
+				</U> turbulent. </U>
+			<U WHO="S1"> okay then just don't worry about it. <U WHO="S15"> oh </U> but but um <OVERLAP> if you want to write that </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> it's nice to know. </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah. <OVERLAP> but if you want two write that </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> mhm just to see (it) </OVERLAP>
+				</U> just make sure you do_ you add this part to <OVERLAP> it </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> right </OVERLAP>
+				</U> that you calculate where it becomes, turbulent and you say, because for most part it's turbulent that's how we do it. <U WHO="S15"> oh okay </U> but this is this would be the, general way to do it if <OVERLAP> it's </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> okay </OVERLAP>
+				</U> not turbulent for the most part. </U>
+			<U WHO="S17">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> so </OVERLAP> basically this equation, if you divide it comes into play if it's maybe like five meters long or something. because it's so big, that's why, you could ignore it. <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> yeah. </U>
+			<U WHO="S17"> mkay </U>
+			<U WHO="S1"> cuz for, <U WHO="S17">
+					<OVERLAP> for a </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> two-point-seventy-three meters is laminar and then for one kilometer <OVERLAP> (then) </OVERLAP>
+				<U WHO="S15">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> yeah </OVERLAP>
+				</U> one thousand minus <OVERLAP> two-point-seventy-three </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> yeah </OVERLAP>
+				</U> is turbulent. so it's <OVERLAP> basically </OVERLAP>
+				<U WHO="S17">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U> turbulent everywhere. </U>
+			<U WHO="S15"> okay </U>
+			<U WHO="S17"> for the last part um when you're trying to figure out, D-D D-T, um basically what i was doing was just taking the Q and dividing it by the, um latent heat fusion, and then saying that that was my D-M D-T, <U WHO="S1"> mhm </U> and then figuring out D-D D-T by replacing M with rho-V and then replacing, V with L-W-D <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's exactly </OVERLAP> right. </U>
+			<U WHO="S15">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> okay </OVERLAP> i just wanted to check. </U>
+			<U WHO="S1"> absolutely right. um, <U WHO="S15">
+					<OVERLAP> i think i (mighta boxed that) </OVERLAP>
+				</U>
+				<OVERLAP> now, check that </OVERLAP> calculation though because i'm not sure i mean he told me that it was two-point-seventy-three. <U WHO="S17">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> i've </OVERLAP> never, i've never done this calculation <U WHO="S17">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<U WHO="S15">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U>
+				<OVERLAP> so check </OVERLAP> it, if it is that small, <OVERLAP> then you can do that. </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> then we can just keep it </OVERLAP>
+				<U WHO="S15">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> with </OVERLAP> the turbulent. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S17"> okay </U>
+			<U WHO="S15"> thanks <OVERLAP> Ali </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> thank </OVERLAP> you. </U>
+			<U WHO="S1"> sure... Jose. </U>
+			<U WHO="S23"> hello Ali how are you? </U>
+			<U WHO="S1"> you're late. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S23"> yeah but i_ it's just a short, <U WHO="S1"> okay </U> question that i have. i won't go over. </U>
+			<U WHO="S1"> okay, let me actually_ if, see if you can </U>
+			<U WHO="S18"> can i ask you one question <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> sure, no </OVERLAP> problem. <OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> um </OVERLAP> this is for problem number two, and i was wondering, if the area to use when you're using this, is just the whole surface area. so that it's all exposed to the water? </U>
+			<U WHO="S1"> but we're only talking about the <U WHO="S18">
+					<OVERLAP> or, </OVERLAP>
+				</U>
+				<OVERLAP> bottom </OVERLAP> surface. <U WHO="S18">
+					<OVERLAP> all surfaces </OVERLAP>
+				</U> we're talking about the, Q that goes through the bottom. right? so that's only the bottom. </U>
+			<U WHO="S18"> okay, thank you. </U>
+			<U WHO="S1"> sure </U>
+			<U WHO="S23"> i basically, i basically have it done but i just wanted to run it by you so you make sure that, i was, doing it right, so for the first problem what i did is assumed, that to be my, bulk f- b- bulk, temperature so my T-L was that. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> no you're not supposed to do this. <OVERLAP> this is what you're supposed to calculate later okay? </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> what_ but no no alright, yeah, okay, </OVERLAP> yeah and then i recalculated, to that. </U>
+			<U WHO="S1"> okay how did you recalculate <OVERLAP> it (xx) </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> i well, </OVERLAP> first i, calculated my Nusselt number from the equation, from the values given, <U WHO="S1"> mhm </U> uh i didn't know about this G, the G is the mass flow rate over the area, <U WHO="S1">
+					<OVERLAP> yeah it's the mass flux </OVERLAP>
+				</U>
+				<OVERLAP> i found that </OVERLAP> on the book, <U WHO="S1">
+					<OVERLAP> yeah because it's </OVERLAP>
+				</U>
+				<OVERLAP> i don't </OVERLAP> understand what it is. </U>
+			<U WHO="S1"> okay i'll tell you what it is um, do you know what um, V times A do you know what this is? <OVERLAP> the velocity times area. </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> velocity times the area </OVERLAP>
+				</U> what does that <OVERLAP> give you? </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> that should </OVERLAP> give you flow rate mass flow rate. </U>
+			<U WHO="S1"> no, volume flow rate. </U>
+			<U WHO="S23"> vol- that's right <OVERLAP> volume (and area) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> exactly </OVERLAP> right? so that's volume flow rate we call it this. <U WHO="S23">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> okay </OVERLAP> so if you multiply this by rho, what does it give you? <U WHO="S23">
+					<OVERLAP> (a rho) </OVERLAP>
+				</U>
+				<OVERLAP> rho </OVERLAP> times velo- this, will give you <OVERLAP> what? </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> that'll </OVERLAP> give you, your mass flow rate. </U>
+			<U WHO="S1"> exactly so M-dot. so so for_ from here we can say that, rho times V times A is just M-dot correct? </U>
+			<U WHO="S23"> right </U>
+			<U WHO="S1"> right? </U>
+			<U WHO="S23"> okay so that's what you're <OVERLAP> doing there. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> now, now </OVERLAP> if you divide, both sides by A you can say rho-V is just M-dot divided by A, <U WHO="S23"> mhm </U>
+				<OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> so </OVERLAP> that's the (formula) <U WHO="S1">
+					<OVERLAP> that's rho-V </OVERLAP>
+				</U>
+				<OVERLAP> we need </OVERLAP> okay? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S23"> uh so, got my Nusselt number, got my H, <U WHO="S1"> uhuh </U> then, uh, </U>
+			<U WHO="S1"> make sure you put your units for the temperatures. </U>
+			<U WHO="S23"> okay. alright uh </U>
+			<U WHO="S1"> the grader's gonna take points off. </U>
+			<U WHO="S23"> alright <OVERLAP> thank you. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP> mhm </U> uh and then i equated the two, uh Q equations, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> one </OVERLAP> with the mass flow rate and the, C-P, <U WHO="S1"> yes, <OVERLAP> correct </OVERLAP>
+				</U>
+				<OVERLAP> too </OVERLAP> and then </U>
+			<U WHO="S1"> so and what delta-T do you put here and what delta-T are you using <OVERLAP> here? </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> this </OVERLAP> delta-T is a T of the out, <U WHO="S1"> mhm </U> and this is T-in, <U WHO="S1"> uhuh </U> inside the tube, </U>
+			<U WHO="S1"> correct </U>
+			<U WHO="S23"> and then this delta-T is an average of the bulk temperatures at the, outlet and bulk temperature at the, the inlet. </U>
+			<U WHO="S1"> mm the average of the inlet and_ well that average difference between the wall, and the inlet and the wall and the outlet <OVERLAP> right? </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> right </OVERLAP>
+				</U> okay <U WHO="S23">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> correct </OVERLAP> that's correct. </U>
+			<U WHO="S23"> which is that one there, and then that's that comes out to that and just plug and chug, <U WHO="S1"> mhm </U> and i get that as my, out- final outlet. <U WHO="S1"> okay </U> and then that is ninety-eight percent of what i had assumed, <U WHO="S1"> yes </U> i don't know if you wanted <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no no no, no </OVERLAP> that that's fine that's <U WHO="S23">
+					<OVERLAP> (i mean it's) </OVERLAP>
+				</U>
+				<OVERLAP> fine </OVERLAP> you don't even need to, do this part. you actually say okay, seventy-seven, things are given, i just use them and i calculate my outlet <OVERLAP> temperature </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> mhm </OVERLAP>
+				</U> it's ninety-two-point-twenty-three that's all. <U WHO="S23"> oh <OVERLAP> good (just do the) </OVERLAP>
+				</U>
+				<OVERLAP> and then you check if </OVERLAP> your average was actually around this, <OVERLAP> that's fine. </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> yeah and it </OVERLAP> and it is i mean it's <OVERLAP> really </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U> close to that average <OVERLAP> or, okay. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that that's absolutely </OVERLAP> fine. </U>
+			<U WHO="S23"> for the second problem. uh, i figure out the Q, well uh fir- the first thing i did was um, calculate in my Reynolds number so i could use the Nusselt again Nusselt equation for flow, <U WHO="S1">
+					<OVERLAP> this is </OVERLAP>
+				</U>
+				<OVERLAP> past </OVERLAP> parallel plate. </U>
+			<U WHO="S1"> yes but this is when your whole heat transfer is occurring in the turbulent regime. which means, if you have a situation like this, this is the plate right? </U>
+			<U WHO="S23"> mhm </U>
+			<U WHO="S1"> and then there's flow, there's flow going over it right? </U>
+			<U WHO="S23"> oh there is flow going_ i didn't know you see, i assumed that the iceberg was basically floating because if you assume actual physical conditions of a, of the iceberg you would have shrinkage, on all s- all directions you wouldn't, have <OVERLAP> just decrease in (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh right right </OVERLAP> yeah we're not worrying about that we're just saying okay y- you're saying flow is below it. <OVERLAP> that's </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> right </OVERLAP>
+				</U> not that's not what i'm talking about <OVERLAP> i'm </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> okay </OVERLAP>
+				</U> just saying like what kind of phy- physical situation they're saying. <U WHO="S23"> mhm </U> they're saying let's say f- flow is over this, <U WHO="S23">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then, so the boundary layer starts to form, and then at some point it becomes turbulent, right? </U>
+			<U WHO="S23"> mhm </U>
+			<U WHO="S1"> from here it's turbulent. now, this equation holds when, all of the heat transfer starts when the tur- when the, um, viscous boundary layer is already turbulent. <U WHO="S23"> okay </U> what i <OVERLAP> mean is, </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> i </OVERLAP>
+				</U>
+				<U WHO="S23"> right </U> what i mean is, let's say you switch the temperature at this point to some other temperature <OVERLAP> T-S. </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> mhm </OVERLAP>
+				</U> and from, here this is T-infinity here is T-infinity so there's no heat transfer in the laminar regime, <U WHO="S23"> right </U> the heat transfer starts, when, when the flow is already turbulent. </U>
+			<U WHO="S23"> okay </U>
+			<U WHO="S1"> okay? so the heat transfer starts when the flow is already turbulent. then you can use this equation. for the <OVERLAP> case that we have </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> how do i, </OVERLAP> i mean, the way that i thought about it was, tell me if i'm wrong i mean, i figured out the Reynolds number, <U WHO="S1"> mhm </U> and then that that's a huge Reynolds number <OVERLAP> that i'm getting. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but it's that_ </OVERLAP> that's at the <OVERLAP> end. </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> oh that's at the en- </OVERLAP> oh that's at the end of the <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> plate </OVERLAP> okay. </U>
+			<U WHO="S1"> because you're putting the L the total <OVERLAP> L in there right? okay, so this this </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> right that's right which is a thousand meters or something. </OVERLAP>
+			</U>
+			<U WHO="S1"> you know that it's turbulent here but it doesn't mean that it's turbulent <U WHO="S23">
+					<OVERLAP> all the w- okay </OVERLAP>
+				</U>
+				<OVERLAP> everywhere in the plate </OVERLAP> right? </U>
+			<U WHO="S23"> alright </U>
+			<U WHO="S1"> so it's laminar for some part and then it starts to become turbulent, right? so for the first part of the thing it's laminar. but, i would say do something. go and check, where it becomes laminar. um, where it where it tran- where the <OVERLAP> transition point is. </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> right where the </OVERLAP> transition, how oh i just, decrease the L length until i hit </U>
+			<U WHO="S1"> until you hit five times <U WHO="S23">
+					<OVERLAP> five times ten-to-the-fifth </OVERLAP>
+				</U>
+				<OVERLAP> ten-to-the-fifth. </OVERLAP> so you can just like, calculate it right away you can say this if rho-V-X <U WHO="S23"> mhm </U> over mu. and <U WHO="S23">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> is the only unknown. <U WHO="S23"> right </U> right? </U>
+			<U WHO="S23"> right </U>
+			<U WHO="S1"> so you know where it's, <OVERLAP> the transition point is. </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> at what length is the transition </OVERLAP> right. </U>
+			<U WHO="S1"> right? <U WHO="S23">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> from </OVERLAP> laminar to turbulent. </U>
+			<U WHO="S23"> right </U>
+			<U WHO="S1"> and if this length is very short then you can say okay for most part it's turbulent. </U>
+			<U WHO="S23"> okay <OVERLAP> so (xx) (already know how to do that) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay if not, </OVERLAP> you have to solve for the laminar part separately, for the turbulent part separately, using the appropriate equations, </U>
+			<U WHO="S23"> how would, would you then consider, heat flow, uh, not parallel but perpendicular, <OVERLAP> heat flow? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no. </OVERLAP> all you have to do is, you say <OVERLAP> for for the lami- </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> because you would have the </OVERLAP> H, you would have an H-naught here and another H here, <U WHO="S1"> yeah </U> (no?) </U>
+			<U WHO="S1"> yeah. so you have, two different Hs you get <OVERLAP> two different heat transfers add them up. yeah. okay? </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> and you just add them up, alright oh okay. okay. </OVERLAP>
+			</U>
+			<U WHO="S1"> so check your calculations and see if, um <U WHO="S23">
+					<OVERLAP> if i get my length </OVERLAP>
+				</U>
+				<OVERLAP> the the assumption of </OVERLAP> turbulent for the whole part is a good assumption if it is, then just <U WHO="S23">
+					<OVERLAP> (then jus-) </OVERLAP>
+				</U>
+				<OVERLAP> use </OVERLAP> this equation. <U WHO="S23"> okay. </U> if not you have to solve for the laminar part separately, <OVERLAP> turbulent part separately. </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> right, okay and once </OVERLAP> once i have that i i use my H that i calculated, and then got my Q. </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S23"> right? and then, using this Q and getting the_ this known value i can figure out what, what the, <U WHO="S1">
+					<OVERLAP> shrinkage </OVERLAP>
+				</U>
+				<OVERLAP> the recession </OVERLAP> rate is <OVERLAP> right? </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U> it's not a differential equation it's just <OVERLAP> straight out, just calculate </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> no no no. it's straight. yeah </OVERLAP>
+				</U> from this Q down to that and multiply it <OVERLAP> and </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U> it'll come out okay. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S23"> this one, </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S23"> i think i know how to do it, i wanna run it through, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> you, </OVERLAP> i'm gonna do uh Q is equal to, i'm gonna say, lemme see it's, (there.) Q is equal to one over H-naught, ah what is the equation (xx) A, plus one over K-A, i say that right? over_ no, ay yai yai. well i i d- it's the it's the one with the, and then, the thing is that i know that this value i know this value but i_ this is the one that i'm gonna calculate from the vertical, right? </U>
+			<U WHO="S1"> yes, correct </U>
+			<U WHO="S23"> this is J_ H-ou- outside. </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S23"> and that's that's the one that you say we should iterate on? </U>
+			<U WHO="S1"> um, yes but your equation is not correct your equation is like this it's delta-T over <OVERLAP> this thing. </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> right right </OVERLAP>
+				</U> so delta-T_ in delta-T you don't know T-naught, <U WHO="S23"> mhm </U> T-outside, </U>
+			<U WHO="S23"> right </U>
+			<U WHO="S1"> right? that's called_ that's T-naught. </U>
+			<U WHO="S23"> okay </U>
+			<U WHO="S1"> and this delta-T you don't know T-naught, and, in this H also you don't know T-naught. </U>
+			<U WHO="S23"> right, <OVERLAP> so </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay? </OVERLAP>
+				</U> that's why you need to </U>
+			<U WHO="S1"> that's why you say if you guess first, </U>
+			<U WHO="S23"> a T-naught </U>
+			<U WHO="S1"> if you guess a T-naught you can calculate this, and then you can calculate Q from Q you can calculate T-naught back. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S23"> oh okay, right. </U>
+			<U WHO="S1"> okay? so you guess a T-naught first, and then you calculate your H for outside, <U WHO="S23"> mhm </U> right? and then knowing H you can calculate the Q. <OVERLAP> because </OVERLAP>
+				<U WHO="S23">
+					<OVERLAP> right </OVERLAP>
+				</U> you put it in here. and then once you calculate Q then you put the Q back from here to here, and calculate this T-naught again. </U>
+			<U WHO="S23"> alright </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S23"> okay </U>
+			<U WHO="S1"> and then you iterate. </U>
+			<U WHO="S23"> alright okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S23"> alright thank you very much. this T-naught is outside right? <OVERLAP> is a </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U> temperature outside? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S23"> okay. alright thank you very much. <U WHO="S1">
+					<OVERLAP> sure </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

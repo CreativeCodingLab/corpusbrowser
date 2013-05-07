@@ -1,0 +1,978 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="stp125jg050">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Architecture Critiques </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> STP125JG050 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  WARNING -- Citation of examples is restricted for one or more speakers in this transcript.  Permission to cite examples from this transcript in any presentation or publication must be obtained from the English Language Institute. </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="123">
+						<DATE> December 11, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with mono input and video recording (BMC) with one remote mic and one shotgun mic </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Bonnie Malczewski </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Rodney Pratt, Aaron Stark, Shannon Allen, Amanda Jones </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz, Amanda Jones </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Final Editing, 02/27/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NSO"> Native Speaker Other English </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="25"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="12"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Professor" SEX="F" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JG, First Presenter" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> ITA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JF, Juror" SEX="F" RESTRICT="ALL" AGE="3"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JG, First Presenter" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JF, Juror" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S6" LANG="NSO" ROLE="SF, Juror" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> UKE </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="VO, Juror" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="JG, Second Presenter" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SG, Second Presenter" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="JG, Third Presenter" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="JG, Fourth Presenter" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="JG, Fourth Presenter" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-1" LANG="NS" ROLE="SF, Professor" SEX="F" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-2" LANG="NS" ROLE="JG, First Presenter" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-3" LANG="NS" ROLE="JF, Juror" SEX="F" RESTRICT="ALL" AGE="3"> </PERSON>
+				<PERSON ID="SU-4" LANG="NS" ROLE="JG, First Presenter" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-5" LANG="NS" ROLE="JF, Juror" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-6" LANG="NSO" ROLE="SF, Juror" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-7" LANG="NS" ROLE="VO, Juror" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-12" LANG="NS" ROLE="JG, Fourth Presenter" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-13" LANG="NS" ROLE="JG, Fourth Presenter" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Public Critique Space, Architecture Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> we, we have two sites you haven't seen the (xx) before have you? </U>
+			<U WHO="SU-f"> no </U>
+			<U WHO="S1"> (um. or Mark?) okay. we have two sites, one is on North Campus which uh, if uh this is the, Pierpont Commons the Media Union and the bell tower, this is Bonisteel here, and Murfin goes up the hill here, uh so the site is really, largely where the current parking lot is, to the north of Pierpont Commons. or that slope. that whole area was open for, choice. and the other site is um, in town on Central Campus, uh State Street is here, um Student Union, West Quad, <U WHO="SU-m"> (looks exactly like) </U> Thompson Street Thompson Street parking structure. this is currently used as grade level parking. alright um, and Blimpy Burger is here, (lying down,) okay? just to set the context. this is South Quad. so the two sites uh you'll see schemes on both sites through the afternoon. okay, some students have been working individually and some have been working in pairs. so um, this is obviously a pair. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> um, in looking at the uh, North Campus, we found that, it's quite obvious um, that there's a suburban feel to, the environment and, what we've tried to do with our scheme, uh was kind of two things. one was try to reduce the, um suburban feel like the Media Union has, um, on this side of the street to the, the front of the building and, as well as somehow try to, address, the um, quadrangle, uh which is, uh presently which presently is starting to look like it's forming. um, and we realized that our building doesn't complete the quad and, uh we're trying to attempt to, somehow, um get a sense of a new, way of designing, uh buildings for, uh, North Campus. so what we've done basically is try to, um bring over the Murfin, Road and, have our building, interact with the street as well as with the quad. um in a larger uh... master plan, if you will. </U>
+			<U WHO="S3"> (and are you going to change Murfin?) </U>
+			<U WHO="S2"> yeah Murfin, currently goes straight down, so what we've done is we <SIC> curve </SIC> it bring it over so that we could have, the road um, interact with the building as well as have, our building, um interact with the quadrangle. </U>
+			<U WHO="SU-3"> oh. </U>
+			<U WHO="S4"> um, let me go through this uh, programmatically if uh </U>
+			<U WHO="S1"> George, i can't </U>
+			<U WHO="S4"> let me go through uh, programmatically. the uh, the main entrance uh, to our building, is where the roof, where there's an existing roof where this, this is the uh ground floor plan, where this is the Pier Commons, and there's the um, existing roof that exists there right now, we're planning on keeping that and using that as the main entrance into the building. whereby, you can sorta see it in this view right here, and um, so the main entrance, um is like, this point right here. it sorta edges you into, a what you call, vestibule, because it's sorta separated from the rest of the building as a, sort of very public, uh primary ci- uh, circulation space. now this is one of, one of three that we have, um, this is one finger primary uh circulation could be allowed, publicly as long as this finger right here, um, when i describe this finger uh um, my uh concept was that, these fingers which is the circulation space, (were) sort of um uh cocooned in the studio space, cuz we thought that studio space was, was very much, um, very much uh, the the sacred space of an architecture building so we wanted to, to really um, to uh enclose it and, sort of make this space uh, you know not necessarily, um closed to the public, but maybe certain parts open to the public but, um something that you, you can go to but, can't really see from the exterior of the building. so, s- you enter through the building, and um, and um, these are the two fingers as i mentioned before. now in the ground floor, we have all of our public spaces as soon as you enter you get an exhibition space right here. um where we'd have a coffee shop, we have a lecture hall auditorium, a public I-T-D space which, not necessarily is for the, computing space for the whole, School of Architecture but, more for public use. we have a, computer (xx) upstairs i mentioned. and, around this other um, circulation space, on the ground floor we have a mechanical space right here. i'll talk a little bit more about that afterwards but on the right-hand side of it we get our, computer classes areas um, you know you get your seminars right here, you got your workshop right here. and on the other finger of the circulation space, we get our G-S-I labs, we get our high-bay spaces this is them right here. now on the ground floor, what we did what we decided to do for the parking was that, we decided um, we're gonna use the existing parking but we're gonna cover it so there is, we're saying that th- there isn't gonna be any sort of an, excavation we're building from the existing grade up. so, we're we decided that we're gonna have parking, within our building, coming off of a street, off of Murfin, entering into as a one-way, coming back out, and out back out that way out to Murfin. as our, as programmatically for the parking spaces that are required. um, ways of getting on- onto the second floor now there's a couple of ways of doing that. uh from the main entrance, there is an accessibility, of, uh a set of stairs and elevator here, or, you can go up um, a one-hundred-and-eighty-foot ramp, one-to-twelve ratio scale for the handicap accessibility up until the studio space. uh, you don't quite get right into studio space as soon as you get up. um, you get into this other catwalk that runs back the other way, which, actually connects you to, this other piece which is another sort of face of our building, which is across the street, which um, is the admin, uh offices on the ground-floor plan, and_ but when you come up, the ramp onto the second floor, you bridge across, you get directly in- into faculty offices, which went two stories up from that, and one more top for G-S-Is, PhDs... so. um, getting back to over here, um we get back into the catwalk right here. this coffee space runs two stories. so, you can actually access um, studio-level floor, from the studio-level floor down into the coffee shop into this two-story area space. so, basically, you get up to this point right here. right here, um, where we have our coffee, um copy center sorry, area, um sorta publicly um, publicly located, and then after we get an extension of our studio space which is on one floor. so an existing building on this side is only a two-story building. where studio spaces are subdivided... and we get our cre- we get our c- uh computer (pool areas.) uh which is uh, interconnected within, within those studio spaces. now that's one part of the studio, but... um the crit spaces are located right here, facing uh, and so now, this view right here. alright that view is actually sort of standing right here, and looking up that way. so i'm getting a view into studio, but i_ you get a you get a view also of the crit spaces that's located right here, on this other, um circulation space. whereby on the same level as the studio space, i bridge across, over these um, over these three bridges that exist one two and three, over into, our classroom area, um, which is another, which is sorta separated from studio yet somewhat, connected by these bridges... and um, we have our typical, all the, the fire exit uh requirements um, two hundred feet (there'll be a) fire exit (stair.) um... yeah, um let me just explain some of the views if you can't read it this is the main entrance view up so as soon as you enter, you get this round going up... you get your exhibition space will be right here, and you get your auditorium, lecture hall, and your I-T-D in on the corner. so you can kinda... <U WHO="SU"> could you talk (xx) </U> this is the studios, uh, this is the back, this is the back finger (hole) which is, this finger right here. there by, you know, go by, you tr- you're trying to introduce um, the public into the building, because, in a way this_ the_ there's there's a couple layers are full of (pull living) you can see, that you get, you get this, you get this, later, and after you get, you know, sort of this layer within a layer. so you get your studio space encapsulated with as i said with the, circulation finger space. whereby_ where the public can sort of feed in and so they'll start to interact, with the architecture building a little bit better, which uh i don't think that this building provides, as much interaction, they seem sort of very closed off (lately...) these views right here, as i said before these are uh, these are the um, the main entrance nook, which exists, and that's our main entrance, with uh, with the (xx) center facing out. this is uh, looking south um... northwest, coming up... <OVERLAP> but you can </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> but this is on Murfin? </OVERLAP></U>
+			<U WHO="S7"> this is fr- </U>
+			<U WHO="S4"> yeah, this is looking Murfin looking south and that's the Media Union, and that's the Pier Commons in the background, and this is looking from the engineering side, so this is the Media Union on that side right there this is the bell tower, and that's the architecture building right there... um we wanted um, i guess you can see if, i wouldn't wanna leave admin. the admin was, meant to be this space whereby it's, i know it you know, we wanted to make this, sort of a_ we wanted to use this space because we wanted to (really) interconnect the road, with the courtyard. so, by us, putting this, putting this um, this other face of our building on this side of the road, we sorta try to use this, try to try to, use um use this green space to our advantage. uh whereby it's it's very uh sparsely used right now at the moment, so i think by by doing that i guess, you start to, start to get a sense of that_ of the interaction that that could possibly happen, with that space, and for future development we'd be rooting for this area between us, our possible architecture building and the Music School. </U>
+			<U WHO="S2"> professors now can't complain that they're, away from students and, they'll have their own private spaces so they're, uh in the woods so to speak. </U>
+			<U WHO="S4"> in the woods, uh, very sorta transparent in this, direction. </U>
+			<U WHO="S3"> you mentioned uh as the opening of your, discussion of this project, said that North Campus has a suburban feel it'd be more (run) throughout the (entire) building. um what is? i agree i mean it certainly says organized office park, feeling to North Campus what in particular were you addressing? </U>
+			<U WHO="S2"> i'm addressing more the, the street frontage of the building face, the long lawns, similar (to like) <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> these kind of </OVERLAP> areas here these very </U>
+			<U WHO="S3"> don't you have one? i mean have you </U>
+			<U WHO="S2"> well when we, (very first drew this lawn,) not really i mean we tried to do entrance <OVERLAP> (beginnings coming from) </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> you know, </OVERLAP> you know like, even in words, you know, we're defining this entrance it's, it's beautiful, fun, of from mhm <EVENT DESC="CLEARS THROAT"/> excuse me the street. so ours was a little bit both so it's more pedestrian scale, um <OVERLAP> so, what it's (a suggestion) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so is it, uh it's just the en- </OVERLAP> it's just the entrance and not actually the s- siting of the building that you that you mean? </U>
+			<U WHO="S2"> it's_ i would, go more with the entrance then however we needed suggestions, (xx,) to address, certain issues i think we'll need, you can keep the whole, keep the street, perfectly straight and have the building, (how it looks) on the street and have it faced on the street, i guess that's the way to uh, uh) </U>
+			<U WHO="S4"> cuz we don't need necessarily a right answer to it but we, i guess you know since we started to try to do that because the coffee area sort of leads right into this area right here, you can see </U>
+			<U WHO="S3"> to the what? </U>
+			<U WHO="S4"> the coffee area so there </U>
+			<U WHO="S3"> the coffee? </U>
+			<U WHO="S4"> yeah the coffee shop area <U WHO="S3"> okay </U> so it leads on top of the uh exhibition (right) after (you know) interaction, with the_ this stairs is leading down into this area. so the i, i i i know that's not necessarily <OVERLAP> (um uh) enough </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i guess </OVERLAP> but i mean i don't think this i'm not this (isn't_) i'm just, mentioning that th- you have this huge large area here like this kind of this ambiguous maze (xx) building, so, um you do in fact have a suburbanized, siting of your project not that, the entrance, doesn't work as you're saying, in a the way it does, but i think you have a really interesting, architectural problem (um cuz) the problem is is your building, it has two fronts. and you've made even a third. right? so clearly the side on the street is a kind of front. and clearly the side on the quad is a kind of front. and yet you've placed your front in the back, to the um, south, right? where you placed your entrance against Pierpont Commons, in the back, on the door, which is where the coffee niche is. and by doing that you made the two other, edges, your sides... i think you've done that, um, programmatically as well cuz on the sides, um, well it's pretty clear but how (can the) central access to your building? right? with the studio space and those crit tables kind of part of the that central access. and then on the um, on either side of that, block, which forms (in as) part of your project studio spaces, you have circulation space. and then it, and the ground floor you have the circulation space coupled with this kind of um, with lab functions and kind of (poshay) functions in a way, utility functions, um, on those two, flanking kind of sides. so to me it does need to be done front, back, sides but really the site asks for front and a front. and maybe a front down here. so, to me i think that there would need to be some reconsideration of the program, for example or, where where we could talk about people coming in and using your building, to me a long circulation corridor on the quad side, doesn't quite do that to me i would imagine, maybe placing the, um I-T-D computer rooms and probably the (copy bay) and things like that, um, along the edge so that you're activating the quad which is really the social space of North Campus. </U>
+			<U WHO="SU-2"> and it's along this edge </U>
+			<U WHO="S3"> it's in the corner <U WHO="SU-2"> it's on </U><OVERLAP> but the rest, okay what about the rest of it? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> (and you need) a public space. and you're right. you're </OVERLAP> definitely right it does go, it does go like this </U>
+			<U WHO="S3"> and there's not even an entrance. you only have entrances at the two ends. </U>
+			<U WHO="S2"> there's an entrance here and here and here </U>
+			<U WHO="S3"> and the other end. <OVERLAP> right so the entire leg </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> even in your in your presentation </OVERLAP> you described <U WHO="S3"><OVERLAP> (other) side </OVERLAP></U><OVERLAP> (uh) the back, </OVERLAP> the back side of the building, the side that faced the, <OVERLAP> well </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> i said the, </OVERLAP><U WHO="S1"><OVERLAP> you said, yeah </OVERLAP><EVENT DESC="LAUGH"/></U><OVERLAP> (i) said the </OVERLAP> quad side. i don't know if i said the back side of it, (sorry if i) </U>
+			<U WHO="S3"> the entire length of your building is a big glass wall, and there's no entrance </U>
+			<U WHO="S2"> not in, not in (that side) </U>
+			<U WHO="S5"> i, i think there's, something also that uh Teresa's comment on that in terms of, what were you trying to accomplish, in getting rid of the suburban? and, my thinking is that you're trying to make it more urban, is that correct? and i think about uh, you know the idea of bringing the street to the building and that being the driving force in in making this more of an urban state. um, but i almost feel like you really need to, you know in order to accomplish that, it's somewhat set back as well wh- whereas to achieve something really urban you kind of need a continuation, of pedestrian traffic along that urban side. and what i'm s- i think the difficulty that i'm having with that is that, on what you would truly consider your urban side where the street is, you've placed the mechanical room. so you_ there's not even, really maybe the potential, for, if something was to happen on either side, for activity to happen along that urban side face, of the building. it's it's really kind of, conducive to, to highway, <U WHO="S3"><OVERLAP> well </OVERLAP></U><OVERLAP> traffic </OVERLAP> there </U>
+			<U WHO="S3"> an interesting thing is you're not gonna_ with one building, you're not going to be able to make North Campus urban. it's just not urban it's, a suburban office-park-type campus. and i think that um, i think, one building on the street doesn't do anything. the architecture building is essentially on the street and, and Bonisteel isn't (an) urban street it's a it's very much kind of this, just traffic-prone... so in a way that desire to make it urban i think is, a little bit misplaced </U>
+			<U WHO="S1"> do you think (xx) </U>
+			<U WHO="S3"> not that, not that i think that your project has nothing (of value.) it's just different <U WHO="S4"> well </U> i just think that, the d- that desire is almost impossible to accomplish, right? to make North Campus urban. </U>
+			<U WHO="SU-1"> yeah </U>
+			<U WHO="S4"> i know with one building. </U>
+			<U WHO="S1"> but do you think if they described, if they started off, by saying, um that (the) one of the things that happens on North Campus is that buildings, uh fronts face the quad, and their backs face the street. and therefore when you're on the street you (have) sense that you're really not, part of the campus you're out of the action. and i, i think that one of the things they're trying to do is to break down uh begin to break down that (meaning.) so that all backs, don't face outwards toward the street and all fronts don't face inwards toward the quad. <U WHO="S3"><OVERLAP> right, so </OVERLAP></U><OVERLAP> is, would that </OVERLAP> be a reasonable proposition <U WHO="S3"> yeah </U> that somebody of enriching the spaces of North Campus so it isn't so, such a kind of um, one-liner? you know there's, a_ one green space everything that faces onto that is a first-class citizen and everything which doesn't have frontage on that is a second-class citizen. that's the way it's beginning to look around here. </U>
+			<U WHO="S5"> i i definitely i mean i can appreciate that notion too. i, i just feel like in order to really try to make that, a little bit more successful_ and i think you you started with it_ is to really allow it to have a front other than something that's nonusable i mean take the, take the classrooms or something like that and move your mechanicals in towards your open space where you have, parking and and things of that nature. um, it just it just really feels like, particularly when i look at the uh, at the view looking back towards the Media Union from Murfin, that entire s- street side i mean you're looking at you know louvers grilles and and things of that nature and, and i think that, that's starting to speak more about what you're talking about than than is actually the existing condition... not that_ i mean i, i_ you know not to get hung up on this issue either i, i think that it's very interesting, your exploration between the way the, classrooms relate to the studios. um, i i think that that's actually a very interesting notion that there's_ there could be some sense of integration there, where they feel like they're a lot more, in proximity to one another and i like the idea of the, of the bridging, as well and having that open space, uh between so that there is some sense of, of separation but yet, it has kind of a dialogue between it that i think is somewhat interesting too. </U>
+			<U WHO="S6"> could you talk a bit about about how you chose the form of your roof, and, how you chose to, butt up to, these circulation spaces on one side, and how you chose what (wide reach of space it could be,) and what form they should be? </U>
+			<U WHO="S4"> um, getting back to uh, oh i guess, we wanted_ (use it for the front of it save it for our lights,) we wanted to uh, we wanted to, um, cocoon the studio, (starting) with these fingers so, that's the reason, wh- that's the reason what we did and uh, uh certain value to, <OVERLAP> i mean on certain views </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> did that_ when you say </OVERLAP> cocoon it, do you did you </U>
+			<U WHO="S4"> meaning <OVERLAP> (like wrap) it </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> did did it it, </OVERLAP><U WHO="S4"> and </U> did it mean that it had to be higher wrapped...? cuz </U>
+			<U WHO="S2"> i think so </U>
+			<U WHO="S4"> yeah. we wanted these fingers to be more, the circulation to be more the dominant, feature in the building, and then after you get the recessed studio, and then after the in studio it, you know the circulation is actually reversed because it's_ the circulation is a lot more now than after your studio is open. </U>
+			<U WHO="S6"> and why did you choose the barrel vault? and and why did you choose to put the barrel vault in that direction rather than the other direction? </U>
+			<U WHO="S2"> the barrel, the barrel vaults followed the, the (xx) circulation which is (up in) here, <OVERLAP> so it's like </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> there's many </OVERLAP> other forms <U WHO="S2"><OVERLAP> (set) </OVERLAP></U><OVERLAP> that </OVERLAP> you could have chosen there. you you made a conscious decision to go for a curved roof, d- do you know why? or was it just, an emotional response? </U>
+			<U WHO="S4"> (which is) still a little technical i gave you a picture of mine in the studio. because i think i uh </U>
+			<U WHO="S6"> (had) to use our parti? </U>
+			<U WHO="S4"> yeah. we went into, actually, it doesn't really show in the model but <OVERLAP> we wanted to </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (no it doesn't </OVERLAP> show at all) </U>
+			<U WHO="S4"> yeah. you see those, those were kinda, trying to simulate some of the (direct kinda weird) light is from the skylight as (disposed around) to that one. but then after um, bounced around then after it bounced off the roof and, sort of, just uh </U>
+			<U WHO="S6"> well you could look at the sounstitch roof and and look at how how how close do theirs need to be underneath the um, skylights to make that work and still, get the feeling you've got. i mean a lot of folks have no problem with it but you've, you didn't explain, you didn't, include it in your presentation, and yet when you look at the model it's the first thing that, you see. </U>
+			<U WHO="S4"> but if i'm, gonna talk i'm not gonna do it (i prefer extended.) <U WHO="S6"><OVERLAP> (xx) </OVERLAP></U><OVERLAP> there's a certain (bunch of_ </OVERLAP> i understand.) </U>
+			<U WHO="S6"> and i must say i do find the relationship of, of your site a bit too linear. (coordinate) with (pair) and for those going in a particular direction it's very, quite hard, to to to feel comfortable with, and in both of those top two and those there have to pose some of the problems particularly with the (billing) in. and it means that you_ whereas i felt as if if you had carried them before you moved the barrel vault out to the sides, you would then (xx) the studios even though, there was the walkway in between. </U>
+			<U WHO="SU-2"> you mean you're saying we should turn them the other way <OVERLAP> (forward would be good?) </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> no you can keep them the same </OVERLAP> way but just continue the shown what out, do you think, (concrete,) and you're not s- you still haven't included the walkway by the side </U>
+			<U WHO="S4"> (i know he,) i think that was an intent to purposely set our recesses (xx) back in </U>
+			<U WHO="S2"><OVERLAP> (could this) </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> it's </OVERLAP> it's very strange (sort of) </U>
+			<U WHO="S1"> i think that's i mean that's been a recurring, topic of discussion, is what the relationship is between, the the form, of the studio space and the, and one of the things about carrying the the studi- the walls out, is that um this studio is not a freestanding building. and so, the junction conditions in each side are very different. and so when you tr- and so when you try to make the studio rooftop, it ends up being a nightmare. in terms of how it joins onto, the things around it. because the conditions are so different from side to side. but </U>
+			<U WHO="S3"> on one side though, i have to say i'm sympathetic to the idea, <U WHO="S1"> on </U> up up on the side of uh <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> the </OVERLAP> quad, to somehow articulating, um the maybe the roof maybe something else at that end because really i mean when you think about buildings on North Campus one thing that they all have in common is that they're big she- big shells, in which the facade as a thin skin, is kind of the way you can describe these buildings, right? that's how the Media Union is that's how this building is they're big, enclosures, big volumes, enclosed by a very sheer thin surface. and i think that that is one reason why, they o- they obviously have scaled to the scale of the building, not to the scale of, the pedestrian, or the quad, or a sidewalk kind of thing, and to me this surface, is about as sheer a surface as you can possibly get. right? and even then having a layer of space inside that should be articulates (the continuity) of that surface, further adds, to the kind of large, largeness of scale of the building, (through) program demands. right? and and uh economy wouldn't suggest you have a big (open front.) but somehow i feel that surface needs to be broken up. and one way would be doing with big roof and you notice this could extend down somehow maybe to kind of somehow acknowledge, the exterior of the building. </U>
+			<U WHO="SU-2"> we tried some, and maybe it's not successful of the sides out here, at left, perhaps um... had to mark on with,) interior sort of an exterior scene. <OVERLAP> so we tried </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> you haven't </OVERLAP> described the other levels. <U WHO="SU-2"> we ha- </U> it'd be better if you can </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S3"> (slight on that side) </U>
+			<U WHO="S2"> so, we have, on both sides (xx) and, a wide (alley) which (you know) creates, (i mean higher on one side.) so it's to add (a kind of depth to the scale) and kind of break up that long, uh... so </U>
+			<U WHO="S6"> but it also separates the building from the quality of the lawn </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="SU-3"> that's true </U>
+			<U WHO="S1"> sorry <OVERLAP> it's interesting though that these things come (into the) </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (what i said was they're building according to the hall) </OVERLAP></U>
+			<U WHO="SU-5"> yeah i think <OVERLAP> if it was </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> are you saying </OVERLAP> the water separates from the quad? </U>
+			<U WHO="SU-5"> if it was one or the other you'd have a better opportunity for that but because, you have, you have, the water element, and that exterior seating that kind of physically makes that, distance separation from the building, and then you have the the layer of skin, that gives you kind of that, uh separation in terms of being kind of like tactile or auditory, to the building, you're you're really quite separated in seeing it as a distance of an entire skin. rather than, even if you had this skin, you know somebody could approach the building and be in the same kind of pedestrian space, as them but, now you kind of, not allowed people to have either, of those. </U>
+			<U WHO="S3"> i mean, for just for example like little things. that cafe could be located maybe on that side or it could be something that extends out of the building to make kind of a canopy but (off the roof) or somewhere else, you could have program which means from the inside to the outside so that you acclimate the edge of the quad. see what i mean? that's one example. sculpture. (not quite, you don't know ar- art,) well the woodshop maybe right? you have a woodshop yard, a full part, and the truss woodshop, there's a kind of yard outside, so that it would be a programmatic exchange, to (a small kind of effect you want.) </U>
+			<U WHO="SU-m"> the key word is experience </U>
+			<U WHO="S1"> Teresa could you (hear him) pronounce this become a bit (mums) like the enhancement </U>
+			<U WHO="S3"> it's like all the <U WHO="S1"><OVERLAP> s- separated </OVERLAP></U><OVERLAP> other (children) </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S6"> actually i want to make a comment just from, when was it Wednesday. i, i like where you've put your parking. </U>
+			<U WHO="SU-4"> sorry? </U>
+			<U WHO="S6"> i like where you've put your parking <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> this is saying in contrast to the discussion on Wednesday. </U>
+			<U WHO="S6"> yeah. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S4"> (why) in contrast to, </U>
+			<U WHO="S1"><OVERLAP> Mr Taubman, (and calm,) the whole lecture </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> yeah. i said it's gonna cost a lot more to, </OVERLAP> to build <OVERLAP> this parking. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (what) not to put </OVERLAP> parking there? what's it cost? </U>
+			<U WHO="SU-1"> we, <OVERLAP> (put it inside you know) </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> it says it's gonna cost more to </OVERLAP> (build inside) <U WHO="S3"><OVERLAP> yeah but but </OVERLAP></U><OVERLAP> than to put it </OVERLAP> underground. </U>
+			<U WHO="S6"> but at least, well it's it's cheaper to put it underground it's and it's <OVERLAP> his </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> it's (xx) </OVERLAP></U>
+			<U WHO="S6"> (well let's just...) no it's <U WHO="SU-m"><OVERLAP> (uh which is) much more expensive to </OVERLAP></U><OVERLAP> cheaper to, no excava- </OVERLAP> excavation is always more expensive. you have to have retaining walls you have to do a water route (into) etcetera </U>
+			<U WHO="S4"> (no you thought it was sprinting) </U>
+			<U WHO="SU-5"> sprinting, <OVERLAP> firing </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> but we, i mean (we all agreed to) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah, (you know) you have to have a (check on that) </OVERLAP><U WHO="S4"><OVERLAP> but you have to have that anyway </OVERLAP></U><OVERLAP> (just in case) the A-C to get all the exhaust out </OVERLAP><U WHO="SU-m"> yeah </U> (from underground) </U>
+			<U WHO="S7"> you know what? having seen this (progress,) and i know, one of the problems you have is you have this big, (steel foot thing,) that you need, that you need. i think that you've, adjusted, and i think in the same way about a week ago when i saw it, it had those, (bulbs but) you couldn't read them as (bulbs) because it was hidden. you will if you now are going to adjust i think, you need to go further. okay i think at least you're, targeting... some useful, questions to get at. and i think that that's good so... don't think of yourself as dumb. even though today's the (big day.) you know what i mean i think you have these serious questions (to ask.) </U>
+			<U WHO="S1"> i_ it'd be interesting to ask Teresa, what </U>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S1"> no (reall-) uh, what Ron's referring to is a week ago, the back wall of these, circulation spaces here and here was solid. <U WHO="SU-7"> mhm </U> and so what you were reading through here </U>
+			<U WHO="S2"> (okay) if you could imagine this as being, we had this <OVERLAP> pretty much solid, </OVERLAP><U WHO="S5"><OVERLAP> just doing it </OVERLAP> that's okay </U> so from the outside from here you wouldn't read, uh </U>
+			<U WHO="S1"> the thin edge of the hole </U>
+			<U WHO="S2"> you'd read it as a big huge heavy </U>
+			<U WHO="S4"> as if <U WHO="S2"><OVERLAP> roof but it really wasn't </OVERLAP></U><OVERLAP> it was extruding </OVERLAP> to (work with the) </U>
+			<U WHO="S1"> but that in itself i mean you could say, you know </U>
+			<U WHO="S2"> it's an illusion. <U WHO="S1"> yeah </U> it was a it was an illusion. </U>
+			<U WHO="S4"><OVERLAP> although there was a very long_ i'm not, going to (make your burden) </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> well it sti- still looks a little bit like that in the top image that it was </OVERLAP> at a degree, held in between </U>
+			<U WHO="S1"> yeah. (no) before it was solid it was okay <OVERLAP> since (i) was like, it was like a very very heavy </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yeah. before all this was, was solid (rock.) </OVERLAP> so you don't see the actual </U>
+			<U WHO="S7"> i mean one one possible reason for the walls, you didn't say this, one one answer you could have given, is this thing, could compete formally with this, this thing. if it was read... (on that) side of the building now you're you're trying to get us to believe that it will be read on that side of the building. <EVENT DESC="BACKGROUND NOISE NEXT :08"/> (zero be needing what is back here.) and, you'll probably need something that (this kept here, in the front.) um, so, (it had to be here.) an- another thing, one of the one of the things you'd ask us to accept, is the driven the driven road. so i think you know we'd have to accept that, particularly those terms. but it it's always struck me, once you do that and you put this building on the other side, i'm talking about being being in the trees, well the reality issue, first now really if you put the end in tif- in the, tip of the building, well i just wonder whether at that point, is it all that they'd have to think of, would, creatively about what that other building other half of the building could be. could it be, a series of studios? a (set of advising rooms?) could it be </U>
+			<U WHO="S2"> you're saying other than the professors? </U>
+			<U WHO="S7"> other than blocks of the (xx) once you make that huge gesture of going into the road to get to this other realm, this other wooded, agrarian </U>
+			<U WHO="S6"> log cabins <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S1"><OVERLAP> yes log cabins </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> log cabins, </OVERLAP> something i mean you do you do you do PhD_ do you uh do uh, uh P-Cs when you graduate in the master programs? </U>
+			<U WHO="S1"><OVERLAP> (some people) </OVERLAP></U>
+			<U WHO="S7"> i mean maybe (there're places) for mas- for uh thesis statements or something. something just just to, to question, the nature of what that building could be on the other side. and then you never really, got at that. it's always been about the same. so i i wonder a (little bit about that.) </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S5"> (you) know what also, kind of strikes me interesting now is the idea that um, that your east facade i think would actually work, very well as a west facade. almost to the extent that, you're dealing with the vehicular scale, but you're revealing what's happening inside, you're providing somewhat, of a separation, between the vehicle and pedestrian, but you're giving, the v-... the idea of of vehicular traffic an idea of what's happening in the building you can see people moving through it, you can see the the revelation of that vault happening through the skin, but it gives you a very clear layer of definition, of that skin, that that kind of gives it some, some protection from that </U>
+			<U WHO="S3"> it's like high west </U>
+			<U WHO="S5"> yeah it it it yeah it's very much like that. <U WHO="S3"> that side </U> and then the other side you know i i think would then be very conducive to that kind of articulation then and and really breaking it down to what you'll have pedestrian scale, in the courtyard side or the or the quadrangle side. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> (you) might start to do it in, that little piece right there. that's about, (approximately,) eight ten feet. </U>
+			<U WHO="SU-f"> i think </U>
+			<U WHO="S5"> i just think there's something more to seeing it come all the way to the surface and having that ground plane where people move in in as well it it just </U>
+			<U WHO="S1"> for for some reason, whereas say the site in in town also has a kind of front and a back, but somehow the solutions are not so um, single-minded (on that one.) because it's an urban site people can know that they have to make a frontage on all faces, <U WHO="SU-5"> right </U> of the site. <U WHO="SU-5"> right </U> here for some_ on North Campus, it's been much more difficult to resolve this question of fronts sides and backs and people tend to have been, um perhaps been a wee bit more blinkered about that so and saying okay this is the front, this is the back and in a way, maybe you can't afford to have a back. of these buildings. every, every face of the building has to work at some, at some kind of public level. </U>
+			<U WHO="S2"> the difficulty we had with that, was, you know, entering the parking. i mean it, it automatically becomes, we assume that, there you come into the parking and it's all of a sudden the back. so, it was difficult for us to do, because <OVERLAP> of the </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> woodshop </OVERLAP> has to be (set) </U>
+			<U WHO="S2"> you know <U WHO="S4"> (a certain side) </U> cuz it's the back and then </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S2"><OVERLAP> you really you really don't want it </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (she took it apart) how were you, </OVERLAP> how were <U WHO="S1"><OVERLAP> yeah but that's that </OVERLAP></U><OVERLAP> you getting from the parking </OVERLAP> into the building? </U>
+			<U WHO="S2"> i'm sorry? </U>
+			<U WHO="S6"> how were you getting from the parking into the <U WHO="SU-f"><OVERLAP> yeah </OVERLAP></U><OVERLAP> building? </OVERLAP></U>
+			<U WHO="S1"> we come <OVERLAP> across the ro- </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> no no on- </OVERLAP> no once you're in the pa- once <OVERLAP> you've parked your car </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> there's there's </OVERLAP> these um </U>
+			<U WHO="S3"> (small) corridors </U>
+			<U WHO="S2"> corridors <U WHO="S4"><OVERLAP> yeah corridors </OVERLAP></U><OVERLAP> here, </OVERLAP> and uh (and here) </U>
+			<U WHO="S1"> so you <OVERLAP> come out and </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> wouldn't you want to </OVERLAP> bring someone to where your entrance (isn't) ending? </U>
+			<U WHO="S4"> will you be <U WHO="S6"><OVERLAP> (from the outside) </OVERLAP></U><OVERLAP> entering into the </OVERLAP> circulation? and there's </U>
+			<U WHO="S6"> yeah <U WHO="S2"><OVERLAP> from </OVERLAP></U><OVERLAP> in </OVERLAP> a corridor, <U WHO="S2"><OVERLAP> yeah </OVERLAP></U><OVERLAP> yeah </OVERLAP> in a sort of, unmarked space </U>
+			<U WHO="S2"> it's it's really from here. so i mean you're, you're going in through there and (then) you get into the parking. so, <U WHO="S4"> so as soon as you <OVERLAP> come out you get a circulation. </OVERLAP></U><OVERLAP> (same way,) you park your car and you </OVERLAP> come in and then you can go right up, <U WHO="S4"> (up or) </U> into these studios or, you know (er) </U>
+			<U WHO="S6"> (but) i mean if you were visiting this school for the first time and you, and you arrived with a (valise,) how would you know where to go for anything...? <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S3"> that's where (a) good signage comes in. </U>
+			<U WHO="SU-5"> i think that even becomes more problematic if you walk the other way. because and then you've run into... you know a corridor with something on one side and a mechanical room on the other side and that could be, disorienting. </U>
+			<U WHO="S4"> i guess that's the difference between, getting there by car and getting there by foot </U>
+			<U WHO="S6"> (or isn't) the first time you're gonna come for an interview at this place with your parents? isn't that the experience you're gonna have? </U>
+			<U WHO="S4"> i was confused here. i didn't know where the front was and i mean i parked in the back but where was the front? </U>
+			<U WHO="S2"> it's st- it's a little, it's a little strange with those parking because i mean were they for, visitors as well or were they for, the <OVERLAP> faculty, were they assigned? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no i think the parking because there are so </OVERLAP> few parking spaces they would be assigned spaces. <U WHO="SU-m"><OVERLAP> so, (we were going to move it to show for) </OVERLAP></U><OVERLAP> but they're not public. the public arrive </OVERLAP> by foot, to this building. </U>
+			<U WHO="S2"> which is strange because what do you do w- with, you know, i mean it's pretty much you get around this campus by car. </U>
+			<U WHO="S3"> yeah and you look at the parking lot how (full) <U WHO="S2"><OVERLAP> i know </OVERLAP></U><OVERLAP> the parking </OVERLAP> lot behind this building gets all the time </U>
+			<U WHO="S2"> but i guess, with our scheme we kind of took on the idea that it was really for, um s- students <OVERLAP> possibly </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> well this </OVERLAP> scheme assumes, or i guess_ w- you <U WHO="S1"><OVERLAP> well </OVERLAP></U><OVERLAP> don't </OVERLAP> assign the (number of spaces) so the project assumes that <U WHO="S4"><OVERLAP> yeah you're right mhm </OVERLAP></U><OVERLAP> there's other ways of getting here. </OVERLAP></U>
+			<U WHO="S1"> Chris i'll tell you very quickly how we got to that. there were originally m- many more parking spaces in the building. and um... there was a, sense that it was probably, um really unrealistic to think of putting lots of parking up in the building, but the idea being that if each building had some parking incorporated within it, then there would be less need for, grade level, grade parking or parking structures. and so that you try to mitigate the problem of parking structures. although you can't possibly provide all the parking that's needed on campus under the building. economically. so that was the thinking and and it, quite frankly it was also, just a pedagogical tool, to, force, students to confront the difficulty of designing parking within a building. because it really governs what you can do above it and around it. </U>
+			<U WHO="S6"> and i think that my question's valid therefore. </U>
+			<U WHO="S2"> it's definitely i mean this scheme would definitely change if we had visitor parking. <U WHO="SU-f"> yeah </U> i mean <U WHO="S1"> yep </U> this building <OVERLAP> would completely change. </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> and i mean the whole thing </OVERLAP> in you know having, lived and worked in L-A, i mean there's this extraordinary thing where buildings have ground entrances which nobody ever uses. cuz they all emerge from the elevator. <EVENT DESC="LAUGH"/><U WHO="S1"> right </U> from the basement parking. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> it would be interesting to see what would happen if we had visitor parking (now) </U>
+			<U WHO="S6"> so where's the nearest parking lot then? whe- where would students <OVERLAP> (park?) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> up </OVERLAP> Healy. </U>
+			<U WHO="S6"><OVERLAP> (up there) </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i guess it </OVERLAP> would be up top uh, right here. </U>
+			<U WHO="S6"> right. so that so that top right-hand corner entrance is an entran- is a major entrance for <U WHO="S2"><OVERLAP> (okay) </OVERLAP></U><OVERLAP> students </OVERLAP></U>
+			<U WHO="S1"> so's the front <OVERLAP> too </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yeah </OVERLAP> it's a, i mean it's we, we perceive it as a as a back because (we) say the cars are coming back there and, you only have the woodshop here and your, <OVERLAP> (free) trucks and whatever </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (well see you had designed) </OVERLAP> too i mean i wouldn't call that a front entrance. i don't think it's articulated as a front entrance. you know, that f- (you know on that side) of the building. </U>
+			<U WHO="SU-6"> (it's a whole other entrance) </U>
+			<U WHO="S1"> okay. we should probably, move on. </U>
+			<U WHO="S2"> thank you </U>
+			<U WHO="SU-4"> thank <OVERLAP> you </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> thank </OVERLAP> you very much. </U>
+			<U WHO="SU-3"> (good) </U>
+			<U WHO="S1"> um can, can the next group get pinned out please? somebody can pin up um </U>
+			<EVENT DUR="2:00" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S8"> we have this layering going through. just to walk you through the plans, um, we have parking on our lower level that comes in from this direction. and then we have on the ground floor plane, this is, the main entrance from, either side, this would be more of an entrance for the campus, as well as this being the, primary, public grand entrance way. um, as you come in the entrance lobby, you have the exhibition space on this side, as well as the public auditorium space here. this whole zone vertically through all levels, is our public zone. um, as you progress through here we have high bay labs, workspaces, wood and metal shops and then building support at the very far end. as you go up a level again you have the public auditorium on the second level, you have the copy center, I-T-D, and then this public zone starts to stretch into the lobby sp- or the library space excuse me. and then beyond this we have administration offices. one thing that you notice here is when we start to break these pieces off, these four, towers house our faculty offices. all the faculty offices will have um, you know, windows, lighting, natural lighting. and then um, then <OVERLAP> you see th- </OVERLAP></U>
+			<U WHO="SU-m"> (big luxury, luxury) </U>
+			<U WHO="S1"> a luxur- luxury luxury hotel this is <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S9"> um, as you proceed up again, you also have the public space here you have the cafe, and a student lounge. um, again you have another level of faculty offices, some um, more public offices like student-related activities like um... like A-I-A, those types of spaces. and then again the library which occupies the thr- these three floors, and then you have, student classrooms. um, the next level up again we have the public space here, um some more offices, the third level of faculty offices our library, more classrooms, and then on the top level you'll find the studio space occupying the, the complete right side, and then the tops of the towers become the crit spaces. </U>
+			<U WHO="S8"> um, with this um, looking at it structurally, we came up with a, a bay system, and one thing that's d- one thing that's separate from the bay system is the library. there's_ the library, is kind of unique and this is a perspective inside the library. um, it becomes, three central books, stacks, with this bridge in the center, that you see here, in this section, where this central part becomes, uh, a verondale truss that supports it, and so there are no, there's no columns in there or, or structural ties that go to the ceiling or wherever it's a free-floating bridge. and then, up t- from there you go up to the studio space, and you can see in that model, um, where the_ th- that's glued down, you have to spin it. um where the trusses, this is a a close-up detail of the trusses, become exposed. and where, where the trusses occur, the- the bottom truss, occurs on a column line but in th- where you'd think there would be a a a st- a steel beam or something in the roof there's nothing it's a, glazed skylight, to get light into the um, the studio spaces and those become, the circulation points into the studio there's also one that runs along the whole main, um, circulation zone. </U>
+			<U WHO="S9"> what we were trying to do with that is we were thinking of the, Architecture School not only as a, a building that teaches, or a not only a building that is used for teaching but it also teaches, as a building it's teaching, um, with our structure and then, one aspect which we um, have even developed a s- a second model is this wall right here, which we're proposing to be, um concrete encased with glass on two sides, and then also, in our investigation of materials is also another teaching tool, that we're using our building for. </U>
+			<U WHO="S8"> yeah and we take that into the facade designs where, in the facades, the main element that runs through it is the concrete. and the concrete ties, the three parts of the building, the, the entry part, the main, s- um the main core of the program and the towers. but each one's treated a little bit different where, this wall is, as in the example is, encased in glass. um, the main part of the building is concrete, and then at the sh- at the glazing systems, uh we're proposing a metal grating for, sun shading that you can see through, but when you're at an angle to it it looks solid. and s- and so you get this different reading depending on where you're standing. and then in the towers, at the office s- points where the windows are, is metal is uh wood infill panels. that's_ and they start to relate towards the, residential zone, of the site that's to the west. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> can you talk a little bit more about your siting and, the decision to leave the houses there and how, do you feel like your building responds to those houses? and also, um, the kind of big space that's in front of your building on the, <U WHO="S8"> yeah </U> east side </U>
+			<U WHO="S9"> oh this? </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S9"> well, um, initially we were, looking at our building as, if we keep these existing buildings currently, that for a future proposal, you know if these buildings are no longer here the university owned them, the campus is gonna start to spread. and then tha- this gives us the opportunity to start to, you know rather than create a wall, we're starting to bring the scale down to relate to this but we're also allowing this, this possibility of expansion, of the university. </U>
+			<U WHO="S3"><OVERLAP> are those, are those </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> uh or even of the program </OVERLAP> uh the school </U>
+			<U WHO="S3"> residences there or are they just hous- what were houses that are used by offices? </U>
+			<U WHO="S8"> no they are currently uh <OVERLAP> residences, (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> they're student housing </OVERLAP> they're maybe um, they're i must say they're pretty run down. can't be a very nice place to live (with the) traffic. </U>
+			<U WHO="S8"> um as far as the, the space between, um West Quad and our building, when we first started (w-) we were interested in creating um, wa- a public space, that starts to relate back to, the Diag and areas of the campus and with West Quad and South Quad, right here, tr- as a as a way to try to get, the freshmen and the sophomores that live here to use this space and even go into the school and use the library and the computers, uh we were trying to relate, our building back to this with a s- a f- a f- not a not a formal space but kind of an informal gathering-type space where, in the winter, the freshmen or whatever, go out and have snowball fights and it_ more of a, more of a s- a mixing-type space to bring peop- to bring people in. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S6"> did you look at the um at the entrance to the lobby? you've got this very large enclosure outside the building and then inside you've got almost the well you've got a bigger area inside, for circulation and lobbies, at all levels. did you look at, trying to provide it by putting some of the staircases actually into your glass box? <U WHO="S8"> um </U> i'm just saying <U WHO="S8"><OVERLAP> into here? </OVERLAP></U><OVERLAP> that (Difanico) </OVERLAP> would think this was quite <SIC> wastefuls </SIC> of space. </U>
+			<U WHO="S9"> originally we actually had a <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> (originally) </OVERLAP> we had that in, we had the stair in the, in the glass box. </U>
+			<U WHO="S9"> yeah <PAUSE DUR=":04"/> but <U WHO="S6"><OVERLAP> did you? </OVERLAP></U><OVERLAP> where we </OVERLAP> we did <U WHO="S8"> no </U> it was here </U>
+			<U WHO="S8"> it was further <OVERLAP> out </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> it was </OVERLAP> somewhat round. and then we, we began to, work with our circulation and, um, when you put your main stair here, then if it's here then you always have this </U>
+			<U WHO="S6"> it's not across the building i agree but on the other hand <U WHO="S8"> but </U> to have that huge area kind of pretty well empty <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S8"> but i mean, as far as the auditorium we're th- i mean i guess one idea we were thinking that the auditorium isn't just, a normal architecture auditorium and that the whole campus could use it and so this would be a space where you could hold receptions or whatever afterwards and </U>
+			<U WHO="S3"> seems like <U WHO="S8"><OVERLAP> it's large enough </OVERLAP></U><OVERLAP> (if you have) a huge </OVERLAP> exhibition space too, <U WHO="S8"> or </U> you wouldn't need to separate the exhibition space </U>
+			<U WHO="S8"><OVERLAP> yeah that's true </OVERLAP></U>
+			<U WHO="SU-f"> out of that lobby (or anything) </U>
+			<U WHO="S6"> and in fact i did take on board the comments that we made earlier this week about at the ground level it worked pretty well having (a corridor long and off to one side) but higher up, there would be some advantages, <U WHO="S9"> right </U> to moving it over. </U>
+			<U WHO="S8"> well, <U WHO="S6"><OVERLAP> (know that day ) </OVERLAP></U><OVERLAP> i question that though, </OVERLAP> i mean, i i know i </U>
+			<U WHO="S6"> i still think you are very high on circulation space </U>
+			<U WHO="S3"> yeah. well </U>
+			<U WHO="S8"> w- </U>
+			<U WHO="S6"> cuz the top level you have put the double corridors. </U>
+			<U WHO="S8"> the <OVERLAP> double corridors? </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> well uh well uh well on </OVERLAP> the second level </U>
+			<U WHO="S9"> you mean like this type of, <U WHO="S6"> yep </U> space? </U>
+			<U WHO="S6"> yeah </U>
+			<U WHO="S8"> yeah, but then i question... well i know the comment earlier in the week that you're talking about was suggesting moving the offices over t- so they do get the windows, and moving the circulation so you've basic- to the center and cl- creating a double level corridor. um, <OVERLAP> but then </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (but what's) this </OVERLAP> justification for having all that big space (up?) i agree outside the auditorium would be good for exhibition space and possibly integrated with cafe as you have, <U WHO="S8"> right </U> at the other levels, you're not using that space. </U>
+			<U WHO="S8"> well, <OVERLAP> in this space there are, there are the lounges </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> unless you (xx) i think it i think it i </OVERLAP> think it could be used i think that, uh i think that by um, assigning it this kind of um, monumental presence of circulation in the building you're limiting yourself to some possibilities where, on the second floor it could be a balcony space that overlooks the auditorium on the third level it could be an extension to the cafe, on the fourth level it could be a lounge or, faculty you know informal gathering space s- so, <U WHO="S9"> it could be, yeah </U><U WHO="S8"><OVERLAP> yeah </OVERLAP></U><OVERLAP> i mean it could </OVERLAP> it could be almost like you have it but it would just be reassigned somehow in that there would be some flexibility to it. i mean i think that </U>
+			<U WHO="S8"> well i think that's how we were, <OVERLAP> actually, envisioning it but </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> do you think it's (just appointing) of </OVERLAP> this huge, volume on <OVERLAP> this side (or that end or all end?) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> no, i think this could even i think that could even </OVERLAP> be exterior, even and they could just be an exterior, you know that wall could just be an exterior (path through) which you enter, <U WHO="S8"> yeah </U> you know that, that seems like it <U WHO="S1"> that's interesting </U> would be fine <U WHO="S8"> yeah </U> or, or i would say that it's also the gallery, and gives the gallery or the work of the school some presence on the street. you know one of those two things, <U WHO="S9"> mhm </U> probably. and i would do the same thing for um, i have some questions about your, your urban, your, what you're doing with the siding. i do wanna say that i commend you on the thoroughness of of a lot of the things in your presentation and, and what i really like are these kind of faculty wh- <EVENT DESC="LAUGH"/><U WHO="S9"><EVENT DESC="LAUGH"/></U> suites. <EVENT DESC="LAUGH"/><U WHO="SU-f"> (for the) administrative faculty </U> with um, with the <OVERLAP> crit spaces on top. you know that's li- that's that's that's pretty nice. </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> well that wa- that was opposite comment from earlier in the week. wel- and here we're gonna (say so something) on Wednesday. </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> and i and i agree. i i like </OVERLAP> the faculty lounge </U>
+			<U WHO="S3"> yeah. i mean cuz it </U>
+			<U WHO="S8"><OVERLAP> i notice if </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (being halfway moved) </OVERLAP></U>
+			<U WHO="S3"> it's nice, but also it's nice the way it transforms and becomes something else at the top. you know that, and maybe it's a little smoky if empty but, you know at another level but, um, in in terms of the urban site the siting condition it seems like again, you're you have a suffering a teeny bit from the same thing that the fourth group did which is the issue of programming on the interior (connected) to the ex- to the activities you envision on the exterior so, when you have that high bay space and the woodshop on that big swath of kind of, <U WHO="S8"> wel- </U> y- side yard </U>
+			<U WHO="S8"> well there is the_ i mean, <U WHO="S3"> against the building <OVERLAP> you need you need </OVERLAP></U><OVERLAP> i guess there is uh always the possibility </OVERLAP> you could open those out, into that, space </U>
+			<U WHO="S3"> uh but but really those things open out onto loading docks i mean you do have a loading dock in the back but you can't really get there into the high bay space it's completely cut off unless you go through a couple rooms, into the corridor down the corridor get back into the high bay space </U>
+			<U WHO="S8"><OVERLAP> (um no okay yeah) </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> if you were to pull these </OVERLAP> offices aside, and then you could actually, maybe pull a truck in through, something like that </U>
+			<U WHO="S8"> and <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> well somehow that, </OVERLAP> somehow that you can envision that it would be use use_ that you think about, what actually happens there and not a kind of um, hopeful view of snowball fights and this kind of_ i don't know how <U WHO="S8"> no </U> wide that is but you know, against the street it doesn't seem very, likely. and then on the other side um, i appreciate that, that interest in like you know, in in allowing the, the the, development of this campus to skip over the building, in a way or or to be willing to press out and expand, but right now with those, with those residences there i think that that they're in a really compromised position. and either, um... i don't know, either, um i think these would have to b- these kind of (paws) would have to be even further reduced in scale like, they're, </U>
+			<U WHO="SU-f"><OVERLAP> they'd have to what? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> meaning they'd have to be </OVERLAP> semi-reduced again in f- kind of scale or really more just kind of what makes this edge. there's no edge, defining <U WHO="S8"><OVERLAP> defining element </OVERLAP></U><OVERLAP> element in this part </OVERLAP> of the building the space kind of moves in and out, between these, and the backyards of those residences. so i think that would need to be, looked at (again) </U>
+			<U WHO="S1"> so what? do you think there should be a hard edge there? </U>
+			<U WHO="S3"> i well i mean, yeah or i think it could be an alley and maybe that's where you could supply some services to some of the stuff at the ground floor </U>
+			<U WHO="S9"> we have a </U>
+			<U WHO="S3"><OVERLAP> separation of, have a separation at the end </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> d- we have a small movement i guess in that direction that you're </OVERLAP> thinking, we have a curb in the hard surface, here that runs underneath (these) which i think it's it's, somewhat what you're talking about. so we, we did acknowledge that we, we need to make a line (here somewhere,) i mean not <U WHO="S3"> yeah </U> really a physical line but we need to do something. like i was (working in that department) </U>
+			<U WHO="S3"> but i think the way to think about it too is that, you're doing a massing you've done a massing model which is fine, you've also done massing figure ground, we've done figure ground in your plan, but if you acknowledge in part the properties of those homes, meaning that they have backyards <U WHO="S8"> mhm, <OVERLAP> (xx) </OVERLAP></U><OVERLAP> and side </OVERLAP> (yards) and things like that you can have a better idea, of actually how far to extend, what kind of, education you need to, t- t- to design, to have this (still exist.) </U>
+			<U WHO="S6"> Brian can you just tell me what's wrong with that truss? in the elevation? </U>
+			<U WHO="S9"><EVENT DESC="LAUGH"/></U>
+			<U WHO="S8"><EVENT DESC="LAUGH"/> what's wrong? </U>
+			<U WHO="S6"> what's wrong. </U>
+			<U WHO="S9"> we talked about <OVERLAP> the truss, (no doubt) </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> easy answer </OVERLAP></U>
+			<U WHO="S8"> two things </U>
+			<U WHO="S6"> two things </U>
+			<U WHO="SU"><EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> what's this? </U>
+			<U WHO="S6"> what's wrong with the truss in the elevation? <OVERLAP> (two flaws) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yep </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> are you saying </OVERLAP> that this needs to, <U WHO="S1"> yep </U> come up, <OVERLAP> to (support of that back one) </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> but w- </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> so you'd say </OVERLAP></U>
+			<U WHO="S6"> (pulleys) made out of triangles, in the elevation </U>
+			<U WHO="S8"> but couldn't it, be like a space frame, and there wouldn't be the need? you could carry it on the top cord here and have it in the bottom cord there, <U WHO="SU-f"> so we </U> and then transfer the loads up through? </U>
+			<U WHO="S6"> yeah but you still </U>
+			<U WHO="S8"> y- you <OVERLAP> want </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (you forget) </OVERLAP> you you've got bending in that element whereas all the other elements have just got (axial) force in them, because it's not triangulated </U>
+			<U WHO="S3"> plus it's so easy <OVERLAP> to solve </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> (put a triangle here) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> it's not worth, it's not worth (justifying) </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> but it's tr- isn't it triangulated in in this shape? </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> it's triangulated in </OVERLAP> that section but <OVERLAP> not in </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> not in </OVERLAP> the other three </U>
+			<U WHO="S6"> not in that (different) </U>
+			<U WHO="S9"><OVERLAP> space to participate </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> oh </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (space frame is) triangulated in the other sense </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> but that </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S9"> it's not quite as easy to solve i guess </U>
+			<U WHO="S3"><OVERLAP> (i don't, i don't) (xx) </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> because we were </OVERLAP> purposely opening up our structural base, and so we're solving the problem without columns and as soon as we, i guess, to not put the angle on our truss could be the answer. you know just run it straight across because we can't put a column and not re-weight </U>
+			<U WHO="SU-f"><OVERLAP> (since you put the column in) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (or you could run it straight across) </OVERLAP> a little bit more and then the last one could be a... <U WHO="S8"> yeah </U> triangle. <U WHO="S9"> yeah </U> or you could change the spacing a little bit or </U>
+			<U WHO="S8"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="SU"><OVERLAP> can't there </OVERLAP> be, can't </U>
+			<U WHO="S3"> so you <OVERLAP> could've just had (xx) </OVERLAP></U>
+			<U WHO="SU-1"><OVERLAP> can't there be </OVERLAP> a vertical view? uh that triangulates <U WHO="S9"><OVERLAP> yes </OVERLAP></U><OVERLAP> the end </OVERLAP> of <U WHO="S8"> yeah </U> A <U WHO="S8"> yeah </U> and then <U WHO="S6"><OVERLAP> (i'm still in) </OVERLAP></U><OVERLAP> and then </OVERLAP> it goes <U WHO="SU-m"> yes </U> on from there. </U>
+			<U WHO="S6"> and then on the left-hand side </U>
+			<U WHO="S3"> cuz everything's a triangle </U>
+			<U WHO="S6"><OVERLAP> and on the left-hand side </OVERLAP></U>
+			<U WHO="SU-1"><OVERLAP> correct </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> right </OVERLAP></U>
+			<U WHO="SU-1"><EVENT DESC="LAUGH"/></U>
+			<U WHO="S9"> oh and since i have <OVERLAP> s- four sides </OVERLAP></U>
+			<U WHO="SU-1"><OVERLAP> i have other (jury sites to defend) </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S6"> and what was wrong on the left-hand side? </U>
+			<U WHO="S8"> hm? </U>
+			<U WHO="S6"> and what was wrong on the left-hand side? </U>
+			<U WHO="S1"> what's wrong with what? </U>
+			<U WHO="S6"><OVERLAP> on the left-hand side </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> on the left-hand side </OVERLAP></U>
+			<U WHO="S1"> yes </U>
+			<U WHO="SU-m"> have you (been) listening <U WHO="S8"> um </U> to the last conversation? </U>
+			<U WHO="S8"><EVENT DESC="LAUGH"/><OVERLAP> the triangle </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> diagonal </OVERLAP></U>
+			<U WHO="S8"> the diagonal </U>
+			<U WHO="S9"> yeah </U>
+			<U WHO="SU-f"><EVENT DESC="LAUGH"/></U>
+			<U WHO="SU-f"> (this is the) </U>
+			<U WHO="SU-m"> (struts) right there </U>
+			<U WHO="SU-1"> needs to end </U>
+			<U WHO="S8"><OVERLAP> (w- these you mean all four) </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> (right past it) </OVERLAP></U>
+			<U WHO="SU-m"> yeah it needs to have (up here) </U>
+			<U WHO="S6"> just always look at e- an e- an elevation of the truss should be made out of triangles, and always have the last diagonals into (each other) </U>
+			<U WHO="S3"> maybe there's a lot of uplift. </U>
+			<U WHO="S6"> maybe </U>
+			<U WHO="SS"><EVENT DESC="LAUGH"/></U>
+			<U WHO="S6"> you've got snow here </U>
+			<U WHO="SS"><EVENT DESC="LAUGH"/></U>
+			<U WHO="S8"> not well not at the moment </U>
+			<U WHO="S6"> not (well before i'm done, so) </U>
+			<U WHO="S3"> who_ i'm curious are those renderings done by hand, <U WHO="S8"> um </U> or on the computer? </U>
+			<U WHO="S8"> um n- they're by hand. <OVERLAP> the p- </OVERLAP></U>
+			<U WHO="S3"> they're nice </U>
+			<U WHO="S8"> well they're, they're generated on the computer and then <OVERLAP> redone by hand </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> we drew them by hand, </OVERLAP> we scanned them in then we traced them, printed them <EVENT WHO="SU-f" DESC="LAUGH"/> and rendered them </U>
+			<U WHO="S8"> rendered them by hand </U>
+			<U WHO="SU-1"> so there's a very complicated process </U>
+			<U WHO="S8"> but it was ac- it sounds kind of like a (xx) simple thing </U>
+			<U WHO="S3"> it (it used) simple for a while <EVENT DESC="LAUGH"/></U>
+			<U WHO="SU-f"> (xx) <EVENT DESC="LAUGH"/></U>
+			<U WHO="S5"> (complicated.) i don't know how long you've been going but i, i specifically wanna come back and, comment on this scheme cuz i saw it briefly the other day. i mean basically i really like it. ironically i think Al Talbert was actually right about some of the duplication </U>
+			<U WHO="S8"> okay <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="SU-m"> (did you talk about corridors? </U>
+			<U WHO="S5"> um </U>
+			<U WHO="S8"> yeah </U>
+			<U WHO="S5"> the point i wanted to make but didn't wanna, rob time on the wager was that, um a linear, uh i uh_ the purity of the upper floor with all the studios under one roof i think is quite powerful. uh when you have a linear scheme, th- that's lon- that is that long and attenuated there's always the question about the end base. <U WHO="S8"> right </U> to what extent are they just another unit and to what extent are they end conditions. and you have very different, and distinct end conditions here. the end against the the parking lot, um, i- is a much less important end i would argue in that i think you probably treated it in a fairly background, you know ordinary sort of way which is alright the other end though is not just the end of the, studios <U WHO="S8"><OVERLAP> right (yeah) </OVERLAP></U><OVERLAP> and it's not just the </OVERLAP> end of your building. <U WHO="S8"><OVERLAP> it's the campus </OVERLAP></U><OVERLAP> it's the </OVERLAP> it's the corner of the campus, it's a more important diagonal in terms of, of vehicular circulation, and i think it needs more inflection. certainly at the ground level <U WHO="S8"> mhm </U> the auditorium begins to do it, very nicely, the way it's tucked under there it's like this sort of underbelly that has some, figural characteristics. but i think the uh, <U WHO="S8"><OVERLAP> (as you go up) </OVERLAP></U><OVERLAP> i think ei- </OVERLAP> either there should be another function up there which you may not want you may want just a pure (extrusion,) of of functions nothing but studio (work) even if that's the case i think it needs, to somehow, uh recognize the diagonality at the street and and the fact that there's an open space outside and so on, uh, i- it actually is eh rather timely in the sen- following up uh, Daniel (Levinson's) lecture. his architecture is very much about ruptures in the fabric and tears in, of of a- acute moments. and uh the question here is wha- is this an acute moment? this corner, at the end, of, in both, you know between the fabric of the town and and the campus of the university um, to what extent is this, caught between two things, and is a sort of a tear and to what extent is it, uh, paying allegiance to its own internal logic? uh which it does a good job of. i mean i'll_ i'm actually not arguing, for a highly dramatic, um rupture. <U WHO="S8"> right </U><OVERLAP> um </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (a bit) </OVERLAP> of inflection </U>
+			<U WHO="S5"> oh and yeah, <OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> or </OVERLAP> some kind of inflection at the end </U>
+			<U WHO="S5"> right <U WHO="S6"> (xx) </U> i don&apos;t think you have to go_ </U>
+			<U WHO="S7"> o- one of the things that occurs to me in looking at the model, how it's made, is i'm wondering if the if somehow if the land contours, could have more influence (to) steps and may have even come into the auditorium. so that some of the contours of the site <U WHO="SU-f"> (tail hook) </U><U WHO="S8"> (coming <OVERLAP> up toward) </OVERLAP></U><OVERLAP> would have </OVERLAP> worked its way <U WHO="SU-f"> (xx) </U> and resolved itself at at these_ you know what i mean? </U>
+			<U WHO="S8"> yep </U>
+			<U WHO="S7"> these things might even be even, </U>
+			<U WHO="S8"> gone through </U>
+			<U WHO="S7"> gone through or something so that there's this, weaving <U WHO="SU-f"> (if i said) </U> of this form against the landform. </U>
+			<U WHO="S5"> did you ever in your early partis have the, salt-like... office clusters as sort of outriggers on the other side of the building along the main street here? or were they always on the residential side? </U>
+			<U WHO="S8"> they'd always been on the, <U WHO="S1"><OVERLAP> they weren't in the early parti </OVERLAP></U><OVERLAP> residential, </OVERLAP> th- they weren't in the early partis </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> well they're a resolution of how you find, perimeter, in a building like this when you need lots and lots and lots of perimeter for day-lit offices. so <U WHO="S5"> has </U> they came late </U>
+			<U WHO="S5"> has anyone mentioned this uh how they're akin to the salt? </U>
+			<U WHO="S1"> well they yeah <U WHO="S5"> (they are) </U> i think they know that <U WHO="S5"> the um </U> (speak of it as a) case </U>
+			<U WHO="S5"> it's interesting though whether they in fact compete with the little houses, or whether they're <U WHO="S8"> or </U> compatible. </U>
+			<U WHO="S8"> no <OVERLAP> (that's it) </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> (you sure?) </OVERLAP></U>
+			<U WHO="S8"> mhm </U>
+			<U WHO="S5"> um i... in some ways i'd almost like them, contrasting... with their, <U WHO="SU"> right </U> context <OVERLAP> (okay?) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> if they </OVERLAP> were on the other side </U>
+			<U WHO="S5"> (they would.) </U>
+			<U WHO="S1"> in that green space, or if you <U WHO="S7"><OVERLAP> (well) </OVERLAP></U><OVERLAP> imagine </OVERLAP> that as a green space with trees, that might be </U>
+			<U WHO="S7"> well no i th- i think you build them and that gives you permission to tear the houses down. <EVENT WHO="SU-f" DESC="LAUGH"/></U>
+			<U WHO="S8"> (no that's c- w-) </U>
+			<U WHO="S7"> no, seriously <U WHO="S8"> see i </U> i mean i think i- it, <OVERLAP> it's just </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> well then we have the, </OVERLAP> question of, what that space becomes again. </U>
+			<U WHO="S7"> you've still got </U>
+			<U WHO="S5"> are there trees back in there in those <U WHO="SU-f"><OVERLAP> no </OVERLAP></U><OVERLAP> backyards </OVERLAP> now? </U>
+			<U WHO="SU-f"> they're not </U>
+			<U WHO="S8"> eh- now yes. currently there are trees there </U>
+			<U WHO="S5"> and do you propose to keep those or eliminate 'em? </U>
+			<U WHO="S8"><EVENT DESC="LAUGH"/><OVERLAP> don't know </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i, </OVERLAP> i suspect that those houses are very vulnerable and that those are the next properties that will be bought by the university and that they won't build on that site until, they get the whole site. at the moment it's grade level parking where they've got their buildings so, it's a very diffi- it's quite difficult to know. </U>
+			<U WHO="S5"> yeah. i i don't know those houses but i don't particularly like, all things being equal, tearing them down. in fact i would like to incorporate those and try to actually make them outposts of your building. </U>
+			<U WHO="S8"> (thesis base) </U>
+			<U WHO="S5"> um, thesis-based little idiosyncratic cute you know, places, as a further extension of this idea. i but i don't know know their quality <OVERLAP> i mean </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i think in </OVERLAP> theory that's uh an okay idea they're actually, </U>
+			<U WHO="S5"><OVERLAP> pretty bad? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> they're real </OVERLAP> junkers. </U>
+			<U WHO="S5"> (i know i know.) </U>
+			<U WHO="S1"> you know and_ no they are. they're they've been lived in for students, wi- by students, for years, badly maintained, from the outside they looked, you know, shocking. so from the inside they're probably </U>
+			<U WHO="S3"> even worse </U>
+			<U WHO="S1"> diabolical, you know </U>
+			<U WHO="S3"> see i think that a way to think about this side or this side since, since to me pretty clearly the high bay kind of activities and woodshop don't really work on the on the </U>
+			<U WHO="S8"> on that front side? </U>
+			<U WHO="S3"> on the west side is to think about those programs being on the on the other side and making this the the shop yards <U WHO="S8"> (they're on) </U> and the loading areas. that doesn't mean it has to be ugly i mean it could be quite nice i mean this could be of a height where the trucks could actually drive underneath there (and) the road is just really quite close, and it and they're and they're working yards where people could i mean, outside of the school on the parking-lot side where there's the sculpture kilns and all those things i mean, it it does look kind of ugly but i don't think it needs to i think that they could really be uh <U WHO="SU"><OVERLAP> (with good design) </OVERLAP></U><OVERLAP> like a positive </OVERLAP> aspect <U WHO="S8"><OVERLAP> okay </OVERLAP></U><OVERLAP> of the </OVERLAP> school </U>
+			<U WHO="S5"> i think that with the scale and the proximity, to the houses here though, unless you were to as you said incorporate, some type of so that the program that's involved here's relationship to the school you're really just kind of forecasting the inevitable of, of at some point <U WHO="S1"> it does come down </U> it it's just a little too close for somebody to be entirely separated from the architecture school, to really feel as though they have that sense of privacy that you would want. in a residence particularly the character, of this type of residence it ra- it was built, in its original intention. i mean... i'm not familiar exactly with the houses that are there, but i would guess that, it's the idea of the suburban context, and, the idea of the architecture building <U WHO="SU-3"> well </U> being so close to that would would (um really) take away that, that sense. <U WHO="SU-3"> yeah probably </U> a vernacular type of house or something for the <U WHO="SU-3"> yeah </U> most part with back yard and the <OVERLAP> kids and </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah they're </OVERLAP> yeah, but yeah that's right. but there's probably four or five students living in each one </U>
+			<U WHO="S5"> sure. which i would, i would think that, that has the possibility of of it being conducive to being incorporated into the into the building almost if you had architecture students who were living there you know it doesn't become almost as much of a problem as if it's kind of single-family housing. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S7"> well there are there are in fact schools that use houses for thesis students and PhD students <U WHO="SU-m"> right </U> that sort of thing. it could be you renovated and maybe maybe you weed them out you take one out so you c- i like the idea of the the uh courtyard on the back and then you just work them into part of your, (program) <PAUSE DUR=":09 "/> what is this? </U>
+			<U WHO="S8"> that's <U WHO="SU-f"> (sunshine) </U> a, a metal grating, a grating </U>
+			<U WHO="S7"> just <U WHO="S8"><OVERLAP> (for light) </OVERLAP></U><OVERLAP> static? </OVERLAP></U>
+			<U WHO="S8"> yeah but it would rust and change over time </U>
+			<U WHO="S6"> is it like an egg crate? does it have to have <U WHO="S8"> yeah </U><U WHO="S9"> yeah </U><PAUSE DUR=":07"/> and i guess that the entrance <U WHO="S8"><OVERLAP> (here?) </OVERLAP></U><OVERLAP> lobby </OVERLAP> needs some shade. </U>
+			<U WHO="S8"> hm? </U>
+			<U WHO="S6"> does the main entrance lobby need some shade on it? </U>
+			<U WHO="S7"> well we've heard different ways of handling it, it's been proposed as an ideal inside space in which case <U WHO="SU-f"> oh </U> (another,) um... you know what i mean? seeing this you know which is very provocative and uh, thank you for making it, but it does beg the question, it does not beg the question it it raises the question <U WHO="SU-m"> how would </U> um but if that's a conditioned space you'd have to get some insulation in there, and that would sort of change your philosophy somehow i'm sure, probably you know <OVERLAP> make the (dependent) </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> we should've talked about </OVERLAP> that, <U WHO="S8"> i mean </U> that you could put_ insert in the <OVERLAP> insulation </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> actually... </OVERLAP><OVERLAP> that or you could, or you could do a airspace </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> these that i i don't know how close you wanna be </OVERLAP> but, in the Burnett house by Wendell Burnett (our these) is probably post-tension block but the, the doesn't mean (ground seep) to fill all the holes of the insulation and there would be ways of doing that </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S9"> thanks </U>
+			<U WHO="S3"> good job </U>
+			<U WHO="SU-m"> thank you </U>
+			<U WHO="S1"> thanks </U>
+			<EVENT DUR="2:25" DESC="UNINTELLIGIBLE CONVERSATION"/>
+			<U WHO="S11"> so this is the North Campus... that's the bell tower, the Media Union... and i chose to locate, the new building on the slope, the north side of what i see could become, a larger public space for, North Campus. and... right now the way this works is it kind of bleeds out all over the place. there's nothing up here there's some trees on the hillside and so what i decided to do was to try and, not close it off but to extend it. and so this public space would grow, m- maybe towards the Music School there's water over here and, there's a nice forest so, part of the strategy would be to bring, that terrain in, smooth out the contour where the parking lot is, <U WHO="S3"> oh </U> maybe grab on to part of the bell tower and leave this lower spot... maybe like a little rough park or, maybe even it could have some some water in it </U>
+			<U WHO="S3"> but the road is still there, <OVERLAP> (Murfin's still there) </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> the road's there. </OVERLAP> this is Bonisteel and that's that corner, so... what this is is parking and mechanical. and that_ so that's an extension of the building and coming down Murfin i think that threshold would be the new entrance to North Campus. so it wouldn't be a bleeding edge it would basically be, a sort of um, an announcement. and, that's in this location, so that's Murfin this is north this is the building and this is heavily wooded, there's dormitories over here so there's a lot of foot traffic that way, and right now there's a path that kind of crosses right at right across this roof, to the engineering building, and the engineering building's a real destination that's here, because there's a huge atrium in there and a lot of students go over there and hang out and eat food and stuff, so i basically rerouted that. the concept here is to to to take, all of the traffic from that side of campus and route it through the building this way and anyone coming that way, would come through, here. so there's kind of a, public zone, in this middle level on that gray sheet of, chipboard that's kind of the most public, accessible part of the building, and if someone were to come to the building from, the grade level which is right now the parking level, so that would be, this lower, public, enlarged courtyard, they would come in underneath and slip under that public space and, and i added some program for the North Campus site i added a bookstore and, and what could probably double-function as library, and there was a cafe in the program so that's all on that lowest level. and from there you, you come up through, that's here, and through there this cavity here is a double height, open to the sky, void. that comes straight through, the that middle layer. and that gives light to the offices on that level. so you'd come up the stairs here, and that would bring you right into this central what i call the gathering space, and that would intersect your path with whoever was coming through the building the other way, and, that's basically the heart of the building. in section, that's here. and it's kind of a, it's kind of a jogged space, and here, so it it sort of does that, but it's continuous. so once you're in that space you, the r- the studio is above your head, and it's ramping, and the offices are off to either the left or right which would be, um, this is the office plate. there's some offices in there which are kind of temporary, three-quarter partition sorts things <OVERLAP> not_ yes? louder </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> Dale you need to talk (xx) cuz you're just speaking to three people here </OVERLAP></U>
+			<U WHO="S11"> okay. so, on that level, um... you can either stay as a public person and be part of the college, um or you can you can get up on a stair that's at either end and that's the ramping studio space. so the studio connects, the bottom part of the program to the top part of the program. </U>
+			<U WHO="S3"> where is the studio in this? </U>
+			<U WHO="S11"> okay this </U>
+			<U WHO="S3"> it's here, on this level right? </U>
+			<U WHO="S11"> that's a tough, not exactly cuz that level's continuous it slopes down here and then it goes <OVERLAP> down there </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so this is </OVERLAP> studio? </U>
+			<U WHO="S11"> yep </U>
+			<U WHO="S3"> and that's studio? </U>
+			<U WHO="S11"> yep </U>
+			<U WHO="S3"> and that's studio? </U>
+			<U WHO="S11"> uh b- only up to here. and then it turns into, a double-height space. at this end is... um, workshops research big void stuff, at this end each of these little knobs has, faculty, offices and on this perimeter are, classrooms and research, cubicles. so basically this is, this is the space of the building which is kind of a non- it's a space that's a nonspace, and all the enclosure inside, well the perimeter enclosure like the weather enclosure is, is glazed but all this stuff inside is meant to be, seen as temporary or movable or flexible or... so, in the plan in that middle space there's um, there's access to an auditorium and that auditorium, c- is sort of half in the ground and half out of the ground and, three-quarters of its shell protrudes into the gathering space, right there... but the_ it sort of the lowest point like at the bottom of the seats is is at the same level as the cafe. but you don't know that. it's separated in plan but that's why it's shown here. so, going up from </U>
+			<U WHO="S3"> is that important? </U>
+			<U WHO="S11"> well i think it's, in, for me in thinking about how a person would understand the building it's it's through some kind of memory basically i mean i don't think it lends itself necessarily to program here program there and, a little diagram. so i think being in the_ coming up from the cafe let's say you were to come up from here, and then go down into the auditorium you would remember. so you would make the the public association. that was the idea anyways. um, so the studio's a ramp it's the part of the it's the part of the building that has, that connects the two sort of horizontal spaces so this is a flat plate and a flat plate but the studio, is like a parking... the <OVERLAP> ramp of a parking </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> the whole thing is this </OVERLAP> ramped? or it's it </U>
+			<U WHO="S11"> all the way around </U>
+			<U WHO="S3"> so how do the desks sit on that? </U>
+			<U WHO="S11"> well somebody asked the question the other day <U WHO="SS"><EVENT DESC="LAUGH"/></U> i think the way the <OVERLAP> way it works </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> somebody (asked) </OVERLAP> somebody asked the question </U>
+			<U WHO="S11"> is <EVENT DESC="LAUGH"/> before i got to the answer. the w- i think the, way i see it working is that it's the the inner edge is r- is truly ramps but, the outer, that like that <OVERLAP> zone there </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (it uses) </OVERLAP> (flat) spaces </U>
+			<U WHO="S11"> yeah. you know roughly, equal to whatever you know thirteen sixteen students would be. these are thirty-foot bays so but i'm seeing this as totally flexible like, the question of what is a studio came up for me right away. i mean, for me the p- the possibility that the studio's not the end of the line. but it is the line was, was the point i mean so you'd you'd know what the students were doing, by walking past them. and <OVERLAP> to go </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> is this </OVERLAP> wait there this is studio obviously <U WHO="S11"> yeah </U> there's some studio here. where is your studio below? on this level here? oh this this is studio right here. this is studio. or this? </U>
+			<U WHO="S11"> this is </U>
+			<U WHO="S3"> this is all this is studio and that's studio? </U>
+			<U WHO="S7"> but that looks flat <OVERLAP> (am i right?) </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> this part </OVERLAP> is </U>
+			<U WHO="S7"> that part is flat </U>
+			<U WHO="S11"> but it you know it's part of the, spiraling connection. </U>
+			<U WHO="S7"> it's flat there, it's more <U WHO="S11"> right </U> of a stair here then it s- then it slopes <U WHO="S11"> right </U> then it takes on this character over here and then it slopes again (if i understand it right.) </U>
+			<U WHO="S11"> except for this part which is atop of the auditorium which is sloped. so it's not a, it's not a continuously flat surface. </U>
+			<U WHO="SU-m"> see but it's </U>
+			<U WHO="S7"> you need to get up a little more speed of (when hit) <U WHO="S11"> so </U> you know and it it </U>
+			<U WHO="S11"> well i guess i'm not, i think one thing that's a little deceiving is is this stuff is super, gentle. it's not a, it's not a severe slope. <OVERLAP> so i don't </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> but but </OVERLAP> cuz you are going from the flat, to a s- more of a stair-type angle. you know </U>
+			<U WHO="S11"> supposed to be a ramp. same sa- it's supposed to be <U WHO="S7"><OVERLAP> could you </OVERLAP></U><OVERLAP> the same </OVERLAP> as this, <U WHO="S7"> it is </U> all the way up to there. so from here to here, that that point there </U>
+			<U WHO="S7"> (it's this way) </U>
+			<U WHO="S11"> it's supposed to be the same </U>
+			<U WHO="S7"> just doesn't (look it) </U>
+			<U WHO="S11"> yeah. okay so </U>
+			<U WHO="S3"> this whole floor this level is all public? </U>
+			<U WHO="S11"> that's the (college.) <OVERLAP> administration </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> what's what's on </OVERLAP> oh administration <U WHO="S11"> um </U> oh this is the public level down here. <U WHO="S11"> that's </U> the cafe, <U WHO="S11"> well we yeah </U> and the bookstore. is at this lower level, this is administrative, you start moving up it becomes, studio studio studio and then, um high bay stuff </U>
+			<U WHO="S11"> in this part of that upper, this </U>
+			<U WHO="S3"> faculty </U>
+			<U WHO="S11"> yeah, and then high bay at the end and back, here in the site </U>
+			<U WHO="SU-f"> why (is there) a cross-section? </U>
+			<U WHO="S11"> well that's what these are they're a little light, but you that's, um, right there is that is this hallway and that's one of these cut-ins, seen there. that's that hallway it's a double, this part of the faculty is double, layer of offices, and that kind of references the high bay space. so the delivery is here right? <OVERLAP> and and there's a parking </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> that's, is that high bay </OVERLAP> space on the back at grade? </U>
+			<U WHO="S11"> yeah. except for, a l- it's partially sunk to kind of deal with the building next door that, it, it's four stories high but it's only got two rows of windows so it looks like, two stories. so that, that's the high bay space there, and it gets, some indirect light not, super-strong direct light, but there's a parking lot right here, on this side of the sheet, existing. so i figure that the trucks will come that way. um </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S11"> why? well... more than what i said previously or d- was it not, i'm not sure </U>
+			<U WHO="S1"> w- was it simply to take advantage of the circulation of the students coming from the dormitories to engineering? </U>
+			<U WHO="S11"> no. well... um, i put it up here for public, the large public space <U WHO="S1"> mhm </U> i'm, i can't r- i can't tell exactly, i did say that, i can't tell if i </U>
+			<U WHO="S1"> right <OVERLAP> maybe i missed it </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> need to say it again. </OVERLAP> or if i need to say more, well the, <U WHO="S1"><OVERLAP> maybe i missed it </OVERLAP></U><OVERLAP> the idea that this </OVERLAP> is um, this, space here is, becoming more completed and extended, <U WHO="S1"> yeah </U> because the building's on that edge rather than this edge, which would close it off. and so this edge which is right now, l- loose is more of a threshold because, of that situation. </U>
+			<U WHO="S1"> thank you </U>
+			<U WHO="S7"> i know i should understand this but i don't. if i'm coming from the parking in the dorms through the building i go down these steps. <U WHO="S11"> yep </U> (do) i have to go through a door? </U>
+			<U WHO="S11"> well originally there was no door, whatsoever, but, now there's doors. but they're meant to be able to, <U WHO="S7"><OVERLAP> (both backwards and forwards) </OVERLAP></U><OVERLAP> to be open, </OVERLAP> yeah, meant to be open when, especially when the weather's nice </U>
+			<U WHO="S7"> so when the weather's nice they're they're sort of disappearing walls. <U WHO="S11"> yeah </U> and when the weather's inclement, they're uh keep the weather out but still let the </U>
+			<U WHO="S11"> right. that's the idea. so one of one of the big, things here is that i, i s- i sense that although this space is nice cu- in its size and it it's, basically pretty functional, it's um, it's not flexible. and so i think as programs change and the studio grows it can shrink down the ramp or grow up the ramp and continue, and if there's... you know some faculty who wanna be close to the studio well you put 'em in the last knob. and if they wanna be closer to research you put 'em in the knob next to, and the idea of the courtyards is that it's a little more introspective space they look out on it they get some sunlight, <U WHO="S1"> right </U> so this is a double loaded corridor but each wall is (its) perimeter wall </U>
+			<U WHO="S3"> can you put it back together? </U>
+			<U WHO="S11"> yeah yeah sorry. i know that's a little, it's taken some knocks in the last couple days </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S7"> that's why you should always build two models. one for the first jury and one for the second jury. </U>
+			<U WHO="S11"><EVENT DESC="LAUGH"/> yeah, okay... okay so the other thing is that, the studio, although it's you know sort of, sectionally isolated, um... oh the other thing is there's an elevator here, so that bridge goes to the workshop so you can short circuit all of this, from this level to any level. and this is a stair back in here which short circuits, everything. um, one of the things is that uh th- since this is a south-facing broad surface, it seemed like a good opportunity to let the students get out on there, so they can get out there. there's a stair right there, and they can just cruise down and be on there and, similarly get off. originally i had it so you could get on all of the roof but i've, sort of removed that possibility. so it's p- it's pretty much just there now. </U>
+			<U WHO="SU-5"> which roofs can you get on? </U>
+			<U WHO="S11"> just this one. </U>
+			<U WHO="SU-5"> just that one. </U>
+			<U WHO="S7"> and underneath that roof is, what? <U WHO="S11"> it's </U> administration? </U>
+			<U WHO="S11"> it's the college. so there's </U>
+			<U WHO="S7"> the dean and all that sort of thing </U>
+			<U WHO="S11"> those types </U>
+			<U WHO="S6"> and that's, show me that in the plan again, is that the bottom plan? yeah </U>
+			<U WHO="S6"> that's here, that's the <U WHO="S6"><OVERLAP> (well i'm) </OVERLAP></U><OVERLAP> college </OVERLAP> that's gallery </U>
+			<U WHO="S6"> i continue to be very worried about, uh light getting to the varied spaces because of your very deep plan, and whether, i mean you can sort of see it in the middle, the middle image in there, these thin slots i don't think are a substitute for windows. i, um <U WHO="S11"><OVERLAP> uh </OVERLAP></U><OVERLAP> i'm </OVERLAP> not convinced that you've <U WHO="S11"><OVERLAP> which </OVERLAP></U><OVERLAP> tested </OVERLAP> them a lot </U>
+			<U WHO="S11"> yeah, i think i- after actually we talked about this, <U WHO="S6"> yeah </U> the other time i tried to take care of that, one of the things that this is, on there is, it goes all the way down to this level, and so that's meant to light, the rooms that are here </U>
+			<U WHO="S6"> so that's where your column is (xx) </U>
+			<U WHO="S11"> and that lights the stair, and the slot here lights that space </U>
+			<U WHO="S6"> but what lights the offices to left these offices? </U>
+			<U WHO="S11"> well, i'm thinking that it's this. i mean there's a couple rooms here <OVERLAP> that, won't get any light </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> well it isn't once the sun get past here </OVERLAP> then, there's light, there's no </U>
+			<U WHO="S11"> gets past, where? </U>
+			<U WHO="S6"> wha- some are gonna come round here, so i <OVERLAP> suppose you might get some in </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> yeah, but this is open, </OVERLAP> to the sky </U>
+			<U WHO="S6"> yeah but it's not gonna reach over to the, uh <OVERLAP> (upper quarter) and that wall all there </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> oh no no no. right right. </OVERLAP> no that's reflected <OVERLAP> light </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i think </OVERLAP> that uh </U>
+			<U WHO="S11"> if they're the kinds of things like eh, <U WHO="S3"><OVERLAP> it is an issue </OVERLAP></U><OVERLAP> you put </OVERLAP> coats in there, it's faculty um, <U WHO="S3"> well <OVERLAP> it is </OVERLAP></U><OVERLAP> there's </OVERLAP> dark parts of the program that, that could, <U WHO="S3"> well <OVERLAP> oh yeah </OVERLAP></U><OVERLAP> need </OVERLAP> to be close to that </U>
+			<U WHO="S6"> if if you say that (looking at it) (that's) (xx) </U>
+			<U WHO="S11"> okay, okay </U>
+			<U WHO="S3"> i mean a lot of the schemes have actually not had windows in a lot of the rooms, <U WHO="SU-6"> uh yeah </U> but i would look at it a different way which is, um, or this is kind of different than what you have right now but i think it would be interesting cuz i really like the siting, actually. i like it because, first of all i think that edge where where it's really a drastic incline when you actually are in that space it's it's pretty, it it's the one thing that kind of, i feel like that that natural slope is what makes that quad more than any of the buildings around it i think to capitalize on that, as a siting of a building is interesting but i really like it more because, i guess i always wondered why given, how beautiful, the landscape is around here why North Campus didn't develop in a more kind of um, you know campus in a park, kind of idea it seems like it would have been, uh uh uh natural you know to kind of have thought about it that way so i like the idea of bringing in, the kind of um, landscaped area of the Music School and the kind of existing, these tall stands of trees that that are there into the site, given that, uh it's a little bit different than this but i'm just sort of remarking on Jane's comment which is that given that i could imagine that the building could have spread out itself a little bit more, or that landscape could have actually woven through, some of these spaces, in the building and let the building actually spread out a little bit more so that it was actually fully integrated as a building as well as as a siting strategy, in this idea of, of uh building a building within kind of a, more forced and a more treed, landscape. </U>
+			<U WHO="S1"> so you think pulling it apart in this direction? </U>
+			<U WHO="S3"> yeah. yeah having these kind of pull apart a little bit more and thinking about the trees moving through and then, <U WHO="S1"> mhm </U> having a broad swath right down here in the quad i think that could be a really nice, and that would just be pulling that idea into the the development of the building. </U>
+			<U WHO="S5"> that's something that that, it's certainly, clear that this scheme touches on is that y- it's almost not a building, it's just a series of like strata of land that goes across and everything's clear. but it's almost as if, you could really begin to explore that, in in one of the ways she's talking about pulling pulling that away to bring the land through the middle. i'm also wondering, in terms of of_ you were conceding the idea of flexible spaces if you didn't even have the idea of floors or ceilings that also slid and moved so that <U WHO="S11"> in the <OVERLAP> drawing? </OVERLAP></U><OVERLAP> the program </OVERLAP> changed, you know that opening could slide over <U WHO="S11"> hm </U> so that program could <U WHO="S11"><OVERLAP> oh </OVERLAP></U><OVERLAP> change </OVERLAP> so that <U WHO="S11"><OVERLAP> hm </OVERLAP></U><OVERLAP> there </OVERLAP> would be light in, in those areas </U>
+			<U WHO="S11"> yeah i didn't think of that, oh <EVENT DESC="LAUGH"/></U>
+			<U WHO="SU-1"> which, which opening (xx?) </U>
+			<U WHO="S5"> well, he was talking about having having an opening here that light would come down and then possibly <OVERLAP> have some </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> it could be </OVERLAP> bigger and then that would </U>
+			<U WHO="S5"> he could have something that would slide to another area. or or the idea that the walls, why not all the walls be something that could in fact uh, you know if you staggered, the glass they could all slide in together and have large areas of outdoor space. so that it almost becomes <U WHO="S11"> mm </U> something that is really_ it's just a matter of horizontal plates, on stilts and it could <U WHO="S3"><OVERLAP> that's what it looks like, yeah </OVERLAP></U><OVERLAP> really be conceived of as </OVERLAP> an exterior space all together </U>
+			<U WHO="S11"> i guess there was one other_ about the horizontal, plates, there was one other, issue that i'd forgot to mention. that i was trying to get at which is in this building, um and in a lot of buildings, all the ar- all the architecture's basically in the ceiling. and the floor is kind of, the thing you beat on, mercilessly. and <OVERLAP> what </OVERLAP><U WHO="S1"><OVERLAP> oh you </OVERLAP> mean (top?) </U> yeah. and what i was thinking would be the difference in this scheme and the_ one of the reasons is the landscape_ was that a- as a surface was kind of the beginning thinking about this... but th- all the architecture in this building's just in the ceiling and it's just gentle curvature and so there's no, there's nothing there except the most minimal light, in all the service is in the floor. so in, in there and whatever you can get in the ramp and in here and so the the floor is hollow and has tracks and, you know you plug in, your computer or whatever you need and it's totally, so th- that le- that, allows, for what you're saying uh i- actually because you can put whatever you want in there. but in terms of the horizontal, i don' t know i, i suppose it could be, all the pieces could be and then it, i sort of wanted to com- well if everything was horizontal and you just moved, in the section i mean, each plate, then it would be totally the same as all the other buildings on campus except, without the skin. </U>
+			<U WHO="SU-7"> without the what? </U>
+			<U WHO="S11"> without their s- their s- external brick skin. cuz it's i think Teresa was saying earlier that these buildings are all monsters with <U WHO="S3"> yeah </U> big space inside but the skin on the outside and one of the things, that i wanted to do is basically, stay away from that. and so that you you can see the space literally without its skin, and then the other thing was, um all these buildings are pretty deeply and complexly linked into the ground, actually exactly the same as this. they just don't show it. so, i think um... <U WHO="S3"><OVERLAP> it woulda </OVERLAP></U><OVERLAP> doing </OVERLAP> more with it would <OVERLAP> have been good. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> it would have been </OVERLAP> worth um, taking the next step or would_ will be worth taking the next step in thinking about what this skin might actually be here so it could be a kind of more radical idea <U WHO="S11"><OVERLAP> that's pretty interesting </OVERLAP></U><OVERLAP> (that might) (xx) </OVERLAP> (in terms of skin) because what you'd wanna avoid is a skin that does this and suddenly just kind of wraps around <U WHO="SU-5"> right </U> that way. <U WHO="SU-5"> right </U> you know that's a very different building than what you have imagined, here </U>
+			<U WHO="S11"> yeah </U>
+			<U WHO="S5"> yeah you really want all those skins to slide past one another </U>
+			<U WHO="S3"> which makes me feel like they could be separated </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S3"> as <OVERLAP> pieces </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> sounds like </OVERLAP> they're, one and the same. </U>
+			<U WHO="S5"> i mean it it it forces problems on you know then making the connection and and bridging and and things like that but, it it's definitely something, in terms of its content (that, that could) be really valid to explore. </U>
+			<U WHO="S11"> actually it's pretty interesting cuz one of the things about the section that i tried to get at was that it_ this void doesn't just drop straight in, but it kind of, jogs over and this vertical circulation does the same thing, and always sort of jogs over, but that, would be the exact same logic. even the the skin would be something that would kind of move over and <EVENT DESC="SOUND EFFECT" TEIFORM=""/> and open up so that, that would actually be, similar. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S7"> is is there a swale like that or are you creating it entirely? </U>
+			<U WHO="S11"> it's there. </U>
+			<U WHO="S7"> it's in </U>
+			<U WHO="S11"> and there's a swale here too. it's pretty complicated i cut a i cut a bit out here to make it kind of a an outdoor space but, it's high, it's well, it's that's it, <U WHO="S3"><OVERLAP> that's a huge (scheme) change but yeah </OVERLAP></U><OVERLAP> that's the real, plan. </OVERLAP> yeah. it's_ up to the corner of Hayward and Murfin is about eighty feet i think so, this is, it still rises some. </U>
+			<U WHO="S7"> (well,) d- you've said a number of things which have triggered things in my mind but i i can't quite put it together into a comment <U WHO="S11"><EVENT DESC="LAUGH"/><OVERLAP> okay </OVERLAP></U><OVERLAP> so let me </OVERLAP> just, let me be episodic. i me- w- one of the things that is happening in, higher-tech buildings be they office buildings or maybe architecture schools, is that there's a is a movement toward services in floors. you know um, um, support floors that have not only cable and conduit but they also have duct work, and that the registers are no longer, these things, but they're literally things that come up as part of the furniture. so you could have just the amount of ventilation and cooling and heating that you want. it may even come out of your computer. i mean, it's happened. <U WHO="S11"> yeah </U> and so so you're quite right in saying that the floor is becoming more, latent. and thick. at the same time the r- the roof still has to span. <U WHO="S11"> right </U> so </U>
+			<U WHO="S11"> it's not paper thin </U>
+			<U WHO="S7"> it's not paper thin <U WHO="S11"> yeah </U> or or if it i- if you want it to be paper thin it could be but then, it has implications for how often it's supported and, and a whole bunch of things. so if you if you wanna say okay the floor is gonna be this fat thing, which sort of sits on the grade, there is this natural grade, and more or less what i'm doing is i'm putting really smart floors on it. and then i'm gonna put these really thin roofs, because they can be really thin, that can be_ strikes me as a wonderful conceit on which to start a project on. maybe you're doing that. i'm not a whole, a hundred percent sure. but, but then you'd have to make sure, from the structural point of view that the the roof forms are such that they can be that thin thing so you can read them, you know in the way you're wanting us to read them. so that those, (windows.) and i believe you can do that but, but i think that maybe the column spacing <OVERLAP> and some of the other things you're gonna </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> not quite there, okay </OVERLAP></U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S11"><OVERLAP> i tried to_ </OVERLAP></U>
+			<U WHO="S7"> yo- for example you're not gonna have one column. </U>
+			<U WHO="S11"> well, <EVENT DESC="LAUGH"/> i solved that it's just not quite here yet <EVENT DESC="LAUGH"/></U>
+			<U WHO="S3"> and you talked about a lot of things <U WHO="S6"><OVERLAP> yeah this </OVERLAP></U><OVERLAP> that aren't </OVERLAP> yet represented. </U>
+			<U WHO="S6"> yeah. this <U WHO="S3"><OVERLAP> but uh </OVERLAP></U><OVERLAP> model </OVERLAP> isn't finished. </U>
+			<U WHO="S11"> no, <U WHO="S3"> yeah </U> it's not but one of the things that um, now that it's come up, is this main system of supports is, this broad kind of flat pier sort of things and that, i think will make the interior seem like it's got this long, space to it. </U>
+			<U WHO="S5"> so you're saying <U WHO="S11"><OVERLAP> but the second </OVERLAP></U><OVERLAP> now this </OVERLAP> lab is just supported centrally by the piers? </U>
+			<U WHO="S11"> no. and then there's a second set of columns which are at a closer spacing and more random which fall where they need to. around the openings and, and things like that and that's that's the real, i think. now in terms of the thickness </U>
+			<U WHO="S6"> that's almost too many columns then isn't it? </U>
+			<U WHO="S11"> i don't know <OVERLAP> how many it has to be </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> well it's on that plan </OVERLAP> it's on your plans. </U>
+			<U WHO="S11"> yeah. </U>
+			<U WHO="S3"> are those the columns? </U>
+			<U WHO="S11"> yeah. </U>
+			<U WHO="S7"> well that one's been fun. <OVERLAP> but there's another problem </OVERLAP></U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/></U>
+			<U WHO="S11"><OVERLAP> (yeah so) (xx) </OVERLAP></U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> sorry </U>
+			<U WHO="S11"> okay </U>
+			<U WHO="S7"> which which is that um, there is always this problem of having to go down to go up. which is what you're asking all these people to do. </U>
+			<U WHO="S11"> yes </U>
+			<U WHO="S7"> and i c- i don't think that can be dismissed. people just don't want to do that. so i'm wondering... does it have to be that way? you know what i'm saying? i mean you're really saying, these people are gonna flow down that, that one floor, go through it and then come flow back up another floor. and they're really gonna resist doing that, really hard. so i'm wondering if, to c-... are your s- are your, are you have things happening at the right section? </U>
+			<U WHO="S11"> well i get, i don't know if i should let you go on </U>
+			<U WHO="S7"> well, no. i mean it's just a question i don't </U>
+			<U WHO="S11"> yeah, i mean i i did think about that. and i guess that was my way of trying to isolate the studio. i don't want random people <OVERLAP> walking through the studio </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> well i i appreciate, no </OVERLAP> i t- i'm i don't disagree with that. i want both things. <U WHO="S11"> yeah </U> i wanna somehow an answer to my first question, <U WHO="S11"> yeah </U> and the studio <U WHO="S11"> that's fair </U> i don't know if it's possible. </U>
+			<U WHO="S11"> yeah </U>
+			<U WHO="S3"> i don't think it's difficult to solve i mean, i i don't see why you couldn't just come in </U>
+			<U WHO="S7"> over, on the other side (is what you're saying.) </U>
+			<U WHO="S3"> there, there i mean (can you just) do that? </U>
+			<U WHO="S11"> well i think if you <OVERLAP> were the ty- you were the kind of person </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> and because all the public (on the) </OVERLAP> ground </U>
+			<U WHO="S11"> right i think if you were the kind of person who would be going directly to studio which would basically be us, then you should be able to do that but how do you, prevent the engineering student who wants to take a swipe at a zip disk? </U>
+			<U WHO="S7"> well well for, for example </U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> the the the thieving engineering students <EVENT DESC="LAUGH"/></U>
+			<U WHO="S11"><EVENT DESC="LAUGH"/> as opposed to the thieving architecture students <EVENT DESC="LAUGH"/></U>
+			<U WHO="S6"> (is this) a phenomenon? </U>
+			<U WHO="S11"> so that was </U>
+			<U WHO="SU-m"> isn't that just one of those things though that <U WHO="S11"> yeah </U> you know if they're they want that <U WHO="S11"><OVERLAP> they're gonna go get it </OVERLAP></U><OVERLAP> they're gonna find a way </OVERLAP> to get that anyway </U>
+			<U WHO="S3"> yeah (see) i don't think that's an issue i think it's about making entries in more than one place. </U>
+			<U WHO="S11"> okay. i would definitely, i mean there's no reason, actually why this couldn't be five feet lower and just, slide right in there... </U>
+			<U WHO="S3"> or certainly at a mid-level. </U>
+			<U WHO="S11"> mhm </U>
+			<U WHO="S7"> and i hate to be an old fogey i really hate having to be the one to <OVERLAP> (make this) (xx) </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> d- i know </OVERLAP> what you're gonna say <EVENT DESC="LAUGH"/></U>
+			<U WHO="S7"> okay </U>
+			<U WHO="S3"> (how <OVERLAP> do you know?) </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> then i don't have to </OVERLAP> say it </U>
+			<U WHO="S3"><OVERLAP> (i don't know) </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> no i'd like </OVERLAP> to hear what you think <OVERLAP> (about) </OVERLAP></U>
+			<U WHO="S7"> what do you think i'm gonna say? </U>
+			<U WHO="S11"><EVENT DESC="LAUGH"/> well, i think we're gonna have a lot of heat-gain issues </U>
+			<U WHO="S7"> oh well no i wasn't even gonna do that i was just gonna say, you really have to have to help us understand where the edges are you know what's glazed and what isn't </U>
+			<U WHO="S3"> yeah yeah, definitely </U>
+			<U WHO="S11"> yeah </U>
+			<U WHO="S7"> i mean </U>
+			<U WHO="S11"> well </U>
+			<U WHO="S7"> you know, how does it really, work and what is this? i know light's gonna come down but there's a hell of a lot of different ways to do it. </U>
+			<U WHO="S11"> well i ended up, drawing a lot more than i, had time to model but that, the basic idea is that those, those light monitors are, boxes. and so they take up the curvature of the roof in their so- in <OVERLAP> their sides. </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> gue- i guess </OVERLAP> my point is, that anything you do is gonna diminish what your conception of the scheme is. <U WHO="SU-m"> yeah </U> cuz this is your conception <OVERLAP> of the sch- </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> absolutely </OVERLAP></U>
+			<U WHO="S7"> so you don't wanna do it <U WHO="S11"><EVENT DESC="LAUGH"/></U> but that's why exactly you have to do it </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S11"><OVERLAP> well i </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> because </OVERLAP> it's so crucial cuz if you do it in a lame way, <U WHO="S11"> yeah </U> you're you're done. it's over. <U WHO="S11"><EVENT DESC="LAUGH"/></U><U WHO="S1"> this is like </U> you don't have a scheme anymore. </U>
+			<U WHO="S1"> (this like a) (xx) maybe you should comment about you have to show like bas- basic closure on the model </U>
+			<U WHO="SU-3"> yeah </U>
+			<U WHO="S1"> because it, will make a difference (in terms of the) perceptions. where is the enclosure? </U>
+			<U WHO="S11"><OVERLAP> i totally agree. it's something that needs to needs to be, finished </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> there's cou- there's courtyards (and fountains here.) and i can't work </OVERLAP> out from the drawings cuz you've got some lines, on the far side, which might be the slab below or it might be a wall, so i need to see it in the model. </U>
+			<U WHO="S11"> mhm. yeah i know <OVERLAP> i know </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> it's ambiguous </OVERLAP></U>
+			<U WHO="S5"> the the the model is somewhat ephemeral to the point where we can be enamored with it, <EVENT WHO="SS" DESC="LAUGH"/> you know and, but then, but then <EVENT WHO="S11" DESC="LAUGH"/> you know o- once the other things come in we we may very well </U>
+			<U WHO="S11"><OVERLAP> yeah that's fair. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> be disgusted with it as well </OVERLAP> so </U>
+			<U WHO="SU-f"><EVENT DESC="LAUGH"/></U>
+			<U WHO="S11"> that's totally fair </U>
+			<U WHO="S5"> it's difficult to </U>
+			<U WHO="S11"> well th- i made an attempt to draw what the enclosure is up here but that </U>
+			<U WHO="S3"> well, but that's <OVERLAP> not </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> there </OVERLAP></U>
+			<U WHO="S11"> and it does show up and i know it's not totally clear </U>
+			<U WHO="S7"> w- what <U WHO="S11"> but </U> was supposed to go in those uh, those things in this <OVERLAP> cross-section? </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> those </OVERLAP></U>
+			<U WHO="SU-3"> ( <OVERLAP> it's a </OVERLAP> section) </U>
+			<U WHO="S11"> yeah that's my com- that's my critique of the section <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S11"> they're um, they're photographs that i just haven't had time to develop. </U>
+			<U WHO="S6"> there's the bulk of it </U>
+			<U WHO="S11"> so, yeah. but it uh... i mean i </U>
+			<U WHO="S1"> do you (obviously) <U WHO="S11"> i guess </U> know where the enclosure is? </U>
+			<U WHO="S11"> yeah </U>
+			<U WHO="S1"> you do? </U>
+			<U WHO="S11"> yeah. it basically, at this point it, it doesn't exactly wrap it, but it kind of follows, well a good example is that there's a slot in here that's that's n- outside so this this n- the glazing here kind of follows in there and, what happens is there's a, there's a door there, see you can't see it, i know, <U WHO="SU-f"> no </U> but's that's one of the reasons why i made the model this size i mean even though the detail's not there yet i wanna, i wanna get there. because at the, thirty-second size you just couldn't see anything but this. so, it's a lot more work but... you <EVENT DESC="LAUGH"/> you guys are absolutely right <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> next chapter. okay thank you... mkay </U>
+			<EVENT DESC="BEGIN SECOND SOUND FILE"/>
+			<U WHO="S12"> everybody ready? </U>
+			<U WHO="S7"> is this the last project? </U>
+			<U WHO="S12"> the last project. <U WHO="S7"> oh alright </U> and it's light outside still... um, we chose the Central Campus site. um, mainly thinking about what a studio was. and uh we decided that, this is what an architecture school is the studio is, the heart and the soul, and we wanted to represent that. um, so considering it as a jewel we wanted to sort of, show it off in a lot of ways and we started thinking about it as something which should be sheltered, within a wrapper. and then we wanted to expose it a little bit more. and start to show it off and have it break through the wrapper in a lot of ways. so um, we ended up with the studio at the heart of the building, with a strong wrapper on the edge of the site. which uh, breaks in certain parts. with th- where this site is, Central Campus downtown, in kind of, more student sections, the way the wrapper breaks to show off the studio occurs, in different manners, depending on which side of the studio, it breaks through. </U>
+			<U WHO="S13"> we really saw the idea as the studio as the heart of the Architecture School and the idea that this is where almost everything is created it's a construction base um it's where, ideas are formed and it's also um, really the intellectual hub of the Architecture School itself it's where most things happen most_ all hours of the day and really, for most architecture students the focus of their academic life um, as Tara said we were talking about the idea of a core with the studio in the center and that there would be this wrapper, and part of this choosing the, um downtown site was the idea that it was a somewhat more urban condition and we did take a, fairly um, i me- i don't want to use the word harsh but, <U WHO="S12"> defensive? </U> defensive scheme against the rest of the city in the sense that we are really trying to use our site as a gateway for the rest of campus and we did, close off this street from the main reason t- as we saw this as one of the major elements for_ both vehicular traffic and pedestrian traffic and we really wanted to use that and to exemplify the site and have this really be a gateway to the corner of campus. um </U>
+			<U WHO="SU-3"> and you also um, are, building on a plinth? </U>
+			<U WHO="S13"> we are also building on a plinth. we are raising it up so that the building sits above, um we'll explain later this will be used as public space as cafe as an expansion of the cafe, out along the boulevard. um, starting with basic organization um, when we had the studio as the core we started to break away slowly at the idea of um, the site started to become involved and we really saw the studio, as the core and also the auditorium as the core of the public space and so that's what's represented by the two, Plexiblocks that this would b- this is the studio and this is the auditorium. this is a constant wrapper that um is part of the, mechanism that we used for the site and, part of the urban conditions and, the studio and the auditorium are treated in somewhat different manners due to their function, but in similar ideas and consideration to what happens to the wrapper, that can_ that holds all of the functions of the building. um, this we have a central, courtyard area external for public, domain it really serves as the entry sequence, you can see it in that perspective there... </U>
+			<U WHO="S12"> front door, if this is Madison coming straight through. this is one of the breaks of the arm </U>
+			<U WHO="S13"> you basically slowly this, this site slopes down about sixteen feet from the back corner down to the bottom of the plinth, so you would walk up a slow slight flight of steps or you would wal- use the um handicap ramp, and you'd be coming to the central, atrium. and in the central atrium space before you enter the building it's about the idea of </U>
+			<U WHO="S3"> it's not an atrium </U>
+			<U WHO="SS"> courtyard. </U>
+			<U WHO="S13"><OVERLAP> it's a courtyard excuse me. </OVERLAP><U WHO="SU-m"><OVERLAP> it's outside. </OVERLAP></U> sorry i apologize. um, it's the idea of visual penetration into the idea of the studio. the idea that you can see into the studio and all the services wrap around the studio so that you have constant visual interaction with the studio, and the other public, places in the building and Tara will talk about, the break between the school and the public. </U>
+			<U WHO="S12"> um, being that we, we blocked off the street we used that as our major entrance into the building, so as you come through up, you enter, right at the knuckle where there's a central stair and you_ and we broke down the program into basically public and private functions. where cafe exhibition, and auditorium are on this end, the more public functions and then all the classrooms studios at the center, offices things that have more to do with the private functions of, the building, are to the other direction. um, but you always maintain this visual contact back and forth the courtyard, through, the glazed exterior. you know back into the studio it's always, you know something you have to acknowledge. as you move through the building, um we wanted to keep the studio as its own jeweled element but, still have connections through it, so, you don't walk through it really but you sort of pass, through it over a catwalk and there are visual, well there are actually um... little shafts through the building so you walk down a catwalk like penetrating the studio and you can always penetrate through it. so you, you're always mixing with it. and the way that the program is broken down, um with the classrooms and the offices they all, sort of open out into this courtyard. the circulation, goes all the way around and then through. so you're always acknowledging, the studio and the happenings of the studio, the presence of the Architecture School. </U>
+			<U WHO="S13"> um to complement the idea of the courtyard we also have an internal void um, that is on the other side of the studio that allows for light in the inner core of the building, a- <U WHO="S12"> (this one) </U> right there in the section and also um, gives it a, gives the Architecture School its own private courtyard as well the public so that there's that duality between the two, um, all the studi- these are the two catwalks the studios open up into this, um interior atrium space, and um the f- </U>
+			<U WHO="SU-f"> it's interior or it's exterior? </U>
+			<U WHO="S12"><OVERLAP> this one is interior. this is the courtyard </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> this one is interior. this one is exterior. </OVERLAP></U>
+			<U WHO="SU-f"> inside </U>
+			<U WHO="S3"> where's the roof? </U>
+			<U WHO="S12"> the plinth extent. <OVERLAP> the roof. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> the roof is, </OVERLAP> unresolved </U>
+			<U WHO="S13"> the roof is unresolved. </U>
+			<U WHO="S12"> it's gonna be like, a skyline. </U>
+			<U WHO="S1"> it'll work, if that's the intended line </U>
+			<U WHO="S13"> the intended line is something like this we have ideas of the fact that it would float from either side so that it wouldn't be a v- so it wouldn't be a harsh visual connection, and there's also the idea that if it was, coming from either side that there would be some venting to allow for cross-ventilation across the studios, as for um, open-air systems but, it is not a resolved element. </U>
+			<U WHO="S12"> so basically it's open the studio is open to all sides and then, classrooms and such get closed off around it. so it becomes this open core. the entire way through. </U>
+			<U WHO="S13"> in terms of organizational structure um, the, eastern wing is primarily offices all of our offices have opening windows and have natural daylight. um, on the back core against the parking garage it's mainly um services that do not need as much natural lights things like laboratories shops, the dark room, and there's also some oa- <U WHO="S12"> classrooms </U> some classrooms um for projection... the next thing we wanna talk about, is, the way the studio acts within the wrapper, um we've already talked about how it's exposed, visually through the open courtyard and from the atrium, on the um, vehicular facade, where we took this urban scheme the studio actually punches through, as a display of, the interactions of the Architecture School at a l- at a larger scale, um </U>
+			<U WHO="S12"> more formally </U>
+			<U WHO="S13"> yeah it's more formal um, basically, the actual volume of the studio would puncture through, the hard edge and be exposed to the street, the idea that there would be, a couple studios and in the center would be crit spaces, um the catwalks get to look down over these crit spaces so you have visual interaction from different levels, it's, the whole m- the whole part the whole scheme about this jewel is that you you see it in many different lights it's not only, from coming into studio coming up the stairs to go work it's going t- if you're going to a crit if you're going to see a lecture </U>
+			<U WHO="S12"> you're always constantly interacting <OVERLAP> with it. </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> you're always constantly </OVERLAP> interacting. </U>
+			<U WHO="S1"> if you're leaving your office? </U>
+			<U WHO="S12"><OVERLAP> absolutely. </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> if you're leaving your office. </OVERLAP></U>
+			<U WHO="S6"> go out of the building you might take the catwalk across the studio then go down rather than going all the way around </U>
+			<U WHO="S3"> or you might go all the way around and then get out of the building. <EVENT WHO="SS" DESC="LAUGH"/> it's like </U>
+			<U WHO="S13"> this is cut... right across the center so, <EVENT DESC="LAUGH"/> it's there. <EVENT DESC="LAUGH"/> there. </U>
+			<U WHO="SU-m"> looking down? </U>
+			<U WHO="S12"> yeah <U WHO="S13"> yeah </U> it's this section looking out </U>
+			<U WHO="S13"> so, <OVERLAP> you turn that monitor around </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> (the plays are always right in here.) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> cuz this is </OVERLAP> the facade the glazed facade <U WHO="SU-f"> yeah </U> that was on the other side. </U>
+			<U WHO="S13"> it's a little bit delicate when you have a bilateral symmetry in your structural system if you don't have, the other half. it doesn't always be, structurally stable. <EVENT DESC="LAUGH"/></U>
+			<U WHO="SU-m"> and do you have a section that corresponds with that? </U>
+			<U WHO="S12"> yeah... well, looking the other direction </U>
+			<U WHO="S13"> looking the other direction <U WHO="SU-m"> right right </U> that one looks back, <U WHO="S12"><OVERLAP> (in that) section </OVERLAP></U><OVERLAP> that's actually </OVERLAP> across. that's actually this way. </U>
+			<U WHO="S7"> so you didn't build, th- this the roof. is that what's happening? </U>
+			<U WHO="S13"> yeah there would be <U WHO="S7"><OVERLAP> ah okay. </OVERLAP></U><OVERLAP> the lower part </OVERLAP> right here, <U WHO="S7"> okay. </U> where this v- this, solid would penetrate through. </U>
+			<U WHO="S7"> well did you not build it to communicate something or you didn't know how? </U>
+			<U WHO="S13"> the idea that this punctures through there's also, some unresolved, trying to figure_ it works, when you just punch it through, it works, <EVENT DESC="LAUGH"/> quite easily, then when you start have to worrying about the connection between the glass and the solid piece, we have_ we didn't quite figure out the details on the connection between those two. the_ this being something that is a bearing wall, and then the glass puncturing through. </U>
+			<U WHO="S1"> i mean why doesn't this roof just go through? </U>
+			<U WHO="S12"> that does actually. </U>
+			<U WHO="S13"> it does. but that_ this has to sneak underneath it <U WHO="S12"> it's </U> so it's the </U>
+			<U WHO="S1"> no... this dominates. </U>
+			<U WHO="S13"> oh i see what you're saying yeah. </U>
+			<U WHO="S1"> this this bar goes like this and then it <U WHO="S12"><OVERLAP> it's </OVERLAP></U><OVERLAP> drops down so </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yeah it's right on this model, i'll show you it, right here. </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> you're right. </OVERLAP></U>
+			<U WHO="S1"> (it's the drain goes in) </U>
+			<U WHO="S3"> this is gallery </U>
+			<U WHO="S13"><OVERLAP> yes. </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> yes. </OVERLAP></U>
+			<U WHO="S3"> this is the front entrance. </U>
+			<U WHO="S12"><OVERLAP> right. </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> yes. </OVERLAP></U>
+			<U WHO="S3"> okay. that's the auditorium </U>
+			<U WHO="S13"><OVERLAP> that's actually cafe, sorry </OVERLAP></U>
+			<U WHO="SU-3"><OVERLAP> (oh, okay) </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> well that's actually cafe </OVERLAP> at the lower level, auditorium on the second and third floor, <U WHO="S3"> okay </U> you get to this sloped-up thing , and then you've got (xx.) </U>
+			<U WHO="S13"> the idea about the um exhibition is that you cou- you can also close it off at night and still get, punctured views into it so you can see into it if you're going to an evening lecture or if it's, <OVERLAP> you walk into the building at night </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> there's always a connection basically </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (you've always) </OVERLAP> another lecture classroom </U>
+			<U WHO="S13"> mhm </U>
+			<U WHO="S12"> yeah. that's more student, <OVERLAP> lecture </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> conference center </OVERLAP></U>
+			<U WHO="S6"> and, wh- uh why are these bits of wall here and here, um without holes so is that deliberate? </U>
+			<U WHO="S13"> yeah that's basically where the mechanical risers and the the toilet facilities are. </U>
+			<U WHO="S12"> and where, rooms also that don't need natural light. on the sides back here. </U>
+			<U WHO="S13"> and of course on either side of the fire escapes as well. </U>
+			<U WHO="S12"> we wanted to try to maintain, as strong a facade on this side as possible </U>
+			<U WHO="S13"> right. <OVERLAP> to support the function </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> so it just looks it just looks </OVERLAP> like offices there but it's not. </U>
+			<U WHO="S12"> no. but, no. </U>
+			<U WHO="S3"> where? where Jane? </U>
+			<U WHO="S13"><OVERLAP> she's talking about right here. </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> uh above_ below </OVERLAP> the two toilets. </U>
+			<U WHO="S7"> this is just detail but it_ this in fact this wall is contiguous with this plane right there's not a walkway there is there? </U>
+			<U WHO="SS"> no. </U>
+			<U WHO="S12"> right no no it isn't, not ye- </U>
+			<U WHO="S7"> can it be moved so you can make it that way or is that st- glued...? oh it's glued okay. <EVENT WHO="S12" DESC="LAUGH"/> but it doesn't in fact </U>
+			<U WHO="S12"> it would essentially be this wall would pen- go all the way down, <OVERLAP> and wrap around </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> how high, </OVERLAP> is the plinth at the highest point? </U>
+			<U WHO="S13"><OVERLAP> uh it's twelve feet. it's significant </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> twelve feet. it's about </OVERLAP> a story, yeah... </U>
+			<U WHO="S6"> so you only get onto it from the higher level </U>
+			<U WHO="S12"><OVERLAP> exactly. </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> (you can) only </OVERLAP> get onto it from a higher level and look out and, but from vehicular traffic coming from far you should be able to get a good vista to see things that are going on with the building. </U>
+			<U WHO="S12"> we wanna try to hold that corner as much as possible being that it is sort of, the gateway to campus, it's, very much an edge that we wanted to, define </U>
+			<U WHO="SU-5"> but you still have a sidewalk <U WHO="S12"><OVERLAP> walk back </OVERLAP></U><OVERLAP> going around </OVERLAP> the, outside of the plinth <U WHO="S12"> yeah </U> on the lower edge of the plinth? </U>
+			<U WHO="S1"> the way <U WHO="SU"> wh- </U> you made the plinth on the model is distracting. </U>
+			<U WHO="S7"> it's really <OVERLAP> unfortunate. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> yeah. </OVERLAP></U>
+			<U WHO="S1"> because, if it were, because this wall, this wall should go right down to the street. and rather than this jutting out and then it, <OVERLAP> it extends and becomes the, </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> and then that graded (as you go down the) sidewalk. </OVERLAP></U>
+			<U WHO="S7"> same material <OVERLAP> you have here? </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> and you can see it in the m- in the model right here. </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> yeah it works better there. </OVERLAP></U>
+			<U WHO="S6"> yeah. </U>
+			<U WHO="S7"> well </U>
+			<U WHO="S12"><OVERLAP> actually right here as well. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but there it's not on the site. </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> actually, no over there is where </OVERLAP> you want to point to <U WHO="S13"> this </U><U WHO="SS"> yeah </U> right if it's contiguous with the wall right? </U>
+			<U WHO="S3"> oh <OVERLAP> yeah yeah </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> yeah. </OVERLAP> that's how we'll </U>
+			<U WHO="S7"> you you you've really negatively biased, the reading of this by doing that </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"> cuz that works, that makes a much richer, end of the sense about the wall in sort of, <U WHO="SS"> yeah </U> sorta disintegr- well not disintegrating but then, the, </U>
+			<U WHO="S3"> it's, <OVERLAP> part of the building. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> int- it's interesting </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> it's less of </OVERLAP> a wall and more a part of the <OVERLAP> building </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> exactly </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> the part of the building is definite (structurism) </OVERLAP></U>
+			<U WHO="S1"> because in here there's also an idea about the fenestration which is many-layered, sorry the the facade, you might want to talk about that but, then at this end those layers kind of come apart. </U>
+			<U WHO="S13"> the wall is a th- <U WHO="S1"> and that's </U> is a, thick wall and sort of like diagram the model we thought about it being, a solid mass, but um, i- the way that the building punctures through, on this side it gets peeled away, so that when the, the fenestration breaks through, parts of the wall decay so it becomes thinner at points and thicker where the windows are, and then as it comes around it punctures and then here it completely disintegrates at the, bottom level where there's glazing for the cafe but the plinth remains. and the upper story remains. </U>
+			<PAUSE DUR=":05 "/>
+			<U WHO="S7"> before you, photograph this for your portfolio change this </U>
+			<U WHO="S12"> it will get changed yes. </U>
+			<U WHO="S5"> i i i'm much more convinced in terms of that obviously, you know being a part of the building, um in that working but it's still_ maybe it's because since i've, moved to this state and seen the Ren-Cen that it just drives me crazy to have a plinth next to something that's pedestrian at that type of scale, um, but i just think of the height of, <U WHO="S2"> mhm </U> of twelve feet next to somebody, who would be walking there <OVERLAP> being </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> the, </OVERLAP> majority of pedestrian traffic really stays <U WHO="S12"><OVERLAP> isn't there. </OVERLAP></U><OVERLAP> to the right-hand side </OVERLAP> this really is, primarily vehicular these are all now these_ what used to be once residential are now small businesses (they are) and um some rentals, as as you go up a little bit <OVERLAP> north </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> student traffic </OVERLAP> moves mainly this way and around that way. <OVERLAP> there's not a whole lot there. yeah. yeah i know i just </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> just, just for, you know just </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> but, but it looks but it looks pretty high on that wall </OVERLAP></U>
+			<U WHO="S5"> i guess then i'm even thinking what's the relationship the, to that exterior caf- cafe area. <U WHO="SU-f"> mhm </U> it's just kinda up and away from, from everything else that it would, <OVERLAP> be related to. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> but that's not, </OVERLAP> the hospitable corner to be on the ground. </U>
+			<U WHO="S5"> i, i suppose that's </U>
+			<U WHO="S12"><OVERLAP> except that's a pretty highly, trafficked </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i mean in </OVERLAP> a sense. i mean i think there's no merit in being on the ground at that point it's very exposed. </U>
+			<U WHO="S5"> would <U WHO="S7"><OVERLAP> uh i think </OVERLAP></U><OVERLAP> it make more sense </OVERLAP> then to kind of reverse that let the plinth come around and open the open-air side to the, to the court so that you sit, relative to the courtyard, if that_ if i'm understanding <U WHO="S12"> mhm </U> that that's the cafe <U WHO="S12"> yeah </U> and that's the exterior eating area. <OVERLAP> except that it's on the north side, which is unfortunate. </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> uh_ yeah that's true. i mean you could just hold the corner </OVERLAP> with the building, would be another <U WHO="S5"><OVERLAP> well </OVERLAP></U><OVERLAP> option </OVERLAP> instead of, <OVERLAP> plinth </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> (plinth, plinth) </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> you really wouldn't want that on the north side </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> i think the plinth, </OVERLAP> the plinth is more believable, if you could see a stair or a way to get to it. now it's just, hovering above you and you can't, get there from here, <U WHO="S12"> well the- </U> you have to ge- you have to know that you can do that. <U WHO="S13"> right. </U> it's_ if if, maybe if, this continued to peel under the stair or somethi- </U>
+			<U WHO="S6"> well i think on the east side of that you could be ramping up on to it. </U>
+			<U WHO="S7"><OVERLAP> yeah if there was some way to get up onto it you could see it </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> (a ramp could off the side there.) </OVERLAP> yeah. </U>
+			<U WHO="S5"><OVERLAP> yeah </OVERLAP> yeah. </U>
+			<U WHO="S7"> that would diminish the scaling and give you, hope. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S13"> Leah did it Leah tried a couple of different entries to it and, i think we ended up resulting that the best way that we knew to hold the corner, was to leave it as the one entry because the other ways was really seeming to disintegrate and not taking as strong of a stance. and we decided we would take a strong stance. <OVERLAP> by doing that. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> well, </OVERLAP> there are a couple things the, the corner is, i mean you could extrapolate it, zeroing in on the difficult bits don't they? <EVENT WHO="SS" DESC="LAUGH"/> i mean their difficulty was that if if if this extends down and the auditorium begins to occupy that corner, then um, when you're looking from this way, it's kind of disappears from view. it it goes out of the frame. and, so and this also becomes in- incredibly attenuative. you know it's just such a long link that it, becomes less credible and so, i think there was an effort to kind of close this in a bit more so that, from the street you would you would begin to perceive that space. <OVERLAP> but </OVERLAP></U>
+			<U WHO="SU-3"><OVERLAP> what would </OVERLAP> what would be the problem with having the auditorium? <OVERLAP> (i mean it's it's) </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> it becomes so f- </OVERLAP> it becomes so far away that it almost <U WHO="SU-3"><OVERLAP> the auditorium? </OVERLAP></U><OVERLAP> looks like </OVERLAP> a separate building. </U>
+			<U WHO="SS"> yeah but </U>
+			<U WHO="S6"> you could you couldn't you've got um um a a glazed-in foyer to the auditorium into that space could you? cuz that could be quite nice, nice. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S12"> (xx) (huge) <EVENT DESC="LAUGH"/></U>
+			<U WHO="S13"> so you're saying that the, entrance being here, (being) it back here? </U>
+			<U WHO="S6"> yeah um- i know it means rearranging, but <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> somehow that has </OVERLAP> to be addressed. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S3"><OVERLAP> anyway (xx) here </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> but to but to_ this this is a this </OVERLAP> is a good foyer space, <U WHO="S12"> yeah </U><U WHO="S3"><OVERLAP> yeah </OVERLAP></U><OVERLAP> (cuz you can) </OVERLAP> look out and it's a nice thing to see because of the <U WHO="S13"><OVERLAP> yeah </OVERLAP></U><OVERLAP> view from inside. </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> can i ask how you would_ </OVERLAP> would you recommend that you move through the building and around it up on th-? trying to figure out </U>
+			<U WHO="S1"> well you could still enter <U WHO="S13"><OVERLAP> enter through the under </OVERLAP></U><OVERLAP> from the courtyard </OVERLAP> side but it would be a foyer <U WHO="S13"><OVERLAP> okay </OVERLAP></U><OVERLAP> hopefully look (out) </OVERLAP> okay </U>
+			<U WHO="S6"> but in fact it's (confusing because) you don't have a fi- you don't have a double-edged structure around <U WHO="S12"> no </U> the auditorium. and it's useful to have it. although, i mean this isn't quite finished, i mean it's it's just <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="SU-f"> just hold still </U>
+			<U WHO="S12"> just professors. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S7"> well i must say i've been waiting for the last month to see how much you were gonna do here. <EVENT DESC="LAUGH"/><U WHO="SU-f"><OVERLAP> keep it, keep it coming </OVERLAP></U><OVERLAP> if you, </OVERLAP> and you chickened out. <EVENT DESC="LAUGH"/> i mean it's the it's the dilemma when you know this jewel, wants to have kind of integrity, <U WHO="S12"> yeah </U> as an object and then and then_ but you are wrapping it, and on one hand you you've, <U WHO="S12"><OVERLAP> you've got a height problem </OVERLAP></U><OVERLAP> come to a good resolution </OVERLAP> by pushing it through so it could, be autonomous and be read as a as a thing, but how it joins the rest of it is is a difficulty and it's_ <U WHO="S12"> yeah </U> it may be f- y- you know, in in some sense it may be fatal. in a certain way. </U>
+			<U WHO="SU-6"><OVERLAP> what is it? </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> fatal yeah (i mean) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> what is this? what is the (deci-?) why does it_ </OVERLAP> why does it need to be, interior? why can not_ why can't <U WHO="S12"><OVERLAP> well </OVERLAP></U><OVERLAP> there be, </OVERLAP> an exterior, </U>
+			<U WHO="S12"> we had thought about <U WHO="S3"><OVERLAP> (light wall?) </OVERLAP></U><OVERLAP> it being external </OVERLAP> but, there's so much of a closure then between the two parts of the building <OVERLAP> at that point </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but what's on </OVERLAP> that other side? the shop or th- </U>
+			<U WHO="S12"> classro- <U WHO="S3"><OVERLAP> classrooms </OVERLAP></U><OVERLAP> it's kind of_ it's also </OVERLAP> the major circulation. <U WHO="S13"> path </U> through the back i mean you can cross through studios but we sort of felt that that was, the main <OVERLAP> way to get through them. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah but that part </OVERLAP> could be enclosed. right? </U>
+			<U WHO="S12"> which part? this part? </U>
+			<U WHO="S3"> yeah. that part, could all be enclosed with just the, you know rectangle, wher- that's <U WHO="S13"><OVERLAP> yeah </OVERLAP></U><OVERLAP> noncirculation </OVERLAP> right now as, outside. </U>
+			<U WHO="S3"><OVERLAP> do you think you've used too much connection though between? </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> yeah but then_ then you wouldn't even have connection </OVERLAP> between the two </U>
+			<U WHO="S12"> or between the studio floors i don't </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"><OVERLAP> there's just that sense you ha- </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> but what's wrong with (this the flat) </OVERLAP> last week? </U>
+			<U WHO="S12"> which wa- this way? <U WHO="S6"><OVERLAP> yeah </OVERLAP></U><OVERLAP> through </OVERLAP> here? </U>
+			<U WHO="S6"> yeah. </U>
+			<U WHO="S5"> yeah. and then <OVERLAP> (throw a wall up) </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> we, we had thought </OVERLAP> about that. </U>
+			<U WHO="S6"> this just seems like </U>
+			<U WHO="SU-13"><OVERLAP> but then that'd have to be </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> it just seems like it's... </OVERLAP><U WHO="S13"> yeah </U> better wh- i don't know. </U>
+			<U WHO="S7"><OVERLAP> i think that's the best. </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> th- th- that just leaves your jewel </OVERLAP> popping up, and leaves the rest <OVERLAP> simple </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> i think </OVERLAP> that's the best of the bunch. <OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> yeah. </OVERLAP></U>
+			<U WHO="S1"> it's actually quite difficult because you do want that roof to predominate, <U WHO="S12"> yeah </U> you want the studio to be the dominant volume. <U WHO="S12"> mhm </U> and by extending that roof out at that level, <U WHO="S6"> it detracts </U> it just seems_ i don't know this this_ if you do it the other way like this, that feels quite awkward to me in terms of what <U WHO="S12"><OVERLAP> includes </OVERLAP></U><OVERLAP> what it would be like from, here. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> from the bottom up. </OVERLAP></U>
+			<U WHO="S7"> it's a real difficult i don't see a solution actually. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S12"> we were hoping that it could </U>
+			<U WHO="S7"> well i know tha- i me- i think it's a_ i think you've done a great job at this scheme i think it's a great scheme in many ways, but i think it's a fatal kind of flaw. i mean in some ways i just don't know what to do there. i really don't. because, the autonomy of the thing is going to be compromised somehow. and i- and i don't know what to do. </U>
+			<U WHO="S13"><OVERLAP> the interesting thing </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> what would happen what would </OVERLAP> happen if you did... what if you have say a roof that went across here? </U>
+			<U WHO="S7"> that's interesting. </U>
+			<U WHO="S5"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so </OVERLAP> this studio floor was, <U WHO="SU-f"> (this one) </U> inside the space. <U WHO="S7"> that's a good idea. </U> and then this, studio floor had <OVERLAP> an exterior </OVERLAP><U WHO="SU-f"><OVERLAP> exterior </OVERLAP></U> wall. <U WHO="S6"><OVERLAP> i mean it's north light </OVERLAP></U><OVERLAP> and so you don't have you don't have </OVERLAP> something that comes in <U WHO="S7"><OVERLAP> right </OVERLAP></U><OVERLAP> between </OVERLAP> but you, you do, use </U>
+			<U WHO="S6"><OVERLAP> yeah that's fine </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> you drop it down </OVERLAP></U>
+			<U WHO="S7"> that's <OVERLAP> the best. </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> and it's </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> is that </OVERLAP> better? </U>
+			<U WHO="S6"> and it's north light anyway so, you know you may wa- it doesn't really matter <U WHO="S12"><OVERLAP> right </OVERLAP></U><OVERLAP> whether </OVERLAP> it's a horizontal or vertical. </U>
+			<U WHO="S12"> right. </U>
+			<U WHO="S1"> so then this is just the top level of of_ the top level's here the slightly different relationship this is more interconnected, <U WHO="SU-f"> mhm </U> through here and this is a little bit more removed. </U>
+			<U WHO="S7"> are there operable louvers in the south side is that what's happening? </U>
+			<U WHO="S13"> um, the intent_ we were a little bit indecisive between operable louvers and um something that would_ some type of venting from underneath, um </U>
+			<U WHO="S1"> we'd have to have, <U WHO="S13"><OVERLAP> you'd have to have something </OVERLAP></U><OVERLAP> a very, a </OVERLAP> very different problem. louvers are shading. </U>
+			<U WHO="S13"> oh sorry. </U>
+			<U WHO="S1"> venting is, <OVERLAP> venting </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> the louvers </OVERLAP> would be, computer, <U WHO="S7"><OVERLAP> but there are louvers and they </OVERLAP></U><OVERLAP> operated there are louvers </OVERLAP> they are operable they would not be manually per each studio. they would be overall. </U>
+			<U WHO="S6"> and they're inside or outside? </U>
+			<U WHO="S13"> they are <U WHO="S12"><OVERLAP> between the glazing </OVERLAP></U><OVERLAP> in between, </OVERLAP> the glass_ the two sheets of the <OVERLAP> glass </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> for? </OVERLAP></U>
+			<U WHO="S13"> um, for the idea that we could ha- bring air up through and it could be an air seal and start to go for, um, cross-ventilation out, through the skylight. </U>
+			<U WHO="S1"> but it's also because you want to see this smooth skin <U WHO="S13"><OVERLAP> oh yeah. sorry </OVERLAP></U><OVERLAP> of glass from the outside (somewhere) </OVERLAP> you don't want to see, the louvers on the outside you want the, the pristine <OVERLAP> quality (of display of the box.) </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> you want the distinct </OVERLAP> quality <OVERLAP> of the box for a studio. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> you (wanted like) </OVERLAP> the box to wrap the whole thing. </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"><OVERLAP> um </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> the last thing </OVERLAP> oh i'm sorry </U>
+			<U WHO="S3"> n- well i just wanted to say that i wanted to commend you on how um, beautiful the drawings are especially the perspectives i think are just, wonderful and especially this entry part which_ where you can see into the library and you kno- can kind of imagine that glazed wall, it's it's really nice um, and the thing i i like the best are these little plaster models the kind of early con- conceptual phase of the project, and to me i mean this always happens and so you know might as well_ i'll just say it which is that, <EVENT WHO="S1" DESC="LAUGH"/> it seems like that, that in the final result it has lost some, something of the first and of course it couldn't be that this final model would be just like, this first conceptual diagram, right? but i think that some of that has to do with the way that you're modeling. um because the drawings need to carry it through, but the way that you're modeling seems really finicky. and uh obsessed with, facade detail, and less with kind of um getting, across the power of the building, um, and to me that um, actually this glass roof not glass roof i mean... i don't know i think that it's a compromise in a way because i think here you've managed to_ i mean these things are butted together in each case. that's only in this one where it's suddenly gotten removed and then you have this extra problem of how to roof that thing, and i think that there might have been a way to think about it cuz it is interior space it's not as if you're really reducing, um, uh, interior volume by pressing it closer together that, it's suffering a little bit from, that louver pulling it away, and now having a really fat floorplate, on the other side. because here you've managed with, um it reads differently also because this, looks like a more continuous piece. <U WHO="S13"> mhm </U> now that piece has gotten quite contorted, <U WHO="SU-f"> yeah </U> and i think that it could, i think it could go through a level of kind of editing. you know it seems, fussy. that final model is fussy. and and um i don't know if it <OVERLAP> has to be, um </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> well of of course </OVERLAP> the reason they moved it away is there's two levels of studio and they wanted to get light to the lower one. so it_ it's </U>
+			<U WHO="S1"> they wanted to get light <OVERLAP> in on the north side of the studio. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> into the studio. </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> into the building yeah. </OVERLAP></U>
+			<U WHO="S7"> so it's a dilemma. i mean i know why you did it it makes sense to me on some levels but, <OVERLAP> (you just) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> cuz otherwise </OVERLAP> we only have our, single (out_ you need) really deep planned space, but </U>
+			<U WHO="S3"> i can imagine even moving it away but i think it's because this has gotten really fat that now that's <OVERLAP> almost the same width as that </OVERLAP></U>
+			<U WHO="SS"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S13"><OVERLAP> yeah that's what </OVERLAP> we did. </U>
+			<U WHO="S3"><OVERLAP> so that's </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> and this is_ </OVERLAP> too thin in relationship to what it's wrapping around <U WHO="S3"> right. </U> so your enclosure your s- your your wrapping has kind of_ changes proportion as it continues to wrap around and it and it's so contorted you almost don't see it as a sinuous piece wrapping <OVERLAP> (of the box) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> not that it </OVERLAP> has to be the same cuz you have different programs <U WHO="S13"> mhm </U> they have different widths <U WHO="S12"> yeah </U> it'll have to change, but somehow the idea that is as this continuous thing is it seems lost and then the way you've applied facades like this piece here, that facade there, that facade there has even further, broken it up. as a singular, element. </U>
+			<U WHO="S6"> can i can i fo- add on to that? another way of looking at it was was there a flaw in this? that because, at bottom level you couldn't get the light into it and maybe you have to reexamine, it on the basic level, <U WHO="S12"> ah yeah </U> this k- sort of model, before going onto just you know trying to work it out. <U WHO="S13"> mhm </U> so you spotted the floor when you were doing the working out and then maybe you had to go back <U WHO="S13"><OVERLAP> back </OVERLAP></U><OVERLAP> to this one, and </OVERLAP> and i don't know what the answer is. </U>
+			<U WHO="S7"> when could you do these? </U>
+			<U WHO="S13"> we did them after midterm crit </U>
+			<U WHO="S6"> is there <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S12"> the idea had always been there <OVERLAP> (but it just wasn't down) </OVERLAP></U>
+			<U WHO="S13"> the idea <U WHO="S3"><OVERLAP> (xx) </OVERLAP></U><OVERLAP> had been there, </OVERLAP> and after_ we had, we had presented in some of ideas didn't get quite across so we we went and stepped back and, started with our basic analysis drawing and did the, the series. </U>
+			<U WHO="S1"> what i_ i must say i i can't see the_ having the void on the north side of the studio is a fatal flaw. i really don't see that. i can see that there are difficulties in resolving it but there are there are voids all the way around the studio. <U WHO="S7"> mhm </U><OVERLAP> (it even exceeds that) </OVERLAP><U WHO="S3"><OVERLAP> it's not_ yeah </OVERLAP></U> and the voids vary in their dimension. </U>
+			<U WHO="S3"> it's not it's actually not the void it's the void coupled with the widths of the kind of other things that are surrounding it so the void plus, a kind of large large floorplate. combine to make something almost as large as a studio space. <U WHO="S1"><OVERLAP> okay so it's the </OVERLAP></U><OVERLAP> so then proportionally (it) gets it very odd, </OVERLAP><U WHO="S13"> proportional </U> that that's kind of, you know the thing. when </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

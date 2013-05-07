@@ -1,0 +1,796 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="ofc320su153">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Art History Office Hours </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> OFC320SU153 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  WARNING -- Citation of examples is restricted for one or more speakers in this transcript.  Permission to cite examples from this transcript in any presentation or publication must be obtained from the English Language Institute. </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="66">
+						<DATE> June 11, 2001 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Amy Burke </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Final Editing, 1/28/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="5"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="5"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="ALL" AGE="3"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Instructor's Office, Tappan Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> the only batik i have is this one here, <U WHO="S2"> mhm </U> and then i have a sarong and i brought another ikat, and this, or we could make another appointment, for, Tuesday. </U>
+			<U WHO="S2"> after class i have another class. <U WHO="S1"> okay </U> so, i'll work with one of those and, <U WHO="S1"> okay, alright </U> that's fine, <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> thank </OVERLAP> you for bringing it in. but um, i'll wait until eleven. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> is that what_ yeah. um, oh Janet was going to be here at ten forty-five. okay. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S2"> i know as soon as i sit down with this i'm gonna be like oh, i didn't look at that. <EVENT DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> so remember then when you're, when you're looking at the weft ikat, they've tied and dyed the threads that they're weaving in, this way this is a more, difficult technique because you have the warp threads are all the same color, and they would've had to have, strung up these, weft threads on a different frame, to tie and dye them to get these different, think about the different color, the different color variations with the colors have to go in at different times. have you done any textile design <OVERLAP> or, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> hm'm </OVERLAP>
+				</U> or printing of any sort? see you have to lay in each color separately, when you're doing this sort of thing, and then change where the resist is, and then lay in the next color. so this, this particular color this um, goldish, beigeish, could either be, possibly the raw silk but i- i- i i'll i'll, i would bet that it's probably dyed as well. </U>
+			<U WHO="S2"> but then it wouldn'ta been the first one. </U>
+			<U WHO="S1"> um <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> you either do, </OVERLAP> the dark first or the light first depending on the technique, that they're <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> going to </OVERLAP> choose. being that they have so much of the light and so little of the dark accent you're probably right. cuz look where they laid the dark over, doesn't it look like they laid it over the yellow and not v- <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> vice versa? </OVERLAP> so that would mean that they did the tying and dyeing here. but what is i- interesting then is these, darker, rose, parts here, <U WHO="S2"> mhm </U> aren't the same. they look purposefully, to to bring out this motif, in contrast to these, so there's there's, obviously the artist is looking, to create some more depth in the textile even though she's using a very similar color, you have that change. so there's, a number of colors on here that were used for this motif. and the motif is something you're gonna wanna <OVERLAP> consider too. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and then even within this </OVERLAP> there's that darker </U>
+			<U WHO="S1"> mhm, mhm that seems to sort of go over where, there was a yellow re- you know a re- </U>
+			<U WHO="S2"> when they do the dyeing though <U WHO="S1"> mhm? </U> it's_ this is where i get confused are they putting the dye like, on_ i mean, if the uh waxed threads were somewhere else would they be putting the dye on or would they be dipping? </U>
+			<U WHO="S1"> it's dipping. </U>
+			<U WHO="S2"> dipping okay. <OVERLAP> so i assume, yeah the knots. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's why you have to tie every single thread </OVERLAP> and y- look at the the the strength of these threads they're, they're they're minuscule </U>
+			<U WHO="S2"> mm <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":04"/> yeah i had enough trouble doing like those little loop pot holders. <EVENT WHO="SS" DESC="LAUGH"/> i can't even imagine this. <PAUSE DUR=":09"/> okay. are you gonna be having office hours like the week after, <U WHO="S1"> i <OVERLAP> can't </OVERLAP>
+				</U>
+				<OVERLAP> we have </OVERLAP> class through this week right? <U WHO="S1"> mhm </U> and then <U WHO="S1">
+					<OVERLAP> i can meet you </OVERLAP>
+				</U>
+				<OVERLAP> like if i am down </OVERLAP> and i_ there are things that i feel like i wanna see <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> again, </OVERLAP> we can <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> schedule </OVERLAP> (other ones?) okay. <U WHO="S1"> yeah </U> that's super. <OVERLAP> cuz i'll see how the pictures turn out </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> as soon as you can though. </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> okay <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i (hafta) </OVERLAP> get the pictures done this afternoon, <U WHO="S1"> okay, <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and then, </OVERLAP> if there's things that i'm just feeling i'm missing i'll schedule a (new) right away. <U WHO="S1"> okay </U> now the gold thread we talked about this in class but, it is a_ the base of it, is a, a cotton or a silk? and then the gold is </U>
+			<U WHO="S1"> is wrapped <U WHO="S2">
+					<OVERLAP> wra- around it? okay cuz you can see that here </OVERLAP>
+				</U>
+				<OVERLAP> right? and i- you know how where you can try and </OVERLAP> and look for that? is always when you're looking <U WHO="S2">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U>
+				<OVERLAP> at this sort </OVERLAP> of object, look at the back cuz you're gonna be able to see especially in the supplementary weft technique, you're gonna be able to see more about, how they construct it. if you can see a little bit of, how the metallic, thread here for this crochet, which is a different consistency, <U WHO="S2"> mhm </U> you may also be able to find a thread that gives you a sense of_ here's one. here's one here see, this? that looks like it's come loose out of its wrapping, so you might want to, take a close look at this. see if you can_ and <U WHO="S2">
+					<OVERLAP> (oh but) </OVERLAP>
+				</U>
+				<OVERLAP> interestingly </OVERLAP> they went_ s- they skipped with that h- you know, remember they're they're weaving this this side up? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> s- so they can have these little, little spools of thread above and not hanging below which is <U WHO="S2">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> really difficult? </OVERLAP> here obviously they went from place to place and there they stopped and knotted at each </U>
+			<U WHO="S2"> yeah, cuz there's little knots on the corner of each one. t- here's a little patch. <PAUSE DUR=":09"/> (xx) overwhelmed right now. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> well again it's just a beginning, a <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> basic, </OVERLAP> look <U WHO="S2">
+					<OVERLAP> oh (what's that) </OVERLAP>
+				</U>
+				<OVERLAP> see and trying </OVERLAP> to start considering, not necessarily completely how they made it but, as much as basically you can tell about it, and then, uh more importantly, is it Balinese? is it Sumatran? where do you think? i bought it in Bali. </U>
+			<U WHO="S2"> mkay. and y- i mean you also don't know like, when it was done? </U>
+			<U WHO="S1"> it's very hard to d- date textiles <U WHO="S2"> mhm </U> obviously from the wear and tear, it's been done some time ago. <U WHO="S2"> okay </U> if you can find any information on when they were crocheting that might help. but that may be a long shot that may be for a larger, <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> research </OVERLAP> project. dating would be difficult um, other than we know it's probably at least, fifty years old i would imagine. <U WHO="S2"> okay </U> at least early twentieth century if not later. </U>
+			<U WHO="S2"> okay. <U WHO="S1"> um </U> i don't know if this is something <OVERLAP> i should research </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you may be able to f- </OVERLAP> you may be able tell when you look at images, color images, look for this try to match this color, this color this particular shade, <U WHO="S2"> mkay </U> may tell you something datewise. </U>
+			<U WHO="S2"> mkay. do you know_ i might find this out from researching too but if it was common to do both the ikat and the </U>
+			<U WHO="S1"> in Palambang it is now. </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> which is Palambang, P A L L A M B A N G. it's a city in East Sumatra. remember that's the other place in Sumatra that does the songket. <U WHO="S2"> okay </U> so the places that do songket are Sumatra and a- er- Palambang area and Minangkabau which we looked at, <U WHO="S2"> mhm </U> and also Bali. but what's interesting is they all do a form of ikat too but, where would they do weft ikat alone with songket? i have seen contemporary versions in Palambang. so you wanna compare and contrast, um motifs and um sizes that kind of thing colors, of both Bali and and Sumatra, to see if that l- leads you anywhere. </U>
+			<U WHO="S2"> mkay </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> so the books that deal with generally, Indonesian textiles, Sumatran textiles Balinese textiles are all over surveys of Southeast Asia, and just float through and look for the Indonesian sections. <U WHO="S2"> okay </U> that'll, that'll give you some clues. </U>
+			<U WHO="S2"> okay. and mos- i mean do you think we'd be able to, get enough out of the stuff that's on reserve? or would we be going like way beyond that? </U>
+			<U WHO="S1"> um i- it might help if you go beyond that, but i would start in the reserves. <U WHO="S2"> okay </U> yeah, for sure. </U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S1"> mkay? and you could i m- remember if you do a MIRLYN search, <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> if you do a </OVERLAP> a an a subject search you may get completely different answers than if you do a a a keyword <U WHO="S2">
+					<OVERLAP> keyword? </OVERLAP>
+				</U>
+				<OVERLAP> search. </OVERLAP> and remember keyword um you might find something on songket i haven't looked that up yet. <U WHO="S2"> okay </U> but <OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and you </OVERLAP> can specify the library can't you? </U>
+			<U WHO="S1"> hm? </U>
+			<U WHO="S2"> i think you can specify the library, too? oh maybe not. </U>
+			<U WHO="S1"> oh in the search? </U>
+			<U WHO="S2"> in MIRLYN. </U>
+			<U WHO="S1"> yeah but don't specify the <OVERLAP> library </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U> because there are some textile books not in fine arts, but over in Hatcher. </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> so, but you'll probably stick between Hatcher and here. </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S2"> great </U>
+			<U WHO="S1"> just have fun with it. </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> alrighty? okay. </U>
+			<U WHO="S2"> thank you. </U>
+			<U WHO="S1"> yep. see you tomorrow. </U>
+			<U WHO="S2"> yep. </U>
+			<U WHO="S1"> only one more week. ahh </U>
+			<U WHO="S2"> i know... so fast. </U>
+			<EVENT DUR="2:10" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S3"> how are you today? </U>
+			<U WHO="S1"> good how 'bout you? </U>
+			<U WHO="S3"> not too bad the sun is out <EVENT DESC="LAUGH"/> for a change. <OVERLAP> what could </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, we may </OVERLAP> have summer after all. </U>
+			<U WHO="S3"> what could be p- a problem? this is so beautiful the minute you brought this out i thought oh gosh i have to know something about that, textile. (xx) </U>
+			<U WHO="S1"> okay well obviously we're looking at the back side <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> here, </OVERLAP> and if you'd like to put it down on the floor to take photographs and measure that's fi- oh <U WHO="S3">
+					<OVERLAP> perfect </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> and she's prepared. </OVERLAP> great. <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> great </OVERLAP> thanks and it's a songket right? </U>
+			<U WHO="S1"> well, we have different techniques <U WHO="S3">
+					<OVERLAP> oh wait a minute, yeah </OVERLAP>
+				</U>
+				<OVERLAP> right? so let's look more closely </OVERLAP> oops, the problem with this, is these edges, <U WHO="S3"> edges </U> are constantly grabbing things. so what do we see here? <OVERLAP> you must recognize this. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay, yes </OVERLAP> we've got all of this lovely work with the with the metal and uh, <U WHO="S1"> mhm </U> that looks like a lace <U WHO="S1">
+					<OVERLAP> it's called crochet </OVERLAP>
+				</U>
+				<OVERLAP> my gosh that's very complicated </OVERLAP> yeah, that's really </U>
+			<U WHO="S1"> so we have <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> songket, </OVERLAP> we have this odd crocheted border, and you'll note, i mean look that there's different ways that it was attached <U WHO="S3"> mhm </U> different threads. so, um, my guess it was obviously added, later, but we don't know how late. and then what we have in the center field </U>
+			<U WHO="S3"> oh okay so now we have an ikat. </U>
+			<U WHO="S1"> mhm and then <U WHO="S3">
+					<OVERLAP> that's interesting. </OVERLAP>
+				</U>
+				<OVERLAP> when you when you look at an ikat, </OVERLAP> are you thinking, um, what type of ikat? so that's important to know. is it warp? is it weft? is it double? </U>
+			<U WHO="S3"> well i can see that it's not double. i am thinking_ okay i'm always confused with the w- the warp and the weft. <EVENT DESC="LAUGH"/>
+				<U WHO="S1"> mhm </U> which is the one that goes across? </U>
+			<U WHO="S1"> well now we know that songket right? <U WHO="S3"> yes </U> we know that songket is a supplementary weft <U WHO="S3">
+					<OVERLAP> okay, okay </OVERLAP>
+				</U>
+				<OVERLAP> technique right? </OVERLAP> so the threads are being put in this way so that pretty much <OVERLAP> tells you </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> so, </OVERLAP> that would be a weft? </U>
+			<U WHO="S1"> right. <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and the weft </OVERLAP> threads are the ones that are creating these selvages. <U WHO="S3">
+					<OVERLAP> okay oh that's right </OVERLAP>
+				</U>
+				<OVERLAP> remember? these self, </OVERLAP> woven <U WHO="S3">
+					<OVERLAP> edges </OVERLAP>
+				</U>
+				<OVERLAP> edges? </OVERLAP> so when you get a chance to look at a textile really closely that's your clue there. so then, you can look at the ikat and sort of try and tell how were the threads actually tied and dyed to give you an idea. <PAUSE DUR=":05"/> and you can use this magnifying glass if you like. <PAUSE DUR=":05"/> start with the back of the songket, and then the front <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> of the </OVERLAP> ikat. <PAUSE DUR=":25"/> also the fringe, if you can tell that it's been twisted out of, the textile itself and not just tacked on <U WHO="S3">
+					<OVERLAP> oh, right </OVERLAP>
+				</U>
+				<OVERLAP> later, </OVERLAP> those will be the warp threads. </U>
+			<U WHO="S3"> oh, okay. <U WHO="S1"> okay? </U> that's very interesting because, it makes it a little bit easier, to think about, how the textile might've been made if you know that <U WHO="S1">
+					<OVERLAP> mhm, mhm </OVERLAP>
+				</U>
+				<OVERLAP> and i didn't. </OVERLAP> interesting, okay. <PAUSE DUR=":19"/> i'm also interested in this little bit of um, oh i wouldn't really say purple but maybe indigo or something <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> that keeps </OVERLAP> popping up here, <U WHO="S1"> mhm </U> are these_ would you, in looking at this textile, ascribe meaning to the different colors? a- a- as we've done, we've seen sometimes in class, that certain groups used certain colors, and even certain colors for certain o- occasions or </U>
+			<U WHO="S1"> yeah, uh w- when you start thinking about color <U WHO="S3"> mhm </U> in this context, i guess you would want to start off by, certainly describing the main body <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> of the color, </OVERLAP> so you have the two ends, that are a solid color with this supplementary, weft, <U WHO="S3"> right </U> of the the the metal, and then you have this what's called a center field, <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> mhm, </OVERLAP> of this ikat, and you're gonna decide is it weft? is it warp? is it double? by looking at it closely, and then um, you could describe the body of the of the the background <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> color, </OVERLAP> and on the other colors and probably, you know in some proportion, what you'd_ what do you see creating the main liner- linearly, linear, or curvilinear, <U WHO="S3"> mhm </U> aspects <U WHO="S3"> mhm </U> to this pattern? and then what do you see as what you're saying popping up are accent colors. and can you tell what color was laid down, first, if you look closely, at the material? how do you think they went about <U WHO="S3">
+					<OVERLAP> oh that's interesting. </OVERLAP>
+				</U>
+				<OVERLAP> making this, </OVERLAP> resist and then dye and then change the resist and dye again. so if you had to do that, you can sort of, start to figure out how it was plotted out and and made, color onto what color. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> well it seems to me, <U WHO="S1"> hm? </U> in in looking at this and i, uh i'm thinking that... it would make sense to do these indigo colored areas first, and either that's right or i've got it totally backwards because that's what they have the least of. <U WHO="S1"> mm, <OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> i don't know what do y- uh does that sound reasonable to <OVERLAP> you? or </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well then look </OVERLAP> at what, what's next to the indigo. </U>
+			<U WHO="S3"> right, this_ and do you think this is faded or do you think it was, always kind of this uh, pale orangy, yellow, or might this have been a gold thread at one time? </U>
+			<U WHO="S1"> well, yeah it's one of those colors now that um, with age it could have oxidized a bit, <U WHO="S3"> okay </U> or it could be_ one of the ways to tell, um i- it it co- i, it could be the natural silk color, <U WHO="S3"> mhm </U> but i tend to doubt, that it would have such a peachy tone, <U WHO="S3"> right </U> but you're right it could be age or it could_ and i- and it could be just the bare natural silk, and then what did we w- what t- can we surmise then? that they had to, make these resists, to keep that <U WHO="S3">
+					<OVERLAP> ah yes, okay </OVERLAP>
+				</U>
+				<OVERLAP> the original color, before </OVERLAP> they did the the overdyeing, <U WHO="S3"> right </U> of the other colors. <U WHO="S3"> so </U> so then when you look at that, i would surmise that it's easier to lay in, because the bulk of those lines <U WHO="S3"> mhm </U> are that, light color, <U WHO="S3"> right </U> but that was either dyed first to give structure to the pattern, <U WHO="S3"> mhm </U> or was left as a resist, free of dye, to give structure, and then the other colors were, <U WHO="S3"> okay </U> built in. but have you decided, is it weft? is it double? is it </U>
+			<U WHO="S3"> i think it's weft. </U>
+			<U WHO="S1"> okay good. </U>
+			<U WHO="S3"> because if it were double it would be identical on the reverse side correct? when they're double aren't they the same? </U>
+			<U WHO="S1"> they are the same <OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay, </OVERLAP> alright, then i think it's weft. <U WHO="S1"> mhm </U> and, what you just said about this peach color, maybe being the first color makes, actually perfect sense when you look at it and see that this, the red tones, <U WHO="S1"> mhm </U> the way the red tones intermingle with all of the other colors, <U WHO="S1"> mhm </U> um, that there are some of these peach areas that have red over them, <U WHO="S1"> mhm </U> and so, </U>
+			<U WHO="S1"> and the green areas <OVERLAP> too. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yes, </OVERLAP> and so to me that means that, the red, oh and even, well this is a little bit tricky in this this, bluish area because it's hard to know </U>
+			<U WHO="S1"> remember when i- they're lying_ and and this i- doesn't have to be a big focus <U WHO="S3">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> unless </OVERLAP> that's the f- the aim that you wanna take <U WHO="S3"> mhm </U> is the dyeing and the dyeing methods of a textile, cuz you can take any angle <U WHO="S3">
+					<OVERLAP> right, right </OVERLAP>
+				</U>
+				<OVERLAP> that you want with these </OVERLAP> um, you could think about the fact that w- and i- you could do some reading on dyeing, <U WHO="S3"> mhm </U> but you'll see that, when they they are lying in c- putting in color, that they're, tying the resists and then they're dipping and sunning and dipping and sunning so you actually have a chance to arrest, a color <U WHO="S3"> okay </U> at a certain depth, <U WHO="S3"> oh, okay </U> and then go deeper with other parts, with the same color, to give you a different effect. so when you start thinking about, um dyeing_ you've worked with a lot of photographic, <U WHO="S3"> yes <OVERLAP> yes, yes </OVERLAP>
+				</U>
+				<OVERLAP> uh techniques </OVERLAP>
+			</U>
+			<U WHO="S3"> and i've done, tinting of <OVERLAP> photographs dyeing of photographs so </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm, mhm, </OVERLAP> and so you realize that there's a lot you can do with a color, to create different hues of that color. and that's exactly what happens when you're dealing with these natural dyes, <U WHO="S3"> okay </U> so you can actually get a <U WHO="S3">
+					<OVERLAP> ahh, </OVERLAP>
+				</U>
+				<OVERLAP> very pale blue, </OVERLAP>
+				<U WHO="S3"> yes </U> to go over, <U WHO="S3"> mm </U> this natural yellowy color, to give you this color and then keep dyeing, to get a deeper, indigo. <U WHO="S3"> mhm, okay </U> and you can look at um, indigo i think we have some books on indigo dyeing, in this library, <U WHO="S3"> okay </U> but if you're interested in that aspect of it </U>
+			<U WHO="S3"> well it's it's very interesting to me for a number of reasons i'm really curious about, the ways in which dyes and colors were used <U WHO="S1"> mhm </U> the methods i, wasn't a fibers major and i've just done the sort of typical at home dyeing in your, <U WHO="S1"> (plant,) yeah </U>
+				<EVENT DESC="LAUGH"/> in a (xx) an old pot or a plastic tub or something <U WHO="S1"> mhm </U> but i think, i think it's very interesting to note technique and i'm thinking that if you, understand something about the technique, you might be able, to understand something about the time frame although i know that if this <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> is a, </OVERLAP> tradition that's passed on <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and the </OVERLAP> methods remain the same, <U WHO="S1"> mhm </U> then that might make dating it <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> through </OVERLAP> the knowledge of the dyeing technique a little iffy. </U>
+			<U WHO="S1"> but the other thing to go on is less technical <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> you can look at the color and compare it to_ and and hoping that you're looking at true to c- <U WHO="S3"> right </U> true color photographs, <U WHO="S3"> mhm </U> but obviously compare it and see, are we looking at, um an item, that has a you know, that has a resemblance to the colors that were popular, in the early twentieth century or late nineteenth century or whatever th- you'll find though that that most textile historians will resist dating. it's very difficult. </U>
+			<U WHO="S3"> well that was the question i had for you i i'm wondering if you, have thoughts on how old it is or </U>
+			<U WHO="S1"> well look at the wear and tear, <U WHO="S3"> yeah </U> oh and before i forget, <U WHO="S3"> oh okay </U> that is um just a <U WHO="S3">
+					<OVERLAP> great thank you. okay </OVERLAP>
+				</U>
+				<OVERLAP> cheat sheet for, pointers </OVERLAP> for the final project and i'll be handing these out <U WHO="S3">
+					<OVERLAP> great thanks </OVERLAP>
+				</U>
+				<OVERLAP> tomorrow in class but, </OVERLAP> if you're gonna get started today <U WHO="S3">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> thinking </OVERLAP> about it, you <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> wanna think </OVERLAP> about that. when we look at the larger piece, and this is something you wanna think about in um, researching any kind of older, uh artifact, is the <U WHO="S3">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> types of wear </OVERLAP> and tear that you see, <U WHO="S3"> mhm </U> and does that tell you anything, where we have, these problems with the dye, whether it was, you know, hit with bleach, or a lot of this wear that you'll see, and a lot of fraying. this will all give you_ tha- you know, in a deep deep study <U WHO="S3"> mhm </U> of the textile, this could give you a lot of information, and you could start to actually scientifically figure out, does that mean it was wrapped in a certain way around the body? <U WHO="S3"> mhm </U> i think it would be pretty difficult for us to attempt it, in a short little paper, <U WHO="S3"> yeah </U> but you know if you were doing a dissertation, y- you could you could certainly go further. you can look, at the accuracy of the ikat, and surmise something about the weaver, you can look at the motifs, and see if you can see a prevalence um, of this motif, in either obvi- obviously i collected this in Bali <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> you'll see similar more contemporary pieces in um, Palambang P A, L A, M <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> B A N G </OVERLAP> and that's in East Sumatra. so what's interesting is on both sides of Java you have these two islands, <U WHO="S3"> ah </U> that do songket, and also uh ikat. so where can we find, these long textiles that use the combination, to decide where it, where it ca- comes from? <U WHO="S3"> mhm </U> because having found it on Bali means nothing <U WHO="S3">
+					<OVERLAP> right, right </OVERLAP>
+				</U>
+				<OVERLAP> cuz that's the big marketplace, </OVERLAP> so you have to dis- dissuade <U WHO="S3"> mhm </U> yourself from saying oh this must be <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> Balinese. </OVERLAP> but it v- could very well be or it could've been used there for many years, and brought f- in from somewhere else. </U>
+			<U WHO="S3"> it's interesting too to note these these uh, tears in the the fabric or these holes in the fabric some of these, look to me more like, uh natural wear over the course of time <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> or maybe </OVERLAP> a moth or something, whereas these kinda look like cigarette burns. <EVENT DESC="LAUGH"/>
+				<OVERLAP> so it's really, it's hard to tell </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> ah, but also, to f- if you </OVERLAP> feel this, <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and see </OVERLAP> how easily this s- stuff is to pick up it's, it was uh <U WHO="S3">
+					<OVERLAP> ah </OVERLAP>
+				</U>
+				<OVERLAP> unfortunate that </OVERLAP> they decided to put this, these pieces of uh, of scratchy, <U WHO="S3"> yes </U> silver metal, </U>
+			<U WHO="S3"> onto the side </U>
+			<U WHO="S1"> into the sides. so it could've been too, if you think about it, the way it was folded, <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> in on itself and stored, </OVERLAP> do you wanna stretch it out here <OVERLAP> on the floor? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yes i'd love </OVERLAP> to thanks. </U>
+			<U WHO="S1"> if we just go carefully and lay it out here on the floor, you should be able to <OVERLAP> get a good shot of it. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> great, </OVERLAP> thank you. </U>
+			<U WHO="S1"> hi. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> hate to, step on anything <EVENT DESC="LAUGH"/> (xx) my shoes so </U>
+			<U WHO="S1"> yeah it's automatic failure. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah well i was gonna say i don't know which is worse <EVENT DESC="LAUGH"/> to take your shoes off, take the risk but i'm going with the taking 'em off of the shoes. </U>
+			<U WHO="S1"> and it's nice to have photographic records of these because you can, study the motifs at leisure too and be able to compare. <U WHO="S3">
+					<OVERLAP> and fortunately i have a </OVERLAP>
+				</U>
+				<OVERLAP> you're able_ if you </OVERLAP> want to jump up on the, <U WHO="S3">
+					<OVERLAP> great thanks </OVERLAP>
+				</U>
+				<OVERLAP> t- on on the desk tha- </OVERLAP> whatever, <OVERLAP> works for you. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well that's what i </OVERLAP>
+				<EVENT DESC="LAUGH"/> was going to do and i feel <U WHO="S1">
+					<OVERLAP> oh, </OVERLAP>
+				</U> bad <OVERLAP> cuz </OVERLAP> i wasn't <U WHO="S1">
+					<OVERLAP> oh good the chair </OVERLAP>
+				</U>
+				<OVERLAP> cuz i didn't even atch ask but i </OVERLAP> have a camera that'll let me have a panoramic shot, </U>
+			<U WHO="S1"> oh excellent. <U WHO="S3">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> okay. </OVERLAP> whatever works... </U>
+			<U WHO="S3"> i could probably photograph it in three different, passes here. oh sorry <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> oh no no no. you're <EVENT DESC="LAUGH"/> very engrossed take your time. </U>
+			<U WHO="S3"> it's really a great textile. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> Emily if you wanna hop, over, <EVENT WHO="S3" DESC="LAUGH"/> while Janet does some sh- photographs maybe i can get you started, <U WHO="S4">
+					<EVENT DESC="LAUGH"/> okay </U> and i'm sorry if i if if i um, blanked on your email, <U WHO="S4"> oh no <OVERLAP> i'm </OVERLAP>
+				</U>
+				<OVERLAP> i've </OVERLAP> been trying to keep track of people and i asked people to sign up and tell me which one, <U WHO="S4"> oh </U> so i'm sorry. </U>
+			<U WHO="S4"> honestly it's fine i really like i'll admit i have no real, knowledge of how to do this so i m- <U WHO="S1"> okay </U> any textile really </U>
+			<U WHO="S1"> okay will <OVERLAP> set you straight. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> will, </OVERLAP> exactly and <OVERLAP> i i'd actually looked forward to it. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, so here is </OVERLAP> um, just sort of a, a tip of pointers of things that i want you to consider, um and incorporate into the paper. um different angles that you can think about. and um, i guess what i'd like you to do, is, um choose something that at least sparks your interest, <U WHO="S4"> okay </U> just, just visually appeals to you. <U WHO="S4"> okay </U> cuz who wants to work on something that's, boring <EVENT WHO="S4" DESC="LAUGH"/> uninteresting to you <U WHO="S4"> okay </U> so i i know i quickly looked through, my list to figure out who had what today and brought in those pieces, and i, i kept thinking do i wanna bring that batik in? and then i thought no i can't remember what Emily_ she must want to see me about, a museum piece. <EVENT WHO="S4" DESC="LAUGH"/> okay. so what i have here today is this songket ikat, <U WHO="S4"> okay </U> the um, piece of batik that i brought in from Thailand, that i that i found in Thailand and i can tell you it is, from one of the minority tribes, that lives there. this is a um, ikat, from Timor, <U WHO="S4"> mhm </U> (another one) that's been in the news, and this is, a woman's, sarong with a_ multiple, techniques, uh from also from a part of Timor. so you could, do some work on um, motifs or, textile styles, um try and figure out, what its social uses were and so forth. </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> mkay? </U>
+			<U WHO="S4"> mhm. i actually </U>
+			<U WHO="S1"> oh (xx) </U>
+			<U WHO="S3"> okay no no sit i just wanna get, <U WHO="S4"> okay </U> i wanna put something by one of these holes so i can have an idea of the scale later. (xx) i'm looking <OVERLAP> for a dime. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and don't </OVERLAP> forget you wanna measure it too. </U>
+			<U WHO="S3"> oh yes <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S4"> um, i think initially i wanted to do that but actually i think that this one, is a little more interesting, than this <OVERLAP> it's not like_ are you_ okay so this one? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> sure. up to you </OVERLAP> the the sarong? </U>
+			<U WHO="S4"> mhm </U>
+			<U WHO="S1"> okay good. </U>
+			<U WHO="S4"> okay </U>
+			<EVENT DUR=":36" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S4"> okay. and this is from </U>
+			<U WHO="S1"> the island called Timor, <U WHO="S4"> yes </U> that was in the news. and the p- problem that you'll have is, in looking through books of Indonesian textiles and also don't forget to look at the books, that concerns all of Southeast Asia cuz they're going to have sections, um i- with a lot of photographs on t- i- textiles, you'll wanna try and figure out where in Timor cuz there's m- many different groups. remember when we looked at the groups in Flores, <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> we looked </OVERLAP> at the Mangarrai people and even just in that little western section of the island there were two different groups with very different attitudes about textiles. so see if that, um, gets you any closer as to where, uh in Timor. <U WHO="S4"> okay </U> okay? or, if they're wrong completely and it's not Timorese where might it be? if there's if you see something, that looks closer, from another little island. because Timor, like the problem that Janet has is i bought that in Bali but Bali's the big marketplace <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> so is it </OVERLAP> Balinese or was it brought in from another island? Timor is one of those districts where there's a a big market there too. so if someone says it comes from Timor did it come from Timor, or did it come from a little island, nearby? so it it it helps if you look, more widely, at a lot of photographs to see if you can find a relationship. <U WHO="S4"> okay </U> to get you closer. so once you've described the the object, <U WHO="S4"> mhm </U> um then you'll wanna figure out what its social context is. <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and see </OVERLAP> what you can learn from that. and then you can choose angles like you know, symbolic significance <U WHO="S3">
+					<OVERLAP> pardon me, i'm sorry </OVERLAP>
+				</U>
+				<OVERLAP> or or some kind of other </OVERLAP> function, <U WHO="S4"> okay </U> okay? </U>
+			<U WHO="S4"> so, you want us to determine where it's from based on how it's made and then w- the motifs found on it? is <U WHO="S1">
+					<OVERLAP> that's </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> how you think we'll d- we'll figure it out? </U>
+			<U WHO="S1"> usually yeah. it's like fi- finding the point of what's called the provenance of of an artifact. and what you usually have to go on are style and motif and color and technique and size and shape, and see how close you can get with other similar objects that are, truly have been identified as, coming from a certain place from made by a certain people. and that will give you, get you closer to understanding the social context. if you can't get, that close, you can step back and then say well, but we do know, it's a woman's, <U WHO="S4"> mhm </U> tube dress, normally called a sarong. and go from there. and we know, you know you can decide, how it's made, how many bandings did it take, how many types of weaving, went into it that sort of thing. <U WHO="S4"> okay </U> to sort of get you somewhere with the piece, even if you can't get completely <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> to the </OVERLAP> the end result that you wanted to in this brief amount, of time to do, a small research. at least it gets you started and working and considering and thinking about, one particular artifact or artwork. <U WHO="S4"> okay </U> okay </U>
+			<U WHO="S4"> okay, so first, </U>
+			<U WHO="S1"> so, i've got a microscope here. um, if you don't have measuring tape you're lucky cuz Janet does. </U>
+			<U WHO="S4"> i have a ruler, <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> cuz my measuring tape disappeared. </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> (xx) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> i wish i_ oh no this is fine. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> okay, um so </OVERLAP> i- you know. <U WHO="S3"> just </U> feel free, <EVENT WHO="S4" DESC="LAUGH"/> to inspect. i don't care if you touch these as long as you're careful with them and don't get ink on them or </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> yeah <PAUSE DUR=":17"/> i'll start. </U>
+			<PAUSE DUR=":44"/>
+			<U WHO="S3"> i think what's between the stitching is very interesting on this too. <U WHO="S1">
+					<OVERLAP> what's that? </OVERLAP>
+				</U>
+				<OVERLAP> gold </OVERLAP> the gold thread with the_ it looks like it was repaired with the black thread </U>
+			<U WHO="S1"> mhm. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> uh'oh </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> (was there something for us to know) (xx) </U>
+			<U WHO="S1"> (xx) </U>
+			<U WHO="S4"> okay <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> it's the hazards of, not having these in a museum collection. </U>
+			<U WHO="S3"> how do you store them at at home? </U>
+			<U WHO="S1"> um, as best i can <EVENT WHO="S3" DESC="LAUGH"/> without, any archival material that, <U WHO="S3"> yeah </U> i would really n- hopefully someday. </U>
+			<U WHO="S3"> do you have to, i imagine be mindful of the temperature and <U WHO="S1"> mhm mhm </U> yeah <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> keep </OVERLAP> them out of sunlight. <U WHO="S3"> right </U> notice how this, side here has been faded, and this side here has not? <U WHO="S3">
+					<OVERLAP> ohh </OVERLAP>
+				</U>
+				<OVERLAP> so that gives you an </OVERLAP> idea of how it was it was used in the culture, and they were careful to sun, when it's drying only, this portion here. so it would be faded and hung out, and dried in, usually they try and dry it in the shade <U WHO="S3"> mhm </U> but if it, it did get any kind of sun damage it's usually contained, by this certain area. so they can keep the bright colors as best they can. </U>
+			<U WHO="S3"> (wow.) very interesting. lemme just grab my, camera case that's okay you don't have to move (for me.) thank you. </U>
+			<EVENT DUR=":07" DESC="RECORDING-RELATED QUESTION"/>
+			<U WHO="S1"> and i will be available the week in between the fourteenth and the <U WHO="S3">
+					<OVERLAP> oh great, okay </OVERLAP>
+				</U>
+				<OVERLAP> twenty-first so, </OVERLAP> if you're desperate to see it again <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and, </OVERLAP> or talk to me, <U WHO="S3"> oh great </U> just give me an email. </U>
+			<U WHO="S3"> great thank <OVERLAP> you very very much </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay? alright </OVERLAP>
+			</U>
+			<U WHO="S3"> should i just uh drop this <OVERLAP> where when i'm finished? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh you </OVERLAP> can just give it to me. </U>
+			<U WHO="S3"> okay i'll go out here so <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> Emily </OVERLAP> can work and i'll bring it back. </U>
+			<U WHO="S1"> thanks. </U>
+			<U WHO="S3"> sure, thank you. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> are these like individual motifs or would you say they're more border patterns? </U>
+			<U WHO="S1"> th- the stripes? </U>
+			<U WHO="S4"> mhm </U>
+			<U WHO="S1"> i would say they're stripes but, this um s- this stripe within the stripe? <U WHO="S4"> mhm </U> why don't you use this </U>
+			<U WHO="S4"> ooh </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> is it turned the right way? </U>
+			<U WHO="S4"> y- i don't_ yes. </U>
+			<U WHO="S1"> okay... </U>
+			<U WHO="S4"> well they're, it's definitely something cuz <OVERLAP> they're not </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so is it_ </OVERLAP> what you wanna determine is it woven or is it dyed? is it_ how is it made? cuz that might help. <U WHO="S4">
+					<OVERLAP> it looks like it's </OVERLAP>
+				</U>
+				<OVERLAP> cuz you </OVERLAP> do have some vertical </U>
+			<U WHO="S4"> it looks like it's dyed. </U>
+			<U WHO="S1"> dyed as opposed to a thread going across </U>
+			<U WHO="S4"> mhm </U>
+			<U WHO="S1"> mkay. so then that would be called ikatted, right? <U WHO="S4"> mhm </U> very simple, but yeah. <U WHO="S4">
+					<OVERLAP> but </OVERLAP>
+				</U>
+				<OVERLAP> and, </OVERLAP> then if you can tell how many threads it looks like two from, here but i'm not looking through the scope. </U>
+			<U WHO="S4"> yeah it's definitely, on the yellow one it's two. <U WHO="S1"> mhm </U> but then the orange one is definitely <OVERLAP> woven in. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> larger </OVERLAP> ahh, <U WHO="S4"> i th- </U> so then there's technique here then there's a plain weave here with the stripe and then there's this this uh sort of semi plaid that's going on here or check. <U WHO="S4"> mhm </U> and then you have, what could this be? if you look on the back. see how that is sort of the mirror of the the reverse? so you have the dark on the light, and here you have the light on the dark? <U WHO="S4"> mhm </U> so that gives you an idea that it's a supplementary, weft going_ or a, weft or warp? weft. </U>
+			<U WHO="S4"> okay and you know it's a <U WHO="S1">
+					<OVERLAP> (create) </OVERLAP>
+				</U>
+				<OVERLAP> weft </OVERLAP> cuz they're the, horizontal? </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S4"> okay. </U>
+			<U WHO="S1"> oh no <U WHO="S4">
+					<OVERLAP> oh no no no </OVERLAP>
+				</U>
+				<OVERLAP> i'm sorry. </OVERLAP> that would be the warp right? <U WHO="S4">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> cuz here </OVERLAP> we've got the band, going in which direction? it'd be going this way. <U WHO="S4"> mhm </U> so that would be your warp thread, right? because here's your selvage here. and then we have this seam, so you have this band, then sewn, and woven, here so it's a- actually woven and what would you imagine this is? </U>
+			<U WHO="S4"> warp? fa- </U>
+			<U WHO="S1"> right so here you have one warp band this way, so this is a supplementary, warp, here. and then you have the plain weave, <U WHO="S4"> mhm </U> and then you have the ikat, and then you have this checked weave, <U WHO="S4"> wow </U> and then you have <OVERLAP> ikat. </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> ikat? </OVERLAP> and then that? </U> and then up to here and then you have a seam, so you have, one band of multiple techniques. and on this band_ and see if you can figure out is this, a supplementary warp? is it, supplementary weft? is it, uh tapestry? is it uh, embroidery? you'll just have to study it now and then and then read a little bit up on the different techniques Timor, is an island no- known for its uh multitude, for incorporating a multitude of techniques. <U WHO="S4"> yeah </U> in each of their pieces. <U WHO="S4"> wow </U> so the the closer you look at these the more you see. <U WHO="S4"> yeah </U> that went into them. <U WHO="S4"> wow </U> so you have then this banding, <U WHO="S4"> is it_ and then </U> this banding, <U WHO="S4"> and its the same <OVERLAP> it looks like </OVERLAP>
+				</U>
+				<OVERLAP> and then you </OVERLAP> have a duplicate. and are they the same proportions on either side sometimes you can tell is there m- meant to be one a waist band or, or are they the same? </U>
+			<U WHO="S4"> it looks like this one is bigger. </U>
+			<U WHO="S1"> mhm. so you have a different scale. </U>
+			<U WHO="S4"> but then the others do appear to be the same. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the (xx) </OVERLAP>
+			</U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S1"> yeah. hm </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S4">
+				<OVERLAP> how would_ mhm </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what's interesting too </OVERLAP> is, this is a different, height. </U>
+			<U WHO="S4"> yeah </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> which is interesting. </U>
+			<U WHO="S4"> so would that be where you think they rolled it? to leave room for <OVERLAP> the roll? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i frankly </OVERLAP> don't know how to explain that that's quite a bit of, <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> difference </OVERLAP> that's about an inch and a half. what_ uh i- is the bottom like that? is it meeting at the seam? </U>
+			<U WHO="S4"> no, the bottom also has a difference in it. </U>
+			<U WHO="S1"> so... so this could be, here you start out, and as the weaver wove, it got wider cuz they were pulling less hard, on the selvage here in the weft threads, and that, was, here, and then as they came down to the end it got tighter, so it became smaller again. see how the this sort of, pulls in and curves? <U WHO="S4"> mhm </U> so that means, when she's manipulating the loom, because it's just the simple, backstrapped hand loom, and it will b- and she probably wasn't really practiced at, keeping the selvage_ there's certain things that you can do to keep that selvage, even. but that's a good way of telling that these two were actually in the same, warp length. so this probably matched, this and then once you put on, and cut, <OVERLAP> into two parts </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so that's how, </OVERLAP> she would have to cut it down the middle? </U>
+			<U WHO="S1"> right. so in other words she's she's weaving something, like, this, right? <U WHO="S4"> mhm </U> and as she's weaving because these these warp threads are are like strung on here, <U WHO="S4"> mhm </U> and then she's stringing, she's weaving the weft in. and depending on how hard she throws the <U WHO="S3">
+					<OVERLAP> pardon me </OVERLAP>
+				</U>
+				<OVERLAP> shuttle </OVERLAP> and goes back, it will_ </U>
+			<U WHO="S3"> there you go. <OVERLAP> thank you. see you tomorrow. bye </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> thank you alright see you tomorrow. </OVERLAP>
+			</U>
+			<U WHO="S3"> see you Emily </U>
+			<U WHO="S4"> bye </U>
+			<U WHO="S1"> um, will give you a different width, <U WHO="S4"> mhm </U> slightly, depending on how skilled the weaver is. and then once she finished at this wide point, she decided to cut it in half and then do this one banding and the other, second banding. so that's that would be my guess. and then it that_ so then it makes it a little bit simpler when you think about, this. but then you have, this also is a different, <U WHO="S4">
+					<OVERLAP> those don't (xx) those don't meet </OVERLAP>
+				</U>
+				<OVERLAP> depth too she had to, </OVERLAP> fit that and this doesn't meet here. <PAUSE DUR=":05"/>
+				<U WHO="S4"> bu- </U> it's on this side. <U WHO="S4"> yeah </U> there's a little slight difference here. hi Amy. </U>
+			<U WHO="S5"> hi </U>
+			<U WHO="S1"> let's get you started, uh out there. you wanted to work with the Balinese piece. </U>
+			<U WHO="S5"> yeah can we photograph them? </U>
+			<U WHO="S1"> yes, <U WHO="S5"> okay </U> we can. so why don't you help me, lay this out here, while Emily works on her <PAUSE DUR=":05"/> (xx) make sure the edges (xx) <PAUSE DUR=":10"/> and if you wanna stand up on that chair that might give you a, a better advantage to getting the larger piece. <U WHO="S5"> oh </U> yeah <PAUSE DUR=":15"/> and let me give you this, everyone who's coming in today, will get this earlier. um, some items to think about when you're doing this research paper okay? </U>
+			<U WHO="S5"> okay <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S1"> also give you a chance to think about questions you might have in class tomorrow. </U>
+			<U WHO="S5"> yeah. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S4"> do you want us to go so in detail in the disser- description that we talk about how, the stripes increase and decrease? </U>
+			<U WHO="S1"> i think you need to decide what you want to spend your time on. we're only doing three four pages. <U WHO="S4"> yeah </U> so i think do, the description as best you can, in proportion to this size of a paper. </U>
+			<U WHO="S4"> okay but every single thr- thread, not you ca- you just can't. <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> not unless </OVERLAP> you wanna do a dissertation. </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> exactly, okay </U>
+			<U WHO="S1"> i think you wanna, wanna keep it in perspective here. <U WHO="S4"> okay </U> i mean noting that they vary in in number, <U WHO="S4">
+					<OVERLAP> and f- </OVERLAP>
+				</U>
+				<OVERLAP> would be, </OVERLAP> could be of of import if if you find that they say it's auspicious to have a variable number of threads or you find that someone starts talking about, stripes, and the number of stripes meaning something, <U WHO="S4"> mkay </U> that you could tell it was for a woman that had um, one child or two children depending on how many you know mid stripes, i don't know if you find something of that in your research than you'd say oh, i wish i'd counted <U WHO="S4"> mhm </U> so sometimes doing a little more specific n- no- taking notes on a piece, you may or may not use it all, in the paper you may_ or not find that it's it's worthwhile. i'm not gonna wanna read, <EVENT WHO="SS" DESC="LAUGH"/> minute details unless they have <U WHO="S4">
+					<OVERLAP> importance, okay </OVERLAP>
+				</U>
+				<OVERLAP> a lot of im- yeah importance </OVERLAP> for the rest of the paper. </U>
+			<U WHO="S4"> i feel like this is so_ God i don't, know where to start but i'm getting better. <OVERLAP> i'm getting a better idea. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, well and </OVERLAP> read this over <OVERLAP> too </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U> and and then try and plot it out. </U>
+			<U WHO="S4"> can i come back if i find that i <OVERLAP> didn't do, extensive enough </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. yes. </OVERLAP> and i i'll be here that week um, i_ you can just email me and i'll meet you, <U WHO="S4"> oh okay </U> between the fourteenth and the twenty-first. <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so y- </OVERLAP> yeah so, next week even though we don't have any <OVERLAP> class, yeah i'll be available. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yes you'll still be here okay </OVERLAP> cuz, yeah i'm gonna be out of town Thursday through <EVENT DESC="LAUGH"/> Sunday. </U>
+			<U WHO="S1"> okay, no problem. </U>
+			<PAUSE DUR=":13"/>
+			<U WHO="S4"> and these are upstairs? the books? </U>
+			<U WHO="S1"> yeah you're gonna find if you do a s- a MIRLYN search you can start with the research books on on reserve here, <U WHO="S4"> mhm </U> but you'll also find that there are more books in the stacks in the fine library and also you if you do a MIRLYN search you'll find that some of them are also at Hatcher at the grad library. <U WHO="S4"> okay </U> okay? so you'll wanna look at Indonesian textiles you'll wanna look at um, also Southeast Asian textiles. but if you start with the reserve books and look at their bibliographies if you want to find other people that have written on the topics, that's a good place to start. <PAUSE DUR=":06"/> is this a digital camera? <OVERLAP> or, (it looks) so tiny </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> no, that's just a, </OVERLAP> just a regular cheap thirty-five millimeter. <U WHO="S1"> okay </U> yeah, i wish i had a digital. <EVENT DESC="LAUGH"/>
+				<EVENT WHO="S4" DESC="LAUGH"/> mhm, okay </U>
+			<PAUSE DUR=":28"/>
+			<U WHO="S4"> if it's ikatted, you wouldn't be able to tell the difference in between the strings or would you? because i said i thought that this was initially but then looking at it closely it looks like there is blue, thread actually stitched. </U>
+			<U WHO="S1"> take a look on the other side and see what you see. a lot of times what you need to do is consider both sides when you're talking about a woven item. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> there it has green in it that i can't even see here. </U>
+			<U WHO="S1"> yeah, and where else do we see green? </U>
+			<U WHO="S4"> there, and there... here too. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> those are threads. <U WHO="S4"> mhm </U> green. and these are threads too. </U>
+			<U WHO="S4"> the blue? </U>
+			<U WHO="S1"> yep. <U WHO="S4"> yeah </U> that's a plain weave but they've they've made this_ see how the yellow has come through across? <U WHO="S4"> mhm </U> and so you can start to begin to see, what the warp thread colors are. </U>
+			<U WHO="S4"> they're green aren't they? </U>
+			<U WHO="S1"> i think they're blue. no you're right they look green in here <OVERLAP> don't they? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP> because this looked black but then here it looks green. </U>
+			<U WHO="S1"> mhm. well that's the problem with indigo. it will go from blue to green not this bright of a green, <U WHO="S4"> mhm but a </U> that's that's something completely different. this looks like a supplementary. see how, you'll see th- i oh, i don't have anything fine enough to point. s- this thread here, <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> almost </OVERLAP> seems to to to be pulled up here. <U WHO="S4"> mhm </U> you may have to just sort of put this aside this may be_ you see where they've used two threads they've used two warp threads here. <U WHO="S4"> yeah </U> and here's one weft, going over and then under and then you have the blue. so it's actually a c- when you see this s- s- these striped colors here there seems to be a complication, to the weave, as opposed to this plain, <U WHO="S4"> yeah </U> over under with <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> various </OVERLAP> warp threads, or various weft threads over the warp. <U WHO="S4"> yeah </U> but then again remember we're looking at the warp threads... and we don't see the warp threads do we? if_ considering this to be the warp. <U WHO="S4"> yeah </U> so that means you've got a primary, you've got a technique that's primarily, weft-oriented and so weft patterning on the inside but is that, what we see on the outside? cuz this is the outer face right? and the way w- you could tell which is outside which is inside right? because this could be reversed, <U WHO="S4"> mhm </U> did they mean it to be this way? did they mean it to be this way? then you wanna look at, this pattern, which is the exterior here, where the seam </U>
+			<U WHO="S4"> so we're looking at the inside then. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> see how the threads, bunches are ending here? <U WHO="S4"> uhuh </U> so this is the interior. <U WHO="S4">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<OVERLAP> this is </OVERLAP> this is not meant to be the exterior here. so you can actually see where they're ending these <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> thread </OVERLAP> bundles. so then this would be meant <U WHO="S4">
+					<OVERLAP> yeah, uhuh </OVERLAP>
+				</U>
+				<OVERLAP> to be, </OVERLAP> inside. and this would be meant to be the exterior. so what is_ this would be considered the face of the cloth, <U WHO="S4"> mhm </U> and this would be the inside so, then when you have the face of the cloth you do have, the weft threads, being more predominant, than the warp... <U WHO="S5"> yeah </U> i don't think you wanna go into this <EVENT WHO="S4" DESC="LAUGH"/> (real) in detail. i think you wanna focus on the larger issues of, the fact that there's one two, at least three types of weaving. because u- unless you're a weaver and want to spend, pore over this for hours, i have a feeling that would just consume all of your time, <U WHO="S4"> mhm </U> in trying to figure out the weaves and we really haven't s- focused on weaves in class. um, i- i- it would take too much technical background and knowledge, t- to do that and it would take us away from the larger issue of personal adornment. so i think you wanna see it as, a multi woven you know multi technique, woven textile. and then look for people that utilized, and you may learn more when you do the reading, about these techniques and then you'll say oh that's what that was. <U WHO="S4"> okay </U> okay? </U>
+			<U WHO="S4"> okay so, okay. that <EVENT DESC="LAUGH"/>
+				<OVERLAP> makes sense. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i think_ </OVERLAP> and then and then looking at the motif, um, i can bring you a book to show you um, what someone thinks about this particular motif. um these motifs here these t- obviously are the predominant two motifs, that we have. you might wanna focus on those. and then just think about the coloration variation and the variation of weaves, and see where that leads you. </U>
+			<U WHO="S4"> okay <PAUSE DUR=":05"/> my little ruler just not doing its job. </U>
+			<U WHO="S1"> but it's not a bad lesson to learn that the more you look the more you see, and realize how complicated, this was to assemble. cuz at first glance, </U>
+			<U WHO="S4"> yeah... wow </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S1"> but i don't want you to <EVENT WHO="S4" DESC="LAUGH"/> be overwhelmed and, stuck. okay Amy how can i help you? <U WHO="S5"> um </U> questions? </U>
+			<U WHO="S5"> i don't </U>
+			<U WHO="S1"> do you know how to how to start do you know, how you wanna begin? </U>
+			<U WHO="S5"> not really um </U>
+			<U WHO="S1"> okay so look part one </U>
+			<U WHO="S5"> yeah formal analysis, dimensions </U>
+			<U WHO="S1"> so here we have a long mural cloth, <U WHO="S5"> mhm </U> okay? we've got two ends, and a center field. and then you're gonna wanna say well let's see, i mean think about it i- have you had o- other art history courses? </U>
+			<U WHO="S5"> mhm </U>
+			<U WHO="S1"> so you've looked at paintings </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> okay, so think about it in t- in those terms. then, what do the artists do? we have one particular technique here in the center field </U>
+			<U WHO="S5"> mhm. i would say an ikat. </U>
+			<U WHO="S1"> and then you wanna decide is it warp or weft ikat, and then you have a songket here, and then you have this technique of crochet here, and crochet is not local. so this obviously came in in the colonial period. <U WHO="S5"> mhm </U> um, and and so this is the, the newest technique that's being introduced here. and you can see how it's attached is it attached to, with (xx) original (xx) and, you wanna look at the motifs you wanna look at the scale, how much songket to ikat do we have? can that tell me anything about how it was used? so when you start looking, for similar textiles that've been published, <U WHO="S5"> mhm </U> photographs you wanna com- wanna compare, motif you wanna compare color, you're gonna wanna com- compare dimensions you're gonna wanna compare, technique type, to what you can find published, to decide. and, i would send you in two directions you're gonna wanna look at Balinese textiles, cuz the Balinese did the songket, and ikat, and that's cer- that's where i bought this. you're also gonna wanna look at East Sumatra Palambang P A L A M B A N G it's in East Sumatra. and they also, um have, very contemporary pieces where they use that combination, of ikat and songket. but i'm not sure if they have the same kinds of dimensions, colors you know, (xx) you can consider wear and tear on the piece, does that tell you, how it was folded? these these horrible little metal things are very picky, and they (xx) just (xx) you wanna consider the dye colors, um, but you don't wanna get so, swamped into details about, how the piece was actually made, that it takes you too far afield. (we wanna) make a short research paper to cover, these three, <U WHO="S5">
+					<OVERLAP> (critique it.) mhm </OVERLAP>
+				</U>
+				<OVERLAP> um parts okay? </OVERLAP> so you wanna sort of limit your description, limit your ideas of of, trying to figure out its provenance and and a little bit about its social content. was it a dance cloth? was it a shoulder cloth? was it a wedding cloth? or a funeral cloth? that kind of idea. okay? <U WHO="S5"> okay </U> and then just sort of think of an angle, you wanna compare it with another image of something else that's been published, or um, you see (someone) wearing something that's (xx) is that, is that your (money?) </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> okay. so just, holler, if you have more questions. </U>
+			<U WHO="S5"> okay. </U>
+			<PAUSE DUR="1:43"/>
+			<U WHO="S4"> and this one looks different, you would say it's not weft but warp, because of, it goes this way? </U>
+			<U WHO="S1"> well the warp is going this way right? <U WHO="S4"> yeah </U> the long, the <U WHO="S4">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> long </OVERLAP> way. so, s- always you can tell the warp by looking for the selvage. remember? so you have that weave, where's my little_ you have the warp threads, <U WHO="S4"> mhm </U> and then you have the weft threads. and as the weft is going back and forth, it's creating its own t- uh s- finished end, of the weaving. whereas these seamed ends are raw edges you have like, threads that have to be hemmed over, <U WHO="S4"> okay </U> to keep them from fraying, <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> okay? </OVERLAP> so whenever you see a finished end that's telling you, the side, the weft side. and so that it was, moving this way. <U WHO="S4"> okay </U> and then you can tell, something about the technique here, by the way they laid in the colors. each color wasn't dyed in, it was the threads were already dyed, um, and then they were laid in, in bundles. so, a type of songket, which is actually in Timor i believe called sungket. it's almost like a an embroidery but it's actually <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> done </OVERLAP> during the weave it's not, you can see it's not done on top, it's incorporated into the weave. </U>
+			<U WHO="S4"> so they can do that? i didn't_ they can just put threads in for a, block? </U>
+			<U WHO="S1"> mhm. so when when she's weaving, here y- you have, the weft and the warp and then she has extra little threads that she's weaving in and she's going one green here one green here one green here as she's weaving, she's creating these patterns, in, incorporating them as she's weaving, not laying them in on top later. <U WHO="S4"> okay </U> okay? </U>
+			<U WHO="S4"> okay, mkay. i think i have a good base to start with i suspect i'll be <EVENT DESC="LAUGH"/> back next <OVERLAP> week so </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, no </OVERLAP> problem. <OVERLAP> no problem. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> thank you for meeting </OVERLAP> with me. </U>
+			<U WHO="S1"> sure. hopefully that helps, look over these um, um, <U WHO="S4"> mhm </U> this and and then tell me if you're puzzled or you get swamped just let me know. <U WHO="S4"> okay </U> okay? </U>
+			<U WHO="S4"> okay <OVERLAP> thank you. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but just keep i- </OVERLAP> keep in mind the scale, of the paper. <U WHO="S4"> mhm </U> it's not a dissertation <EVENT WHO="S4" DESC="LAUGH"/> you just wanna get a general idea an- a start at attempting to, be uh enthralled with a a piece, <U WHO="S4"> okay </U> of artwork <U WHO="S4"> okay </U> okay </U>
+			<U WHO="S4"> thank you. </U>
+			<U WHO="S1"> you're <OVERLAP> welcome. have a good ti- </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i'll see you tom- i'm not </OVERLAP> gonna be here Thursday so can i turn in my, Thursday responses tomorrow? </U>
+			<U WHO="S1"> yes, and let's see, you do, you do know that it's going to be posted the final, <U WHO="S4">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> exam questions </OVERLAP> are gonna be posted on the web and you have a way of, of logging in, <U WHO="S4"> mhm </U> from wherever you're gonna be okay. </U>
+			<U WHO="S4"> yes <U WHO="S1"> okay </U> okay </U>
+			<U WHO="S1"> alright. <OVERLAP> see you. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i'll see you </OVERLAP> tomorrow have a good day. </U>
+			<U WHO="S1"> you too. </U>
+			<U WHO="S4"> oop, i missed it <EVENT DESC="LAUGH"/>
+			</U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

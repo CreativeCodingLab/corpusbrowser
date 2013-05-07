@@ -1,0 +1,1444 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="sem300mu100">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> English Composition Seminar </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SEM300MU100 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="125">
+						<DATE> June 15, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Carrie Sue Kay Sulzer, Rodney Pratt </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Carrie Sue Kay Sulzer </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Jessica Rett </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 10/19/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="11"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="11"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JF, Lecturer" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NNS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, Angell Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> ugh, i hate this board. </U>
+			<U WHO="S2"> well it's cuz somebody, pulled it all the way down and it says, not to. </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S2"> turkeys. </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> turkeys. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> is this all we get, three pages? </U>
+			<U WHO="S1"> there's more coming. i don't think we'll be doing it for three hours though. um, which is v- tentative, well let's say i predict that we'll be outta before, uh one o'clock. which is fine cuz i gotta take somebody to get a root canal anyway. <U WHO="S2"> ouch </U> and i should probably get ready for that, ordeal. </U>
+			<U WHO="S2"> i hate that. </U>
+			<U WHO="S1"> did i tell you i g- i took in a cat, a stray cat? did i tell you this story? </U>
+			<U WHO="SS"> no <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> um well you know it's not really a story, worth telling, until, this thing that happened yesterday. i'm not supposed to have, pets in my house, um so, i i kept worrying about the landlord coming by and you know the landlord doesn't, sneak on over and and try to catch you at things so i thought i'd be fine but, he left a message yesterday morning around ten saying that, he would be coming over to show my, my place to some people who wanna rent it for next year, and, if i had picked it up if i had picked up the phone then, uh i woulda been alright but i i was sleeping in so i didn't get the message until later when i woke up, about quarter to eleven, and, i had fifteen minutes to get, this place cleared of any cat, residence, uh <EVENT WHO="SS" DESC="LAUGH"/> evidence, so you know i like i took the, kitty, kitty uh, what is that? the kitty litter stuff and i stuck it in my trunk in the trunk of my car, you don't wanna you don't wanna know what it smelled like a little bit later, <OVERLAP> uh and i, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> oh </OVERLAP>
+				</U> usher the cat out the door you know and i thought oh i'll never see that cat again, you know cats come they eat your food and then they leave and, you know they don't s- stay up nights thinking about you or anything. so i was like alright there goes the cat, oh well. and uh you know i i put it out in the little shed and i closed the door and i when i came back later it was gone, so i figured ah off it went, people come over, my landlord comes over they see the place, um, you know i go out and do some errands and i come back about two hours later, i go to the shed and i, am thinking i'm gonna go outside and maybe look for the cat and see if he's still around, and the cat is in the corner of the shed and it hasn't moved, a muscle. <EVENT WHO="SU-f" DESC="LAUGH"/> you know it's just it's sitting there on top of some clay that i have in that shed. and i thought this was so great, you know, it's li- i felt like this cat approved of me, <EVENT WHO="SS" DESC="LAUGH"/> it accepted me. and it immediately reminded me of, and i and and lemme tell you i don't normally have these kind of uh Bible school Christian moments but you know th- there's that thing in um, in_ at church you know they they, teach you about the figure of Christ knocking on the door? you know and you're supposed to open up your life to him. i felt exactly like that. i was like this cat has accepted me. <EVENT WHO="SS" DESC="LAUGH"/> you know? and i told my girlfriend all about it and we had like a, a a moment of being affirmed in our relationship, thanks to this cat. <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="SU-f">
+					<OVERLAP> wow. </OVERLAP>
+				</U>
+				<OVERLAP> it was </OVERLAP> nice. yeah. so the cat's around. we can't take her to Miami but, uh we'll give her to some people to take care of her. </U>
+			<U WHO="S2"> hm. <EVENT DESC="LAUGH"/>
+				<U WHO="S1"> yeah </U> hmm. </U>
+			<U WHO="S1"> despite my not giving it any shots. or um getting it declawed or any of these things. which i kinda don't believe in. you know. </U>
+			<U WHO="S4"> the shots you don't believe in? </U>
+			<U WHO="S1"> i don't believe in the shots. you know? i i i <OVERLAP> don't like, i don't like_ i haven't named the cat either cuz i don't agree with that. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> shots are a good thing. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> for cats (especially) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> if you ever watch Emergency </OVERLAP> Vets they're like did you inoculate your animal? and they're like, no and they're like well he's gonna die. </U>
+			<U WHO="S1"> oh yeah? <OVERLAP> oh. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> there's a lotta diseases that they can't cure they only can prevent with, <OVERLAP> inoculation. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well you know </OVERLAP> that's, that's a cat's life. <EVENT WHO="SS" DESC="LAUGH"/> i <OVERLAP> feel like </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that's horrible. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> (what about when) </OVERLAP> you get a <U WHO="S1">
+					<OVERLAP> well, you know </OVERLAP>
+				</U>
+				<OVERLAP> disease from your </OVERLAP> cat? </U>
+			<U WHO="S1"> if it's a matter of my getting the disease then i'll get it all the shots that it needs <EVENT WHO="S4" DESC="LAUGH"/> but, i don't know. i feel like i'm humanizing the cat or something (and,) making it go to the doctor and getting its stuff cut off and, getting its, fingernails all pulled out i i don't really like that. <EVENT WHO="S3" DESC="LAUGH"/> you know? i don't know. that's probably faulty reasoning somewhere but, um we'll let these people who are recording me figure that out. <EVENT WHO="SS" DESC="LAUGH"/> um, okay, i- take out a piece of paper and take some random notes. okay? uh, <U WHO="SU-f"> random </U> yeah this is to prevent, stupid mistakes, that you've been making throughout, uh the semester from occurring through this <OVERLAP> last paper. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> um </OVERLAP> i don't have a, writing utensil again. </U>
+			<U WHO="S2"> ohh. (you can have ink) </U>
+			<U WHO="S1"> did you not buy a pen for (the semester) (xx) </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> no </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> uh i'll probably repeat this later when more people show up. um, but write this down, for your sake, while it's still fresh, on my mind. uh comma splices, what are those? do you know? well you don't l- have to know what they're called i guess but, it's a run-on sentence. right? two sentences joined by a comma. uh they should be, separated into two separate sentences or you should do some sort of punctuation fix, um semicolon dash maybe even a colon, okay? Leslie you are a, big-time violator of the comma splice rule, and so is Erica (who's not here.) </U>
+			<U WHO="S4"> i thought i did better this time. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> i still caught some, right? you you got rid of the uh, the incomplete sentences, <EVENT WHO="SS" DESC="LAUGH"/> but you're still having trouble, <EVENT DESC="LAUGH"/> at the other end. </U>
+			<U WHO="S4"> thank you very much Simon for announcing my uh, problem (in) class. </U>
+			<U WHO="S1"> yeah i can read you, some examples </U>
+			<U WHO="S4"> no that's alright, i'll read <OVERLAP> (xx) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um, </OVERLAP> yeah y- you make these kind of mistakes because you get away with them in spoken speech, spoken language but i- in written language it's, really visible and, um, well the, the grader will wonder about the rest of your paper if you don't know the difference between a complete sentence and a run-on sentence. so, be sure to catch those. uh, footnoting there's, still some huge confusion going on about footnoting you guys are trying to footnote um, you're footnoting but you're thinking bibliography. and uh the difference, well there's there're many differences i guess, the underlying purpose of the of the, of the whole affair is the same but, do this, alright? just do this until somebody, pulls you aside and says that's wrong, okay, which i'm betting will never happen. you got, you're writing an essay, you've read about three or four authors for this essay. okay? the first time you mention or you quote from one of the authors that you read for this essay for this paper that you're writing, footnote that person. okay? and footnote that person, um in the format that i gave you, alright, on that printed, thing, alright, also it's in your little brown handbook. and at the end of that footnote, alright which should, it should end with the page number that this citation is taken from, put a semicolon, and give a little message like, further uh further citations will be done parenthetically. okay? and then after that each time you cite, cite this author you just y- you just have to put a parentheses, an open parenthesis, author's name, page that's that this citation is taken from and closed parenthesis. alright? you don't have to go nuts with this either. alright? if you're_ if in one paragraph you're talking, about a certain aspect of an argument or a certain bit of text that you've already cited, you don't have to keep citing this same person. alright? um Amy you do this. you go nuts with the footnoting. um i commend you for being kinda responsible because you don't wanna take credit for a- another person's, work but if it's clear just in the text in your own text that you're talking about somebody else's writing, or that it's clear, or it's clear that you are continuing in the vein, that you have been, right and you've already footnoted that, it's okay you can let off (of) that. alright? footnotes go at the bottom of the same page <EVENT DESC="LAUGH"/> as the citation that the footnote is referring to. if it doesn't it should all go at the end of the paper on a separate page, called works cited or something. okay? or notes. alright? what else? um... when you quote something, or whenever you you use um, quotation marks right either to denote, something that's being cited or the title of an essay or some other work that deserves quotations, <EVENT DESC="WRITING ON BOARD"/> punctuation, goes inside, the quotation marks. mkay? so the last thing that occurs on that sentence, is this thing. alright? not the period or the comma. if you're using any other kind of, punctuation point, alright, uh other than the period or the comma, semicolon colon exclamation point or question mark, or others, okay those go out on the outside. </U>
+			<U WHO="S4"> hmm </U>
+			<U WHO="S1"> hmm? </U>
+			<U WHO="S4"> i thought it was the opposite. </U>
+			<U WHO="S1"> no no no no. <EVENT WHO="SU-f" DESC="LAUGH"/> this is outside this is inside. </U>
+			<U WHO="S4"> so wait when we, when we put like Foucault page whatever, the period goes after the parenthesis right? or it goes inside the quotation? </U>
+			<U WHO="S1"> no no. that's not that's not a punctuation, Foucault whatever, you talking about a parenthetical citation? <U WHO="S4"> yeah </U> yeah. </U>
+			<U WHO="S4"> do we put the, punctuation inside the parenthesis and put, a period, (at the end of?) </U>
+			<U WHO="S1"> um usually not. unless you need to cite the punctuation that, the author is using too. here. um... <EVENT DESC="WRITING ON BOARD"/>
+				<U WHO="S4"> mhm </U> mystify is the last word used in a sentence by Foucault, alright? and you wanna cite this sentence, right? so you got blah blah blah mystify, right? and, close the quotes, cite him Foucault, period here. okay? if you're not doing this or if the citation doesn't occur at the end of the sentence... okay let's say it comes in the middle of a sentence, then the comma or the, well i guess it would only be a comma goes here. okay? if mystify, is the title of a work... an essay by Foucault, and that comes at the end of a sentence that you're writing, period inside. cuz you don't need this the only w- reason why you violate the inside, quotation mark, rule here is because you've got the citation, and you can't let that float between this sentence and the one after it. okay? but other th- other than that, um always inside. it's a small thing i know. i know. um but you know, if it doesn't really matter to you which way you do it do it the right way, and you really won't have to worry about it. okay? and this way somebody'll know that a person like me taught you this stuff. and i'll be remembered. yeah? </U>
+			<U WHO="S6"> what were you, what, <EVENT WHO="SS" DESC="LAUGH"/> you know that line that you had? okay, what what were you saying was the separation between having, uh like an exclamation point or a question mark, and you said that wouldn't go in, <U WHO="S1"> no. </U> the quotation? or i didn't hear what you were saying. <U WHO="S1"> um </U> see how you have that line you have like period then you have a comma <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and then on the </OVERLAP> other side you have, semicolon </U>
+			<U WHO="S1"> uhuh. this stuff goes inside, unless you've got a citation to include in your sentence <U WHO="S6"> okay. </U> this stuff goes outside. </U>
+			<U WHO="S6"> of quotations? </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S6"> always? </U>
+			<U WHO="S1"> always. </U>
+			<U WHO="S6"> see that's totally new to me. are you sure? </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> it isn't actually. <EVENT WHO="SS" DESC="LAUGH"/> um, here's why uh you can, the thing is if you add a comma here and it's your comma and not Foucault's comma, you know you still need the comma so, it's alright. right? th- y- that's like it's sliding. it's it's_ technically you're adding something to Foucault's text. so, you know there_ it's worth thinking about but if it's just a comma or a period i guess the decision has been made, it's alright. but if it's a significant punctuation point like one of these? right let's say, you were really excited about this sentence, and you wanted, an exclamation point of your own, well if you had it inside then you're, attributing the exclamation point to Foucault, which is a significant change, um to the tone of the sentence maybe. <U WHO="S6"> okay </U> that's why it goes on the outside. right so here, you are really interested or excited about his thoughts on mystification, question mark goes here, or you had no idea what he was talking about, <EVENT DESC="LAUGH"/> quot- question mark goes here or uh exclamation goes there question goes there. </U>
+			<U WHO="S4"> what if the punctuation is in the quote? </U>
+			<U WHO="S1"> oh, if he, has used the punctuation? use it, and then it's stupid but you've gotta put a period at the end of it too, <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> kay? </OVERLAP> to denote the end of a sentence... yeah. um there are people who do this, for a living, <EVENT WHO="SS" DESC="LAUGH"/> study this kind of thing (xx) copyeditors, and others. um, right so there're rules for things even if you think, that the whole, endeavor is kind of, pointless. um what else did i nee- oh, titles of essays are in quotation marks, okay, titles of books, titles of movies titles of plays, the name of a ship, those things all go, um either are underlined or italicized, right rules for that in your little brown book as well. oh do you see how you would never footnote and parenthetical, cite at the same time? right that would never be, there would never be an occasion for that. so don't do that. the essays that, you will be referring to the Ha- Hammer and Malak essays from the coursepack, right? when you got the coursepack there was a cover page and the printing information was on that cover page. <EVENT WHO="SU-f" DESC="LAUGH"/> refer to that for the information that needs to go (in the paper...) what you lost it? probably? </U>
+			<U WHO="S2"> (probably) (xx) </U>
+			<PAUSE DUR="0:10"/>
+			<U WHO="S2"> oh no, this? </U>
+			<U WHO="S1"> show me. </U>
+			<U WHO="SU-f"> next one. next page. </U>
+			<U WHO="SU-f">
+				<OVERLAP> not that page. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> nah nah, </OVERLAP> not that page. yeah. </U>
+			<U WHO="S2"> ta da. </U>
+			<U WHO="S1"> isn't that nice? </U>
+			<U WHO="S2"> that is just great. </U>
+			<U WHO="S1"> don't copy it exactly cuz, that's not in footnote, footnote format. <EVENT WHO="S2" DESC="LAUGH"/> okay but all the information is there... so show me you know how to do this stuff. right for this last paper, cuz i've been letting it slide cuz i'm, more interested in you, um learning the other things that i've taught you. but uh you know you should learn this too. <PAUSE DUR="0:07"/> okay. <PAUSE DUR="0:18"/> take a look at uh one of these, handouts that i just gave you, the one that starts documents such as. <PAUSE DUR="0:13"/> you need one t- h- <U WHO="SU-m">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> who else </OVERLAP> needs one? here take one of, (each of these.) <PAUSE DUR="0:40"/> hey we may get everyone here today. <EVENT WHO="SU-m" DESC="WHISTLE"/>
+				<U WHO="SU-f"> wow </U> that'd be nice. it shouldn't feel like a reunion but, <EVENT WHO="SS" DESC="LAUGH"/> it kinda does. how you been since first day of class? (what do you know?) </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> oh where di- where did that one guy go? <EVENT DESC="LAUGH"/>
+				<OVERLAP> the really funny one. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what one guy? </OVERLAP>
+			</U>
+			<U WHO="S4"> yeah he was hilarious. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh yeah. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> the one who always </OVERLAP> said the really random stuff. </U>
+			<U WHO="S4"> he sat like right there. </U>
+			<U WHO="S2"> the one that was really like, gung ho </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> oh Justin </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S4"> was that his <OVERLAP> name? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> um he left. </U>
+			<U WHO="S2">
+				<OVERLAP> oh, well </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh. well </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah he </OVERLAP>
+				</U> i kinda figured <OVERLAP> since he's (xx) </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1">
+				<OVERLAP> he got a job </OVERLAP> and, and left. but he wrote me a very nice email, afterwards. </U>
+			<U WHO="S4"> he was very entertaining. </U>
+			<U WHO="S1"> yeah. yeah. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> he was hysterical. <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> oh, great. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> he's very loud wasn't he? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> (xx) </U>
+			<U WHO="S2"> he'd walk in, sorry i'm late <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> and he'd say hi whenever (we) walked <OVERLAP> in </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> he was </OVERLAP> just he was just literally loud. </U>
+			<U WHO="SS"> yeah. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S4"> i think he played like tuba or something something (that's loud) <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> i think he's, </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> he played what? </OVERLAP>
+				</U> partially deaf or something. he plays like tuba or something like that. </U>
+			<U WHO="S1"> oh. i think that hmm. didn't he tell us that? </U>
+			<U WHO="S5">
+				<OVERLAP> (xx) (that stuff) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah he's in the music school. </OVERLAP>
+				<U WHO="S1"> yeah okay </U> he's definitely a brass person. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> okay um, look at this long paragraph, in the middle, um i'm... this is this is gonna g- it's gonna sound stupid but i like long paragraphs. um i like long paragraphs because if, there's a good reason for its length, um it means that the student is on to something or is willing to, to, think this through. it's a better sign than you know short paragraphs that, um, are not transitioning well between, one to the next. i want you to uh look over this paragraph with me, and uh we're looking for just uh style here, right because the language here i thought was pretty tight. um although there are some co- co- corrections that i would make but when it's on i thought um it was it was on. <SEG TYPE="READING"> Greenbladt examines written history in his tit- essay titled Marvelous Possessions. </SEG> actually i don't like that first sentence. okay um, qualify what i just said, uh with with what i'm going to say about this first sentence. uh the first sentence, ideally should provide uh a topic of discussion for the s- for the sentence that_ for the paragraph that it's starting, or it should provide some sort of reasonable, transition from the paragraph that occurred before it. okay? that Greenbladt examines written history is a timid claim and is not going to serve either of those (goals.) okay? um right it's just this paragraph is just saying this guy Greenbladt wrote an essay, called Marvelous Possessions. okay? um so you see in that, in the margins i would say something like work for a better transition sentence. um <SEG TYPE="READING"> Columbus's arrival in the new world in fourteen ninety-two and his claim, of the land for the king and queen are obvious, obviously cases of cultural dominance_ </SEG> obvious cases, of cultural dominance. <SEG TYPE="READING"> Columbus lands, and proclaims possession of the land. the essay begins with pointing out, </SEG> the essay begins by pointing out, <SEG TYPE="READING"> the contradiction in claiming land, that is already named and inhabited... further the act of taking possession of the land itself is is is described in detail, as a specific set of procedures. the procedure includes declaring witnessing and recording. </SEG> footnote, should be on the bottom. <SEG TYPE="READING"> all three of these involve, the use of language, something the indigenous people did not understand. the procedure and the use_ and use of language was used to create, official historical texts and to write history. </SEG> okay stop there for a second. um first question i have when i see that footnote is why is the footnote there? right why has this author chosen to footnote that sentence? or that thought as opposed to, ones before it or after it? um i couldn't figure out a good reason for her doing this. um, so probably, maybe the footnote should have occurred after Marvelous Possessions right af- right off the bat? okay? you mentioned the essay, um footnote it there. and then afterwards you can just kinda, um take it for granted that the reader is following you. okay? the fir- procedure for in- listen to these um, these three sentences, one more time. <SEG TYPE="READING"> the procedure includes declaring witnessing and recording. all three of these involve the use of language something the indigenous people did not understand. the procedure and use of language was used to create official historical texts and to write history </SEG> okay? these three sentences are very close to each other. alright that that is they they're relevant, to one another they're talking about, uh a couple of things, but it's all in that same area of discussion. right? language as used by Columbus versus the kinda language that we imagine the indigenous people, used. and the confusion or, the m- the non communication between the two that, you know resulted in, kind of writing that Columbus did write. some difficulty though in expressing that or you know it's not great difficulty but it could be better. um, first of all that second sentence <SEG TYPE="READING"> all three of these involved the use of language something the indigenous people did not understand </SEG> makes it sound like, the indigenous people did not understand the use of language and we don't mean that we mean this particular use of language. okay? so uh the quick fix for that sentence would be, all three of these involved, the kind of y- language that the indigenous people did not unders- understand. alright? um, or or something other that, that doesn't need a comma between it, right? so that, the sentence is clear about, uh what it is the indigenous people, that the indigenous people did not understand. okay? but i'm going to propose that there could be even a better fix that, marries that first sentence with the second sentence, um, and in a happy way. <SEG TYPE="READING"> the procedure includes declaring witnessing and recording </SEG> how 'bout a colon there? and then the next one, is, you know restating what this declaring witnessing and recording is about right? i told you that's one of the, one of the, the occasions for for a colon, right? when you say, or re-say something in other words that you mention at the beginning of this clause. right? um, the root of all evil colon money, some such thing. <EVENT WHO="SS" DESC="LAUGH"/> the procedure includes declaring witnessing and recording colon, an event of language, that the indigenous people did not understand... okay? how 'bout that? i don't think there's any loss of meaning, loss of content. and the thing is quick, right? it's tight. <SEG TYPE="READING"> the procedure and use of language was used to create official historical texts and to write history, </SEG> um i don't like, the double, double use use of use of language and used and also historical texts and to write history right? uh when you see the same word coming up, too many times, or more than once like this in the in the same sentence, unless you mean it, right unless you're cluning cluing, the reader in to two separate use of of a word that um you are necessarily playing against each other, or jux- juxtaposing in some meaningful way, um usually, this deserves some sort of editing. okay, um get out a thesaurus and, instead of use twice, you know find a secon- another word for the second, for the second occasion. or maybe the problem is just well you're trying to split too many hairs or you can say this in sort of one breath without needing to come (back and forth.) <EVENT WHO="S4" DESC="SNEEZE"/>
+				<U WHO="S2"> bless you. </U> um i think this is an example of that last kind of problem. okay? um there's meaning here for sure but it's not being it's, it's stumbling on its own words. okay? uh i think here try this on, and see if it makes uh, makes an improvement or if if the, correction loses something. um... the procedural use of language, right maybe instead of procedure and use of language maybe we can just say the procedural use of language or the formalist, use of language the formal use of language, makes official texts and creates written history. makes official texts i mean makes, makes texts official. okay? um the procedural use of language makes texts official and creates written history... does that sound okay to you? <U WHO="SU-f"> mhm </U> um, i think that's a good fix, for that sentence but if you if you write that sentence i also worry about, lack of s- lack of transition, or um some sort of, awkwardness uh between those two sentences that is, now you've got two sentences well you already do now but even after the fix you've got two sentences that start, the procedure. okay? so maybe you can actually make those three sentences into one long one, that reads something like, the procedure includes declaring witnessing and recording colon, an event of language that the indigenous people d- did not understand comma, that this procedure_ that this procedural use of language makes official texts and creates written history... or maybe instead of comma a semicolon. right whatever you know, whatever the end result, um i'm getting you guys to, start to understand, start to notice where, or what a pa- what a sentence will do in order to, show you, clue you in that uh it needs help. <EVENT DESC="LAUGH"/> the sentences are crying out for help. <EVENT WHO="S4" DESC="LAUGH"/> um, and other fixes that you can make in order to really make efficient your constructions. alright? um, the theme of this_ the theme for for writing papers in this class has always been, you write better in order to think better and vice versa. right? if you get your, sentences in line if you get your thoughts in line and make them behave, it will lead to content that you otherwise would have overlooked. alright? inexact words will le- lead to inexact thoughts... um, <SEG TYPE="READING"> since the indigenous people did not know the language the only historical information comes from the dominant culture, as Greenbladt states writing in this case quote fixes a set of public linguistic acts etcetera. interesting, </SEG> no comma, <SEG TYPE="READING"> interesting is the fact that the procedure for claiming the land in- involved a declaration. this declaration was made in a language that the indigenous people did not understand, </SEG> right. um, there's a candidate for, contraction right? those two sentences, could easily go in one sentence. no need to end the word_ end the sentence talking about declaration, restart another one talking about declaration right? involved a declaration, that was made in a language that uh, the indigenous people did not understand. <SEG TYPE="READING"> in a letter Columbus writes, that he was met with no opposition upon claiming the land. since the native people did not know what he said this lack of opposition was stated for the Europeans, to read and record history further validating their possession of the land. the language used in letters written by Columbus is analyzed throughout the essay. Columbus also wrote letters admiring the orderl- orderliness of the society he encountered, however, these comments came later and were no- were not established, as historical facts, as the procedure of possession was. </SEG> okay? i like this part of the paragraph because we're getting away from, what we now see has been um although high quality summary nonetheless summary. okay? the stuff that comes before this however sentence, um is a retelling of Greenbladt. okay? and i told you some of that is necessary. um and i think this writer gets away with it because she does it well. um but it is just still summary. alright here with this however clause, we've got some activity. alright here the author is, stepping in and doing something. <SEG TYPE="READING"> these comments came later and were not established as historical facts as the procedure of possession was. </SEG> good. <SEG TYPE="READING"> Columbus also wrote of the marvelous nature of the new world. regardless his first letter served to establish historical facts that they have authority and have the conquered the l- land. </SEG> okay? something going on here. okay? and this is really telling. um most of you guys when you happen upon a really good thought will freeze. <EVENT DESC="LAUGH"/> you know? you r- you scare yourself, at that moment, and you will scramble back toward, summary, again. okay? and that scrambling back is really noticeable in instances like this where, it seems like, the scrambling back is not necessary. okay? Columbus also wrote of the marvelous nature of the y- new world. there's a definite break in thought between that sentence and the one before it. okay? that shouldn't be for a number of reasons. one reason, m- most obvious reason being that, it breaks up the flow of the, flow of the paragraph but also because, well you're onto something there. right? don't go back to Columbus yet. talk about this difference between, what Columbus writes about, and what he sees. how much of what he sees translates, into what he writes about, and why? right that's what Greenbladt is getting at, that's why he studies text. alright there's a whole world of things, and a whole, person's worth of thoughts, and feelings that Columbus is, under, at this moment. but out of those out of that world he only chooses a couple of details to write about. okay why? why that selection? that's what the author's on, uh but passes that moment too quickly. okay? this stuff becomes obvious, uh when i talk about it it should become obvious to you when you look at it yourself. right that is between drafts. if you go to a draft and look at it uh let's say you've given it a day, right you haven't worked on it all day yesterday. and you go go to it and read it, as if you were, um, well as if you hadn't read it a- as if you hadn't written it yourself. right? approach it as you would approach a foreign text. and see how it stands up, under those circumstances. right? under those demands. questions here? is that a hand or, throwing hair? <EVENT DESC="LAUGH"/> okay. <EVENT WHO="SS" DESC="LAUGH"/> okay um, let's see. take a look at the next one, <EVENT WHO="SU-f" DESC="SNEEZE"/>
+				<U WHO="S2"> bless you </U>
+				<U WHO="SU-f"> thank you. </U> um the one by Waylett... well it's gonna be hard to keep a secret that this is Chris because, the paper we're doing will have his, first and last name on the first page right? but it's okay because we're here to, um, say good things about Chris. um, here's um a good example, of a paper, right or a a part of a paper, kind of tranzen- transcending the needs of a paper, right the need to talk about and mention and, sort of, evidence your knowledge of a text that you've written, right? and application. right? and the evidence for this is, well there's stuff being talked about here that hasn't been talked about before, by any of these authors singly. this is what i called um writing in the intersection of things, right? taking one person's idea and applying them, um in another, area, of discussion, right? this is what happens here. it's a bit messy, okay and Chris admits to this so, i don't mind telling you, right, um, it's a bit messy but once you catch on to the reasoning behind it um and the discussion too, um you'll see that it's pretty good. here, <SEG TYPE="READING"> this formalism described by Greenbladt is an intriguing process that places, something of an unjust act, and makes it appear fair and inviting </SEG> he's talking about, the open formalism and the closed formalism, Greenbladt mentions. <SEG TYPE="READING"> this idea of open and closed formalism is seen throughout the different texts in this discussion. </SEG> okay? in the margin i said sent- this sentence needs to go elsewhere i'll tell you, why later on. <SEG TYPE="READING"> since Columbus figured, that he was landing on an island inha- inhabited by the Indians under the control of the Grand Khan, it is clear that he didn't believe he was making a discovery merely ignoring the natives. Columbus clearly recognized the Indians as the owners of the land and included them, in, his contract, in which he claims Spanish ownership of the land </SEG> uh you see my editing there? alright <SEG TYPE="READING"> my including the_ by including the Indians, as witnesses he is therefore giving them recognition, in the declaration. he accomplishes this_ his goal of ownership in a very vague form so as to leave room for interpretation later on. Columbus refrains from using too many details since he hardly even knows what he has just discovered. Columbus was successful at attem- accomplishing a legalistic act that would entitle his monarch, monarchs to the land, the land he had just come across as well as all its entities. </SEG> okay? this wasn't clear to me until i got to the next paragraph but what you see Chris doing here is he's starting, he started this this page, or he ended this_ he ended the page before talking about open formalism and, drawing the reader's attention to that part of Greenbladt's text. what he's doing then is giving a paragraph to the openness of the formalism and then a paragraph after that to the closedness of the formalism. this wasn't entirely clear to me Chris because, you end, the incomplete paragraph on this page by saying this idea of open and closed formalism is seen throughout. so i think here and now you're either going to move on and talk about other texts where open and closedness is relevant, or uh or something else. i didn't know that you were still continuing in that vein. i needed to reorient myself and i i probably shouldn't have had to do that. okay? also it's not clear in that first full paragraph, that you're talking about the openness of, the open part of, of of Greenbladt's binary. alright? you don't mention that there, you don't mention the word open, or you don't use it, as you do in the last in- uh incomplete sentence incomplete paragraph. on the other hand this act of formalism was very closed, and corrupt toward the Indians right? now i know because, i guess the on the o- on the other hand transition i think oh okay now, i see what he's doing. he's given me one now he's giving me the other. alright? too much confusion here. right? or or it doesn't need to be, this confusion doesn't need to occur. um cuz it's a really simple fix. <SEG TYPE="READING"> Columbus obviously knew that the natives didn't speak English and that no one was going to oppose him, he included them in his proclamation, not to give them a voice in the matter but only to use their absence of opposition against themselves. this action was very closed to the Indians not only because Columbus used their ignorance as a trick, but also because his declaration was then legally binding against the Indians from that point on. </SEG> that's good. alright that's tight, um the language there is efficient, and that's a pretty succinct way of putting, this part of the argument. alright this part of the summary. um, notice also how much, Chris has spent talking about openness and closedness alright? it could have easily been, a sentence or two mentioned and then, you know this discussion could have carried on, he doesn't do this, right? he stays with this idea throughout the paper, he mentions it here, in order to clarify, what Greenbladt means by it, but he also does this thing with the other essays, and surprisingly with uh the Tempest and, Starship Troopers too. alright? that's engagement, right? that's application. take an idea, use it in other occasions. okay? do that and you'll also take care of um problems with thesis and argument, right main argument, right? the thesis here is that this open and closedness can be, seen in other works. right and th- and it all goes toward this whole thing about culture and misunderstanding, and wrong histories and right histories. okay? big idea, you pare it down by finding, uh a single element that captures it pretty well, take that into other texts and show me how it works there. yeah? textbook. okay? um, one more, look at Anderson, seven. this is Eric's paper, um... Eric does essentially what Chris does, uh but he's got a lot more style about it. <EVENT DESC="LAUGH"/> but what he gains in style he loses in sort of um content or, he doesn't go on for as long, with an idea, um as Chris is willing to... oh he also has this comma splice problem, um so i can i can point that out to you here too. <SEG TYPE="READING"> Pratt would agree with Shakespeare with regard to why there exists a power differential between Caliban and Prospero </SEG> he has a comma there, clearly shouldn't be. <SEG TYPE="READING"> Caliban has no chance at power because he lacks the education refinement_ and refinement that is required of a leader. Caliban like (Wamanpoma,) um lacks the formalism that is required to obtain power, he has no chance of being a leader because he doesn't, </SEG> uh yeah that's a comma splice too, which i missed <SEG TYPE="READING"> he has no chance of being a leader because he doesn't have the skills that are established by the authoritative power. </SEG> uh authoritative power might be, redundant. <SEG TYPE="READING"> Caliban is a creature of sensation not intellect, and until he can become more of a reasoning being his chance at freedom is small. Shakespeare like Pratt wants to argue that leadership and power should not be decided from this authoritative p- point of view, a suggestion that is evident in Prospero giving up his art, at the end of the book. in order to become a good leader, Prospero must become an equal with the rest of humanity, los- using loyalty, instead of magic in order to lead. </SEG> okay? um, yeah that's r- that's um, Eric is really smooth about, the arguments that he makes that is he he doesn't interrupt stuff by saying, this is like what we read about Greenbladt here. or this resembles Pratt here. right? he goes into it, immediately almost effortlessly by just using their language. alright? so, he says in that last long sentence, or the second to last sentence, <SEG TYPE="READING"> Shakespeare like Pratts wants to argue that leadership of pow- and power should not be decided from this authoritative point of view, a suggestion that is evident in Prospero giving up his art. </SEG> that's a really good point about Prospero giving up his art. right? or, Chris is uh Eric is suggesting that, the art that he gives up his power this magic that Prospero gives up at the end of the play, signifies, right a surrendering of this sort of this whole um hierarchy of power. alright? the hierarchy of power that has, uh oppressed Caliban and enslaved him, and has on the other hand um, reinstated the dukedom, to Prospero. okay? um, right. that's a pretty good point. i would say. um but he does it too quickly, right i feel like he could give me at least two more sentences on it just to make things clear. but i know he's on to this i know he he, he knows this, um just by virtue of of the fact that he can use it this well in this sentence... okay? so take Chris, and take and Eric right and like, merge their brains into one, <EVENT WHO="SU-f" DESC="SNEEZE"/> and you've got, all the good <OVERLAP> parts </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> bless you </OVERLAP>
+				</U> of a paper. <U WHO="SU-f"> thanks <EVENT DESC="LAUGH"/>
+				</U> okay... buddy up will you? cuz i don't have enough copies of this... just take one (for like two or three people.) <PAUSE DUR="0:28"/> do you have questions about any of the, um, the samples that i, that we went over, so far? <PAUSE DUR="0:11"/> okay Chris you wanna prep us or anything? you wanna say anything before we go over your your draft? </U>
+			<U WHO="S7"> uh, not really. <EVENT DESC="LAUGH"/> it's a little, it's rough. i haven't actually read the whole thing (you know all at once) so, but, yeah. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S7"> i don't know if there's (anything) (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> did you were you able to do a draft for the previous paper? </U>
+			<U WHO="S7"> yeah. </U>
+			<U WHO="S1"> okay um, i should've liked to ask Chris uh Eric that too. um, okay. let's do Chris's. <PAUSE DUR="0:08"/> tell you what, um, since i'm getting, kinda tired of just reading the whole thing myself, <EVENT DESC="LAUGH"/> why don't we go around and we'll take paragraphs, and i'll hold you responsible for talking about that paragraph. okay? <SEG TYPE="READING"> Margaret Atwood's story The Handmaid's Tale, is a satire depicting the dangers of Christian fundamentalists, especially the danger pertaining to women. On a first glance the novel appears to criticize Christian beliefs, but after a closer look the novel really doesn't at all criticize the beliefs taught in the Bible the novel is a satire, on the people who use the Bible as justification for their oppressive behavior. </SEG> right. <SEG TYPE="READING"> Atwood portrays her belief, of our society's effects on women </SEG> effects there, the right one or the wrong one? <U WHO="S2"> the right one? </U> yeah. <EVENT WHO="SS" DESC="LAUGH"/>
+				<SEG TYPE="READING"> through the character of Offred. Offred is a typical woman who is victimized by a society overly controlled by men, who abuse their power greatly. </SEG> oh that's awkward. overly controlled by men who abu- abuse their power greatly right? uh one too many adverbs. um, and other things too... is a satire depicting the dangers of Christian fundamentalists... hmm... okay that's alright. i think you mean Christian fundamentalism. right? <U WHO="S7"> yeah </U> it's not the people we're scared of it's, the idea right? but we're not i- this isn't a story about, you know, Jerry Falwell or, something like that alright this is a story about, the thought the ideology. um especially the danger pertaining to women pertaining there is the wrong word to talk about what danger is doing to women right? it's it's a weak word it's an indirect word. right? danger pertains to women? what does that mean does that mean that the women are under danger or the women just have to do with the danger in some ways right? you mean something like, the danger um, pointed at women i don't know that's stupid too but, y- you see what i mean there. <U WHO="S7"> yeah, okay. </U>
+				<EVENT WHO="SU-f" DESC="LAUGH"/> um <SEG TYPE="READING"> on a first glance, the novel appears to critic- criticize Christian beliefs... but after a closer look the novel really doesn't at all criticize the beliefs taught in the Bible </SEG> Bible is capitalized. <SEG TYPE="READING"> the novel is a satire on the people, who use the Bible as justifica- </SEG> is a satire on the people is just, a longish way of saying satirizes. okay? na- novel satirizes the people who use the Bible, to justify their oppressive behavior. okay? use the w- use the verb when you have the word_ verb you don't have to make verbs out of is and nouns. alright? uh, okay. next one. Leslie why don't you do the next paragraph. </U>
+			<U WHO="S4"> okay. <SEG TYPE="READING"> according to Hammer Handmaid delivers, a clear message opposing Christian fundamentalism. American Christian fundamentalists, are, fanatical and dishonest and therefore highly dangerous. they seek to erode the liberties which all Americans and especially American women cherish. this satire is valid in the sense that all of the dogmas and morals of Christianity are panoptic and therefore dangerous, but invalid in any accurate account of what fundamental Christianity is. </SEG>
+			</U>
+			<U WHO="S1"> what do you think? <U WHO="S4"> um </U> things you would change? if any? </U>
+			<U WHO="S4"> it's, to the point. it's clear. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> are you just being nice to Chris? or do you <OVERLAP> really feel that way? or are you just hedging your bets? or </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> um, is that, last sentence, </OVERLAP> the w- the satire is that a um, run-on sentence sort of? <U WHO="S1"> hm? </U> the last sen- well the last sentence of the paragraph this satire is valid, could that be like maybe broken up? </U>
+			<U WHO="S1"> how? </U>
+			<U WHO="S4"> um, <SEG TYPE="READING"> this satire is valid in the sense that </SEG> um, maybe he can explain more about, um, why it's valid, like what the dogmas and morals are. you know like </U>
+			<U WHO="S1"> well the at least the ones that he calls panoptic <U WHO="S4">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> and da- </OVERLAP> and dangerous. </U>
+			<U WHO="S4"> and then he could talk about m- how they're invalid. </U>
+			<U WHO="S1"> yeah. Chris do you really mean that all morals of all Christian morals are panoptic and dangerous? </U>
+			<U WHO="S7"> no. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> (maybe talk about) the ones you mean, s- more specifically? </U>
+			<U WHO="S1"> i mean <OVERLAP> you can you can mean that i don't mean to bully you or anything but, you know it's them fight- them's fighting words. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> um, i don't mean (to be mean) but yeah well i mean, i guess all </OVERLAP> was a bad word to use but </U>
+			<U WHO="S2"> many </U>
+			<U WHO="S4">
+				<OVERLAP> some of </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i think you just, </OVERLAP> you just mean that a lot of them can be used in a way that, is not beneficial. like they can all be forced into a, panoptic uh, i don't know </U>
+			<U WHO="S1"> maybe you mean <U WHO="S7">
+					<OVERLAP> have you- </OVERLAP>
+				</U>
+				<OVERLAP> dogmatism </OVERLAP> is dangerous? <OVERLAP> and not </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> yeah </OVERLAP> have you read this before yet? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S7"> okay. <EVENT WHO="S4" DESC="LAUGH"/> well it's_ well i mean the sentence the paragraph breaks there but the idea, i just broke it cuz it's a long, mm i don't know. </U>
+			<U WHO="S2"> yeah i think <OVERLAP> that that paragraph could be longer </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> yeah i did continue (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> oh okay, okay. <U WHO="S2">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> alright so we should just hold on then? okay </U>
+			<U WHO="S7"> i guess well there's two_ well the sentence right there there's the two parts, it's valid and it's invalid and then the next two paragraphs one explains why it's valid and the next one, explains why it, <U WHO="S1"> okay </U>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well </OVERLAP> why'd you break up the paragraph then? it's not that long. <OVERLAP> it's fine </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> well </OVERLAP> because the next one, you see there's the next two paragraphs talk about it. <U WHO="S4"> oh, that is long </U> and the second one is pretty long. <OVERLAP> so i thought </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay well you're doing </OVERLAP> the thing that, you didn't_ you're not doing the thing here that you didn't do in the, in the other paper, right? transitions and and, markers that <U WHO="S7">
+					<OVERLAP> yeah, (xx) </OVERLAP>
+				</U>
+				<OVERLAP> give the reader an idea of, </OVERLAP> what strategy you're, operating under right? how are these paragraphs_ how am i supposed to anticipate these paragraphs? </U>
+			<U WHO="S7"> how do you do that? </U>
+			<U WHO="S1"> well, um, you can do it, you know, the easiest way to do it would be, um, there are two ways to explain this phenomenon or there are two sides to this story end paragraph next paragraph. <U WHO="S7"> okay </U> okay? or i mean that's that's like a grade-school way of doing it <OVERLAP> but, </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U> something to that something that gestures, the same way that that <OVERLAP> example gestures. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> that's gonna continue? </OVERLAP>
+			</U>
+			<U WHO="S1"> right. okay? um, you need to footnote that, right? or you should, first time you're <U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> quoting </OVERLAP> Hammer, right? this might be a good place to do it. no <OVERLAP> rule that says you can't footnote </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> how do you how do you footnote </OVERLAP> uh </U>
+			<U WHO="S1"> block quotes? </U>
+			<U WHO="S7"> block yeah. </U>
+			<U WHO="S1"> just at the end of the block. </U>
+			<U WHO="S7"> okay yeah. </U>
+			<U WHO="S1"> is that your, was that your <U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> question? </OVERLAP>
+			</U>
+			<U WHO="S6"> oh i was just gonna say like, would you just, like have the footnote at the end of the block and still have Hammer underneath it like the way he has there, <U WHO="S1"> no </U> or you wouldn't have that at all? </U>
+			<U WHO="S1"> right you wouldn't have that at all. right, one, but not both. right? just like, just like you wouldn't <EVENT DESC="WRITING ON BOARD"/> do that. </U>
+			<U WHO="S6"> i just didn't know if it worked different with the block or not. </U>
+			<U WHO="S1"> mhm. okay? Sarah? </U>
+			<U WHO="S2">
+				<SEG TYPE="READING"> the suggestion that the fundamental Christian world of Gilead exists in our world today, leads to the conclusion that Christianity is a panoptical religion. the premise of Christianity is that people can personally, have a relationship with God and that he, always is watching us. this power and knowledge of God makes him the ultimate eye. </SEG>
+				<U WHO="S1"> oh </U>
+				<SEG TYPE="READING"> a Christian, could live a full life of sin and deception and never suffer any consequences. but being under the constant surveillance of God will inevitably lead most devout Christians towards, confession and repentance. the only other feasible outcome for a true believing Christian who struggles with, sin is to fall from their faith. much like the consequence in Gilead of being sent to the colonies a Christian may fear the ultimate consequence of, eternity in hell. </SEG> wow... </U>
+			<U WHO="S1"> or any of you, this isn't just, Sarah's paragraph... </U>
+			<U WHO="S3"> um, just, like, for the sentence that says, have a relationship with God and that he always is watching us, would you say he is always watching us? is it... where should you put the always? </U>
+			<U WHO="S1"> oh say again? which sentence? </U>
+			<U WHO="S6"> it's between the first and, <OVERLAP> the second </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> between the first </OVERLAP> and the second page that that he always is watching us would you say he is always watching us? </U>
+			<U WHO="S1">
+				<SEG TYPE="READING"> and that he always is watching us. </SEG> is always watching us sounds better to me. </U>
+			<U WHO="S3"> yeah. (i thought it should be that.) </U>
+			<U WHO="S2"> i like it. <OVERLAP> i like it a lot. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i like it too. </OVERLAP> yeah. uh, oh. there's an example of where a period should go inside quotes right? the ultimate eye, dot, end quote... </U>
+			<U WHO="S7"> is that fair to use eye like that? cuz, i don't know, i don't know </U>
+			<U WHO="S1"> fair? </U>
+			<U WHO="S7"> yeah fair like it's a, thing, from the book that, isn't explained at all but, kind of assume that (it's) </U>
+			<U WHO="S1"> uh hm... maybe you should footnote that, actually. </U>
+			<U WHO="S7"> okay. </U>
+			<U WHO="S1"> yeah. good. and you can get that um, get that footnote out of the way too. </U>
+			<U WHO="S4"> question about that one. would you like if he's footnoting that would he like, give a, a definition of what that eye is in Atwood at in the footnote? you know how like, <OVERLAP> sometimes </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> in the </OVERLAP> footnote? <U WHO="S4"> yeah </U> mm, you could, for sure you could you could define eye or you could sort of r- remind the reader or for the benefit of somebody who hasn't read that book, uh talk about what the eyes are in the novel, in the footnote. okay? you would do that if the rest of this paragraph is going to go on talking about eyes but not really pause to to explain what they are, okay? the other thing you can do is not do that in the footnote and just sort of briefly do it in the sentence that talks about the eye. okay? yeah but for sure you can do that sort of thing in the footnote. </U>
+			<U WHO="S6"> h- how would you do it would you put that before like all the information or after the information? </U>
+			<U WHO="S1"> after. <U WHO="S6"> okay. </U> mhm... anything else? </U>
+			<U WHO="S2"> i don't see anything terribly wrong with it. </U>
+			<U WHO="S1"> no it looks good to me too. yeah i like this idea immensely. um i don't know why i didn't thought uh why i didn't think about this before. alright? um faith i think here is the, is the right word. alright? w- you were talking about, the relationship between, the panoptic inmate and the guard, the unseen guard right? that relationship is one of faith. it's a perversion of faith but you know it's it's it's the same thing it's, not, it's believing in something that you don't see or you have no proof of. right? right so, maybe um not a big mistake or an accident that, Christian fundamentalists um, well a theocracy like Gilead, operates, under uh panoptic rules. good good good. next one? Jenny? </U>
+			<U WHO="S3">
+				<SEG TYPE="READING"> it doesn't appear that Atwood's satire is necessarily directed at Christianity but instead toward Christian followers who do not hold the faith of their religion but embrace the rituals and dogmas of their church. since the women of Gilead aren't allowed to read the Bible they are given a very skewed image of what is in the Bible. in a Biblical sense fruit is usually considered to be the result of the spirit such as peace, love and good works. in Gilead the fruit always refers to the babies. </SEG>
+				<U WHO="S1"> mhm. </U>
+				<SEG TYPE="READING"> this is drawn from the Bible description of Jesus being the fruit of Mary's womb. this mi- misinterpretation, doesn't exist in our world but only in Gilead. other parts of the Bible that are looked at in Gilead are verses about male dominance and women being submissive and bearing children. Atwood has a fairly_ has a very fair dispute with the Christian view on this subject but she places a ridiculous amount of focus on this topic. in Gilead, the verses from the Bible that deal with this issue seem to be the only verses anyone looks at. </SEG>
+			</U>
+			<U WHO="S1"> oops what what? stick with one verses. S E S not S U S. <U WHO="S7">
+					<OVERLAP> oh yeah. </OVERLAP>
+				</U>
+				<OVERLAP> vers- </OVERLAP> versus S U S is, me versus him. <U WHO="S7"> yeah. </U> Tyson versus Holyfield. <U WHO="S7"> oh </U> okay. </U>
+			<U WHO="S3">
+				<SEG TYPE="READING"> Jesus isn't isn't even mentioned in this satire against the Christian faith. similar, to disputes over homosexuality, verses are emphas- emphasized out of </SEG>
+				<U WHO="S1"> that one too </U>
+				<SEG TYPE="READING"> parts of the Old Testament that most Christians have probably never read. the whole handmaid system comes from a practice found in the Old Testament. passages found in the obscure places in the Old Testament are usually difficult to interpret, in any good sense of context and for the most part were abolished with the death and resurrection of Jesus Christ. </SEG>
+			</U>
+			<U WHO="S1"> mm? </U>
+			<U WHO="S3"> (well) it sounds like (you know) the Bible pretty well. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> um, you used aloud <SIC> L A O U D </SIC> shouldn't it be A L L O W E D? </U>
+			<U WHO="S1"> oh where? </U>
+			<U WHO="S4"> um in the second sentence <SEG TYPE="READING"> since the women of Gilead aren't allowed </SEG>
+			</U>
+			<U WHO="S1"> oh yeah yeah. </U>
+			<U WHO="S4"> that's a good contribution </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> that was easy </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> yeah that's the thing i'm like </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> you are tricky. um that sentence en- s- that sentence i don't like anyway. <SEG TYPE="READING"> since the women of Gilead aren't allowed to read the Bible they are given a skewed vi- image of what is in the Bible. </SEG> right what, what </U>
+			<U WHO="S6"> just cuz it says Bible twice (in there?) </U>
+			<U WHO="S1">
+				<OVERLAP> yeah why, why (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> maybe it should be like they aren't </OVERLAP> allowed to read period you know read </U>
+			<U WHO="S1"> yeah. <OVERLAP> right. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> like just </OVERLAP> get rid of that first the Bible? </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S7"> yeah i know. </U>
+			<U WHO="S4"> i have a like, i have a question about that in general like, repeating the same word in a sentence is that like always bad or is it okay sometimes? </U>
+			<U WHO="S1"> uh well, it's it's never bad. right? it's not a bad like <U WHO="S4">
+					<OVERLAP> like could it be good sometimes to do? </OVERLAP>
+				</U>
+				<OVERLAP> pull you aside and </OVERLAP>
+				<EVENT DESC="LAUGH"/> make you sit in a corner bad but </U>
+			<U WHO="S4"> like in the sentence, in the, paragraph before, this one he uses consequence, twice but it doesn't seem like it, interrupts like the flow of the sentence or anything. </U>
+			<U WHO="S1"> mm. um, okay i'll i'll give you this, this to you, in terms of kind of what's better and what's worse, cuz of it's not really a rule, um, what would be what would be bad or towards bad, is um, both using a word, the same wo- word more than once when you don't need to and also you can hear, that word being reported repeated, and so it distracts you. okay? better than that would be repeating a word, um but it doesn't really_ you don't really hear it, like the consequence one, which i didn't catch either. um, better than that would be not repeating the word at all, and better than that would be um using words that really, make the subtle distinction between ideas if, there exists such a a distinction and and it's it's uh relevant to what you're talking about. repeat words if you're if you mean it if that if that has a point. okay? maybe the first time you use that word, you use it in one way and you mean for the reader to understand it and the second time you mean it there's a second aspect to that word, that you mean in, in that part of the sentence. right? but you know those scarce_ cases are rare, um, so otherwise it's it's usually just uh um, you know laziness of of writing, right of of writing drafts. um you didn't feel like taking out a thesaurus at that moment or you just wanted to get that idea down on the page before you forgot it or something. alright? um, so fix it between drafts. um, good. you have anything to say about what Chris is talking about here? <PAUSE DUR="0:07"/>
+			</U>
+			<U WHO="S4"> when he says that um, i don't remember what it was about her use of the scriptures being ridiculous? um, hold on i gotta find it. </U>
+			<U WHO="S1"> ridiculous amount of focus on this topic. </U>
+			<U WHO="S4"> yeah. it doesn't, i don't_ like the statement doesn't seem to be really like proved afterwards how it is ridiculous like, because like there are like a lot of, people who still use the Old Testament, you know, like </U>
+			<U WHO="S1"> uhuh okay. </U>
+			<U WHO="S4"> the Old Testament like, ideally like, was supposed to be, you know the, like Christian Scientists or like, churches like that, only use the Old Testament so like, it seems like </U>
+			<U WHO="S1"> right yeah that's good. uh maybe you want to, say that you think this is ridiculous because, well um it's it's a convenient use of, it's a convenient um, taking out of context of certain passages, right that might, be proma- uh problematized by other parts of the Bible. right? i think you're you're getting at that you're_ that's why you're saying they don't talk about Jesus. </U>
+			<U WHO="S4"> also because like there's scriptures in the New Testament that also like in, Thessalonians and Phillipians it, <U WHO="S7">
+					<OVERLAP> yeah it's interesting stuff </OVERLAP>
+				</U>
+				<OVERLAP> it talks about women's </OVERLAP> , things like not speaking out in the church, so like <U WHO="S1"> hm </U> you know someone could use those too. and that's in the New Testament, so i don't know like, you might wanna <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> i remember in the movie they, they um... during this sa- the ceremony during the Prevaganza, um, the guy, right this is when they get their veils, right? the guy says we'll let the the Old Testament be our guide, or be our constitution or something like that, i don't think there's anything like that in the book, right? any, you know uh, proof that this that Gilead is only listening to the Old Testament. right but i i do remember that from the movie. </U>
+			<U WHO="S7"> do y- i was looking for_ do you know the Bible very well? </U>
+			<U WHO="S4"> huh? </U>
+			<U WHO="S7"> i was looking for_ i don't know if it would actually help my paper at all but there's a verse, that talks about, women bearing children, because of, um, Eve's original sin? <U WHO="S4">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> and it's, </OVERLAP> do you know what i'm talking about? <OVERLAP> it's in the New Testament </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i think it's ab- </OVERLAP> uh i think that scripture's about like women having like, menstruation like, i think that's what you're talking about <U WHO="S7">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> like that's </OVERLAP> a punishment, <U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> for Eve's </OVERLAP> sin? that's in the Old Testament, i don't know exactly where it is though </U>
+			<U WHO="S1"> well it's it's right in Genesis isn't it? </U>
+			<U WHO="S4"> um, (i don't know,) i don't know. </U>
+			<U WHO="S1"> yeah when they're getting kicked out of the Garden of Eden, <U WHO="S4"> mhm </U> you know and he's explaining why you're being punished the way you are? right? </U>
+			<U WHO="S7"> that_ it says, (xx) </U>
+			<U WHO="S1"> yeah it's right there. </U>
+			<U WHO="S7">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> is it_ </OVERLAP> is bearing <OVERLAP> children part of that? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) fortune (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="S7"> oh okay. </U>
+			<U WHO="S1"> what about the trope of um, of one being, bride to Jesus? </U>
+			<U WHO="S7"> what's that? </U>
+			<U WHO="S1"> or one being bride to Jesus one, one marrying the church? </U>
+			<PAUSE DUR="0:07"/>
+			<U WHO="S7"> what about that? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> are you familiar with that? you know there is there is and the the the reason why nuns don't, <U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> take a v- take a vow of celibacy is because_ and they wear rings too don't they? <U WHO="S2"> i don't know </U> i think they do. um, it's because they are declaring their, kind of, they're becoming um brides to the faith brides to the church, right? to Christ. um, i don't know if that might be useful to you too. </U>
+			<U WHO="S4"> you might get into a whole mess though <EVENT DESC="LAUGH"/> if you <U WHO="S1">
+					<OVERLAP> yeah, right </OVERLAP>
+				</U>
+				<OVERLAP> start like talking </OVERLAP> about all that stuff <OVERLAP> (after) (xx) </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1">
+				<OVERLAP> well i </OVERLAP> you know i like this, i like this because, you know you're t- you're, taking Atwood, somewhere that, that it hasn't gone yet in this class. right? and you're decoding um, the Biblical allusions in in Atwood's novel very smartly. okay? but also because you have a certain, you have like a bone to pick here, right? you you notice that about, the tone here so far? okay? i mean i'm not suggesting that you guys you know pick fights with authors, um, but if you do, right, it sure gives you something to say, it gives you something to argue for. right? so in that r- in that regard it's, it's good, it's to be welcomed. </U>
+			<U WHO="S4"> i have another, <U WHO="S1"> yeah </U> (thought there.) um, i think the sentence like in the middle where it says <SEG TYPE="READING"> this misinterpretation doesn't exist in our world but only in Gilead, </SEG> do you really, <EVENT DESC="LAUGH"/> believe that that, is true? like, <U WHO="S7">
+					<OVERLAP> well it's </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> especially when you talk about like Christian fundamentalists, in the beginning, i mean </U>
+			<U WHO="S7"> do they really refer to being like, the fruit as being </U>
+			<U WHO="S4"> you mean like this, specific? </U>
+			<U WHO="S7"> i was talking yeah <OVERLAP> specifically with the fruit. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh okay. </OVERLAP> you might wanna like specify cuz it seems more like to me like you're saying like, this sort of misinterpretation of the Bible, doesn't, <OVERLAP> occur in our world. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> as a whole you mean? s- </OVERLAP> yeah. <U WHO="S4"> yeah </U> i just meant specifically that. <U WHO="S4"> oh okay. </U> it's an idea that was specifically put, in Gilead, <U WHO="S4"> okay </U> i don't know, because of their need for babies. </U>
+			<U WHO="S1"> you wanna do the next one? okay? Matt i think that's yours. </U>
+			<U WHO="S8"> um, <SEG TYPE="READING"> Atwood isn't the first author to make a criticism against the Christian church. </SEG>
+				<U WHO="S1"> criticize. criticize the church. hm? </U> okay. <U WHO="S7"> yeah. </U>
+				<SEG TYPE="READING"> Mark Twain's portrayal of the Sunday Christians in Huckleberry Finn, are two-faced and hypocritical. this kind of satire on Christianity is acceptable because it makes its point, but is still nonoffensive to a large Christian audience. although Margaret Atwood and Samuel Clemens clearly oppose Christianity, their satires are altogether trivial, towards the Christian faith and only oppose the structures and dogmas of the church, which are admittedly inherently evil. it's hard to tell if Atwood's attempt is to entirely, i- is to entirely sincere </SEG>
+			</U>
+			<U WHO="S1"> be sincere...? is enst- <U WHO="S8">
+					<OVERLAP> yeah it sounds, sounds weird </OVERLAP>
+				</U>
+				<OVERLAP> entirely sincere or is to be </OVERLAP> entirely sincere? one or the other? </U>
+			<U WHO="S8">
+				<SEG TYPE="READING"> or somewhat constrained for the sake of popularity. </SEG>
+			</U>
+			<U WHO="S1"> um, what do you think Matt? </U>
+			<U WHO="S8"> um... </U>
+			<U WHO="S1"> who was the Sunday Christian in Huck Finn? i don't remember </U>
+			<U WHO="S7"> he goes t- i don't (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> i don't really like that second sentence. </U>
+			<U WHO="S7"> he ends up with this fa- it's the Romeo and Juliet thing where, they have the two families who are, <U WHO="S1"> oh </U> disputing. </U>
+			<U WHO="S1"> yeah okay, okay. um, hmm... go on Matt. i didn't mean to interrupt. </U>
+			<U WHO="S8"> um i just, i didn't like that second sentence. </U>
+			<U WHO="S1"> you didn't like the second sentence? what's wrong with it? </U>
+			<U WHO="S8"> um... i don't know he's saying, that the Christian is two-faced and hypocritical or <OVERLAP> this </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U> picture or Mark <U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> Twain </OVERLAP> is? </U>
+			<U WHO="S7"> the Christians. </U>
+			<U WHO="S1"> oh yeah right. </U>
+			<U WHO="S7"> yeah it's, (xx) </U>
+			<U WHO="S1"> yeah uh right now it reads that the portrayal is two-faced, portrayal are two-faced so that doesn't make sense, um, of the two-faced Sunday Christians, right? you need something like that. uh i think that's a dead end, Matt uh Chris. <U WHO="S7"> yeah. </U> yeah you're you're not talking about it enough to warrant it, being mentioned. so if you can, if you're gonna if you're gonna cite some of this and, no no that's that's opening up a whole new avenue, of discussion. yeah, i'd take that out. okay? you only talk about it here right? </U>
+			<U WHO="S7"> yeah i think so. </U>
+			<U WHO="S1"> okay. yeah take it out. <SEG TYPE="READING"> it is hard to tell if Atwood's attempt is to, be entirely sincere or, somewhat constrained for the sake of popularity </SEG> uh constrained, constrained? <OVERLAP> strained? </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i don't </OVERLAP> think i've talked about this. i had the idea that (xx) that, maybe i didn't </U>
+			<U WHO="S1"> you're saying that Atwood is a <OVERLAP> appealing </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i'm saying that </OVERLAP> , she might, oppose Christianity but since that her audiences, consisted of so many Christians that she limited to, kind of a superficial like, she doesn't, she doesn't you know tear <U WHO="S1">
+					<OVERLAP> hm </OVERLAP>
+				</U>
+				<OVERLAP> apart </OVERLAP> the church <OVERLAP> too much </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so you </OVERLAP> think Atwood's satire is actually more superficial than, than Twain's. </U>
+			<U WHO="S7"> no both their, they're both, for the sake of popularity i think they, made_ didn't make_ even though they both opposed Christianity, they don't, make a direct attack on it i guess. <U WHO="S1"> okay. </U> they leave it to, you know Sunday Christians and d- um </U>
+			<U WHO="S1"> okay, for the sake of, um, for the sake of moderation, uh, nonoffensive? </U>
+			<U WHO="S7"> i don't think that's a word. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> right i don't think so either. </U>
+			<U WHO="S7"> i couldn't think of a better one though. </U>
+			<U WHO="S1"> well, you can say inoffensive but, i think you just mean, isn't, offensive, right? </U>
+			<U WHO="S7"> yeah. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> that still isn't offensive to a large Christian audience... <EVENT DESC="LAUGH"/> yeah. nonoffensive as a verb is, or as an adjective is strange because, i mean you can think of, you can imagine being offensive as an act but being nonoffensive as an act? it's strange. how do you not be offensive, you know, purely? okay, um, next one. </U>
+			<U WHO="S9">
+				<SEG TYPE="READING"> whether Atwood is directing her satire towards Christian churches or towards an indifferent Christian America is an issue of concern. according to Malak one of the novel's successful attempts concerns the skillful portrayal of a state that in theory claims to be founded on Christian principles, yet in practice miserably lacks spirituality and benevolence. this description of Gilead could in fact be a description of our American society but i believe it lacks a certain bit of skillfulness that Malak would like us to believe. here the satire of Christian fundamentalism isn't necessarily pointed at Christians but at our society and the influence given over, to right wing fundamentalists. but the historical notes at the end of the novel hurt this part of Atwood's satire. the entire historical notes at the end of the novel represents a satire on critics who spin out theories about literary works or historical texts without genuinely recognizing or experiencing, the pathos expressed in them. they circumvent issues classify data construct clever hypotheses garbed in ritualistic fashionable jargon, but no spirited illumination ever comes out of their endeavors. this humorous ending of the novel pokes fun at scholarly critics, who take an unemotional viewpoint over a situation and end up missing much of the significance of the scenario. this fits in with the story perfectly in Gilead's view of Biblical history. nobody in the novel demonstrates a spirituality the society would want you to have, and nobody really buys into the system. the sexual ceremony performed with the handmaid isn't enjoyed by anyone and yet is supposed to be a very spiritual event. there is absolutely no spirited illumination of Christianity in Gilead. </SEG>
+			</U>
+			<PAUSE DUR="0:20"/>
+			<U WHO="S1"> mm, can you say something about it Amy? </U>
+			<U WHO="S9"> well it's the wrong whether, the first senten- <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> first word </OVERLAP>
+			</U>
+			<U WHO="S2"> fundamentalists needs an S on the end <U WHO="S3"> yeah </U> needs to be plural. <EVENT DESC="LAUGH"/> we grab the easy stuff quick. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> yeah you guys <OVERLAP> are </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oops </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> Chris coulda done that on his own. </U>
+			<U WHO="S7"> yeah <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S9"> one thing like the about the historical notes at the end of the novel (at) this part and then it says the entire historical notes at the end of the novel is that bad that it just like kinda repeats itself a little like that? </U>
+			<U WHO="S1"> what? what's that? </U>
+			<U WHO="S9"> like where it says but the historical notes at the end of the novel, and then it says the entire historical notes at the end of the novel like you know that one part sort of (in quotes?) or, could you just have the first part different so it doesn't just, <U WHO="S1"> hm. <OVERLAP> yeah okay </OVERLAP>
+				</U>
+				<OVERLAP> (different from the other one?) </OVERLAP>
+			</U>
+			<U WHO="S2"> and, is this, is the descrip- this description of Gilead could in fact be a description of our American society but i yadda yadda yadda is that a run-on sentence sort of? </U>
+			<U WHO="S1"> where are you? </U>
+			<U WHO="S2"> or no? right after the first, um, block quote or </U>
+			<U WHO="S1"> this description of Gilead </U>
+			<U WHO="S2"> or is there does there need to be a comma there? </U>
+			<U WHO="S1"> this description of Gilead could in fact be a description? </U>
+			<U WHO="S2"> doesn't there not need to be a comma after Gilead? </U>
+			<U WHO="S1"> no comma. </U>
+			<U WHO="S2"> right. and after here in the next sentence shouldn't there be a comma? </U>
+			<U WHO="S1"> after here...? oh. um, your choice... </U>
+			<U WHO="S4"> when he said, he believes that, it lacks a certain bit of skillfulness </U>
+			<U WHO="S1"> yeah what does that <OVERLAP> mean? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> um, </OVERLAP> i think <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> that's </OVERLAP> uh, the next, paragraph is all about that actually. </U>
+			<U WHO="S1"> who lacks the skillfulness? what <OVERLAP> does? </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> Malak. </OVERLAP> um, or maybe she does no she does yeah. his uh, claim that, in his quote it says it's a skillfu- skillful, portrayal, and i'm saying it's, not so true, in <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh i see </OVERLAP> ... oh okay um, the wording is off then, right? just say but it isn't as skillful quote, put that in quotes, as Ma- as Malak, takes it, as Malak sees it... okay? is that what you were gonna say, Leslie? </U>
+			<U WHO="S4"> yeah, sort of. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> um, so you're d- you're disagreeing with Malak on that point, and you're going on to disagree with him about, what he says, about the historical notes too? </U>
+			<U WHO="S7"> j- i'll just tell you what i mean cuz in the next par- the next paragraph talks about um, her uh, satire here is that the, historians are looking at, the situation in a very unemotional, unrelated way, <U WHO="S1"> mhm </U> and in the same way, her book, the people of Gilead are looking at the Bible in this very unemotional way, um, and Chri- well Christianity as a whole in a very unemotional, way and they're not drawing into the reasons for the rituals and stuff, and <OVERLAP> (it would) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what do you mean </OVERLAP> that Atwood is doing that? </U>
+			<U WHO="S7"> well that's what i said and then, seeing as that At- Atwood's, satire is on, Christianity that is, describing her view of how a, like an_ i don't know i don't think i can explain it. <EVENT WHO="SS" DESC="LAUGH"/> that that since since that's her satire, that portrays her view, as well as, of what </U>
+			<U WHO="S1"> Atwood is satirizing, uh a hypocritical, interpretation of the Bible, right for the purposes of establishing a theocracy that, is really just about power. okay? so if she's satirizing that, then y- you imagine that she is for the kind of spiritual reading of the Bible that you're, you're saying bl- is missing in Gilead right? </U>
+			<U WHO="S7"> i suppose <EVENT DESC="BEEPER GOES OFF"/> but, that's what i thought at first but i don't, i'm a little shaky <EVENT DESC="LAUGH"/> on this. </U>
+			<U WHO="SU-m"> sorry, <OVERLAP> (that was me) </OVERLAP>
+				<EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> it's this paragraph <OVERLAP> is a little shaky. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> but, but i don't think </OVERLAP> she is though. i think that her, it could be interpreted that way but i don't think that's the way she uh </U>
+			<U WHO="S1"> i could make a lifeline joke but i'll, pass. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2">
+				<EVENT DESC="SINGING"/> do do do do do do </U>
+			<U WHO="S1"> are y- are you saying that Offred, are you saying the Atwood is satirizing, spirituality or, an unspiritual hypocritical way of, interpreting the Bible? </U>
+			<U WHO="S7"> um i'm saying kinda both. </U>
+			<U WHO="S1"> both? <EVENT WHO="SS" DESC="LAUGH"/> how's she doing both? <U WHO="S7">
+					<EVENT DESC="LAUGH"/>
+				</U> okay um, you lost me a little bit here, i i've lost the vein of things. </U>
+			<U WHO="S7"> (seem) to lose it myself. </U>
+			<U WHO="S1">
+				<OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> let's </OVERLAP> let's read on for a minute. <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S1"> yeah <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (to) the next </OVERLAP> paragraph. <EVENT DESC="LAUGH"/> this'll this'll help. i have faith in Chris. </U>
+			<U WHO="S1"> who is that Jenny? <U WHO="S10"> me </U> ah Chrissy. </U>
+			<U WHO="S10"> alright <SEG TYPE="READING"> in a sense Atwood is trying to express what has become of Christianity in America, but at the same time her disapproval of Christian rituals and dogmas is then hypocritical. if Atwood is indeed criticizing the Christian church for its practices, she is failing to recognize or experience the pathos of these rituals. what may seem to be ruthlessly tyrannical, may actually be rooted in spirituality and deep emotion. </SEG>
+				<U WHO="S1"> oh </U>
+				<SEG TYPE="READING"> Atwood is ignoring the importance that Christianity and all its rituals have on its followers. even today Christians are subjecting themselves to persecution, in an attempt to serve God. this kind of sacrifice isn't made out of necessity, but out of, out of a love for Jesus Christ. Atwood chooses to completely ignore this type of Christian, in the state of Gilead. in the novel, in a novel depicting the dangers of Christian fun- fundamentalists, Jesus </SEG>
+			</U>
+			<U WHO="S1"> funda- fundamentalism. </U>
+			<U WHO="S7"> yeah. </U>
+			<U WHO="S10">
+				<SEG TYPE="READING"> Jesus is never mentioned. her choice to ignore this side of Christianity, may be justified if it is her attem- intent to show that this type of Christian, is far too rare in our society. but i doubt that this was her intent, and her reasons for overlooking this, was only to make a stronger point of the dangers of dog- dogmas. </SEG>
+			</U>
+			<U WHO="S1"> i think that's pretty clear. okay. um, can you fault her for this? can Atwood be faulted for, not considering, um Christians who are subjecting themselves to persecution in an attempt to serve God? </U>
+			<U WHO="S7"> i thought about that too and i- i guess it go_ in uh, i think Malak's, because he talks about how, like Gilead is fictional in certain ways, and how it's okay to be fictional, that, and if you had these kind of Christians it would kinda ruin the </U>
+			<U WHO="S4"> the whole point of it. </U>
+			<U WHO="S7"> yeah it would ruin <OVERLAP> the point of the novel. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah it would </OVERLAP> it would water down the satire a bit. okay? um, i don't know. i i don't wanna say that your your concern here is, um irrelevant to the discussion, but, you know if Atwood is trying to write about a society that is the logical consequence of some fundamentalist thought that she saw, um being prevalent in th- in the eighties, right, then, the novel that she writes is a_ is, going to, be such or the world that she writes about is going to be such so that those elements are exaggerated to a very grotesque point. right? if she'd then insert some sort of qualifying idea about, how, but in other s- instances you know, this sort of fundamentalism is okay or is in service of Christian beliefs, right? let's say, we have in this novel jus- juxtaposing Gilead, you know a second theocracy, that was doing pretty well you know? um, i don't know, i feel like it would, it would kinda cheat, the s- the strength of the satire. okay? so unless you mean, something like, well actually within this novel, we see instances of, real service or you know, um, persecution that should be borne, right? unless you mean that, uh i don't know, i i don't quite, i don't quite follow why, you are, objecting the way you are. </U>
+			<U WHO="S7"> well in the, there's no_ in Gilead there's no one who actually, none of the characters actually believe, in what's_ in the system, <U WHO="S1"> you don't think? </U> in a way. </U>
+			<U WHO="S1"> what about Aunt Lydia? </U>
+			<U WHO="S7"> um... </U>
+			<U WHO="S1"> i think she's the test. </U>
+			<U WHO="S7"> what's that? </U>
+			<U WHO="S1"> i think she's the test she seems to be the, the <U WHO="S7">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> strongest </OVERLAP> believer. </U>
+			<U WHO="S7"> well she seems to, it gives her power to be a, to, you know like a preacher who, like a televangelist who's trying to get money <EVENT WHO="SU-f" DESC="LAUGH"/> but, you know, it gi- it's he's doing it for the money not for, <OVERLAP> his </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> how do you </OVERLAP> know how do you know she's doing it for one and not the other? sure <OVERLAP> she does that but </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i guess you don't know </OVERLAP> but i mean it's gi- i don't know, the power_ it's kinda kinda like Serna- Serena Joy that was, the stay-at-ho- like the advocate of, you know staying at home and being a mother until she actually had to do it... <OVERLAP> (and i) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> go on. </OVERLAP>
+				<EVENT WHO="S7" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> i think the reason why this particular paragraph to me, well, if you probably in this essay address the other people too, and could show how you could make a strong argument talking about the people who, do use the Old Testament and the people who don't, then maybe, it would be easier to prove that <U WHO="S1">
+					<OVERLAP> oh yeah, yeah. </OVERLAP>
+				</U>
+				<OVERLAP> Atwood is like, </OVERLAP>
+				<U WHO="S7"> (like) <OVERLAP> what do you mean? </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> like, you talk about um, like you really seem to be very like, strongly opposed to her use of the Old Testament and like sort of, overdoing it, and not showing that there's an other side, like there's other Christians, who don't like, worship God out of necessity but they choose to, i think y- to make a strong argument you'd have to also, be able to talk about the people who do what she says, is going on. like i- because like if you argue for both sides, for most people you won't be r- be be able <OVERLAP> to really </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> okay </OVERLAP>
+				</U> make a convincing argument <OVERLAP> (you know.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah you need a </OVERLAP> you need a counterexample is what you need. </U>
+			<U WHO="S4"> yeah. that's what you need. </U>
+			<U WHO="S1"> um, you know what though, and this is kind of a lame concern, but uh, you're straying from the paper topic too. right? you had me when you were talking about how Christianity is already necessarily panoptic, right, cuz i'm thinking wow he's talking about Foucault. i didn't think anybody would. <EVENT WHO="SS" DESC="LAUGH"/> right? i you got me then but, you're kind of outside of things now. </U>
+			<U WHO="S4"> i was thinking that. </U>
+			<U WHO="S1"> okay uh, take a break. just a little one </U>
+			<EVENT DESC="MULTIPLE CONVERSATIONS UNTIL BREAK"/>
+			<U WHO="S4"> (xx) </U>
+			<U WHO="SU-f"> i know, i'm <OVERLAP> (kind) (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (i've got) like one more page to </OVERLAP>
+				<EVENT DESC="LAUGH"/> write </U>
+			<U WHO="S2"> i know i'm kinda jealous. but you know what just ticks me off though? cuz now i have all these like, <U WHO="S3"> great ideas? </U> ideas in my head </U>
+			<EVENT DESC="BREAK IN RECORDING"/>
+			<U WHO="S2"> i don't know he said you know it just wasn't he said your arguments are not clear like things weren't and i said oh that's really bizarre, <OVERLAP> cuz (i am) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's hard </OVERLAP> to justify a D minus <U WHO="S2">
+					<OVERLAP> yeah. he said it was the worst </OVERLAP>
+				</U>
+				<OVERLAP> as a grade, unless the paper </OVERLAP> was, like weeks and weeks late or <OVERLAP> it's in the wrong language or something. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> hm'm i- there were they were actually </OVERLAP> like a day early. <EVENT DESC="LAUGH"/> which i <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah especially </OVERLAP> after he thought you were so good last <OVERLAP> semester it's like what happened? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i know and i was like oh </OVERLAP> (Bob) i'm like this is making me feel awful but i mean my final grade was, <OVERLAP> well not what it shoulda been. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (maybe he felt bad) </OVERLAP>
+				<OVERLAP> cuz you started crying. (you were probably) (xx) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's really hard to get, just a D minus, straight off (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well </OVERLAP> i did. every time. i said j- <OVERLAP> and he didn't hate me i mean we had a (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that is so weird. did you see anybody </OVERLAP> else's papers or did you ask <OVERLAP> (if they all) or </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> see that's the thing </OVERLAP> is we did a couple of 'em_ like in class, um, we would like switch papers and stuff and like, i we would do topic you know like, little papers in class like little essays or whatever and we would trade around the room and we'd like read 'em out loud to kind of, so we could have a discussion, you know but not nobody cuz nobody really wanted to come forward and discuss everything, and, people would they would discuss my pap- my stuff, i mean i knew what i was talking about a little bit, and everybody else's i mean yeah that but everybody always everybody's papers always sound better than me. <OVERLAP> than my own. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> maybe he felt </OVERLAP> guilty about giving you so many As the previous semester. </U>
+			<U WHO="S2"> well that really makes me feel bad <EVENT WHO="SS" DESC="LAUGH"/> cuz i did well that semester. i don't know it was not fun though i, it was really an awful semester and so th- you know i was sending_ and i always send my stuff home my mom always likes to see my papers and stuff <U WHO="SU-f"> oh no </U> so i send her like these folders home i'm like mom here, she's like what is this? and i'm like i don't know. <U WHO="S4"> oh my god. </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> uh oh. </U>
+			<U WHO="S1"> did you piss him off or something? </U>
+			<U WHO="S2"> no we got along super well. <OVERLAP> that was the thing. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that is so odd. </OVERLAP>
+			</U>
+			<U WHO="S2"> i i don't know <OVERLAP> but anyways. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> maybe this </OVERLAP> maybe the class was just <U WHO="S1">
+					<OVERLAP> it's </OVERLAP>
+				</U>
+				<OVERLAP> stressful </OVERLAP> and you just didn't do the, <U WHO="S1">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> it's weird. </OVERLAP>
+				</U>
+				<OVERLAP> work in the class </OVERLAP> or something. </U>
+			<U WHO="S2"> well see <U WHO="S3">
+					<OVERLAP> that is so weird </OVERLAP>
+				</U>
+				<OVERLAP> i i i know i know </OVERLAP> i didn't put forth like tons and tons of effort but i put forth a little bit of effort, <OVERLAP> like more than D minus. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what if you, </OVERLAP> what if you looked at an A paper, you know a paper that he gave you an A on and compared it to the, paper that he gave you the D on? </U>
+			<U WHO="S2"> well it's totally different. </U>
+			<U WHO="S1"> well as far as quality is concerned </U>
+			<U WHO="S2"> well, the thing i- i don't know i thought they were the kind of the same number one, Buddhism and, you know Chinese philosophy, are a little different_ ah the philosophy was like a little obs- obscure to me. like uh the Chinese philosophy was just kind of </U>
+			<U WHO="S1"> what are you what are you, Taoism? Confucianism? </U>
+			<U WHO="S2"> yeah. all of it. like i just <U WHO="S1">
+					<OVERLAP> that's not so different from (Buddhism) </OVERLAP>
+				</U>
+				<OVERLAP> i didn't have, </OVERLAP> i just didn't have, as much of an idea i don't think i liked it as well as Buddhism. and, then, also i j- i don't know what it was i the papers were different in length like the, Buddhism papers were only two to three pages, whereas my Chinese philosophy were like eight, seven or eight, which might have something to do with it but, not a D minus worth. </U>
+			<U WHO="S3"> who were the other people in <OVERLAP> your class? were they like upperclassmen? or were they </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> philosophy can be hard though it just seems so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> they did, </OVERLAP> no they were all_ well well a little bit, i mean, they were probably all most of 'em were like a year above me, but i don't, <U WHO="S4">
+					<OVERLAP> i wouldn'ta been able take that oh my god i was just like </OVERLAP>
+				</U>
+				<OVERLAP> i mean it was miserable. oh it was so funny i just </OVERLAP> i was like okay. </U>
+			<U WHO="S4"> every single time i'd sit down i would be like, start writing a paper i would freak out and my boyfriend has to like, convince me that i can get through school. <EVENT DESC="LAUGH"/> like every, single time especially for this class. like i totally like, <EVENT WHO="S3" DESC="LAUGH"/> i probably could do, much better like if i just had my head on straight when i'm doing it but i'm just usually like i'm gonna get a E, i'm gonna get a E i'm gonna get a E like the entire, it's really bad i think i need an operation or something <EVENT DESC="LAUGH"/> before, it's bad, especially like this semester just cuz i've been working so much i'm just, a mess i can't wait until the nineteenth. <U WHO="SU-m"> oh </U>
+				<EVENT DESC="LAUGH"/> it's insanity. </U>
+			<U WHO="S2"> oh </U>
+			<U WHO="S5"> i could <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> wait until the nineteenth </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> wait i was </OVERLAP>
+				<EVENT DESC="LAUGH"/> i was (xx) nineteenth (xx) <OVERLAP> for like ever. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i don't think </OVERLAP> i was supposed to fill this part out. oops. </U>
+			<U WHO="S4"> yeah you are </U>
+			<U WHO="S2"> this not this part? are we? </U>
+			<U WHO="S4">
+				<OVERLAP> yeah, why not? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i think we're supposed to fill out </OVERLAP> , all the bottom, like, from here down. </U>
+			<U WHO="S2"> oh. <U WHO="S4"> yeah </U> okay. </U>
+			<U WHO="S1"> i think you're doing okay </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> not really </U>
+			<U WHO="S4"> you won't get graded don't worry </U>
+			<U WHO="S2"> i know. D minus. </U>
+			<U WHO="S1"> tell me, go go around the room one more time and tell me what you guys are studying. </U>
+			<U WHO="S4"> music, viola. </U>
+			<U WHO="S2"> general studies, anthro religion and soc. </U>
+			<U WHO="S3"> computer science. </U>
+			<U WHO="S6"> architecture. </U>
+			<U WHO="S9"> psychology and religion. </U>
+			<U WHO="S7"> education. </U>
+			<U WHO="SU-m"> psychology and film video. </U>
+			<U WHO="S11"> haven't decided yet. </U>
+			<U WHO="S5"> i don't know. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> you do a lot of writing Amy, i bet. </U>
+			<U WHO="S9"> i guess. not not as much as you'd think like psych classes they give you like one, two papers <U WHO="SU-m">
+					<OVERLAP> yeah they're not bad </OVERLAP>
+				</U>
+				<OVERLAP> and they're usually short </OVERLAP> and they don't like, <OVERLAP> really </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> huh </OVERLAP>
+			</U>
+			<U WHO="SU-m"> they're not that bad really </U>
+			<U WHO="S2"> wait, did we already talk about if you were in two-oh-one last semester? </U>
+			<U WHO="S9"> what religion? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S9"> um i was in it for first semester last year yeah they don't offer it second semester. </U>
+			<U WHO="S2"> with wait (i get the professor) that was like <U WHO="S9">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> that class <OVERLAP> was hysterical. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> you have to get </OVERLAP> used to his speech <OVERLAP> (patterns) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i know </OVERLAP> i liked him a lot, and i liked, Jackson a lot. </U>
+			<U WHO="SU-f"> (was his name) Jackson? </U>
+			<U WHO="S9"> i don't know their names i really i went to lecture probably two thirds of the time but i don't (know their names) </U>
+			<U WHO="S2"> oh my god i was, laughing so hard half the time i was so, the problem with Ralph Williams is that i was so intrigued by you know his, <U WHO="S9">
+					<OVERLAP> theatrical performance </OVERLAP>
+				</U>
+				<OVERLAP> flailing arms </OVERLAP> that i was just like what is he talking about? this is so fun <EVENT WHO="SS" DESC="LAUGH"/> and i didn't know what was going on (i had no idea) </U>
+			<U WHO="S9"> he stresses the wrong words in <OVERLAP> sentences (like it's) weird. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and he but he when he </OVERLAP> gets up there like he'll seriously like, gallop across the stage and it's hysteri- i just sat there and i was like i love him he's so fun. </U>
+			<U WHO="S1"> what is this, what is this way you have, of using the word stress? i've caught it i've caught caught this particular usage am- among this group. you <U WHO="S9"> yeah </U> you're <OVERLAP> you're fond of it </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> i use it a lot, yeah. </OVERLAP>
+				</U> but you mean it you mean it like <OVERLAP> you know, surprised or </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> just freaking_ i mean just like no </OVERLAP> like just, i don't know i'm just <U WHO="S1">
+					<OVERLAP> what is that about? </OVERLAP>
+				</U>
+				<OVERLAP> stressed like </OVERLAP> just <OVERLAP> freaked out i'm just </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i mean actual stress </OVERLAP> like <U WHO="S9"> yeah </U> tense muscles, <EVENT WHO="SS" DESC="LAUGH"/> anxiety, <U WHO="S1"> yeah, <OVERLAP> yeah, but i yes but </OVERLAP>
+				</U>
+				<OVERLAP> things of that nature. </OVERLAP>
+			</U>
+			<U WHO="S1"> whenever <U WHO="S4">
+					<OVERLAP> i probably have knots in my shoulders and neck right now. </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> (Amy) says it she means like, </OVERLAP> she means shock or, <U WHO="S9"> yeah, <OVERLAP> (xx) (have stress) </OVERLAP>
+				</U>
+				<OVERLAP> maybe i- is </OVERLAP> that like a behavioral studies, <OVERLAP> term? or </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> no it's just </OVERLAP> my friends. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> well that's more interesting actually. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> that's funny. </U>
+			<U WHO="S1"> i'm stressed. </U>
+			<U WHO="S8"> i like Collins a lot. <U WHO="S9"> huh? </U> Derrick Collins, <OVERLAP> witchcraft </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> oh yeah </OVERLAP> the witch- you were in that. that was pretty cool. </U>
+			<U WHO="S2"> wait, were you guys in witchcraft? </U>
+			<U WHO="S8"> yeah </U>
+			<U WHO="S9"> yeah <OVERLAP> which one </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> so was i </OVERLAP>
+				</U> were you in? were you in the um <U WHO="S4"> witchcraft? </U> Derrick Collins one or were you in the <OVERLAP> women's studies one? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no i was </OVERLAP> , i was in Derrick Collins. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S9"> i learned so much in that class <OVERLAP> honestly though </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i did too. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> like that's the first class that i learned stuff that (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> what's (witchcraft?) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> history of witchcraft </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3"> oh that's cool </U>
+			<U WHO="S8"> it was <OVERLAP> really </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> how come i never see these classes when i'm looking through the </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it was really good. </OVERLAP>
+			</U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT 1:20; ONLY ONE TRANSCRIBED"/>
+			<U WHO="S2"> i only take random classes </U>
+			<U WHO="S9"> yeah you had_ didn't you love our G-S-I wasn't she the funniest thing? <U WHO="S8"> (Malgosia?) </U> remember that day when she has like (xx) hat, <U WHO="S8"> i know </U>
+				<EVENT DESC="LAUGH"/> that she had and like, it was all windy and stuff <EVENT WHO="S8" DESC="LAUGH"/> so she hated it? <U WHO="S8">
+					<OVERLAP> she'd be like </OVERLAP>
+				</U>
+				<OVERLAP> we're on </OVERLAP> like the fifth floor of Dennison, i i'm really sick of this stuff, she'd say like (xx) </U>
+			<U WHO="S2"> did you have Gloria? </U>
+			<U WHO="S9"> huh? </U>
+			<U WHO="S2"> did you have Gloria? </U>
+			<U WHO="S8"> Malgosia </U>
+			<U WHO="S2"> oh </U>
+			<U WHO="S2"> wait, which is the one with the big hoops? </U>
+			<U WHO="S8">
+				<OVERLAP> not Malgos- </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> Malgosia had </OVERLAP> like a really like pretty face and she (xx) </U>
+			<U WHO="S2"> did she have real short hair? </U>
+			<U WHO="S8"> yeah </U>
+			<U WHO="S9"> yeah </U>
+			<U WHO="S2"> okay no, i was thinking of Glor- Gloria's the one that's, the (fruitcake.) <EVENT WHO="SS" DESC="LAUGH"/> i don't know if you guys ever talked to her, but she ha- sh- i don't know if she was Italian, <U WHO="S8"> oh, i know </U> she w- i went to one of her review sessions and i almost died, like i sat there (and was like hm?) </U>
+			<U WHO="S9"> no i never (xx) </U>
+			<U WHO="S2"> i was so, i had a (xx) </U>
+			<U WHO="S9"> oh that guy. that guy pretended like he'd really like read up and like do background work cuz he's a classical (studies) that he knew all <OVERLAP> about </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> but he </OVERLAP>
+				</U> like all the writers and <OVERLAP> stuff </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but </OVERLAP> the thing is he didn't know anything about witchcraft. i was like, we we w- had a review session like and we missed our discussion section he had to cancel, and so he, at the very end said okay i'm gonna have like a little review session that's gonna be in the lecture hall um, it was one of the days that we didn't have lecture or whatever, so s- some extra people came, and i s- was sitting there like who is this guy? <EVENT DESC="LAUGH"/> he doesn't know_ we ask him a question and he'd go, oh i don't know. i mean it was off that review sheet we were like asking him about these, <OVERLAP> like, </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> really? </OVERLAP>
+				</U> identifications <U WHO="S9">
+					<OVERLAP> i think </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> would be on the exam </U>
+			<U WHO="S9"> i think Malgosia hooked me up a little bit </U>
+			<U WHO="S8"> i don't know i think i did re- i did really w- that's probably the best th- i've ever done in any class. </U>
+			<U WHO="S2"> really? </U>
+			<U WHO="S8"> mhm </U>
+			<U WHO="S9"> did you keep up with the reading? </U>
+			<U WHO="S8"> uh, out of like out i don't know the twenty-five hundred i read about, like, twenty-five pages, <OVERLAP> seriously </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> oh i read </OVERLAP> all of that book <U WHO="S2">
+					<OVERLAP> i did, i read </OVERLAP>
+				</U>
+				<OVERLAP> that one with all the </OVERLAP> (exorcism) <OVERLAP> i read all of it </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> i didn't, like </OVERLAP> i just felt like Collins did such a good job with like lecturing <OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> he well he read </OVERLAP>
+				<U WHO="S8"> essentially </U> straight off of <U WHO="S9">
+					<OVERLAP> yeah i thought that was a little like </OVERLAP>
+				</U>
+				<OVERLAP> an outline directly out of the book. </OVERLAP>
+			</U>
+			<U WHO="S8"> i know, <OVERLAP> i mean </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and i was </OVERLAP> like <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> he was </OVERLAP> funny though remember when he was like, he was like <U WHO="S2">
+					<OVERLAP> he told us to drink and have sex </OVERLAP>
+				</U>
+				<OVERLAP> why don't you just have sex with each other </OVERLAP>
+				<U WHO="S8"> th- </U> while you're at it <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> yeah that's pretty much <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i was like </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> that was </OVERLAP> so funny. </U>
+			<U WHO="S8"> that's how he ends every uh, <U WHO="S2">
+					<OVERLAP> it was so funny </OVERLAP>
+				</U>
+				<OVERLAP> every class he's like alright so, </OVERLAP> get together study, you know drink a little bit it helps studying, you know it also helps sex but just drink a little bit. and it was like <OVERLAP> okay thanks </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2">
+				<OVERLAP> yeah and we were </OVERLAP> were we were dying, right before our exam he was like seriously he's like <U WHO="S4">
+					<OVERLAP> some of these professors are like </OVERLAP>
+				</U>
+				<OVERLAP> okay, go out </OVERLAP> and drink <U WHO="S1">
+					<OVERLAP> shoulda got that guy on tape </OVERLAP>
+				</U>
+				<OVERLAP> he goes it helps your ideas flow better, </OVERLAP>
+			</U>
+			<U WHO="S2"> and <OVERLAP> i was going, oh my god. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> he's like if if you can remember it, if you can remember it drunk then you can remember it sober. </OVERLAP>
+			</U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :40; ONLY ONE TRANSCRIBED"/>
+			<U WHO="S4">
+				<OVERLAP> it's worse in the music school like since </OVERLAP> like you deal with people so closely in music school like, the professors will su- just not say anything in front of you. like i remember one time i won't even name names this professor_ like this conductor made a really, like s- the joke was extremely, like distasteful and, <U WHO="S1"> uhuh </U> he made it to me and it just, well he's gone now because of sexual harassment. <EVENT WHO="SS" DESC="LAUGH"/> it's really bad cuz you get like you you develop a personal relationship with a lot of the people because you work with them all the time, and like, you go out with them and they drink and like, they start to get a little drunk and then like they talk about your audition or like, <EVENT WHO="S2" DESC="LAUGH"/> it's it's not good. </U>
+			<U WHO="SU-f">
+				<OVERLAP> what year are you in the music school? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's an interesting thing to watch professors </OVERLAP> get drunk. </U>
+			<U WHO="S4"> yeah it's very f- weird. </U>
+			<U WHO="S1"> should avoid that if you can. </U>
+			<U WHO="S4"> yeah i didn't know i was like a freshman when it like occurred. i went to a one of the conductor's, houses to play for his wife's birthday party or something and, he started drinking and he just like yeah yeah your audition was good but, what were you doing when you blah blah blah and like yeah you barely got in the uh orchestra and, you know </U>
+			<U WHO="S5"> what do you play and what are you majoring in? </U>
+			<U WHO="S4"> viola performance. </U>
+			<U WHO="S5"> oh by any- do you know Betsy Williams? <U WHO="S4">
+					<OVERLAP> she plays violin? </OVERLAP>
+				</U>
+				<OVERLAP> she's a </OVERLAP> voice major? </U>
+			<U WHO="S4"> oh <OVERLAP> voice major? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> no she's a </OVERLAP> voice major. </U>
+			<U WHO="S4"> no. </U>
+			<U WHO="S5"> she's one of my roommates. </U>
+			<U WHO="S4"> i don't know any (these) people who are the vocalists cuz they're all like, in their own world. <EVENT WHO="SS" DESC="LAUGH"/> they always carry around their bottles of water with their like scarves around their necks oh my god i have a cold <U WHO="S8">
+					<OVERLAP> bust out (your musicals) </OVERLAP>
+				</U>
+				<OVERLAP> i'm like </OVERLAP>
+				<EVENT DESC="LAUGH"/> (and it's) <OVERLAP> so like, </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> bust out the musicals </OVERLAP>
+				</U> (like i <OVERLAP> don't know) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh we had, </OVERLAP> two in our hallway and they, i think they were roommates or something they were always yelling at each other. <U WHO="S4"> really? </U> they were, acro- like next to each other, and they'd be yelling at each other that they were singing too loud. you're singing too loud and then they would do it and they're like you're singing too loud it was just like <OVERLAP> oh my goodness. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah like, </OVERLAP> especially sopranos they're like... <U WHO="S2">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> oh my </OVERLAP>
+				</U>
+				<OVERLAP> they're sort of, like, </OVERLAP> in this other world. it's funny like, each like, instrument, they have a different like, <U WHO="S2"> seriously? </U> yeah like the string players you know like </U>
+			<U WHO="S1"> oh the string players? <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> well like the brass people are like gross and like, <EVENT DESC="LAUGH"/> yucky, <EVENT WHO="SS" DESC="LAUGH"/> you know and like </U>
+			<U WHO="S2"> gross and yucky <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> they're like, definitely (good.) </U>
+			<U WHO="S4"> the musical theater people ra- people are like totally dramatic and like, <U WHO="S2">
+					<OVERLAP> oh yeah, i (xx) some of those (xx) yeah, yeah </OVERLAP>
+				</U>
+				<OVERLAP> all the guys are gay and like </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+				<U WHO="SU-f">
+					<OVERLAP> (remember that, that freshman) (xx) from my high school </OVERLAP>
+				</U>
+				<OVERLAP> like there was one straight guy in our freshmen musical </OVERLAP> theater class, like one straight guy it was hilarious and he was always getting hit on by the other guys and like, it was funny like there's all these like, you can alway- you can almost generally tell like, what instrument people play just by like, the way they, sort of like walk down the hall it's really weird. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> (it's okay) (xx) (at my high school) there were lots of gay guys. </U>
+			<U WHO="S4"> and they don't- you don't usually cross over like, you don't find too many string players being friends with like brass people or like, vocalists <EVENT WHO="S2" DESC="LAUGH"/> being friends with like pianists it's, like you usually have friends who are like, like all my friends <U WHO="S8">
+					<OVERLAP> wow </OVERLAP>
+				</U>
+				<OVERLAP> are like </OVERLAP> string players. okay. anyways. <EVENT WHO="SS" DESC="LAUGH"/> (xx) this is like its own little world. </U>
+			<U WHO="S1"> you make it sound like they carry their instruments around all over the place. </U>
+			<U WHO="S4"> no but like i mean you play with people like in string quartets and stuff and, like even in orchestra you like s- like the brass people are way back there like making jokes, while like the string people like have to be on their best behavior <OVERLAP> because they're l- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> they're like playing </OVERLAP> secret chords <OVERLAP> to each other </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> like (the brass) </OVERLAP> people will sit back there and like make like jokes and they're all laughing so do like the bass players cuz they're like, like back like the conductor can't see everything they're doing but then like, if you're like in the string section you're like in the front and you have to be like sort of like on better behavior and like, if you make jokes it has to be like really quiet. <EVENT WHO="SS" DESC="LAUGH"/> you know like you can't just like bust out laughing like the brass players who just like really like, they don't have (their) (xx) <EVENT WHO="SS" DESC="LAUGH"/> (so, it's interesting) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> alright. before you guys get, </OVERLAP> started on another topic, we're gonna start so <EVENT DESC="LAUGH"/> get your stuff out. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> okay... are we still talking about this (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah we've still got, <EVENT WHO="SS" DESC="LAUGH"/> we got we guess we still got two more pages. </U>
+			<U WHO="S2"> oh </U>
+			<U WHO="S1"> uh we up to, Amy did you go? </U>
+			<U WHO="S9"> yeah i went </U>
+			<U WHO="S1"> okay. Chris why don't you, go ahead. no reason why you shouldn't, examine your own paper. </U>
+			<U WHO="S7">
+				<SEG TYPE="READING"> the great irony of Atwood's, feministic tale is that the proa- the protagonist Alfred Offred, has all the characteristics of a godly Christian woman. she is independent enough to have, a mind her of her own but never strong enough to act on her own will without the aid or suggestion of someone else. Atwood provides, us with two women, who fit into very, who fit into very stereotypical categor- categories, of opposites. Moira is an example of a woman who demonstrates all the qualities men should have. she's a strong independent woman who can never, happily submit herself to a man and therefore is out of place in Christian society. she could be labelled as the man-hating lesbian, who has no femininity whatsoever. </SEG>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+				<SEG TYPE="READING"> Janine on the other hand is an example of a woman, far on the other end of the spectrum, who shows very little independence and strength. other women don't like her because of the way she submits herself but at the same, time they feel sympathy towards, the mistreatment she, gets led into. </SEG>
+			</U>
+			<U WHO="S1"> L-E-D </U>
+			<U WHO="S7"> yeah um <SEG TYPE="READING"> this kind, this is the kind </SEG> caught that <EVENT WHO="SS" DESC="LAUGH"/>
+				<SEG TYPE="READING"> of woman, you'd expect to cling to, abusive relationships because of her, natural inclination to be, passive and yield too much power </SEG>
+			</U>
+			<U WHO="S1"> it's it's surprisingly appropriate <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<SEG TYPE="READING"> this is the kink </SEG>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> um, <SEG TYPE="READING"> Offred fits, in the middle of these two women and demonstrates the perfect balance of what </SEG>
+			</U>
+			<U WHO="S1"> you see what i mean? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> yeah, i saw it. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> sorry, sorry <EVENT WHO="SS" DESC="LAUGH"/> okay </U>
+			<U WHO="S7">
+				<SEG TYPE="READING"> Offred i- uh fits in the middle of these two women and demonstrates the perfect balance of what the Christian woman should be. for a protagonist in a feminist, novel Offred is surpass- surprisingly </SEG> surpassingly i think it should be surprisingly <U WHO="S1"> mhm </U>
+				<SEG TYPE="READING"> much more, of a traditional woman and less independent than one would ever expect. much like a l- a left wing conservative, Atwood appears to be trying to show a more, conservative view of her feministic ideas. </SEG>
+			</U>
+			<U WHO="S1"> what do you think of that? </U>
+			<U WHO="S3"> where it says, um <SEG TYPE="READING"> they feel sympathy towards the mistreatment she gets led into </SEG> they don't feel sympathy towards mistreatment they feel sympathy <OVERLAP> towards her, right? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> where are you where are you (now?) </OVERLAP>
+			</U>
+			<U WHO="S3"> um, in like, probably like, <U WHO="S7"> oh </U> almost halfway </U>
+			<U WHO="S7"> right above the kink <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah right above the kink it says, <SEG TYPE="READING"> feel sympathy towards the mistreatment </SEG> they wouldn't really feel sympathy towards mistreatment they'd feel sympathy towards her right? </U>
+			<U WHO="S1">
+				<SEG TYPE="READING"> the women don't like her because of the way she submits herself.... but at the same time they feel sympathy towards, the mistreatment she gets led into. </SEG> what do you object, to? </U>
+			<U WHO="S3"> just how do you feel sympathy towards mistreatment, like, mistreatment isn't the thing they feel sympathy towards, don't they feel sympathy towards her, Janine? </U>
+			<U WHO="S1"> oh </U>
+			<U WHO="S4"> (xx) because of the mistreatment she gets, she gets led into? </U>
+			<U WHO="S1"> yeah. thank you. right... okay so we have, we have Offred... and you say that she has characteristics, of a godly Christian woman, she is independent enough, but never strong enough to act on her own will without the aid or suggestion of someone else. is that a characteristic of a, Christian woman? is that an ideal? </U>
+			<U WHO="S7"> i don't i'm trying to say that she's not, um... i think some of_ i don't know if it's worded (right or) </U>
+			<U WHO="S1"> yeah the maybe the wording is um... yeah it's it's misleading. i see what you're_ you're saying that she's not, passive, but she's not, mm </U>
+			<U WHO="S7"> she's not a leader. </U>
+			<U WHO="S1"> well you're saying, <OVERLAP> more than that she's not a leader. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well he's saying that she thinks independently </OVERLAP> but she doesn't act independently. right? it says <SEG TYPE="READING"> mind of her own but never strong enough to act, without the aid or suggestion of someone else </SEG> so i mean she's thinking things she just never acts on it really. </U>
+			<U WHO="S1"> and that's, a Christian ideal? </U>
+			<U WHO="S3"> i don't know <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> is this like a, according to you or according to, <OVERLAP> the novel </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> Christian ideals. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> i think if you're gonna characterize Offred that way, um it's going to be hard to call her an ideal Christian woman. right? if you're saying that she has all these, thoughts, and we know that she has all these thoughts about escaping and whatever, but then you say that because she doesn't act out on those thoughts sh- that makes her, that makes her Christian? </U>
+			<U WHO="S7"> it doesn't make her Christian but, for, like, um, for it's a, feminist novel and you you would expect that the, main character would be much more, independent than, <U WHO="S1"> right uhuh. oh okay right </U> than Offred, actually is, and she's more, and instead of being like this equal person who, you know should get, treated equally she, wants to be, or i don't know if she wants to be but she's more, she's less, she's more of a, a woman described, like a Christian, i don't know, i wanna say like a woman who's, submits to her husband or something she's more of that than <U WHO="S1">
+					<OVERLAP> meek </OVERLAP>
+				</U>
+				<OVERLAP> she is </OVERLAP> of a feminist. </U>
+			<U WHO="S1"> right. <PAUSE DUR="0:05"/> um, yeah fix the wording, on that second sentence, okay? you're saying that, on the one hand you're saying that it's ironic that Atwood would write a feminist satire that stars, a character who is not, uh feminist in the way that say Janin- uh Moira is. okay? but on the other hand, she's not, uh passive to the point that Janine is. okay? so what are you saying? what is Offred then? </U>
+			<U WHO="S7"> i think she's, saying that Off- like that's, she fits into... i guess it goes (on) with this thought too that the Bible describes, it doesn't give a description of ma- mi- mu- women being equal, but um different in, where the male is the leader, and the woman is, like um, like that a w- i don't know, i just thought, the next paragraph kind of explains it <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> (i'm like a Nazi) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i guess i think that she's like </OVERLAP> , more refined than the other two women, like </U>
+			<U WHO="S1"> refined? </U>
+			<U WHO="S4"> refined <U WHO="S7">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> as in like, being a Christian </OVERLAP> because like, um, one is like, totally like, emotional and like, you know let's like, like she completely gives in, you know and then like the other one is like, totally strong and you know but, Offred is like, she's more like what a Christian woman should be because she's not like, you know too extreme or too evil sh- no she's more sort of refined she has more of a balance, like she doesn't speak out or, <OVERLAP> you know do extreme </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it's like she acts </OVERLAP> appropriately </U>
+			<U WHO="S4"> right exactly like, maybe she's not ex- like what a Christian woman should be but more so like the ideal of what a Christian woman should be. do you know <EVENT DESC="LAUGH"/>
+				<OVERLAP> maybe that was </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (they face) (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (what are you) saying? </OVERLAP>
+			</U>
+			<U WHO="S4"> i don't know like she's like, when people look at her, you know her actions show someone who's, what a Christian woman should be. </U>
+			<U WHO="S2"> but don't they want <U WHO="S7">
+					<OVERLAP> yeah i'm saying </OVERLAP>
+				</U>
+				<OVERLAP> everyone to sort of </OVERLAP> act like Janine? </U>
+			<U WHO="S7"> i'm saying the Bible_ well the Bible doesn't say like men should be this way and women should be this way it kinda is, like i say this later that um, it's saying God created man this way and women created, women, this way, <EVENT WHO="SS" DESC="LAUGH"/> God created women i- G- God created men and women in a certain way, <OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> when you say </OVERLAP> like she's a, godly woman are you saying, according to what you believe or according to what the novel is saying? like that's what i, am confused about. because yeah like according to the novel like, she wouldn't be, you know, she doesn't completely submit to this idea. </U>
+			<U WHO="S1"> i think <OVERLAP> that Chris thinks- </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i saying i'm </OVERLAP> saying how there's a net- like a, like the Bible says a way that like the wo- you know women are this way and men are this way and that's the way not the way that they are you know, the Bible tells 'em to be but that's the way God created 'em to be, and so it's kind of a, it's kinda ironic because it's like a natural thing, (xx) never mind but anyway, <EVENT DESC="LAUGH"/> and so that's like the Bible's naturalistic view of how men and women are, and i'm saying y- normally feminists would take offense to that, i guess and claim that, there sh- should be more equality than the Bible, says and Atwood, isn't, is isn't saying that. </U>
+			<U WHO="S1"> i i see what you're i see what you're getting at but we're continuing the same problem of your paper, uh going down, a related but um, </U>
+			<U WHO="S7"> well i thought this i thought this actually was <U WHO="S1">
+					<OVERLAP> but wrong path. </OVERLAP>
+				</U>
+				<OVERLAP> more relevant. </OVERLAP>
+			</U>
+			<U WHO="S1"> huh? <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> i thought this was a relevant path. <EVENT DESC="LAUGH"/>
+				<U WHO="S1">
+					<OVERLAP> well </OVERLAP>
+				</U>
+				<OVERLAP> i mean i </OVERLAP> c- cuz the paper is like is is she a, heroine? </U>
+			<U WHO="S1"> yeah you you are getting to that. right? but you're answering it, you know, your criteria for heroism, um is leading this discussion, in a way that, mm, it's taking you further and further away from Foucault i'd say. okay? <U WHO="S7"> yeah. </U> like i liked th- i liked that you're comparing, Offred to Moira and Janine, because i think the three of 'em can be compared in that way that you were doing here, in the way that you are comparing them here. okay? uh but instead of talking about, that difference being godly or ungodly, okay, uh what about if you talked about them in terms of, kind of proper citizens of a panoptic society? would you say that Janine, is a better citizen in that respect than Moira? </U>
+			<U WHO="S7"> yeah. </U>
+			<U WHO="S1"> why? </U>
+			<U WHO="S7"> because she's not trying to fight um, she's not opposing, the power. </U>
+			<U WHO="S1"> what is the, what is the goal? what is the dream of a panoptic hierarchy? </U>
+			<U WHO="S7"> it's, to have discipline, over the people. </U>
+			<U WHO="S1"> uhuh <EVENT WHO="S4" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> Moira's not disciplined </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well Janine doesn't have to be </OVERLAP> watched as like the ideal panoptic citizen doesn't have to be watched <U WHO="S1"> right </U> because they have this fear. Moira always has to be watched <EVENT WHO="SU-f" DESC="LAUGH"/> because she doesn't fear the, <U WHO="S1"> right. </U> you know the watchfulness of everybody else. </U>
+			<U WHO="S1"> that's it. right? on one on in one sense she doesn- Janine doesn't have to be watched, at all, okay because, she's always being watched, inside. um Moira, right, Moira is the opposite... um i think you're going_ y- you might wanna, you might wanna talk about this difference, in that way just so you're starting to, to tip this discussion back toward where we want it. mkay? um, you can do this you can talk about_ if you can carry up until this point in the in the essay, um, both your point, that this is a panoptic society and that panoptic societies are easily translatable into Christian societies, then talking about Christianity here and how, Offred is God godly, and others aren't, would make sense still, right? it i- you still wouldn't be outside of the realm of discussion that i want you to be in. okay? but if you're not if you're gonna lose Foucault all the way, like completely, um then it needs to be corrected. okay? and i think you sh- i think you should, carry, up until this point your your thesis that, um that faith in Christianity is like the faith of, a panoptic, uh system, the faith of, the faith in the panoptic power.... right? both higher powers both both are higher powers both involve, uh a certain giving up of yourself, right? both involve, faith, both involve higher purpose, right. other notes, about this paragraph...? next one, Cliff? </U>
+			<U WHO="S8"> alright... <SEG TYPE="READING"> the Bible gives a view of marriage as one where the man is the leader and the woman is submissive to the man. this idea isn't just believed, to be the will of God but it is also the believed to be the way of God created, crea- w- the way God created man and woman for each other. Offred and her relationships support this idea with men. even though there is a weight, weighted balance of power between men and women in Gilead Offred demonstrates the need for more power, but not a need to be equal from the standpoint of most feminists. even after she shows disgust for the Commander she still aims to satisfy Fred and make him happy. this idea of a woman's desire to meet the needs of m- of a man is very Biblical and believed to be the way God created, uh women to be. although Nick and Offred's relationship is fabricated, it is not very stereotypically natural. </SEG>
+				<U WHO="S1"> one word </U> yep. um, <SEG TYPE="READING"> at first their attraction is completely physical and Offred admires the healthy b- brawn of Nick. but as their relationship progresses Nick is the source of a feeling of safety and trust for Offred. ironically he is neither safe nor powerful but she seeks to provide him these things. their relationship is not at all, an equal one but, a natural one that fits the description of how God created man and woman, even though there is nothing natural about it at all. </SEG>
+			</U>
+			<U WHO="S1"> when you say natural do you mean the same thing as, as Christian? <U WHO="S7">
+					<OVERLAP> (yeah) </OVERLAP>
+				</U>
+				<OVERLAP> you're </OVERLAP> saying that how, Offred relates to the f- Commander is a stereotypically Christian, um way, that is of a submissive woman who serves her man? <U WHO="S7"> yeah. </U> but you're also saying that the way she relates to Nick is Christian? </U>
+			<U WHO="S7"> yeah </U>
+			<U WHO="S1"> how so? </U>
+			<U WHO="S7"> um, well he's a stereotypical, like, um... </U>
+			<U WHO="S1"> savior? </U>
+			<U WHO="S7"> yeah i guess well because she finds safety in him, and that's a Christian thing that, men provide safety for women. </U>
+			<U WHO="S1"> i don't think there's overlooking the fact that there's animal lust, involved <EVENT WHO="S4" DESC="LAUGH"/> between, Nick and Offred. <U WHO="S7"> okay </U> and unless i missed a really important day at Sunday school, animal lust, <EVENT WHO="SS" DESC="LAUGH"/> is not, a Christian ideal. um </U>
+			<U WHO="S7"> (xx) </U>
+			<U WHO="S1"> maybe you're you're looking <OVERLAP> at a difference here </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> maybe it's, well in this... </OVERLAP> ah well, <OVERLAP> i kinda see what you're saying yeah </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> not a similarity </OVERLAP>
+			</U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S7"> i mean the the way you say animal lust but it is, like the whole thing with like Moira being gay is kind of, interesting i think like, cuz it's not, cuz she's totally throwing away these ideas that women should do <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> and women should like men and, <U WHO="S1"> mhm </U> i don't know. </U>
+			<U WHO="S1"> hm right so for Moira there is no, yeah right. do you do you remember how, Moira fails to, enlist the cooperation of men? okay? there is a certain suggestion about, uh Moira that because she is not attracted to men she doesn't have an avenue for, deliverance the way Offred does. right? she can't be saved by men the way Offred can be saved (by men.) i like that, and i like the stuff about Nick and, her relationship to Nick, versus her relationship to the Commander, because, you can do a good comparison of, um, you can do a com- good comparison between what you say here and what Hammer says, of that love triangle. okay? but right now i think you're really starting to see that the discussion is it has strayed, um from points that it w- that we wanted to cross. right? and now we're talking, almost purely about you know, Christian faith and and Christian ideals. um, did you notice, do you notice that when you read aloud sentences, you can catch, the awkwardness, um more easily than you could just reading it silently? right? <SEG TYPE="READING"> this idea of a woman's desire to meet the needs of a man, is very Biblical and believed to be the way God created women to be. </SEG> right, um, yeah there's something singsongy and, kinda limerickish about that that um, probably should be corrected. <SEG TYPE="READING"> Offred and her relationships support this idea with men? </SEG> alright that's that's inexact. support this idea with men. okay? support with men, is is a strange thought, a strange way of thinking. um, fiddle with that sentence until you get that right. next one? </U>
+			<U WHO="S11">
+				<SEG TYPE="READING"> Handmaids is a sa- satire depicting how valid a source of power can be turned and used for irres- irre- irresponsible behavior. the source of power is Bible. Gilead use the Bible as justification for its structure and behavior. rather than a society that is submissive to the, teaching of the Bible it is clear that the Bible is only used to back up idea that, ideas that were already formed. normally people don't submit themselves to, a panoptical lifestyle, unless there is a strong reason to it. everyone i- in Gilead has been tricked into living this way through, gradual, individual change that, were all justified through the Bible in hopes, of forming a better society. </SEG>
+			</U>
+			<PAUSE DUR="0:06"/>
+			<U WHO="S1"> what do you think? <PAUSE DUR="0:07"/> i think that's true, enough what you're saying here, but it's a strange place in the in the essay to have it. right? it it seems like a some sort of sum- summary paragraph. um, that maybe can occur like at the very end or something? okay but like you_ before this you were right in the middle of of details and now you're kind of out of that. um so i would think about the placement of that paragraph. <PAUSE DUR="0:10"/> otherwise? </U>
+			<U WHO="S2"> i like the paragraph, (xx) </U>
+			<U WHO="S1"> pretty straightforward? <U WHO="S2"> mhm </U> okay. alright you got an easy one Seungchan. <EVENT DESC="LAUGH"/> go on, finish up. uh finish us off why don't you Kelly? </U>
+			<U WHO="S5">
+				<SEG TYPE="READING"> the Enlightenment which discovered the liberties also invented the disciplines. the society of Gilead has become so enlightened that it has learned how to hold massive discipline over the citizens a task that appears to be more difficult to our society than dangerous. ironically Gilead's enlightened social structure is very degenerating to the citizens. all individuality is lost and none of the characters in the novel even those at the higher end of the system seem to enjoy their lives. Malak calls this a dystopian world since nobody really seems to be better off in it. </SEG> do you want me to read the next one? </U>
+			<U WHO="S1"> uh let's do this one first... what are you doing with the, with the quotation marks there what's that about? </U>
+			<U WHO="S7"> um </U>
+			<U WHO="S1"> oh, i see <OVERLAP> okay i see. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> (inside) </OVERLAP> well qu- i quoted and, in the quote there's the quotations uh <OVERLAP> (over) (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah uh </OVERLAP> if you do that, then Enlightenment should be in single quotes. <U WHO="S7"> yeah okay </U> okay? and the closed quotes should go before Foucault three-three-seven, right? </U>
+			<U WHO="S7"> yeah. and then that one should be, never mind </U>
+			<U WHO="S1"> what? <U WHO="S7"> i was gonna say <OVERLAP> it should be footnoted but </OVERLAP>
+				</U>
+				<OVERLAP> is that explained in the </OVERLAP> next paragraph? </U>
+			<U WHO="S7"> no no no <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> oh </U>
+			<U WHO="S1"> what were you gonna say? </U>
+			<U WHO="S7"> um, never min- i was just thinking that that could be footnoted but, i <U WHO="S1"> ah </U> i had Foucault earlier <OVERLAP> so </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah </OVERLAP> right. </U> but. yeah i'm kinda (xx) this is, ideas i never, expanded. <EVENT DESC="LAUGH"/> and like the yeah the paper doesn't (mention it,) if you're, looking for (more of 'em) on the next page. </U>
+			<U WHO="S1"> the paper is doing what drafts normally do towards the end, okay? it kind of, it's it's picking up loose stuff that you, forgot about during the discussion or, the rest of your notes, and kind of putting them together, in like a scramble paragraph. okay? it's uh, right, it's it's stir-fry it's you know leftover delights <EVENT DESC="LAUGH"/> okay. um, right so you you'll see that, the last three paragraphs, are not, continuing any single thought it's it's not furthering, um, a strong argument. okay? this is typical of the ends of drafts. typical of uh of the ends of, of papers too you guys. um, papers that haven't gone through enough drafts usually. okay? mm, anything specific you wanna say about this Kelly? </U>
+			<U WHO="S5"> um, massive discipline, does that make sense? </U>
+			<U WHO="S1"> massive discipline </U>
+			<U WHO="S5"> i don't know how discipline could be massive, (xx) </U>
+			<U WHO="S1"> yeah, you're right. </U>
+			<U WHO="S5"> and uh, <OVERLAP> after it says </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right. </OVERLAP> discipline isn't, isn't strong, isn't big or small it's, <U WHO="S7"> yeah. </U> strong or weak. </U>
+			<U WHO="S5"> um it says <SEG TYPE="READING"> Gilead's enlightened social structure is very degenerating to the citizens </SEG>
+				<U WHO="S1"> yeah </U> should it be like degenerative? or <U WHO="S1"> right or </U> (xx) </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S2"> i liked the idea that even those at the higher end of the system don't seem to enjoy their lives. <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> that, </OVERLAP> because i think like with the higher power would come, happiness and i think that's really apparent also with Serena Joy, like and the Commander both, <U WHO="S1"> yeah. </U> (if) that can be </U>
+			<U WHO="S1"> right. it's it's telling, it's telling that, at at_ the higher up the, the power, system you go, um the more violations that you have right? the Commander is, you know is lustful is, you know all these things that a Christian, shouldn't be even in Gilead. um, right but he's he's still not happy. i don't know if he's unhappy the way the same way that the Handmaids are unhappy but, yeah nobody's really happy here... degenerating to the citizens is a weird way of saying something. right d- degenerate, you don't degenerate to, right? the thing itself degenerates but you don't degenerate to anything. or you can degenerate into something else but, you know it's it's not a, it's not an affecting, uh action. you see? um i'll do the last one i guess. <SEG TYPE="READING"> in a way, Handmaids allows allows us to strip down past all the hoopla </SEG> hoopla? <EVENT WHO="SS" DESC="LAUGH"/> and really <OVERLAP> see into Offred </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> God what a great word </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> it's a rough draft. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> i like that <U WHO="SU-m">
+					<OVERLAP> kink hoopla </OVERLAP>
+				</U>
+				<OVERLAP> (i think) that's </OVERLAP> my favorite word. </U>
+			<U WHO="SU-m"> kink hoopla </U>
+			<U WHO="S1"> this will all be explained in the next draft. <EVENT WHO="SS" DESC="LAUGH"/>
+				<SEG TYPE="READING"> we can see her natural instincts and desires and how they transcend, from the conformity that is desired in Gilead. </SEG> uh you trans- you transcend things, okay? uh that is y- you_ they transcend the conformity, you don't transcend from. <SEG TYPE="READING"> she exemplifies the subtle domination of women by men and all the negative effects, </SEG> right effects wrong effects? </U>
+			<U WHO="S4">
+				<OVERLAP> wrong </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> wrong </OVERLAP>
+			</U>
+			<U WHO="S5"> (think it's right) </U>
+			<U WHO="S2"> right effects. </U>
+			<U WHO="SU-m"> right. </U>
+			<U WHO="S4"> mm </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> mm </U>
+			<U WHO="S2"> pssht </U>
+			<U WHO="S1">
+				<SEG TYPE="READING"> this holds not only on herself but on her relationships as well. Atwood recognizes the inherent differences between men and women, but also stresses how the imbalance of power deteriorates relationships, and people as well. </SEG> that's nice. um, yeah but this is i- right. right. <U WHO="S7"> it's just out there </U> do you see why it's at the end? i think it's kinda closing things out... okay. um the best thing i think you have in here, again, unless i'm, um unless it's just me and i don't think it's just me, you like this too don't you? this idea that um </U>
+			<U WHO="S3"> that was good. </U>
+			<U WHO="S1"> yeah, i know. </U>
+			<U WHO="S2"> yeah it's good but you know that, yeah. </U>
+			<U WHO="S1"> um you need to work on style. okay? uh sentences are, a bit clunky, um, transitions are missing, um paragraph order could be rethought right? all this stuff that you're supposed to expect and, address. </U>
+			<U WHO="S2"> it was good though. </U>
+			<U WHO="S1"> okay let me give you back your papers and some leftover quizzes and things and let me have you fill out evaluations. (xx) what are you trying to do <EVENT WHO="SS" DESC="LAUGH"/> (steal my pen?) </U>
+			<U WHO="S4"> i was gonna give it back and then i'm (steal) (xx) </U>
+			<U WHO="S1"> do you guys want a copy of this? <U WHO="SU-f"> sure </U>
+				<U WHO="SU-m"> yeah </U> you know, just cuz just so you know what we're talking <OVERLAP> about or </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> that'd be </OVERLAP> great. <U WHO="S1"> yeah. </U> thanks. </U>
+			<U WHO="S1"> there's a (transcript) </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> Chris is going no </U>
+			<U WHO="S3"> do we need to use pencils for the evaluation? </U>
+			<U WHO="S1"> yeah you gotta use pencils. </U>
+			<U WHO="S3"> do you have some? </U>
+			<U WHO="S5">
+				<OVERLAP> (i got a) pencil </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes i do. </OVERLAP>
+			</U>
+			<EVENT DESC="0:06 UNINTELLIGIBLE SPEECH"/>
+			<EVENT DESC="MULTIPLE SIMULTANEOUS CONVERSATIONS UNTIL END"/>
+			<U WHO="S2"> i hope it's nice out. </U>
+			<U WHO="S3"> i know you can't tell in here <OVERLAP> can you? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i know it is </OVERLAP> the weirdest thing <U WHO="SU-m">
+					<OVERLAP> it looks good out </OVERLAP>
+				</U>
+				<OVERLAP> even when it's the most </OVERLAP> gorgeous sunshiny day ever it's (xx) <OVERLAP> you can never see it in here. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (how 'bout) do you have an extra syllabus? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it looks cloudy from in here </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="SU-m"> i ju- i just looked up i saw blue sky. blue sky and clouds. </U>
+			<U WHO="SU-f"> how long have you been teaching this class? </U>
+			<U WHO="S1"> this is my fourth time teaching comp, one-twenty-five, and i've taught creative writing before. </U>
+			<U WHO="S2"> did Chrissy leave? </U>
+			<U WHO="SU-f"> wow, cool. </U>
+			<U WHO="S4"> uhuh </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S1"> it's nice, i enjoy it. hey since you guys don't need it anymore can somebody spare a syllabus? <OVERLAP> for </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> no </OVERLAP> don't give one </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

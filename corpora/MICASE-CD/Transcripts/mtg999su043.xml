@@ -1,0 +1,788 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="mtg999su043">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Student Government Meeting </TITLE>
+				<TITLE> Rackham Div: NA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> MTG999SU043 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales. (1999) The Michigan Corpus of Academic Spoken English. Ann Arbor, MI: The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES: NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="66">
+						<DATE> October 27, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with 2 external microphones, video recorder </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Ed Filisko, Janine Ovens </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Bonnie Malczewski </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz, Amanda Jones </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Final Editing, 02/21/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="30"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="23"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SU, Vice President" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Member" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> FAR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Member" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> GUJ </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="JU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="SU, President, Facilitator" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> HIN </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="SU, Student Visitor" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="SU, Student Visitor" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="SU, Constituent" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S17" LANG="NS" ROLE="SU, Constituent" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S18" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S19" LANG="NS" ROLE="SU, Member" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S20" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S21" LANG="NS" ROLE="SU, Member" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S22" LANG="NS" ROLE="SU, Member" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S23" LANG="NS" ROLE="JU, Member" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-1" LANG="NS" ROLE="SU, Vice President" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-2" LANG="NS" ROLE="JU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-13" LANG="NS" ROLE="SU, President, Facilitator" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-18" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-19" LANG="NS" ROLE="SU, Member" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-20" LANG="NS" ROLE="SU, Member" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-21" LANG="NS" ROLE="SU, Member" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-22" LANG="NS" ROLE="SU, Member" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Member" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Conference Room, LSA Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> Beth </U>
+			<U WHO="S2"> here </U>
+			<U WHO="S1"> Jerry </U>
+			<U WHO="S1"> Maryanne </U>
+			<U WHO="S3"> here </U>
+			<U WHO="S1"> Laurel. Judy </U>
+			<U WHO="S4"> here </U>
+			<U WHO="S1"> Emily </U>
+			<U WHO="S5"> here </U>
+			<U WHO="S1"> Jim </U>
+			<U WHO="S6"> here </U>
+			<U WHO="S1"> Jean </U>
+			<U WHO="S7"> here </U>
+			<U WHO="S1"> Morgan </U>
+			<U WHO="S8"> here </U>
+			<U WHO="S1"> Usha </U>
+			<U WHO="S9"> here </U>
+			<U WHO="S1"> Armina </U>
+			<U WHO="S10"> here </U>
+			<U WHO="S1"> Randy <U WHO="SU-f"> an agenda </U> Lena </U>
+			<U WHO="S11"> here <U WHO="SU-f"> agen- </U>
+			</U>
+			<U WHO="S1"> Annie </U>
+			<U WHO="S12"> yeah <U WHO="SU-f"> an agenda </U>
+			</U>
+			<U WHO="SU-f"> where's Jerry? he was here </U>
+			<U WHO="SU-f"> oh no </U>
+			<U WHO="S13"> okay, um, approval, of the agenda why don't you guys take a second to look over </U>
+			<U WHO="SU-m">
+				<OVERLAP> who needs the agenda? </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> the agenda? </OVERLAP>
+			</U>
+			<U WHO="SU-m"> okay </U>
+			<PAUSE DUR=":04"/>
+			<EVENT DESC=":04 UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-f"> i noticed that </U>
+			<U WHO="SU-m"> i know i know i know </U>
+			<U WHO="S13"> okay are there <U WHO="SU-f">
+					<OVERLAP> what? </OVERLAP>
+				</U>
+				<OVERLAP> any changes to the agenda? </OVERLAP>
+			</U>
+			<U WHO="S10"> can i add um, something about the SEED project? would that go und- it's like a, two-liner </U>
+			<U WHO="S13"> yes </U>
+			<U WHO="S10"> so under new business? </U>
+			<U WHO="SU-m"> how long can you guys stay Jean? do you want us to move you up? </U>
+			<U WHO="SU-m"> take your time </U>
+			<U WHO="SU-m"> okay </U>
+			<U WHO="SU-m"> everyone have one? </U>
+			<U WHO="S13"> okay under point um, s- faaa, sixteen, C will be the SEED project does anyone have any objections to that? </U>
+			<U WHO="SU-f"> they're at the bottom </U>
+			<U WHO="S13"> it's old business cuz we've already talked about it in new business </U>
+			<U WHO="SU-m"> (we can always move 'em up already) </U>
+			<U WHO="S13"> okay, is there a motion to approve the agenda? </U>
+			<U WHO="S1"> i'm_ i move </U>
+			<U WHO="S13"> okay is there a <U WHO="SU-f">
+					<OVERLAP> second </OVERLAP>
+				</U>
+				<OVERLAP> second? </OVERLAP> okay so um, um, approval of the previous minutes actually we have two weeks of minutes to approve <OVERLAP> did ya get the, no we, </OVERLAP>
+			</U>
+			<U WHO="SU-19">
+				<OVERLAP> no, i just didn't </OVERLAP> (get me that) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S13"> oh, okay well, we'll approve last, well, tech- um </U>
+			<U WHO="SU-f"> motion to approve last week's minutes </U>
+			<U WHO="SU-19"> yeah last week's minutes rock </U>
+			<U WHO="S13"> let's wait </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="SU-19">
+				<OVERLAP> wait last, last </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> we'll move, let's not </OVERLAP> let's not approve last week's minute until we get, two weeks before </U>
+			<U WHO="SU-19"> okay </U>
+			<U WHO="S13"> so we have two minutes to approve, next time. um <OVERLAP> con- </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> we'll have three, </OVERLAP> three of them </U> three of 'em. sorry, um. constituents' time. um this is a time when we have um, just so for those of you who are new to the meeting, this is when we have, people who are, not really affiliated with the government yet, or who wanna get involved with the government, um just kinda introduce themselves, or this is a time when we actually have constituents who come, and voice their concerns to us, so will the, will the new members_ not to like point you out or anything like that if you just say hi and introduce yourself and what your name is and stuff like that. you wanna start? cuz i don't know you </U>
+			<U WHO="S14"> actually we're not, L-S-and-A student government we're um, nursing seniors </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S14"> and, we have actually no part in L-S-and-A but we have to do a, paper on, um how groups, interact and stuff so, we picked you guys. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S13"> so we're guinea pigs for two things wow okay </U>
+			<U WHO="SU-f"> we're the coolest </U>
+			<U WHO="S13"> do you wanna introduce yourself right nex- what </U>
+			<U WHO="S15"> um, <OVERLAP> i'm Susan </OVERLAP>
+				<U WHO="S14">
+					<OVERLAP> she's with me </OVERLAP>
+				</U>
+				<U WHO="S13"> okay </U> and i'm also <OVERLAP> (in nursing) </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> got it. </OVERLAP> who else? i think everyone else has been here once before or something, okay do we have any constituents that wanna raise a concern okay, let's go with Sandeep first </U>
+			<U WHO="S16"> hi guys my name's Sandeep, <U WHO="SU-f"> Sandeep </U> um, a couple weeks ago_ unfortunately i have a direct conflict usually during your meetings but i wanted to come in, and say, a couple weeks ago i had the opportunity to go to the, um, concentration advisings fair, that you guys hosted, and it was heaven to me. because i'm a pre-life student, um, not too sure what i'm gonna do yet, and there's about four or five things i wanted to check out but it's been tough to set up appointments, with four different people to discuss things, and it was really easy to walk around and just say hey what's up? how're you doing? what about this? what about that? it was really cool. um, and there was a lot of positive feedback from my friends i got some guys in my hall to go, um, it was neat and uh i told some of the officers, and stuff and some people that i see around but i wanted to tell everybody, because i know all of you put some time into it, i thought it was really cool. in fact i'd recommend it twice a year like once each semester, um, the reason being is cuz, as you take courses as a university student, your interests vary and they develop, and you might wanna just check it out one more time. um i think you guys had pretty good attendance and like i didn't hear one negative thing and the best part was like, all the people that were there, giving advice from the different departments, were just awesome people. like they were into it they were excited and they were happy to be doing it so, just wanted to say, like keep it up and like hopefully we'll see one next semester too, so </U>
+			<U WHO="S13"> thank you for the positive feedback. it's always good to hear positive feedback. John </U>
+			<U WHO="S17"> hi, um, i'm John Epstein i'm the uh chair of communications for M-S-A, um, turn really quick to the back, of the, agenda that you just got, um, i'm really proud of this this is a, historic, moment. this is, um, as far as our records, indicate, this is the first, resolution presented to the L-S-and-A student government, on behalf of the Michigan Student Assembly committee. um, so that's, i'm i'm proud of that i think that's pretty cool. um, the resolution is, uh as you can probably tell by its title, uh to sponsor a petition to improve the C-C-R-B. M-S-A took this on, um, couple weeks ago and, uh Matt spoke to you about it last week and told you that we were gonna be doing this and told you that, we were_ that that um, that we were taking the C-C-R-B on that we wanted to improve it, this is the actual formal support. um, we'd like you guys to do this tonight. reason being, we have a meeting on Thursday with the director of the C-C-R-B. if we can take this resolution to him, and say look, students support it we have, five hundred signatures on petitions we have a resolution unanimously passed by M-S-A, we have a resolution passed by the L-S-and-A student government, um, and then just go down the list and and show him, and show the administration that students think this is a big deal, they will listen to us they will, do the improvements and things'll get done. um, now i understand that you guys have a first and second reads process, so do we. and i don't wanna violate that process, i think it's i think first and second reads are important, um, if you can pass this tonight, cool, great. it's more important that it gets passed overall. um, this meeting on Thursday is not going to be the last meeting, regarding improvements of the C-C-R-B next week, we're gonna start meeting with the provost we're gonna start meeting with the, vice-president for uh student affairs, and those meetings are to be honest more important than the meeting on Thursday. if you pass this next week, it will still be extremely useful to the improvement effort, if you pass it this week, it'll be even more useful, but, i don't want you guys to um, uh, split any hairs about it i don't want, um, i don't want it to be a major debate, it's more important that this gets passed in general than that it gets passed tonight. but if it does get passed tonight, great. um, Matt Hackworth is the sponsor and, uh, for L-S-and-A S-G and i assume he'll be talking about it a little bit, um, when you guys get to it. we have to leave now to make the M-S-A meeting but, are there any questions? or or comments about, the resolution or about, uh anything that M-S-A's doing right now? alright <OVERLAP> great </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> we're a </OVERLAP> hard bunch </U>
+			<U WHO="S17"> yeah <U WHO="S13">
+					<EVENT DESC="LAUGH"/>
+				</U> alright, um well <U WHO="S14">
+					<OVERLAP> eek </OVERLAP>
+				</U>
+				<OVERLAP> good </OVERLAP> luck debating this i think it's great, i, strongly recommend that you pass it, um M-S-A passed it unanimously, i think it'll do a lot for students and, um, thanks for your, consideration. </U>
+			<U WHO="S13"> thank you for coming </U>
+			<U WHO="SU-f">
+				<OVERLAP> thanks </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> i'm done </OVERLAP>
+			</U>
+			<U WHO="S13"> um, are there any, other, constituents that would like to speak at this time? seeing none, um, guest speaker we have no guest speaker this week but i do wanna announce that we do have a guest speaker next week, so the meeting will run a little bit longer, the b- guest speaker his name's Mike McPher- Mike, McPher... Mi- and so he'll be coming about seven-thirty and we'll be having a discussion with him in the beginning. um, appointments committee, nominations. Usha are there any? there is none, okay. budget committee recommendations. um. on the back, um, are the budget committee recommendations why don't you take a, a second just to briefly look it over? <PAUSE DUR=":06"/> and if you have any questions um, address them to Jim <U WHO="SU-m"> (who do i give this to?) </U> Mr Fattahippour <PAUSE DUR=":14"/> Lena </U>
+			<U WHO="S11"> Jim i just have question if you could explain to me why the Michigan Journal of Race and Law only got, three hundred out of a thousand? </U>
+			<U WHO="S6"> only got three hundred, of a thousand? <U WHO="S11">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> is that what </OVERLAP> y- that was your question? </U>
+			<U WHO="S11"> yes </U>
+			<U WHO="S6"> uh, the first reason that they didn't get, a large majority of the money they asked for is because, they're all law students, and uh, that might seem like absurd at first of a r- sponsoring a, law students kind of journal and, to put on speaker, events but, the fact is a lot of L-S-and-A pre-law students attend them. and they seemed like pretty well-funded and a lot of the money they wanted, was, for, travel, but we weren't gonna fund them for, having their, speakers fly in round-trip, at uh, six hundred dollars a ticket so we, funded them for, printing posters only. and that, three hundred dollars would cover that. </U>
+			<U WHO="S13"> okay, are there any other ques- Shilpa? </U>
+			<U WHO="S18"> um, i had a question about Encompass, i understand that that's a, it's a multicultural show being put on, um, during, the time of, Diversity Theme Semester, and i was wondering um, i mean i know of of different kinds of funding that Encompass has just because it is Diversity Theme Semester i was wondering, why they were given eight hundred out of a thousand as opposed to, the IASA show a couple weeks ago that was only given two hundred? </U>
+			<U WHO="S6"> uh, that's a good question and we like thought about that, for a while and what it comes down to is that, just like, us sponsoring Dance Marathon last year, it was a, it was a, like a take-off of that, it was like the first year you know <U WHO="S18"> mhm </U> and it's the first year they're putting on Encompass, and it's supposed to be a big deal and, us sponsoring it, with this amount of money would help really, help it really get off its feet, so that next year, they could, um, find sponsors of their own and so forth. like it's, our investment now is gonna help them_ help it grow so that they won't need as much money from us in the future. </U>
+			<U WHO="S13"> are there any other questions to Jim? </U>
+			<U WHO="S19"> i move to approve the, affirmations </U>
+			<U WHO="S13"> okay is there a second? </U>
+			<U WHO="S18"> second </U>
+			<U WHO="S13"> are there any objections? okay, nice job budget committee. it seems to be running smoothly. </U>
+			<U WHO="SU-m">
+				<EVENT DESC="WHISTLE"/>
+			</U>
+			<U WHO="S13"> um, are there any Ac? Ac is Academic Affairs, Committee resolutions? nope? okay, um, executive officer reports. hm... last we- uh, last week, um the visiting committee, of L-S-and-A came and, i decided i'm, i was invited to speak in front of them and i just wanted to let you know what the visiting committee was, the visiting committee is a group of very influential donors from L-S-and-A, people who donate, um millions and millions of dollars um some, person donated the the Gail Morris Sweetland Center Mr Sweetland was there himself, um the C-E-O of, Pagenet Motorola, Activision, the people with a lot of money, who give a lot of money to L-S-and-A. so they came on Thursday and they spent three days with, um the dean, and various other people in the dean's office. um, i made a presentation, not about student government but about the dean's search committee in the morning, and then i made another diversity, presentation in the afternoon and i got to spend, um, time, i i spent a lot of time with them and it looks like they're really interested in getting student involvement. and, what i arranged for next year, hopefully is that, student government members will be able to take around, um, the visiting committee members, for a whole day, um before they actually come. so that's something you guys can look forward to next year is um meeting these really influential people, and, get- hopefully giving them t- letting them give us a lot of money, so, if you have any questions about that, um, let me know, and i'll answer 'em later. i just wanted to kinda let you know what the V-C was. other than that um, i have no report. that's bad </U>
+			<U WHO="SU-1"> that's fine </U>
+			<U WHO="S18">
+				<OVERLAP> that's good </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> that's good </OVERLAP>
+			</U>
+			<U WHO="SU-m"> (that means you're happy) </U>
+			<U WHO="S13"> your turn </U>
+			<U WHO="S1"> me? okay, first thing was given to me today by uh, M-S-A, it's a project they're working on, um, in regards to the Code, the Student Code, it's a real nice packet what it does is it details, what's going on to other schools, what we have, and, the, review process that's going on right now. i'm gonna leave this in the office, um, so you can look at it, um, they haven't really asked for anything from us necessarily, they're just trying to, they're starting up kind of like a grassroots um... i don't kn- discussion on this there's already some other stuff going on and this is kind of like, all of it in the same folder so you can kinda get an idea if you're interested so this'll be in the office, um, if you're here and you don't have access to the office talk to me and we'll work out something if if you want, to start getting in there to get to this information, um, the other thing uh, i went to for, i went to um the office-space allocation meeting today at six-thirty, um, we're just going through the process of, setting up that office and everything i wanna make that, a resource that you can use, for, for more than just studying so that you can, you can get stuff done if you want, there, if there's nothing, if th- if there's something, that should be there that's not there let me know so i can get it, um, i'm still working on getting a stapler, but just other stuff that you think could be improved, let me know so i can make that better for you, okay? thank you </U>
+			<U WHO="S13"> just a, quick piggyback off the Code stuff. this, how many of you would like a presentation on the Code? like we can call someone to make a really quick presentation <U WHO="SU-m">
+					<OVERLAP> that's a good idea </OVERLAP>
+				</U>
+				<OVERLAP> about the Code. </OVERLAP> just, um all in favor, yes, it's a very informal vote so it's not, i just wanna see. so it looks like, people are interested? how many people against, who don't want it? except for Rob, Rob doesn't count. okay <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S21">
+					<OVERLAP> that's it i'm leaving </OVERLAP>
+				</U>
+				<OVERLAP> okay, um </OVERLAP> i'll arrange, um, cuz M-S-A what they did t- volunteer to do is they volunteered to send someone here, and, work on a little presentation. basically, explicate what's in that, folder, for us. um, Campus Relations Officer Mr Booker </U>
+			<U WHO="S21"> um, let's see. um, let's see elections are, well election packets are due this week, so. if you're interested in running, just talk to one of the executive officers, um, maybe me, um, besides that, nothing much is going on i forwarded a lot of emails tonight so, a lot of things are going on campus if you're interested, just um, um gimme a holler and we can go together or something </U>
+			<U WHO="S13"> okay </U>
+			<U WHO="SU-m"> do you have the buddies already assigned to everyone? </U>
+			<U WHO="S21"> yeah </U>
+			<U WHO="S13"> nice job with that, Rob. um, Secretary, Matt Hackworth </U>
+			<U WHO="S19"> um, i just wanted to make sure that everybody knows that when you co- go in to do your office hours, um there's a s- there's a sign-in log it is next to the computer in the, um, black file-holding, uh, thing, <U WHO="SU-f">
+					<OVERLAP> binder </OVERLAP>
+				</U>
+				<OVERLAP> um </OVERLAP> the other thing is that, um, uh, th- there will be a Diversity Days meeting for anyone who is interested uh the second, big meeting next Tuesday at five fifteen in the Wolverine Room if anyone wants to come. </U>
+			<U WHO="S13"> okay, Mr Lane <U WHO="SU-m">
+					<OVERLAP> yep </OVERLAP>
+				</U>
+				<OVERLAP> are you re- </OVERLAP> do you have a report? </U>
+			<U WHO="S21"> i have no report </U>
+			<U WHO="S13"> okay. um... L-S-A Council, um, we're still v- looking but we have a potential candidate, so next week we'll, next week we'll, see what, what happens. um, Academic Relations Officer, Shilpa. </U>
+			<U WHO="S18"> um, i just have a few things to say, pretty much everything that i have to say is detailed in the back of the agenda, or, sorry the back of the first page of the agenda, um, the Academic the next Academic Affairs meeting is Friday at four P-M in the Pond Room, um we have a special guest coming we have Sandy Gregerman coming she's the L-S-A Student Government advisor for those of you who don't know, um she's basically gonna be there to, address any sorts of concerns describe her role a little bit more, what kinds of things she's here, um, to do for us and what kinds of things we need to provide her with, um so that should be, a very, interesting discussion with her, she's a great lady and i'm excited for all of you to meet her who haven't met her yet. um, number two theme semester, funding. um, the reason i, was asking Jim, about the Encompass is because there's um, a special, there's a special um, i guess fund set aside for groups who are programming for, theme semester it's specifically set aside for them, and the way it goes is it's a rolling budget allocation process, and, um, the deadline is December fourth, if you a guys have qu- the deadline for that is um, December fourth but if you have questions, feel free to contact me it's, basically first come first served so if you have an idea like, Diversity Days if, they wanted to, apply or something like that for funding then it'd be a, good idea to do so um, focus groups, focus groups are rolling around really well um, this week, um, i'm waiting for, Bob Owen to get back to me because he is actually gonna be_ he's the Associate Dean for, um Undergraduate Edic- Undergraduate Education in the College of L-S-and-A, and he is interested in meeting with our focus group, um, our major-minor focus group and so, um, if you're interested in that um please contact me, or, Morgan, or, anybody else in the majors-mi- who else is on the major-minors, committee? Jim, Patrick, Emily. yeah. Maryanne. um, that's um, something that's up and running and then i know Lena and Randy are doing stuff with theme semesters for next year and so it's another thing that, we're doing um Student Advisor Panels Academic Advising SAPAA, is being started up by the beginning of November Lena's gonna be chairing that with um, Martha Goetz and Leon Johnson, um and happy birthday Beth. i'm all done. </U>
+			<U WHO="S2"> thank you </U>
+			<U WHO="S18"> thanks </U>
+			<U WHO="S13"> appointments? is there a report? </U>
+			<U WHO="S9"> um, the deadline for appointments was October twenty-fifth, um, i didn't get too many, applications for either co-jurors or, the uh master program so, i mean, it's still kind of open like the deadline's gone but, i'm still accepting, apps so if you know people that, didn't turn 'em in because the deadline was already over is interested, let them know. applications are on the door. but then other than that, we're gonna start, grabbing my committee together and then, get that going, as in selections </U>
+			<U WHO="S13"> hm. budget allocations? </U>
+			<U WHO="S6"> this is your last chance to sit in on a budget committee <EVENT WHO="SU-f" DESC="LAUGH"/> and the night is tomorrow night, and it's gonna be a blast, cuz it's our last night so we're gonna go out and celebrate afterwards. so if anyone's, interested, any rep is interested and, free tomorrow night between seven and ten P-M, just send a note my way. and also, um, since this is the last, uh, meeting for this semester, we're gonna start, planning, on how to revamp the system for next semester and i sent out an email to you guys, so if you, haven't responded take a look at it and, write back to me or just approach me after the meeting </U>
+			<U WHO="S13"> um, Joint Activities. Beth </U>
+			<U WHO="S2"> um, first of all thank you to everybody who came to Knitwits on Sunday, we, in and out had about sixteen people, and it was good, and we made, over twenty pairs of mittens, and a couple hats, so, it was, good project, um the fourth-floor block party, it's still here i know it's been on the agenda, all year, but it is one week from Thursday, November fifth at, six forty-five in Wolverine, A-B-C, and so hopefully, some of you can make it, and you can get the word out to, anybody that's in a student group, on the fourth floor we're going to be doing some publicity, um, this week Friday Monday Wednesday, so, that should be good, um, last week we set up a fourth-floor email group, and it has all the, email contacts of the people who currently, effective this week, have office space on the fourth floor, and it's, um, people have been using it and it's good, so right now um, the only L-S-A S-G people that are on it, are, the JAC_ the Joint Activities Committee people_ so if you're interested in being on the email group, just send, an email to C, Obalt, and, just ask her to put you on, and that's C, O B A L T, um, we did a little brainstorming yesterday, at our meeting about possible activities, and, we're looking into doing um, like a semiformal sort of mingler ball dance whatever <EVENT DESC="LAUGH"/> you wanna call it, f- um, with proceeds going to charity, and we're going to have a planning meeting next Monday, um, hopefully looking around for interested groups who'd be interested in, planning it we haven't started anything, cuz it's in order for it to be a joint activity, we have lots of group support so if anybody, if they're in any other groups, um, maybe a sorority or fraternity, any groups on the fourth floor wherever they are, and, you know that um your group might be interested in planning a joint... project thing, the meeting is Monday or you can email us at L-S-A-S- jot- dot, L-S-A-S-G dot JAC, um, and we also thought about the possibility of maybe a concert, like a jazz fest or something next semester, still, very loose. um, next meeting is next Monday, seven-thirty, but the time is subject to change, possibly seven o'clock because of the candidates meeting, it's also that day, so i'll let you know over email. and, if anybody wants to go to Windsor, meet me at my house at nine-thirty. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S13"> public activities </U>
+			<U WHO="S20"> okay, the um red-ribbon drive for drug awareness is, this Thursday, in the Diag, between eleven and, to two or whenever we run out of ribbons. um, so far we probably, have about, mm, twenty-five hundred ribbons somewhere around there we're about halfway there so we still need a lot of help and we're having a meeting tomorrow night at eight o'clock, in the Tap Room which is in the_ eight-thirty_ which is in the Tap Room of the Union, and we're gonna pass a sign-up sheet, for you all to um sign up to come to the meeting tomorrow night, we're gonna be putting, just, a bunch of ribbons together and also sticking, the cards that we're gonna make up, um with hotline information numbers, um, together with the pin, and we're also gonna be sending around a sheet to help distribute the ribbons on Thursday, um like i said we're gonna be distributing um between eleven and two we'll send out a sign-up sheet around, um we want as many people as possible to help us distribute the ribbons not just because we have a lot of ribbons but the more people we have distributing them ribbons, the more, attention we draw to ourselves and therefore our cause. so we'll send around the r- <OVERLAP> the sign up-sheets </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> you said </OVERLAP> eleven to two? </U>
+			<U WHO="S20"> eleven to about two or whenever we run out of ribbons... oh and also um, our meeting this week has been cancelled so, you can scratch that off, okay, no meeting this week. that's it </U>
+			<U WHO="S13"> um, is Mr Caster here? no Randy's not here? </U>
+			<U WHO="SU-m"> no </U>
+			<U WHO="S13"> okay. um publications Lena? </U>
+			<U WHO="S11"> um, i met with, Annie, who's the editor-in-chief of the Daily and, the result is basically that um, they can't do a special section because of, the rules that they have in terms of, d- what Daily writers can write and what, outside groups can write and how that can be put into the paper, but what we're thinking about_ i'm thinking about doing um and i'll give you guys a proposal about it in a week or so, is, coming up with our own section but getting it inserted in the Daily that would be the same size as the weekend editions, you know those (filler) sections th- we could do 'em on the newsprint in the same way. um, and so i'm, i'm contacting the business managers and the people that deal with that kind of stuff at the Daily right now, to see about how much it would cost and i'm also, talking to people from M-S-A, um, to see how we can coordinate d- this together with other students groups. so um, student governments. so i should be able to get back with you in like, by next week hopefully um, with some more details on that. </U>
+			<U WHO="S13"> that's good. um, elections of officers or chairs, um, we don't really have elections, but i did wanna, mention the new election director at this time, um, it is gonna be Beth Wiegand, um, uh so, she'll, she's not running in the election so she, will no- have no conflict of interest, and, that's it so if you have any questions and you're running, she is the person to go to. even though she doesn't know very much what she's gonna do right now. do you? <U WHO="S2">
+					<EVENT DESC="LAUGH"/>
+				</U> have you figured it out yet? </U>
+			<U WHO="S2"> no but, <U WHO="S13"> okay </U> it'll all come to me </U>
+			<U WHO="S13"> it'll al- all come to her </U>
+			<U WHO="S2"> starting tomorrow </U>
+			<U WHO="S13"> okay. there's no amendments to the constitution or bylaws, um, so we're gonna go to old business point A, which is a special allocation proposal, and i'm gonna hand this over to Tom </U>
+			<U WHO="S1"> okay. so if you look on the back of, the very end of, the uh, agenda, titled, special allocations proposal, i, reworded it based on the suggestions i was given, um, and i went with the approach that, has people that ask for more than a thousand dollars, has them go through the budget allocations, committee, and then they come up with a recommendation, for the next meeting, or whenever they get around to it, hopefully at the next meeting, for us to d- start with, and then talk about the decision so, let's say Dance Marathon came, they would come, and they would be directed to the budget allocations committee. the Budget Allocations Committee would have them fill out a, budget allocation form, you know, what, expenses they have and that, information. they would hold an interview if they need to, but they don't have to, and then at the next week's meeting, the Budget Allocations Committee would come and say, we recommend that we give them, fifteen hundred dollars for Dance Marathon. and they would be here to talk if th- if Dance Marathon needed to talk to, to add to to our discussion and answer questions. it's, it's basically what we've done before except it has them go, through the budget allocations committee and give us, give us more information t- to decide on. um, hopefully that'll, that'll st- streamline the, the, discussion of what we should give 'em, so it, it feels less ar- arbitrary, and we, can go into it better, informed and also we, involve Budget Allocations Committee in this way. um, it's not in resolution form, because this isn't a resolution. um, this is, i i put this up so that we can, vote, to f- to support this process, this internal process, so that when a group comes we kind of know what to do when they come, so we don't, just, you know, discuss and talk about the allocation that day. um, we don't have to vote this on, but i think if we, if we, modify this tweak it and then, go by it, we'll know what to do when a group comes. um, i don't think i'd, i, oh also i removed from the last resolution or the r- last proposal, i removed the part that said we will suspend parliamentary procedure for five minutes, um, just because, well you can't really put that in a resolution, if we're gonna do that we have to say, let's suspend parliamentary procedure, um, actually we talked about it at (steering,) we don't really need to, to get rid of parliamentary procedure we can have a speakers list, i just think if we had more discussion on, what we might wanna give them before we make a resolution, we'll avoid that problem, that we run into when, you know, right in the beginning of the conversation someone says i move we give 'em five hundred dollars and then we talk about, amendments and, and you know voting to, call the amendments and so on and so on and so, i, i think we can streamline this um, i throw this up, for support um, i guess we should have, uh, discussion, and then, for support, or a vote, what do you do? </U>
+			<U WHO="S13"> just a vote of support. so um, it's just a, it's a, we'll vote, if they support it </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S13"> it's not very hard </U>
+			<U WHO="S1"> okay, so then, <U WHO="S13">
+					<OVERLAP> any </OVERLAP>
+				</U>
+				<OVERLAP> discussion? </OVERLAP>
+				<EVENT WHO="SU-f" DESC="LAUGH"/> good bad, what should we change? </U>
+			<U WHO="S13"> Jean? </U>
+			<U WHO="S7"> i like it i think it'll make it a lot more efficient and then, we'll actually, like, they're really competent so then we'll, kinda know, what we're voting on and why <U WHO="S11"> Tom, there's <OVERLAP> a typo </OVERLAP>
+				</U>
+				<OVERLAP> we should (give 'em) this </OVERLAP> cuz they'll ha- be able to take the time to talk to 'em and, find out how much we should give 'em </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S11"> there's a typo. just so you know </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S13"> there any other, points of discussion? on this? if not, then we'll just go directly to like <U WHO="S18">
+					<OVERLAP> (i move) </OVERLAP>
+				</U>
+				<OVERLAP> oh </OVERLAP>
+			</U>
+			<U WHO="S18"> i have a question real quick <U WHO="S13"> shoot </U> sorry um, how does the deadline, affect this proposal like the fact that, that BAC closes their, Budget Allocations Committee closes their, um, allocations process, and they have an actual deadline, if a group approaches us after, the deadline, then, do we just say allocations are closed? or do we, actually um, <OVERLAP> have them go through the process again? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> is this for a recommendation </OVERLAP> that's more than a thousand? <U WHO="S18"> yes </U> less than a thousand? </U>
+			<U WHO="S18"> more than a thousand </U>
+			<U WHO="S1"> okay, um, it would go to the Budget Allocations Committee, and, if they determined that, there's no reason that this could p- couldn've gone through through the process of th- actually no that's not true because all, al- allocations greater than a thousand come to us, <U WHO="S18"> right </U> don't they? um, the- then the budget allocation deadline wouldn't apply, to a group that asked for more than a thousand. <U WHO="SU-13"> mhm </U> it wouldn't <U WHO="SU-18">
+					<OVERLAP> hm' </OVERLAP>
+				</U>
+				<OVERLAP> would it? </OVERLAP>
+			</U>
+			<U WHO="SS"> no. </U>
+			<U WHO="SU">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> of course, </OVERLAP> of course, the Budget Allocations Committee can, can, look at all the information and say, this group coulda gone through our process, they don't necessarily need to ask, for a thousand and one they could've asked for six hundred dollars, <U WHO="S18"> okay </U> and for that reason we recommend we give 'em, zero. you know and they c- they can inform our discussion but, the all- the deadline wouldn't apply to groups, like that. </U>
+			<U WHO="S13"> just, just so you guys know this is not like something that we're advertising, it's something for us to implicitly kind of agree on so when a person comes from the outside and asks for money, this is w- the what we're gonna follow. so it's not like we're gonna advertise people coming, to usurp the, budget allocations <EVENT WHO="SU-f" DESC="LAUGH"/> committee process at all. </U>
+			<U WHO="SU-1"> (mhm) </U>
+			<U WHO="S13"> okay um let's go ahead and just take a <OVERLAP> vote </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> wait </OVERLAP> was there another </U>
+			<U WHO="S13"> question? sorry, any other points of discussion? question? </U>
+			<U WHO="S1"> um and, Lena pointed out a, typo. it's point six uh, last clause the entire, L-S-A S-G assemble, assembly not the <SEG TYPE="READING"> enter, L-S-A S-G assembly. </SEG>
+				<EVENT DESC="LAUGH"/> (it'll hurt) Lena <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S13"> okay. um, let's take a vote of support all in favor of this, um, proposal, raise your hand <PAUSE DUR=":08"/> okay, all against... all abstain, Lena's <U WHO="S11">
+					<OVERLAP> i abstain </OVERLAP>
+				</U>
+				<OVERLAP> abstaining, </OVERLAP> yeah. okay that was, it went by thank you. so you guys kn- when a, when a group comes, now y- we know what kind of rules to follow, just so, everyone's on the same page. okay um, charitable donation point B. i think Shilpa, is taking this? </U>
+			<U WHO="S18"> yeah. um, if you guys remember it's just um, basically this is gonna be a discussion, on, where we're giving_ which type of substance abuse program we are donating our, charitable donation to. um, i did a little bit of, research um, and i found, see i kind of added to Beth's research that she had done a couple weeks ago. um, and, i've narrowed it down to uh at least in my opinion, um, to three different organizations that we could could possibly, give our money to um, and they're, they're each of them differ, in, they... they differ in a few ways which are pretty important to, to just talk about right now so i'm basically gonna describe the three different organizations and then, open it up to discussion, um which will be followed by, <U WHO="SU-f"> a vote </U> a vote. um, so the first one, is called um Dawn Farm Sunrise Treatment Center which is the one that i, i thought was, it was Anita Bone's favorite one over at Project Serve and i thought it was, a really cool program because, first of all it's a co-ed facility. um, they don't accept anyone under seventeen so it would be targeting, um people more our age than_ as opposed to adolescents, it's a very long-term program, in the sense that um, they they, enforce the Twelve Step <SIC> Alcohols </SIC> Anonymous, type thing there, and um, they have patient treatment, um it's basically it's very personalized it's a walk-through type of, uh, program and so it's it's a really great program, um, they are nonprofit, and, they, don't receive any type of funding from the state, or anything like that it's all on donation basis. that they run their program. um, the second one is Ozone House which i'm sure a lot of you have heard of, its um, substance abuse program is more directed towards, um adolescents and teenagers so eighteen and under, um and then the third one is the Washtenaw Council on Alcoholism which is more of a, more of a pol- politically aware, um group in the sense that it's funded by the state and it's, um a lot more general, it's focused, more towards adults, and that sort of thing. um, i guess if there are any questions or if you guys would like to discuss this, feel free now. </U>
+			<U WHO="S13"> does anyone have any qu- mm. Lena <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S11"> i was just wondering um, you said that the Washtenaw Council one was funded by the state, so is there a need for funding? like what would our money go towards? what </U>
+			<U WHO="S18"> um <U WHO="S11">
+					<OVERLAP> would these </OVERLAP>
+				</U>
+				<OVERLAP> that's that's </OVERLAP> kind of what my, worry was with that one is just because i- i don't see a real need there, it was just a_ it was a different type of organization that i thought i would mention. our money would just go into the general pool along with all the other donations it wouldn't be directed to one specific, thing. like we couldn't say we want this money to go towards, like a program for teenagers or something like that. </U>
+			<U WHO="S11">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> Beth and then </OVERLAP> Matt </U>
+			<U WHO="S2"> um i was just gonna say quickly that when i went, to, Project Serve Anita Bone who is the, head of all of Serve, um, we talked about Dawn's Farm a lot and i really like that one too because, i just thought you guys, it would be important to know that she knows the director personally and she knows that they go, yearly from like that budget to the next budget so th- it's a very tight thing and, and our money unlike if we, gave it to the Washtenaw Council, you can tell which one i'm for, <U WHO="SU-f">
+					<EVENT DESC="LAUGH"/>
+				</U> um, would help them directly and, and, they would feel, the impact of our two hundred dollars whereas, the Washtenaw Council, uh, it would go in with, a thousand dollars here, a thousand dollars there. </U>
+			<U WHO="S13"> Matt </U>
+			<U WHO="S19"> do you officially recommend the first one the farm one? um, can i move then to, to just go ahead and, and give th- and give the donation to that one, or should we </U>
+			<U WHO="SU-13"> yep </U>
+			<U WHO="S1">
+				<OVERLAP> what's </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> move to </OVERLAP> vote? </U>
+			<U WHO="S19"> what? </U>
+			<U WHO="S18"> move to vote? <OVERLAP> or </OVERLAP>
+			</U>
+			<U WHO="S19">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no </OVERLAP> what's the uh dollar amount again? </U>
+			<U WHO="S13"> two <OVERLAP> hundred dollars </OVERLAP>
+			</U>
+			<U WHO="S19">
+				<OVERLAP> uh it's two </OVERLAP> hundred dollars. does someone wanna second that? </U>
+			<U WHO="SS"> second </U>
+			<U WHO="S13"> are there any objections? to giving the money to th- okay </U>
+			<U WHO="SU-19"> can i, give this sheet, <U WHO="S13"> um </U> the official name? </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S13"> i guess we form a speaker's list, we've already heard why it's a good idea to give it, um, Matt do you wanna, speak against it? </U>
+			<U WHO="S22"> i, sure. </U>
+			<U WHO="S14"> speak </U>
+			<U WHO="S22"> okay, um, i just wanted to ask one question that i didn't, get to have answered before, Mr Richards made the, motion so i wanted to get an opportunity to ask that question and that would be, in the course of your investigation did you find any groups that were geared toward, heroin and cocaine abuse versus... alcohol abuse? </U>
+			<U WHO="S18"> no i didn't. but i i wasn't paying attention to that specifically so, i was paying more attention to the s- to s- general substance abuse programs so i can't say, which groups, do have more focus on heroin and... so, i guess my investigation wasn't as complete. </U>
+			<U WHO="SU-22"> (i would say that) </U>
+			<U WHO="S13"> okay. um anyone <U WHO="SU-f">
+					<OVERLAP> (your question) </OVERLAP>
+				</U>
+				<OVERLAP> wanna </OVERLAP> speak against it again? okay, <OVERLAP> if not </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> previous question </OVERLAP>
+			</U>
+			<U WHO="S13"> huh? </U>
+			<U WHO="S2"> i move previous question </U>
+			<U WHO="S13"> okay </U>
+			<U WHO="S19"> i second </U>
+			<U WHO="S13"> someone called a vote? okay, it's first second </U>
+			<U WHO="S19"> second </U>
+			<U WHO="S13"> i nee- okay, all in favor of, <U WHO="SU-m">
+					<OVERLAP> re- restate the </OVERLAP>
+				</U>
+				<OVERLAP> moving, there's no </OVERLAP> there's, okay, sorry there's no objections so i guess we can just, we don't really have to vote do we have to vote? </U>
+			<U WHO="SU"> no </U>
+			<U WHO="S13"> we have to vote </U>
+			<U WHO="S11"> mhm </U>
+			<U WHO="S13"> okay <U WHO="SU-f">
+					<OVERLAP> we need </OVERLAP>
+				</U>
+				<OVERLAP> according </OVERLAP> to Lena we have to <OVERLAP> vote </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> (there was a gap) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> we need </OVERLAP> to ask if there's, <OVERLAP> (we need a call or) </OVERLAP>
+			</U>
+			<U WHO="SU-19">
+				<OVERLAP> yeah we should ask again </OVERLAP>
+			</U>
+			<U WHO="S13"> okay, um, what we are is removing the two hundred dollars that we've previously allocated, to, Dawn, Farms, Treatment Center? is that it? </U>
+			<U WHO="SU-m">
+				<OVERLAP> (Sunrise) </OVERLAP>
+			</U>
+			<U WHO="SU-2">
+				<OVERLAP> Dawn Farms </OVERLAP> Sunrise Treatment Center </U>
+			<U WHO="S13"> okay, all in favor...? all opposed...? all abstain? okay. <OVERLAP> ooh ooh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um, thank </OVERLAP> you Beth and Shilpa for, <OVERLAP> doing that </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> for doing that </OVERLAP>
+			</U>
+			<U WHO="S2"> mainly Shilpa </U>
+			<U WHO="S18"> (mainly) </U>
+			<U WHO="S2"> but you're welcome anyway. </U>
+			<U WHO="S13"> if you could get that information to Mr Lane </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S13"> so he can, make a </U>
+			<U WHO="S22"> along with meeting (for) Mr Richards </U>
+			<U WHO="S13"> yes... okay, we'll go to new business </U>
+			<U WHO="SU-m"> C </U>
+			<U WHO="SU-f"> C </U>
+			<U WHO="S13"> oh i'm sorry, sorry j- Armina, point C SEED </U>
+			<U WHO="S10"> um, Janine emailed me, um, she wanted to know if we wanted to do another, boating simulation in another school. and i don't think i can do it, so, if anyone else is interested <EVENT DESC="LAUGH"/>
+				<EVENT WHO="SS" DESC="LAUGH"/> in um, <EVENT DESC="LAUGH"/> if anyone else is interested in taking charge of that i can, i have all the info with me and it's really cool and so, if new people wanna go or the same people wanna go it's <U WHO="SU-f">
+					<EVENT DESC="COUGH"/>
+				</U> (so much fun.) it was worth it. so, um, see me afterwards i have the info and if you guys aren't interested then i'll just email her, that, we aren't gonna do it, right now, we can do another one next semester but just along the voting process we initially wanted to go on. </U>
+			<U WHO="S2"> when are they look like, <U WHO="S10"> she <OVERLAP> didn't </OVERLAP>
+				</U>
+				<OVERLAP> for </OVERLAP> November or December, <OVERLAP> or? </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> yeah </OVERLAP> i think like recent like i mean </U>
+			<U WHO="S2"> soon? </U>
+			<U WHO="S10"> i mean soon <EVENT DESC="LAUGH"/> so just let me know afterwards </U>
+			<U WHO="S13"> okay... um, new business um, Student Mediation Services is not here, and they're coming two weeks from now, um so we'll go down to point B which is, um_ the U-of-M, for Life resolution, and, Jerry, so this w- you can speak to it? </U>
+			<U WHO="S23"> okay, um, these are, this is the resolution like here that i wrote up, um, and this is the general information sheet that i'm gonna pass out, i only made like i think fifteen copies of each so you may not get one of both. but um, basically, um, what this is, is you guys have heard me talk about it before, um, it's an event that's gonna happen on Palmer Field the C-C-R-B, and a coffee shop, that's gonna take place August tenth, of, this Winter Term, and the focus, is to, raise money for the National Childhood Cancer Foundation, which is a nonprofit, um, organization that um, has various um, supports various research institutes, and treatment centers, in the United States, such as, um, U-of-M's own Mott's Hospital, um one at University of Chicago, one at North Carolina, U-N-C Chapel Hill and so forth like that, and um, basically the student group Focus for the Future, is im- is implementing they're the host, and as, um, a representative or a liaison, for that student group, um i wanted to get um L-S-and-A Student Government's support, and just simply endorsing the event, and supporting its purpose, and, pretty much how we're gonna raise the money, is through, sponsorship and um, student, just regular students who wanna donate, any money, the information sheet that i handed out has been changed, a little bit, because, um, it's on a voluntary, donation basis so, five to ten dollars, isn't really five to ten dollars, it's just, whatever you can give the suggested, um, donation was three dollars, and, there also is a coffee shop, and, we're just trying to make it as fun as possible so, it's gonna be really good too. it's gonna be, it's coming along really well, and, we just wanted to get your support. </U>
+			<U WHO="S13"> and straying from the typical, let's just pass this over for first reads and discuss on second reads we're actually gonna discuss at this time, so we can kind of streamline it for next time. so if you guys have any questions, um, ask Jerry now. hm? Matt </U>
+			<U WHO="S19"> um, i have a question. on the, um, agenda it says U-of-M for Life is that </U>
+			<U WHO="S23"> okay. the the name, of the, of the student group is Focus for the Future. <U WHO="S19"> okay </U> the name of the, the email address, for the student group is U-MICH, dot four, like just, the number four, dot life <U WHO="SU-m"> uhuh </U> and the name of the actual event is the University of Michigan's Challenge for the Children </U>
+			<U WHO="S19"> okay. </U>
+			<U WHO="S23">
+				<OVERLAP> (yes) </OVERLAP>
+			</U>
+			<U WHO="S19">
+				<OVERLAP> cuz </OVERLAP> um, i mean my only question <U WHO="S23">
+					<OVERLAP> just to clarify </OVERLAP>
+				</U>
+				<OVERLAP> about it is it </OVERLAP> is it sounds like it's like uh, abortion issue rather than, <U WHO="S23"> nah, no no no </U> like with that <U WHO="SU-f"> mhm </U> okay </U>
+			<U WHO="S1"> that was my mistake </U>
+			<U WHO="S19"> oh, okay </U>
+			<U WHO="S1"> sorry </U>
+			<U WHO="S13"> Usha? </U>
+			<U WHO="S9"> so, exactly, like, what, would L-S-and-A do? we just endorse it? <OVERLAP> or </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> well, </OVERLAP> right now like it's still going through um, it's, finishing up, um, it's, gone through, the Athletic Department i have a m- meeting this Thursday with Warde Manuel, and, he and i have been working together kind of, and, h- we're gonna go over the final logistics part, as far as the Athletic Department's concerned. if the Athletic Department, they they may endorse it they may not cuz they have logistics with the N-C-A-A that they have to worry about, so. i'm looking pessimistically, um it's still gonna happen, even if they don't endorse it because the athletes will still, there's still ath- a ver- a lot of athletic interest in doing it, and so, basically, it's, i mean, it's, it's_ we need your support just to say, you know what, this is something that L-S-and-A, S-G would like to happen like to see, happen, and also we support the purpose which i, put in the resolution as <SEG TYPE="READING"> raise money for the, (international N-C-C-F.) </SEG> and so forth so forth, and also, um, we're not gonna ask you for money like this term, but, i mean, like money is kind of an issue so, i mean, i wouldn't be surprised if, i_ we- we went through the process of asking for some money, next term but i'm not gonna even talk about that now. so. yes. </U>
+			<U WHO="S11"> i just have a quick question um, if you, look at the resolution, um, the second point says <SEG TYPE="READING"> whereas the University of Michigan's Challenge for the Children, that was created to, </SEG> and then the point, the third point is, <SEG TYPE="READING"> build the community of Ann Arbor. </SEG> and i <U WHO="S23">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> didn't, </OVERLAP> what do you mean? </U>
+			<U WHO="S23"> okay well, basically, what we're, the reason why i said build the community of Ann Arbor it's because our sponsorships, we're looking for both like local and somewhat national, like, our, right now, our main, um, sponsorships we're, trying to advocate for, are like let's say Pizza House, uh, like Cava Java like what-have-you, things just in the Ann Arbor that everybody knows like where Pizza House is and so forth like that. We're also trying to get like national sponsors such as like, like a K-Mart or like a Meijer or something like that cuz, the the main point is to raise as much money as we can, and like we have nothing to lose by asking like, K-Mart for money if they wanna donate it, <EVENT WHO="SU-f" DESC="LAUGH"/> i mean, the worst thing they can say is no, and then, they have to like, live with the point that they're not helping the children. <EVENT WHO="SS" DESC="LAUGH"/> so, that's not my issue. but, that's why, it's <U WHO="SU-f"> he's trying to support the Ann Arbor community </U> community. any other questions? </U>
+			<U WHO="S13"> um, those of you, oh. sorry. </U>
+			<U WHO="S2"> i just noticed on, this, this sheet, <U WHO="S23">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> it just </OVERLAP> said, in the, second sentence in the, f- second paragraph, the College of Literature Science and Arts Student Government, (incl-) blah blah blah that sentence, <U WHO="S23"> yeah, well </U> is that sentence there pending the approval of this resolution? <U WHO="S23"> well </U> or </U>
+			<U WHO="S23"> that, that's just the informational like that's been changed like, i just when i was using, like, when i was printing it out, like i was kind of like setting it, i didn- and i lost track of time so i didn't print out the other one that i revised, just to be honest <EVENT WHO="SS" DESC="LAUGH"/> but, so there's another one and i can hand that out next week, but basically the only thing that, the only, the resolution is the one, is the little fine-print one, that, is kind of messed up cuz th- something happened in the printing. <U WHO="S2"> n- </U> that's the actual <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> thing that </OVERLAP> we're supporting, and that's just a tentative thing, that's just an advertisement but that's been changed. so i can give you the new one next week. </U>
+			<U WHO="S2"> well i was just wondering because, like our name's there, but we hadn't, officially, <OVERLAP> so, so i was just wondering, if that was cool or not </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> well, well, this was just like when i was talking, </OVERLAP> cuz i was gonna do it as a part of L-S-and-A Student Government when i had, originally talked to Warde Manuel, but due to the, me- money, fi- it's just finance issues was the reason why i decided not to do it as a part of L-S-and-A S-G. and that's the only reason why, i didn't do it as a part of the Government. </U>
+			<U WHO="S19"> this is just something real quick and picky but, could you possibly take the first, whereas, and break it up into like two sentences or something like that, cuz it's all, <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> can </OVERLAP> you define like, can you say like, oh, the you mean the first sentence <SEG TYPE="READING"> whereas the focus </SEG>
+				<OVERLAP> (what you're doing) </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> yeah just </OVERLAP> i i, it doesn't really matter to me but it just is really long, it it might be a run-on i didn't check for sure but it's <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S23"> okay. <EVENT DESC="LAUGH"/> well, <OVERLAP> they're </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S23"> go ahead </U>
+			<U WHO="S13"> no go ahead </U>
+			<U WHO="S23"> um well i just, i wanted to kinda, like, i just wanted to get the main point across and like, i can split it up and like, add commas however you would like, Matt. </U>
+			<U WHO="S19"> i just want a <U WHO="S13"> look </U> period somewhere, <U WHO="S13"> okay </U> that's uh, my picky little <OVERLAP> thing </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> how </OVERLAP> about this, anyone who has suggestions, in terms of rewording, the, um, resolution, not like, um, rewording the idea but rewording the words to make it, fit resolution, let Jerry know, so he can come back and bring it uh, a better form next time? </U>
+			<U WHO="S23"> yeah. su- </U>
+			<U WHO="S13"> uh not a better form but like um, <U WHO="S23"> mm, yeah </U> more grammatically correct form </U>
+			<U WHO="S23"> okay </U>
+			<U WHO="S13"> is that <OVERLAP> okay Jerry? </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> yeah. </OVERLAP> just let me know and like, after the meeting i guess, you can just come up to me, give me like any like words, or, if you have any suggestions or if you'd like to be a part of the email group, just kinda email the group, U-MICH dot four dot life. </U>
+			<U WHO="S13"> Rob? </U>
+			<U WHO="S21"> yeah can i make a motion for a straw vote of support? </U>
+			<U WHO="S13"> a straw vote of support? </U>
+			<U WHO="S21">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> but it's, </OVERLAP> gotta go through second reads, <OVERLAP> doesn't it? (to ) </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> it's a_ this is just a </OVERLAP> straw vote it's not, <U WHO="S21">
+					<OVERLAP> just a straw vote </OVERLAP>
+				</U>
+				<OVERLAP> you're not, oh it's not </OVERLAP> pending, <U WHO="S18"> mhm </U> it's j- he wants to see what, the kind of general consensus. is there a second? to that. okay. are there any objections to taking a straw vote of support? <EVENT WHO="SU" DESC="LAUGH"/> okay. um, all in favor of the resolution, just this in- just to see, any everyone can vote here it's not a, it's not, binding, it's just to see if you're in support of the resolution right now... okay um any objections? <U WHO="SU-m"> (oy) </U> any abstentions? okay. okay. so, it looks like, if you fix some of the changes that it, it might be able to <OVERLAP> go through </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> yeah, </OVERLAP> make sure you let know me so next week, <U WHO="SU-f">
+					<OVERLAP> (sign right there too) </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> please tell me. okay. </U>
+			<U WHO="S13"> okay um, Matt Hackworth and the C-C-R-B resolution. </U>
+			<U WHO="S19"> uh okay. um, oh. um, it's the resolution that, um John Epstein was talking about on the back of your, um, the back of your agendas. <EVENT DESC="CLEARS THROAT"/> excuse me. um, what it is is eh, uh, John, John pretty much went over it. they're going to, around to, various administrative people and asking to, um, generally make improvements, in the C-C-R-B of which they're taking suggestions. um, it's very vague, right now, because they're not exactly sure without talking, to, the people from the C-C-R-B which is what they're doing at the end of this week, um, w- how much, wha- which changes they can make. um, so, this is, basically just us, supporting M-S-A's effort, um, to, make alt- alterations in the C-C-R-B. um, they're asking us, to pass it, um, on first reads if that is okay, um, <OVERLAP> i know that, yeah </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> to waive first, to </OVERLAP> waive first reads </U>
+			<U WHO="S19"> to waive first reads and pass it, today. um, can i get an, informal opinion on how many people, find that okay and how many people, are, against that, before, cuz uh as John said like if there's a lot of, um, dissension, about, doing that, we can, we can just not worry about it, but uh </U>
+			<U WHO="S2"> c- can i make a comment? </U>
+			<U WHO="S19"> yeah </U>
+			<U WHO="S2"> okay, i would, i would s- not necessarily for the resolution but i would probably, vote not to, bypass first reads because i think first reads are important because usually that's the first time anybody's seen anything, but because, this isn't such a, life sh- changing, resolution, <U WHO="S21">
+					<EVENT DESC="LAUGH"/>
+				</U> but just in general, i don- i don't think it's good precedent to, waive, first reads. <U WHO="S13"> okay. <OVERLAP> let's </OVERLAP>
+				</U>
+				<OVERLAP> that's </OVERLAP> my only point </U>
+			<U WHO="S13"> let's just take an informal vote of how many people, um, just kind of out of, parli pro whatever it doesn't matter, take an informal vote of, how many people would be willing to bypass first reads? how many people would be opposed? okay, it looks like Matt you're gonna get a lot of dissension on that. </U>
+			<U WHO="S19"> okay. so we'll just go ahead and uh look ov- look it over and, um, if you have any, any changes that you wanna make come to me and we can, um go ahead and, discuss at the passage next week then </U>
+			<U WHO="S13"> does anyone have any questions about the content and not necessarily the wording? Matt. oh. cuz like the wording can be fixed, outside of, the government time, unless it's gonna, infringe, too much on </U>
+			<U WHO="S22"> um, i have to, just because, just before he was leaving he um, told me that he wanted to change, the second-to-last paragraph </U>
+			<U WHO="S19"> okay </U>
+			<U WHO="S22"> um, because there was already some, talk about us, not wanting to actively encourage the administration on this. um, so, he suggested this wording change and i wrote it down and i'll, say it now. <SEG TYPE="READING"> therefore, be it resolved that the L-S-A Student Government, supports the, M-S-A effort, to encourage, the University of Michigan administration to improve its </SEG> and then, so on. so it's, instead of us, uh, actively encouraging, the administration, it's us en- it's it's us supporting, M-S-A's, effort to encourage the administration. i'll reread that if, <OVERLAP> do you need me to re- do you? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> can you reread that? yeah </OVERLAP>
+			</U>
+			<U WHO="S1"> okay. <SEG TYPE="READING"> therefore, be it resolved that the L-S-A Student Government, supports the, M-S-A effort, to encourage the, </SEG> and then it begins <SEG TYPE="READING"> University of Michigan, administration </SEG>
+			</U>
+			<U WHO="S13"> okay, those were word changes by, the actual people who, submitted the resolution, so, um any other, word changes, um, if you wanna see Matt Hackworth afterwards or email him, or um, Robert, from, M-S-A i can't pronounce his last name so i'm not <OVERLAP> gonna try. </OVERLAP>
+			</U>
+			<U WHO="S1"> point of, <U WHO="S13">
+					<OVERLAP> information </OVERLAP>
+				</U>
+				<OVERLAP> inquiry </OVERLAP> information. can we vote, to, support this effort, and not yet, pass the resolution? can we say that L-S-and-A Student Government supports this? just because there's a, a press release going out tomorrow, saying, whether or not we support it. d- should we be patient, reserved, cautious and do the resolution thing? or do we, have a, internal vote, of support, for this, like can we do that? </U>
+			<U WHO="SU-f"> didn't we, um </U>
+			<U WHO="S13"> Matt </U>
+			<U WHO="S22"> on the basis of that point i wanna move to suspend the rules and consider this for passage </U>
+			<U WHO="SU-f">
+				<EVENT DESC="WHISPERING"/> just so we can be in the Daily. </U>
+			<U WHO="SU-m"> um, i'll s- <OVERLAP> i'll second that </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> is there a second? </OVERLAP> okay, we need a two-thirds um, government, uh, approval in order, for, um us to suspend the rules. so </U>
+			<U WHO="SU-m"> i wasn't, i wasn't sure </U>
+			<U WHO="S13"> all in favor of suspending the rules? </U>
+			<U WHO="SU-f"> oh </U>
+			<U WHO="SU-f"> (told you) </U>
+			<U WHO="SU-m"> because it's irrelevant </U>
+			<U WHO="S13">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> it's not </OVERLAP> irrelevant. dilatory because we just <OVERLAP> (already voted on it, like two seconds ago) </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> we just, yeah. d- d- if, we're gonna, we're g- we're gonna rule it dilatory because, we've, yeah. so it's not gonna pass. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> well we need an affordable, hole, (it's senseless) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> we already voted </OVERLAP>
+			</U>
+			<U WHO="S21"> dilatory? </U>
+			<U WHO="SU"> he asked me to do it. </U>
+			<U WHO="S13"> so at this point um, we're gonna, we're gonna g- um, does anyone have any, discussion, questions that they wanna ask Matt, right now? if not then we're gonna s- we're gonna just gonna do it for next, <OVERLAP> next week </OVERLAP>
+			</U>
+			<U WHO="S21">
+				<OVERLAP> table it? </OVERLAP>
+			</U>
+			<U WHO="S13"> yep. okay. it's not tabled, it's um, moved to second reads for next time. </U>
+			<U WHO="S21"> oh okay </U>
+			<U WHO="S13"> difference between tabling and the </U>
+			<U WHO="S21"> but we tabled the discussion didn't we? </U>
+			<U WHO="S13"> yeah </U>
+			<U WHO="S21"> we didn't? </U>
+			<U WHO="S13"> whatever <EVENT WHO="S18" DESC="LAUGH"/>
+			</U>
+			<U WHO="S21"> yeah parli pro <OVERLAP> whew </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> whatever </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> we </OVERLAP> suspended. the discussion. </U>
+			<U WHO="S13"> okay um, parliamentary procedure. <EVENT WHO="SU-m" DESC="LAUGH"/> Matt, would you, wanna take this over? </U>
+			<U WHO="S22"> sure um, in response to, to what's been happening in the last few, meetings and in response to some, comments that have been heard, from constituents and representatives both, i'm gonna pass around this, little informational sheet which is something like the one that uh Mr Randall gave us earlier in the year, what it is basically is a primer, for the discussion that will hopefully be ensuing, from our, new council which is supposedly coming down the pipe, um, so i don't wanna step on any toes, and er, take up too much time talking about parliamentary procedure but hopefully everyone'll look this over, um, and, think about it, and, hopefully, when we get a new council they can pass us something that's a little more uh, complete, as far as Robert's Rules go i mean it it is a whole book, so i don't think we're gonna get a, copy of the book for each of us, but um, if we all become more familiar with the, types of motions the types of main motions that are allowed, and the order in which things are considered, then things'll, in my opinion run much more efficiently and much more quickly than, they are when, people are, kind of, uh, sounding off about their personal feelings on an issue, in, successive order not relating to any particular point and not addressing any previous arguments. so, um, a couple things i'd like to, call attention to, is uh specifically this first, point here, is something that, people seem to be having a lot, not ev- if, i shouldn't say that people are having a lot of trouble with but it's a very important point that... matters of, a lower rank, are considered first in other words, the most... l- the lowest order of amendment is considered first the example given here is, the amendment the amendment, must be disposed of, before, the amendment, can be voted on, and the amendment must be disposed of before the motion can be voted on. that, that's a pretty important point and, lots of time we get off track talking about, the motion when we're supposed to be talking about the amendment. so, in the interest of not stepping on anyone's toes i'm going to end this discussion now. </U>
+			<U WHO="S13"> okay. um... in response to some, of what our constituents, have um emailed, both to Tom and i, um, we're gonna try to become um, a more well-informed government on parliamentary procedure, um, when we have, when it's not running, um, effectively, people seem to, be lost and so we're trying to, make this all a more effective, so everyone's, kind of on the same page. and, like anything it's a learning process, i'm not, gonna say that i'm fluent with parli pro cuz that's not even, that's not even close to true, so, um, just, let's use the next couple of meetings, to really practice, um, doing parli pro and when we have a council it'll be a lot better. but, um, just bear with us, and um, we're learning, as you guys are learning too, so </U>
+			<U WHO="S22"> one final point in relation to parliamentary procedure if you look on the bottom of the back of the sheet, it says that um, you can utilize, S-A-L services this little sheet was produced by S-A-L so if you wanna go to um, the student leadership people and, go through one of their seminars you can always do that. </U>
+			<U WHO="S13"> okay, thank you, um, hopefully we'll try to get an S-A-L person in here, to help us with parli pro too. <U WHO="SU-m"> mhm </U> eventually. okay, um, po- point seventeen E the I-T-D discussion, um, this is also Matt Lane </U>
+			<U WHO="S22"> okay, now i've got another handout to pass around, and um, this one here, this, fun little item, is, a copy of, a proposal that was, presented by the Provost to the regents, that was the impetus, as far as i understand for the thirty-dollar, a person, or an (allocated) student fee, that we were assessed this year, to improve the, information, technology environment of the college, uh, I-T-D, actually has nothing to do with this committee, um, in fact one of the, key issues of the committee is how to, stay away from, I-T-D's, business, and how to, tailor, the money w- that will hopefully be spent on behalf of the students, away from the activities that I-T-D, or the services that I-T-D is providing for, the students because the fear is, if, um, as a college we do anything, to supplement I-T-D's services, they may, pull back from the services they're already providing, so, the autonomy of I-T-D is something of a problem as far as improving the i- technology environment, of the, of the campus but that's a completely separate matter, uh, the name of the committee, incidentally for, for further budget, er for further agenda, purposes, is the L-S-A Informational Technology Committee... um we will be meeting next Monday again with, Mike McPherson and the rest of the committee, Ladizwana and i, and uh we will be discussing some further issues, as far as uh what sort of response the committee has been getting back, from a letter they sent out to all the department chairs. uh the strategy that the committee has been taking to dispose of this one-point-one million dollars, is to write letters to all the committee chairs, and ask them what they, think as far as, how the money could be best spent, and we haven't gotten any response from that yet, uh so obviously the committee is in its, very early stages, next Tuesday we're going to have Mike McPherson here to speak with us, so um, after i, answer Jerry's question i can, talk about some of the main issues. </U>
+			<U WHO="S23"> oh, i'm sorry. i, i didn't know you weren't done. go ahead. </U>
+			<U WHO="S22"> no please an- ask the question. </U>
+			<U WHO="S23"> no i was gonna, i'll wait till you're finished </U>
+			<U WHO="S22"> oh okay. um, as far as some of the main issues that are, in front of the committee, some, some questions that we might be able to, tailor for, Mr McPherson who is, being kind enough to come and visit us next Tuesday, um, the key issue is the student labs we have all these student labs in all the departments and some of them, are, fostered through the department, for instance, in the political science department the lab is completely taken care of by the political science department and the college has nothing to do with it, so that's not under our purview, it says here there are currently ten structural computing labs and it lists where they are, and, how much it's cos- costing to, upgrade them on a, three-year cycle so that, that is a big issue in in the, in the committee, if we buy all these wonderful things, how much is it gonna cost to, keep replacing them and keep, uh insuring that they're continually wonderful, uh, <EVENT WHO="SU-f" DESC="LAUGH"/> the only group so far that we've spoken with is the Language Resource Center, and Monika Dressler the director of that, center has all sorts of wonderful ideas for, our money as far as putting in, um new software that, a- allows text in foreign languages, uh at all the computing sites which i think is a, pretty solid idea, uh, as far as cost benefit goes, uh, and lots of the things overlap for instance the, L-R-C, the Language Resource Center wants to hire more technical support staff to support the students, and, the priority the key priority of the committee, is to make sure that, all the money is spent in the most, most, direct, impact, for the students, and, the key issue is is how direct does this impact have to be? how direct does it have to be for the college to spend their money on it? and, i assume that the_ tha- that's what our questions to Mr McPherson will revolve around, uh is, teaching, is training the teachers or training the, instructors, in these new methods like PowerPoint and other new software, worth our money? is that a direct enough impact on the students? or, or is, hiring technical support staff to help students, um, or to help faculty, do their business is that direct enough? is computers direct enough? is computer on faculty desks, direct enough? um, it's sort of a difficult, thing to talk about when we're at the early stage we're at seeing as we don't have any formal proposals, and seeing as the administration, is, against, us having, formal proposals and against the committee, um, ruling on formal proposals because they want to reserve, that, formalized process to their own, decision-making, bodies, so that that could be another, point of interest, to Mr McPherson um, i should also add that in addition to the one-point-one million dollars that we're, all kicking in, as individuals, at thirty dollars a pop, the Provost has also agreed to kick in six hundred and sixty thousand dollars, and curiously enough that, that pretty much just covers, the, proposal here as it's written, um, so i just encourage everyone to take a look at, these things and, think about, you know how how, how useful is a PowerPoint lecture compared to, the, the traditional lecture? is that worth us spending our money on? what sort of new, computer technology do we want in the labs, or, d- would we rather spend that money on making sure our teachers are confident, enough to, utilize this technology because, these new methods of teaching are so powerful? um, i think it's sort of up in the air, and i have my own, particular, leanings on it and as i said before, if anyone has, something to say to myself or Lena about how you'd like us to represent the college, in the community? or in the committee_ please, please say that to us, but you'll have an opportunity next week to, to say it directly to the man who's really in charge. </U>
+			<U WHO="S13"> okay Jerry </U>
+			<U WHO="S23"> uh, my question is this, um, how much, like right now, did you like take a survey or something to see like, cuz i think that one of the things is, w- how many student actually participate in the, like, in the, in the programs, that are sponsored like for PowerPoint and for Excel whatever have you? like how many students like, tend to show up to those? can you take a survey of that, or if you_ do you have general foundation of that? cuz i think, a lot of this would be, based on what is currently happening at the university i know myself, i see i'll see a sign that says, PowerPoint i'm like i know how to use it, i'm not gonna go. and then, that's just me though. maybe other people are like, would be like oh i don't know i'd like to learn, but i think that (xx) the original idea in what the students want cuz, i don't see, what would, would it, (what) would help if you were trying to improve the teaching, if kids, or if students weren't even trying to like, get that learning. </U>
+			<U WHO="S22"> right. well, the the whole, the whole, story about Pow- PowerPoint, it should be, teach our teachers, to learn this. is it a powerful enough instructional tool, that we should spend this money to teach our teachers how to use it? or is it, not as powerful a- as an instructional <SIC> toor_ </SIC> tool_ or as a learning tool, that maybe some more advanced software in, in Angell Hall might be? </U>
+			<U WHO="S23"> okay </U>
+			<U WHO="S22"> um, so it's all a matter of where to spend the money, um, should we spend it on support staff? should we spend it on training the faculty? should we spend it on putting, computers on faculty desks? i would say definitely not, in that last instance i mean, to me that's, really a progression of getting further and further away from, a direct impact on students. and the question is, where is that, edge? where is the, drop-off so to speak as as far as w- when spending becomes, too indirect, to be using our money on it? and i think one thing that we, really should seek to, pin down, Mr McPherson on, is... will the six hundred and sixty thousand dollars that the Provost kicked in, be subject to the same, priority, restrictions, that, the money that is re- drawn from the student thirty-dollar fee is? um, so cuz i think that the administration sees the six hundred and sixty thousand dollar kick in, as, you know, their form of play money that they can, shuffle around in that budget however they want. um, so, well i think we'll have some interesting things to talk to, these people about and, hopefully we'll have some informative questions hopefully you'll take a look at this, and, do some thinking about, what would i- improve the, environment in your classes or you know maybe you can ask some people i, i don't really know what sort of regime you can employ to take a survey, um, in fact i- it's interesting that most students don't even know that they were assessed a thirty-dollar fee, <EVENT WHO="SU-f" DESC="LAUGH"/> so. </U>
+			<U WHO="S13"> okay, um, as i said, next week um Mike McPherson's coming, um so, i am g- i'm gonna put this in Matt's lap, so if you guys have any questions that you wanna generate, that you wanna ask Tim, um, ahead of time, um, email them to Matt. </U>
+			<U WHO="S22"> right and al- and also, Lena and i are meeting, again with the committee on Monday, morning, so we'll have a lot more to say hopefully after Monday and maybe, we can get together and put out some sort of informational email that'll give, you all some ideas of of how the process is moving along and what sort of responses what sort of proposals we're getting so that might be able to, guide your questions a little bit </U>
+			<U WHO="S13"> okay. thank you, t- for taking that on. okay. um i guess we go to announcements, um, i guess i have one, really, happy announcement today is uh, Beth's, nineteenth birthday, <EVENT DESC="APPLAUSE"/> so, i think we should, sing Happy Birthday, ready? <EVENT WHO="S2" DESC="LAUGH"/>
+			</U>
+			<U WHO="SS">
+				<SEG TYPE="SINGING"> happy birthday to you, happy birthday to you, happy birthday dear Beth, happy birthday to you </SEG>
+			</U>
+			<U WHO="S2"> thank you </U>
+			<U WHO="SU-m">
+				<SEG TYPE="SINGING"> how old are you? </SEG>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> i believe there's a little cake there for you too </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (so Ru) </OVERLAP>
+			</U>
+			<U WHO="SU-m"> Ru </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> oh <EVENT WHO="S13" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> Ru </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> you guys are so cute </U>
+			<U WHO="S13"> does anyone have any other announcements while Shilpa lights the candles? <EVENT WHO="SS" DESC="LAUGH"/> Rob? </U>
+			<U WHO="SU-m">
+				<OVERLAP> (don't give me away) </OVERLAP>
+			</U>
+			<U WHO="S21">
+				<OVERLAP> yeah, um, </OVERLAP> tomorrow at uh, six P-M in, Anderson A and B is um, an, Undergraduate Political Science Association meeting if anyone, any of the many political science majors in this room want to attend, there will be the elections of uh officers of chairs tomorrow <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S22"> a couple things. one, there is a, rally that maybe everyone's heard of in the Diag tomorrow at noon, we're gonna have some of our wonderful, Democratic legislators <EVENT WHO="SU-f" DESC="LAUGH"/> from the Ann Arbor area who they r- um, <U WHO="SU-f">
+					<OVERLAP> kindly refer to </OVERLAP>
+				</U>
+				<OVERLAP> kindly refer to </OVERLAP> as, those crazy women from Ann Arbor down in Lansing, so if you wanna <EVENT WHO="SU-m" DESC="LAUGH"/> hear those crazy women from Ann Arbor, uh, talk about the environment, you go to the Diag tomorrow at noon and i'm sure you'll, you'll hear some craziness, <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<U WHO="SU-m">
+					<OVERLAP> (crazy) </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> also i'd like to say that the elections are coming up so if anyone <U WHO="SU-f">
+					<OVERLAP> (pass it back) </OVERLAP>
+				</U>
+				<OVERLAP> wants to volunteer for </OVERLAP> some campaigns help out some Democrats you let me know and, and i'll have you knocking on doors before you know it. <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<EVENT WHO="SU-m" DESC="LAUGH"/>
+			</U>
+			<U WHO="S13"> Jim? </U>
+			<U WHO="S6"> um, Saturday is Halloween, <EVENT WHO="SS" DESC="LAUGH"/> and uh <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-21"> no way. Halloween? Saturday? </U>
+			<U WHO="S2"> and it's <OVERLAP> Rob Booker's twenty-second birthday </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> it's_ and it's Rob Booker's birthday </OVERLAP>
+			</U>
+			<U WHO="S6"> yes, that is true, and uh, <U WHO="SU-f"> (it's smoke, putting) </U> and we're having a, party at my house and i live on Elm Street so </U>
+			<U WHO="SU-m"> oh </U>
+			<U WHO="SU-m">
+				<OVERLAP> mm </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> the theme </OVERLAP> of the party is Nightmare on Elm Street so, come in a costume otherwise you don't, <OVERLAP> get </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> let's not </OVERLAP> forget Rob's </U>
+			<U WHO="S6"> (party perks) </U>
+			<U WHO="SU-f"> party too </U>
+			<U WHO="S6"> yes <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S13"> should we redirect to, should we redirect to Beth? </U>
+			<EVENT WHO="S2" DESC="BLOWS OUT CANDLES ON CAKE"/>
+			<U WHO="SU-m"> yeah well, we'll </U>
+			<U WHO="SU-m"> ohhh </U>
+			<EVENT WHO="S2" DESC="BLOWS AGAIN"/>
+			<U WHO="SU-m"> uh </U>
+			<U WHO="S2"> still counts </U>
+			<U WHO="SS"> yay Beth <EVENT DESC="APPLAUSE "/>
+			</U>
+			<U WHO="S2"> is it on tape my birthday party? <EVENT DESC="LAUGH"/>
+				<EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S13"> um, are there any other announcements? </U>
+			<U WHO="S20"> i just wanna thank everybody for, signing up, um, help with the ribbon drive we'll email you out with, to remind you what you signed up for </U>
+			<U WHO="SU-f"> is tomorrow's eight-thirty or eight? </U>
+			<U WHO="S20"> um, actually i'll be there at eight, (tomorrow at eight,) i'll be there at eight </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-m"> i move to adjourn </U>
+			<U WHO="SU-m"> second </U>
+			<U WHO="SU-m"> uh, ah, attendance. </U>
+			<U WHO="S14"> i uh <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> do we have a </U>
+			<U WHO="SU-m">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> i object </OVERLAP> actually, close with roll call </U>
+			<U WHO="SU-m"> huh <EVENT DESC="HITTING MICROPHONE"/> yeah </U>
+			<U WHO="S19"> Priya </U>
+			<U WHO="S13"> yup </U>
+			<U WHO="S19"> Tom </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S19"> Rob </U>
+			<U WHO="S21"> here </U>
+			<U WHO="S19"> Matt Lane </U>
+			<U WHO="S22"> yes sir </U>
+			<U WHO="S19"> Shilpa </U>
+			<U WHO="S18"> here </U>
+			<U WHO="S19"> Beth </U>
+			<U WHO="S2"> here </U>
+			<U WHO="S19"> Jerry </U>
+			<U WHO="S23">
+				<FOREIGN> presente </FOREIGN>
+			</U>
+			<U WHO="S19"> Maryanne </U>
+			<U WHO="S3"> here </U>
+			<U WHO="S19"> Laurel </U>
+			<U WHO="SU-20"> here </U>
+			<U WHO="S23">
+				<FOREIGN> presente </FOREIGN>
+			</U>
+			<U WHO="S19"> Judy </U>
+			<U WHO="S4"> here </U>
+			<U WHO="S19"> Emily </U>
+			<U WHO="S5"> here </U>
+			<U WHO="S19"> Jim </U>
+			<U WHO="S6"> here </U>
+			<U WHO="S19"> Jean. Morgan. </U>
+			<U WHO="S8"> breathing </U>
+			<U WHO="S19"> Usha </U>
+			<U WHO="S9"> here </U>
+			<U WHO="S19"> Armina </U>
+			<U WHO="S10"> here </U>
+			<U WHO="S19"> Randy. Lena </U>
+			<U WHO="S11"> here </U>
+			<U WHO="S19"> Annie. <U WHO="SU-f"> or not not </U> move to adjourn </U>
+			<U WHO="SS"> second </U>
+			<U WHO="SU-f"> excellent </U>
+			<U WHO="S13"> so adjourned </U>
+			<U WHO="S1"> (oh would) everyone everyone sit down or, hang around? </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

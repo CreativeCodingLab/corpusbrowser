@@ -1,0 +1,491 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="stp560jg118">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Community Change Student Presentations </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> STP560JG118 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="66">
+						<DATE> October 26 and December 7, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones; digital video camera on first day of recording </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Janine Ovens, Amy Burke </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Final Editing, 02/06/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: PNL </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="30"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="26"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NNS" ROLE="SG, Graduate Student Instructor" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> JAP </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S17" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S18" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S19" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S20" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S21" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S22" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S23" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S24" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S25" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S26" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="JG, Student" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, School of Education Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> computer to work. um first we'd like to start with a little activity a little class participation, um, what i want you to do is to, build since our directions aren't on the computer, i'll read them to you. um take your pixie sticks and your marshmallows, to create the best structure possible. use your imagination and be creative. do not trade your supplies. <EVENT WHO="SS" DESC="LAUGH"/> and that's all the instructions we can give you. <U WHO="SU-f">
+					<OVERLAP> can we collaborate? </OVERLAP>
+				</U>
+				<OVERLAP> go for it </OVERLAP> you have four minutes. </U>
+			<EVENT DUR="1:18" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> (you guys get) one more minute </U>
+			<EVENT DUR=":25" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> thirty seconds guys </U>
+			<EVENT DUR=":25" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> okay, okay... now, since none of you guys, um realized the fact that you could defy us and collaborate cuz collaborating is <OVERLAP> not trading. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> no but she's </OVERLAP> selfish. <EVENT DESC="LAUGH"/>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> no no no </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no Andrea said that wasn't the topic </OVERLAP> for two more weeks (xx) </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> i'm out of a job now </U>
+			<U WHO="S1"> you have thirty s- thirty seconds to see what you can do collaborating with your, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i like mine </OVERLAP> though </U>
+			<U WHO="S1"> really quick </U>
+			<EVENT DUR=":44" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> okay okay. <OVERLAP> (we) can stop. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> we not done yet </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> uh'uh uh'uh hold on, </OVERLAP> one more second </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S5"> nah time's up </U>
+			<U WHO="SU-f"> so. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> (it's sad) </U>
+			<U WHO="S4"> (we will defy you) </U>
+			<U WHO="S1"> okay what, what did you guys notice from doing this little activity? </U>
+			<U WHO="S6"> we didn't all have the same amount of <OVERLAP> materials </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> we didn't (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> i have lotsa legs </OVERLAP>
+			</U>
+			<EVENT WHO="S4" DESC="LAUGH"/>
+			<U WHO="S1"> you didn't have the same amount of material you had lots of legs </U>
+			<U WHO="S4"> we had no time </U>
+			<U WHO="S1"> you had no time. some people had all Pixie Sticks and no marshmallows. <EVENT WHO="SS" DESC="LAUGH"/> um... </U>
+			<U WHO="SU-f"> some people didn't wanna share, their resources. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> um </U>
+			<U WHO="S4"> some people didn't (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> what this was meant to represent, was, um, with the more resources that you have the stronger, your collaborations can be and the stronger your structures can be. um, pooling with others t- who share similar resources which you all had pixie sh- sticks and marshmallows can lead <EVENT WHO="SS" DESC="LAUGH"/> to better structures, or in this example to better lives. <PAUSE DUR=":08"/>
+			</U>
+			<U WHO="S8"> okay. you guys can eat your food now. so (xx.) we don't have power in the computer right so we don't have our audiovisual presentations for y'alls but, you'll just hafta, hafta go with it, um, so the, with the example of resources and structure, that you're supposed to be using what you have to build your life and that sometimes you know you don't have appropriate materials or you don't have a means of interacting with other people who can help you build that structure for yourself, so we started at a really, um national level about students in the United States cuz our topic is about, women in multiple roles ma- mostly students who are parents. and so in the United States, thirty-two percent of undergrads enrolled across the nation label themselves as independent with dependents, so that's not even counting graduate students that's undergrads alone. twenty-six percent of those students are considered low-income, and fifty-nine percent of those are undergr- are_ of the undergrads are single parents. <U WHO="SU-f"> wow </U> and then amongst women students in Michigan we're ranked thirty-sixth nationally out of fifty-one including Washington D-C in terms of women who complete college. fifty perc- fifty-six percent of the students in Michigan are women which is a pretty good percentage, but about twenty percent of those don't get to their graduation date. um, and just, enacted recently i guess i don't, know where this information came from but, the_ that you can't be, with the new welfare to work rules Governor Engler helped pass through you can't be in school, and on welfare simultaneously without really severe restrictions on how many hours and how many credits and how much work you're doing at the same time, so that it's very restrictive for people trying to get ahead. and then how we identified our population of interest, um with our theory about multiple roles, the number of women in the Ann Arbor, University of Michigan has escalated since nineteen-fifty, there was only about twenty-six percent of the population and then now the nineteen ninety-nine numbers was forty-seven percent of the population were women, incl- cross- across graduate and undergraduate degrees. and, um, it's_ a report from Lapore in nineteen-ninety-five said that data suggest that chronic stressors, may increase psychological vulnerability to acute stressors by stripping people of their biological psychological and social coping resources, so that with the introduction of multiple roles into women's lives they're fa- they're being faced with, a multi-dimensional, coping strategy that that they might not have, had access to or been taught how to cope with all the different levels, that they're now, being faced with. </U>
+			<U WHO="S9"> okay. um surprisingly with all of these figures, um, there are r- there's really not a no- a network of support at the University of Michigan. um there are programs that target graduate students but really nothing exists with the exception of a lesbian moms network, um for undergraduates at all. so understanding the environment is pretty critical to um, do we have it now? </U>
+			<U WHO="S8"> just about </U>
+			<U WHO="S9"> okay. understanding the environment is very critical to our um, our needs assessment of the community, and as Izumi pointed out a few weeks ago, the University of Michigan is a very politicized environment so, we really have to, um, get a good ex- assessment of the major players and their roles of power and all those other things. one of the main people or organizations that we're working with is the Rackham, School. they actually house a lot of the different programs or there is information there available for parents, who are also students. um, it's an umbrella organization that acts as headquarters for many of the graduate programs on campus, and um some of the programs that are available are kids care at home, which provides service for, kids who are sick at home for, um, a fee. family housing, family care resources program. and our contact there is Jane Landow. Jane is the parent advocate for graduate students. and she essentially, serves as a voice for the needs of, students who are also parents. um she's been very very helpful and is very excited about, our findings and really wants to know um, wants to hear our feedback on what the University is doing. our other contact at Rackham is Damon Forthman, Damon is the president of the graduate student government, and just this weekend he sent out an email, trying to um gauge interest for, parents who are also students for like a social, network so people can feel like they belong to the community. the other organization we're working with at the University is the Center for Education, of Women. um, C-E-W provides funding and counseling and support to women students on campus. together C-E-W and Rackham have, recently formed a task force for student parents. their first meeting was actually last week, and this comes out of a study that was done over the last two years, um, on grad student parents and they explored funding accessibility curriculum etcetera. um the results of this study, were basically that parents really want more money they need more money and more resources, and also they feel very isolated from the community, um whether it's within their programs or just the University in general. the last organization we're working with is actually the Women's Center of America. the Women's Center is a new organization as of January two thousand, and they're very willing to implement new programs, which makes this really great for us, um, they're very very flexible about this they're adding new programs currently, and um, so this way we're not forcing any of our ideas upon them they're ready to receive them. </U>
+			<U WHO="S10"> and we also wanted to look at issues of community and organizational diversity within the women student parents on campus. and although this particular community shares a common experience of being both student and parent, a wide range of diversity issues come into play. uh for example student mothers at the University of Michigan come from all different racial ethnic religious cultural backgrounds, um as well as socioeconomic levels, and, uh also as well as that they are single parents or two parent if they have family in-state out-of-state what their just personal support systems are in their family. we initially looked at women in multiple roles that included, wife or mother, partner, uh students and employee and we narrowed it down to just, parent and student because it was too broad of a_ too many roles to look at for this time period. and um, the variance of roles in the community of student mothers demonstrates the need for both multicultural organizing as well as diversity among the facilitators of the program. uh the facilitators must consider, these roles that come into play whether this is just a student, and a parent, or whether this is a student an employee, a partner a parent, you need to look at those things. and also you need to be aware of your own status, um, as well i- as the facilitator are you a student parent? are you going to be somebody coming into this group, who has no idea what these kind of role constraints can be? and then, adapt yourself and your presentation to be, there as strictly a facilitator and not somebody to say, i'm in, you know the same boat as you tell me how you're feeling oh that's that's terrible that's too much. um, it's also important to examine the cultural and religious beliefs of the particular group of student mothers that you are working with. for example, um, African women maybe international students who come there, a lot of African cultures women carry their babies constantly even up to like two years old on their chests or back, and how you need to be aware of that and say well maybe you wouldn't be so constrained in your roles if you put your baby down for a little while and did your housework and and then you need to understand that that's how these women do everything, and not, try to say that that's a bad thing for their children to be you know visibly attached to them, twenty-four hours a day. and also, for religious and cultural backgrounds there may be outside, role constraints, coming from a particular religion or culture, inflicted on the woman for being a student, while they're a parent. so you need to look at those issues as well. and always be aware of your bias and privilege when working with (xx) </U>
+			<U WHO="S11"> you might wanna move a little bit so that people here can see the slides. </U>
+			<U WHO="S1"> um i'm gonna talk about methodology what we're planning to do and how we're planning to do it. um, we are_ actually last night we initiated our first contact to get to, um parents who are also students, and we did this via email, um emailing different, um departments and different schools within the University of Michigan. and as of like three hours ago, we'd already received nine, answers of people who wanted to participate so this is obviously, a real concern, for people in the University of Michigan. um within that email we, stated that we would have these_ ask them what days would be, most accommodating for them what nights what evenings what mornings. um within the next month or so, and also we told them that we would have child care and refreshments provided which formed an incentive, for them to come to the focus groups. um, when they get there, we are going to, have like a one page survey questionnaire, um about what kinds of services they know about currently that the University of Michigan is providing, have they ever accessed those services? um do they have any recommendations or suggestions about things that would be useful to them as a parent? um things like that. we're also going to target with the survey, um a mass meeting that's being held at Rackham next week, so that we would get a wider range of answers, for our questions. um, and our focus groups, um refreshments and child care provided um will hopefully be eight to ten participants, um from diverse educational and, socioesh- economical and, um racial backgrounds. that the University represents. um, we've already actually gotten, one man who responded so, we already_ i know we have a little bit of diversity in there. um, we'll have a facilitator from our group and, a recorder, um and then someone who will watch the kids, um, and the groups will be organized according to like what time they requested. um would be good for them so it's very, um participant-friendly, focus groups. um, and our analysis is gonna be a content analysis of the dialogue, um picking out what things are important what quotes, as well as a trend in (classes.) um, which we hope will be helpful. and these results we will give back to Rackham, um as well as the Center for Education of Women and the Women's Center, who are all really anxious to see what these women and parents, um want and need in this University... um the work being collaborative, um one thing that we've really learned already, in this is that's it's very hard to target one organization, because, um, of the very nature of our project the women's multiple roles, in that, as multiple roles they're not only mothers but they're students as well and their lives are touched by different organizations that can help and provide resources. so we're trying to, um coordinate those different organizations and, see how we can help them and how they can help, the parents, within the University. um, and each agency knows and supports us in that we're talking to other, agencies that share the concern about parents who are also students. so. do you guys have any questions about our project or what we're doing? mhm? </U>
+			<U WHO="SU-f"> is it for_ are you targeting everybody or um, graduate students or undergrads? i didn't hear what you said </U>
+			<U WHO="S1"> both </U>
+			<U WHO="SU-f"> both. </U>
+			<U WHO="S1"> everybody. </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S10"> we're still waiting for the okay, to send out a mass mailing to undergrads. <U WHO="SU-f"> oh okay </U> you have to go through the dean so, <U WHO="SU-f"> yeah </U> it's kind of difficult but, actually the study that was done, for two years only targeted grad students and that was actually one of the most telling complaints from an undergrad there was a quote saying you know why is there nothing at all? why is no one interested, in us? so, definitely wanna look at that. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S11"> is there any aspect that you wanna t- uh get feedback from? (xx) from the people? </U>
+			<U WHO="S1"> um, i would think possibly like what_ if you guys have any suggestions about how to, um, best, um go about forming with the collaboration between, the different agencies and the parents as well, and us, cuz we're students as well so, do you guys have any suggestions? </U>
+			<U WHO="SU-f"> do you mean as far as just getting the meeting to org- like an organizational meeting (xx?) i'm not sure (what you're asking) </U>
+			<U WHO="S1"> that's a good i- well, that's a good idea getting people within e- each organization, to meet together </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S1"> we don't have one set up but that would be good. </U>
+			<U WHO="SU-f"> (i don't know if you) could do a community forum type thing, where you could have representatives from each organization there and have all of them talk about their services what they have and then have the community, of of single, parents in this case, come up and give testimony on what they'd like to see and that way you've got representatives of_ appropriate representatives as well of all of your organizations that are (listed,) directly </U>
+			<U WHO="S1"> that sounds great </U>
+			<U WHO="SU-f"> does the University have data about which students have kids and which don't? no? <OVERLAP> not at all? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> they don't </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S1"> they they, in answer to our question about that they don't have enough funding, <U WHO="SU-f"> uhuh </U> to to find that out, so </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S10"> one of the problems that i've had is i i wanna focus on the diversity among the group and i can say that i know that student mothers are different ethnicities and religions and, whether they're partners or wives or whether they work but i can't back that up with any numbers cuz they're just not there. </U>
+			<U WHO="S8"> supposedly there's a proposal sitting on the provost's desk right now so that they can start, collecting this information, but it just hasn't gone through yet. </U>
+			<U WHO="SU-f"> it's, it's one more line item on the questionnaire you know </U>
+			<U WHO="SU-f"> it just seems it's sort of standard <OVERLAP> it should be asked </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> yeah just so simple, </OVERLAP> so simple that it (xx) put on the application. </U>
+			<U WHO="SU-f"> it'd be interested_ it'd be interesting also to know like if the, majority of students that have_ especially undergrad, like are traditional students or more nontraditional and are older and have come back. like i wonder, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> that's true and i also think like just, from thinking about this in the past week or so is that, um i think University of Michigan the population that we're gonna reach is a little bit different than if we were doing this, at Eastern, or at, W-C-C. <U WHO="SS"> mhm </U> i think it's a, very different_ we would get a lot more nontraditional students at W-C-C who are going there at night, than we will at the University of Michigan </U>
+			<U WHO="SU-f"> age of the kids might also be important. i think at W-C-C (xx) you might have a lot of much younger children, whereas here at U-of-M i would suspect that you have an older female demographic that has gone back and might have kids at home, but, they're not you know one two toddlers etcetera. </U>
+			<U WHO="S10"> yeah that's actually been another thing that the University looked into um because there isn't a lot of support for part-time graduate students some programs don't even offer it, so you would assume that the part-time students would be the ones with the really young kids. cuz they couldn't be there full-time, so they were looking into that too how how to make things more accessible for those, type of people. </U>
+			<U WHO="S11"> just to go along with what Joanna suggested about community forum, um there are brochures that um i think Rackham puts out, and uh list listing different resources for student parents. but one i wonder how much, uh how well that's distributed. um so these student parents may not know about the resources, to begin with. um two so that the community forum could be part you know um resource fair you know where agencies or units or uh child care agencies around the area or public school officials whatever, come together and present what they do or where parents can walk around and get the brochures and stuff, and last half second half of that could be hearing from the parents themselves um okay this is great that there are these services but what about this and what about that? so i think there's the two issues that the University doesn't know the issues but also parents are so overwhelmed or so busy that they don't have time to get around and (xx) </U>
+			<U WHO="S1"> hopefully we'll we'll get to some of those questions by the survey. that we'll, that we'll send out to, we might (get answers) to some of those. hopefully. </U>
+			<U WHO="S8"> information's been a problem. like in both directions because a un- the University can't ask on like your application for admission, you know if you have kids or if you're married those are all, you know taboo questions so unless they have money to fund a follow-up project for th- those kind of questions then they're not gonna get asked and then, you know each of the centers that we've talked to have a web page or some information resources but they aren't linked to each other so there's no network, so they're not really having a good dialogue interacting and then like on the Rackham page, it has a list of services for students but a lot of them'll be headed under, like for the Family Housing so if you're not in Family Housing you can't access these services you you have to like pick and choose which services are available to you and, and it gets really complicated, to even figure out, you know what am i eligible for? so that information has been a really big problem in this whole_ which is why we wanna make sure our information is available to more than one, group we don't want them to_ everyone to get the jump on it or whatever and try to duplicate services but we want everyone to know what we discover s- to help alleviate some of this information, lag. </U>
+			<U WHO="SU-f"> well maybe if like, you get a lot of responses, hopefully to your email that um, and you can't include all those people in both of the focus groups for like logistical reasons or whatever maybe you can send all the people that responded to the the survey at least or something. </U>
+			<U WHO="S11"> did you get any reaction around the issue that you know you are M-S-W students for example there are some other M-S-W students who are parents and, sort of feel weird about going to you, to talk about issues. </U>
+			<U WHO="S1"> um, i've gotten a- the emails but i haven't responded yet to them cuz, i've been in class all day, um and i noticed one o- one of 'em was an M-S-W student and a couple of 'em were, from, doctoral students from biopsych and, so a couple_ a lot of 'em are probably gonna have more education, <EVENT WHO="SS" DESC="LAUGH"/> than we are, but um, but i'm hoping that it'll be helpful. like it's really not us who's who're presenting it's really them, who are sharing together what resources they have and what they know about and, what their concerns are so <PAUSE DUR=":07"/> anything else? </U>
+			<U WHO="S10"> you can now eat your Pixie Sticks </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> if you haven't started already </U>
+			<U WHO="SU-f"> thank you </U>
+			<EVENT WHO="SS" DESC="APPLAUSE"/>
+			<U WHO="S11"> (people) next week we gonna have guest speaker Anne Walt, who gonna talk about the uh, her experience working with the women's organization in Rwanda after genocide. so that's gonna be very interesting, um especially for those of you who want to do international work or want to work with a non-profit organization, you know like trans-cultural organization. so that's that's one agenda, um... and i s- please bring back that stack of paper i gave to you today. and you can look through them and if some of them may (xx) programs for example there is defining community and there is a couple handouts that you can peel out if that's useful to your assignment you can do that part of as part of your paper (xx) </U>
+			<EVENT DESC="END OF FIRST DAY OF PRESENTATIONS; BEGIN SECOND DAY"/>
+			<U WHO="S13"> so basically what we're gonna do is we're gonna, fill you in briefly about um some of our issues and some of our central strategies and tactics, how we're gonna focus more than on um, processing what occurred when we met with the program co- coordinator of Generations last evening and some issues that, arose from that conversation. however on the board there's a brief outline of what we're gonna do. we're just gonna, i'm gonna, introduce the program real quick, do the five issues, and then Theresa's gonna chat about the strengths, and limitations that we see of the strategic plan that we created for Generations, and then um, Jessica and Jason are gonna um, talk about, the um meeting that we had with the program coordinator last night. um, like you guys know Generations is a program that deals with, children who um, either have a parent or guardian um, in prison, or um have a parent or guardian or close relative that, is um at risk for um, i guess falling_ committing crimes. um, as you know we work closely with the program coordinator in terms of learning about the organization learning where they are now where they would like to go. and that helped us, in a sense develop, and come up with the issues that are currently affecting Generations and essentially create our strategic plan. we really wanted to focus on improving the quality of the programming for the children at Generations. so by um, doing that, we wanted to address, the children's needs and assets, um in- while we were trying to create a street plan all at the same time. so, we came up with five issues, um that we felt that, Generations could look at and hopefully address and then, improve upon. the first issue was that, Generations, we needed to know what are Generations' program goals, and how does Generations intend to achieve these goals. like you heard about last time um, they're really_ they have a mission and vision statement however they're, in the, process of revising it. so um, we suggested that they do that so that was an example of one of our um, strategies, for that issue and then the second issue, was how can Generations strengthen the relationships between the tutors and the mentors, and um, with Generations and the Generations staff and then the second element was that, how can the tutors and mentors improve their relationships with the children. so we suggested that Generations look into, creating and implementing an orientation and training specifically for the tutors, and that they hold dialogue sessions several times throughout the year so that tutors can come in and talk candidly with um, the program staff. our third issue... (xx) is, how can Generations improve the diversity among its tutors and mentors? and that was a big, thing at when we spoke last time, and it was great because we were able to take, a lot of your feedback and bring it back to the program coordinator we even suggested in that paper especially um project outreach, and also incorporating some of the retirement communities and trying to recruit, through the mentors from there to increase the diversity of the tutor mentor population so we suggested that as one of our um, tactics. the fourth issue which we spoke in detail about, during our last presentation was how can Generations determine the needs and assets of the children, throughout their involvement in the program. and um, as you can remember we, wanted_ we suggested that they were to develop, um an educational biopsychosocial assessment, and that they were to_ gonna administer that to the students, to the children. and then our final issue dealt with, evaluation, and, how can Generations evaluate the success of its program. and basically we suc- we suggested_ cuz right now currently they have_ they know by um, i guess s- subjective comments that come through they really don't have any objective measures currently to um see how the program, is functioning so we suggested that they, administer surveys and questionnaires on a regular basis to the tutors and the parents and the guardians and the children of the program. </U>
+			<U WHO="S14"> and that one's kinda tied into the first one of the whole mission because if you don't really have your mission your goals how can you even evaluate yourself? if you don't have, what you're trying to do, <U WHO="SU-f"> mhm </U> or, you know, (their vision) so, (exactly) </U>
+			<U WHO="S13"> so basically, our whole focus was to, in our strategic plan like we suggested these strategies and tactics and we, came up with these issues and we involved Joanie a lot in it. in addition when, we presented it to Joanie and said here, you know if you t- what you can take from this, take it run with it, but try to include the children try to include the tutors and mentors and then if you read our paper we tried to, suggest ways that, everybody could be equally involved in implementing the strategic plan. and in terms of when would the implemation implementation occur, most of the stuff would be slated for like fall two thousand (like) they're running through they, they run the academic year so in a sense, you know they're already started this year we have a lot of great ideas, and a lot of the planning and the prework can begin now however, m- the most of the implementation will occur in the fall so </U>
+			<U WHO="S15"> i'm just gonna briefly talk about the agency's strengths and weaknesses that we've found. um first and foremost i think that Generations had, really good community spor- support, and in talking with Joanie um, last night and going over some things with her, she shared with us that the Junior League, um the the local one in Ann Arbor, donated twenty-five thousand dollars to their agency. so that is just one example of, the positive community support that they have at this agency. um, the other strength is, their relationships with the universities around the surrounding area, not only U-of-M but Eastern, uh they do get their tutor mentors from them and they also do get their interns, so that's a positive relationship. we also thought that a strength of Generations was their leadership, um, and their openness and willingness to change. like we said Joanie has been involved in this process um, every time you know we turn in a paper, she's very willing she wants to see it right away, see what we've come up with, so sh- herself, she is very open, to new ideas she wants to implement something um, to increase the effectivene- effectiveness of the agency. and, that also goes with, the agency as a whole. they all really work together um, so, that was definitely one of their strengths. some, areas for growths or weaknesses that they had um, were the fact that we're outsiders, implementing you know, this plan, and, this was done relatively quickly we only had a semester to come up with this. some uh, side issues um, with that time frame, was the fact that, you know last night she kinda mentioned to us, cuz we had handed out surveys to the kids and, she was, kinda looking for a um, a statistical analysis of the surveys that we did. and we didn't do that we did you know look at the surveys and you know we get the comments from_ but we were not going to do a whole, statistical breakdown. and, that was just a part of, the short time period that we had. so. um... also, with the surveys um one of the limits that we had was the age thing. with the younger kids it was hard to use, questionnaires where, you know they, could write down kind of an open-ended question it would really stick to yes no questions. um, also, some other limitations, was that Generations only has two um, paid staff, and Joanie the program manager is only there, um part-time. so. and our last weakness um of the agency was the high turnover rate for tutors and mentors, and also with the interns. you know they're only there for a semester and then they leave. so, that's what we found um, for the strengths and weaknesses (of Generations.) </U>
+			<U WHO="S14"> as far as our plan goes. </U>
+			<U WHO="S13"> mhm </U>
+			<U WHO="SU-f"> right </U>
+			<U WHO="S14"> as far as you know anything, <U WHO="SU-f"> right </U> that would be like a block, to our plan. um so we did meet with Joanie last night, and since it is more of an informal, kind of place you know she picked, Applebee's, <EVENT DESC="LAUGH"/> you know for us to do our little thing so over our hot chocolate and coffee, uh we presented it to her, and i think one of the most important things that we got out of it, out of the whole presentation process i don't know, if you guys have done_ any of you guys have done it yet, um, i guess i thought back to the beginning of the semester when, if you saw the strategic planning chart how it's always, a continuum and always, keeps going. and even as we're sitting there presenting we're brainstorming more things. and just coming up with more and more things that, it was like oh i wish i woulda thought about that for the paper kinda thing, but it really was just a good session, t- you know just to use that even as a basis. you know the strategic plan as a basis for things. and i guess at this point since you do have such limited time, in consideration, that that's basically all it can be <EVENT DESC="LAUGH"/> for the most part. but um, she was really happy, we shared the survey results with her, we really made sure_ we wanted her to know how the kids felt about the place and, that was one of our main things, is we wanted her to know that they do enjoy it first of all, that it is a place_ let's talk over here too. that it is a place that they wanna come to <EVENT DESC="LAUGH"/> and if possibly more. um, and she was like they were saying, the feedback you guys gave us for, like the project outreach and those programs, she was really excited about those. i mean, the whole project outreach thing just to know that she'd have a commitment which is a big thing there. to have commitment and just involve, more people, in any possible way. um one of the things that we did end up, brainstorming on a little, which person- i don't know why we (didn't do it) before, was the whole tutor thing right now she has two I-P_ or not tutor intern thing. she has two I-P interns right now, and she has such a hectic schedule, and she's a part-time person as coordinator, and it's just such a simple idea to maybe, take on a C-O person and or management person, who can really take part of the workload for her, and you know obviously not, a ton of it but it can really help her use her, position in certain ways. um, she did have some reservations about that th- she likes the idea, but just, she seems to have had bad experiences about, who she's even had to interview, and i guess we all know Office of Field Instruction, pretty much controls, who interviews where, and whatever so she hasn't had even as many people to choose from as she would want, or people would change_ she's only had interns two years. and she had some people change like halfway through, and leave, and things like that. i- so another option we thought of, was, i don't think she realized the intern programs at Eastern, that they have, and she also realizes that there's programs at Washtenaw Community College, and just you know the different places she can look now for interns, and so that was just a whole nother realm that came out of, the presentation part, of this. </U>
+			<U WHO="S17"> um another thing that we suggested to her was, you know to find tutors and mentors or even, um some volunteers to come in occasionally from retirement centers, where there's you know a majority of, people that're, um looking to provide activities for themselves and also to help out other people. she was, initially not very receptive to this because, her impression and no- from what we understood is she had tried this before, and that the people that she had had from retirement centers, they were o- they were older which is which again retirement centers_ and they weren't very assertive, she didn't think that they could, control the type of kids, that she has in her program. um, we, you know i- tried to sort of, sway her in that, you know, retired people aren't necessarily little old ladies who are pushovers, but they can really be, good influences on these children's lives. um so hopefully she does that, she'll look into that but, you know again we don't know. also we suggested to her, that she look to local businesses, uh have her interns you know look to local businesses and, see if maybe they can find some, um volunteers some tutor mentors from uh you know the professional world. um, again she was, she thought this was a good idea but also that you know if they were gonna do it that, they would have come to her and i just kinda suggested to her that sometimes people just need a, you know personal invitation, and so hopefully she'll look at that. also another suggestion that, that we had is, my internship right now, um is at a summer camp and one of the programs i run is for uh E-I children and E-M-I children and, so sh- i gave her the uh phone number and she's gonna call and look about maybe getting scholarships, for one or two of her kids, so that they have an opportunity and so that their parents or m- actually specifically for a child if she (has it in) foster care, as an opportunity to try something else. </U>
+			<U WHO="S9"> could you explain what E-I and <OVERLAP> E-M-I </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S17"> emotionally impaired and educably mentally impaired </U>
+			<U WHO="S9"> okay thanks. </U>
+			<U WHO="S17"> sorry </U>
+			<U WHO="S9"> sorry <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S14"> but so all of this came out of even just the presentation portion of it. so, that was kind of interesting. i don't know i d- think in a way we wish we woulda utilized, Professor Rottmal's, her whole schedule of how to have this thing, <EVENT WHO="SS" DESC="LAUGH"/> so i might recommend that to anybody, like in their presentation phase, cuz you don't know where to go otherwise. um, you can get a little scattered <EVENT DESC="LAUGH"/> over the whole process. is there anything else you guys wanna add? </U>
+			<U WHO="S13"> just, i guess in conclusion i think, we really appreciated working with her it was kind of a nice mutual relationship where she felt like she, gained something by having us working with her so w- we didn't feel like we were just bombarding her and just using her and just, like sucking everything from her, <U WHO="S14"> mhm </U> she felt that it was an even exchange we were giving and taking and she was giving and taking. so overall i think it was, a great experience, <U WHO="S14"> mhm </U> for us in the sense of being able to work one-on-one with the program coordinator and really get a sense of what the program was about, and, how you can go about just starting, and seeing what the, basic elements of strategic plan, so </U>
+			<U WHO="S14"> any questions? </U>
+			<U WHO="S1"> i just wanna say that it s- kinda seems like you guys, were able to come in and, like pinpoint something that needed to happen and kind of help them think like horizontally about it, you know? like it really kind of of like, shone some light into like, ways that the program could improve and things that needed possibly changing and, it seems really <OVERLAP> cool. </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> yeah </OVERLAP> and, it's something that she'd said to us um, last night even is that, she was really glad that_ you know even if she knew some of these things that needed to happen, she was glad to see it on paper cuz then it's sort of, it's sort of forcing her and pushing her <U WHO="S14">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> toward, </OVERLAP> toward getting these things done... </U>
+			<U WHO="S18"> and it kind of sounds to me like, you know the things that you proposed to her, that she was having similar problems concerns about it that, and what that says to me is you know maybe, the only thing that, can really be done at this point is like she needs to really take a look at her internal structure <U WHO="SS">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> because no matter what, </OVERLAP> if she can't retain people whether they're interns or volunteers or, older people you know, then maybe, that's where it needs to begin no matter how good of recommendations that you can make to her, <U WHO="S14"> yeah </U> you know she still has the problem unfortunately and, you know whether that's you know developing roles and responsibilities maybe interns (simply) feel like there is no structure there but, it sounds to me that, you know until she realizes that she needs to, do that, and that there's resistance to having somebody help her do that, <U WHO="S14"> mhm </U> um, the program is not gonna improve. in terms of, you know the area <U WHO="S14">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> you were </OVERLAP> you were targeting. <U WHO="S14">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> that's just, </OVERLAP> you know. i don't know. <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S14"> i think that's why she loved that um, project outreach idea even more though cuz you know <EVENT DESC="LAUGH"/> that, once they started there they were pretty much stuck there after you know the drop add deadline <EVENT WHO="SS" DESC="LAUGH"/> kinda thing you know? and, like they would have to be there and have to show up or th- you know they wouldn't get, credit. <U WHO="SU-f"> mhm </U> so that there was even some other motivation, behind you know wanting to help. <U WHO="S14"> mhm </U> yeah? </U>
+			<U WHO="S19"> um, Ebony and a- i Ebony and i actually worked for, an organization on campus that does like tutoring and mentoring </U>
+			<U WHO="S11"> can you speak up? </U>
+			<U WHO="S19"> sorry. Ebony and i worked for an organization on campus that does mentoring and tutoring for elementary school kids and high school kids and, um, i don't know if one of those I-P students is a coordinator for the tutors and mentors, is that, their responsibility or not <U WHO="S14">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> (so much?) </OVERLAP> no. well i don't know we found it to be like, um, that if there was a work study_ i mean not work study an intern who was, like really responsible in keeping up with the tutors, keeping up with the (matches,) keeping up with the activities, being there for all the sessions that that really, takes a lot of pressure <U WHO="S14"> mhm </U> off the staff people because, <U WHO="S14"> that's true </U> it's really, it's not a hard job it's not brain surgery, <U WHO="S14"> right </U> um, and the hours could be you know flexible and, <U WHO="S14">
+					<OVERLAP> that's true </OVERLAP>
+				</U>
+				<OVERLAP> especially </OVERLAP> for a C-O student or management student <U WHO="S14">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> or even </OVERLAP> an I-P student (I mean) who's just, <U WHO="S14">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> supervising </OVERLAP> college students and, um managing the relationships and, making sure you know that things just run smoothly and, from working at the Neutral Zone, they have said that it's really helpful just to even have that one person there when the, tutors and mentors are, are meeting just so there's just like one person just to <U WHO="S14">
+					<OVERLAP> mhm one (xx) </OVERLAP>
+				</U>
+				<OVERLAP> concentrate on that instead of like, </OVERLAP> yeah, instead of like, all the other fifty million things that are happening <U WHO="S14">
+					<OVERLAP> yeah, mhm </OVERLAP>
+				</U>
+				<OVERLAP> so, </OVERLAP> and to like keep track of the problems and it's also been like a good liaison between, the kids and the staff, because sometimes the kids and the staff connect on a different level than the mentors and the tutors so, <U WHO="S14"> so, yeah </U> um, there's like different information that comes out in those relationships than maybe with the staff. <U WHO="S14">
+					<OVERLAP> that's true. </OVERLAP>
+				</U>
+				<OVERLAP> so um, </OVERLAP> i don't know i think that's just </U>
+			<U WHO="S14"> that was a really good idea though. </U>
+			<U WHO="S19"> yeah it's been_ i don't know if it's been the same at at Pioneer but, i don't know. <EVENT WHO="S14" DESC="LAUGH"/> at w- at the Neutral Zone it it's just base that it's been really helpful so, and it's, it doesn't take that much time. </U>
+			<U WHO="S14"> yeah, (that's good) <OVERLAP> anything else? or are we done? oh </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> i just, (xx) uh but </OVERLAP> oh well <EVENT DESC="LAUGH"/> the only thing i was gonna say is the volunteer retainment and recruitment, everybody who works, as a volunteer or works with a volunteer seems to know that, they're really hard work and, sometimes it's tempting to expand and expand and expand, <U WHO="S14">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and sometimes </OVERLAP> it's geared, just to <U WHO="S14">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> s- focus </OVERLAP> on solid number of people, and um, nurture the leadership within the volunteers themselves so that they can be peer leaders, who can organize themselves <U WHO="S14">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> or </OVERLAP> s- be a (phone peer) and also that's a good idea that this, people don't like the idea you know you go somewhere to help out but you don't, you don't know who you're helping <U WHO="S14">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> then </OVERLAP> so, that's solid match up, system and also, a person responsible for everything that you can <U WHO="S14">
+					<OVERLAP> (i see) </OVERLAP>
+				</U>
+				<OVERLAP> go to </OVERLAP> all the time, (would be) probably helpful. </U>
+			<U WHO="S17"> rock on. </U>
+			<U WHO="S14"> okay, alright <EVENT DUR=":05" DESC="APPLAUSE"/> thank you (xx) </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S11"> kay group, five. </U>
+			<U WHO="SU-f"> is the computer working? <OVERLAP> (or is it not?) </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> yeah it's working. </OVERLAP>
+			</U>
+			<U WHO="SU-f"> Becky </U>
+			<U WHO="SU-f"> it is working? </U>
+			<EVENT DUR=":45" DESC="BACKGROUND CONVERSATION"/>
+			<U WHO="S11"> it is working. </U>
+			<U WHO="SU-f"> thanks. </U>
+			<U WHO="SU-m"> oh it's not break time yet </U>
+			<U WHO="SU-f"> is something wrong...? </U>
+			<U WHO="S11"> impossible. it was working </U>
+			<EVENT DUR=":10" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S11"> do you wanna push this over here? </U>
+			<EVENT DUR="1:02" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-f"> what number are you guys? </U>
+			<U WHO="SS"> five </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="SU-m"> go five, it's your birthday </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> you're so </U>
+			<EVENT DUR=":50" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S20"> if it's okay, we can get started, so then we can go, there's gonna be a break after our presentation, so, <U WHO="S11"> okay group </U> so we're just gonna start. </U>
+			<U WHO="S11"> group five. <U WHO="SU-f"> five </U> and uh computer's having problem again so i'm gonna keep working on it but um, but they have prepared something, PowerPoint, but they're gonna go withou- they're gonna start without it and, <U WHO="SU-f">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> uh, </OVERLAP> hopefully (we) catch up </U>
+			<U WHO="S20">
+				<OVERLAP> and uh </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S11"> what? </U>
+			<U WHO="SU-f"> i thought you said it worked </U>
+			<U WHO="S20"> oh actually, let me do it. <U WHO="S21"> you want this? </U> i'll get something afterwards, no i don't want that. um, the actual_ we have a document that's the actual, timeline and work plan for our strategic plan, but it's in my folder right now, so i'm just gonna wait till after the presentation and pass it around so you can look at it over the break. um, but all i'm gonna do is introduce again what the HOPE program is. the HOPE program is the Health Occupations Partners in Education, and it's a coalition um, that was started through the Health, Professions Partnership Initiative. and that's a collaborative effort that's national. um, it's a, effort of the Robert Wood Johnson Foundation, the W-K Kellogg Foundation, and also the American Association of Medical Colleges. so the goal, um of the entire um, i call it HPPI, cuz that's the great way to remember it, um for for HPPI, is to encourage, U-S medical schools to really start to feed into, or to go back to their roots essentially. since they're helping professions, it's to get them to go back to the communities, the school systems, and the very families that they aim to serve. and to increase the representation of underrepresented minorities, which in this is- case are, African-Americans, Latino or Latina, Americans, Native Americans and Asian Americans, in the health profession so, um HOPE comes from that and, that's basically kinda what it is so, um, i think we talked about that at our previous presentation but, just as kind of like an overview, of what our presentation is gonna go over, as we're trying to get it up on PowerPoint, um, we're gonna talk about the strengths, the weaknesses, um and do kind of like a (SWAN) analysis through answering the questions that Izumi put forth in the, in the outline of the um, presentation of our action plan, as well as_ lemme make sure i'm getting everything, some, some little snippets about the plan itself and, how our goals statement as a group matche- matched up with the expected outcomes um, that we found as a group so, with that, we'll see if i covered everything, um, <U WHO="S21"> is it my turn? </U> yep. </U>
+			<U WHO="S21"> mkay. i'm gonna talk about um, why our action plan is needed. we identified three reasons why we definitely need to um address this issue. the first is the need to increase under-representeded, under-represented people, of color in the health profession. and currently, approximately only ten percent, of practicing health professionals are minorities. and that's a low number considering that um, in the mid-twenty-first century fifty fifty percent of the people in the United States (will) be minorities. so that's a low figure. um the second reason is the public private partnership momentum. sorry. um, <EVENT DESC="LAUGH"/> um, there um there's uh over the last couple of years there's been a dramatic increase of partnership between public, public and private, um entities. and um, this is desperately needed in urban areas because they lack the funding and the resources, to teach the students um, science effectively and to prepa- to prepare them to go on to college and major in, um health professionals so, in health professions so um, public private partnerships are definitely needed. and the last is the changing dynamics of health care. and we ha- kinda have a rhetorical question here it's um, are people of color more responsive to professionals who are similar, who are of similar racial and eth- ethnic background? and um, the answer to th- to that is that we don't know because, there are not that many of us in there, s- but um, the i i guess people, people think so because, um they think that it would decrease the language barriers, and also decrease the health disparities between, um the Caucasians and minorities. and um, there was a survey done i'm sorry i don't have the, exact um percentage but, minorities who are in in health professional schools, they_ the majority of, the majority of them would like to go back into low socioeconomic areas to, to work so, um there's definitely a need, a need there. um, next, i'm just gonna sh- i guess talk about how we assessed the coalition. it was just simply we met with um, the program staff. and we reviewed program materials, which consisted of the grant um, grants, evaluations, newsletters um, activity observations, and one of our members actually works with HOPE so, we have the inside scoop... </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S22"> alright so i'm gonna get into who, who was involved in the planning kinda like just (playing,) coming off of what Ebony was saying, is the whole p- um whole program staff is Linda, Kingman which is the program director, yeah. Joy Canton which is uh the program coordinator um, and we was us, all tryi- going to the meetings and observing what (there) was going on with the kids, the tutoring sessions and especially, Angie like she said that is her placement as well as the whole parents and par- and her parents representative. which, was partner representative which they have other partners they they partners like Ministers' Alliance of Washtenaw county very involved, and the N-double-A-C-P in Willow Run very involved with this program and U-of-M, is very involved so, they do have a lot of partnership representatives of, the university. the one thing that was kind of interesting to me was that Saint Joe's is not very involved but, that's something they have to look into, in that partnership so. well what we found in our assessment our program opportunities is that, we have um more visib- more visibility could strengthen, the partner, relationship and program attendance that's the opportunities they can_ that we can they can take, as well as graduate assistant staff can provide program staff the support necessary to strengthen the dormant relationship. the dormant relationship that we found was mostly the relationship they have with the parents, in the community because HOPE, is, mainly a pro- is a, is a partnership of, HOPE, and the children in, or the the high school is in, Ypsi. and one thing about it is that the kids come (with) their parents. and we want them to be involved in a sense because we want them to strengthen whatever they learn at HOPE at home. and they don't know what's happening then. that was one of the things that we feel like that's a opportunity they really need to strengthen is their involvement in their children's life. cuz that also will empower them as they go on, and as that anything else happens in school they will know exactly what's happening with their children and they won't be so dormant about it. and then the program threats is there's only two more years left in the pro- in the program grant. cuz this is a five year grant, i believe. <U WHO="SU-f"> mhm </U> so, with only two years left they have <EVENT DESC="LAUGH"/> they have a lot of work they gonna have to do in order to make this, more than just a grant-based study but more of a community-based maybe organization, something that would last beyond than just a grant money. as well as you know new federal leadership. that's gonna change a lot of people's programs. i mean, who knows how many dollars we will get from the government now if Bush, is the president or even if Gore is the president we don't know how many, dollars we'll get. so then that ch- that changes a lot of people's perspective of how, how much we can give to the children how much you know, they can get from this program so </U>
+			<U WHO="S23"> i'm gonna talk about the uh, health program action plan and basically, what Makeba was saying that we were trying to get more parent involvement into the programs and, a workshops facilitator guide, which will um, assist them in effectively, communicating program gro- program goals and the promotion of activities that encourage (HOPE) students and their retention. um some of the expected outcomes, <U WHO="SU-f"> mkay </U> are to, <U WHO="SU-f"> (xx) </U> strengthen um the HOPE partnerships, relationships and um, continue collaborative efforts, with the schools the teachers and the parents. um also it's to build a more strong relationship with the Ministers' Alliance, and um, the Ypsilanti school district because of, the majority it seems like, the church is a a place where, minority involvement is a is a big part of um, and also to develop the facilitator's training guide to, increase the effectiveness of volunteer presentations to students. um, and that, that part right there to me was important because, some of the U-of-M students where they're they're mentor par- mentors, in the workshops that we're talking about, um health issues and, this facilitator guide will help them to be aware of certain, problems or, um, things that might, some issues or topics that might be uncomfortable for the students, or to s- to discuss with the students on how to go about it um, i guess a better way, to implement that information without, you know, um going against someone's religious i- ethics or um, personal issues that they find. so, those were the um expected plan outcomes. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> questions? </U>
+			<U WHO="S23"> any um, questions? </U>
+			<U WHO="SU-f">
+				<OVERLAP> no, we're not finished. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> no we're not finished </OVERLAP>
+			</U>
+			<U WHO="S23"> oh, okay </U>
+			<U WHO="SU-f"> (unless you guys aren't going) </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S20"> oh, the evaluation. okay, so what we were looking at in terms of the evaluation was in using the parent involvement plan to really start kind of i- really to be a framework to evaluating, how effective the um, the program is. if we're looking at trying to, essentially make the program sustainable, um looking at planning beyond just like, like Makeba talked about planning beyond, the next two years of the program grant, and using that time to really help substantiate the significance of this program in Ypsiliti, Ypsilanti school district, is we work with Ypsilanti High and two, um middle schools in Ypsilanti so, um you have a great opportunity for that population in grades six through twelve, to really start to be, a core group of um, really strong uh health-oriented students to go and matriculate into the health occupation so, the program evaluation, as designed right now would be, an assessment based on, how the kids attend the different components there's three different components and several activities under the three components. um looking at the youth attendance overall their MEAP scores which is the Michigan Educational Assessment Program it's the only standardized test that's given, to all students, in the state of Michigan that measures social studies math science and writing. so, using those scores to kind of have a more, um standardized, reliable and valid measure, to look at that, as well as their cumulative grade point scores, and their marking period scores over the academic year, and then doing a pre-test post-test um summative um, question type scale, that's like a a an a type of Likert scale, um to really start to evaluate their overall participation and, how they've, improved the academic achievement, how they've become more involved in the community or how they've been um, how they've responded to exposures to community involvement, and um, how they've gotten demonstrated interest in health careers. so we're looking at kind of like a_ the way (xx) are right now is like a fifteen month plan starting in April through next, or June two thousand and two. so, that's kind of a description of it, and it would be a non-equivalent comparative program component um group design. so, that's the way it's established right now. um, and that's the, the evaluation part. so, that's really pretty much, the gist of the presentation uh, Joe has a question then we'll go for more. </U>
+			<U WHO="S24"> um, when did you say the funding ends for this? <OVERLAP> sor- </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> in two years </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> yeah, in two thousand two two thousand three. </OVERLAP>
+			</U>
+			<U WHO="S24">
+				<OVERLAP> in two years so, that's the reason </OVERLAP> for the fifteen month, <OVERLAP> plan </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> yeah. </OVERLAP> so, <U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<U WHO="S24">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> you can use the last two years to really substantiate. </OVERLAP> and by the way now that we're at the end of the grant. you know <U WHO="SU-f">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and start </OVERLAP> looking to those sources so that you're not stuck at the end of the grant like a lot of groups do, <U WHO="S24">
+					<OVERLAP> sustainability </OVERLAP>
+				</U>
+				<OVERLAP> without, next </OVERLAP> steps. and you don't leave the kids in a lurch either. <U WHO="SS"> mhm </U> so to have such an ef- effective program, to even go a year, one year without the program could destroy, all the work that they've done, so far so... </U>
+			<U WHO="S25"> why <U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> i don't know, </OVERLAP> this is kind of_ i was just wondering um, what do they consider_ you said it's like a national, thing so i was wondering what they consider to be health, profession. that might sound stupid but like <U WHO="SU-f">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> do they </OVERLAP> include like social work? </U>
+			<U WHO="SS"> mhm </U>
+			<U WHO="S25">
+				<OVERLAP> they do? </OVERLAP>
+			</U>
+			<U WHO="S20">
+				<OVERLAP> yes. um, </OVERLAP> there's, well, there a- yeah i can go back to it cuz we have it now. <EVENT DESC="LAUGH"/> um, there's all the different_ the schools_ lemme use for example the schools that are_ yeah it's in here. that are involved in um this particular program. cuz we've got social work, dentistry, engineering, pharmacy, um, hold on i'm talking and doing this at the same time, <OVERLAP> let's see </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (you could switch those) </OVERLAP>
+			</U>
+			<U WHO="S21">
+				<OVERLAP> pharmacy </OVERLAP> public health </U>
+			<U WHO="S20"> there we go. i got it. ah, and my eyes are dry too this is crazy. <U WHO="S22">
+					<OVERLAP> engineering? </OVERLAP>
+				</U>
+				<OVERLAP> okay </OVERLAP> so, <U WHO="SU-f"> (xx) </U> there's, <U WHO="S22"> computer science <OVERLAP> i believe is one of them </OVERLAP>
+				</U>
+				<OVERLAP> it's all that, </OVERLAP> and, and yeah, computer <U WHO="S22">
+					<OVERLAP> computer science, it's really </OVERLAP>
+				</U>
+				<OVERLAP> science because they </OVERLAP> it's because they wanna have a broad focus Ypsilanti, Ypsilan- the Ypsilanti school district_ i don't know how this is nationally i haven't looked at this yet, but Ypsilanti um has a ten point plan that really focuses on improving achievement for all the students in the in, the school district so, they are really_ HOPE is really looking at, trying to increase any interest in, science and health, generally. those are our program partners, in the areas but, they're open to computer science, to um, other parts of engineering not just like biomedical engineering or things like that other things anything, to get the kids, to to get the kids and keep the kids interested in health and science period. <U WHO="SU-f"> yeah </U> with the expectation that this may lead into, other things with health, health occupations... </U>
+			<U WHO="S15"> this is a stupid petty comment or question um, about the evaluation process and looking at MEAP scores just out of curiosity you know i know there's been a lot of talk about, how the scores are biased because of um, you know how much money a school system has and that <U WHO="SU-f"> mhm </U> as a result it also is biased i think with more rural areas or <U WHO="SU-f"> mhm </U> or not rural i'm sorry urban areas or, um where there's underrepresented groups. um, so, i don't know what it what school systems are like in Ypsilanti you know would that be the case that it could (reflect) negatively, when you present these findings. i don't know. just </U>
+			<U WHO="S20"> there's, MEAP scores for the students from, i'm trying to remember i think last year. last year in the f- i think from ninety-seven until, last year. <U WHO="S15"> mhm </U> there are good and and very comparative. the proble- the point of having the pre-test post-test kind of survey kinda balance that out and looking at their overall grades with the MEAP scores, is to balance that very, that very item out because there's, there's no_ for that, for that target population, you know that particular grade range, there's no real other standardized measure, you can use to show, <U WHO="S15"> mhm </U> how are they really, improving <U WHO="S15"> mhm </U> and and what does that mean so compared to their their grades plus their own interest, <U WHO="S15"> mhm </U> you i- i- it would be a good way to kind of set up kind of like a a balanced framework to presenting that, (that great) thing because you're dealing with, several of the issues that we did this whole problem of <U WHO="S15">
+					<OVERLAP> mhm, right </OVERLAP>
+				</U>
+				<OVERLAP> under-representation that, </OVERLAP> aren't very measurable and aren't very well-evaluated. <U WHO="S15"> mhm </U>
+				<OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> and i </OVERLAP> just wanna say um, onto that that if you can (if you) have those pre and post-tests then you can identify materials and programs, <U WHO="S15"> mhm </U> and set up different things that'll help them, i guess, be equivalent with other, resource or communities who have more resources and have materials, <U WHO="SU-f"> mhm </U> that they can, pass those MEAP score_ i mean those MEAP tests... </U>
+			<U WHO="S11"> one last comment um, i was wondering why Wayne State, University is not there. and i hear_ uh my girlfriend is in uh medical school there and she says it's the most diverse medical school in the country </U>
+			<U WHO="S20"> oh is it? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S11">
+				<OVERLAP> they, they say so but </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S20">
+				<OVERLAP> that that that makes sense. that really </OVERLAP> does make sense. i <U WHO="S23">
+					<OVERLAP> it does </OVERLAP>
+				</U>
+				<OVERLAP> think th- i think </OVERLAP> it's because, the HPPI project starts through actual medical schools and then they design the program from there, <U WHO="S11"> mhm </U> so, i believe that_ i'm i'm f- sitting here thinking through the grant. i believe that they only they s- designed it for, <U WHO="S23">
+					<OVERLAP> Washtenaw county? </OVERLAP>
+				</U>
+				<U WHO="S11">
+					<OVERLAP> a local, okay, that makes sense, yeah </OVERLAP>
+				</U>
+				<OVERLAP> this this area, just in, yeah </OVERLAP> and not, <OVERLAP> further than that. but hopefully </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> but they do need that program </OVERLAP> in Wayne County, <OVERLAP> definitely. </OVERLAP>
+			</U>
+			<U WHO="S20">
+				<OVERLAP> ho- yeah </OVERLAP> hopefully the HPPI program, will expand cuz i think it's a it's a pilot project, and they're on the second wave. and i do- i i'm wonder- i don't know if they're gonna expand to a third wave or exactly, how far they're gonna go. but hopefully it can get to, <U WHO="S11"> mhm </U> that point where, s- Wayne State oh that would be excellent to have a program like this in Detroit. <U WHO="S23"> yeah, <OVERLAP> definitely </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> so, </OVERLAP> we'll <OVERLAP> see. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> okay </OVERLAP> alright thank you s- oh. <U WHO="SU-f">
+					<OVERLAP> (encore) </OVERLAP>
+				</U>
+				<OVERLAP> yes? </OVERLAP> can you do <OVERLAP> it quickly? yeah </OVERLAP>
+			</U>
+			<U WHO="S25">
+				<OVERLAP> (xx) i was just </OVERLAP> gonna say something really fast. you were saying this morning that Pfizer was located here in Washtenaw county and is the main backer it's one of those things where they probably want everything local. so if maybe you get a major backer, right? out in out near Wayne, <U WHO="S23"> yeah </U> like around near Wayne county (that would make,) big difference. </U>
+			<U WHO="S23"> yeah, that's true. and maybe i don't know how they're doing, explaining their projects out that way or whatever, but <OVERLAP> that's that's a good point too. </OVERLAP>
+			</U>
+			<U WHO="S21">
+				<OVERLAP> Pfizer, </OVERLAP> remember the representative was there, for the workshop, <U WHO="S23"> mhm </U> that Saturday from Pfizer. and she actually facilitated, one of the workshops. </U>
+			<U WHO="S11"> okay, great </U>
+			<EVENT DUR=":03" DESC="APPLAUSE"/>
+			<U WHO="S11"> um, well th- we're gonna take a break, but i was wondering who can take a class picture, while Jun Yeun is here? (who has extra hand?) </U>
+			<U WHO="S22"> no. i don't take pictures. <OVERLAP> they go against my religion. </OVERLAP>
+			</U>
+			<U WHO="S20">
+				<OVERLAP> is anybody else using the computer? </OVERLAP>
+			</U>
+			<U WHO="S11"> yes. </U>
+			<U WHO="S20"> okay, <U WHO="S23">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<U WHO="S22">
+					<OVERLAP> what's this? </OVERLAP>
+				</U>
+				<OVERLAP> then i'll just, </OVERLAP> i'll oh i know i'll just take it out. </U>
+			<U WHO="S23">
+				<OVERLAP> those are called doughnuts </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> what's in_ does that like_ </OVERLAP> is it creme <OVERLAP> in that thing? </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> are we taking </OVERLAP> a picture now before the break? </U>
+			<U WHO="S11"> is it okay? or </U>
+			<U WHO="SU-m"> sure. </U>
+			<U WHO="S11"> okay </U>
+			<U WHO="SU-m"> let's, do it </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

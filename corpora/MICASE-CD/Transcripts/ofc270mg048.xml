@@ -1,0 +1,1745 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="ofc270mg048">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Computer Science Office Hours </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> OFC270MG048 </IDNO>
+				<AVAILABILITY>
+					<P>  The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is:   R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales. (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="116">
+						<DATE> November 13, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Ed Filisko, Joanne Morgan </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Ed Filisko, Monica Takagi </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 10/11/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="11"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="11"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SG, Graduate Student Instructor" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NNS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S6" LANG="NNS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S7" LANG="NNS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NNS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S10" LANG="NNS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S11" LANG="NNS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Office, EECS </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> two and one are independent of each other, <U WHO="S2"> right </U> but, and s- but how does that correlate with three? </U>
+			<U WHO="S2"> well it doesn't matter. basically in this case three doesn't matter you don't use rule w- one and two, to see that node two is indepen- node one is inde- and node two are independent. so it doesn't correlate to rule three. </U>
+			<U WHO="S1"> so knowing, you could have said knowing three or five and you'd still get the same result, that <U WHO="S2">
+					<OVERLAP> you could have said </OVERLAP>
+				</U>
+				<OVERLAP> one is independent </OVERLAP> of two </U>
+			<U WHO="S2"> well you could have said knowing nothing even, that node one is independent of node two. </U>
+			<U WHO="S1"> (independent) node one is, <OVERLAP> i guess </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> so </OVERLAP>
+				</U> i don't understand the table. <OVERLAP> (how does that say) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay so this </OVERLAP> is evidence so, here the only grayish gray um node is three so the only evidence is node three. here the only evidence is node four. <U WHO="S1"> right i see that but <OVERLAP> independent of </OVERLAP>
+				</U>
+				<OVERLAP> so down here, </OVERLAP> so, node two was like the punched-in-stomach in the homework, so basically it's saying, </U>
+			<U WHO="S1"> i haven't read through all the <OVERLAP> homework </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> if you </OVERLAP> have evid- oh okay so this is task two. basically it's saying say you know um um, you have a bunch of causes of abdominal pain in the homework. so one of them is punched-in-stomach. and so the idea is that you um want to see all the things that are independent of punched-in-stomach. so, i was trying to use that analogy but we'll just go back to numbers for now. so what this is saying is that you wanna look to see what's independent of node two. so to do that you say let node two be part of group X. <U WHO="S1"> right </U> what else is part of group X? um and what else is part of group Y? and in some cases if there's nothing independent of node two then that means everything is in group X. there may not be a group Y. so um... if you know node three then then this turns gray and you look at the network as if this is evidence and everything else is not evidence. so, you first start at node two and you follow all the paths going out of node two or coming into node two to see what all's connected and what's not. and you use these three rules, to see where things aren't connected. obviously if there's no line there then then_ say say like if node two and four weren't connected, then obviously two and eight would be separate from everything else. and that's that's an unspoken rule that's not written down. but, in this case, you're effectively providing a break, by having node one and two, follow rule three. so what this is saying is that the probability_ knowing the probability of node two is not going to affect the probability of node one that's what these rules are saying. <U WHO="S1"> okay but <OVERLAP> why </OVERLAP>
+				</U>
+				<OVERLAP> given </OVERLAP> that you don't know anything about node four, or any of its descendants. </U>
+			<U WHO="S1"> oh okay that's why three isn't included just because since you_ it's evidence. <U WHO="S2"> yeah </U> it's <U WHO="S2">
+					<OVERLAP> so yeah so i mean </OVERLAP>
+				</U>
+				<OVERLAP> not really affected </OVERLAP> by anything. </U>
+			<U WHO="S2"> right because you you already know it. </U>
+			<U WHO="S1"> but <U WHO="S2">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> doesn't </OVERLAP> the fact that you know three, remove five as evidence? i mean three is evidence so that removes five so why is_ why do you even have to include five there? </U>
+			<U WHO="S2"> well so the the table i- i- is saying that node two_ things that are independent of node two are node one and node five. <U WHO="S1"> okay </U> so node one is independent of node two node five is independent of node two. <U WHO="S1"> alright </U> and so node one is independent of node two only by rule three because of this um, coming into node four, um node two and one coming into node four, node five is independent of node two by two different rules so you could either look at node five being independent of node two because this chain is broken by knowing node three, or you could look at node five being independent of node two by this third rule. </U>
+			<U WHO="S1"> now i didn't understand your reasoning for if this, using node one, chain is broken here but that's between five and one how does it relate <OVERLAP> five and two? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right but the the idea </OVERLAP> is that, you could have this network look any way that it wanted to if its only connection to node one_ to node five was through node one, i mean you try to look and envision yourself following paths, <U WHO="S1"> right </U> through the network </U>
+			<U WHO="S1"> so two could be anywhere in this <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> blob </OVERLAP> down here and it would still be by rule </U>
+			<U WHO="S2"> right so two could be where node four is obviously at that point node one would not be independent. with node four. <U WHO="S1"> right </U> or which_ but node three still breaks five off from the rest of the network. <U WHO="S1"> okay </U> because <OVERLAP> (you know i-) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so that's just </OVERLAP> because, just since you put two in here that, that you're saying what's independent of two that you had to use three or one. </U>
+			<U WHO="S2"> right so you have to choose. </U>
+			<U WHO="S1"> okay cuz two and eight could be switched and it would be the same. <U WHO="S1"> yeah </U> okay </U>
+			<U WHO="S2"> mhm... okay so um why don't you ask me about specific entries <U WHO="S3"> uh </U> in here. </U>
+			<U WHO="S3"> how about uh evidence four, so is one and seven independent? </U>
+			<U WHO="S2"> so, one and seven </U>
+			<U WHO="S3"> (exercise) one </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S3"> so this is just a couple of, entries in there </U>
+			<U WHO="S2"> yeah i'm no- this is not complete. um the idea was is that i was giving examples of all of it so, one and seven is analogous to two and six, and two and seven. because again it's the chain. so the chain two-four-six and two-four-seven is exactly the same um, separation-wise as <U WHO="S1">
+					<OVERLAP> they're both independent? </OVERLAP>
+				</U>
+				<OVERLAP> one-four-seven </OVERLAP> and one-four-six. </U>
+			<U WHO="S3"> okay so like five you're looking at like this? and like one of these? five and si- </U>
+			<U WHO="S2"> so for five and six? <U WHO="S3"> right </U> yeah so i'm going up, the chain here, <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> saying okay well five is connected to three which is connected to one, and so then i'm looking at one at that point and saying how is one connected to these? and one is separated from seven and six because you have node four as <OVERLAP> evidence. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay. </OVERLAP> so that means all of these_ since this breaks the chain <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> would be independent of that but then since this is one thing all of these are independent <U WHO="S2"> right </U> of that <U WHO="S1"> yeah </U> okay. </U>
+			<U WHO="S3"> oh okay. </U>
+			<U WHO="S2"> so that's one of the reasons i didn't put it all in the <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> table </OVERLAP> so... alright what else? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> um </U>
+			<U WHO="S2"> so an example of this s- s- second rule i mean the second rule probably is the easiest one to look at cuz you have the, the f- the the four-six-seven type of relationship which just says if you know if you know node four, then um it breaks it breaks things off so here you have six is independent of everything. so six is independent of seven by rule two. and six is independent of everything else by rule one. i wrote rule one there but it's_ when it's all it's probably more than one rule so six is independent of seven by rule two. </U>
+			<U WHO="S1"> okay. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S4"> may i a- may i ask a quick question? </U>
+			<U WHO="S2"> sure </U>
+			<U WHO="S4"> because i_ (the class has three) <U WHO="S2"> sure <OVERLAP> yeah yeah </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP>
+				<U WHO="S2"> uh huh </U> um, uh, for this problem, part B (there is two,) uh given, given you have no-accident <U WHO="S2"> mhm </U> and to uh, to ask the probability of sunset, <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and, </OVERLAP> what i would_ what i do is_ i just want to make sure is that, uh <PAUSE DUR=":05"/> (xx) sunset um no-accident, and i just do the_ (a little bit similar like) part A. <U WHO="S2"> mhm </U>
+				<OVERLAP> and you </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so part A </OVERLAP> you did the long calculation? </U>
+			<U WHO="S4"> yeah use uh, probability of sunset and uh on-time and healthy <PAUSE DUR=":04"/> and here it's used, on-time and healthy and <PAUSE DUR=":05"/> is that th- is is that is this (clearly correct?) (xx) </U>
+			<U WHO="S2"> is that is that what did you say? </U>
+			<U WHO="S4"> kay i mean this_ you_ this way is it (correct) or not? i, because in (palais) we, we just </U>
+			<U WHO="S2"> yeah <U WHO="S4">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> have to do all the different combinations of <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> on-time and healthy </OVERLAP>
+			</U>
+			<U WHO="S4"> but but here, um i mean part A we don't know, uh this <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> happen </OVERLAP> or not, but for part B we know that it's true. </U>
+			<U WHO="S2"> right <U WHO="S4">
+					<OVERLAP> so it's </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> you might expect the calculation for part B to be a bit shorter. <U WHO="S4">
+					<OVERLAP> uh </OVERLAP>
+				</U>
+				<OVERLAP> because it's true. </OVERLAP> so <U WHO="S4">
+					<OVERLAP> this </OVERLAP>
+				</U>
+				<OVERLAP> for </OVERLAP> part A you had to do all the possible combinations you <U WHO="S4">
+					<OVERLAP> uh huh </OVERLAP>
+				</U>
+				<OVERLAP> had </OVERLAP> to do both when not-accident was true and when no-accident was false. </U>
+			<U WHO="S4"> yeah but but i mean here because uh if this true, uh, that's_ i mean even in part A this true is in- independent right? </U>
+			<U WHO="S2"> mm they're not independent. how ho- why are they independent? </U>
+			<U WHO="S4"> uh (lemme see.) </U>
+			<U WHO="S2"> i mean so <U WHO="S4">
+					<OVERLAP> th- </OVERLAP>
+				</U>
+				<OVERLAP> talking </OVERLAP> D-separation-wise they're not independent because you don't know on-time or healthy. so, uh j- speaking in here again you have these chains <U WHO="S4"> mhm </U> you have two of the chains. </U>
+			<U WHO="S4"> yeah i mean in part A we need to combine these two into one node <U WHO="S2"> mhm </U> and then calculate the uh the probability of of of sunset, <U WHO="S2"> yeah </U> and in part B and here we, uh, <OVERLAP> plus plus build a </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah so you build a </OVERLAP> bigger table. </U>
+			<U WHO="S4"> yeah plus plus you uh the, uh, th- in, the conditional probability of sunset and the con- ah given the no-acc- acci- uh accident is true. so just pursue this probability right? <U WHO="S2"> yeah mhm </U> and... and that's <OVERLAP> that's </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> you already have this right? so this wasn't the complete equation right? <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> was just a small part of it. <U WHO="S4"> yeah <OVERLAP> and (xx) </OVERLAP>
+				</U>
+				<OVERLAP> you had </OVERLAP> how many terms did you have? </U>
+			<U WHO="S4"> four and also, i had four </U>
+			<U WHO="S2"> you had four or <U WHO="S4">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> did </OVERLAP> you have eight? </U>
+			<U WHO="S4"> four, i mean </U>
+			<U WHO="S2"> for this? </U>
+			<U WHO="S4"> yeah and probability of sunset and the conditionals i mean theory is that we should write a true-false and false-true or false-false. <U WHO="S2"> okay </U> cuz here we have written now that is true right? </U>
+			<U WHO="S2"> well for part B yeah for part A you had more than four right? </U>
+			<U WHO="S4"> uh in part A you mean we have, uh </U>
+			<U WHO="S2"> cuz you don't know anything about the network in part A right? you're just <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> finding </OVERLAP> the marginal probability of sunset. </U>
+			<U WHO="S4"> yeah but in part A we already combined these t- two into single node, first <U WHO="S2">
+					<OVERLAP> part A uh huh </OVERLAP>
+				</U>
+				<OVERLAP> we do </OVERLAP> is_ in part A (the) first we do is to combine these two in into one node <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP>
+				<U WHO="S2"> mhm </U> and then after that we do uh still i think for, i mean still for </U>
+			<U WHO="S2"> okay well so you have to t- handle the case of both no-accident and ac- and not-no-accident. </U>
+			<U WHO="S4"> yeah yeah. <U WHO="S2"> okay </U> because first we do consider the no-accident of have accident to combine these two node, we already c- already uh uh considered the batch of the no-accident, true or false and then they are <OVERLAP> n- n- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay so how </OVERLAP> big is your table when you make this one? </U>
+			<U WHO="S4"> for this for this (problem?) </U>
+			<U WHO="S2"> for when you combine the two nodes how <U WHO="S4">
+					<OVERLAP> uh </OVERLAP>
+				</U>
+				<OVERLAP> big is your </OVERLAP> table? </U>
+			<U WHO="S4"> eight. </U>
+			<U WHO="S2"> okay. that's what i wanted to hear. <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> okay </OVERLAP> yeah. </U>
+			<EVENT WHO="S6" DESC=":58 BACKGROUND CONVERSATION BETWEEN S6 AND S5"/>
+			<U WHO="S4"> so i have eight and then but here i mean for calculating probability of sunset, it's still four. <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> y- if we combine into single node and then we we pursue this uh probability and then the rest, but i mean for part B here, we already know that's a true, and i see they true to to to get this uh the probability of O and the conditional node, <U WHO="S2"> right </U> (that's all that's here) and if this true is <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> true it become <U WHO="S2">
+					<OVERLAP> yep </OVERLAP>
+				</U>
+				<OVERLAP> independent. </OVERLAP>
+				<U WHO="S2"> mhm </U> so we can (vary) this to get this result, <U WHO="S2"> mhm </U> my question is_ i know_ my (intuition) is it it seems correct but i want to make sure that the the uh the (query here i used) is correct. because i mean here is_ we want to_ getting us this this probability </U>
+			<U WHO="S2"> (you don't what ) <U WHO="S4"> uh </U> (you don't) </U>
+			<U WHO="S4"> this is what i what i want to get right? <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> because </OVERLAP> question we ask asks probability of sunset and the condition of no-accident. <U WHO="S2"> mhm </U> and then, um this value this probability is sunset and the condition of uh this <OVERLAP> true and this true </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> on-time and healthy </OVERLAP> uh huh </U> right? and so, <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> times </OVERLAP> this probability <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> yeah </OVERLAP>
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> we, </OVERLAP> we have also get this probability so, my question is this (query) used is correct or no? </U>
+			<U WHO="S2"> is that s- <U WHO="S4">
+					<OVERLAP> i mean </OVERLAP>
+				</U>
+				<OVERLAP> what </OVERLAP> correct? is that </U>
+			<U WHO="S4"> yeah i mean, is this is correct or not i mean here it's, equal to <PAUSE DUR=":04"/> um (that) (xx) (times) (xx) </U>
+			<U WHO="S2"> yeah plus the other three? <U WHO="S4"> yeah </U> yeah that's that's right. </U>
+			<U WHO="S4"> that's right? <U WHO="S2"> mhm </U> oh okay, yeah. </U>
+			<U WHO="S2"> okay that's what i was trying to get you to say the the the first calculation you use two times as many terms cuz you <U WHO="S4">
+					<OVERLAP> yep </OVERLAP>
+				</U>
+				<OVERLAP> have </OVERLAP> to he- handle (no) cases and in this <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> case, </OVERLAP> it's just basically half of the terms of the first one. </U>
+			<U WHO="S4"> yeah. the trouble is there are no i mean in mathematics there are no uh (restrict) and approve that this if this is correct. i just think intuitively that correct but i'm not very sure so </U>
+			<U WHO="S2"> mhm, yeah yeah. <U WHO="S4"> so it's </U> yeah i think if you worked out all the and-relationships that <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> it </OVERLAP> would it would you would find that this this chaining works <U WHO="S4"> mhm </U> because um... <U WHO="S4">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> you're just working your way dependency-wise up the up the links, so once you get to the top there y- y- you're you're done so you have once for each level in the, <U WHO="S4"> yeah so </U> the network. </U>
+			<U WHO="S4"> this correct (like that?) <U WHO="S2"> yeah mhm </U> okay. thanks. </U>
+			<U WHO="S1"> i had a question in the book i think_ i'm wondering if the book made <EVENT DESC="CHAIR SQUEAKS"/>
+				<EVENT WHO="S2" DESC="LAUGH"/> a mistake here. </U>
+			<U WHO="S2"> feel free to sit down. <EVENT DESC="LAUGH"/> okay </U>
+			<U WHO="S1"> just in writing this out, i even had to follow_ write the letters above it to make sure i was <U WHO="S2">
+					<OVERLAP> mkay </OVERLAP>
+				</U>
+				<OVERLAP> (doing it) </OVERLAP> correctly. they've got this backwards (in the denominator) don't they...? it should be probability_ when you have a probability of A given B and C, it's a probability of C given A and B times the probability of A given B, over the probability of B given C. they've written it as C given B. <U WHO="S2"> hm. </U> cuz that kind of ruins the example for me. </U>
+			<U WHO="S2"> yeah let's let's write it down on a piece of paper cuz i i don't_ i tend to trust this book unless it's a </U>
+			<U WHO="S1"> well the_ i got the the rule from the book, <U WHO="S2"> yeah yeah </U> so, the rule is right here, the general <U WHO="S2"> yeah </U> form <U WHO="S2"> yeah. </U>
+			</U>
+			<U WHO="S2"> okay so i i'm just seeing all these words and the catch and the cavities and things are </U>
+			<U WHO="S1"> that's why i had to write the <OVERLAP> letters above it too </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (xx) okay so </OVERLAP>
+				<PAUSE DUR=":07"/> so m- i mean they're allowed to turn around catch and toothache if they want to because there's nothing special about this order right here so </U>
+			<U WHO="S1"> right but if they <OVERLAP> turn it around here </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but if they turn it around </OVERLAP> they have to turn around in the numerator too. so in the numerator we have, so toothache is B catch is C. or in this case Y and E. </U>
+			<U WHO="S1"> yeah i could_ should have rewritten <OVERLAP> that as (A-B) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah let's let's write those letter abo-- above it just to </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<EVENT DESC="WRITING"/> so it's the probability of A given B and C equals the probability of_ make sure i do it correctly, B given A and C, times the probability of, A given C over the probability of B given C. </U>
+			<U WHO="S2"> mkay, alright so here </U>
+			<U WHO="S1"> and they have </U>
+			<U WHO="S2"> probability of A, <U WHO="S2"> (and) </U> given B </U>
+			<U WHO="S1"> B and C can be switched. <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> mkay </OVERLAP> let's switch them then. let's switch them everywhere here, so that the letters there match up. </U>
+			<PAUSE DUR=":13" WHO="S1"/>
+			<U WHO="S1"> and replace all the Cs, oh, no. only <OVERLAP> B and C can be switched. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh no that's C. C </OVERLAP> that's what i mean C, and this was C, and this was C. </U>
+			<U WHO="S1"> did i screw up there? </U>
+			<U WHO="S2"> okay <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but </OVERLAP> what they have is probabil- i just wrote it down as probability of A given </U>
+			<U WHO="S2"> okay. let's_ why don't we write the the X Y and E above here in the book if you can <OVERLAP> erase </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U> that because that'll, that'll make us not have to worry about switching these Bs and Cs around. </U>
+			<U WHO="S1"> X Y E </U>
+			<U WHO="S2"> okay so let's first go through and mark all the cavities. <U WHO="S1">
+					<OVERLAP> X </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> cavities are the Xs. </U>
+			<U WHO="S1">
+				<EVENT DESC="WRITING"/> okay change that to Ys, and E to (catch) </U>
+			<U WHO="S2"> okay. so what do we have? we have probability of X given Y and E is equal to the probability of, w- Y given </U>
+			<U WHO="S1"> (did i make a mistake?) </U>
+			<U WHO="S2"> X and E... </U>
+			<U WHO="S1"> which </U>
+			<U WHO="S2"> which they've switched around </U>
+			<U WHO="S1"> which is okay </U>
+			<U WHO="S2"> okay so let's actually let's go through it again and switch the Y and the E around. i know this is making you erase stuff in your book but <OVERLAP> i just </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh </OVERLAP> i don't care. it's pencil. </U>
+			<U WHO="S2"> this book has been around long enough that i would have thought that people would have, caught these things by now as opposed to us writing homework assignments that we make mistakes all the time. <EVENT WHO="SS" DESC="LAUGH"/> but you didn't hear it from me. oh this is being recorded oh well. <EVENT WHO="S1" DESC="LAUGH"/> they promised <U WHO="S1">
+					<OVERLAP> i won't say your name. </OVERLAP>
+				</U>
+				<OVERLAP> not to use my name </OVERLAP> yeah. <U WHO="S1"> okay </U> (person) X. alright so here we go X given Y and E, is probability of X, given E, times the probability of, Y given X and E. oh you have an X on cavity and catch how does that work? <PAUSE DUR=":04"/>
+				<EVENT DESC="LAUGH"/> this is all confusing i know_ i'm i'm confused. okay so probability of X given E times probability of Y given X, <U WHO="S1">
+					<OVERLAP> which is okay cuz those can be switched </OVERLAP>
+				</U>
+				<OVERLAP> and E over the </OVERLAP> probability of Y given E. <U WHO="S1">
+					<OVERLAP> huh </OVERLAP>
+				</U>
+				<OVERLAP> so that's </OVERLAP> that's what they have. </U>
+			<U WHO="S1"> so these are just switched. <U WHO="S2"> yeah </U> (i wonder how i did that) huh. okay. so i think that's my only question cuz </U>
+			<U WHO="S2"> well okay. well that was easy. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> for now i haven't really started the homework yet. </U>
+			<U WHO="S2"> so... i need to make sure this email gets out somehow. </U>
+			<U WHO="S1"> what was it about? </U>
+			<U WHO="S2"> it was about that the examples changed as of nine o'clock this morning so that the noisy-or answers were different. </U>
+			<U WHO="S1"> oh well i <U WHO="S5">
+					<OVERLAP> i </OVERLAP>
+				</U>
+				<OVERLAP> haven't </OVERLAP> looked at 'em yet <U WHO="S2">
+					<OVERLAP> well yeah </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i </OVERLAP> saw email on that. </U>
+			<U WHO="S2"> did you? </U>
+			<U WHO="S5"> but then the new uh examples are up on the web page. <U WHO="S2"> yeah uhuh </U> yeah </U>
+			<U WHO="S2"> oh so you got <OVERLAP> the </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> since </OVERLAP>
+				</U> email? </U>
+			<U WHO="S5"> since eleven o'clock it <OVERLAP> was </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yep </OVERLAP> yeah that's it. <U WHO="S1">
+					<OVERLAP> wonder why i didn't get </OVERLAP>
+				</U>
+				<OVERLAP> so i wonder </OVERLAP> why not ever- maybe it's just taking a long time to get delivered <OVERLAP> cuz it was going to eighty people </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> uh i sent out a </OVERLAP> message to five email groups i'm on yesterday and i've only got that two of those. </U>
+			<U WHO="S2"> oh so the email's just slow. <U WHO="S5">
+					<OVERLAP> yeah. </OVERLAP>
+				</U>
+				<OVERLAP> okay. </OVERLAP> oh well. <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> oh well. </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> which </OVERLAP> is scary. </U> i'll wait for awhile and see who gets it. </U>
+			<U WHO="S6"> hi. i just don't understand, part C. <U WHO="S2"> okay </U> task three <U WHO="S2"> uh huh </U> um, it is_ uh this_ uh part C is about the uh conditional probability of no-accident given the sunset right? <U WHO="S2"> okay </U> to make um_ to to solve this problem we make the_ another network to, like this? no? </U>
+			<U WHO="S2"> um you can also use Bayes' Rule. </U>
+			<U WHO="S6"> ah Bayes' Rule <OVERLAP> (xx) </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U> uh um (it's like um) </U>
+			<U WHO="S2"> mhm. <U WHO="S6">
+					<OVERLAP> P </OVERLAP>
+				</U> which is kind of (big to do) but </U>
+			<U WHO="S6"> (xx) right? <U WHO="S2"> mhm </U> uh the part C is the problem of we c- we should be_ um get this probability right? <U WHO="S2"> mhm </U> mhm to do this, we should make another table? partition or <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well, write down </OVERLAP> what Bayes' Rule does to that first. </U>
+			<U WHO="S6"> Bayes' Rule means we_ i can use a P sunset no-accident using this and can get this one? <U WHO="S2"> yes </U> ah okay. </U>
+			<U WHO="S2"> right so i mean th- this_ that's a big hint because you don't have to really for part C if you use Bayes' Rule you're pretty much done. </U>
+			<U WHO="S6"> mhm i don't <OVERLAP> have to </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> because we know </OVERLAP> everything else. </U> uh reconstruct the network <OVERLAP> do i? </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> no </OVERLAP>
+				</U> mhm okay. and other one is... um, uh, if in in this ca- in this case, <U WHO="S2"> mhm </U> um suppose that the the the evidence is given like this <U WHO="S2"> mkay </U> in this place, this uh this one and this one are ind- ah dependent <OVERLAP> to each other (they're then dependent.) </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> they are dependent. wait </OVERLAP>
+				</U> we can make this arrow </U>
+			<U WHO="S2"> n- they're dependent <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> they </OVERLAP> they are dependent <U WHO="S2"> yeah </U> uh, and how about this one and this one? </U>
+			<U WHO="S2"> yeah they're dependent also not directly but they're dependent through this node. </U>
+			<U WHO="S6"> yes. i can't understand this point if i can make this arrow, <U WHO="S2"> mhm </U> i can understand. it is dep- <U WHO="S2"> yeah </U> it is dependent? </U>
+			<U WHO="S2"> you can make this arrow but as far as the tables go you have to figure out the properties of that arrow. um <U WHO="S6">
+					<OVERLAP> (ah) </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> i mean <U WHO="S6">
+					<OVERLAP> ah (if this) </OVERLAP>
+				</U>
+				<OVERLAP> if you </OVERLAP> make this arrow it makes it look like this node, <U WHO="S6"> uh huh </U> has a probability <U WHO="S6"> ah </U> needs the <OVERLAP> probability table that has all </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> ah yeah ah i i uh </OVERLAP>
+				</U> of those values in it. </U>
+			<U WHO="S6"> i mean this arrow is not in (just) not real arrow just a potential, potentially </U>
+			<U WHO="S2"> yeah well what what it means is if, that if you, have some information about one of these nodes that <U WHO="S6">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> it </OVERLAP> affects the probability of <U WHO="S6">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> node. </U>
+			<U WHO="S6"> if there is no evidence, <U WHO="S2"> mhm </U> it is not dependent <OVERLAP> to (xx) what </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> that's </OVERLAP> correct. by the rule three in the book. </U>
+			<U WHO="S6"> uh huh uh huh yeah i can understand this one but you can but when this evidence is given this one and this one and (xx) dependent. </U>
+			<U WHO="S2"> they are dependent. </U>
+			<U WHO="S6"> be- because this one and this one are dependent <OVERLAP> right? </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> yes </OVERLAP> uh huh </U>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> right so do you understand why this one and that one are dependent? <U WHO="S6"> uh huh. </U> okay so if this one and this one are dependent <U WHO="S6"> mhm </U> then the way it affects this one is that say you had this as evidence, <U WHO="S6"> mhm </U> now, that affects the probability of this one, because these two are dependent. </U>
+			<U WHO="S6"> mhm and how about this one? this one and this one? </U>
+			<U WHO="S2"> they'll be they'll be dependent als- well no no no. i- if you know this is evidence then okay. </U>
+			<U WHO="S6"> there is only one evidence </U>
+			<EVENT DESC="BACKGROUND CONVERSATION NEXT :60"/>
+			<U WHO="S2"> okay. yeah then these are dependent also because this is dependent through this one, through this one and then to that one. so <U WHO="S6">
+					<OVERLAP> i want to know </OVERLAP>
+				</U>
+				<OVERLAP> you have to </OVERLAP> follow these chains </U>
+			<U WHO="S6"> i want to know thi- it i- this node is dependent to this one? <U WHO="S2"> yes. </U> this one this node is also dependent and <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> one is also dependent <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> one is also dependent <U WHO="S2"> yeah </U> right? <U WHO="S2"> uh huh </U> oh. </U>
+			<U WHO="S2"> so i mean th- th- the way to do this is to follow chains through the network. um so when you have this as evidence now you have a chain that goes from there to there. <U WHO="S6"> mhm </U> and so now anything that's connected to this node, <U WHO="S6"> mhm </U> can follow the same chain. <U WHO="S6"> um </U> so this one is connected to this one and then that's connected to this one and then that one's connected to that one. so you've effectively created a single chain of dependency. </U>
+			<U WHO="S6"> um if uh i want to know the dependence property's transitive, i mean A and B are depen- A is dependent to B <U WHO="S2"> uh huh </U> and B is dependent to C then we can say that A is dependent to C right? (xx) </U>
+			<U WHO="S2"> yeah you should be able to um... </U>
+			<U WHO="S6"> or i want to know the symmetry property. A is dependent to B and B is dependent to A right? </U>
+			<U WHO="S2"> yeah. <U WHO="S6">
+					<OVERLAP> uh huh </OVERLAP>
+				</U>
+				<OVERLAP> uh huh </OVERLAP> that's that's certainly <OVERLAP> true. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> that </OVERLAP> is true? <U WHO="S2"> uh huh </U> how about this? transitive <OVERLAP> (is true) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i'm tempted </OVERLAP> to say that it is true, um i haven't seen, a proof of it so i hesitate to say that i <U WHO="S6">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U>
+				<OVERLAP> know that it's </OVERLAP> true. um, <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> i think that it's true but the way you would know if it's true is by taking those three rules and proving that it's true and i haven't seen that done. <U WHO="S6"> mhm </U> cuz those three rules are just kind of given to us, <U WHO="S6"> mhm </U> so there might be some strange combination, <U WHO="S6">
+					<OVERLAP> ah </OVERLAP>
+				</U>
+				<OVERLAP> of </OVERLAP> those three rules that made this not be the case but i think it's the case. </U>
+			<U WHO="S6"> uh in the in the previous example (in) the discussion section, mhm? <U WHO="S2"> mhm </U> mhm... mhm, <U WHO="S2"> okay </U> (got it) </U>
+			<U WHO="S2"> yeah uh huh that's good enough. </U>
+			<U WHO="S6"> yeah there is no, if_ in the case of there is no evidence. <U WHO="S2"> mhm </U> this one is in- independent and this one right? </U>
+			<U WHO="S2"> those are independent yeah. because of this, this connection the two arrows going to that node and this is, um, so, the reason those two are independent is because, those two arrows going to that node which means that by rule three, if you have two ind- two parents going in like this then the two parents are independent of each other. <PAUSE DUR=":04"/> but then once you know this node, they're not independent anymore so then things become more dependent. <EVENT DESC="LAUGH"/> of course the network on the homework is even bigger, and messier. </U>
+			<U WHO="S5"> okay. um i might_ i actually think (i have a mistake here) um, on this, <U WHO="S2"> okay </U> you marked me off for not putting f- anything there i think? </U>
+			<U WHO="S2"> well that was yeah the the minus-five was not for that whole_ um, <U WHO="S5">
+					<OVERLAP> but i </OVERLAP>
+				</U>
+				<OVERLAP> yeah </OVERLAP> i guess it was cuz that was, oh wait, <U WHO="S5"> cuz i have (xx) </U> new operator huh, this must have been graded when i was asleep. </U>
+			<U WHO="S5"> um <U WHO="S2">
+					<OVERLAP> alright you you can </OVERLAP>
+				</U>
+				<OVERLAP> okay i don't know if </OVERLAP> it's correct <OVERLAP> but </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> let's </OVERLAP> see. in S Y preconditions that's right. in X Y and on X F, and clear-X and on X Z and on Z X and_ this is this's_ is this clear? <U WHO="S5"> yeah. </U> okay. </U>
+			<U WHO="S5"> so it's, plus five? <U WHO="S2"> yep </U> oh cool. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i'll_ lemme keep it until <OVERLAP> Tuesday. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> sure. </OVERLAP> and then there's one other_ and that that_ thi- i'm happy about this. <U WHO="S2">
+					<OVERLAP> alright yeah </OVERLAP>
+				</U>
+				<OVERLAP> (cuz) </OVERLAP>
+				<EVENT WHO="S2" DESC="LAUGH"/> it's above ninety (some) so i feel like <U WHO="S2"> yeah </U> i c- </U>
+			<U WHO="S2"> yeah this this i think you can keep the minus-three but <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah the minus </OVERLAP> three is a bit a- i'm not arguing with that. <U WHO="S2"> alright. okay. </U> and the other one is this, and i'm uh_ i don't care as much about this. <U WHO="S2"> okay yeah </U>
+				<OVERLAP> but th- th- that was obviously a mistake </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> n- no this one_ we we just missed </OVERLAP> we missed <U WHO="S5"> yeah </U> that so </U>
+			<U WHO="S5"> and and there's sort of_ i didn't know whether to leave the template in or not and i i, <U WHO="S2">
+					<OVERLAP> that's fine that's fine </OVERLAP>
+				</U>
+				<OVERLAP> (labeled it) yeah. </OVERLAP> but then the other one <OVERLAP> right. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (like) </OVERLAP> this is the minus-one okay. </U>
+			<U WHO="S5"> yeah. i i put in the extra operator like what i used in the U-C POP planner software, <U WHO="S2"> okay </U> and you_ it looks like you took a point off for using the extra operator and, and i was confused on that because the instructions said use the same operators for the U-C POP that you used in the STRIPS example. </U>
+			<U WHO="S2"> right well the the operator_ U-C POP had this weird property that you had to specify, <U WHO="S5"> right </U> all of the variables as <U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> arguments </OVERLAP> to the operator which were um </U>
+			<U WHO="S5"> so actually (xx) i carefully added in those arguments after i'd done this part when i got to the next part, because i was afraid i'd lose points for not having them match. <U WHO="S2"> so </U> but but i didn't miss any- my algorithm worked and my use of the tool worked so i think that's sort of_ i don't know that's sort of a bookkeeping thing it's not really my grasp of what's going on or <OVERLAP> (something) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah, </OVERLAP> no i i know that s- th- so that's why this was minus-one instead of more and this i- (and then I went to) here and started marking things off and <OVERLAP> all that because it didn't uh </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> right but </OVERLAP> but from the instructions said you use the same operators. </U>
+			<U WHO="S2"> it didn't say_ well so </U>
+			<U WHO="S5"> so i took that to mean they had to match, <U WHO="S2"> ah </U> after i'd already done it. so i won't_ i was like </U>
+			<U WHO="S2"> i i understand um, i am feeling generous and so ordinarily i would say oh okay you can have that point but i know that there were two or three other people that did the same thing that lost the one point <U WHO="S5">
+					<OVERLAP> okay fine </OVERLAP>
+				</U>
+				<OVERLAP> and so </OVERLAP> i hesitate to do <OVERLAP> that (just to be fair) </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> okay fine </OVERLAP> but if i can get those <OVERLAP> other five </OVERLAP>
+				</U>
+				<OVERLAP> oh you can have </OVERLAP> the five. <OVERLAP> yeah. </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> yeah. </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S5"> okay <OVERLAP> then i'm happy. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no that was_ </OVERLAP> that's clearly just_ that was <OVERLAP> (insane.) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah you didn't </OVERLAP> see it. i mean <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> obviously, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and and </OVERLAP> there're o- other places where i did the same thing_ (i mean so) <U WHO="S2"> yeah. </U> now i just wanna clarify, and i don't think this'll take long at all. <U WHO="S2"> okay </U> um <U WHO="S2"> here's these </U> oh right. oh yeah. now, ah (xx) is this_ okay. oh yeah <PAUSE DUR=":05"/> ah </U>
+			<U WHO="S2"> i think problem set four was the great equalizer for people who had been working hard and making a few mistakes here and there and the people that had been not working that hard because everybody that didn't work that hard in problem set four made a bad grade. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> yeah <U WHO="S2"> so </U> okay um... i wanna be able to either prove or disprove this. </U>
+			<U WHO="S2"> okay. doesn't look like (you need to) </U>
+			<U WHO="S5"> yeah but it seems like if, the probability of eight given one, and you also know that then you have the probability of eight given E-two, okay but then you have to know that eight E-one and E-two are given. okay so you can't say that. <U WHO="S2"> yeah </U> okay. <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> n- </OVERLAP> unless i can figure some kinda way to </U>
+			<U WHO="S2"> well so what you have to say instead is to say i mean this is equal to the probability of </U>
+			<U WHO="S5"> knowing both are true and this is just knowing that these two whether each one_ saying they're <U WHO="S2">
+					<OVERLAP> yeah so th- </OVERLAP>
+				</U>
+				<OVERLAP> still </OVERLAP> independent. </U>
+			<U WHO="S2"> right <OVERLAP> uh huh </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S5"> i got it. </U>
+			<U WHO="S2"> good. </U>
+			<U WHO="S5"> and so i can't really appeal to a combining or uncombining i have to use some sort of, argument based on the axiom structures. </U>
+			<U WHO="S2"> yeah you you can't use_ y- don't use_ don't come up with your own new axioms if <U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> they're </OVERLAP> not in the book then chances are you don't <U WHO="S5">
+					<OVERLAP> right exactly </OVERLAP>
+				</U>
+				<OVERLAP> have </OVERLAP> sufficient information to <OVERLAP> solve the problem. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> right now </OVERLAP> okay so then, given evidence E, <U WHO="S2"> okay </U> then one is conditionally dependent on two? <U WHO="S2"> yes. </U> okay. </U>
+			<U WHO="S2"> that was easy <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> alright </U>
+			<U WHO="S2"> good? </U>
+			<U WHO="S5"> okay and you kept, okay you got my problem set with you? <U WHO="S2"> yep </U> and then_ alright i gotta get going. </U>
+			<U WHO="S2"> okay <PAUSE DUR=":04"/> anybody else for the green chair? <PAUSE DUR=":05"/> so is this like recording okay even though i'm not wearing (xx) </U>
+			<U WHO="S7"> oh you're recording right now? </U>
+			<U WHO="S2"> shh, you'll be famous. </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> really? </U>
+			<U WHO="S2"> this is not for this class this is for a totally different class and they won't know who you are, unless you know him. </U>
+			<U WHO="S7"> what what is this for? </U>
+			<U WHO="S2"> this is for a linguistics thing so </U>
+			<U WHO="S8"> yeah it's for the English Language Institute. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> i know the linguistics thing wasn't a good description. forget that. </U>
+			<U WHO="S7"> uh, i i just wanna go through like the instruction if i'm doing right? </U>
+			<U WHO="S2"> okay. did you get my email? </U>
+			<U WHO="S7"> yeah <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> yeah </OVERLAP> yeah. this wa- that was a big one. </U>
+			<U WHO="S2"> well n- so so like for the_ you got my email about the noisy-or? <U WHO="S7"> yeah yeah </U> okay. </U>
+			<U WHO="S7"> well i i forgot to print that one </U>
+			<U WHO="S2"> oh that's alright, the D-separation didn't change it just got bigger. <U WHO="S7">
+					<OVERLAP> w- </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> that you could read it better. </U>
+			<U WHO="S7"> w- w- what got changed? <OVERLAP> (all that i have) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> the noisy or. </OVERLAP> did you get email that <OVERLAP> said </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> yeah </OVERLAP> yeah yeah </U> after <OVERLAP> eleven A-M this morning </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i i just looked at it </OVERLAP> i forgot to <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> print </OVERLAP> it. </U>
+			<U WHO="S2"> so that's okay just don't you know just_ i just wanted to send that out so that everybody before they actually did part four of the homework would look at it and make sure that they </U>
+			<U WHO="S7"> what, number A? </U>
+			<U WHO="S2"> for task four? yeah when you do the uh </U>
+			<U WHO="S7"> do you need or for num- <OVERLAP> number A? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> mm </OVERLAP> maybe. </U>
+			<U WHO="S7"> you (didn't ran) task four to look like look like this? you know you're supposed to get these </U>
+			<U WHO="S2"> right but you have to be able to get these based on these independent probabilities. so how are you gonna do that? </U>
+			<U WHO="S7"> i don't know work it <OVERLAP> out? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> say it's it's it says here and you can use the noisy-or relation to calculate the conditional probability. <U WHO="S7"> oh </U> so that's that's why it was really_ </U>
+			<U WHO="S7"> oh so <U WHO="S2">
+					<OVERLAP> it was important for me to get that example out. </OVERLAP>
+				</U>
+				<OVERLAP> i- it's a it's a advantage </OVERLAP> to use noisy-or </U>
+			<U WHO="S2"> yeah because it's a lot easier to do the calculations. </U>
+			<U WHO="S7"> i see </U>
+			<U WHO="S2"> and in fact you don't have all the information you need there, to do anything but noisy-or because you don't have all of the combined conditional probabilities. </U>
+			<U WHO="S7"> well so we we just have to submit like this something like this? <U WHO="S7"> yeah mhm </U> okay. and this_ these were given. <U WHO="S2"> right </U> okay. so these two </U>
+			<U WHO="S2"> yeah so <U WHO="S7"> these two are </U> you should probably use noisy-or for some of those. </U>
+			<U WHO="S7"> oh. and like here, number one, i can just uh say i break it down, and like i can say just finally y- y- you really need this like that, <U WHO="S2"> yeah mhm </U> just <OVERLAP> say </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> that's fine s- so you say yeah if i know this then... yeah </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S7"> mm </U>
+			<U WHO="S2"> and obviously you're gonna be writing insufficient at least once or else it wouldn't make sense to, have <U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> problem. there may be more than that <U WHO="S7"> oh </U> so </U>
+			<U WHO="S7"> and here, this is the way you want it right? <OVERLAP> given </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> evidence </OVERLAP> is um abdominal- <OVERLAP> pain </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> pain </OVERLAP>
+				</U> and </U>
+			<U WHO="S7"> and then w- and then what's <OVERLAP> independent of this </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> independent variable </OVERLAP> question stuff yep </U>
+			<U WHO="S7"> (and nothing, of) </U>
+			<U WHO="S2"> right well so so in the the D-separation table i was just giving you a whole bunch of different examples. <U WHO="S7"> oh </U> but this one it's a lot harder network, to follow everything through but the idea is the same that you just have like some number here and some number there and you wanna see <OVERLAP> what's independent. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> and this will be </OVERLAP> this is will be <OVERLAP> this </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> that </OVERLAP> would be what the answer is. it may or may not be big, i mean you have to trace through the network and see what's independent of different things. <U WHO="S7"> okay </U> so like starting out i'll give you one answer, which is ordinarily by rule three, which is the one that says if you don't know abdominal pain then the two parent nodes are independent, ordinarily punched-in-stomach and cancer would be independent. but now that you know abdominal pain, rule three doesn't apply anymore, so punched-in-stomach and cancer are dependent so you can't put cancer in this column. right. <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> so </OVERLAP> then like something like this would be independent. right? </U>
+			<U WHO="S2"> well, i don't know is it? <U WHO="S7"> uh, no </U> y- y- mean you have to find <U WHO="S7"> find </U> one of the rules that make it independent in order for it to be independent. so what rule would make those two independent? <EVENT WHO="S7" DESC="FLIPPING PAPERS"/> you just picked it up, the example (that) </U>
+			<U WHO="S7"> like here it's like smaller but this is like, a lot bigger </U>
+			<U WHO="S2"> right but the arrows were also pointing in different directions in some cases. so this is a very different network. <U WHO="S7"> very different from this one </U> yeah. mean it has examples of stuff in it but, i didn't want to give you the same network or else you wouldn't have to do much thinking. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> mm. so like... mm. <PAUSE DUR=":07"/> how would you how would you go about like uh, (doing 'em over) here? like you have three here have three you can see, see that but like </U>
+			<U WHO="S2"> well so if you want you can just redraw things so you can say, you know if this is node two and this is node four, and this is node one, then you could pretend that's node three. right? so i mean you're still ignoring these connections you have to follow those through also, but basically you look through and you say is there a connection from this node to this node? so you first would follow this path and say well, is this a connection or is there something that D-separates those? so you'd say well this doesn't D-separate it because you have this as evidence. and since you don't have allergy as evidence, this by rule two, would be separated only if allergy were evidence. so, there's no way to separate itch from punched-in-stomach using those three rules. if by this path they were separated, then you would need to go up this path, and say are they separated this way? because they're not separated if there's at least one path, that you can follow and say nope this isn't separated nope that isn't separated nope that isn't separated. </U>
+			<U WHO="S7"> oh so like go here, match if <U WHO="S2"> yeah </U> if it's if it's not_ if it's dependent go back here or like <OVERLAP> dependent </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right </OVERLAP> so keep following all of the dependencies until you get to something that's independent. <U WHO="S7"> i see </U> and if, say if you follow this through and found that this was independent of this, then you would need to try all the other paths too which in this case is through there. so, if this is independent but this is dependent, then this is still_ then there is a dependency between the two so you have to find to see if every path between two nodes is independent. by those D-separations. </U>
+			<U WHO="S7"> oh. and and this, this meant uh this and this right? </U>
+			<U WHO="S2"> right. <U WHO="S7"> oh okay </U> so that means that that those are both gray shaded areas so, um... </U>
+			<U WHO="S7"> like here i i don't get uh, what what noisy, or is. </U>
+			<U WHO="S2"> okay so what noisy-or is is you are, approximating... um, get get these again, get these off the web page. that is what that email was about. um. so noisy-or is basically when you g- are given, probabilities only in terms of one of the causes, you try to have some way to combine them. so, what this is saying is, would it make sense <U WHO="S7"> to model </U> to model abdominal pain as noisy-or because you already have four causes you have <U WHO="S7"> yeah </U> allergy stress cancer and punched-in-stomach. so </U>
+			<U WHO="S7"> you_ i would say yes. </U>
+			<U WHO="S2"> well, why? </U>
+			<U WHO="S7"> because uh, this uh, depends on one of these four? </U>
+			<U WHO="S2"> well so it does depend on one of those four but um... does it make sense to combine the four independently? <U WHO="S7"> mm </U> well so basically what you're doing here is you're saying, the three causes are independent e- of each other so, <U WHO="S7"> oh because these are independent, of each other? </U> that's that's basically what you're saying here is that, um, i have some probability U that this is gonna happen but then i combine that with this one </U>
+			<U WHO="S7"> oh so if there was a some connection these the- you wouldn't (have) uh use uh, noisy-or? </U>
+			<U WHO="S2"> well you still can, <U WHO="S7"> you still can? </U> but basically what y- wha- what this_ wha- what they want you to do here is to try to think about, several things one are those four really the only causes of abdominal pain? <U WHO="S7"> mkay </U> so think that just just <OVERLAP> common </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> not </OVERLAP>
+				</U> sense. <U WHO="S7"> mhm </U> if they're not then you know, maybe noisy-or by itself is not sufficient. maybe you need to add extra things, to get those probabilities. because if you're gonna do this noisy-or computation, you're gonna, pretend like these are the only causes of abdominal pain. </U>
+			<U WHO="S7"> so so you could still use or, if there was something connection here? </U>
+			<U WHO="S2"> well i mean you can always use noisy-or because you can ignore everything else because you have these simple tables. but when you have things connected it's harder to consider them to be independent. so in this case um do you have dependencies between the three uh, <U WHO="S7"> four? </U> three nodes? <U WHO="S7">
+					<OVERLAP> these these four? </OVERLAP>
+				</U>
+				<OVERLAP> when you're trying to pair 'em. </OVERLAP> yeah. </U>
+			<U WHO="S7"> and then see </U>
+			<U WHO="S2"> are they independent or dependent? </U>
+			<U WHO="S7"> looks like they're independent. </U>
+			<U WHO="S2"> that's what it looks like yeah if you don't know abdominal pain. so maybe in this case that wouldn't be a problem for noisy-or. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S7"> hm? </U>
+			<U WHO="S2"> okay so, you don't have these direct connections then in this network right? </U>
+			<U WHO="S7"> yeah i- it looks like these are independent. </U>
+			<U WHO="S2"> mkay, so, that's one of the factors that you might want to consider for noisy-or, and, another one is the fact that you don't know tha- that these four causes are not complete, </U>
+			<U WHO="S7"> is is <U WHO="S2">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> noisy-or based on just this two, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i mean all noisy-or is </OVERLAP>
+			</U>
+			<U WHO="S7"> not looking at these? </U>
+			<U WHO="S2"> right. yeah. </U>
+			<U WHO="S7"> so i- if this_ th- it's saying these won't cause_ that these won't cause this? <OVERLAP> you can u- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well </OVERLAP> so what it's saying is that those, well those cause allergy but, noisy-or does not, trace back up the tree. i mean it, <U WHO="S7">
+					<OVERLAP> oh noisy or doesn't </OVERLAP>
+				</U>
+				<OVERLAP> it's a very simple </OVERLAP> model it just looks, <U WHO="S7"> yeah </U> independently at each of its parent nodes and says okay i've_ i have to have these tables for, what the probability is of this node given each of the parents independently. but it doesn't try to put them together, um based on whatever the rest of the the belief network structure is. all it cares about is just this local, model. so that's one of the p- approximations that it makes. and it also_ there's there_ you don't have any information like maybe if you have cause A you know that cause B is not gonna happen or maybe if cause A, doesn't happen you know cause B is not gonna happen. but you don't have any of that information here. so like maybe in this case you have that um, uh let's see maybe if you uh, are not under stress you know that you're not gonna get punched in the stomach. that_ this is just an example, it's_ so if that was the case, then, noisy-or would not work very well, <OVERLAP> because </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> wa- </OVERLAP> wait if you're under stress you're not </U>
+			<U WHO="S2"> so if you knew that, when you weren't under stress that you w- also wouldn't get punched in the stomach, <U WHO="S7"> yeah (okay) </U> then noisy-or would not be a good model because you had a connection <U WHO="S7"> okay (xx) </U> between stress and poin- punched in the stomach, which noisy-or doesn't model. because you take_ for noisy or you just take the probabilities of these independently, put them together. so if these nodes are independent, then, that makes sense to put them together like that but if they are dependent, then maybe it doesn't make as much sense to put them together. <EVENT WHO="S7" DESC="FLIPPING PAPERS"/> so basically what that question is for is they want you to read in the textbook everything that it says about noisy-or, ask us in office hours to see how much we'll tell you and then, kind of just write a paragraph that says, noisy-or, will or will not work because blah blah blah. if they are conflicting pieces of information like maybe s- one thing will support the use of noisy-or, and one thing won't support the use of noisy-or, write down everything, that you can think of and say well based on this evidence i would or would not use noisy-or because, there are these reasons. so you have to choose but, there may be, some factors that would allow it to work <OVERLAP> and some that wouldn't </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> like like </OVERLAP> like here? <U WHO="S2"> uhuh? </U> you said use noisy noisy-or here? </U>
+			<U WHO="S2"> yep. mhm... yeah so is that the way the network changes? yeah. mhm. <U WHO="S7"> okay </U> right. so in this case, the nodes that are coming in to on-time aren't connected to each other. they're independent. </U>
+			<U WHO="S7"> these are independent? </U>
+			<U WHO="S2"> right. <OVERLAP> so, </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S2"> noisy-or makes a lot of sense because they're not related to <OVERLAP> each other </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> but </OVERLAP> what about here, this isn't independent, right? </U>
+			<U WHO="S2"> right. so were you using noisy-or for that? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S7"> mm </U>
+			<U WHO="S2"> i mean the noisy-or what are you calculating with that? you're calculating things invo- involving </U>
+			<U WHO="S7"> (sun- sunset. that's not sunset.) so so i should use noisy-or here and then, not noisy-or here. use </U>
+			<U WHO="S2"> for sunsets um... </U>
+			<U WHO="S7"> it would be a good idea to use this set and noisy-or noisy-or? </U>
+			<U WHO="S2"> yeah because the parents are um independent. in fact it recommends that you use noisy-or somewhere doesn't it? <U WHO="S7"> yeah </U> on uh, <U WHO="S7"> here </U> here it says, for this one you can use the noisy-or relation. <U WHO="S7">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> don't </OVERLAP> use the noisy-or relation unless it says it's okay. </U>
+			<U WHO="S7"> and you said </U>
+			<U WHO="S2"> yep, <U WHO="S7">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U>
+				<OVERLAP> it says </OVERLAP> you can there too so yeah. </U>
+			<U WHO="S7"> even though these are connected, <U WHO="S2"> yeah. </U> you can? </U>
+			<U WHO="S2"> well if you have the official permission to do it then it's okay to <OVERLAP> use it. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> it's okay. </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S7"> it_ you wouldn't get any wrong answer? </U>
+			<U WHO="S2"> not_ no because i mean you could even write on your homework you can say it said it was okay to use noisy-or for this problem so, you know </U>
+			<U WHO="S7"> cuz it would be it would be too hard to like <U WHO="S2"> yeah. </U>
+				<OVERLAP> trace </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> if it says that you can use noisy-or use noisy-or because that's the easiest thing you can do. </U>
+			<U WHO="S7"> like an app- it's an app- approximation </U>
+			<U WHO="S2"> yeah it's an approximation. so what i was saying is it's a better approximation, if the parents are independent. but you can still use it as an approximation anyway. it just might not be as accurate if if the various parents' values, probability values are independent of each other. </U>
+			<U WHO="S7"> okay. so i could i could just say, if you want a, like exact answer you wouldn't use_ you wouldn't_ you shouldn't use noisy-or. </U>
+			<U WHO="S2"> that's certainly true. that probably is not enough of an <OVERLAP> explanation </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> it's not enough? </OVERLAP>
+				</U>
+				<OVERLAP> to </OVERLAP> get full credit </U>
+			<U WHO="S7"> it's not? </U>
+			<U WHO="S2"> but i mean, what_ thes- these are the things_ the things we were talking about or the things that you want to talk about are, um what happens if these parents aren't the only causes, what happens if they're connected to each other. so, you know, choose an answer </U>
+			<U WHO="S7"> so i should find out if these are connected <OVERLAP> first. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> mhm. and also find out s- i mean since they're_ that's not the only cause, discuss, what that means for noisy-or. </U>
+			<U WHO="S7"> what this means? </U>
+			<U WHO="S2"> wha- what uh the fact that these aren- four aren't the only causes discuss what that means, in terms of constructing a noisy-or, um, <OVERLAP> probability </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> um well </OVERLAP> that these are not the only cause? say </U>
+			<U WHO="S2"> right well you said you know you looked at those and you said well there are other ways to get abdominal pain then allergy stress cancer and punched-in-stomach. so, given that there are other ways, would noisy-or make sense? read in the book. it <U WHO="S7"> okay </U> talks about that particular case. </U>
+			<U WHO="S7"> oh i see. <EVENT DESC="FLIPPING PAPERS"/> on this one i just have to, write the value, right? no no showing work? </U>
+			<U WHO="S2"> for part B? </U>
+			<U WHO="S7">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> y- well you have to use the JavaBayes but yeah. </U>
+			<U WHO="S7"> yeah just (xx) </U>
+			<U WHO="S2"> mhm. yeah <U WHO="S7">
+					<OVERLAP> oh i see </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> i mean you could do it by hand if you want also but, the idea of that is that JavaBayes is supposed to make it easier for you so </U>
+			<U WHO="S7"> oh. i see. well thank you. </U>
+			<U WHO="S2"> sure. <EVENT WHO="S1" DESC="ENTERS"/>
+				<OVERLAP> he's back. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i was doing_ </OVERLAP> yeah i was doing the first one, and </U>
+			<U WHO="S2"> i have evidence that that email was slowly disseminating but that the server's being so slow that it may take it hours to get there. </U>
+			<U WHO="S1"> okay. um, i'm assuming that given this piece of information our answer should change from the first one. </U>
+			<U WHO="S2">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but </OVERLAP> i still get the same answers. and i can prove it. <EVENT DESC="LAUGH"/> um, for the first one i got insufficient sufficient and insufficient. </U>
+			<U WHO="S2"> that sounds pretty good. </U>
+			<U WHO="S1"> um, the reason for the first one is there's no way to get, that_ you wanna need to give an H? <U WHO="S2"> mhm </U> um, for the third one there's no way to get, any of these three. <U WHO="S2"> mkay </U> because there are lots of ways to rewrite this, which i've written out here, and in each one of 'em there's something that i, don't have values for. <U WHO="S2"> okay. </U> so now that i'm given this, the first one is going to be insufficient because, i can rewrite </U>
+			<U WHO="S2"> well, you wanna_ y- you don't wanna, go about this way. you wanna you wanna go about it by saying, is it sufficient not is it insufficient. </U>
+			<U WHO="S1"> um </U>
+			<U WHO="S2"> so what does what does this statement tell you? </U>
+			<U WHO="S1"> this, all this, is doing is telling me something about, rewriting it this way. <OVERLAP> i now know (this piece) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no no no </OVERLAP> it's telling you something. if P_ probability of E-one given H and E-two is equal to the probability of E-one given H, what does that tell you? there's something, <U WHO="S1">
+					<OVERLAP> that E-two is independent of </OVERLAP> E-one? </U>
+				<OVERLAP> deeper that it tells you. </OVERLAP>
+			</U>
+			<U WHO="S2"> yep... mhm. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> so if that's independent <PAUSE DUR=":08"/> this <PAUSE DUR=":11"/> how does independence affect, probability of E-one given E-two, if they're independent? that should be the same as probability of E-two given E-one, right? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2">
+				<OVERLAP> well probability of E-one </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> alright, (never mind) </OVERLAP>
+				</U> given E-two is equal to the probability of E-one right if they're independent? </U>
+			<U WHO="S1"> oh yeah because knowing the outcome of E-two won't affect it, <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> at all. </OVERLAP>
+			</U>
+			<U WHO="S2"> exactly and tha- </U>
+			<U WHO="S1">
+				<OVERLAP> so i can rewrite this </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i think that's the key </OVERLAP> to this </U>
+			<U WHO="S1"> can rewrite this as just P-E-two, <U WHO="S2"> mhm </U> um... but still there's nothing here. i don't have enough information. </U>
+			<U WHO="S2"> maybe <OVERLAP> that's not eno- </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> cuz </OVERLAP> i know, </U> but_ ah, but don't give up yet because i know the answers. </U>
+			<U WHO="S1"> i know that... um... i don't know any of these three. so i can't be using this one and have to be using this one. <PAUSE DUR=":08"/> can you rewrite, probability of E-one, and E-two, given H, if those are independent as, E-one given H times the probability of E-two given H? <U WHO="S2"> mhm </U> okay </U>
+			<U WHO="S2"> and look at part one, those look kind of familiar don't they? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> ah <PAUSE DUR=":04"/> we know that and we know that and we know that_ oh, so it is sufficient. </U>
+			<U WHO="S2"> yeah i mean tha- that was the key is to say what happens when you know that those are independent. </U>
+			<U WHO="S1"> okay. but still for the last one... one of these two, and the P-H, i still would need this one, which i don't know, oh wait. so if i know this, then i just know, this. (probability of E-one is) probability of E-two right? <U WHO="S2"> mhm </U> this is the same as that? <PAUSE DUR=":04"/> you have, E-two given H, (E-one given H-E-one given H,) but i don't have these. </U>
+			<U WHO="S2"> no so what is the probability of E-one? try to write that down in terms of stuff that you have there. </U>
+			<U WHO="S1"> the probability of E-one? </U>
+			<U WHO="S2"> yep. but <OVERLAP> try to write it down to give you s- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i_ that's </OVERLAP> about as basic as it gets isn't it? </U>
+			<U WHO="S2"> well it is but you don't have that so you're gonna have to write it in terms of something a little more complicated. <PAUSE DUR=":05"/> think about H. </U>
+			<U WHO="S1"> it'd have to be in terms of something i know, <U WHO="S2"> yep mhm. </U> so, E-one given H... is... probability of H given E-one, probability of H over, probability of E-one, so E-one is <PAUSE DUR=":05"/> probability of H... <EVENT DESC="FLIPPING PAPERS"/> do i have that? <PAUSE DUR=":06"/> huh'uh <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S2"> well, what is... so can you write the probability that you want in terms of the probability that you want given H? </U>
+			<U WHO="S1"> sure. </U>
+			<U WHO="S2"> mkay. </U>
+			<U WHO="S1"> i_ oh no i can't because there's always_ probability of E-one you're always going to have an H given E-one over an E-one given H. </U>
+			<U WHO="S2"> okay lemme lemme see the textbook for a minute i think you're... </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S2"> did we finish the homework (xx) </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S2"> okay. <EVENT DESC="LAUGH"/> you're hiding out from the microphone. i'll be singing near the end, so... </U>
+			<U WHO="S1"> what were you wanting to look up? </U>
+			<U WHO="S2"> um <PAUSE DUR=":11"/> let me look it up first to see if it's there. </U>
+			<U WHO="S1"> well pretty much these are the three things that i have to work with. </U>
+			<U WHO="S2"> this is the one that i was looking up. um well i mean so this is an obvious one but, let's see, let's let's see what's available there again. so, you have the probability that E-one and E-two, s- which in this case is equal to the probability of E-one times the probability of E-two cuz they're independent right? <U WHO="S1"> mhm </U> so that's equal to, the probability of E-two times the probability of E-one given E-two. </U>
+			<U WHO="S1"> huh. i musta missed that (rule.) so are you using probability of A and B equals the probability of A given B (xx) </U>
+			<U WHO="S2"> talk louder. <EVENT DESC="LAUGH"/> right so, the key here is that you know the independence relation right so you know that the probability of A and B is equal to the probability of A times the probability of B. <U WHO="S1"> right </U> so, that way you can cancel out, um so you know that that's equal. so the probability of A given B is equal to the probability of A. let's see if this helps us here in </U>
+			<U WHO="S1"> well well now i hafta, hafta rewrite my, original statement. i'm looking for, the probability of H given E-one and E-two. <U WHO="S2"> mhm </U> so it's either in that form or that form or that form. <U WHO="S2"> mhm </U> um... i can rewrite either of these as a probability of, E times... these two are equal. <U WHO="S2"> mhm </U> these denominators... </U>
+			<U WHO="S2"> (those) the_ wait those denominators are equal? </U>
+			<U WHO="S1"> sure. </U>
+			<U WHO="S2"> probability of E-one given E-two is the same as the probability of E-two given E-one? </U>
+			<U WHO="S1"> if they're, independent. </U>
+			<U WHO="S2"> no no no no, no. this is the probability of E-one and this is the probability of E-two, right? if they're independent you <U WHO="S1">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> just (go on) </OVERLAP> independency. </U>
+			<U WHO="S1"> oh. okay... okay. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S2"> so, you can figure out from these, what the probability of E-one and what the probability of E-two is right? </U>
+			<U WHO="S1"> (well) i'm not so sure now let me just work on it a little bit <OVERLAP> cuz </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S1"> i kind of don't see. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> alright go off and see if you can calculate those two first and then that might help. </U>
+			<U WHO="S2"> hello. just let me get some uh orange soda, (and then,) i'll be right with you. okay. there's no one here where is everyone? i mean like there's lots of four-ninety-two people here but, at the beginning of the term there were lots of office hours now. okay. </U>
+			<U WHO="S9"> uh, can you explain a little bit of (uh reasons) </U>
+			<U WHO="S2"> okay. <U WHO="S9"> yeah </U> um so, the best way to explain this is by examples so what, example do you want me to explain or examples where do you want me to start? </U>
+			<U WHO="S9"> yeah i mean, okay for number, uh (xx) two and five uh </U>
+			<U WHO="S2"> two and five? </U>
+			<U WHO="S9">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay </OVERLAP> so, if you imagine here, that node three is the shaded node, <U WHO="S9"> okay </U> because it's evidence, <U WHO="S9"> yeah </U> then, if you go from node five, what you're trying to see is is there a path between node two and node five. </U>
+			<U WHO="S9"> but, there's no paths here, cuz it's it <OVERLAP> (you are linkless) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well but they do_ </OVERLAP> don't pay attention to the arrows i mean you can go backwards on an arrow if it doesn't get split by one of these rules. so, <OVERLAP> here </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> so the </OVERLAP> direction of the link is not </U>
+			<U WHO="S2"> well it's important, but... for example if four were evidence, then one and two are not independent anymore because, rule three only applies if, node four, is not evidence. </U>
+			<U WHO="S9"> yeah but i mean, now three is evidence. but <OVERLAP> we don't </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> right so </OVERLAP>
+				</U> have any paths from two to five. </U>
+			<U WHO="S2"> not directly, but, the idea is that if node two and node one are dependent, and node one and node five are dependent, then node two and node five are dependent also. because there is a direct path, between them. <OVERLAP> it's not direct but there is </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> so put them </OVERLAP> in a direct paths. </U>
+			<U WHO="S2"> well so i mean that you can follow and say node two is dependent on four node four is dependent on node six node six is dependent on whatever's below it. so you can follow a path between node two and node eight, <U WHO="S9">
+					<OVERLAP> yeah i understand. </OVERLAP>
+				</U>
+				<OVERLAP> (or whatever) </OVERLAP> and say, that, none of these rules apply so there there's a chain of dependency. so in this case, node two and node five is kind of a bad example because they're way independent. so, in this case you look at node two and you say well, this is the only path between node two and node five. two four one three five. so then you say well okay i'm gonna follow this path. is node two, and node four dependent? yes they are, so keep going, <U WHO="S9"> mhm </U> is node two and node one dependent, you're gonna hate this grammar, <EVENT WHO="SS" DESC="LAUGH"/> node two and node one um, dependent. well the answer is no, because rule three, breaks node two and node one. </U>
+			<U WHO="S9"> okay so, what, do you mean by path by paths? <OVERLAP> i mean, (i was) talking about (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well, what i mean by pa- let's- </OVERLAP> let's look at one that is dependent. let's say node four is given as evidence. <U WHO="S9"> okay. </U> and you're trying to see if node two and node five, are independent of each other. <U WHO="S9"> uhuh </U> okay. so you start at node two and you say well, okay is node two, dependent on node four, yes? <U WHO="S9"> yeah. </U> is node two dependent on node one? yes, because rule three doesn't apply anymore. so you can go from node two to node four to node one, and you see that they are dependent on each other. <U WHO="S9"> okay </U> which is basically saying, if you know the value of node one, does that affect the probability of node two and the answer is yes, if you know the value of node four also. <U WHO="S9"> okay </U> that's what that rule's saying. so now you have that node two and node one are dependent, so now you can keep going, so now you can say well, is node one dependent on node three? yes, <U WHO="S9"> mhm </U> so that means that node two is dependent on node three. <U WHO="S9"> okay </U> so now is node three dependent on node five? yes, <U WHO="S9"> mhm </U> so that means that node two is dependent on node five. </U>
+			<U WHO="S9"> alright then, okay, so, so, if when you when you said uh, node two is dependent on node one, which means if you know node one, you will know node two. </U>
+			<U WHO="S2"> it doesn't mean you'll know node two it means that that may affect the probability of node two, because when you have these tables you're gonna have_ you might have a table that says node two, um, well, if you know node four, then <SIC> node's </SIC> two's probability, changes whether four is true or false. </U>
+			<U WHO="S9"> okay. </U>
+			<U WHO="S2"> okay. so because, say there was a hundred percent probability that node four would be true, <U WHO="S9"> mhm </U> if node two was true and a zero percent chance of n- if_ of, four being true if two was false so then you know, um tha- tha- if the value of this affects the value of that. </U>
+			<U WHO="S9"> okay. </U>
+			<U WHO="S2"> okay so now say, you know the value of four, say it's true, and you also know the value of one, say it's false. <U WHO="S9"> mhm </U> now say node four, has a probability of zero, <U WHO="S9"> mhm </U> when node, one and two are both false. <U WHO="S9"> okay. </U> so if you know node four is true node one's false, then you know node two has to be true. <U WHO="S9"> okay </U> so that's how that dependency relationship i- i- that's that's kind of the extreme case of how, you can see that node one or t- and two are related when you know node four. <U WHO="S9"> okay. </U> so that's why rule three is here. so you can_ similarly you can do the same thing for rules one and two, um, if you know, the value of <OVERLAP> node three </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> so </OVERLAP> if you can apply the rule which means, dependent. </U>
+			<U WHO="S2"> ye- w- well if you w- can apply the rule that means it's independent. </U>
+			<U WHO="S9"> independent. </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S9"> so how about this uh, this one, uh if, given node four, <OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S2"> given node <OVERLAP> four? </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> node </OVERLAP> four how about uh one and seven, they are dependent <OVERLAP> on (each other) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay </OVERLAP> they're, well so does it fol- so node four becomes shaded if you know it. <U WHO="S9"> yeah </U>
+				<OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> so </OVERLAP> you can apply rule one. </U>
+			<U WHO="S2"> you can apply rule one. <U WHO="S9">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> what does that tell you? </U>
+			<U WHO="S9"> they are independent? </U>
+			<U WHO="S2"> right. </U>
+			<U WHO="S9"> and why, it's not here. </U>
+			<U WHO="S2"> well it's not here because i only had spec- if you noticed that i'm i'm only looking at part, this woulda been a huge chart if i'd done everything. <U WHO="S9"> okay </U> so i'm only looking to see what's independent of nodes two five and six, because they cover the different areas, of the graph. so i'm looking to see what's independent of node two, what's independent of node <OVERLAP> five what's </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> okay s- </OVERLAP>
+				</U> independent of six. so for node four, you can say okay what's independent of node five? <U WHO="S9"> uhuh </U> so, node five's connected to node three, which is connected to node one, so those are all dependent </U>
+			<U WHO="S9"> so <OVERLAP> basically, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> so </OVERLAP>
+				</U> for node five you, uh, you have paths to any node here. </U>
+			<U WHO="S2"> from node five no. because from node five, you connected all the way down to node four, <U WHO="S9"> mhm </U> but now since you know node four, by, rule one, <U WHO="S9"> mhm </U> four one and seven are different are are separated right? <U WHO="S9"> mhm </U> and one and six are separated. so that means you can't keep going through node four to six and seven, from five. so five is separated from node seven because, when you go five three one, and then four, four separates one from seven so that path doesn't exist anymore. </U>
+			<U WHO="S9"> how about eight? </U>
+			<U WHO="S2"> so eight, the path is_ does exist there because since you know node four, <U WHO="S9"> uhuh </U> you go five three one four, <U WHO="S9"> mhm </U> and then ordinarily you would apply rule three, but since you know node four, <U WHO="S9"> uhuh </U> rule three doesn't apply anymore. because you can't know, um, this node in order for these to be separated. </U>
+			<U WHO="S9"> okay so </U>
+			<U WHO="S2"> so now, one and two, are dependent, so you can go five three one four two eight. </U>
+			<U WHO="S9"> one and two are, dependent. </U>
+			<U WHO="S2"> right. because, the only way they could be independent is if you could apply one of these rules. </U>
+			<U WHO="S9"> okay so, this rule is for independent. </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S9"> okay. so now given four one and two are dependent. </U>
+			<U WHO="S2"> th- yeah. uhuh whereas if you didn't know four, one and two would be independent. </U>
+			<U WHO="S9"> okay. so given four these two are dependent, but, <U WHO="S2"> mhm </U> six and seven are independent. </U>
+			<U WHO="S2"> right because of rule one. </U>
+			<U WHO="S9"> because rule two, or rule one? </U>
+			<U WHO="S2"> rule ru- well, six and seven are independent of each other but five is independent from six and seven. </U>
+			<U WHO="S9"> no i mean six and seven are </U>
+			<U WHO="S2"> yeah. they're independent </U>
+			<U WHO="S9">
+				<OVERLAP> independent. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> because </OVERLAP> of rule two. yes exactly. </U>
+			<U WHO="S9"> okay. alright. <EVENT WHO="S2" DESC="LAUGH"/>
+			</U>
+			<U WHO="S9"> alright i i have another question about this tree... so i actually this table, like this number point-nine means uh, the probability of on-time given, <OVERLAP> no-accident </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no-accident. </OVERLAP> yes. </U>
+			<U WHO="S9"> right? </U>
+			<U WHO="S2"> mhm </U>
+			<U WHO="S9"> so, well, if i want to calculate this, on-time and health given no accident, <U WHO="S2"> mhm </U> i shouldn't, multiply by, point-seven, right? </U>
+			<U WHO="S2"> you shouldn't, do what? </U>
+			<U WHO="S9"> i mean, how to calculate this. do i need to have point-seven here, or not? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> yeah but, break that down first. </U>
+			<U WHO="S9"> no i mean, if, my question is i di- i don't know if i should have, point-seven here or not? </U>
+			<U WHO="S2"> okay do you have your example from class? did you take notes in class, when, </U>
+			<U WHO="S9"> mm, no i i mean i i'm just confused cuz, given no-accident, these two should be independent. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"> yeah, uhuh </U>
+			<U WHO="S9"> right? </U>
+			<U WHO="S2"> mhm </U>
+			<U WHO="S9"> so, i should have this, i think, the probability of this is just, point-nine times point-six. </U>
+			<U WHO="S2"> no no no no because, you're given no-accident, well o- well s- so are you given no-accident, which task are you doing? </U>
+			<U WHO="S9"> mm, i'm trying to doing task one but i want to <OVERLAP> calculate this first. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you're not given, </OVERLAP> okay, you're y- you're not given no-accident. so ordinarily how you would look at this, i- i- i- i- is that you would say that this had to be multiplied by the probability of no-accident in order to get_ give you, the probability of, so what you're looking for is the o- the probability of on-time and health right? for part A, you're trying to <OVERLAP> to look for </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> no i mean </OVERLAP> i mean i mean i don't, <OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> okay okay okay yeah <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> i don't (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so s- alright </OVERLAP>
+			</U>
+			<U WHO="S9"> i just want to calculate <OVERLAP> this, probability </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay. yeah yeah yeah yeah </OVERLAP> mhm </U>
+			<U WHO="S9"> so, should i have, point-seven here? </U>
+			<U WHO="S2"> no no no no, no you don't need point-seven here <OVERLAP> (to calculate it) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> no, alright </OVERLAP>
+				<U WHO="S2"> right. </U> so, so basically uh i get, i like, from here and i don't have_ i don't need point-three here. (so this is point-three here) <U WHO="S2"> yeah. mhm </U> yeah. right. so the probability of this one, should be, just a summation of these two? </U>
+			<U WHO="S2"> yeah, um, <U WHO="S9"> right </U> presuming that you know, no-accident yeah. </U>
+			<U WHO="S9"> no no no no i mean, this one's not, no-acci- uh, you have accident so not no-as- accident. </U>
+			<U WHO="S2"> well so </U>
+			<U WHO="S9"> but it's true if then <OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> the </OVERLAP> probability of on-time and health, <U WHO="S9"> mhm </U> is the probability of on-time and health given no-accident times the probability of no-accident, plus, the probability of on-time and health, given no-accident times the probability of no-accident. so you're missing some terms in here, so you have to write down that the probability of on-time and health, is equal to this times the probability of no-accident. </U>
+			<U WHO="S9"> i think both, should be equal, cuz, if you have two like, two say A and B and you say the probability of A given B plus probability A given not-B should be equal to the probability of A. </U>
+			<U WHO="S2"> yeah, but <OVERLAP> you have to </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> this should be right, </OVERLAP> right? </U>
+			<U WHO="S2"> no </U>
+			<U WHO="S9"> why not? </U>
+			<U WHO="S2"> because you have to, here you're you're saying you're given no-accident, here you're saying you're given no-accident, but, you're not given no-accident, <EVENT WHO="S9" DESC="SIGHS"/> you have some chance of there not being an accident. </U>
+			<U WHO="S9"> these two, event are, uh independent. </U>
+			<U WHO="S2"> no they're not independent if you have no accident then you can't have no-accident. </U>
+			<U WHO="S9"> these ones not <OVERLAP> no-as- accident </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right. </OVERLAP> i mean th- the point is that you can't have both, an accident and no-accident. </U>
+			<U WHO="S9"> that's my point, so </U>
+			<U WHO="S2"> they're so they're dependent. they're not independent. </U>
+			<U WHO="S9"> okay. well, what </U>
+			<U WHO="S2"> this is confusing cuz you're saying not no-accident but oh well. </U>
+			<U WHO="S9"> yeah. i mean, is this right? is this equations right? </U>
+			<U WHO="S2"> no. </U>
+			<U WHO="S9"> why not? </U>
+			<U WHO="S2"> this equation should be, </U>
+			<U WHO="S9"> i think it's right. </U>
+			<U WHO="S2"> no, it's not. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> yeah so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> the probability of A, is equal to the probability of A <OVERLAP> given B </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> i know that </OVERLAP> the equation but i just want <OVERLAP> (all i want to know) </OVERLAP>
+				<EVENT DESC="CLAPS HANDS"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> times the probability of B </OVERLAP>
+			</U>
+			<U WHO="S9"> if this one equal to this one? </U>
+			<U WHO="S2"> no. it's not. </U>
+			<EVENT WHO="S9" DESC="SIGHS"/>
+			<U WHO="S2"> so i'm writing this down so that you can look at it, and compare them. <U WHO="S9"> okay. </U> okay. so, why do you need these terms, they're they're effectively weighting terms because, here you you're just saying you're adding the probability of A given B plus the probability of A given not-B. <PAUSE DUR=":04"/> and so what this is saying is that this is the probability of A given B, times the probability that you're actually going to be given B. <U WHO="S9"> okay. </U> plus the probability of A given not-B, times the probability that you're actually going to be given not-B. so the point is that you can't just assume, both B and not-B. which is what you're doing if you don't put in these weighting terms. </U>
+			<U WHO="S9"> alright. yeah i'll <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> does </OVERLAP> that make sense? i mean if not then <OVERLAP> ask another question, </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> yeah </OVERLAP> i know this one is right <EVENT DESC="LAUGH"/>
+				<OVERLAP> but </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay </OVERLAP> yeah and y- you can see mathematically why this isn't equal <U WHO="S9"> yeah </U> to that right? </U>
+			<U WHO="S9"> yeah, <OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> cuz i </OVERLAP> mean, th- the only way this is gonna be equal to that is it's the probability of B is one and the probability of not-B is one. and that's impossible. so, like if you were to know that B is true, <U WHO="S9"> mhm </U> then the probability of not-B would be zero. </U>
+			<U WHO="S9">
+				<OVERLAP> okay i kn-- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so you would </OVERLAP> be left with that. </U>
+			<U WHO="S9"> i know what you mean. okay. yeah. alright, so. and... <EVENT DESC="FLIPPING PAPERS"/> in, in task one, uh i can, prove it's sufficient, but how about in case it's it's not s- s- <OVERLAP> it's in- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> if </OVERLAP> it's not sufficient <U WHO="S9"> yeah </U> if it's insufficient then, <OVERLAP> what you should </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> (how do you) (express) </OVERLAP>
+				</U> do is say what extra piece of information you need, in order to get, it, so i mean, you don't have to do a formal proof, to show that it's insufficient, <U WHO="S9"> uhuh </U> but what you would have to do is to say, this is the extra piece of information i need and, i can't get it from the rest of them. and, like, you can explain why, but you don't have to prove, <U WHO="S9"> okay </U> that you can't get it. </U>
+			<U WHO="S9"> so, if any one of these uh, is sufficient in, part A, <OVERLAP> it should be, sufficient </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> if it's, sufficient </OVERLAP>
+				</U> in part B. <U WHO="S2"> yeah. </U> too <U WHO="S2"> yeah. </U> right? </U>
+			<U WHO="S2"> mhm. <OVERLAP> mhm. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> so </OVERLAP> you don't have to prove again. </U>
+			<U WHO="S2"> right. </U>
+			<U WHO="S9"> okay. </U>
+			<U WHO="S2"> yeah. cuz in part B what you can say is, it was sufficient i- in part A and i know extra stuff so th- therefore it's gonna be suf- sufficient here. </U>
+			<U WHO="S9"> okay. and (the) problem, <EVENT DESC="FLIPPING PAPERS"/> noisy-or. if you want to say you can apply nois- noisy-or you have to, <OVERLAP> prove the truth-table? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you have to do that. </OVERLAP> prove it? no, you don't have to prove it you have to calculate the values because these are just, <OVERLAP> (possibilities) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> yeah i mean, </OVERLAP> y- you you in all of these then you, need to calculate uh, uh, all the probability, <OVERLAP> here? </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah, uhuh. </U>
+			<U WHO="S9"> so, and they say, it's true so you can apply noi- <OVERLAP> noisy-or. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well </OVERLAP> so so as far as applying the noisy-or goes, you have to kn- know whether it's good to apply. so like in task four it tells you, you can go off and apply noisy-or so you can just assume that it's okay to do it. for task two, <U WHO="S9"> uhuh </U> it asks you whether you actually can apply noisy-or. so there you don't have the probability so you can't go and make a table like this. <U WHO="S9"> mhm </U> in task two what you want to say is, well noisy-or is appropriate because, how the network's set up and what things are in the network so, what i've been telling people is, look at the network and say, are these four causes of abdominal pain, the only possible four causes. if not then you need, something else, that models the fact that, there may be something else that causes abdominal pain. read about noisy-or in the book and it'll tell you something about that. </U>
+			<U WHO="S9"> yeah, i mean <U WHO="S2"> and </U> okay. if you, if you don't know (about) probability, how can you_ you said you can apply, <OVERLAP> noisy-or. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well, </OVERLAP> so you would you know you could only apply noisy-or if you knew, these individual probability tables. <U WHO="S9"> yeah. </U> so what you would have to d- have is um probability of abdominal pain given that punched-in-stomach is true, given that punched-in-stomach is false. </U>
+			<U WHO="S9"> mhm. but if you have, your individual tables here, you can have the, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you can </OVERLAP> do this but the question is does it make sense to do this. <U WHO="S9"> what </U> mathematically you can always take these tables and make this, but, say for example </U>
+			<U WHO="S9"> no i mean <OVERLAP> (maybe it) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> A </OVERLAP> and B were connected. so maybe, say that B could only be true if A was true. </U>
+			<U WHO="S9"> if, if you can not apply noisy-or, your tables, sh- shouldn't be like these. </U>
+			<U WHO="S2"> no. no if you can't apply noisy-or then this doesn't make any sense. this was just an example of the mathematics behind applying noisy-or this is not telling you when you can and when you can't use it. </U>
+			<U WHO="S9"> why not, i mean </U>
+			<U WHO="S2"> well i mean so, this is_ uh there's no commentary here this is just saying these are tables this is what you get if you use noisy-or. but this is not telling you, whether it makes sense to combine these probability tables, using the noisy-or. </U>
+			<U WHO="S9"> but if you cannot use, noisy-or the formula shouldn't, <OVERLAP> (be) this </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> if you </OVERLAP> can't use nor- noisy-or then, you shouldn't make one of these tables. i mean, the only thing this example was showing you was the math, this wasn't showing you, whether or not you could actually apply noisy-or in this case, <U WHO="S9"> mhm </U> you can apply noisy-or <U WHO="S9"> yeah </U> because i have no knowledge, except that A B and C, are the only things that can cause D, and it appears that A B and C are all independent, and i have these nice probability tables so just given this simple network noisy-or makes sense. </U>
+			<U WHO="S9"> so can i say, uh, if, all of these three nodes are independent, to, each other, then, you can <OVERLAP> apply </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> if </OVERLAP> they're independent, and, there is no other cause, for node D, then you should be able to apply noisy-or. </U>
+			<U WHO="S9"> how about if you have another node D here. can you apply <OVERLAP> (to this one?) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well (something) </OVERLAP> E? yeah. it it shouldn't be the same <OVERLAP> name. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="S2"> um, if you don't have one of those tables for node E, <U WHO="S9"> mhm </U> then there is a specific, um term for that in the book, and, you may or m- noisy-or construction becomes more difficult if you have a node E. </U>
+			<U WHO="S9"> but, you know they are independent. you do- don't have table (rather) you know that this node (are) independent. </U>
+			<U WHO="S2"> right. so you want to leave some of the probability left over for this node E right? but, i mean, so, you should still be able to apply noisy-or but you want to use some of the terminology in the book in that case because, if these aren't the only causes then what does that mean? how can you explain away the fact that you don't have, all of the, all of the causes? so basically just, write a paragraph that says, i can or can't use noisy-or, this is why, and, why being the dependencies, and, what does it mean t- that there may be other causes. <U WHO="S9"> okay </U> and the book will tell you something about, how you model, so what you want to do is you want to explain if i use noisy-or for this model, then i have to do, this and that <U WHO="S9"> okay </U> in order to be able <OVERLAP> to (u-) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> so, </OVERLAP> so, if you, if you can use noisy-or you just, make a table. <U WHO="S2"> yeah. </U> if you can not, you have to explain <OVERLAP> why. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> if </OVERLAP> you if you can't use noisy-or then, you can't make a table like this so you can't combine these probabilities in that way. <U WHO="S9"> yeah </U> so, if you can't use noisy-or then you have to have more information as far as like how your network's constructed or what you need to add to your network in order to calculate, the proper dependencies. cuz here you're just guessing. <U WHO="S9"> okay. </U> and how the- they connect to each other <U WHO="S9"> mhm </U> uh, the independence, relationships. </U>
+			<U WHO="S9"> (alright) thanks. <EVENT DESC="LEAVES"/>
+			</U>
+			<U WHO="S2"> sure. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay. i still couldn't, prove, that, that they were, for part B doing this one, <U WHO="S2"> mhm </U> i still can't, i still say it's insufficient. <U WHO="S2"> kay </U> cuz no matter how i, do it, i always come up with, things i can prove over P-one_ P of E-one and P of E-two. </U>
+			<U WHO="S2"> okay, but can you get P of E-one can you get P of E-two? </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S1"> oh. P of E-one (would) be... no, you can't. because to get i would need P of, H given E-one, or P of H or_ and P of H given E-two and i don't have either of those. otherwise i could get it. <PAUSE DUR=":07"/> cuz i've rearranged it every one of these i can, <U WHO="S2"> mkay </U> check off. </U>
+			<U WHO="S2"> let me_ i'm i'm buying into your algebra let me look at the solution and make sure that, they're not doing something that i can't think of. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S1"> is this the solution for the book? </U>
+			<U WHO="S2"> no no no. </U>
+			<U WHO="S1"> oh. okay. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"> no this is the uh, every other homework i always keep the answers with me because, this is not my homework so, <U WHO="S1"> oh. </U> i don't like to tell people stuff that's uh, off the official answer. </U>
+			<U WHO="S1"> did (Sun) write this one? </U>
+			<U WHO="S2"> yeah. <PAUSE DUR=":17"/>
+				<EVENT DESC="LAUGH"/> oh this is great. i hate that. so in part one she gave a very detailed explanation of why it was true and in part three she just said sufficient and, didn't give the explanation of why. so... i guess that means i need to do math now. </U>
+			<U WHO="S1"> well, <OVERLAP> there </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> as long as nobody else is here and has questions i'll try it too. </U>
+			<U WHO="S1"> there are two ways you can get to it. you can break up, probability of H given E-one and E-two this way, <U WHO="S2"> yeah. </U> which, this one reduces to, the form i've written here. <U WHO="S2"> mhm </U> because, they said it was given, <U WHO="S2"> mhm </U> that those two are equal or i could try it this way. just with, A given B is B given A, <OVERLAP> (probability) (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah. </OVERLAP> yeah i mean the the reason i want to try it is just because, her answer says that it's sufficient so, this is an answer that she made quickly so, she may have changed her mind by now and said it's insufficient but, this is what i have so, i i don't want to tell you that, you have thought of everything unless, your answer agreed with hers. so, it's i just want to do some math so <U WHO="S1"> yeah </U> un- until other people come and show up, lemme uh, so the problem says_ ma- make sure this old version agrees with that. you're given P-H P-E-one H and P-E-two given H. right yeah. mkay. </U>
+			<PAUSE DUR="1:24"/>
+			<U WHO="S2"> i don't think your (hand) (xx) </U>
+			<U WHO="S1"> um, i don't know. <U WHO="S2"> okay </U> not that it (reminded) me. </U>
+			<U WHO="S2"> yeah. that's, that's all that matters. </U>
+			<PAUSE DUR="1:45"/>
+			<U WHO="S2"> i'm probably getting the same thing you are. </U>
+			<U WHO="S1"> i get_ no matter how i do it i get, probability of E-one times probability of E-two in the denominator. </U>
+			<U WHO="S2"> yeah. i'm getting the same thing. and you just don't have that. so, okay, i'll send some email to (Sun,) and uh i i would write what you found, and if i find out something different i'll send you email. </U>
+			<U WHO="S1"> mkay. it looks like (she's in line.) </U>
+			<U WHO="S2">
+				<OVERLAP> can </OVERLAP> you remind me of your email address? <OVERLAP> i know you're </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh, </OVERLAP> S K T I M? </U>
+			<U WHO="S2"> S K T I M </U>
+			<U WHO="S1"> at EECS. </U>
+			<U WHO="S2"> at EECS. okay. </U>
+			<U WHO="S10"> (hey) </U>
+			<U WHO="S2"> hello </U>
+			<U WHO="S10"> hey, um, for problem three, uh this is_ this number is what i got from the computer using Java, <U WHO="S2"> uhuh </U> and this one is what i calculated so could you give me an idea which one is correct (or not?) </U>
+			<U WHO="S2"> okay for, this is the one you calculated? </U>
+			<U WHO="S10"> no this one i got um, from computer <OVERLAP> (from Java) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay </OVERLAP> and this is the one you calculated. <U WHO="S10"> right. </U> (five-one.) lemme uh, look at the official, calculation and see </U>
+			<U WHO="S10"> (on the task three) </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S2"> part A? </U>
+			<U WHO="S10"> A this is A B C. </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<PAUSE DUR=":05"/>
+			<U WHO="S10"> (none of them are correct?) </U>
+			<U WHO="S2"> oh yeah the answer has something different but i think there's a <U WHO="S10"> okay </U> there was a problem in the calculation of the answer so, <U WHO="S10"> oh. </U> um </U>
+			<U WHO="S10"> but this one should be right right? </U>
+			<U WHO="S2"> if_ yeah if your network has been comp- been entered in Java correctly that one should be right. </U>
+			<U WHO="S10"> so none of these are correct. </U>
+			<U WHO="S2"> well no i this is <U WHO="S10"> oh okay so </U> this is a very early solution so <U WHO="S10"> uhuh </U> i think the solution has been modified so i'm laughing because i think what this means is that, um the solution itself is not correct so, <U WHO="S10"> okay </U> i need to get a calculator and figure out whether </U>
+			<U WHO="S10"> mhm how about this one, uh maybe if i can get this one right then (probably) this one, will be right. (right?) </U>
+			<U WHO="S2"> for part four? </U>
+			<U WHO="S10"> yeah </U>
+			<U WHO="S2"> um, i mean part four you're using a different_ slightly different model right because you're incorporating that additional, <U WHO="S10"> oh yeah </U> evidence. <U WHO="S10"> okay </U> or additional causes. </U>
+			<U WHO="S10"> okay i will check that out and see which one is right </U>
+			<U WHO="S2"> okay um i mean i can go through and do these calculations again, <OVERLAP> but um </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> right now? </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah, w- is there anybody waiting? if there's nobody waiting i'll i'll_ i brought a calculator today, for just such an emergency. </U>
+			<U WHO="S1"> just a quick question, this is yes or no so it doesn't take any time. </U>
+			<U WHO="S2"> okay. come in here so they can hear. </U>
+			<U WHO="S1"> oh. quick question <EVENT WHO="S2" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> does this, abdominal pain carry over in the next one so you now have two things of evidence or is this the only thing of evidence? </U>
+			<U WHO="S2"> oh um abdominal pain is there too, so_ cuz it says additional evidence. </U>
+			<U WHO="S1"> okay. <EVENT WHO="S1" DESC="LEAVES"/>
+			</U>
+			<U WHO="S2"> okay, so, here we go. <PAUSE/> so we have, <EVENT DESC="USING CALCULATOR"/> point-nine times point-five-four times point se- oops. i'm starting out badly. point-nine, times point-five-four, times point-seven. point three-four-oh-two. point-nine, point-one-two, times, point-oh-six point-seven, point-seven-eight-nine-eight, point-six, point-oh-six point-seven, point-six, point-two-eight, point-three. now there's just a decimal point in the wrong place, now let's add these up. <EVENT DUR=":16" DESC="PAUSE"/>
+			</U>
+			<U WHO="S10"> i think i found... an error <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> in your </OVERLAP> calculation. </U>
+			<U WHO="S2"> yep this this answer that she got was right before there was one of the intermediate steps that wasn't right. </U>
+			<U WHO="S10"> so, s- so neither of them is right. </U>
+			<U WHO="S2"> that's correct. </U>
+			<U WHO="S10"> (okay) (xx) (calculation but) i don't <OVERLAP> understand </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> for </OVERLAP> part C that looks right. </U>
+			<U WHO="S10"> this is right. </U>
+			<U WHO="S2"> that's pretty close to right yeah. that's at least_ the the second decimal place so the point-eight part is right for part C. but the second decimal place looks a little off. </U>
+			<U WHO="S10"> okay but i think i found my one error i thought this is um, this should be, reversed, (xx) </U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S10"> thank you. </U>
+			<U WHO="S2"> sure. <PAUSE DUR=":06"/> next <EVENT DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":37"/>
+			<U WHO="S8"> can i ask you some questions? </U>
+			<U WHO="S2"> sure. </U>
+			<U WHO="S8"> okay. um, just to make sure i'm doing this right, <U WHO="S2"> mhm </U> that i'm thinking about it right, <U WHO="S2"> mhm </U> like this is evidence, <U WHO="S2"> mhm </U> then i can apply, the rule where these two come in, to an evidence node, <U WHO="S2"> mhm </U> and, in that case these would be, um, you know these would be, ind- um </U>
+			<U WHO="S2"> independent if that's evidence or independent if that's not evidence? </U>
+			<U WHO="S8"> if it's not evidence <U WHO="S2"> right </U>
+				<OVERLAP> it should be independent. okay so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right. so if that's </OVERLAP> evidence then those two are dependent. </U>
+			<U WHO="S8"> dependent. <OVERLAP> right. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="S8"> so, these are dependent, these are dependent, these are dependent, <U WHO="S2"> yep </U> and, since these feed into here, <U WHO="S2"> mhm </U> then these would also be, not independent with this. <U WHO="S2"> right. </U> okay. and then, up here, since this feeds into here, and these feed into here, <U WHO="S2"> mhm </U> they wouldn't be, independent of this. <U WHO="S2"> right. </U> and since, now this uh this feeds in here so this affects allergy. <U WHO="S2"> mhm </U> it also affects bad breath. <U WHO="S2"> right. </U> so, these two, would also not be independent of this. <U WHO="S2"> that's correct </U> okay. (Sun hi) came by to correct me. </U>
+			<U WHO="S2"> yeah. so part A (ends the) answer's kind of scary but, it's, <U WHO="S8"> not <EVENT DESC="LAUGH"/>
+				</U> that's right yeah. </U>
+			<U WHO="S8"> okay. and then, i guess if i'm thinking about it right i should have this, correct i think. but, in in the case where these are both evidence, then these, two would be independent if this is evidence, <U WHO="S2"> mhm </U> so then these would be independent, um, and there's_ so this is blocking i guess, <U WHO="S2"> mhm </U> uh punched-in-stomach and itch, or eat-apples or eat-fish, um, yeah so these would be, independent of, punched-in-stomach. </U>
+			<U WHO="S2"> right. but you have to be careful about the uh the rash one. </U>
+			<U WHO="S8"> the rash one right. <U WHO="S2"> yeah </U> cuz stress goes into there and there's no blocking, <U WHO="S2"> yeah </U> between there, okay. so rash, but, let's see. but bad breath would, be independent because, or, are these ar- can you go both ways on these arrows or </U>
+			<U WHO="S2"> what do you mean both ways? <U WHO="S8"> mm </U> you have to use one of the rules for everything. </U>
+			<U WHO="S8"> okay. eat-fish is, independent, of punched-in-stomach. </U>
+			<U WHO="S2"> via that path yes. </U>
+			<U WHO="S8"> which means that bad breath since coming from here would also be independent. </U>
+			<U WHO="S2"> yeah. but i- they have to be independent on all the paths so now you have that punched-in-stomach via allergy is independent of eat-fish and bad breath. but is, eat-fish independent of punched-in-stom- stomach if you come this way. </U>
+			<U WHO="S8"> not via rash. </U>
+			<U WHO="S2"> okay. is it not? </U>
+			<U WHO="S8"> mm, not. wait. is this independent of this? </U>
+			<U WHO="S2"> right. </U>
+			<U WHO="S8">
+				<OVERLAP> via rash? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> if you </OVERLAP> ignore the allergy path and just look at the rash path. </U>
+			<U WHO="S8"> um, let's see... um, i'd say it would be. <U WHO="S2"> mkay </U> because, this only goes, that way. </U>
+			<U WHO="S2"> yeah. mhm, mhm </U>
+			<U WHO="S8"> okay. okay (then.) um, and, i, worked out, the um, the task four with th- um, the noisy-or, <U WHO="S2"> mkay </U> and, i wanted to see if i was doing it right cuz i followed what they, did in the book, <U WHO="S2"> yeah uhuh, that's good </U> um, they l- what they did they took the probability of, say, sunset given, each of these, <U WHO="S2"> uhuh </U> and that was, a number and then, you take one minus that number, <U WHO="S2"> mhm </U> and then, take there's true y- y- you, well if there's a true here, you count that number, <U WHO="S2"> right, mhm </U> and if there's three trues you multiply them. <U WHO="S2"> yeah. </U> and then, you'll end up with this and then you just, subtract one to get this value... subtract this from one, and get </U>
+			<U WHO="S2"> yeah, okay i w- i woulda thought that you went the other way. <U WHO="S8"> oh. </U> cuz i mean in class we did the, probability of sunset is equal to the probability of O plus, one minus the prob- one minus probability of O, times the quantity and then we combine those, <U WHO="S8"> okay </U> which i- probably gives you the same thing. </U>
+			<U WHO="S8"> i think is, i think it's exac- <OVERLAP> it looks like the same. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah i think it is. </OVERLAP>
+			</U>
+			<U WHO="S8"> okay. <U WHO="S2"> mhm </U> and then, okay </U>
+			<U WHO="S2"> so and then the one_ i mean it's easy to check the ones that are just individually true because you can just look at the table and say uh <U WHO="S8"> right. </U> okay. </U>
+			<U WHO="S8"> yeah. (i got it.) </U>
+			<U WHO="S2"> yeah okay. that sounds right. </U>
+			<U WHO="S8"> okay. so, okay. uh... okay, yeah that's gonna be (good) enough. </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S8"> thank you. </U>
+			<U WHO="S2"> sure. </U>
+			<U WHO="S11"> hi. </U>
+			<U WHO="S2"> you ready to get on tape too? <EVENT DESC="LAUGH"/> ah yes i know_ i remember you because of these dotted lines, <OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> yeah </OVERLAP> yeah. uh, i'm okay on this one though. <U WHO="S2"> mkay. </U> this is uh, evidence? <U WHO="S2"> yeah mhm </U> and uh, we're going to see, if any of uh, if any of these nodes are independent of (this.) i know this is uh, dependent <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah. mhm. </OVERLAP>
+			</U>
+			<U WHO="S11"> this is dependent_ or these should be both dependent on this, <U WHO="S2"> mhm </U> if given only this evidence. <U WHO="S2"> yeah </U> but i don't know if this one is, dependent (or not) </U>
+			<U WHO="S2"> well is this one dependent on that? </U>
+			<U WHO="S11"> should be yeah. </U>
+			<U WHO="S2"> okay. since this one's dependent on that one that one's dependent on that one that one's dependent on that then, it is. </U>
+			<U WHO="S11"> this is evidence. </U>
+			<U WHO="S2"> well so, but but yeah. so th- the point is can you follow a chain, all the way to punched-in-stomach, and so you have that stress, is dependent on punched-in-stomach. </U>
+			<U WHO="S11"> so, so (is) this way? </U>
+			<U WHO="S2"> so that one is also. </U>
+			<U WHO="S11"> so i know y- if this, this point R (that if it sends) some nodes (xx) this is one is uh, dependent on this. </U>
+			<U WHO="S2"> that one's dependent on that yeah mhm </U>
+			<U WHO="S11"> right. oh this one you mean the arrow, points <OVERLAP> (that way not this way also becau-) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well so so the point </OVERLAP> is can you apply any of those three rules, for separating the network into parts. <U WHO="S11"> yeah i guess so </U> and in this case you can't because you have, dependency that comes from abdominal pain up to stress so you have some sort of evidence about stress, based on abdominal pain evidence. <U WHO="S11"> mhm </U> the fact that you know abdominal pain changes the probability of stress a bit. since you have that, you can't apply rule three, to separate these, <U WHO="S11"> yeah alright </U> which is what you would ordinarily apply, <U WHO="S11"> right, yeah </U> so since you can't apply rule three to separate these, now this is dependent. </U>
+			<U WHO="S11"> this is dependent on what? </U>
+			<U WHO="S2"> so this is dependent well so these are dependent on each other, <U WHO="S11"> yeah </U> but because this is a chain, um, and you don't have all of the evidence about this one, this chain isn't broken. so, midterm depends on stress which depends on abdominal pain. and a- <U WHO="S11"> (to b- ) </U> abdominal pain depends on punched-in-stomach. so, <OVERLAP> you basically </OVERLAP>
+				<U WHO="S11">
+					<OVERLAP> yeah oh okay </OVERLAP>
+				</U> just work your way through and find all of the chains, </U>
+			<U WHO="S11"> cuz i don't know when it sh- where it bloke broke or where it's it is not </U>
+			<U WHO="S2"> well if you were_ if you knew stress is evidence, <OVERLAP> then uh, then </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> y- oh yeah th- in this case yeah this, this sh- </OVERLAP>
+			</U>
+			<U WHO="S2"> midterm would not be connected to abdominal pain if <U WHO="S11"> yeah </U> you knew stress is evidence. <U WHO="S11"> alright. </U> but since you don't know stress, then midterm is dependent on stress which is dependent on abdominal pain. </U>
+			<U WHO="S11"> okay but y- in this case these, these two are not </U>
+			<U WHO="S2"> those two are not dependent on each other. <OVERLAP> well yeah well, </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> oh th- they are dependent </OVERLAP>
+			</U>
+			<U WHO="S2"> they are because you're getting evidence <U WHO="S11"> cuz they, oh okay </U> from abdominal pain. if you look at rule three then it matters whether the children have evidence or not also. </U>
+			<U WHO="S11"> so basically for this this chain is (xx) </U>
+			<U WHO="S2"> is that a guess or have you worked through it, <OVERLAP> to see? </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> i i have </OVERLAP> to, i ha- i- if, if this way is dependent on this result then uh (xx) </U>
+			<U WHO="S2"> okay. that's that's the case but but i just wanted to make sure you'd work through it. </U>
+			<U WHO="S11"> yeah, so i don't, i'm not sure if this one is dependent on this <U WHO="S2"> yeah mhm </U> (xx) so if this, <OVERLAP> okay fo- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> for part B </OVERLAP> though it's uh it's not quite so simple. </U>
+			<U WHO="S11"> mm, but i </U>
+			<U WHO="S2"> i mean it's it's simple but, th- the answer is not all of them in part B. </U>
+			<U WHO="S11"> y- yeah. this one must be, independent of this one. <U WHO="S2"> mhm, mhm </U> cuz it's broke i- it's broken right? <U WHO="S2"> that's right </U> broken by this one. but, all these are st- still same thing to me. <U WHO="S11"> mhm </U> i take this one, and these two are (xx) these these two_ let me see_ this is evidence, so, we can apply, yeah this is blocked. right? </U>
+			<U WHO="S2"> why is that blocked? </U>
+			<U WHO="S11"> this is evidence. <U WHO="S2"> yep, mhm </U> and this is is </U>
+			<U WHO="S2"> so it's blocked from there but it's not blocked from here, <U WHO="S11"> ah </U> so whatever this is cuz i m- see this is rule three again, <U WHO="S11"> yeah </U> so you have to look back through here, and say </U>
+			<U WHO="S11"> why, why it's rule thr- oh rule three said if this is evidence this_ these <OVERLAP> then those </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> then those two </OVERLAP> are not blocked. </U>
+			<U WHO="S11"> yeah. <U WHO="S2"> yeah </U> these two. <U WHO="S2"> uhuh </U> and it <OVERLAP> so these (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so you </OVERLAP> have to work through all of the paths so in order to say any of these are independent you have to both work through this path, which allows you to say that they are independent, but then <OVERLAP> you have to come back this way also. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> what, oh yeah, this way, yeah. </OVERLAP>
+			</U>
+			<U WHO="S2"> and you have to decide, well so if rash is dependent on this punched-in-stomach, <U WHO="S11"> (just w-) </U> then well eat-fish is dependent on it also. <U WHO="S11"> s- s- </U> so work your way back this way and see if those are dependent also. </U>
+			<U WHO="S11"> ah, so this one is dependent on this one this one is dependent on this one. </U>
+			<U WHO="S2"> right. but but well so then the question is... is this one dependent on that one? that's the key is stress dependent on eat-fish? </U>
+			<U WHO="S11"> stress dependent on eat-fish... (xx) </U>
+			<U WHO="S1"> (depends) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> don't say that. <EVENT WHO="S1" DESC="LAUGH"/>
+			</U>
+			<U WHO="S11"> yeah this is uh </U>
+			<U WHO="S2"> joke, ar-ar. and that's the <OVERLAP> key. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> oh </OVERLAP> yeah. this is not evidence so this is not broken so </U>
+			<U WHO="S2"> um i don't know is it broken? well l- look at this, versus the rules that you have. </U>
+			<U WHO="S11"> this is this... uh, uh, so r- rule says only when there's two other nodes, <OVERLAP> (something like that) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh well </OVERLAP> no that's i- just saying if there are any other nodes down here if you have those as evidence then that, makes it not blocked, <OVERLAP> or makes </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> if there's </OVERLAP> no, nodes? </U>
+			<U WHO="S2"> but if there's no nodes down there then rule three can still apply. <U WHO="S11"> oh, okay </U> you just don't know any evidence about any of the nodes down there which is good </U>
+			<U WHO="S11"> so this, this one is, so this one is blocked? <U WHO="S2"> yep </U> oh. so this is blocked this is blocked </U>
+			<U WHO="S2"> yep. and you're missing one. </U>
+			<U WHO="S11"> this one. </U>
+			<U WHO="S2"> yep. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> and that one too right? </U>
+			<U WHO="S11"> this one is blocked? </U>
+			<U WHO="S2"> maybe. think about it. is it? i mean, y- you'r- you're gonna ha_ go off and think about that one i don't want to tell you the whole answer, go off and think about that one. <U WHO="S11"> (xx) </U> yeah. so. </U>
+			<U WHO="S11"> (oh i sh-) okay. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> so, if you get it back and it says minus-one you're gonna say oh <EVENT DESC="BANGS DESK"/> that stupid T-A on Friday didn't tell me the answer, <U WHO="S11">
+					<EVENT DESC="LAUGH"/>
+				</U> but i mean you've you figured it out mostly for yourself i just verified so so... </U>
+			<U WHO="S11"> the the first one is just we say, when we apply, that (xx) that what what's the name of that rule </U>
+			<U WHO="S2"> Bayes' rule? </U>
+			<U WHO="S11"> Bayes' rule and the </U>
+			<U WHO="S2"> you have to apply Bayes' rule <U WHO="S11"> yeah </U> and then you have to just manipulate things here and there, <OVERLAP> to see </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> and </OVERLAP> (to find A for a- all the, things at that side where we give about it) </U>
+			<U WHO="S2"> yeah. mhm. </U>
+			<U WHO="S11"> so i figure out only this (makes it.) </U>
+			<U WHO="S2"> okay. you still have to do part B but yeah. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S11"> uh, okay. okay thank you. </U>
+			<U WHO="S2"> sure. </U>
+			<U WHO="S1"> um... </U>
+			<U WHO="S2"> he's back </U>
+			<U WHO="S1"> yeah. <OVERLAP> i'm just making sure </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and he's made things </OVERLAP> shaded, yes. </U>
+			<U WHO="S1"> the D-separation was giving me trouble before. <U WHO="S2"> mkay </U> uh the first one with just that, as evidence, <U WHO="S2"> mhm </U> there's nothing you can say about anything cuz none of these rules applies really. <U WHO="S2"> good </U> but my problem is even with the second one in there, if none of these rules applied the first time they're not going to apply </U>
+			<U WHO="S2"> sure they are. you want them to block right so now all of a sudden i mean if you just look locally eat-fish and itch are blocked right by rule one? that doesn't help you much here cuz i didn't wanna tell you the answer. <U WHO="S1"> right </U> so is anything else blocked? </U>
+			<U WHO="S1"> well the thing that confuses me is, and this confused me in lecture, seeing that sometimes you treated it as if there were an arrow pointing that way and sometimes you didn't. </U>
+			<U WHO="S2"> mm, you shouldn't treat it like there's an arrow <OVERLAP> pointing that way </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right i </OVERLAP> couldn't say that these two are independent cuz there's no, chain_ well there's no rule one chain going to it, no matter how you </U>
+			<U WHO="S2"> well you don't want a chain if there's no chain that means they're independent. i mean think about it if you had two networks that had no connections between them then those two networks are gonna be i- independent even though none of these rules apply. </U>
+			<U WHO="S1"> right but... it just seems like this is going to be </U>
+			<U WHO="S2"> so think in terms of those three rules still. so, <OVERLAP> since you know allergy </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but, with this still </OVERLAP> there, and only one arrow pointing in from here? <U WHO="S2"> mhm </U> i don't see how anyth- this is gonna depend on anything. </U>
+			<U WHO="S2"> how it's going to depend on anything? </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S2"> well you just said everything depended on it. <U WHO="S1"> um </U> cuz, you're supposed to list the stuff that's independent of punched-in-stomach <OVERLAP> and you said everything's </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> let me rephrase that, </OVERLAP> talking about the independence, <U WHO="S2"> kay </U> given just this as evidence i don't know, anything about the independence so i can't say, one is independent of the other. </U>
+			<U WHO="S2"> sure you do. you know the independence you know this one is not independent of that one, you know this one's not independent of that one. you know that it doesn't matter for this one because you're given that one as evidence. </U>
+			<U WHO="S1"> yeah there are too many double negatives floating around </U>
+			<U WHO="S2"> okay. so, i think the key here is for me to tell you, <U WHO="S1"> well </U> one of the independents so </U>
+			<U WHO="S1"> no, the key is uh, do it on a different network so i <U WHO="S2"> well </U> can apply it to </U>
+			<U WHO="S2"> do you have the example from the web, with you? </U>
+			<U WHO="S1"> um the one you did in class, you mean? <U WHO="S2"> yeah. mhm </U> i didn't really, follow all of that one </U>
+			<U WHO="S2"> okay. let's go there so that at least someone will use it. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> you can run Netscape off here? it wouldn't let me do it. </U>
+			<U WHO="S2"> i logged in elsewhere to start it up. <U WHO="S1"> hm </U> i logged into Crusty actually which Jeff hates me for, my s- Netscape from Crusty but oh well he won't he won't find it. okay. <PAUSE DUR=":07"/> it's not the fastest in the world. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S1"> maybe i answered the first one too hastily without actually knowing </U>
+			<U WHO="S2"> no. you may have gotten lucky on that one but, it is kind of good for you to know because i guarantee you there'll be some of this on the exam because this is one of those fast things that, are good exam questions because, you don't have to do all the calculation. <PAUSE DUR=":05"/> so... i mean, so this is a simpler network but the idea is, still that, you can apply these three rules to various parts of the network so </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S2"> so i mean the the simplest case is if you know node three then one nodes one and <OVERLAP> five are </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> actually </OVERLAP> this isn't representative at all because here <U WHO="S2"> sure it is </U> we've got a bunch of 'em pointing inwards toward <OVERLAP> the nodes though </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well here you </OVERLAP> have node one and two that point in to node four. </U>
+			<U WHO="S1"> okay but they're not, they're not individual nodes. </U>
+			<U WHO="S2"> huh? well that doesn't matter. i mean if they were individual nodes it would still be the same application of rule three. <U WHO="S1"> right </U> i mean i didn't want to give you something that had the exact same structure as <OVERLAP> that </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i </OVERLAP> know, i <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> so i mean the idea is that the rules are applied in the same way. so, here, i mean you can look at the network locally and you can say, um, eat-apples is independent, of the stuff down here, because allergy b- breaks the chain between eat-apples and the stuff <OVERLAP> down here </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no but </OVERLAP> these, don't follow rule one because, the arrows are pointing in the wrong direction, these arrows are <OVERLAP> pointing this way (here) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no no no but </OVERLAP> you look at it locally, and so basically you're just saying eat-apples is separated from abdominal pain. <U WHO="S1"> oh, okay </U> and then, the only connection to eat-apples, well ignoring this part the only connection to eat-apples, to the rest of the world is through abdominal pain and since_ i mean so, the idea was that these are sets, X and Y, <U WHO="S1"> right </U> and so X and Y can have any number of nodes in them so right like, right here, what this is saying is that nodes one and two, are separate sets. if if you don't know node four. <U WHO="S1"> that, i understand that </U> and so that means that, node three is also independent of two node five is independent of two because, one three and five are members of set X, and two and eight are members <OVERLAP> of set Y </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that i understand </OVERLAP> but, that, <OVERLAP> like you said </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it's the same thing here </OVERLAP>
+			</U>
+			<U WHO="S1"> that's a simple example because you can't really divide anything in this <OVERLAP> example like that </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> sure y- </OVERLAP> well yes you can, i mean you can defides, you can define_ divide simple things like P-S-five and midterm, using that rule but you can also divide things using rash right? </U>
+			<U WHO="S1"> these two can be divided </U>
+			<U WHO="S2"> right and that's the whole network i mean you're dividing, i mean, y- when you know allergy and you know that this connection is broken because you know allergy, then you're also dividing, stuff out based on that right? </U>
+			<U WHO="S1"> you mean like, consider it breaking it right there and there? </U>
+			<U WHO="S2"> yeah, mhm. </U>
+			<U WHO="S1"> so this is independent of that <PAUSE DUR=":08"/> since i know this i can't say that this, so this is, a network right here, <U WHO="S2"> mhm </U> but i can't say anything about that because, for the same reason i couldn't say anything about it in part one. <U WHO="S2"> right. </U> so there's nothing i can say about that over there </U>
+			<U WHO="S2"> well you can say they're all dependent right </U>
+			<U WHO="S1"> well yeah but <OVERLAP> you're asking for </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> that's that's something </OVERLAP> to say, y- i mean but that's something to say is the the fact that you're saying all they're all dependent means that, you know something about them </U>
+			<U WHO="S1"> mhm. so now, since i've worried about all that, i just have this part of the network left. <U WHO="S2"> mhm </U> um, this is out also. oh no it's not </U>
+			<U WHO="S2"> what do you mean it's out? </U>
+			<U WHO="S1"> i was going to say this, is broken here but it's <PAUSE DUR=":07"/> i know this and this are independent but what does that, that doesn't break the dependence of, rash on eat-fish </U>
+			<U WHO="S2">
+				<OVERLAP> yeah i mean </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh </OVERLAP> and once this is out i can collapse these as one, node right? i mean as one evidence node? </U>
+			<U WHO="S2"> yeah mhm </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S2"> does that help? </U>
+			<U WHO="S1"> no it doesn't. actually yeah it makes this independent of that. </U>
+			<U WHO="S2"> huh? </U>
+			<U WHO="S1"> i mean, it makes this dependent, oh no it doesn't cuz that breaks a link too, yeah, it makes this conditionally independent of that. <U WHO="S2"> mm yeah mhm </U> because you've got, if these can be collapsed as one and this, i don't have to worry about that arrow going the wrong direction. so that would now_ that's legal right? since i've taken off this part of the network by showing it's, conditionally dependent? <U WHO="S2"> mhm </U> then i'm just left with one, with one arrow going, <U WHO="S2"> yeah, mhm </U> between these two. <U WHO="S2"> mhm </U> and since there's only one i consider this as one evidence node now, right? </U>
+			<U WHO="S2"> yeah that may actually hurt you later but yeah you can do that <OVERLAP> for now </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well </OVERLAP> doesn't that now show that, these two are conditionally dependent? <OVERLAP> or independent? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> dependent? </OVERLAP> independent yeah </U>
+			<U WHO="S1"> independent i mean? </U>
+			<U WHO="S2"> yep mhm </U>
+			<U WHO="S1"> okay but how does that, how does collapsing this hurt me later then? </U>
+			<U WHO="S2"> well i do- i don't know that it will i'm just thinking about all the rest of this stuff for example </U>
+			<U WHO="S1"> i mean if i've reduced it so that there's only one arrow, combining two evidence <OVERLAP> nodes </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well </OVERLAP> so what that means is if y- if you uh, if you collapse these into the same node </U>
+			<U WHO="S1"> i can't do that with these here, but <OVERLAP> since i've pruned this off </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right so so if you </OVERLAP> collapse these_ well but, can you just prune them off if you're actually collapsing these into one node? </U>
+			<U WHO="S1"> well that's (what) i'm saying and since i've showed that, when i broke it here, and then i've showed that these are all conditionally dependent. </U>
+			<U WHO="S2"> right right right, but but the point is if you're, actually physic- if if you're making these one node, then that means that the arrows into this one, combined node include this one this one that one that one and that one. <U WHO="S1"> mhm </U> whereas if you leave them as separate nodes then you only have these two arrows, and these going in. </U>
+			<U WHO="S1"> okay but if i leave them as two nodes then i can't say that these two are independent by_ or conditionally dependent because of rule (one) </U>
+			<U WHO="S2"> well yes you can </U>
+			<U WHO="S1"> why? this arrow is going in the wrong direction </U>
+			<U WHO="S2"> well no d- all you have to do is to say, that by rule two, this one and that one are independent. because this is part of set X and that's part of set Y. </U>
+			<U WHO="S1"> oh the fact that this is an evidence node doesn't change that. </U>
+			<U WHO="S2"> no. no that doesn't change for these it just changes for all of the things in the center so, can i mark? </U>
+			<U WHO="S1"> sure. </U>
+			<U WHO="S2"> all of these, have to be specifically evidence or not evidence but the ones out here, <U WHO="S1"> okay </U> don't matter because this is just, set X, and set Y </U>
+			<U WHO="S1"> which could have any number of <OVERLAP> evidence or non-evidence </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> which could have any number </OVERLAP> of evidence yeah. </U>
+			<U WHO="S1"> okay that's what i didn't understand </U>
+			<U WHO="S2"> but i mean it also matters for these child nodes here if you have evidence of one of the child nodes for rule three then rule three doesn't apply anymore. </U>
+			<U WHO="S1"> okay, so this is rule two saying that these two are conditionally independent, <U WHO="S2"> yeah </U> um </U>
+			<U WHO="S2"> so like here since you have this one as evidence rule three does not split those two anymore. </U>
+			<U WHO="S1"> okay. but then, i guess i jumped ahead by saying this was conditionally independent of that, because knowing this is independent, of that_ oh this is part of </U>
+			<U WHO="S2"> yeah, that's <U WHO="S1"> oh </U> that's fine. </U>
+			<U WHO="S1"> okay. <PAUSE DUR=":04"/> hm. so really my splitting off this and showing all this was conditionally dependent didn't really mean anything. </U>
+			<U WHO="S2"> it did mean something it meant that you didn't have to go back and look at it again </U>
+			<U WHO="S1"> well it didn't help me, for this though </U>
+			<U WHO="S2"> yeah it did because, there's two ways to get over to all these nodes. there's this way which you've shown is conditionally independent, so you can break the network here, which simplifies it a lot, and you can effectively ignore this this link here. <U WHO="S1"> mhm </U> so that lets you s- divide the network into halves that are only connected by this one arrow. <U WHO="S1"> oh, okay </U> that does help. so now you just have to look and see, um, <OVERLAP> what all over here is </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so that's what, that's what </OVERLAP> was confusing me the arrows are only important when you're dividing it and then once you've divided it, you don't really consider the arrows anymore it's just a link of, <U WHO="S2"> yeah </U> of blobs or whatever. which is considered, network so, <U WHO="S2"> mhm </U> this is considered part of abdominal pain's network. <U WHO="S2"> mhm </U> so you can say that this, is part of that just like you were saying three and five were part of one. <U WHO="S2"> yeah </U> if you had double arrows going from_ like if the arrows were reversed for, three and five, <U WHO="S2"> mkay mhm </U> you could still say that two was independent of three and of five. <U WHO="S2"> yeah </U> okay. alright that's what was getting me... alright. okay, and explain whether it would make sense to model this as noisy-or_ that's assuming these two things again right? or is it <U WHO="S2"> nope </U> just in general? </U>
+			<U WHO="S2"> no because it doesn't make sense if you already know abdominal pain then it doesn't matter, how you model it because you know what it is. so, actually you shouldn't assume you have evidence for part C. </U>
+			<U WHO="S1"> okay. and in assuming eviden- no evidence for part C, i can again break this, <U WHO="S2"> sure, mhm </U> network here so, i have in effect shown that these, four things are independent. cuz this doesn't depend on that, or that or that. </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S1"> s- which is one of the prerequisites for noisy-or. <EVENT DESC="GASP"/> oh wait no i can't show... </U>
+			<U WHO="S2"> i mean uh the point is you don't know what you have as evidence so it's possible that you might have rash as evidence... <U WHO="S1"> okay </U> so you wanna be careful when you state your assumptions if y- if you say i assume, that i have no evidence </U>
+			<U WHO="S1"> right i wrote since we don't have rash as evidence, <U WHO="S2"> yeah </U> stress is independent of allergy. </U>
+			<U WHO="S2"> right but if you had, rash as evidence then, <U WHO="S1"> okay </U> then that's not the case anymore. so if you had rash as evidence maybe noisy-or wouldn't make sense. <U WHO="S1"> right. </U> so you want to be clear on that. </U>
+			<U WHO="S1"> i'm assuming no evidence. </U>
+			<U WHO="S2"> okay. <OVERLAP> in w- well, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> in which case it would be o- </OVERLAP> if you have no evidence then you can break it here and you can show that all these are independent. <OVERLAP> by rule three. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right and, </OVERLAP> also you want to discuss what if uh, those aren't the only causes of abdominal pain and your network is just inaccurate. </U>
+			<U WHO="S1"> oh. well <OVERLAP> that's the, that's the </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> so talk about that </OVERLAP>
+				</U> other assumption i made, uh and other causes are independent. </U>
+			<U WHO="S2"> mhm. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S2"> other causes are independent? what do you mean? </U>
+			<U WHO="S1"> that the other causes are independent of each other and that they're all listed. there are no <OVERLAP> other (uh) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you're </OVERLAP> assuming_ but does that make sense here? or can you think of something else that causes abdominal pain. i mean don't divorce yourself from the problem, this is a specific problem. </U>
+			<U WHO="S1"> well you could always introduce a (link) node there <OVERLAP> that's, independent </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right, </OVERLAP> well so so jus- just mention that, you might want to mention that somewhere. </U>
+			<U WHO="S1"> okay. the cure-all. </U>
+			<U WHO="S2"> yeah exactly. but it never hurts to say too much in these things. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S2"> it just makes the graders work harder. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> alright, i think that does it. </U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S1"> thanks. </U>
+			<U WHO="S2"> hello </U>
+			<U WHO="S10"> um, for the uh, the task two, um is this part right? i mean, for the first one there's (none.) <U WHO="S2"> mhm </U> and for part B (i think is) </U>
+			<U WHO="S2"> yeah it looks pretty good to me. </U>
+			<U WHO="S10"> um f- how about C, because i think they are connected so it was not, not (model) </U>
+			<U WHO="S2"> well um... so, there are a couple things that you're not mentioning which_ are you assuming that you have no evidence? because what <U WHO="S10"> oh </U> happens if <OVERLAP> you have </OVERLAP>
+				<U WHO="S10">
+					<OVERLAP> ah ah </OVERLAP>
+				</U> that as evidence </U>
+			<U WHO="S10"> okay so i have to take that into account <U WHO="S2"> yeah </U> whether i have e- evidence. <U WHO="S2"> mhm </U> okay fo- for this one still desperate um, <EVENT WHO="S2" DESC="LAUGH"/> a- a- a- and i (i think got) the right, uh formula. <U WHO="S2"> mhm </U> so fo- uh, for this one, um, uh, for (xx) </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> now lemme lemme look to make sure that_ lemme compare because there's probably some number somewhere that </U>
+			<U WHO="S10"> how about how about the first (stack?) the first (stack) combined is two evidence right? <U WHO="S2"> uhuh okay uhuh </U> so i got these two (rules.) <U WHO="S2"> okay </U> and i've <OVERLAP> got the same thing right </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> let's see... </OVERLAP> holds true... false true so, <U WHO="S10"> this is </U> your numbers are, the opposite of what, <OVERLAP> we have here </OVERLAP>
+			</U>
+			<U WHO="S10"> oh my god. okay. </U>
+			<U WHO="S2"> and oh wa- wa- wait <U WHO="S10"> mm </U> and there's there's pointer, yeah so these are these are the, uh </U>
+			<U WHO="S10"> so i should </U>
+			<U WHO="S2"> so this is this is the false, <U WHO="S10"> okay </U> and this is the <OVERLAP> true </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> uh i </OVERLAP> don't think i'll confuse false for, <OVERLAP> (is this) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S10"> um, so for this part thi- this (xx) are the same right? </U>
+			<U WHO="S2"> yeah mhm. </U>
+			<U WHO="S10"> (okay i'll do it again) <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> that's why i said the_ i- in discussion i was like, it helps to c- look at the numbers over and over again or compare it with something. </U>
+			<U WHO="S10"> yeah </U>
+			<EVENT WHO="S10" DESC="LEAVES"/>
+			<U WHO="S2"> eh, <OVERLAP> it's after five. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> are you done? </OVERLAP>
+			</U>
+			<U WHO="S2"> i dunno i guess so. things seem to be uh slowing down a bit so, <U WHO="S8"> alright </U> i'll pretend i'm done and go home. </U>
+			<U WHO="S8"> okay. um </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

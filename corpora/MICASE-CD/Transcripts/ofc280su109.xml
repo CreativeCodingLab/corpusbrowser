@@ -1,0 +1,1239 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="ofc280su109">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Economics Office Hours </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> OFC280SU109 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="92">
+						<DATE> October 2, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Shannon Dubenion-Smith, Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Darell Tibbles </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Shannon Dubenion-Smith </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 10/23/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="9"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="10"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JG, Graduate Student Instructor" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> GUJ </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Office, Lorch Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> my, and then once i solve for X-two that's my demand, function for X-two or </U>
+			<U WHO="S2"> that's your specific, choice given this income and price, if you wanted it to be a demand function then you wouldn't have plugged in the number twenty-four here you would have an N there, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and you </OVERLAP> wouldn't have plugged in <U WHO="S1">
+					<OVERLAP> so is it </OVERLAP>
+				</U>
+				<OVERLAP> the numbers </OVERLAP> one and two, so if instead of plugging in a one, for this and a two for that, and then twenty-four for that, <U WHO="S1"> mhm </U> if you c- carried around, P-one P-two M P-one P-two. </U>
+			<U WHO="S1"> is it better to do it that way? <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> in </OVERLAP> general? <U WHO="S1"> mhm </U> um, probably. because unless you're asked for the specific bundle, you're gonna hafta rework your math, and stick in a new set of numbers. </U>
+			<U WHO="S1"> okay so this gives me the specific <PAUSE DUR=":05"/> demand for that for X-two right? </U>
+			<U WHO="S2"> right. so that gives you, that specific point. if you're asked anything but what is the specific point, you're better off working it general. <U WHO="S1"> okay </U> because <OVERLAP> then </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> maybe that's </OVERLAP> where i'm screwing up (i don't know.) </U>
+			<U WHO="S2"> okay so if you don't plug in the numbers, <U WHO="S1"> mhm </U> you'll have_ this'll be a, set of one and it'll be a P-one and <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> a set </OVERLAP> of two that'll be a <U WHO="S1">
+					<OVERLAP> it's gonna be a P-two </OVERLAP>
+				</U>
+				<OVERLAP> a P-two, </OVERLAP> and then you gotta put the, notation back in the budget (xx) <PAUSE DUR=":08"/> but if you cross multiply here you can still make a simple substitution. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S1"> they're just gonna equal each other so that's gonna be like, P-two X-two plus, P-two X-two, equals M. </U>
+			<U WHO="S2"> exactly now solve that for, X-two and you'll have a demand function. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S1"> okay now i know where_ i think maybe that's where i was screwing up i was st- trying to put the numbers in and i wasn't getting the demand like </U>
+			<U WHO="S2"> exactly. <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and now </OVERLAP> if you scratch it out (right?) (cuz you) divided by, <U WHO="S1"> right </U> and now if you put in the number, twenty-four and two you'll get exactly what you were getting <U WHO="S1">
+					<OVERLAP> thi </OVERLAP>
+				</U>
+				<OVERLAP> right </OVERLAP> down here. </U>
+			<U WHO="S1"> see and i knew it was a dumb mistake but it's like you know when you look at it for so long it <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> just </OVERLAP> looks like a mumble jumble it looks the same okay <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> this </OVERLAP> will give you a number but not a function. </U>
+			<U WHO="S1"> okay... (xx) function. </U>
+			<U WHO="S2"> but it's because you stuck in, <U WHO="S1"> the numbers </U> the numbers. </U>
+			<U WHO="S1"> okay so, you know what then i think i'm fine because that's where my big problem was so i'm gonna, i might be back tomorrow but, <U WHO="S2">
+					<EVENT DESC="LAUGH"/> okay </U> i think that's where it is like i woulda stuck <OVERLAP> there, bec- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you wanna work </OVERLAP> through another one, just in case? </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> no because i, i knew it was something dumb and that's probably what it was. i really i ju- really think that's where it was cuz i feel like an idiot right now. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> no so if the question says this is the hardest part of this <EVENT WHO="S1" DESC="LAUGH"/> if the question says what's the, choice. stick in the numbers right away you're just computing a set of numbers. <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> if the question says, you have this price now you have this price, what happens? what's the difference? <U WHO="S1"> mhm </U> then don't stick in the numbers because you're gonna hafta do it, twice see what i mean? <U WHO="S1"> yeah </U> so you're better off getting a general equation and plugging in two different sets of numbers. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> because then you can always go back </OVERLAP> to the other one. </U>
+			<U WHO="S2"> and this is the Cobb-Douglas demand that i keep talking about. it's <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> times some of the exponents times income <OVERLAP> over (price.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so this, </OVERLAP> for this Cobb-Dub- for this Cobb-Douglas this is always gonna be like this? is that wh- </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> and then w- wh- what i did in lecture is i, took it one step further and i said if this is X-one to some power C, i didn't do it in lecture i did in section X-one to some power C, and X-two to some power D, <U WHO="S1"> mhm </U> then you could work through the algebra again but you'd get something different you'd get, C over C plus D times M over P-two. <U WHO="S1"> so </U> but that's worth knowing. </U>
+			<U WHO="S1"> X-one, X-two (xx) so it's gonna be, C plus D over </U>
+			<U WHO="S2"> for d- demand for X-one, is equal to C over C plus D, <OVERLAP> times </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> then X </OVERLAP>
+				</U> times hold on <OVERLAP> M. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh </OVERLAP> times times M <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> over </OVERLAP> P-one. </U>
+			<U WHO="S1"> over P-one. and then X-two is gonna, D over D plus s- no. yeah. </U>
+			<U WHO="S2"> yeah D over <OVERLAP> C plus D </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah D over, </OVERLAP> C plus D times N P-two. </U>
+			<U WHO="S2"> right <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and then </OVERLAP> if you look here, <U WHO="S1"> mhm </U> here C is one and D is one so <U WHO="S1">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> there's your </OVERLAP> one-half. </U>
+			<U WHO="S1"> okay, that makes sense. </U>
+			<U WHO="S2"> but don't use N if it's not Cobb-Douglas. </U>
+			<U WHO="S1"> right. actually maybe can we go through one that's not Cobb-Doug- <U WHO="S2"> mhm </U> Cobb-Douglas? um okay </U>
+			<U WHO="S2"> number two wasn't Cobb Douglas. </U>
+			<EVENT DESC="RECORDING-RELATED QUESTION"/>
+			<U WHO="S1"> oh okay. like for the Ambrose <OVERLAP> ones </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> mhm... </OVERLAP> so this is actual- i- it's asking just what you wh- what we've been doing together demand function <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> but it's </OVERLAP> a different, utility function. </U>
+			<U WHO="S1"> so that's </U>
+			<PAUSE DUR=":27"/>
+			<U WHO="S2"> so first thing you do draw a picture... and you don't know the prices so just make some, downward sloping budget <OVERLAP> line. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mkay. </OVERLAP> this is what i want </U> and the only thing is on_ we have to be a little careful cuz we know that, this is quasi-linear so the indifference curves actually, curve but hit the axes. <PAUSE DUR=":12"/> so if you wanna_ here let's a... this is one thing that it sounds like i'm being <OVERLAP> picky </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> but you really have to be careful about this cuz this is subtle things that are gonna matter later. <U WHO="S1"> okay </U> so you wanna get more, like that. </U>
+			<U WHO="S1"> more curved for the quasi-linear </U>
+			<U WHO="S2"> yeah cuz the quasi-linear's shifted straight up so you wanna be sure that you, you're looking kind of like that. </U>
+			<U WHO="S1"> mkay. so <PAUSE DUR=":14"/> so it's just gonna be, adds two </U>
+			<PAUSE DUR=":16"/>
+			<U WHO="S2"> okay and then you can just solve for X cuz there's only one variable in there so you can just solve for that X-one, and you're done. </U>
+			<U WHO="S1"> how h- wai- how do you, just come up with that so fast like, <U WHO="S2">
+					<OVERLAP> well </OVERLAP>
+				</U>
+				<OVERLAP> there's </OVERLAP> a line <U WHO="S2"> two is a <OVERLAP> number, (xx) </OVERLAP>
+				</U>
+				<OVERLAP> cuz all these X-ones are already in here </OVERLAP> and i'm trying to_ right cuz these are our constants. </U>
+			<U WHO="S2"> exactly and there's no X-two in there. <U WHO="S1"> okay </U> whereas if you look back at your Cobb-Douglas, your both equations had two variables and your tangents equation <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh okay, </OVERLAP> so i can divide this by P, one, and then square it, <U WHO="S2"> exactly. </U> and that equals, X-one now. <U WHO="S2"> right </U> and that's my demand for this function for <U WHO="S2">
+					<OVERLAP> mhm and then </OVERLAP>
+				</U>
+				<OVERLAP> X-one and that's </OVERLAP> not as specific. </U>
+			<U WHO="S2"> if you had prices, <OVERLAP> you can put 'em in, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> then you just, </OVERLAP> plug 'em in </U> but notice it doesn't even depend on income. </U>
+			<U WHO="S1"> okay, so how would i, get X-two from that though? </U>
+			<U WHO="S2"> you'd need your budget line. <PAUSE DUR=":04"/> so you can see P-one X-one is equal to two P-two, and you can <U WHO="S1">
+					<OVERLAP> oh that okay </OVERLAP>
+				</U>
+				<OVERLAP> substitute that into (xx) </OVERLAP> which is what this problem asks you to, do. </U>
+			<U WHO="S1"> okay. sounds good. alright i </U>
+			<U WHO="S2"> so they're all a little bit different. </U>
+			<U WHO="S1"> right <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> just a matter of lo- looking at it and playing around with it to get the X-one. </U>
+			<U WHO="S2"> but the big thing this one it says, you always want the same amount of X-one it doesn't depend on income so you get, that income offer curve that we've been talking <OVERLAP> about, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> but if income falls you're on the boundaries so there's all these little subtle things built into the picture that you want to be sure, um that you understand so when you get the math you know what you're looking at. <U WHO="S1"> okay, alright </U> that's the other thing that you get this and you say oh i know that because that's quasi-linear so it has to be a constant and there we go. </U>
+			<U WHO="S1"> okay. thank you very much for your time. i appreciate it. </U>
+			<U WHO="S2"> mhm. so i will see you tomorrow in class? </U>
+			<U WHO="S1"> tomorrow in class and, bright and early </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> and w- work with some more of those i mean the <OVERLAP> big thing, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah i'm </OVERLAP> going to tonight. <OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> before </OVERLAP> you go to the math look at the picture because the math can be really simple, <U WHO="S1"> mhm </U> or it can be more complicated depending on, what the picture tells us </U>
+			<U WHO="S1"> okay, yeah i will i'll i'm gonna go through a lot of 'em again, so thank you. </U>
+			<U WHO="S2"> mhm. <PAUSE DUR=":08"/> hi were you waiting to see me for office hours? </U>
+			<U WHO="S3"> um, yeah i'm a G-S-I. </U>
+			<U WHO="S2"> okay. <U WHO="S3"> i just <OVERLAP> just to make sure </OVERLAP>
+				</U>
+				<OVERLAP> no you're who are you? </OVERLAP>
+			</U>
+			<U WHO="S3"> Andrew </U>
+			<U WHO="S2"> Andrew you're, sitting in our meetings that's why you <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> look </OVERLAP> familiar. </U>
+			<EVENT WHO="S3" DESC="LAUGH"/>
+			<EVENT DUR=":24" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S3"> um, Friday, <U WHO="S2"> yeah </U> i'm not going to be able to be at lecture, (xx) </U>
+			<U WHO="S2"> so we'll survive. yes. </U>
+			<U WHO="S3"> and um, also this sounds even worse today this morning i wasn't here for lecture, and i just wanted to, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> uh'oh you missed </OVERLAP> my best lecture of the term. </U>
+			<U WHO="S3"> was it really the best? <EVENT WHO="S3" DESC="LAUGH"/>
+				<OVERLAP> my alarm didn't go off. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> let me show you what we did real fast. </OVERLAP> uh'oh, see i i can't see people i leave Emma, responsible for that. </U>
+			<U WHO="S3"> yeah she caught me. </U>
+			<U WHO="S2"> she caught you? </U>
+			<U WHO="S3"> well i i had to talk to somebody ask uh <OVERLAP> Shari about something so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay, </OVERLAP> so you need to_ the thing is, let me_ why don't you come over here where you can see the computer Andrew, and help me recognize all my G-S-Is and i'll be in real good shape there's too many in there you know that? <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> people </OVERLAP> start to blend by the end of the semester i'm doing <EVENT WHO="S3" DESC="LAUGH"/> really well though. <U WHO="S3"> that's alright. </U> um <PAUSE DUR=":04"/> okay so that you don't need to know about what we did, is run through a bunch of examples at the beginning this was uh the great plains states in nineteen ninety-seven and their um in response to demand for labor their wages were going up faster than, other parts of the country and the explanation was that labor force participation rates were already really high and there just weren't more people to work, so what does that mean? here are some perfectly elastic but relatively, inelastic supply compared to the rest of the country and you'd expect their wages to go up more. <U WHO="S3"> mhm. </U> okay so that was that example. this one was um President Clinton was trying to i- increase the price of beef, and here it is if you want a targeted price increase how much does demand, need to go up by? it depends on supply elasticity and you can see, supply is relatively even more elastic in this the larger demand shift is needed so that, and then i s- was stressing again that the, increase in demand is the, distance moving right, somehow they wanna go from here to here and say, that's the increase in, demand. </U>
+			<U WHO="S3"> oh okay i see what you're saying. </U>
+			<U WHO="S2"> then we went carefully over incidence, um reminding us what the tax is and, we have elastic inelastic and by the time we got done i had put, all this stuff up <U WHO="S3">
+					<OVERLAP> (xx) to see </OVERLAP>
+				</U>
+				<OVERLAP> so they could, </OVERLAP> re- remember what, um, consumer expenditure is what supplier, revenue is what the tax is. </U>
+			<U WHO="S3"> yeah (xx) </U>
+			<U WHO="S2"> compare E to E-prime, hi how are you <OVERLAP> be with you in just a minute. </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> hi Professor Gaston okay great. </OVERLAP>
+				</U> compare E to E-double-prime, um compare E-prime to E-double-prime for any of the things we'd ask about, whether it's expenditure or, (spiralling) tax, and then we did the same thing only, this was the one extreme case we did, uh what if we had perfectly inelastic, demand? and i told them they should look at the other three, <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U> extreme cases. then we did the same thing for supply, and reminding them that the same straight upward shift for the tax doesn't look the same, here, um and again we could compare E to E-prime E to E-double-prime or E-prime to E-double-prime but the one, interesting thing we noticed here is that, whether the big green rectangular big purple rectangle's bigger is gonna depend on price elasticity of demand not on any characteristics of these, supply curves. and i told them they should practice redrawing these because it shouldn't look like, muddles of lines they should see things in here. <U WHO="S3"> yeah, <OVERLAP> (xx) </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> um... </OVERLAP> but if but if you i mean if you look at what i did with it it's going piece by piece <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> so, </OVERLAP> it's not as bad. okay. then we went back and reviewed, what we had done before with um, uh that we'd seen, the idea of relative elasticities so this was our, relatively elastic inelastic, uh talking now about, the cigarettes and what we did before was compare the green to the pink and green to the green but now we're comparing the pink to the green so, um, this was, what i wanted to get to. the last fifteen minutes was a, big generalization of, what we're doing for the rest of the term. and i gave some examples and explained what we're doing but, broadly defined well-being as total benefit minus total cost. um then you know what is it for the consumer? what is it for the firm? but, what we do is, examine the current situation consider a change and look at the impact, and define marginal benefit and marginal cost, so for a consumer this would be marginal utility for a firm it would be marginal revenue for government programs it would be marginal benefit. um, and notice that the change in well-being is just the change in benefit minus the change in cost, and, then they seemed to be following. then we get to our conclusions, <OVERLAP> um, </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> i know a lot </OVERLAP> about optimization. </U> yeah. <EVENT WHO="S3" DESC="LAUGH"/> but they they seemed to be understanding it and i went through you know why would I-B-M have the, Russian, uh chessmaster duel with the I-B-M machine that costs them five million dollars. why because they got a hundred million dollars in free publicity. <U WHO="S3"> yeah </U> benefits bigger than costs do it. so and we had already done the F-D-A analysis so this was this and the one thing that's a little hokey, is, when they're equal but what i always say is if they're not equal it means we're out of line and, you can improve, <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> this when they're equal if you've had calculus it's a first order condition if you've haven't it's a, (sandwich theorem.) but the slopes work, so we're going towards that. <PAUSE DUR=":04"/> so this isn't in the book but what i decided after teaching for a couple years this class for a couple of years is that we needed a nice general, framework at the beginning, <U WHO="S3"> yeah </U> because this works for, i mean for anything we talk about if you interpret the benefits and costs, <U WHO="S3"> yeah </U> correctly, given the situation, uh this works. <PAUSE DUR=":07"/>
+				<U WHO="S3"> uhuh </U> so what we're gonna see pretty soon is looking at the ratio of the marginal utilities and comparing it to the ratio of the prices of the goods for consumers. </U>
+			<U WHO="S3"> yeah, okay... alright that makes sense. </U>
+			<U WHO="S2"> and that's that's it for today so, we're gonna pick up on, on consumer choice and what we'll get to is this, um conclusion, but we won't explain it very well so we won't have indifference curves, <U WHO="S3"> okay </U> to explain it. </U>
+			<U WHO="S3"> so it's more intuitive than, <U WHO="S2"> exactly. </U> rigorous? </U>
+			<U WHO="S2"> exactly more intuitive. and a lot of the time we'll be just be doing what's in the (xx) </U>
+			<U WHO="S3"> yeah. <U WHO="S2"> very </U> which is not hard to understand. </U>
+			<U WHO="S2"> right. the class was good they were mostly there and they seemed to be, following so </U>
+			<U WHO="S3"> yeah they seem, they seem to be pretty good, all the quizzes that i have (have been,) fine, so far <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> good. </OVERLAP> good good. so yeah. they actually, uh, we'll we'll have to watch for the exams and see what happens after the first exam but up until now, i've been amazed even Fridays we get pretty good attendance and today we had people on the floor again we had seats this is the odd thing <EVENT WHO="S3" DESC="LAUGH"/> is there's seats in the auditorium but there's people who come in, and sit in the back <OVERLAP> instead of going to the seats. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think people are </OVERLAP> shy about, like walking in, you know while you're lecturing <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> looking for a seat and, there's always ones in like the middle but <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> no one </OVERLAP> wants to climb over <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> everybody </OVERLAP> and, <OVERLAP> if they you know </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so here's the incentive </OVERLAP> to come on time right? </U>
+			<U WHO="S3"> yeah yeah they_ i come early. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but what </OVERLAP> on uh Friday if you want to, see what i go, over, um you could even come in, you know, earlier than Friday or after Friday whichever, <U WHO="S3"> yeah </U> works for you, <U WHO="S3"> yeah </U> we'll just run through the, <OVERLAP> slides </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah maybe um, </OVERLAP> Wednesday. sometime. </U>
+			<U WHO="S2"> okay email me so i w- we can be sure i'm not in class. <U WHO="S3"> okay, <OVERLAP> thanks </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> i i have class until two and then i'm pretty free after that </U>
+			<U WHO="S3"> okay, i sh- hm. </U>
+			<U WHO="S2"> w- well think about it <U WHO="S3">
+					<OVERLAP> yeah yeah </OVERLAP>
+				</U>
+				<OVERLAP> and talk to me today </OVERLAP> how's that? <U WHO="S3"> okay, <OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> i'll see you, </OVERLAP> later today. <U WHO="S3"> yeah </U> at the meeting. </U>
+			<U WHO="S4"> hi Miss Gaston, <U WHO="S2"> hi </U> i'm in your uh section for class my name's Simon </U>
+			<U WHO="S2"> hi Simon </U>
+			<U WHO="S4"> um i have a question about um, my econ major i'm gonna, study abroad at uh, University of New South <OVERLAP> Wales </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U> and i kinda wanna know which uh courses are <OVERLAP> acceptable. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you're in </OVERLAP> four-oh-one right now? <U WHO="S4"> yes. </U> and i assume you've had then one-oh-one one-oh-two <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> math </OVERLAP> one-fifteen, <U WHO="S4"> mhm </U> are you in another econ course right now? </U>
+			<U WHO="S4"> three-twenty </U>
+			<U WHO="S2"> and you're a junior? </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S2"> so you're right on track. <U WHO="S4">
+					<OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> okay, </OVERLAP> so the the big_ this is just a semester program <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP> uh winter semester <OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> this is </OVERLAP> through Beaver? </U>
+			<U WHO="S4"> it's through U-of-M, <OVERLAP> here </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> through </OVERLAP> U-of-M? <U WHO="S4"> yeah </U> okay. </U>
+			<U WHO="S4"> yeah so like um, i mean there's, i guess this is four-oh-two <OVERLAP> macro-economics </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> macro-economics </OVERLAP> two. why do they have a tw- um <SEG TYPE="READING"> the person will have (xx) </SEG>
+			</U>
+			<U WHO="S4"> like if i take it there would that cover my four-oh-two <OVERLAP> requirements? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yes </OVERLAP> that's <U WHO="S4"> it would </U> fine. is this your book? </U>
+			<U WHO="S4"> yeah it is yeah. </U>
+			<U WHO="S2"> hold on i just lost your, stuff, what i was going to do, is write in it. <PAUSE DUR=":04"/> okay. </U>
+			<U WHO="S4"> um and like, would </U>
+			<U WHO="S4"> basic_ let me tell you our basic criteria first you need to take four-oh-one here, <U WHO="S4">
+					<OVERLAP> mhm mhm </OVERLAP>
+				</U>
+				<OVERLAP> which you're doing, </OVERLAP> um you need to take half your econ major here, <U WHO="S4"> okay that's not a problem. </U> um, so were you just planning two econ courses there? <U WHO="S4"> yeah </U>
+				<OVERLAP> yeah so. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> well </OVERLAP> actually only one <U WHO="S2">
+					<OVERLAP> only one? </OVERLAP>
+				</U>
+				<OVERLAP> and uh </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah yeah. um </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> really no problem. and then, </OVERLAP> you need to take one of the courses that has a four-oh-one or four-oh-two prerequisite physically if you're in Ann Arbor <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so that's, </OVERLAP> so one term abroad is absolutely no problem. <U WHO="S4"> okay </U> if you, wanna take four-oh-two that'll do it, <U WHO="S4"> okay </U> what we look at is prerequisites so any of these courses, that say, they're taught in the econ department, <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> they say </OVERLAP> econ like two-one-oh-three, <U WHO="S4"> okay </U> and it has a prerequisite of econ one-one-oh-one which is, <U WHO="S4">
+					<OVERLAP> i guess one-oh-one </OVERLAP>
+				</U>
+				<OVERLAP> one-oh-one </OVERLAP> one-oh-two fine we'll count it. <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so that's </OVERLAP> what we look for it has to have an econ prerequisite, <U WHO="S4"> okay </U> it has to be taught in the econ department, fine. <U WHO="S4"> okay alright <OVERLAP> that's </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> this looks good this looks good that looks good that looks good, where you have to_ any and all these look good, where you have to be careful, is some of the, other universities have what they call economic history, departments, <U WHO="S4"> okay </U> and it'll say no previous econ required, <U WHO="S4"> oh <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so it </OVERLAP> could be, economic history yet, without any kind of <OVERLAP> prerequisite and those </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> okay okay </OVERLAP>
+				</U> we won't count. <U WHO="S4"> okay </U> so any_ i- it looks like you'll have a ton of, choices here any of those have at least, a one-oh-one or one-oh-two <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> prerequisite so </OVERLAP> this whole page would be fine. </U>
+			<U WHO="S4"> okay great. yeah that's the only question i had because i, i have to figure it out by the end of this week whether or not i'm gonna go through with it or not. </U>
+			<U WHO="S2"> and then if you only take one econ course there you'd need five coming back your <U WHO="S4"> mhm </U> senior year. </U>
+			<U WHO="S4"> that's fine like uh, i mean i was planning on taking uh four-oh-two i guess, my senior year, but uh i might just get it ov- done with like there i mean <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh but </OVERLAP> you know what i would, probably do, is look at something you can't take here, <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> you can take four-oh-two here unless_ i i always think it's interesting abroad to take something about, where you're going, <U WHO="S4"> yeah yeah </U> so if there's something about Australia or about Southeast, Asia, um, that might be interesting <OVERLAP> to sort of. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP> well i mean i was also planning on taking more like, financial courses there cuz like, i'm i'm not in the B-school here so, if it's possible i might just take those courses there <U WHO="S2"> yeah </U> like Asian markets or something <OVERLAP> like that. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay, </OVERLAP> but then and then you could just take a standard econ this one, has Australia um, world trade trade and services, trade theory, that is certainly a perfectly fine, <U WHO="S4"> okay </U> econ course but it's focusing on trade in Australia and the global market so that might be, i mean that's certainly something, focusing on Australia that you <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> won't </OVERLAP> see here so that might be kind of fun, <U WHO="S4"> um <OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> except </OVERLAP> that it might be kind of fun but it has a, one-one-oh-four, as a (xx) <PAUSE DUR=":04"/> looks okay one-one-oh-two or one-one-oh-four which isn't here so it's <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> just </OVERLAP> an intro prerequisite you're still okay. </U>
+			<U WHO="S4"> um, one more question, since this is through uh U-of-M do you know if th- the grades transfer also or? </U>
+			<U WHO="S2"> ask, <OVERLAP> (xx) someone at O-I-P. </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> someone at O-I- O-I-P okay </OVERLAP>
+				</U> um some ti- some programs yes some no and <U WHO="S4"> yeah </U> i don't keep track. </U>
+			<U WHO="S4"> yeah, okay i guess i'll, find out on that but that's basically it. but, thank you, <OVERLAP> um (xx) </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> uhuh no no fou-oh-one questions? </OVERLAP>
+				</U> not really i'm just gonna go study for the quiz right now. <U WHO="S2"> good idea </U> um what are the um, what is the quiz gonna cover over like chapter six through </U>
+			<U WHO="S2"> it can be anything chapter five six eight or nine, which is what we've covered the last two weeks. <U WHO="S4"> okay. </U> or i mean basically the material's so, um </U>
+			<U WHO="S4"> it's very similar like it's just, progressing </U>
+			<U WHO="S2"> yeah exactly so you, probably have to know things from two and three and four <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> to do </OVERLAP> things in <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> five </OVERLAP> and six and, <U WHO="S4"> yeah okay <OVERLAP> alright </OVERLAP>
+				</U>
+				<OVERLAP> eight </OVERLAP> and nine. </U>
+			<U WHO="S4"> thank you. <OVERLAP> i'll see you in class. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> uhuh see </OVERLAP> you in class Simon. <PAUSE DUR=":14"/>
+				<EVENT DESC="TALKING ON PHONE NEXT 7:05 OF UTTERANCE"/> hi Steve. would you_ can you talk about homework? okay so, um, question number one is the Browning and Zupan that should be fine for tomorrow (right?) <PAUSE DUR=":05"/> their the assignment for chapter twenty-nine is on the web... yes. so if you go to the course website, it will, say_ let me go back and see what the link says. the link says, uh assigned problems on course website. under problems. <PAUSE DUR=":19"/> or f- yeah that's why it didn't work. fall zero-zero. <PAUSE DUR=":13"/>
+				<EVENT DESC="LAUGH"/> having a good day? why am i bugging you? how co- <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":05"/> oh. <PAUSE DUR=":05"/> yes... chapter twenty-nine. yep <PAUSE DUR=":19"/> so number one for tomorrow? no. um i think we can do, the we can do the M-R-S and and looking at Nancy and Sally, were_ you're gonna do contract curves right? so what we can't do is compute the competitive equilibrium price ratio correct? so we can plot a contract curve but we can't, actually solve for the equilibrium? <PAUSE DUR=":05"/> so could we do through D? <PAUSE DUR=":17"/> correct. i s- i think we can do through D. <PAUSE DUR=":39"/> right. right yeah we can do more than that on two i thought through D though. so we can do one we can do two A through D, and we can do three, A and <PAUSE DUR=":06"/> no it just says, how is_ um <PAUSE DUR=":04"/> yeah it's just A though maybe we should put that off cuz it's hardly any of the problem. so Nancy and, Linus, uh we were asked again the M-R-Ss again the contract curve, compute the common om- M-R-Ss, so we could do, A through C on four, and then, did we want to assign some of the workbook as well? we've got one two five and six, in the workbook... please <PAUSE DUR=":44"/> so what you got down there? <PAUSE DUR=":09"/> right but we can go through B without getting to it? <PAUSE DUR=":07"/> one A and B and then two we can do the whole thing. <PAUSE DUR=":06"/> five we can't do anything the way it's written <PAUSE DUR=":11"/> uh six is just talking, so six we can have <PAUSE DUR=":10"/> so one, two on the, assignment A through D four A through C, workbook one A and B two and six and then say, the rest um, highly recommended means assigned, and the rest for <EVENT WHO="S2" DESC="LAUGH"/> Thursday. what's your afternoon like? after class. <PAUSE DUR=":05"/> i just need probably ten fifteen minutes. <PAUSE DUR=":07"/> okay. okay cuz there's just a couple things i wanted to_ i read through your comments, and there's just a couple things i wanted to talk to you. okay? yes we'll write it up and anyone not in class_ a- actually it should be okay because, it's Tuesday so they'll be in class and then we can put up again just, leaf back to it and put it up again, before the quiz so they should all see it. <PAUSE DUR=":05"/> okay? see you at one, bye. </U>
+			<PAUSE DUR=":19"/>
+			<U WHO="S5"> Nan? </U>
+			<U WHO="S2"> hi. </U>
+			<U WHO="S5"> hi it's your office hours right now <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> nobody's here <U WHO="S5">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> come </OVERLAP> on in. i'll be right with you. <U WHO="S5"> okay </U> um, how are you doing Silvi? </U>
+			<U WHO="S5"> pardon me? </U>
+			<U WHO="S2"> how are you doing? </U>
+			<U WHO="S5"> uh i'm okay, how 'bout you? </U>
+			<U WHO="S2"> oh keeping busy. um, lemme just brush this up and we'll be fine. <PAUSE DUR=":21"/> there were some students here, earlier. </U>
+			<U WHO="S5"> oh were there? <OVERLAP> they </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> there </OVERLAP> weren't many though. they haven't figured this, out this term. </U>
+			<U WHO="S5"> so when you um </U>
+			<U WHO="S6"> excuse me do you have, a um, directory for the campus? i'm looking for a guy named Joe Krachek in the high C highly interactive, computer technology group, so far i've been to every building (xx) </U>
+			<U WHO="S2"> i don't think you're in the right building. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> no i </OVERLAP> don't think i am either, but she said across the way i was over in the Education Building </U>
+			<U WHO="S2"> the scho- the Business School? </U>
+			<U WHO="S6"> no wh- i've been there, i've been to the Social Work </U>
+			<U WHO="S2"> have you been to the Business School there? </U>
+			<U WHO="S6"> yeah i started there. </U>
+			<U WHO="S2"> oh. <EVENT WHO="SS" DESC="LAUGH"/> i don't know. </U>
+			<U WHO="S6"> let me see, (xx) </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S2"> (i don't think it's in here) and that's all i know. </U>
+			<U WHO="S6"> no. well he used to be back over there on the first floor. and he moved <PAUSE DUR=":05"/> see if i can get (xx) <PAUSE DUR=":17"/> it says, huh. are are these, home, like <OVERLAP> (modem) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah this is, </OVERLAP> this is last fall. <U WHO="S6">
+					<OVERLAP> this fall? </OVERLAP>
+				</U>
+				<OVERLAP> so where? </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> no? </OVERLAP>
+				</U>
+				<OVERLAP> no </OVERLAP> it's a year old. <U WHO="S6"> oh. </U> where is it? </U>
+			<U WHO="S6"> they've got twelve twenty-one A S-E-B. </U>
+			<U WHO="S2"> so that's School of Education. </U>
+			<U WHO="S6"> bu- yeah they're not there now. i know that, cuz his hi- his room number's fourteen, fifteen. </U>
+			<U WHO="S2"> uh, i have no idea what happened. would somebody in the School of Education know cuz they were in that building? </U>
+			<U WHO="S6"> they sent me over here. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> wrong building. </U>
+			<U WHO="S6">
+				<EVENT DESC="LAUGH"/> i mean they sent me across the way, shit. </U>
+			<U WHO="S2"> do you think he might have the same phone number? </U>
+			<U WHO="S6"> i don't know. can we try it? </U>
+			<U WHO="S2"> yeah. what is it? </U>
+			<U WHO="S6"> uh, zero one two, seven four one nine. </U>
+			<U WHO="S2"> can you reach it? </U>
+			<U WHO="S6"> yeah sure... nope he doesn't. uh, let's see if they've got, how about like, units like th- the <OVERLAP> group? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> that's </OVERLAP> all i have. you might check with the department office <OVERLAP> upstairs </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> where's that? </OVERLAP>
+				</U> in two-thirty-eight and see <OVERLAP> if anyone up there </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> okay thank you. </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U> knows anything. </U>
+			<U WHO="S6"> what is this building? </U>
+			<U WHO="S2"> this is Lorch Hall. <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> this is </OVERLAP> the economics <OVERLAP> department. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> economics </OVERLAP> department. thank you. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> okay </U>
+			<U WHO="S5">
+				<EVENT DESC="LAUGH"/> alright i have lots of really, i m- i can do homework assignments mostly <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (in the book,) </OVERLAP> but it's to like grasp the concepts, i don't know, like when there's not numbers in 'em you know like the, say income offer curve, if you don't have exact numbers, it's just, giving me a little bit of trouble but, <U WHO="S2">
+					<OVERLAP> so you wanna work through one of 'em? sure. </OVERLAP>
+				</U>
+				<OVERLAP> (the reason why i'm) asking (xx) questions </OVERLAP> well, let me just start with this one, like what if you have perfect substitutes and P-one equals P-two? <OVERLAP> what would the income offer curve look like? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh tough question. </OVERLAP> tough question. okay so we've <OVERLAP> got perfect substitutes, </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> i mean i know what it looks like </OVERLAP>
+				</U> and, <U WHO="S5"> P-one equals </U> they're one for one perfect <OVERLAP> substitutes? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> right </OVERLAP> so it's on the budget line. </U>
+			<U WHO="S2"> and so there's indifference curves... and there's, my shifting budget lines... </U>
+			<U WHO="S5"> so it's just like a bunch of, <OVERLAP> lines? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah. </OVERLAP> it's the whole thing. <U WHO="S5"> it's the whole thing <EVENT DESC="LAUGH"/>
+					<OVERLAP> alright. </OVERLAP>
+				</U>
+				<OVERLAP> it's the </OVERLAP> whole space there is no, line. </U>
+			<U WHO="S5"> okay yeah, <EVENT DESC="LAUGH"/> alright that makes sense. alright and, main, kind of preferences i'm having trouble with are quasi-linear. <U WHO="S2"> okay </U> well let me_ okay (xx) <PAUSE DUR=":04"/> (xx) okay. how do you know when this i- this point is where it goes there? </U>
+			<U WHO="S2"> well you know, when you have quasi-linear preferences that the, tangency equation will let you solve directly for your optimal amount of X-one </U>
+			<U WHO="S5"> unless, it goes negative and then it's <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah. </OVERLAP> so that's exactly when that is. <U WHO="S5"> okay </U> so, <U WHO="S5"> this is <OVERLAP> hard </OVERLAP>
+				</U>
+				<OVERLAP> right </OVERLAP> here is your optimal amount of X-one, <U WHO="S5"> okay </U> and the income corresponding to that, if if i mean if that's sixteen and they each cost a dollar, it's P-one X-one or just, sixteen </U>
+			<U WHO="S5"> so why is there no income offer curve? </U>
+			<U WHO="S2"> i- because it's a typo. </U>
+			<U WHO="S5"> okay, that's what was totally confusing me. </U>
+			<U WHO="S2"> let's try doing that. </U>
+			<U WHO="S5"> okay thanks. <EVENT DESC="LAUGH"/> and um </U>
+			<U WHO="S2"> see you're in better shape than you thought right? </U>
+			<U WHO="S5"> no, <EVENT DESC="LAUGH"/> i don't know. </U>
+			<U WHO="S2"> cuz th- this section corresponds to </U>
+			<U WHO="S5"> (xx) and th- what is that M over P-one or something like that? <U WHO="S2"> mhm </U> okay. and, okay let's go to um <PAUSE DUR=":10"/> okay what about, what if the prices X-two is greater, or P-o- P-two is less than P-one? </U>
+			<U WHO="S2"> then you're up here </U>
+			<U WHO="S5"> well what about for this income offer curve? </U>
+			<U WHO="S2"> then it would just be, only X-two. <U WHO="S5">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> so it would be that, there should really be a, <OVERLAP> dot here. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> dot there </OVERLAP> okay. and then <PAUSE DUR=":04"/> and so i don't really, get that. why don't you demand, more of X-two? and </U>
+			<U WHO="S2"> because it's not getting cheaper. so if you can buy ten units of X-two, </U>
+			<U WHO="S5"> oh this is with the price of X-one change. </U>
+			<U WHO="S2"> exactly. </U>
+			<U WHO="S5"> okay. <EVENT DESC="LAUGH"/> alright. and, uh, what if, this is back to this kind of thing again, <U WHO="S2"> okay </U> what if you have P-one equals P-two... to start out with, and you have perfect substitutes um, what if it changes to P-o- i know like the, if it changes from P-one is less than P-two to P-one is greater than <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> P-two </OVERLAP> i know the sw- they switch boundaries or whatever, <U WHO="S2"> right </U> this is one of those income, effect and substitution kind of questions um, what if you start out with, one of these, solutions and then, you go from, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> hard </OVERLAP> question. <U WHO="S5"> one is greater <OVERLAP> then (xx) </OVERLAP>
+				</U>
+				<OVERLAP> where </OVERLAP> where are we going to start out consuming both goods on one of these? and then the price changes? </U>
+			<U WHO="S5"> i guess yeah but yeah <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (there's an) </OVERLAP> income and substitution effect. <OVERLAP> hard question. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> alright (xx) </OVERLAP> but what about_ so if it's if it's at one of these boundary, ones then it's just, then it stays on this side then it's just the, income effect <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP> okay. </U>
+			<U WHO="S2"> mhm i had um, a question on an exam, many_ several years ago, and, you couldn't answer it, in the case of um, perfect substitutes with a budget line having the same slope, exactly the same slope as, the indifference curves. and i had a student during the exam ask me about that. <U WHO="S5"> oh yeah </U> and he uh, boy he aced that class not only that he went to Stanford he transferred. <EVENT WHO="SS" DESC="LAUGH"/> that's a good qu- question but what what happens if you have um, an initial situation, and let's see if the consumers_ here so this is the original choice. <U WHO="S5"> okay </U> and then, this is blue is budget... so good one gets, cheaper, and the consumer moves, out here. right? <U WHO="S5"> right </U> so then you say what part of_ that's our C what part of the change in demand is due to the income and what part's due to the substitution effect? so you take the, new slope, through the, original, choice right? <U WHO="S5"> right... okay </U> and where's the best choice? </U>
+			<U WHO="S5"> well, <EVENT DESC="LAUGH"/> oh right here. </U>
+			<U WHO="S2"> right here so i put my, B there, A to B is, <U WHO="S5"> substitution </U> B to C is, <U WHO="S5"> income effect <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> there's </OVERLAP> both, <U WHO="S5"> huh? </U> there's both there </U>
+			<U WHO="S5"> okay yeah, that makes sense </U>
+			<U WHO="S2"> if you're consuming both goods, initially. and that is a, exception if you stay on the same boundary, all income if you switch boundaries, <OVERLAP> (also a substitution) </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> okay, </OVERLAP> that makes sense, okay <OVERLAP> and </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> would make a very hard question. </U>
+			<U WHO="S5"> and the other one is what if you're on, a bump? okay it says in here that, the, quasi-linear preferences, <U WHO="S2"> mhm </U> i don't know where it is in here but it says that, no matter what it's all, income_ or substitution_ there's no substitution effect right? </U>
+			<U WHO="S2"> that's all, substitution effect <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> oh it is i don't remember, </OVERLAP> yeah that's probably what it says but what if you start out on one of those? </U>
+			<U WHO="S2"> on the angle then there's an income effect, <U WHO="S5">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> no substitution effect, opposite. </U>
+			<U WHO="S5"> okay. cuz it just_ the book made it sound like it was all <EVENT DESC="PHONE RINGS"/> (xx) </U>
+			<U WHO="S2"> right so that has to be you have to qualify that, with the fact that you're in this part. <U WHO="S5"> right </U> i mean th- uh there's some times in the book where you do have to qualify things. <EVENT DESC="PHONE CONVERSATION NEXT 3:38"/> hello this is Nan Gaston. yes. Russell was trying to get a hold of you, about the car. you what? are you at work? good idea. <PAUSE DUR=":14"/> hi. i i cannot tell you what number is on that, but i can tell you what the policy is, and they might have it by your social security number. um well wait a second... the policy... you still feeling bad? <PAUSE DUR=":05"/> it might be allergies. um <PAUSE DUR=":06"/> well it might be mono. ready? um your member number is one two, three four five, six seven eight nine one, and it should be pro-... four five six seven eight nine one, and then there sh- there's a last number that i believe is four. <PAUSE DUR=":04"/> no. it's the same as mine but mine's one dad's two yours is Russell's is three yours is four. and you want to call Briarwood family practice, it's nine nine eight <PAUSE DUR=":05"/>
+				<EVENT DESC="BACKGROUND CONVERSATION NEXT 1:00"/> green. <PAUSE DUR=":05"/> yeah... no it's covered. <PAUSE DUR=":07"/> well K-Mart should have you on file, with our credit c- bring it to K-Mart. well take it away from them and bring it to K-Mart because, i have, because we are on file there. Maple Village. either that our you have to get the, card which i have and you probably don't have. i would think so you can call them and ask. or ask if they can get the info from me. <PAUSE DUR=":05"/> that's it... what? it's called M-Care... and you need to go to the doctor. <PAUSE DUR=":04"/> where? yes... the, Briarwood should have your hospital number. okay? and you should go to the doctor if you're not feeling good. dad's home. yep, he broke his foot. yep, he stepped on a black walnut. <EVENT DESC="LAUGH"/> no with tennis shoes on. but uh, you need to get to the doctor and, uh get a hold of Russell. six weeks. yeah, <EVENT DESC="LAUGH"/> yep... i don't know. <PAUSE DUR=":05"/> i don't think so... talk to you later, bye. </U>
+			<EVENT DESC="BACKGROUND CONVERSATION"/>
+			<U WHO="S7"> what did you guys already talk about? </U>
+			<U WHO="S5"> lots of different things, <U WHO="S7">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<OVERLAP> um </OVERLAP> what are you going to ask her about? </U>
+			<U WHO="S7"> oh just the practice exam. </U>
+			<U WHO="S5"> oh okay i was gonna do that in a minute so. <EVENT WHO="S5" DESC="LAUGH"/>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> (xx) </OVERLAP> a lot of this stuff through the homework. </U>
+			<U WHO="S5"> is it? <U WHO="S7"> yeah </U> is it pretty easy? </U>
+			<U WHO="S7"> no i wouldn't call it easy. <EVENT DESC="LAUGH"/>
+				<EVENT DUR=":25" DESC="UNINTELLIGABLE SPEECH"/>
+			</U>
+			<U WHO="S5"> i don't know, for this one no that's later and i, it hasn't even come up yet. the other one (xx) probably have to. </U>
+			<U WHO="S7"> (xx) </U>
+			<U WHO="S5"> i know. </U>
+			<EVENT DESC="BACKGROUND CONVERSATION ENDS"/>
+			<U WHO="S2"> okay. (we're gonna start) hey i've got a crowd why don't you, grab a chair and join us. your name is? </U>
+			<U WHO="S7"> Kimberly. </U>
+			<U WHO="S2"> Kimberly and you're? </U>
+			<U WHO="S8"> Janki </U>
+			<U WHO="S2"> Janki. <U WHO="S8"> yeah. </U> (xx) there's a chair over there. <U WHO="S5"> oh </U>
+				<OVERLAP> i've got one more over here that i can bring. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> here i'll switch chairs. </OVERLAP>
+			</U>
+			<U WHO="S7"> oh okay. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S2"> okay looking at workbook, things, (xx) <U WHO="S5">
+					<OVERLAP> you're going to go around </OVERLAP>
+				</U>
+				<OVERLAP> rotate </OVERLAP> rotate that's what i can do go around_ did you get that what i was talking about on the <OVERLAP> slope? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah </OVERLAP> i did. </U>
+			<U WHO="S2"> okay. <OVERLAP> you have (one of) the old exams? </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> okay i have a question </OVERLAP> yeah. from the first one, <U WHO="S2"> mhm </U> number thirteen. cuz i thought it was just like the, mama bear problem </U>
+			<U WHO="S2"> it is just like the mama bear problem uh um why don't you grab a chair somewhere, Matt and join us. <U WHO="S7"> and <OVERLAP> the </OVERLAP>
+				</U>
+				<OVERLAP> this is </OVERLAP> the first day i've had people in office hours this is exciting. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S7"> we're scared. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> i mean i mean more than, <OVERLAP> Matt's come </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> alright </OVERLAP>
+				</U> before but more than i didn't mean <OVERLAP> people i said peop- instead of a person. </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> yeah yeah yeah whatever whatever </OVERLAP>
+				</U>
+				<EVENT WHO="SS" DESC="LAUGH"/> i've had a person before. </U>
+			<U WHO="S7"> okay um, so i set up their, the different people's, <OVERLAP> preferences </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U> and then, uh i came up with A because if, Charlie, Charlie wants milk chocolate to win. (xx) </U>
+			<U WHO="S2"> this is a, a hard question. </U>
+			<U WHO="S7"> oh is it? okay. i don't understand </U>
+			<U WHO="S2"> okay. the key is that they're sophisticated voters. <U WHO="S7"> okay so </U> so if Charlie wants milk chocolate to win and you said he would pick what? <OVERLAP> light dark and then milk </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i said that he would, </OVERLAP> right. </U>
+			<U WHO="S2"> so watch what happens if light goes against dark, <U WHO="S7"> okay </U> and then, the winner goes against milk, and what we figure is Charlie likes milk best and that's gonna win. <U WHO="S7"> right. </U> but light against dark light against dark light against dark the problem is, that, person A, Abbey likes milk least, <U WHO="S7"> mhm </U> and Abbey's gonna realize, this and vote in a sophisticated way, so instead of voting for light on the first round he'll vote for dark. <U WHO="S7"> mhm </U> so, dark against light, dark wins, um dark wins dark wins. <U WHO="S7"> okay </U> then dark goes against milk, dark against milk dark against milk and dark wins, and Charlie's just gotten this last. <U WHO="S7"> okay. </U> so, the, one w- with sophisticated voting the person who's going to get their worst outcome, <U WHO="S7"> mhm </U> will vote, wrong on the first election. </U>
+			<U WHO="S7"> okay who's going to get their worst <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> outcome </OVERLAP> okay. </U>
+			<U WHO="S2"> so this isn't going to work but if you look at, i mean what i would do is run through the three here, <EVENT DESC="LAUGH"/> um or we could figure it out by going backwards <U WHO="SU-f">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> if we </OVERLAP> do milk against light, so milk against light milk against light, um you would think milk would win, and then milk against dark you would think that dark would win and then you say but Charlie gets his worst. <U WHO="S7"> okay </U> so Charlie could <U WHO="S7">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> throw </OVERLAP> it and get his second so that's not a good answer. <U WHO="S7">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> milk against, dark, um milk dark milk dark, dark wins, dark wins dark against, light, dark light, so it looks like light wins, so person B gets his worst so he's gonna throw the election. let's try this one more time. </U>
+			<U WHO="S7"> okay <U WHO="S2"> uh </U> so this is with the sophisticated? </U>
+			<U WHO="S2"> with sophisticated. <U WHO="S7"> okay </U> so milk dark milk dark, but person B is gonna throw it, <U WHO="S7">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> milk is gonna win. <U WHO="S7"> okay <OVERLAP> an- </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> milk against light milk, <U WHO="S7"> will win </U> will win, <OVERLAP> so the answer's C. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> oh, </OVERLAP> that's really (deep.) </U>
+			<U WHO="S2"> yes. <U WHO="S7"> wow </U> that was about one of the harder questions on that <U WHO="S7">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> exam, </OVERLAP> and the funny thing is that everyone just raced over it and said oh this is easy. </U>
+			<U WHO="S7"> i know i was like this is like mama bear, i <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> know </OVERLAP> this one. </U>
+			<U WHO="S2"> and it is but it's the sophisticated, <U WHO="S7"> okay, <OVERLAP> thank you. </OVERLAP>
+				</U>
+				<OVERLAP> voting, </OVERLAP> which is why it's hard... (xx) </U>
+			<U WHO="S8"> oh i had a question about the angle curves <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> three G. </U>
+			<U WHO="S2"> like what are we doing with them? </U>
+			<U WHO="S8"> yeah... cuz i understand we did that Twinkie one before that right? <U WHO="S2">
+					<OVERLAP> correct </OVERLAP>
+				</U>
+				<OVERLAP> for </OVERLAP> angle curves, but this is the one with, i don't have </U>
+			<U WHO="S2"> angle curve on, this. <U WHO="S8"> yeah </U> so, what do you see is_ the on- the only thing we can know because we don't really have numbers to go with this, <U WHO="S8"> uhuh </U> is what's going on when income goes up </U>
+			<U WHO="S8"> okay, and you don't have to j- go by numbers you just draw a sketch that <OVERLAP> you </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right. </OVERLAP>
+				<U WHO="S8"> okay </U> exactly. <U WHO="S8"> okay </U> so all we can see here is when income goes up, from, F to C the consumers wants, <OVERLAP> more </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> less uh </OVERLAP>
+				</U> uh less sorry <U WHO="S8"> okay </U> okay <EVENT DESC="LAUGH"/> it was going o- i'm looking upside down. <U WHO="S8"> alright <EVENT DESC="LAUGH"/>
+				</U> i should look right side up. <EVENT WHO="S8" DESC="LAUGH"/> the consumer wants less meaning, backward bending, <U WHO="S8">
+					<OVERLAP> (xx) curve </OVERLAP>
+				</U>
+				<OVERLAP> angle curve </OVERLAP> and that's all we can say here. </U>
+			<U WHO="S8"> okay and you can do one for X and one for, Y angle curves separately <U WHO="S2">
+					<OVERLAP> exactly </OVERLAP>
+				</U>
+				<OVERLAP> income </OVERLAP> versus </U>
+			<U WHO="S2"> and then <OVERLAP> if you're looking, </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> Y would give you positive </OVERLAP>
+				</U> if you're looking at Y exactly <U WHO="S8">
+					<OVERLAP> positive </OVERLAP>
+				</U>
+				<OVERLAP> it goes </OVERLAP> up so it would be sloped positively <U WHO="S8">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> exactly. </OVERLAP> if you're looking at X it goes, downward. but we can't know anything concrete here. Matt then we'll come back to Silvi. go around the circle. </U>
+			<U WHO="S9"> okay (it was actually) (xx) but i was just curious like could you explain the when you have a backward, why when you get an inferior good do you get a backward bending, angle curve? i know </U>
+			<U WHO="S2"> hold on (when you get an inferior) <U WHO="S9">
+					<OVERLAP> (xx) i it's part of the lecture i was reading over the lecture stuff and i (xx) </OVERLAP>
+				</U>
+				<OVERLAP> good you, good, meaning a positively </OVERLAP> sloped demand or a backward bending supply which are you talking <OVERLAP> about? </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> backward </OVERLAP> bending supply. </U>
+			<U WHO="S2"> okay. when you have a normal good you could get, a backward bending, supply. so what we need look at to begin with, is an endowment model or we can't, understand that. so here's the endowment, and let's say the consumer's original choice is here. so what's the consumer doing? <U WHO="S9"> they're gonna sell X-one but <OVERLAP> X-two </OVERLAP>
+				</U>
+				<OVERLAP> selling X-one </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> let's make the price of good one go up... okay, and what if the consumer goes to there. whoops that's not a very good color is it? </U>
+			<U WHO="S5"> so could i just ask a quick question <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> while we're </OVERLAP> on <OVERLAP> </OVERLAP> this one? is it true that if the price of a good goes up and they're selling beforehand then no matter what sell afterwards? </U>
+			<U WHO="S2"> correct. <U WHO="S5"> okay </U> um because of, this stuff is, worse. </U>
+			<U WHO="S5"> oh yeah that's right </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S2"> okay. so what if they go to there? <PAUSE DUR=":04"/> notice what i've shown, is initially the consumer was selling this much stuff, after the price increase the consumer sells, less. and i can draw indifference curves perfectly, consistent if i wanted to, for that story. so the question is how can we understand that this consumer's better off selling still, than selling less. and the answer is, we have to look at, a different color, income and substitution effect. so you have to draw a line through the original, choice at the, new, slope. and what we can clearly see is that cuts the indifference curve so better stuff is, here. so substitution effect goes in the anticipated direction, prices up sell, more... but because this consumer's richer, because you're selling something and it goes up selling even the same amount you'd be richer. um, it's a normal good the consumer wants to consume more as well. <U WHO="S5"> mm </U> so income effect says i want more of good X, substitution effect says less, income effect says, more, income effect wins, <U WHO="S9">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> backward </OVERLAP> bending, supply. </U>
+			<U WHO="S5"> okay so which income effect is that? (like i totally) <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> it's the combined income effect. </U>
+			<U WHO="S5"> okay so but one goes up and one goes down. </U>
+			<U WHO="S2"> um, w- yeah we're only ever looking at the combined income effect. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> well w- how do you get the combined income? i mean </U>
+			<U WHO="S2"> uh y- y- substitution effect says draw a line, through the original choice, <U WHO="S5"> okay </U> as soon as you have this you've got the divider between the income and substitution effect. so income effect is </U>
+			<U WHO="S5"> is always, okay so the difference between the two is always the rest of this. </U>
+			<U WHO="S2"> yeah the rest of it. so pivot is substitution shift is income. <U WHO="S5"> okay, alright </U> and here income is going, up because you're selling a good and it's price goes, up. and, here the income effect, wins in, size. </U>
+			<U WHO="S5"> so what does that say about, that but this is a, a normal good then. <U WHO="S2"> correct </U> so is that saying that one of the income effects is outweighing the other one. <U WHO="S2">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> too? </OVERLAP> or, can you say that? </U>
+			<U WHO="S2"> wh- well what, first of all what you can say is to get a backward bending, supply curve it must be a normal good, <U WHO="S5"> okay </U> because if it's an inferior good, increases in income would drive us, over here, selling still more, <U WHO="S5"> mkay </U> so the only way you get this, opposite in direction, income and substitution effect is if, <U WHO="S5"> you want to consume more </U> you have, a normal good. uh if you're selling, the good as price goes up, you can, choose to sell, less but still sell. </U>
+			<U WHO="S9"> what about with perfect complements? </U>
+			<U WHO="S2"> perfect complements. okay what would happen? one for one? <U WHO="S9"> yeah </U> one for one L-shaped indifference curves, uh, consumer is, selling, so does that picture look good? <U WHO="S9"> yeah </U> good gets more expensive, good one the selling good, move to here, that's my final choice, the income substitution effect we don't even have to look at it substitution effect is zero which effect wins? <U WHO="SS"> income? </U> income. this is B, income wins, and as a result of the, increase in price, the consumer initially was selling that much, <U WHO="S9"> selling more </U> now is selling, less. </U>
+			<U WHO="S5"> so, those always have backward bending supply curves? </U>
+			<U WHO="S2"> mhm </U>
+			<U WHO="S9"> (xx) substitution effect. </U>
+			<U WHO="S2"> if the substitution effect is zero you will get, backward bending supply yes. </U>
+			<U WHO="S5"> okay. </U>
+			<U WHO="S9"> with the income effect there's no, ba- excuse me with perfect substitutes there's no, income effect? </U>
+			<U WHO="S2"> depends. </U>
+			<U WHO="S9"> what's it depend on? <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> it depends on the price change. <U WHO="S9"> okay </U> if you are, if you s- if if after the price change you're on the same boundary, then it's only, income effect. but if after the price change you switch boundaries, then it's only substitution effect. </U>
+			<U WHO="S9"> but it's gonna be on one of the other (xx) </U>
+			<U WHO="S2"> as long as you s- you're on a boundary yes. (so that sort of) answers the questions you have right? <EVENT DESC="LAUGH"/> okay that can do for Matt. okay Silvi. <U WHO="S5"> okay </U> she gives me the hard theory questions. </U>
+			<U WHO="S5"> (xx) that was about the last one i had um, w-... okay i guess i have one more question, we're not asking questions about Edgeworth boxes are we today? </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S2"> you can if you want <U WHO="S5"> well i'll just <OVERLAP> ask later </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> not in the quiz today though <OVERLAP> (you know that) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i know it's not </OVERLAP> but, okay. he said on, page twenty-nine in the course pack that, you go north and the indifference curve flattens out then X is inferior, then X-one is inferior </U>
+			<U WHO="S2"> do you have your course pack <OVERLAP> with you? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah </OVERLAP>
+				<EVENT DESC="LAUGH"/> i just can't see in this picture at all, what he means by flattens out... </U>
+			<U WHO="S2"> (xx) thank you my coursepack walked away i have to get a new one. <U WHO="SU-f"> what page is it? </U> so if you go north </U>
+			<U WHO="S5"> yeah he says i- when you go north on the indifferen- okay, if <EVENT DESC="LAUGH"/> you go north on the indifference curve and it flattens out, then you know that X-one is inferior. </U>
+			<U WHO="S2"> if you're go north and it flattens out so what he's saying is, if you_ here let's see if i can draw this. so i'm looking at going north first of all so that's going north. <U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP> and, let's suppose, just to make life easy the original choice was here. <U WHO="S5"> okay </U> but suppose going up, that, the, indifference curve is, flatter, at that point. </U>
+			<U WHO="S5"> oh so with the next intersection? </U>
+			<U WHO="S2"> right so going up, s- s- so they don't cross, um going up, </U>
+			<U WHO="S5"> okay i was thinking he meant on the indifference curve that's why i was, so confused. </U>
+			<U WHO="S2"> no he means going s- <OVERLAP> this way. </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> straight up </OVERLAP> okay </U> so in other words when you look at higher income, <U WHO="S5">
+					<OVERLAP> and then </OVERLAP>
+				</U>
+				<OVERLAP> a tangency </OVERLAP> would have to be more like, here. </U>
+			<U WHO="S5"> if it was normal. </U>
+			<U WHO="S2"> and then by definition it's not, normal because income goes up consumption of good one just went, <U WHO="S5"> oh okay </U> down. <U WHO="S5"> alright </U> but what he's saying is moving <OVERLAP> along </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> directly </OVERLAP>
+				</U> directly north, meaning what would happen if income went up to, a tangency, the indifference curve's flatter when you get across the budget line in a way that, better is, <U WHO="S5"> oh okay i see </U> backwards... <U WHO="S5"> alright </U> okay. </U>
+			<U WHO="S7"> i have a question on twenty-six. </U>
+			<U WHO="S2"> okay get your course pack back, before i steal it. <U WHO="S9"> alright </U> um, has the utility function Cobb-Douglas and has the endowment twenty forty so endowment is equal to twenty comma forty, and utility is equal to X-one X-two okay. question says, she could sell one to get more of the other, she's a net seller for any price above some P-star and is a net buyer for any price below some P-star and what is P-star...? so, what are we what are we trying to find? </U>
+			<U WHO="S7"> the price where she's, neither a seller nor a buyer? <U WHO="S2">
+					<OVERLAP> exactly </OVERLAP>
+				</U>
+				<OVERLAP> she just keeps </OVERLAP> her original endowment? </U>
+			<U WHO="S2"> right. so if i look at, the endowment twenty forty so it would be a point like that, <U WHO="S7"> okay </U> what would make her, want to just keep that. if she's Cobb-Douglas? </U>
+			<U WHO="S7"> when the price is equal to... when P-one is equal to P-two? </U>
+			<U WHO="S2">
+				<OVERLAP> or when </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> (xx) </OVERLAP> M-R-S equals P-one </U>
+			<U WHO="S2"> yeah <U WHO="S7">
+					<OVERLAP> okay when the M-R-S equals </OVERLAP>
+				</U>
+				<OVERLAP> (it has to be,) </OVERLAP> the slope of the indifference curve would have to equal, the slope of the budget line, <U WHO="S7"> okay </U> at that <U WHO="S7">
+					<OVERLAP> point </OVERLAP>
+				</U>
+				<OVERLAP> point. </OVERLAP> so fortunately we know the M-R-S, <U WHO="S7"> mhm </U> cuz it's X-two over X-one so it's, two in magnitude, <U WHO="S7"> two okay </U> so that tells us if the price ratio is two, <U WHO="S7"> mm </U> then, she'd keep that. if the budget line had been flatter, she'd be, buying more <U WHO="S7">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> X. </OVERLAP> had the budget line been, steeper she'd be, selling X. <U WHO="S7"> okay. </U> these are_ a lot of these questions it's really, about understanding_ i mean that one if i explain it to you it's a real simple question <U WHO="S7"> mhm </U> it's about, understanding, <U WHO="S7"> what the <OVERLAP> question's asking </OVERLAP>
+				</U>
+				<OVERLAP> how the graph </OVERLAP> fits to the question yeah. </U>
+			<U WHO="S7"> okay. </U>
+			<U WHO="S8"> um okay i was wondering about this point rationing. <U WHO="S2"> okay </U> (xx) how um, (xx) fixed points that are, fixed point constraint, okay i don't know what this line is right here. <OVERLAP> this dashed line </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> that line </OVERLAP> is, an income offer, curve, um th- that really doesn't, exist because we're not changing, the point constraint, <U WHO="S8"> okay </U> but it's saying suppose we, look at the tangency to this line, <U WHO="S8"> okay </U> and then think about what would happen if income were to go up or down. that's what it would be. </U>
+			<U WHO="S8"> oh okay. but it's actually, this line. <OVERLAP> there's no_ okay </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right, </OVERLAP> but cuz we're never changing the amount of coupons that anyone has. <U WHO="S8"> okay </U> so, we need this point when the coupon constraints binding that's the best point, but the other points along it aren't gonna tell us, anything. </U>
+			<U WHO="S8"> okay. okay </U>
+			<U WHO="S9"> you can skip around cuz (xx) <EVENT WHO="SS" DESC="LAUGH"/> she got my last one with her other question. </U>
+			<U WHO="S5"> (xx) i completely don't get that but i don't have any other, <EVENT WHO="SU-f" DESC="LAUGH"/> questions. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> you completely don't get what? </U>
+			<U WHO="S5"> that whole graph right there. <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it's </OVERLAP> a hard graph i don't </U>
+			<U WHO="S2"> okay what it's showing. is we've got two constraints. so i'll do one in black, and the other in red. okay? and then what we're doing is we're wondering what happens, when, the red constraint goes up and down. </U>
+			<U WHO="S5"> okay. </U>
+			<U WHO="S8"> so in terms of like food coupons how would these two constraints </U>
+			<U WHO="S5">
+				<OVERLAP> one's </OVERLAP> (where the) </U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> everyone has different cash <U WHO="S8">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> income, </OVERLAP> and the same amount of coupons. <U WHO="S8"> okay. okay. </U> so if we look at, very, poor people, they'd be consuming, here. and i could draw the, what happens when income, goes up income offer curve for Cobb-Douglas and it would look like that. <U WHO="S5"> okay </U> but the problem is, that these points are perfectly attainable, as your income goes up up up up up, <U WHO="S5"> till you reach that </U> till you reach that. and <U WHO="S5">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> then and then you </OVERLAP> can't, you don't have more coupons so you can't, go out along that line. <U WHO="S5"> right okay </U> and we can understand when somebody has a ton, of income, like their budget line's all the way up here, that this is a best choice because they're now tangent to the coupon constraint. <U WHO="S9"> mm </U> so the parts of the picture that are that are easy, are there to there, and here. <U WHO="S5"> okay </U> the hard part, is that it goes here as income goes up. and the reason is that there, isn't a tangency any more. um if we blow up if i try and blow up, part of the picture, this is the hard one, okay so s- i wanna get somebody in here. so if i look at, let's say this point, on that slope looks different it's minus one-third, this slope is, minus, now that's really bad. <EVENT WHO="SU-f" DESC="LAUGH"/> okay. let's try this again. so i wanna have, that slope and i wanna have, this slope. now what would have happened here is there, what would have happened here is, there. so i'm getting right, in here, and the budget set is now on the red line, uh black line and everywhere underneath. and the question is, what do i know about, indifference curves? i know, if i drew something here with a slope of minus one, that i'd have, a tangency. so, clearly, clearly if i consider this point clearly better stuff is over, here. <U WHO="S5"> mhm </U> and i know if i look at, this point, i'd have, a tangency, but it's clearly unattainable. so moving, along the coupon budget line we're getting better off moving this way, um this point is unattainable, and if i look at, this point, we'd have a cut, again, it would cut the uh, i drew these right, it would would cut underneath, that line, but in an unattainable, region, would also cut the red line but in, an unattainable, region so the best, choice is at, the kink of this budget set, <U WHO="S5"> mhm </U> instead of at a tangency. and that's what's going on when income's going up up up up, best choices are kinks, because the budget set is kinked, <U WHO="S5"> okay </U> and not a tangency. </U>
+			<U WHO="S5"> okay </U>
+			<U WHO="S7"> so, <U WHO="S9"> what is what </U> so to solve, this point you would just set the two equations equal to each other? </U>
+			<U WHO="S2"> exactly </U>
+			<U WHO="S7"> oh okay okay. </U>
+			<U WHO="S2"> solve this point, you'd have, the tangency equation plus the coupon, equation. to solve any of these points you'd have a tangency to the red line equation plus the, red line equation. but any of these points, are just the intersection of the two budget lines. </U>
+			<U WHO="S7"> mhm, so you wouldn't do the slopes? </U>
+			<U WHO="S2"> wouldn't do the slopes. </U>
+			<U WHO="S7"> do the equations <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S8"> so these are all the kinks. (right?) <U WHO="S2"> correct. </U> okay. </U>
+			<U WHO="S2"> but as the budget set's getting bigger so the red line is moving out, the kink would, move, you know it woulda been here then it would be here then it would be here and then finally the kink doesn't, matter anymore because you have so much income that you're constrained, only by, the coupon constraint. <U WHO="S8"> okay </U>
+				<PAUSE DUR=":06"/> pretty picture? <EVENT WHO="SS" DESC="LAUGH"/>
+				<PAUSE DUR=":10"/> does that make sense Silvi? </U>
+			<U WHO="S5"> yeah, <EVENT WHO="SS" DESC="LAUGH"/> it makes sense i just don't know what i'm doing </U>
+			<U WHO="S2"> you just have to work the (xx) </U>
+			<U WHO="S7"> okay i have a question, i don't have my workbook with me but it was one of the homework problems from the demand section, it was where (xx) no wai- wai- substitution effects. <U WHO="S2"> okay </U> and they would ask you like, like there would be a point where you would stop buying X-one and all of it would go to X-two all the extra income would go to X-two <U WHO="S2">
+					<OVERLAP> (quasi-linear.) </OVERLAP>
+				</U>
+				<OVERLAP> n- </OVERLAP> right i didn't understand that. like when it's only dependent on one variable, like that wasn't clear to me. </U>
+			<U WHO="S2"> okay so supposing (you have) this old Ambrose utility function. <U WHO="S7"> okay mhm </U> and, price will (xx) P-one equals one P-two equals, two. okay so if i think about the picture, first thing i think with Ambrose is, indifference curve budget line and the choice should look like that. right? so i should get a, unique best choice it should be an interior solution. <U WHO="S7"> mhm </U> and, if i solve this, okay M-E-one, </U>
+			<U WHO="S7"> oh it's, one over, okay (xx) will be, four over, radical-X? </U>
+			<U WHO="S2"> yeah except it's one-half times four so it's two. </U>
+			<U WHO="S7"> two oh you're right okay. </U>
+			<U WHO="S2"> and then the M-E-two is, <U WHO="S7"> one </U> one so that falls out, um, and what i do for the tangency equation is set this equal to the price ratio which is just one-half. <U WHO="S7"> okay </U> and what i can see is the, a- a- algebra that normally has two variables in here has one, variable, <U WHO="S7"> mhm </U> and it's says, multiplying the square root of X-one is, four or X-one is squared (xx) sixteen, <U WHO="S7"> mhm </U> so i go oh X-one is always sixteen. <U WHO="S7"> okay </U> and that's my answer. </U>
+			<U WHO="S7"> okay <OVERLAP> so </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> (so i can) </OVERLAP>
+				</U> after he buys sixteen, he won't buy anymore. <U WHO="S2"> correct </U> okay. </U>
+			<U WHO="S2"> the problem is when his income falls so low that he can't buy, sixteen. </U>
+			<U WHO="S7"> so he doesn't buy any X-two. </U>
+			<U WHO="S2"> then he buys only X-one. and it moves along here. <U WHO="S7"> okay </U> so that's my income, offer curve, and this would be sixteen and we better label my axes X-one and X-two, i could convert that to an angle curve for either one of the goods, if i had the space, um, if i were doing X-one, says, he spends only, money on X-one till he has, <U WHO="S7"> sixteen </U> sixteen units and <U WHO="S7">
+					<OVERLAP> it would just be, vertical </OVERLAP>
+				</U>
+				<OVERLAP> that costs him, </OVERLAP> sixteen dollars <U WHO="S7">
+					<OVERLAP> mm okay. </OVERLAP>
+				</U>
+				<OVERLAP> and then it would be, vertical. </OVERLAP> X-two, i shouldn't do these on the same graph but i'm going to cuz i'm out of space. um he spends no money on X-two until he, <U WHO="S7"> has sixteen </U> and then every <OVERLAP> extra, dollar, (xx) </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> all of it, just because, oh it would be </OVERLAP>
+				</U> when he has eighteen he can buy one so, we'd have a slope of two. </U>
+			<U WHO="S7"> okay </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S7"> it's so easy when you explain it. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> that's the problem with this course i mean <EVENT WHO="SS" DESC="LAUGH"/> you lear- you don't learn it_ that's what i mean about you have to do it <U WHO="S7">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> until </OVERLAP> it's really, second nature to you cuz you can't learn it watching, me you've got to <U WHO="S7">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> work </OVERLAP> through it and really, pick up a lot of the fine points... if you put me back in the course i (must've passed it.) <EVENT WHO="SS" DESC="LAUGH"/> other questions? </U>
+			<U WHO="S9"> um, <U WHO="S2"> Matt </U> can you go over_ i didn't understand the book's explanation of Hicks versus, Slutsky (xx) </U>
+			<U WHO="S2"> okay. so what we're talking about is you're consuming something the price changes and, what um, (sorry can i,) and what, happens. um first of all the consumer, should be compensated, in some way for that price, change. how do we compensate them? the idea is we should compensate them to leave real income, constant. or purchasing power constant. so then there's a difference in definition. Slutsky says, give them cash to give them back, their original, choice. Hicks says give 'em cash to give them back their original, utility. so, if we were drawing, something, so this is good one good two, uh here's a budget line, want good one to get cheaper? <U WHO="S9"> yeah <OVERLAP> sure </OVERLAP>
+				</U>
+				<OVERLAP> more </OVERLAP> expensive anything? okay. so suppose this is your original, choice, and this is your new choice clearly, better off, uh how do we compensate? Slutsky says, at the new prices you should be able to buy your original, bundle. so notice the Slutsky compensation puts you on a higher, indifference curve. Hicks says, at the so this is S for Slutsky. Slutsky. Hicks says, at the new prices give you back your original utility, so i'd be looking for a, point on the original indifference curve, tangent... at the new, slope. so Hicks would let you, still move towards consuming more good one, but, only, <U WHO="S9"> along the indifference curve </U> along the original, indifference curve. so, this the um, here what we're doing is because the price fell we're actually taking money away we're not compensating you for a price increase at all we're taking money away because the price, went down, and you can see that Hicks is taking more money, away, leaving you, worse off than Slutsky would. if we talk about, a price, increase, it goes the other way, so, if here's the original choice, and here's the new, choice, um Slutsky would, give you, this much, um, cash and Hicks would recognize, would correctly recognize, but that can, give you many better, bundles, increasing your utility, and we don't wanna increase your t- utility we wanna leave it, the same, smaller, compensation. so Slutsky always lets you get, to, a higher, indifference curve because you're not pegged on the original indifference curve you're pegged on the original bundle, but you may not choose that same bundle, once the price ratio changes. <PAUSE DUR=":04"/>
+				<OVERLAP> good? </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> (so it's the) </OVERLAP> yeah. </U>
+			<U WHO="S5"> but what if the price goes down, or the price goes up for, good one then, Slutsky's, taking away more money? </U>
+			<U WHO="S2"> so price_ this is what i did here so price went up for good one, <U WHO="S5"> okay </U> which means give money, back, <U WHO="S5"> the the okay </U> so Slutsky gives you, enough money to buy what you bought before, so the red is Slutsky again. which gives you higher, <OVERLAP> utility. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> but what if </OVERLAP> the price went up for X-one though? </U>
+			<U WHO="S2"> that's what i did here. <U WHO="S5"> oh that is up okay </U> yeah cuz the budget set just, <OVERLAP> shrank. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> oh okay </OVERLAP> i see, okay. </U>
+			<U WHO="SU-f"> (it's) steeper. </U>
+			<U WHO="S2"> yeah got steeper. it but Hicks would, only allow you, to get your original utility back so you'd be getting less cash. <U WHO="S5"> okay </U> but here this was the one we did in class this was different cuz that_ we let price, fall and they both compensate differently but here they're taking away money so Hicks is actually taking away more, <U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> money </OVERLAP> because of your good fortune with the price, getting cheaper. but in both cases, Slutsky's letting you be better, off than the Hicks, <U WHO="S5"> okay </U> compensation or won't be worse off, for sure. <U WHO="S5"> alright. </U> (you've) seen me draw a lot of pretty pictures (xx) </U>
+			<U WHO="S8"> um </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> what (xx) mm </U>
+			<U WHO="S9"> oh yeah you were gonna tell us what's on the quiz today. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> right right right it could be anything from chapter, <EVENT WHO="SS" DESC="LAUGH"/> five six, eight nine. how's that? </U>
+			<U WHO="S9"> okay, thanks, you've cleared that up </U>
+			<U WHO="S7"> are there gonna be any review sessions? <U WHO="S2"> for </U>
+				<OVERLAP> for the exam Monday? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> exam. </OVERLAP> yes. i'm doing one Friday from, three fifteen to four forty-five. </U>
+			<U WHO="S7">
+				<OVERLAP> oh no </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> the exam's </OVERLAP> Wednesday's right? </U>
+			<U WHO="S2"> the exam is Tuesday. </U>
+			<U WHO="S5"> Tuesday whatever she said Monday <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> that is </OVERLAP> so terrible. <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> no i have </OVERLAP> my accounting exam, at four. but we can probably come before, the accounting exam_ oh it starts at four thirty yours is, the review session is when? </U>
+			<U WHO="S2"> three fifteen so you can come <EVENT DESC="LAUGH"/> to econ review <OVERLAP> and then the, which accounting? </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> yeah i'll be in my accounting mindset </OVERLAP> but, that's okay. </U>
+			<U WHO="S2"> which accounting? </U>
+			<U WHO="S7"> oh two-seventy-one. </U>
+			<U WHO="S2"> that's the the the tough one. </U>
+			<U WHO="S5"> that's the <OVERLAP> tough one really? </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> that first exam </OVERLAP> was awful last year. </U>
+			<U WHO="S7"> oh please don't say that. </U>
+			<U WHO="S9"> it was okay but, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well you know what though </OVERLAP> there's some people who like accounting. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S9"> yeah it was <OVERLAP> okay but </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i liked </OVERLAP> calculus so, that means i'm not gonna like accounting. that's what everyone says. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> oh <OVERLAP> no because you like econ </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> because you did </OVERLAP> like calculus? </U>
+			<U WHO="S7"> what? they say yo- you either like calculus or you like accounting you can't like them both. <EVENT WHO="SU-f" DESC="LAUGH"/> either you like <U WHO="S2">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> have this, </OVERLAP> just don't get accounting. </U>
+			<U WHO="S2"> i had an accounting class that i thought was a lot of fun and i liked math, but it wasn't here. <U WHO="S7"> oh </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> so maybe that explains it. <U WHO="S9"> that would do it </U> well i've heard, four-seventy-one is really a lot of fun. </U>
+			<U WHO="S7">
+				<OVERLAP> accounting four-seventy-one? </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (that's for) non-majors right? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> accounting four-seventy_ </OVERLAP> it's for people who aren't going applying to the B-school. <U WHO="S8"> yeah </U>
+				<U WHO="S7"> oh okay. </U> and </U>
+			<U WHO="S5"> so wait two-seventy-one is meant for people that are </U>
+			<U WHO="S9"> it's a it's a pre-req for the B-School. </U>
+			<U WHO="S5">
+				<OVERLAP> i already took that last year. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> two-seventy-one, </OVERLAP> is is the actually, the accounting case two-seventy-one is a much more, difficult course because then four-seventy-one four-seventy-one is, i'd like to learn some accounting but don't kill me cuz i'm not going to the B-School. <PAUSE DUR=":06"/>
+				<EVENT WHO="SS" DESC="LAUGH"/> but some people like accounting some people take two-seventy-one and just really enjoy it. <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> is there any way you could like go over Edward's boxes (xx) </U>
+			<U WHO="S2"> Edward's boxes what about them? </U>
+			<U WHO="S5"> i don't know i've just, <U WHO="S9"> (xx) </U> i've tried doing the homework it's a lot more difficult. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well part of the </OVERLAP> problem is that we're not gonna assign the whole homework we're gonna assign the first part of a lot of the problems, <U WHO="S9"> oh </U> because, the Edward's box itself is pretty straightforward but, there's a week's worth of material in this homework. </U>
+			<U WHO="S5"> okay wait so, <U WHO="S9">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> it's just </OVERLAP> this one through five those questions? </U>
+			<U WHO="S2"> um, these questions o- one through, five plus the other four in the workbook. are for two days. </U>
+			<U WHO="S5"> okay but what's due tomorrow? <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> what's due tomorrow. i'll announce it when i go in there. question one. in this, assignment. <U WHO="S5"> okay </U> two A through D, four A through C, and then, in the workbook, one A and B two and six. </U>
+			<U WHO="S7"> one A and B, two and six? <U WHO="S2"> yeah </U> that's chapter twenty-nine right? </U>
+			<U WHO="S2"> correct. yep... </U>
+			<U WHO="S7"> (okay) </U>
+			<U WHO="S8"> (actually) emailed me </U>
+			<U WHO="S2"> oh okay, i we just decided what this was gonna be. i had to look at it. um but, the Edw- so what about the (Edward's?) </U>
+			<U WHO="S5"> i don't know i don't even (xx) the question. the first problem i was already, like, getting lost on it (xx) </U>
+			<U WHO="S2"> so the big thing about the Edward box is, hi come on in (xx) <U WHO="S10"> hi </U> we've got <OVERLAP> two, </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> (you want a chair?) </OVERLAP>
+				</U> you can share a chair. </U>
+			<U WHO="S7"> okay i'll share. </U>
+			<U WHO="S2"> we can take the box off that one if you want to, work <OVERLAP> around the mic. </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> (xx) </OVERLAP> share (a chair) </U>
+			<U WHO="S2"> okay so we got this box. and what it's representing is the total amount of good one in the economy. going this way. and the total amount of good two in the economy going, up. and what we're gonna do with it is we're gonna say we have two people both with endowments. so we'll put them at some, point here. <U WHO="S5"> uhuh </U> and the beauty of the box is that, one point now represents four things. so person, A we could say is here, and then this looks just like chapter nine. we've got an endowment we've got a budget line we've got preferences. </U>
+			<U WHO="S5"> okay but so how do you represent different marginal rates of <OVERLAP> substitution? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> marginal rate of substitution would be the slope of the indifference curve through any point, so if it's three i could, make it three. </U>
+			<U WHO="S5"> okay what if they both, what if there're two people that have different ones then? </U>
+			<U WHO="S2"> okay. then the other person_ this is how i do this. turn your paper upside down. <U WHO="S5"> okay </U> the other person, now, is, here, <U WHO="S5"> right </U> with this much stuff and, that much stuff, has a budget line going through there, and we want the indifference curve to be flatter? <U WHO="S5"> sure </U> flatter, i just did it. <U WHO="S5"> mm </U> so indifference curves cross, person B is better off going, that way, person A was better off going, <OVERLAP> that way, </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> (xx) trade </OVERLAP>
+				</U> so they're gonna, voluntarily go to some in between, point like that. </U>
+			<U WHO="S5"> okay is there like some inequality that you could write out that would show how they would trade? i don't know it's so_ like the first question <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> to know exactly where'd they go? you'd need to have utility functions. the first question is just a really vague, um, draw a picture where, what direction would they go? </U>
+			<U WHO="S5"> oh and would it be true for (better) okay it does- it doesn't have you say it. </U>
+			<U WHO="S2"> you can't answer numerically <U WHO="S5">
+					<OVERLAP> okay that's fine. </OVERLAP>
+				</U>
+				<OVERLAP> where they'd end up. </OVERLAP> to answer numerically where they'd end up you'd need to have, prices, and and the tough part of this chapter, is given utility functions we're gonna be able to figure out prices, where what one wants to buy the other wants to sell exactly that so we're gonna actually get to the equilibrium. <U WHO="S5"> okay </U> and that is the most challenging thing we're gonna do before the exam but we're doing it, Wednesday Thursday exam isn't until the following, <U WHO="SS"> Tuesday </U> so you've got lots of time to work on it. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S10"> um, yeah i have qu- one question <U WHO="S2"> okay </U> about the indifferent variant. <U WHO="S7"> what page? it's on this uh </U> forty-two. okay here, it was just saying like okay s- mm... i was going to, my instinct was to go like that. but that's not point B. to find X-one was inferior. </U>
+			<U WHO="S2"> to find if X-one was inferior <U WHO="S10">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> so you </OVERLAP> want to go from from, we don't have enough lines here to look at it <U WHO="S10">
+					<OVERLAP> no y- </OVERLAP>
+				</U>
+				<OVERLAP> okay </OVERLAP> dashed line okay. so what you wanna do, new price, line through, <U WHO="S10"> mhm </U> and then you wanna go from point B to point <U WHO="S10">
+					<OVERLAP> C okay </OVERLAP>
+				</U>
+				<OVERLAP> C to see </OVERLAP> if it is, <U WHO="S10">
+					<OVERLAP> inferior right okay, so how </OVERLAP>
+				</U>
+				<OVERLAP> inferior or normal. because </OVERLAP> that's the shift. </U>
+			<U WHO="S10"> so, if it was a price decrease this was a price increase right? <U WHO="S2"> correct </U> then um, i know from point B you draw up cuz the new line would be above it <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> for this one is it do you go down, and like that? </U>
+			<U WHO="S2"> so if you want to look at, what happens with income exactly, <U WHO="S10"> mhm </U> you draw it from point B that way and that way, <U WHO="S10"> okay </U> and C is, a smaller amount of X-one, and a smaller amount of X-two? <U WHO="S10"> mhm </U> in response to a cut, <U WHO="S10">
+					<OVERLAP> (in X) mhm </OVERLAP>
+				</U>
+				<OVERLAP> in income. </OVERLAP> so they're both normal cuz income goes down <U WHO="S10">
+					<OVERLAP> right okay. </OVERLAP>
+				</U>
+				<OVERLAP> and the (xx) for </OVERLAP> both of them goes down. </U>
+			<U WHO="S10">  okay. but then here it was saying something like, when good one, i, i thought that this was going with this graph but i guess not. </U>
+			<U WHO="S2"> so that one the good got more expensive you consume less that's the <OVERLAP> normal, </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> normal good </OVERLAP> yeah <U WHO="S2"> good. </U>  like here (when it said) good <U WHO="S2">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> one's </OVERLAP> inferior i thought it would be <OVERLAP> this picture </OVERLAP>
+				<EVENT WHO="S10" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so that uh </OVERLAP> that's not that picture. <U WHO="S10">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i don't </OVERLAP> like that picture as a matter of fact that picture may not be there... i think that picture's not there. <U WHO="S10"> okay </U> i think that's the problem. but we could look at what happens, <U WHO="S10"> okay </U> we could get even more paper, </U>
+			<EVENT DESC="RECORDING-RELATED CONVERSATION NEXT :50"/>
+			<U WHO="S2"> okay so what happens? price goes, up. <U WHO="S10"> mhm </U> and the or- original choice is, there. <U WHO="S10"> mhm </U> and what_ oh that's a bad graph for that. let's_ the original choice is, there. <U WHO="S10"> okay <EVENT DESC="LAUGH"/>
+				</U> and what i want is a graph that gives me the final choice, <U WHO="S10"> okay </U> here. <U WHO="S10"> okay mhm </U> because what i want is for the price to go up and the consumer to want, more. the only way i'm gonna do this... income substitution effect... substitution effect, i know is gonna move, this way. <U WHO="S10"> mkay </U> to a point like, B. the only way i'm gonna get a given good, is if the good is, inferior so, notice what happens here income goes down the consumer <U WHO="S10">
+					<OVERLAP> right more </OVERLAP>
+				</U>
+				<OVERLAP> wants, </OVERLAP>
+				<OVERLAP> more, </OVERLAP> and on top of that it is so inferior, substitution effect, income effect, that the income effect wins. <U WHO="S10"> oh okay </U> so this is, very similar to what we did about, forty-five minutes ago, only, <EVENT WHO="SU-f" DESC="LAUGH"/> this is how you get a demand curve that slopes, up which is very bizarre (that it) gets more, <U WHO="SU-f"> mhm </U> expensive and in response to that you want, more of it. and it's basically it's gotta be something you don't want. <U WHO="S10"> mhm </U> but you're buying it because it's, <U WHO="SU-f">
+					<OVERLAP> cheap. </OVERLAP>
+				</U>
+				<OVERLAP> cheap. </OVERLAP> and you're you're poorer as, it gets more expensive. so, it's a i mean things that are, normally thought of as, given would be like kerosene for heating or, <U WHO="S10">
+					<OVERLAP> baloney </OVERLAP>
+				</U>
+				<OVERLAP> baloney </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/> or things that, if you think about it what as they if you're eating baloney and then it gets cheaper you might actually eat less cuz you've got more money freed up to eat something you'd like better. </U>
+			<U WHO="S7"> so that would be a given good. <U WHO="S2"> yes </U> but if you bought, the price went down, and you bought, so wait i just don't understand the difference between, inferior and given. </U>
+			<U WHO="S2"> a given good must be inferior. </U>
+			<U WHO="S7"> okay, <U WHO="S10"> right </U> but, <U WHO="S10">
+					<OVERLAP> it's just way more </OVERLAP>
+				</U>
+				<OVERLAP> when is_ when </OVERLAP> is an inferior good not given? </U>
+			<U WHO="S2"> if the, i- income effect ends up smaller in size than the substitution effect. </U>
+			<U WHO="S5"> the opposite direction (xx) </U>
+			<U WHO="S2"> yeah still the opposite direction, but point C would be increasing. </U>
+			<U WHO="S10"> someone else told me this trick where you know if you draw, the line straight down over here, if, like this part of the graph it's like, between here and here it's normal between, through here it's inferior </U>
+			<U WHO="S2"> so if you draw a line through A, and compare A to C, <U WHO="S10"> okay </U> since C is, o- on the, right side, <U WHO="S10"> right okay </U> this is a given, good. if C were on, the other side it would be, a, um ordinary good. <U WHO="S10"> normal </U> ordinary cuz we're looking at given <U WHO="S5">
+					<OVERLAP> it could be (inferior or normal) </OVERLAP>
+				</U>
+				<OVERLAP> or, ordinary. </OVERLAP> if <U WHO="SU-f">
+					<OVERLAP> oh okay okay </OVERLAP>
+				</U>
+				<OVERLAP> we want to see if it's, </OVERLAP> normal or inferior, you have to draw a line through B, and compare B to C. <U WHO="S10"> okay okay </U> so here income's falling you want more, if C's to the right we know when income falls that's inferior, if C had been to the left it would be, <U WHO="S10">
+					<OVERLAP> normal. okay </OVERLAP>
+				</U>
+				<OVERLAP> normal. so </OVERLAP> normal must be ordinary, because if it's over here it's also over here compared to A. <U WHO="S10"> right okay </U> but to get, over, here, to this side of A it must be that it's also that side of C. <U WHO="S10"> okay </U> so that helps you see </U>
+			<U WHO="S10"> so on this side you've got normal and ordinary. <OVERLAP> on this side </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so normal </OVERLAP> must be ordinary, <U WHO="S5"> ordinary doesn't have to be normal </U> o- ordinary, <U WHO="S10">
+					<OVERLAP> and normal, or normal </OVERLAP>
+				</U>
+				<U WHO="S5">
+					<OVERLAP> and inferior </OVERLAP>
+				</U>
+				<OVERLAP> no ordinary, </OVERLAP> ordinary yeah could be inferior exactly. so in here right in here, you have the case between these two lines, that Silvi was just talking about, <U WHO="S5"> mhm </U> where it's um, ordinary but, inferior. <U WHO="S10"> oh </U> so if it's anywhere in here, <U WHO="S10"> okay </U> it's ordinary and inferior, <U WHO="S10"> mhm </U>
+				<U WHO="S5"> right </U> all the way out here, <U WHO="S10"> (it's given) </U> it's given and inferior </U>
+			<U WHO="S10"> here it's just, just normal. </U>
+			<U WHO="S2"> and here it's, normal and, <U WHO="SS">
+					<OVERLAP> ordinary </OVERLAP>
+				</U>
+				<OVERLAP> ordinary. </OVERLAP>
+			</U>
+			<U WHO="S5"> that's a good drawing (xx) </U>
+			<U WHO="S10"> (xx) </U>
+			<U WHO="S2"> yeah <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S10"> hm normal or, ordinary. </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S10"> (yeah okay.) </U>
+			<U WHO="S2"> cuz one is describing the income and the other is describing the, price... <U WHO="SU-f"> (xx) </U> so the good thing about having the quiz, is it gets us starting to think about the <OVERLAP> exam. </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> studying </OVERLAP>
+				</U> yeah. </U>
+			<EVENT DESC="RECORDING-RELATED QUESTION"/>
+			<U WHO="S10"> (just) really quick question is this a example of homothetic preferences? </U>
+			<U WHO="S2"> yes. </U>
+			<U WHO="S10"> but i thought, it could only be homothetic if it was g- a ray going <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> straight </OVERLAP> through the origin. </U>
+			<U WHO="S2"> exactly. and what we have here is is a ray going straight through the origin but the problem is there's a second constraint. </U>
+			<U WHO="S5">
+				<OVERLAP> mm </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> oh, </OVERLAP> okay okay okay </U>
+			<U WHO="S2"> someone can pick up the stuff out of here too so i can get to class and hand out Scantrons. </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S10"> thank you </U>
+			<U WHO="S2"> and hopefully there's more than one person that, <EVENT WHO="SS" DESC="LAUGH"/> (so- take this stuff out and get to class.) </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

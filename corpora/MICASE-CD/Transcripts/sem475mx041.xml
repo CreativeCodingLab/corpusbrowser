@@ -1,0 +1,905 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="sem475mx041">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Graduate Philosophy Seminar </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SEM475MX041 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="125">
+						<DATE> October 19, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Aaron Stark </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Rodney Pratt </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Linda Kurtz, Rita Simpson </NAME>
+							<RESP> Final Editing, 11/10/99 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="2"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="3"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Instructor" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="ST, Student (auditing)" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S3" LANG="NRN" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> CZE </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="SU-2" LANG="NS" ROLE="ST, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Seminar Room, Angell Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> far you got in the readings and what, readings you did. </U>
+			<U WHO="S2"> uh i read the first uh just up to transparency on phenomenal illusions and, (actually) finished reading <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> like the first four f- </OVERLAP> five pages or something like <U WHO="S2"> yeah. </U> that? <U WHO="S2"> yeah </U> and you </U>
+			<U WHO="S2"> finished reading the one from <OVERLAP> last time so </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (oh okay.) </OVERLAP> did we have a miscommunication about what or you just, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no i-i i i wa- i i i </OVERLAP> read that shortly thus th- <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> th- </OVERLAP> the day after the class and thought i would, have, more time as time went on </U>
+			<U WHO="S1"> how far'd you get <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah i read, </OVERLAP> i read the Tye thing yeah but i didn't get too far into <OVERLAP> (your) paper </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> ah okay. </OVERLAP> and you didn't read the Tye? </U>
+			<U WHO="S2"> no i haven't read Tye </U>
+			<U WHO="S1"> okay so we don't have any overlap alright <U WHO="S3"> um </U> that's interesting. <U WHO="S3">
+					<OVERLAP> you said that </OVERLAP>
+				</U>
+				<OVERLAP> you said </OVERLAP> that the the the couple pages from Tye, <U WHO="S3"> yeah. </U> about (Pecant) alright? </U>
+			<U WHO="S3"> yeah. those are the sort of the cases that (we) presented on the, first, day, right the the case of the, </U>
+			<U WHO="S2"> two trees </U>
+			<U WHO="S3"> (with) the two trees </U>
+			<U WHO="S1"> we already talked about that? first day <OVERLAP> of this seminar </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well we s- yeah we sort of (xx) mentioned it. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> we've mentioned it a couple (times.) </OVERLAP>
+			</U>
+			<U WHO="S1"> alright. okay. </U>
+			<U WHO="S2"> so we talked about, and also y- y- y- you've raised it in another thing that you wrote uh, talking about the, um... i forget exactly exactly how you'd how you worked it out but we did talk about some. </U>
+			<U WHO="SU-m"> okay </U>
+			<U WHO="S1"> then um, then, i i i i figured with the shorter, shortened week we might be like this so i, brought some stuff to... to do. not so we weren't driven just by your questions. um, but if you have stuff you wanna raise about what you read i_ what i would do, left to my own devices is to, tell you what i'm trying to do in this, phenomenal illusions paper. summary form and stuff like that. um, if you have questions about Tye, u- i- if you say we'd already discussed it then it might not be (hard) if you... if you <OVERLAP> got already questions (xx) </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> i i do i do i do have one question on the on the beginning </OVERLAP>
+				</U> if they're not highly detailed then you might, very easily be able to raise 'em as i go. so that we don't leave John, behind (xx) </U>
+			<U WHO="S2"> yeah this this was just the very beginning. that, uh talks about, uh uh Sartre's contention, uh that, we are under the illusion, that we have an image. uh, uh the the statement on on on this account, uh I'll read the sentence before this <SEG TYPE="READING"> was posed in the speaking of color shapes and mental images people are trying to express, their imaginative experiences or perhaps their most natural beliefs about their experience </SEG> sincerely strictly literally <SEG TYPE="READING"> on this account the experiences or beliefs represent, that there are images, with color and shape, although there are no such things. uh this takes more seriously Sartre's idea that we are under an illusion, which i call the image illusion. </SEG> uh which he which he which_ that's i guess, um, that would well, <OVERLAP> (xx) expression </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (xx) a quote </OVERLAP> from Sartre that's not </U> the last, there's, i was looking for the image illusion as a quote that's his expression. </U>
+			<U WHO="S1"> no. the illusion of eminence. you see from like the first page or second page (or so) this is the only quote. </U>
+			<U WHO="S2"> yeah. right right. </U>
+			<U WHO="S1"> whatever. you may (have) </U>
+			<U WHO="S2"> right okay. the illusion of eminence. </U>
+			<U WHO="S1"> (but) it doesn't matter the words (you use) </U>
+			<U WHO="S2"> uhuh. it's, what what what's puzzling me about is that is that suppose i have an image in my mind of a, of a red fire truck, <EVENT DESC="LAUGH"/> which i can you know form in my mind and and and (xx) got an image of a red fire truck or, said close your eyes and and and think of that. um, is is Sartre's contention that, you only have a uh, um, that you have, a, a something that represents, uh the color, red? rather than really having, the color red? and when you're, imagining it that way? </U>
+			<U WHO="S1"> that's what he says that's what i think too that's what almost, everyone thinks but, you know, does that surprise you? </U>
+			<U WHO="S2"> w- </U>
+			<U WHO="S1"> you know that there's nothing (red) <OVERLAP> in </OVERLAP> in your mind </U>
+			<U WHO="S2">
+				<OVERLAP> w- w- it's it's </OVERLAP> yeah it comes comes across in in what um um, uh Daniel Dennett seems to assume and maybe this is a a wider held assumption but it's a surprisingly (fairly) (wide-held) assumption. is that if there's nothing which is literally red, in my brain, um then i can't be, genuinely having experience of red. um but that's gonna be true of uh, uh when i'm looking at a red book. i'm not_ there's nothing red in my head. uh, uh and to <OVERLAP> say </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i- i- </OVERLAP> no one is denying you have exp- we'll hafta back up on this (xx) <U WHO="S2"> alright. </U> it is a kind of s- it's it's not just a hey what did this word mean sort of thing. but be- uh uh um, but uh, but, the denial is not that, you're having experience, of red, it's it's the denial that you have an experience made of red. <U WHO="S2"> right </U> you know. uh uh um that you literally have an i- a likeness, of red things in your head. that you, you know i- in other words you have red things in your mind. i mean of course you have red things in your brain, blood (xx) </U>
+			<U WHO="S2"> yeah you don't an experience made of red, um <OVERLAP> if if one was thinking about </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah okay that's that's even though it </OVERLAP> seems like you do, when you say i have a red image and now i'm rotating it now it's coming closer, so that's the um, that that's the only illusion being claimed. it's b- being claimed (that) (xx) (there) but, but, i don't wanna go into it till we get to it. </U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S1"> so <OVERLAP> let's do </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> let's hold off </OVERLAP> on this then that that discussion <OVERLAP> till (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah (xx) </OVERLAP> as soon as soon as i see something that triggers it </U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S1"> (alright.) </U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S1"> um uh alright so um, what i'm trying to do, is, is a is a bunch of things at once, um i- one of_ that paper that we did last time i'm trying to argue for the inner perception model from, a priori considerations right? <U WHO="S2"> mhm </U> this is more like an attempt to reach the same theory from (xx) explanation. and um so we need some data, to explain, and the data's gonna be introspective and, and so in in that respect i'm at the mercy of other people saying yeah it's like that for me too or no no you're weird right and um, and uh, um, and i'm not sure, i i can (get away with it) but but what i, what i_ the first half of the paper is trying, without building in theory it doesn't mention, except in an introduction inner perceptions just trying to say, what there is to be explained, i think, and it's this pair of illusions, then the second half is trying to explain it, but uh uh uh okay so so there's an so there's this other argument for inner perception based, on the claim that it's the best unified explanation of, this pair of illusions. <U WHO="SU-m"> mhm. </U> um, uh, well why is this pair of illusions relevant to consciousness cuz i also think that, i try to argue this sorta case by case, that every last, exper- conscious experience you have suffers or, has, one, or other of the illusions are, c- combined in weird ways. um and that nothing that's not_ no mental state of yours that's not a conscious experience, has (either) one so the two together, this and that in actual cases are, you know track, consciousness, and um and it doesn't look like a coincidence. um, so um </U>
+			<U WHO="S2"> are the two mistakes of thinking that you have, through the the red that's out there, on the the transparency or the, diaphanous of <U WHO="S1">
+					<OVERLAP> (trans-) </OVERLAP>
+				</U>
+				<OVERLAP> tr- </OVERLAP> transparency illusion and the other the the illusion that i have something red in here, uh, that's, actually red. </U>
+			<U WHO="S1"> yeah the the the the the, the two illusions one, i should start calling it the likeness illusion rather than the image illusion but the the one, is roughly_ i'm gonna, hafta modify this later but roughly, the one illusion the image illusion is that you have, mental objects, with nonmental properties. um, so, a thing in your head a an image, a visual image that's_ has shape. uh um or, color, or size (something) motion, or uh um, or a uh, or a sound in your head a song in your head, uh kinda sound rhythm pitch and so forth. when there's nothing in your head (with) a- any of that stuff. um or in your mind or soul or whatever. um, so that's mental objects with nonmental properties and nicely (sort of) the transparency illusion is that there's nonmental objects, environmental objects bodily objects, nonben- nonmental objects with, mental properties some kind of, uh uh weird, dependent on your mind properties so, so um, the idea that, um... that uh um, you know the wall there not only has, um, uh shape, location, um, uh, mass, reflectance but also has, um, uh, a particular kinda shape look that can vary as you move or, or or reflectance look that can vary, according to, your sense organs, some some or or o- o- o- um, uh, the, the transparency illusion's harder to make out but it's but, the the best kind of examples i have is when you have a, shapes a, curved shape. and you, a- a- s- and mathematically or physically there's a, a a a be some account of curvature, and that's a property i'm not saying there's an illusion there, (xx) nonmental object really has that nonmental property, but, in perception it seems like it's got more properties than that, shape-related property so not only does it s- so you, you look at, you can you can be sensitive to the look of a, curve or the feel of a curve a blind person could. like you detect the feel of a curve. and, and uh a curve, look and a curve feel, the chair also seems to have the those properties, stuck on it, objectively it doesn't seem even though, even though... what a curve looks like and what a curve feels like are different from one another, and they're but even though they're detecting the same feature, they um curvature, uh they, um, uh, a- uh, and those differences, so i i we try to argue, do most likely depend on, the constitution of your sense organs, and, brain and so forth. uh uh uh um it doesn't seem like they do it doesn't seem like you help create, the look of the chair or the curve or or the feel of it it seems like you just passively discover it, um, and, so that's the sense in which a property, feature that really is, dependent on you seems not to be. and that's the transparency illusion. uh but, but, so so <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> that the illusion isn't that it's curved but the illusion <OVERLAP> is that it has </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> no, no no. </OVERLAP>
+				</U> a curved feel <U WHO="S1"> right. </U> or that it has a <OVERLAP> curved look </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that it's got </OVERLAP> some extra weirder properties yeah, uh um but... um um... <OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> can </OVERLAP> you say something about it is is that um... does that, correlate with uh Lockean primary secondary <U WHO="S1"> 'm'm no </U> no? okay. </U>
+			<U WHO="S1"> alright but yeah i discuss that too (xx) that's a good question i'll keep it (xx) </U>
+			<U WHO="S3"> h- sorry how would you classify uh, these properties that Tye uses in the paper to talk about the illusions like looking, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) </OVERLAP> no no overlap cuz i didn't look back <OVERLAP> (xx) that's that's </OVERLAP>
+			</U>
+			<U WHO="S2"> oh looking bigger from here <OVERLAP> it's whereever you (xx) in the paper... looking </OVERLAP>
+			</U>
+			<U WHO="S1"> you should (xx) yeah. there is one little c- self-contained, section of my paper where i talk about, i talk about that and what he says is so weird, <U WHO="S3"> yeah. </U> that i thought i should assign it, <EVENT WHO="SU-m" DESC="LAUGH"/> so you didn't think i had mispresented, <EVENT DESC="S1 LOOKS THROUGH S3'S COPY OF THE PAPER"/> um, what uh, um oh you printed it off the Internet? </U>
+			<U WHO="S3"> yeah. (xx) </U>
+			<U WHO="S1"> it's not long after this here's Peacock's case abbreviated and and this is, <U WHO="S3"> ah right. </U> response of (xx) <U WHO="S3"> yeah that's it </U> and there's a footnote probably the footnotes didn't print did they. <U WHO="S3"> (xx) </U> oh man i stuff everything in the footnotes i should g- i should give you, originals. um... but... yeah. even, i i i i, like when he came and gave a talk, everyone's complaining about larger from here, <U WHO="S3"> yes. </U> (right? okay.) uh i don't understand what, that's supposed to mean it's not him, it's it's Harmon's_ Gilbert Harmon's_ original... (take, reaction) and it uh it doesn't uh, doesn't make sense. a- uh uh um, um, and in fact they don't linger on it. they just, he just throws out, <U WHO="S3"> yeah. </U> a few things in a row and combines them. <U WHO="S3"> right </U> um, um the, let's see, uh uh uh, let's let's_ but let's hold off on the on the <U WHO="S3"> sure. </U> transparency stuff. just see if we, can at least, get, the image stuff done. um... um <PAUSE DUR=":07"/> uh so i'm saying the image illusion is the illusion that there are mental objects with nonmental, features. and uh a- and_ but that's just the first pass, uh uh uh, a substitute for what i mean by mental (here.) because, by_ in the end i'm gonna try to argue that these are perceptual illusions or inner perceptual illusions. and it's, very doubtful that, a perceptual, layer of representation could, could say could, represent mentality or nonmentality there's no, there's no way that looks or smells right so i need to, refashion the so-called data in the direction of something perception can do. um uh (and here's) one step in that direction but not the final step. for, um for mental think, what i call monom- monomodal. uh um representable, by, just one perceptual modality, color vision versus shape vision or eye, eye vision versus, hearing, uh in one perceiver. so uh um so, so the substitute for the concept of mental (xx) will reappear. it's, it's, something will seem mental to you if it seems like, just one perceiver detects it with just one... uh modality. (i have to) say something about what, separates one modality from another versus polymodal which is gonna substitute for nonmental. uh uh um um a polymodal, feature would be one that, uh seems representable by, either by, one individual with with more th- more than one faculty so like the primary feature of shape and feel you can feel you can touch you can maybe conceivably hear it or something. uh uh um uh or in, in the case l- in the case of color even though you can only do colors with your, vision, many people can do the same color. can do colors right so there's more than one_ so if you just, in effect forget about the, jus- just imagine that there's all this free-floating, per- modalities so like in this room there'd be about, what five times six or so thirty thirty or so modalities floating around don't worry about who, they're lumped with. and uh and if if more than one of those can detect a feature or if or if it seems like one (xx) it seems to be a, polymodal feature. and so so so (in) the image case what seems weird what seems weird about an image uh so what seems ghostly about it is that, is that um, is that it seems, monomodal. uh uh this is a surprising kinda hm, robust uh claim that when you try to express what... uh, when you try to say what what, when you when you imagine something when you form an image or do what we call that um, and ask what seems weird about this thing why doesn't it seem like a physical object in my, head? uh uh um uh you can try a bunch of things that seem kinda strange locations does it seem to be faded? and none of those, i don't think work. what what what does best, for expressing what's weird is that, your_ it seems that you can see it, and it seems that only you can see it and it seems that you can only see it. it doesn't seem to have a sound doesn't seem to have a, feel you know you can't, right. and similarly when you h- when you when you uh, uh when you uh, have a song in your head it doesn't seem you can see it and so forth. contrast that with you know a car zooming by it seems, that you can both see and hear it. um uh and sort of_ each kind of test case well what if you imagine a loud car roaring by. and uh uh uh you visually imagine, and auditorally imagine. still in that case i wanna say that the uh, that the images you get, don't, relate to one another the way that, don't cohere the way the car, does cuz cuz if you do it, i'll let_ give you a chance to do it if you do it then, then the i wanna say the sound seems to come from, the top of your head and uh <EVENT DESC="LAUGH"/> and uh and the sound image it seems, it's got a location all seems to be up here and the visual image seems to be sort of somewhere right you know between your eyelids you know, just behind your eyelids or something. so, just close your eyes and imagine, a um, you know start on one side of your head (xx) you can imagine a car (xx) going <EVENT DESC="SOUND EFFECT"/> (xx) and now don't make the sound don't make the sound yourself now just imagine the sound. and, and it's hard to make 'em seem to come, it's hard to make the sound seem to emanate from the visual image. it seems to me. uh uh but, i mean nothing i'm gonna say hangs on that but it's just a uh uh umm cuz this is cuz even the distinction, m- monomodal and polymodal features is just also a substitute to to, for something to come later. <OVERLAP> (xx) again. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (xx) </OVERLAP> just thinking a little bit about that uh thought experiment um, um <OVERLAP> (s- s- s- ) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this is a real (experiment.) </OVERLAP> it's not a thought experiment just cuz we don't have, a beaker. <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> this wasn't just imagine (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right right right we're we're reflecting we're we're reflecting a little bit (xx) uh uh </OVERLAP> it seems as though, uh actual memories, that i recall, seem more united than the ones i fabricate. (xx) (i sort of) imagine, (sort of ) a car crashing (which) rather uh, the, the sound doesn't (xx) at least it's not obvious how i answer the the experiment <U WHO="S1"> (mhm) </U> (the answers of) wh- where is it coming from, almost the question where is it coming from doesn't, seem_ i mean it's not, it's not obvious like when you see something obviously coming from there when you ask where is it coming from it's not clear to me, where it's coming from, so it doesn't have that kind of directionality to it. </U>
+			<U WHO="S1"> i mean wh- look okay f- now do something do_ that doesn't involve do do auditory imagining, task that doesn't involve, or needn't involve, visual imagination. just, i'll be quiet and you, um you know sing to yourself some song you like some happy birthday or whatever right? uh um, do it. <PAUSE DUR="0:04"/>
+				<SEG TYPE="SINGING"> and many more </SEG> okay right see you went through it. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> take your pictures. </U>
+			<U WHO="S1"> yeah i was doing it fast. </U>
+			<U WHO="S2"> the end might be different. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> alright. now now <EVENT DESC="LAUGH"/> i um now i wanna ask you, where in the, where in the world. where in the universe. did those sounds seem to be? you c- you can locate sounds easily. and and now there's a wide_ you may you may say the question doesn't make sense or doesn't arise or something but, but it's gotta make some sense because you, it it for sure doesn't sound like you, had a song in your, in your heel, or your kneecap. we say i i had a song in my head. where? in your chin? you know, no. noth- nothing like that at all. you know on, nose-tip? no. it really is coming, a- and not even, typically in your ear. it comes somewhere_ it seems to be, you can have this little auditorium between your ears, and for me it's like a_ it seems to come, i s- and come from is is not the way i <OVERLAP> (xx) </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> (xx) sounds (sort of be.) uh uh um because uh uh um, you know you needn't travel fro- you're already where it is so it doesn't have to go anywhere f- uh uh um, um, but, yeah i- i- i- uh uh uh if i, and again, you know, this is sort of_ i could be weird right? but um but... when i sing a jingle or something like that it's up around here somewhere just bored in a little bit it's not where my, it's not where my, visual images seem to be. <OVERLAP> they aren't where they seem to be either </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah when i when i when i </OVERLAP> when i was doing the, the the song uh experiment. it was very difficult for me to imagine the song going with my sort of passively (listened) to the song. </U>
+			<U WHO="S1"> you're bli-dih-dih-dih-dih-dih-duh <OVERLAP> you're you're imagining (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well, it it felt kinda_ it felt like the the </OVERLAP> sound was emanating from my, my throat <U WHO="S1"> (okay.) </U> that's kind of not wanting <U WHO="S1"> okay. </U> to do to do that </U>
+			<U WHO="S1"> well that_ well then then don't imagine you singing a song imagine um um, imagine Elvis singing imagine just sort of listening to Elvis. alright and suppose you don't have any delusions </U>
+			<U WHO="S2"> right </U>
+			<U WHO="S1"> of uh, you know, or so not hav(ing to imagine) you know. some, body you have no chance of imitating like uh Barbra Streisand or someone. <EVENT WHO="SS" DESC="LAUGH"/> and, and and no intention <EVENT DESC="LAUGH"/> yeah that might help you, or you know just imagine you know you're, if you're married or something imagine your lover talking to you. in your bed at night. um it might b- it might_ i might get it away from your throat. </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S1"> (xx) still. uh um, uh uh... uh okay well, all that was an aside it was kinda fun but it's just an aside the, the um, the, i wanna say both what seems weird about, (wait a minute) what seems weird about, alleged images but also um uh, uh certain kinds of, uh (xx) feelings and bodily sensations and so forth is that, is that um... is that the objects_ there see- there seem to be objects. but they seem to be, private (xx) one one, one perceiver and one modality in that perceiver. um, uh in the transparency case, which is more like normal perception case... (xx) it's usually no question of the objects you're seeing, or objects you're perceiving, can be, you can perceive in, in a number of ways and others can perceive, uh um but... um um um <PAUSE DUR=":08"/>
+			</U>
+			<U WHO="S2"> (xx) let me ask a ask a sorta (xx) related question <U WHO="S1"> oh you </U> tr- tr- tr- (trying to think) <U WHO="S1"> (xx) </U> uh, the person who, uh has a traumatic experience, and the event flashes through their minds right? with the crash and the the sight and the sound. i don't think, at least it doesn't seem to me that in, my thinking of, a couple of it- i was in a, accident once where the glass went flying across (xx) crash and the, the um <U WHO="S1"> mhm </U> there it doesn't, i mean there it all seems to p- hang together. <U WHO="S1"> mhm </U> um at least the, the sound and and and and and and and the, the visual images. uh and i don't know if there's anything sort of peculiar about memory, <U WHO="S1"> (xx) </U> if there's any difference if, if if uh a vivid memory, might have a, a different way of connecting (thing,) and uh, just bringing together what's an imaginary imaginary scene. </U>
+			<U WHO="S1"> well an explosion, all around you, is just gonna be, loc- hard to locate it's gonna seem like, you're gonna be, when you try to imagine it. uh imagine especially if you imagine shards entering your body from all directions or you're imagining it all around you. (i don't know if,) it would be quite right to say, although how it might be tempting to say, that you were, visually imagining it, from all directions cuz you know your visual field doesn't, go all around your, body your head. but, <OVERLAP> (i will argue ) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> ( well in this case its the ) </OVERLAP>
+				<EVENT DESC="LAUGH"/> debris flying by </U>
+			<U WHO="S1"> so, particularly your_ you were there in a car or something and the windshield <OVERLAP> (shattered?) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> and and that one obviously is_ the sound is all around you so it's not <U WHO="S1"> yeah. </U> uh uh but i i can think of instances where uh actually i'm not quite sure what i think of one where i (xx) remember plenty of instances where you hear the the the screech, of the tire skidding and then the crash. although i don't recall an instance where i've actually turned around and seen the cars, collide. um but sort of my my query is whether in a memory like that, whether it be the the same element of sort of dislocation or, um (as in) a- and, <U WHO="S1"> we- </U> and </U>
+			<U WHO="S1"> because it's a memory of a_ an episodic memory of a specific event? or... <OVERLAP> cause everything you imagine is going to be based in your memory </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it's more the form of a question i'm i'm suggesting that there may be a difference </OVERLAP> the way in which, uh the degree to which m- m- modalities seem to be formed it may be related to whether or not you're, uh recalling something from memory. or whether you're imagining something you haven't seen, and then you sort of add on the sound to it it it seems that there's a-there's a certain amount of artificiality. in the in the, that was just sort of a question of mine. </U>
+			<U WHO="S1"> i i i, yeah it it it might be that this, conjecture, that, uh, that monomodality captures what seems ghostly, about... alleged phenomenal objects like images, is wrong. that could be that could be said that could be that could be right. uh um, but um, um, (the,) the uh, i don't mean (it's) yet shown to be right by a particular, case like this because, um, because, um, um the question... see yeah? </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1"> in the in the original car going by going zoom case i was just asking you to think about, where is the, car image where is the visual car image and where is the auditory car image and are they in the same place? that's a crude way to ask what really matters which is, does the visual does the picture of the car seem loud? um uh um does the ca- does the alleged car image seem to be making noise? uh uh uh and this this question about where they are is just proxy because if the sound is completely somewhere else it_ you know that would be good enough but even if they converge by coincidence or especially in the case where because both are big. <EVENT DESC="LAUGH"/>
+				<U WHO="SU-2"> right. </U> both are all around you. <U WHO="SU-2"> right. right right. </U> still even though they're (around) <OVERLAP> the same place that wouldn't </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> nail down that, it's the image that's seeming loud. <OVERLAP> (xx) all in the same place. but by that time we wouldn't have </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> yeah i'd_ it wouldn't i- i- asking does does_ is the image (xx) we would we would </OVERLAP>
+				</U> any more uh, intuitions about this stuff you know that this, becomes too hard to introspect. um and and, and um, um, this is just that the uh... reason i detour both through mental nonmental and monomodal polymodal is because i have so much trouble getting people to see what i mean about the transparency illusion. um um so, i don't wanna i- i don't wanna return to that quite yet uh um those difficulties will come. um um the, the </U>
+			<U WHO="S2"> can i just say <U WHO="S1"> yeah. </U> a little bit about the the the transparency one, the uh it's it's it's i mean_ sort of theoretically it's clear to me, that when i think i see sort of a milky-white green uh sort of the blackboard uh greenboard uh up there uh (i mean) it seems to me that the color attaches (to) something which is out there, uh but i know and i am convinced_ well i'm convinced by the sort of what i know about how sight works, that in fact uh i'm i'm not reaching out and grabbing it, but the experience is taking place in here in a similar kind of way in which the experience is taking place in here when i imagine something green. um, so it's, it's it's not as though my ex- my experience reaches out, uh but my experience has to be in here of the, of the green. though it doesn't seem, to be in here it seems to be out there. <OVERLAP> the projection. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> your experience seems to be out there? </OVERLAP>
+			</U>
+			<U WHO="S2"> no no. the, when <U WHO="S1"> what's <OVERLAP> (xx) </OVERLAP>
+				</U> when when i'm experiencing th- the green blackboard. uh </U>
+			<U WHO="S1"> (cuz) regular old, perception case </U>
+			<U WHO="S2"> regular old perception case. <U WHO="S1"> (alright.) </U> it doesn't it, it, it doesn't seem as though something is happening in my head, which is, uh sort of, the experience of greenness. i mean talk about (when) ordinary perception i'm having exp- the the the distinction between <OVERLAP> the color out there and and my subjective, awareness of </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well i can see where you'd be_ would </OVERLAP> would you say this? that, it doesn't_ i agree this much that it doesn't seem to you like, there is both, a green blackboard and a green image. but it does quite easily seem that there is both, a green blackboard and an experience of the green blackboard. so you can have an experience that wasn't made of an image. uh um and and well if you, if you do sometime, turn to the, initial part of the discussion of transparency, um uh, um sometime_ you see sometimes, people like Harmon and Tye who, uh will quote G-E Moore saying, um um, um when we try to introspect our experience all we get are the outside, or the or the the environmental feat- uh objects. features <U WHO="S2"> right. </U> we try to, i- i- intr- we try to, someone s- s- someone says you know focus on the um, blackboard now focus on your experience of the blackboard and you don't do anything different. <EVENT WHO="SU-m" DESC="LAUGH"/> you just keep looking at the blackboard it seems like there's nothing_ it can seem initially anyway like there's nothing, but the blackboard. uh uh um, certainly nothing you can focus on or attend to. it's just to say there's, unlike a case where, someone can say it's, different from a, nontransparent case with something_ you you look out a window pane, someone says you know now focus on the tree, now focus on the windowpane and you can do something different especially if there's_ if it's not quite transparent there's a screen or smudge or something like that. but you can't do that, the claim is, with experience... but, Moore says, and and people drop this part of it, says w- s- s- experience is not quite, transparent you can at least detect introspectively that you are, representing the tree or that you are experiencing the tree and i would add you know, y- you could detect the way you're experiencing the tree like, that you're seeing it rather than smelling it, feeling it <OVERLAP> and so forth. </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> right right right </OVERLAP>
+				</U> or that you're seeing it blurrily rather than, or double, <SIC> doublededly </SIC> rather than uh um, rather than, clearly and, undoubledly um </U>
+			<U WHO="S2"> y- you could you can be aware that you're having the experience of green. <U WHO="S1"> right. <OVERLAP> by introspection. </OVERLAP>
+				</U>
+				<OVERLAP> but when you </OVERLAP> try to do uh uh uh one step removed from the experience, uh they_ when you think about the experience it's not as though the experience itself is green. so you don't get the color that sorta comes back in <U WHO="S1"> right right right </U> on on the on the <OVERLAP> second remove </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yes yes </OVERLAP>
+				</U> on the second remove you're simply aware, that you are having this experience of green not that you </U>
+			<U WHO="S1"> in a perceptual case what this book's saying is that, the only f- when you_ when you try to introspect the normal case of perception you, only detect the two_ the following two kinds of features. um, either features that, um um seem, stuck on objects. they seem to be uh independent of your, perception and not sort of floating, in the air between you and the object you're focusing on, and they seem to be something you don't uh, you you don't create or participate in in any way. (it seems) to be ou- ou- outside, so you detect you detect those kind of, features and you detect, the property uh that you have of representing them. okay? uh and that's it. so when people say, you know when when when people say, if you, like Peacock maybe if you, if you attend to your visual experience you will notice it has certain, intrinsic features or something like that that's, what they say doesn't happen. uh </U>
+			<U WHO="S2"> the two_ maybe you (already) mentioned before the blurriness. we're not tempted to attribute the blurriness to the object. <U WHO="S1"> right. </U> and for those of us who wear glasses have near-sighted take the glasses off, things distant seem, seem seem blurry. but it's not as though there i'm tempted to say, that the blurriness is out there. </U>
+			<U WHO="S1"> there was a joke once o- on David Letterman did a a, monologue joke once where he says you know uh uh this, new reports from NASA about the Hubble telescope you know say that you know what they've discovered is that space is really blurry. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> so, um </U>
+			<U WHO="S2"> our best telescopes confirm </U>
+			<U WHO="S1"> right. so it wasn't a waste of money. um okay the, the, yeah um <PAUSE DUR=":05"/> bli-bli-bli-bli </U>
+			<U WHO="S2"> so are people willing to grant that that say clarity or doubled a double image or, or blurriness that, <OVERLAP> that is different than the </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> they don't they </OVERLAP> Tye, will say... mm, Tye wants to say about, um blurriness doubledness or and even the difference between de- detecting, the modality with which you are representing these pure object-side features. uh uh uh like being able to tell whether you're seeing it or feeling it, th- all of those have to_ he wants to reduce all those cases to_ to explain all those cases in terms of just pure, uh object properties and the bare relation of representing them. so in a_ so he says he says you, so you a- if you ask him, what's your account of how we know whether we're seeing a curve or feeling a curve? he's gonna say well, you know that in sight you detect not just shape but color. or reflectance or whatever. and and in feeling you detect not just shape but temperature or something like this. and so and you know that well if you're if you have an experience that's (dew) in shape and temperature it must be feel- feeling. and that's, what, looks like the indirect way how you, tell whether you're feeling something or seeing something. um or you have some pressure or sensation so you detect sort of rigidity in shape (and so forth) but you don't see rigidity or see temperature. in the case of, blurriness, or, doubleness he says some things like that but i don't remember exactly what it's something like, um uh in_ well in the case of, doubleness you see, you see um, uh an object as, having location one, and as having location two. um they can contr- that can be (a) contradictory property on your, nobody says your, (xx) (suggestion) (has to be) accurate but uh especially not, what's a graded case to begin with but um uh you're not detecting that you have two images or, even two experiences i guess, you're, just the entire content of your, introspection every- is, there's something that that there's something there and there, and i am representing that it is there and i am representing that it is also, there. so and that's what's going on when you when you when you detect that that you're seeing double. uh blurriness it's it's like you're you y- </U>
+			<U WHO="S2"> s- s- so what what's being represented when you when you s- s- i mean there's the <OVERLAP> you (occasionally) see the (tissue) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> th- you cross your eyes. look look at something </OVERLAP> and cross your eyes a little bit or poke your eyes a little bit and you get two, uh uh <U WHO="S2"> right. </U> uhuh and in that kind of case you can tell. you can either_ you can_ you know when you're, when you're see- most of the time you know when, <OVERLAP> when you're seeing double or single. </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah but <OVERLAP> what what does it mean to (say) </OVERLAP> i represent it as as being double cuz i'm not at all tempted to think that it's double. </U>
+			<U WHO="S1"> no i did- i didn't say you, see <OVERLAP> you represent that it's double. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no no but (xx) rep--rep- repre what what does </OVERLAP> what does representing it as double <OVERLAP> mean? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what does that quote_ </OVERLAP> i didn't, i didn't say that quote. in trying to quote Tye i said you represent it as here and you represent it as, there. i didn't say you represent it as double. </U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S1"> uh uh um y- y- i- you cross your eyes, or something and y- and uh, and and uh the watch seems to have a certain relation to you- tip of your nose be on the left of_ be on the left of your nose, and it seems to be on the right of your nose. you may pick one or one may dominate but you have these, but you, but you have these two <U WHO="S2"> yeah. </U> conflicting hypotheses (or) visual representations whatever you want to call 'em. um, and uh you may be sure there's just one watch, so you may... know that at least one of those representations is false and so forth. </U>
+			<U WHO="S2"> i- i- i- </U>
+			<U WHO="S1"> and not be fooled </U>
+			<U WHO="S2"> inter- interesting case al- along that line is the the the sweatshirts, that are intentionally printed, so it looks like, it's blurred. and you_ sort of (if) you look at it and your first te- your first (attempt) is (to) sort of squint to get it right, and then you then you then you realize no it's printed, to look uh to look uh blurry. <U WHO="S1"> mhm </U> uh, uh, would he make any distinction between your first when you first see it you, you you're at least one sense you're mentally representing it as, uh i'm having blurred vision. there's some kind of representation (xx) like that going on. uh as opposed to when you, put pressure on your eyes and you have </U>
+			<U WHO="S1"> he's incredibly ingenious did you did you go to his talk, <OVERLAP> (xx) few weeks ago? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i didn't </OVERLAP> i was in there for the Q-and-A afterwards. </U>
+			<U WHO="S1"> yeah cuz i mean... i don't remember all the details but, uh you have, objections from (xx) saying things like well, exactly this kind of thing can't can't_ it's, (childish) saying that Tye can't, re, capture, the apparent difference between, having a, blurry vision of a clear object and a clear image a clear vision of a blurry object or something and (Tye) said well you know i do (xx) i don't remember his (xx) but yeah that's relevant and it, and it may come up in the, i gave you a whole stack of Tye stuff last time. <U WHO="S2"> mhm </U> you can read more of that, but uh um i don't know if that stuff about blurriness is, is in the exchange (between) Block and Tye or where he's (xx) all that. but um, yeah you might... at least when we try to, read when we read him, we might try to th- think about, whether that's an objection. um well... <EVENT DESC="SIGHS"/> um <PAUSE DUR=":11"/> well </U>
+			<U WHO="S2"> earlier i diverted the conversations to say a little bit about, transparency and you were gonna talk about, uh image. if you wanna go back <OVERLAP> to the image a little bit. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> i'm looking at what i have written down on the, images and thinking that we, probably have that, all covered. the um... um, there are people who say we don't have an image, illusion. who say that all we have is a um a loose way of talking. so, both Tye and Block say this th- they, they both_ we all wanna ask the question why is it_ why do we talk, as if, we have, red images loud noises in our head. uh uh um, you know, uh warm feelings sharp pains and things like that. uh uh, uh uh, and, they, their, their account, is um is well is that it's kinda loose talk. this, this talk what we have, and what we realize we have, or um states that represent, redness loudness sharpness warmth. but i- there's a sort of very general... respect in which we say, we we we talk of a representation of F-ness as being an F representation. F-ish representation. so uh Block gives a, good example of a um nude painting. which is really a painting of nudity. or a uh, or um some other thing i've, looked at nude paintings but i've never heard of, loud oscilloscope reading. that's another one he gives as a (xx) some kind of, (xx) puts, puts uh marks on the page, and the technicians and so forth reading the thing will say oh that was a l- there was a loud one now it's a quiet one. you know uh uh where, and if you walked in and said but they're they're all equally humming at the same volume (xx) they_ they'd you know they'd say come on stop joking. but so, so Block and Tye thinks that's what's going on and Tye even says you know we, we save breath by talking of a yellow image rather than an image of yellowness. save the, the of and the ness. longer lives. the uh uh uh but, but um um, but there really do seem to be, perceptual-like illusions rather than loose talk because we say, we say the image, y- y- vis- we say our visual images, look, red. uh uh um and we say you know the sounds in our head sound... you know, uh uh high-pitched or whatever uh uh um, but we don't say the oscilloscope reading sounds loud. we say we call it a loud, oscilloscope reading sure. but i assume. but but but i also assume we don't really say it sounds loud. uh uh um that's one thing. a more telling thing is this if we really... were interested in saving breath then we'd say, oh say, take your belief that bananas are yellow, you'd you'd you'd be tempted to call that a yellow belief. or a yellow banana belief or something. but you don't. uh uh um or your uh or your um, uh um, yeah. it doesn't seem to be that you're, that you're not what i, in that other paper called the nonphenomenal <OVERLAP> (state) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (yeah) economy </OVERLAP> economy can't be the explanation <U WHO="S1"> right </U> because there's other ways (we) gaining economy that, <U WHO="S1"> well, </U> that we obviously don't. <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S1"> right well i'm glad it doesn't seem plausible to you but i don't know if that would be a good response. i mean... </U>
+			<U WHO="S2"> well what seems seems least plausible (xx) when you talk about uh, the loud oscilloscope, uh reading uh, uh, there i- it's when we, when we draw our attention to the oscilloscope we're not tempted to say that it itself is loud. but if we draw our attention to <OVERLAP> whatever </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> the image is there the, the the the desire to say no it really does look red, uh remains. </U>
+			<U WHO="S1"> right. yeah (that's) so, that's why, i think, what's going on is really, an illusion case. mkay. i um <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> does </OVERLAP> does an illusion as you use the term illusion need to, have any phenomenal, character to it? </U>
+			<U WHO="S1"> uh, um... it's not built into the notion of illusion that it's phenomenal. no uh uh uh um um all i i- and i don't_ actually you don't, even care whether the appearance is false and uh that's for the larger aim of arguing for, inner perception you're gonna need inner perception even if there really are red images, uh in your head. um </U>
+			<U WHO="S2"> you wouldn't be able to see them so you'd hafta <EVENT DESC="LAUGH"/>
+				<U WHO="S1"> ( have inner) </U> right. </U>
+			<U WHO="S1"> but um um, but uh, and there's also some funny stuff about calling it an illusion rather than a hallucination properly speaking it's_ these are hallucinations, on the same view it's not that there's, it's not like where where the hallucination, like an oasis case there's nothing there dominantly responsible for the experience <U WHO="S2"> right </U> you're cooking the whole object up as well and in the illusion case, there is you know the magician's, hand or whatever, and you think it's a dove or whatever. now y- y- y- or you see, there's an object causing the experience you get its properties (from it) that's an illusion case, that's typically distinguished when there's no object there at all the dagger, the nondagger uh uh uh that's a hallu- a hallucination case. it's not like, Macbeth wasn't under an illusion, that there was a dagger there in one, sense of the word right not like he saw the, vase as a dagger. <EVENT DESC="LAUGH"/> uh uh um he was hallucinating from scratch you know. and in that s- these are, pr- probably hallucinations rather than illusions but that's also just, terminology that <OVERLAP> ( it doe- doesn't matter ) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> what what </OVERLAP> what's an example of of an illusion, say that wouldn't have, phenomenal character to it? </U>
+			<U WHO="S1"> oh oh um um, uh... i i, i'm happy to say there could be subliminal illusions uh uh uh um or that a robot can suffer from illusion i mean i- i- i- if there was a robot or a pigeon or something that some_ suppose we somehow knew it didn't have, phenomenal consciousness. it could still be under an illusion that there- the Mueller Lire illusion and so forth. uh uh uh or </U>
+			<U WHO="S2"> so in one sense of it being being under an illusion is <OVERLAP> (to be mistaken ) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (it's a illusion is to say a false,) </OVERLAP> it's a false representation. that's all i mean. (xx) </U>
+			<U WHO="S2"> but part again there there there are illusions, i mean part of what's, okay if illusion can sometimes be used (to mean) (xx) you're you're mistaken you thought something was the case but it wasn't the case, um, but um there is another sense of what i- visual illusion. something seems to you to be, something or to be some way it's not in fact. um, the, the usual way (in which) you talk about that is the things out there aren't the way in which they seem to us. you think you see water and it's in fact, the the the heat rising off the the desert that gives this, uh illusion to you of of water. there's something outside which is giving giving rise to it but you're, you're you're misinterpreting it. um but in that case you still have the the phenomenal_ there's a phenomenal experience. </U>
+			<U WHO="S1"> yeah <U WHO="S2"> yeah </U> in most cases when_ but that's just to say in most cases when you visually represent, there's, there's, phenomenal there but, but some cases not. assuming you really think there's such thing as, blind sight and uh, and um subliminal, vision and so forth <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> ( this is gonna be a ) </OVERLAP> (it's as if) you say something happened to be true but it's not built into the notion of vision. and not built into the notion of a visual, illusion either. <U WHO="S2">
+					<OVERLAP> (right) </OVERLAP>
+				</U>
+				<OVERLAP> illusion </OVERLAP> means false representation here and, visual illusion will just mean false representation derived from vision. </U>
+			<U WHO="S2"> yeah (right) suppose (xx) apart from whether or not you can have non-phenon- nonphenomenal uh, sorta perceptual, uh when when i think of the uh, uh uh i imagine a red fire truck or a red object a red ball or something like that um, uh the, to say that it's an illusion that it's red, um uh, the... i mean regardless of whether there's anything red it's not a matter of my, being wrong about whether there was something red. if i thought there was something red in my head that would be an illusion in the, in the sort of objective reference, sense. but to say, it didn't_ it wasn't, really red it just seemed red, seems to be a- an impossible turn of speech. that, if it if it seems red than it seems red and i may be mistaken about, uh it referring to anything. but, if it i- at least there's a there's a a prima facie uh i think needs to be overthrown that in fact uh when you seem to uh have an ex- an inner experience of uh a red image a red ball, uh if it seems red, the the phenomenal part of it, isn't just an illusion. i mean you really did have, in other words you you're not mistaken that you did have that phenomenal experience. uh you're mistaken if you thought that it applied some objective, object out there that actually had, the the property of being red such that someone looked at it, uh they would see something red. </U>
+			<U WHO="S1"> um i didn't follow all that are you saying there's a certain, um common sense view that you you you are daring to argue out of? okay i accept the dare. what's the, <EVENT WHO="SS" DESC="LAUGH"/> what's the what's the claim? </U>
+			<U WHO="S2"> i i i i imagine i'll i'll stick with this this example for a while <U WHO="S1"> the claim is just </U> i i i i imagine a a red ball. okay. <U WHO="S1"> mhm </U> um, someone says well you're not really, you don't really have image of a red ball, you just have a mental state that represents, a red ball uh i say no that can't be because it's not whether i'm representing anything it's whether i have this visual, image uh which, uh </U>
+			<U WHO="S1"> i say you don't have this_ i i i i don't put it like that i would say cuz cuz uh uh y- that wouldn't be an image illusion. to say that, um, it's true that you have an experience of a red ball. <U WHO="S2"> okay </U> the uh uh uh, what's going on in the imagination case is that you, i would say yeah you don't have a red image. but you have, a st- a mental state that represents falsely that you have a red image. not a red ball but a red image. uh </U>
+			<U WHO="S2"> in thinking of red image there we're talking about image in terms of a physical image? or, <U WHO="S1"> uh </U> is it whether i have a psychological image? <U WHO="S1"> a mental <OVERLAP> image </OVERLAP>
+				</U>
+				<OVERLAP> a mental </OVERLAP> image. </U>
+			<U WHO="S1"> yeah. yeah. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and the suggestion is i might not really have a mental image? </OVERLAP>
+			</U>
+			<U WHO="S1"> the point of this is the point of this is yeah uh uh i i i'm i'm gonna say there's no such thing as, mental images there's no such thing as, mental likenesses generally so there's no, uh pain objects that are sharp, you know and and that are are burning or throbbing, there are no, orgasms, there are no um, sounds uh mental sounds uh uh um i- j- but there are, states, that say there are, those things. uh uh uh those kind of objects it it feels to you like there's a pain in your tooth. it feels to you it seems to you it looks to you (really) like there's an image in your mind. duh duh duh duh. when you really are in those states of, misrepresenting that there are these, mental likenesses. <OVERLAP> but (they aren't, the likenesses.) </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> and and what is, </OVERLAP>
+				</U> that's <OVERLAP> the illusion. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> what what </OVERLAP> specifically is my error because, <EVENT WHO="S1" DESC="LAUGH"/> i mean it's_ i'm under no, well maybe i would be initially under uh i mean i think there is some, temptation on the part of people when they first start thinking about it, to think there's some sort of theater in the mind, as if i were the real me, but sort of sitting in the back row or something and able to watch what was coming in, as if there was some sort of screen with actually some colors and shapes, and all that kinda thing. uh </U>
+			<U WHO="S1"> i agree there's this initial appearance and then i would say it lasts until you die. you know you wanna say i guess you can get rid of it. i don't think you get rid of it by thinking about it and i d- y- i don't think you get r- i don't think you get rid of that appearance, by <U WHO="S2"> but </U> by thinking it away and the s- in in the manner of perceptual illusions generally you don't just <OVERLAP> think your way out of them. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right. </OVERLAP> what what you do get rid of, is, the at least for me i'm not at all tempted uh to think that when i form an image of a red ball, uh that there is some, uh something like a ball up there that has the color red. <U WHO="S1"> maybe it's flat or something (right) </U> uh whether it be in a <U WHO="S1"> yeah </U> a set of neurons that have_ appear- -ppear- -ppears that way. so that, <U WHO="S1"> (mkay) </U> that, it seems to me that a a much more, important question isn't the question is there something which is, objectively speaking red and spherical when i imagine a red ball, uh, but rather is the experience, uh, uh the the image in the in the in the phenomenal experiential sense is there a reality to that, or can i somehow uh say that there's no_ th- th- there's not even the reality of the, of the of the mental uh uh uh uh image, uh that is simply a representation of what i would, normally see that sounds a like like J-J-C uh Smart's <U WHO="S1"> i- i- i- </U> orange. </U>
+			<U WHO="S1"> i'm not saying much different than what Smart is saying about the images. the the uh i, i didn't underst- i heard and underst- i think i understood, your, where you started saying (like) i'm not, and maybe you said much i don't remember i'm not much tempted to, think that was your word, that there's a red picture. <U WHO="S2"> yeah i'm not at all. </U> okay. <U WHO="S2"> uhuh </U> um uh and then you shifted to say well let's then talk about something else okay a- and i didn't understand what that other, um proposal was. and_ but i'm not asking you t- i wanna talk to the d- d- the denial i agree, that, um, it's easy to resist thinking that, the uh uh that the uh, uh that there's_ that you have red images, <U WHO="S2"> uhuh </U> or you imagine, <U WHO="S2"> uhuh </U> um a tomato or something. </U>
+			<U WHO="S2"> physical images of some sort. </U>
+			<U WHO="S1"> physical what are you calling a physical i_ <OVERLAP> all i mean by </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> something something </OVERLAP> which is actually red inside my head here? <U WHO="S1"> no </U>
+				<OVERLAP> that has (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i- it could </OVERLAP> be in your mind it could be you don't know where. it could be it could be on Alpha Centauri i i just_ all i mean is_ all all_ what it seems to what it seems to_ what i, will try to convince you it seems to you is that there is something red, um uh that you are uh in touch with. uh that you are experiencing when you close your eyes and imagi- and and and imagine a tomato. or when you you know, get s- s- s- (these) little sparks and stuff in your eyes afterimages and so forth. um so i_ all i need is the claim that, it uh, it it it seems like there's something red there. i don't need anything further about whether it's in your brain or in your head or in your mind or dih dih dih. uh uh um, just that, uh that it seems red and you know it's not a regular old apple that you're looking at or something like that so it's can be_ that that would be a no. <U WHO="S2"> right </U> and you can tell the di- that you_ you- you're tempted to think y- there's a difference. <U WHO="S2"> okay </U> um, and so talk_ and i'm calling those things images gesturing at what seems ghostly about them but um but um but it's enough just the bare claim and uh and and i think that, oh (and) right and and and just f- to you know that i don't need you to believe that there's something red. you can, all things considered withhold a belief you might think there's nothing in the whole universe you might have any number of beliefs um, but all i need is is that there is a seeming or something like that that, in the s- in exactly the same sense that when you see the, <EVENT DESC="DRAWING ON BOARD"/> you know, when you see this you you it's easy to resist believing that the lines are different in length uh uh and y- and you get and you get so used to that that you're not even initially tempted to think they're different length but still, they look different lengths. <U WHO="S2"> right. </U> um, and um and uh and and in the same way i wanna say, you know form an afterimage you look away it looks like there's something purple even if you're not tempted to think there is something purple. uh uh or much tempted or however you would put it. and i think you really do have that temptation A because we've s- talked quite a while and it hasn't, and it would've come out i think. but but you say for example. you said, i'm not at all_ this is pretty much a quote_ i'm not at all tempted to think that when i form an image blah blah blah <EVENT DESC="LAUGH"/> you know and there you just said when i form you know <OVERLAP> when I was getting off on that final (point.) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah i'm i'm i'm i am very tempted to think </OVERLAP> that there's some reality to this to the subjective state of my experience of redness whether, uh it be seeing <OVERLAP> something red (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you use those big words though </OVERLAP> you you um um you are tempted to think there is some reality what? is_ all i wanna know is whether it seems to you like there's a, there's some red in there. </U>
+			<U WHO="S2"> yeah the the subjective state is real <EVENT WHO="S1" DESC="LAUGH"/> it's th- the the reality of it is not something red in my head </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> you know when he's trying to bullshit you when he's (xx) <EVENT WHO="S2" DESC="LAUGH"/> okay do again? sorry. do it again. </U>
+			<U WHO="S2"> it does seem that there is a uh uh a reality to the subjective experience that i have. </U>
+			<U WHO="S1"> that means it does seem that the experience exists. </U>
+			<U WHO="S2"> the experience exists <U WHO="S1">
+					<OVERLAP> we agree on that </OVERLAP>
+				</U>
+				<OVERLAP> now </OVERLAP> is it the experience of something else other than just the experience, there it doesn't seem to me that (it) is of something else other than the experience. so </U>
+			<U WHO="S1"> all i wanna know is does the experience seem red? </U>
+			<U WHO="S2"> does the experience seem red. </U>
+			<U WHO="S1"> all you've told me so far about this experience is that it exists. does it seem to have any other features? like having a color? <OVERLAP> if it does </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah i'm not quite sure </OVERLAP> how to ferret out whether the experience is red or it's an experience of red and it's not as though </U>
+			<U WHO="S2"> but if you say it's an experience of s- red you gotta suppose it's an experience of a red patch or something. i mean you don't have to suppose that there really is a patch but it's but all i want is that you got an experience, and according to that experience there is something red. <OVERLAP> so if you go that route you can see it. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah yeah ph- phenomenally </OVERLAP> right right ph- phenomenally, uh <U WHO="S1"> even </U> it's an experience of something red. </U>
+			<U WHO="S1"> yeah that's all i'm saying. but there's nothing red there really so it's an illusion. </U>
+			<U WHO="S2"> well there's nothing physically red. </U>
+			<U WHO="S1"> i don't understand nonphysically red what do you mean physically red. <OVERLAP> i only said the word redness </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i i'm not sure i understand i understand </OVERLAP> what to make of an experience uh but there_ when i have when i have uh an image of a red ball, um there is the subjective state that i'm in, the experience that i'm having at that moment. which uh the, part of the the the mystery of how mind relates to, to matter is that it's not connected to things in the way in which you_ a red ball and i'm looking at a red ball i could, you know if other people look at it we can (do) light waves and all that kind of thing cuz when i'm when i'm forming an image in my mind i have the experience of a red ball. uh it's, it seems disconnected which is part of what makes the whole quandary of images and conscious experiences, uh so puzzling. but when one says you don't really have it you just seem to, it it uh it seems to be using, uh it's either using seem in a non- nonphenomenological sense within which i'm just making a faulty judgment. uh and there i can_ it doesn't seem (that) i'm making a faulty judgment that that it seems red. uh it really does seem red. um uh the other would be to say that somehow i'm using seem in a phenomenological sense of seem rather than just a judgment sense, uh but then you still have the the phenomenological qualities at least some sort of phenomenological qualities uh uh of red uh shape the the spherical shape. so th- (xx) it seems that we have two options of saying that it's an illusion either you say it's an illusion in a in a judgment sense, where it doesn't represent something else but, (that) the other one saying that it doesn't even have a seeming to it it doesn't even have uh uh the phenomenal sense of an illusion to it. </U>
+			<U WHO="S1"> um um what's the conclusion? again? or </U>
+			<U WHO="S2"> the conclusion is that the the fact that, it seems a certain way sort of Thomas Nagel's uh there's a fact of subjective experience which is a, fact about the real world and how we incorporate it into, uh into our metaphysical scheme. uh that's another question but he contends and it it seems undeniable to me that there are facts of subjective experience that i have a the the there's a fact about my experience that it seems to be of a red, sphere when i form the image. <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S1"> okay i don't know what you're_ if that's your conclusion we we_ if that if that really is your conclusion we don't disagree, because all i'm saying is, <EVENT DESC="LAUGH"/> all i'm saying so far there is, when you imagine when you visually when you visualize you visually imagine red, ball. <U WHO="S2"> uhuh </U> it seems to you like there's something red, it seems to you like you're experiencing something red when you aren't. and you just gave me the first half of that you've said it in a number of ways, <U WHO="S2"> (is) </U> and unless you're gonna go further <OVERLAP> and say </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah let's </OVERLAP> let's let's take the sentence uh compare the sentence, it seems to me that i'm experiencing something <OVERLAP> which is red. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> I didn't say it seems like you're experiencing </OVERLAP>
+				</U>
+				<OVERLAP> okay </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> you are experiencing </OVERLAP>
+				</U>
+				<OVERLAP> okay I am exp- </OVERLAP>
+				<U WHO="S1"> it seems to you like there's something red </U> all right take those t- two sentences i am experiencing something red. uh i am experiencing something which is red. </U>
+			<U WHO="S1"> that's the same. so far. </U>
+			<U WHO="S2"> uh the which seems to pick out something else. which then has it. <OVERLAP> wh- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i </OVERLAP> am experiencing something red versus? </U>
+			<U WHO="S2"> it's a property of my experience it's not a property, <OVERLAP> of something other than my experience. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> wh-what what is the property? </OVERLAP> representing red? that's a property of your experience. <U WHO="S2">
+					<OVERLAP> no i </OVERLAP>
+				</U>
+				<OVERLAP> that's why -i i </OVERLAP> it can't be false unless it represents something. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> uh i don't i don't think </OVERLAP> when i when i when i imagine a a red spherical ball, that i have something which is imagining, those phenomenal properties those phenomenal properties are_ i- i mean it's not something, that i'm representing those phenomenological properties those phenomenal prop- properties are present. </U>
+			<U WHO="S1"> okay. uh uh uh um i, i d- i don't even know what a phenomenal property is i'm talking about redness shape if if if redness is is confusing here talk about curvature. um two claims. uh well there is there are things curved in my head but_ m- my brains and <OVERLAP> cells (and so on) </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> yeah (you bet) </OVERLAP>
+				</U> okay so let me take, noncurved. and you know uh uh alright so uh straight you know. uh nothing, <EVENT DESC="WRITING ON BOARD"/> straight, <EVENT DESC="LAUGH"/> in, my, and then pick what you want brain mind soul body, etcetera environment, you can clear out all the straight things in my light cone okay that's one claim and another is um um uh, <EVENT DESC="WRITING ON BOARD"/> there is, a s- mental state, um uh with the content um that um uh uh that something is straight... there's a state that says, there's something here that's straight i'm making these two clai- and then this is <OVERLAP> (xx) (need to) (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> is the se- se- se- </OVERLAP> second one a phenom- a a a judgment thing which may not have any </U>
+			<U WHO="S1"> here here? they're_ these are both judgments, these are both these are both just propositions right but this state you're asking (isn't this) a judgment? i i'm neutral i don't care it was whatever, it it's that thing you were calling experience. <U WHO="S2"> okay </U> i just didn't wanna use the word experience just <U WHO="S2"> right okay </U> cuz alright <U WHO="S2"> alright </U> uh uh now <EVENT DESC="LAUGH"/> if you, if alright, and these two kinds are supposed to be true of a case where i close my eyes you all wipe out all the straight stuff, and i imagine a straight edge. okay um uh but now so all i'm saying (is that) these two facts about that case, and um and that's enough for me to say this state is an illusory state what it says is false. which one of these claims then if either are you denying? <PAUSE DUR=":06"/> maybe you </U>
+			<U WHO="S2"> i think i'm very much inclined to say that there is something straight in my mind. <U WHO="S1"> alright alright </U> what what that image is, uh as long as mind doesn't get, pressed into saying there's something in my, you know brain with a physical characteristic that someone or some neurosurgeon could look at it. then it seems though there's a reality to the mind within which you could say there is a uh uh, red sphere <OVERLAP> in my mind. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i comm- i commend </OVERLAP> you for having a proof of the existence of the soul. you know you have just discovered, you're just_ you've discovered what i think is the coolest argument for dualism in the world it's a v- it's a very simple argument you just, imagine, uh you know so you know you imagine step one you imagine or, you've probably read this this before in earl- you imagine a, a banana. you, detect that, you just in other words you form a banana image, you detect the image that is curved or yellow you f- just, step two you find that there's nothing, exhaustively search, your body and brain and light cone and the physical real- surroundings and discover that there's nothing causally relevant that's curved yellow etcetera. and so you include_ conclude that that image can't be anything physical in your neighborhood, including yourself. so it's gotta be in some other realm of existence and so forth. if you if you wanna say there is something straight, in your mind, and you also as it sounds are happy to deny that there is anything straight in your brain and body and environment and so forth. then you've got to say that that thing, that you've claimed there is your mind is somewhere else, or nowhere or something like that right, and so and it so so so you know <OVERLAP> that's close enough to saying (that) (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i don't see, i don't i don't </OVERLAP> i don't see why i have to say it's it's it's somewhere else. uh i mean i, i'm not a, i'm not totally closed to a substance-dualism view. uh but i'm i'm not inclined towards a substance-dualism view. </U>
+			<U WHO="S1"> well then where is this thing that's straight. </U>
+			<U WHO="S3"> is, isn't what's behind that, some kind of a property-sharing view of representation? </U>
+			<U WHO="S1"> (that) you got it </U>
+			<U WHO="S2"> right so you have genuine properties of of of of, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> that that that whatever, whatever thing in your head represents a, yellow banana is itself, yellow. and it's only by virtue of that only by virtue of sharing the properties. of the banana that it represents. i mean that's my way of making sense of, what's going on <OVERLAP> about that. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it </OVERLAP> doesn't even share the property_ I mean take a color (xx) (whether) primary secondary it doesn't seem to make <OVERLAP> (xx) </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> shape </OVERLAP>
+				</U> that the banana has the, uh we have theoretical reasons for thinking the shapes, uh, are out there in the world the way in which they seem to us, but when it comes to uh uh say color the way in which a color seems to us is is not literally out there in the world it_ we_ it_ the the the light waves the <OVERLAP> frequencies </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> refractance </OVERLAP> properties, <OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> refractance properties </OVERLAP> give rise to my experience of yellow. <OVERLAP> but the fact that i have a subjective state of yellow doesn't mean that there's a property </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh i mean... (xx) (i think you just confuse yourself by switching to color.) </OVERLAP> if you're gonna make a- if you stick stick with. i think the same lessons can be drawn from both primary and alleged secondary but be- because there's there's straightness and there's, how straightness seems just like there's reflectance. and there's how reflectance seems and you may wanna call that latter thing color, red and so forth rather than the former thing and you may wanna call curvature. it's just (you know) there's there's there's there's you know uh um shape, and there's reflectance and then there's you know the various, looks or whatever of these things. and it just so happens that a word like red might apply to this rather than that maybe and a word like s- round might apply to this rather than that but that's just, accidental. uh you know it's uh it doesn't show that that, that there's a difference. in the in the two kinda cases. but, um but and and and </U>
+			<U WHO="S2"> part part part of the (xx) when you say nothing straight in my head uh uh the, when you have a a say a curved wire and you twist it around so you can't see the curvature, it will look straight. <U WHO="S1">
+					<OVERLAP> (right) </OVERLAP>
+				</U>
+				<OVERLAP> (right.) alright. but then you say there's nothing straight </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this just says there is nothing that is straight, </OVERLAP> nothing is straight in my brain (yeah.) that's (the i) left a word out. (xx) i mean nothing is straight there is nothing straight. </U>
+			<U WHO="S2"> and i would wanna say that when i c- when i when i turn the curved wire so that i can't see the the bend in it, <U WHO="S1"> mhm </U> uh, that i have a an image of a straight, uh <OVERLAP> i have have a straight image. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you have an </OVERLAP> image of a straight thing. that's this claim? </U>
+			<U WHO="S2"> well it's not really an image of a straight thing cuz i know that if i turn it it's not really straight. </U>
+			<U WHO="S1"> an image as of <U WHO="S2">
+					<OVERLAP> yeah so that </OVERLAP>
+				</U>
+				<OVERLAP> an image </OVERLAP> that represents straightness. an image that says, something straight. is that, what you think's going on? fine. uhhh uh uh uh you're you're imagining looking, looking at something like that when it's, when from the t- <OVERLAP> from the top (half?) okay yeah </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> right. right. right. </OVERLAP>
+				</U> so so um <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so it it s- </OVERLAP> seems to me that what you have is a phenomenally straight image in the second case. </U>
+			<U WHO="S1"> what does phenomenally straight mean? </U>
+			<U WHO="S2"> it looks straight. </U>
+			<U WHO="S1"> the image looks straight. that's just to say this. i g- now now you're back you've come down here. to say, you're confusing something being straight with something being represented as straight. <OVERLAP> you're using a counter-logic, sheesh </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i i i'm wanting to make a divi- a a distinction between, </OVERLAP> the way things seem to us, and the characteristics that give rise to, uh those those those seemings. so it's uh <U WHO="S1"> yeah? </U> who is it that talked about uh pink uh, uh but the qualia the <U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> the subjective experience </OVERLAP> uh is, distinguishable from the the properties, and what i see going on here is is a way of of of getting around the, the uh uh the subjective state and say (it) simply represents pinkness. rather than pinkness being something which is, real because uh the subjective states <OVERLAP> really do exist. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> alright (xx) </OVERLAP> i'll insist each time color just confuses the issue i'd rather stick with shape. if your_ if you have a case, you ought to be able to make it in terms of shape without keeping going back to color. we can talk (in) color but my experience, that's that that's um, i mean i can make my points in terms of color it just takes twice as long. a- a- and and and if you can't make your your points in terms of shape, tell me and we'll talk about color but, but, if you can let's stick to, let's stick <OVERLAP> to shape. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah i can for- </OVERLAP> i can form an image of a of a of a (blind) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i don't think you </OVERLAP> can form any images in your mind i don't think there are any literal images in your mind. if if that means they're gonna have, the features. um i think it (can't) you can make, you can you can set things up so that it seems to you like there are images in your mind or images in your brain or however you wanna put it. </U>
+			<U WHO="S2"> yeah what what's confus- what's unintelligible to me is <U WHO="S1"> uhuh </U> what it means to say, it seems to me, <U WHO="S1"> yeah </U> that uh imagine a straight line. </U>
+			<U WHO="S1"> i didn't say it seems to you like you imagine a straight <OVERLAP> line i said it seems to you like there is an image. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay it seems t- it seems to me it seems to me that </OVERLAP> that that there is an image, <U WHO="S1"> yeah </U> of a of a straight line. </U>
+			<U WHO="S1"> you don't think you could be mistaken about that, is what you're saying. </U>
+			<U WHO="S2"> it seems to me that there is a a prima facie, uh uh uh claim, <U WHO="S1"> yeah yeah </U> from, <U WHO="S1"> yeah </U> the first-person experience, <U WHO="S1"> yeah yeah </U> that if you say uh i don't really have a a straight line in my mind when i, uh uh (again,) <OVERLAP> in my mind </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> imagine can you </OVERLAP> imagine a st- str-... i agree i a- this this, i i add this third claim you know uh uh um, um <EVENT DESC="WRITING ON BOARD"/> i am, imagining, straightness. that's true according to me. that's true because of this. this is irrelevant right, that's true just when you have certain constrained kinds of states so it's not just you know i guess or something (like that.) you know there is a visual, imagina- it comes from a certain faculty of the mind or the visual imaginative state that says, something is straight then that's good enough for you to imag- to be imagining straightness. but what i deny is that <EVENT DESC="WRITING ON BOARD"/> i have a straight... image, i wanna say that's false, so i'm distinguishing these two things. <OVERLAP> maybe that wasn't clear. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay what </OVERLAP> what is to have an imaginative state. if it doesn't have, <U WHO="S1"> an image </U> uh the the the content of having a straight image? in other words it's second <OVERLAP> one that that that sounds, fishy. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh this (xx) i'm wait wh,- </OVERLAP> what's fishy? this here? </U>
+			<U WHO="S2"> saying that there is wh- when i when i uh imagine a straight, when i have a straight line in my head. <U WHO="S2"> okay </U> okay. um that doesn't seem to me to be captured by saying, there is a visual imaginative state unless i'm sneaking back in with imaginative, the content of what <OVERLAP> i wanna (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> visual means </OVERLAP> visual means if you do it with you know uh uh um, with your visual system. it needn't be phenomenal or anything imaginative means that it's not perceptual but it's endogenous or something like this alright. so uh uh um, um a dream i would count as an imaginative <OVERLAP> state (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay </OVERLAP> let's let's take visual internal state <U WHO="S1">
+					<OVERLAP> alright alright alright </OVERLAP>
+				</U>
+				<OVERLAP> (it's )not exa- </OVERLAP> exactly but it's similar so i have a visual internal state <U WHO="S1"> alright </U>
+				<OVERLAP> that </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> alright </OVERLAP>
+				</U> X is straight? </U>
+			<U WHO="S1"> yeah now X i just did as a shorthand but i, i, we <OVERLAP> haven't talked about </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> X being whatever, </OVERLAP> was there. or </U>
+			<U WHO="S1"> i just meant X to mean something is straight. but it's actually true that something is straight in the universe i mean, that i am exp- that... uh uh uh and and uh, but roughly i mean that you know that uh, i, have an image in h- you know in here that is straight. that's what i really mean for X. </U>
+			<U WHO="S2"> so i have a visual internal state, affirming i have an image, <OVERLAP> of that which is straight. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (there is some straight) </OVERLAP> there is some straight in here i'm experiencing straight. </U>
+			<U WHO="S2"> or that there is some straight in here. </U>
+			<U WHO="S1"> yeah i- i- i- i- it, the i is probably also misleading it should be you know, uh an image is straight or something like that. </U>
+			<U WHO="S2"> okay so there is a state, which, uh uh is affirming that there is, a straight image. </U>
+			<U WHO="S1"> yeah that's what i think's going on even when there is no straight image. </U>
+			<U WHO="S2"> yeah and it seems that what's happened there is that the phenomena has the phenomenal, uh feel one might say has dropped out. </U>
+			<U WHO="S1"> well that's your theory but i'm gonna claim that this explains phenomenal. uh uh uh um (i'm sorry) if you think see, if you think that this has to be, tru- tell me whe- at what poi- um i'm gonna point to things you tell me at what point has the, has_ have i denied that there's phenomenality. here? it can't be that already right here i've denied that, there's phenome- <OVERLAP> it can't be here. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it looks like it. </OVERLAP> it l- l- l- looks like that one. </U>
+			<U WHO="S1"> all i've said is that there is a state there could be an- there could be any number of other things, in addition. let let's start here. certainly this claim is compatible, with there being phenomenal consciousness. i'm imagining straightness that that doesn't deny yet. add this claim. it just says a little more about this it doesn't say what there isn't, it's down here where i s- or up here where i say where, wh- that there isn't something. so if you're gonna say that it's this part this denial of this that says, cuz see this pa- this claim here doesn't say that this state is false or anything. it's this part that together with this says the state is false. so now wh- when i'm down here i'm starting to deny stuff. if you think that this, denial means denying that there's phenomenality then you're thinking that phenomenality requires images with these kind of features. and you're_ and then s- so there's your arg- you can do a_ you can write your own book other than Chalmer- like to the same effect as Chalmers and get, from taking phenomenal consciousness seriously straight to dualism. </U>
+			<U WHO="S2"> yeah it's it's the there is a_ there is a visual internal state... that affirms a proposition inste- the proposition, uh it doesn't gonna have any phenomenal quality in that brackets is there? or does it get snuck in in the brackets that you have, visual state affirms, <U WHO="S1"> (xx) </U> the, the the phenomenal content. </U>
+			<U WHO="S1"> okay yeah but the state doesn't deny that there's something it just says there's this. <U WHO="S2">
+					<OVERLAP> but certainly there's (more than what) </OVERLAP>
+				</U>
+				<OVERLAP> but you're right yeah </OVERLAP> nothing here says i don't think anything here says this just says there's a certain, object with certain a feature. </U>
+			<U WHO="S2"> no but i can i can say affirm that there is a uh red spherical ball, and uh do it quickly enough or in a way in which i don't form an image, of a red spherical ball. and it seems as though all that statement is saying is there's an internal state that's affirming, the proposition of a red spherical ball, which doesn't seem to include, the phenomenal character of what in fact is going on and what i'm imagining. </U>
+			<U WHO="S1"> okay i i i i hear that claim. <U WHO="S2"> uhuh </U> um, uh i i um i understand that it's not that it doesn't seem to include, phenomena i have to argue and did a little bit last week <U WHO="S2"> right right </U> and would have a little bit today argued that this explains, um phenomenality. but you don't yet have a reason to deny this claim. <U WHO="S2">
+					<OVERLAP> ( yeah but i wi- i wi- ) </OVERLAP>
+				</U>
+				<OVERLAP> if all you've said all you're saying </OVERLAP> now is that that this is not_ e- even if you're right i don't think you are from what you're suspecting but even if you're right, this claim is, not um all your your complaint is that this claim is not the whole truth about the universe fine. i just wanna know whether it's true. if it 's true and if, and if and if this is true, then this is a false claim. whatever else is true. cuz you know th- not <U WHO="S2"> yeah </U> not that this is a false, claim but this state is false. <OVERLAP> that's fine this state is false (these states) (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> p- part of the issue p- part part of the issue </OVERLAP> is what what is in fact the content of that second statement. and if if if you're right that that phenomenality is present there even though it doesn't seem to be at first, glance. </U>
+			<U WHO="S1"> this state says something is straight in my brain or mind or soul or body. <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> that's </OVERLAP> what this state says. </U>
+			<U WHO="S2"> yeah and you you're suggesting that that constitutes phenomenality. </U>
+			<U WHO="S1"> i haven't argued for that yet, <U WHO="S2"> right </U> all i want is, that there is such a state and what you may deny but only on pain of, why i think incoherence bu- because i s- i was charitably saying you got a proof of the existence of the soul but it's, it's incredible that there be something with, a spatial property in this nonspatial (ob-) i mean that doesn't make_ a soul doesn't help you here either so i think it really is incoherent to say that there's, in the case of describe something straight in my soul or brain or something, you know uh uh uh uh um i mean not incoherent cuz we could have found something straight in one's brain or on Alpha Centauri that through unknown channels is affecting you. but, given that it's not in the physical world and now the physical world not even help. uh uh um so uh um, um um but given just that point which is easy to secure and, the claim that it seems to you <OVERLAP> (xx) straight (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah what's easy to secure is is is the straight </OVERLAP> the straightness is not a physical straight and it <U WHO="S1"> what? where? </U> that this this, now, that one <U WHO="S1"> where? </U> the the the first one <U WHO="S1"> (this) one </U> nothing is straight it's (in) either in my brain or Alpha Centauri </U>
+			<U WHO="S1"> this is shape this means shape man. uh uh um and i know nothing_ i- o- if we we could we could we could, i can demonstrate some straight things to you but i'm not making a distinction between phenomenal and nonphenomenal physical and nonphysical straightness. straight means you know, an edge that lies along the shortest path between two points and so forth you know. um that's one thing </U>
+			<U WHO="S2"> yeah i- i- i- (an extent) <OVERLAP> that (xx) me that the </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> and there's nothing with that feature </OVERLAP>
+				</U> straight and th- and the straight that exists in my mind is an edge that lies along the the the shortest line between </U>
+			<U WHO="S1"> okay then then, give me my words straight if you want me to choose a different noise for that feature i will. all i care about is that it seems to you like there's something with that feature. but there's nothing with that feature. if you wanna, take every word i use and give it a second meaning and deny the claims in those other meanings fine but y- then we're not arguing. uh uh uh um okay? so, so um um i mean that was sorta the whole point of trying to do_ go to this, to stick with shape was that it was something we could, hold fixed if you switch to color then you're swapping between too easily betwe- reflectance and disposition and you know th- it's up in the air what the word red means what sh- part of the world it carves. that's why i wanna stick w- part of why i wanted to stick with shape talk. um and and yeah yeah absolutely i mean these two words to mean the same thing in the two claims. so you know there's another word i mean if i'm gay then you know there's some- if i'm if i'm i'm sorry if i'm heterosexual then there's something you know straight about me but that's just a pun right? and in the same way some kind of phenomenal straightness or whatever you wanna say is also just a pun... </U>
+			<U WHO="S2"> well pa- pa- part of what makes it makes it hard to to say that there's something straight is that is that straight it's it's it's, it's a boundary to some area uh uh so you (measure) black and white with a straight sort of line between so you go from from one to the next or y- you can imagine sort of a black line in a white space uh uh those those kinds of things. uh uh, but if you try to have straight just by itself i mean it have to has_ you have to ha- have some width to the line to be able to imagine it so it's... </U>
+			<U WHO="S1"> that's alright but, <U WHO="S2"> uhuh </U> now you're really reaching bec- i mean does that really seem relevant to the claims i'm making? i- i <OVERLAP> didn't sa- </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> it's </OVERLAP>
+				</U> this state doesn't say the thing isn't thick let it be thick. and straight and thick. there's nothing straight or thick. you know (in the world.) so, i don't understand where you're... </U>
+			<U WHO="S2"> yeah when i when i have_ when i when i imagine_ close my eyes and imagine a black line uh with some red to it <U WHO="S1"> okay? </U> uh the experience that i that i'm having, is not simply a mental state that is fir- affirming uh uh something that that i- if if i'm gonna have a mental state affirming something that in fact captures what was going on when i was <OVERLAP> imagining (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> the entire <OVERLAP> (xx) </OVERLAP> i didn't mean, i am not_ at no point did i mean what goes between these dinky little parentheses to capture the entire content of this state or all it's kinfolk kin- kindred states. </U>
+			<U WHO="S2"> but did you mean th- th- that it captures or you want it to capture in any way, the phenomenal? </U>
+			<U WHO="S1"> no no no <U WHO="S2"> no </U> all i'm trying to say is, you're under an illusion. what do i need in order to establish you're under an illusion? you are, you have a state that's false. here is the state that's false whatever other states are around it or whatever else this state says. if you conjoin other things if you say the state says this plus more, it's not gonna make it true all of a sudden if at if at one conjunct is false it's false. so th- so so so right? <OVERLAP> (so the thing that you) </OVERLAP>
+			</U>
+			<U WHO="S2"> right so <OVERLAP> the claim the claim then is </OVERLAP> is that is that is that the, the statement is false um, <U WHO="S1">
+					<OVERLAP> that's all i'm saying (xx) </OVERLAP>
+				</U>
+				<OVERLAP> if it's if it's </OVERLAP> referring to something physical i'm not inclined to to think that it's referring to something physical, and if i- the the contention is that if i if i deny that then i'm committed to dualism assumptionist dualism. uh now may- maybe someone can convince me that in fact i should be committed to assumptionist dualism, <U WHO="S1"> yeah yeah. yeah yeah. </U> but that's not a step that i i_ it it seems to me that i'm forced to take. </U>
+			<U WHO="S1"> if you could, w- w- rewind just a couple sentences? <U WHO="S2"> okay </U> you said this state is false if it refers to something physical? <OVERLAP> no w- w- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah if if </OVERLAP> i think there's a physical line somewhere. <OVERLAP> (xx) imagine </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no what do you mean </OVERLAP> physical line? what could be a line, this state says something is straight. that says nothing about a line it could be a plane it could be whatever. it could, i- i- it could be inspecific about what there_ it means nonmental or mental. it just doesn't_ it's not even talking about the physical versus nonphysical or anything like that it just says something is straight. now imag- imagine a case where we wiped out every straight thing in the universe. <PAUSE DUR=":04"/> okay? uh uh uh uh at least okay so so, and then you get to your imaginative task. now if that state says there's something straight, and you know we esta- already established that there's nothing, st- in which and remember by straight i mean this mathematical physical feature blah blah blah. uh uh uh um um um then, then there's m- then it's_ that state's gonna be false, even if it doesn't mention physicality. it's just gonna be flat false there's nothing straight in your brain in your mind in your environment in your body, or in your soul how could something be straight have that mathematical feature and be in your soul? uh uh uh um so, uh uh uh uh, you're gonna_ that that's why you're gonna be committed to either_ i don't even think dualism will save you. i- i- i- you're gonna be committed to, just uh uh um a myster- mysterious mysteryism or something you know a mystery-mongering if you say there is something literally straight, i didn't say physically straight or anything i don't even know what nonphysically straight would be i mean straight literally straight. if you say there's something straight, an- um when when you imagine, a straight thing this is true when you imagine a straight? <OVERLAP> then you're committed to (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah i think i think th- i think that </OVERLAP> part of what happens is that we slip from there's something straight to there's some thing straight. </U>
+			<U WHO="S1"> no no no that's not </U>
+			<U WHO="S2"> that's not it? </U>
+			<U WHO="S1"> that's not that's not a problem. any thing is a thing. no now you're really reaching cuz it_ see the the the </U>
+			<U WHO="S2"> okay if a if if if if a mental picture or a m- mental image is a thing <U WHO="S1">
+					<OVERLAP> of course every thing is a thing. </OVERLAP>
+				</U>
+				<OVERLAP> (yet) there is something straight. </OVERLAP> that the the mental picture uh, <OVERLAP> is_ contains something straight. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what okay so ta- tell tell </OVERLAP> so you th- you believe in mental pictures tell me more about these mental pictures. </U>
+			<U WHO="S2"> okay when i close my eyes <U WHO="S1"> uhuh </U> and i and i, uh imagine <U WHO="S1">
+					<OVERLAP> this is great (xx) </OVERLAP>
+				</U>
+				<OVERLAP> a black a black </OVERLAP> line say on a <U WHO="S1"> uhuh </U> on a white background. </U>
+			<U WHO="S1"> you create an object which is a mental, picture. you create <OVERLAP> a mental picture </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right i create i create a mental a mental </OVERLAP> picture. </U>
+			<U WHO="S1"> and now tell me_ now what more can you tell me about this mental picture. like can you tell me where it is? can you tell me what it's made out of? </U>
+			<U WHO="S2"> no it's not it's not a thing in the world it it's a <U WHO="S1"> it's </U> construct in my mind? and and </U>
+			<U WHO="S1"> now is your mind something in the world or is your mind somewhere else? </U>
+			<U WHO="S2"> yeah my mind is in the world. </U>
+			<U WHO="S1"> your mind's in the world and th- and this thing is in your mind but this thing is not in the world. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> no the the the thing the thing the thing is in the world and it's being in my mind but it's it's it_ what one one needs i think one one needs to, uh needs to uh, what i wa- wanna say is that the the mind-slash-brain is able to generate mental images which have a reality to them. which are <OVERLAP> neither independent, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> which exist? </OVERLAP>
+				</U> which are neither independent of the physical world I-E substance dualism <U WHO="S1"> physical world? okay okay, <OVERLAP> keep going </OVERLAP>
+				</U>
+				<OVERLAP> okay </OVERLAP> i'm i'm i'm inclined to think that our that our our characterization of the physical world in mechanistic objectivistic terms, <U WHO="S1"> mhm </U> is where the source of the problem lies. </U>
+			<U WHO="S1"> you you you are_ okay so when you say the word w- when you say the word world, or when you say the word thing or something you tell me if you are meaning just whatever you're meaning by the physical world or physical thing. um or say explicitly physical world physical thing. okay and now, i got_ i kinda understand you to be saying, see before you want to say the mental picture, you say sometimes it has a reality to it i don't know how to understand that other than, it exists. uh uh um but if you mean something different, (xx) <U WHO="S2"> yeah, yeah. <OVERLAP> the the mental mental picture </OVERLAP> right. </U>
+				<OVERLAP> the mental picture exists </OVERLAP> you wanna say it doesn't exist in the world. maybe you didn't really really wanna say that. </U>
+			<U WHO="S2"> no i wanna say it exists in the world but i wanna say that it's not a physically existent thing namely something that <OVERLAP> someone couldn't get a picture. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay so it's a nonphysical feature </OVERLAP> of the world. <U WHO="S2"> right </U> and (then) by (my) world i also mean just something just everything, that exists <U WHO="S2"> right <OVERLAP> right right </OVERLAP>
+				</U>
+				<OVERLAP> whether it's physical or nonphysical or alright </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> i think i think having to be partly dualism </OVERLAP>
+				</U>
+				<OVERLAP> and you wanna say </OVERLAP> that this a- no no <U WHO="S2"> no </U> worse than that. <EVENT WHO="S2" DESC="LAUGH"/> and <EVENT WHO="SS" DESC="LAUGH"/> you wanna say that any_ because you also wanna say that that nonphysical mental picture, is_ has a certain feature, of literal straightness. right? <OVERLAP> that's where you're gonna lapse again into incoherence </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it has a feature i think i think when you said (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it w- wh- which is just a complicated way </OVERLAP> to say you just think that mental_ that nonphysical mental picture is straight. <PAUSE DUR=":04"/> it's_ that's the question do you think that mental picture is straight? </U>
+			<U WHO="S2"> the content of it... includes a straight_ s- something straight yes. </U>
+			<U WHO="S1"> the content of it includes something <OVERLAP> straight. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> in other words </OVERLAP> the picture, have the white blackboard_ or the white background with the with with with a black line have all_ <OVERLAP> (xx) part part part part part of it, part part of it is straight. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so part of it is straight. part of it is straight. so so take the_ </OVERLAP> just just focus on the part call it a <OVERLAP> subpicture or whatever you want. i don't care fine. </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> it's a part of it (that's) straight. right right. </OVERLAP>
+				</U> you were gonna say there's this thing and it's presumably this part is also, okay so now we have now we're have a mental picture part and we know which one we're talking about. <OVERLAP> we have a mental picture part </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> it is it is straight right </OVERLAP>
+				</U> and it is not physical, <U WHO="S2"> right </U> it exists, it's not physical <U WHO="S2"> right </U> but it is literally straight. </U>
+			<U WHO="S2"> yes. we- literally, uh yes it- it's </U>
+			<U WHO="S1"> it is straight. </U>
+			<U WHO="S2"> it is straight. <U WHO="S1"> okay. </U>
+				<OVERLAP> i don't know that liter- literal answer to it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what i wanna know is, </OVERLAP> what does physical mean that such that nonphysical_ that something can be nonphysical and straight i w- i i would offer as a substitute for physic- we do it all again where w- where we talked about spatiotemporal. is that mental picture spatiotemporal? is it in space and, is it in space? that's what's gonna matter. and if you say no i'm gonna really wanna know how could something not in space be straight. if you say yes it is in space, i'm gonna wanna know where it is. and you ain't gonna be able to find it. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> there you wanna know where in terms of the <U WHO="S1"> space. </U> the the the the sp- the space of of my brain and i wanna say that that in fact <OVERLAP> our mind creates, create creates a uh </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> no if we say it's in some other space </OVERLAP>
+				</U> mental constructs, <U WHO="S1"> uhuh </U> that are analogues to space around us and those analogues uh uh in fact uh appropriately have the the the word straight uh applied to them. <OVERLAP> or at least th- that's just my </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> because they're straight </OVERLAP> presumably. because they're straight. </U>
+			<U WHO="S2"> right. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay so so that's why in this case they_ because you, it's because you believe they're straight that you believe, the word straight a- correctly applies, okay. so so now Peter we're at this point where you wanna say, uh there's these mental-picture parts, that are straight in the spatial sense, s- th- that is <OVERLAP> they're straight in some spatial sense. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> in the in the in the </OVERLAP> mental analogue of space. </U>
+			<U WHO="S1"> oh okay alright. uh uh um but now, um analogies are cheap. so you know uh uh there are plenty mental analogues of space are all of them gonna be, susceptible in terms of straight curved and so forth? all_ anything that's analogous in any sense to space? <EVENT DESC="LAUGH"/> or uh or by analogue you mean what the the mental, um um representation of space? because if y- if that's what you're really analogue talk is doing duty for then all you're telling me after all that is that <EVENT WHO="S3" DESC="LAUGH"/> this mental-picture part represents straightness. </U>
+			<U WHO="S2"> yeah yeah <EVENT WHO="SS" DESC="LAUGH"/> i wanna say <OVERLAP> more than just represents </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> which i agree </OVERLAP>
+				</U> it's it's it's a it's a uh i- it uh, uh it's conformal one might say or it's it's uh </U>
+			<U WHO="S1"> it's straight it's <U WHO="S3"> w- </U> spatial it's just_ i mean you might say there's different kinds of s- the- you might say there's, multiple you know surprising but true there're multiple outbreaks of spatiality that are like, disconnected from one another or something like that. <U WHO="S2"> no no <OVERLAP> wha- what i'm i'm talking about the (xx) </OVERLAP>
+				</U>
+				<OVERLAP> and that and that </OVERLAP> mental space is really space (with) dimensions and so forth <OVERLAP> but it's just not, located (with other) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no no mental mental ment- mental space is not </OVERLAP> a physical space. </U>
+			<U WHO="S1"> mental space is not some extra-physical space that's not in, <OVERLAP> that you_ where you can't get there from here. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no it's not some sort of fold in the </OVERLAP> spatial-temporal continuum. </U>
+			<U WHO="S1"> most of it_ i i i'm not offering that either i'm saying w- i would say there could be, there could be multiple spaces that aren't spatially related to one another. that would be fine i can even imagine that. uh uh uh um so so whereas a fold would be at a particular point of place, a- and not elsewhere it would be spatially related to the nonfolded part but, if if what you you_ take your pick you can have it i'll give you this much, if you wanna say there's, that all this is a demonstration from you know from this from the intuit- from introspection that you know there must be a uh an extra, realm of, space that's, if if if this is the way you wanna go not, neither here nor there, <EVENT WHO="SS" DESC="LAUGH"/> that it ri- ri- ri- it's somewhere it's it's it's </U>
+			<U WHO="S2"> yeah it s- seems that you you're <OVERLAP> resist </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> and </OVERLAP>
+				</U> very strongly the notion that you can have a mental analogue, to something physical without actually being the physical. </U>
+			<U WHO="S1"> oh i no i don't resist the idea that there is this mental analogue i insist that there are just way too many mental analogues you know uh uh um so i mean any three-dimensional if you're talking about three-dimensional space any three-dimensional, mental, any three mental dimensions so you know how much i love someone how much how how how uh how confident i am in their in in in their, you know in their reliability you know how how much i think they owe me you know will be analogous to physical space. </U>
+			<U WHO="S2"> not very analogous. <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> i mean (xx) expe- </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay, i'm asking you </OVERLAP>
+				</U> experientially it's not difficult at all to say no the the the visual image of a of a of a straight line, is a uh close analog- uh uh uh a mental analogue, to a straight line that i might draw on this piece of paper whereas to say hot and cold <OVERLAP> is a </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> why </OVERLAP> why even talk about analogues, if you're, loo- look if you're </U>
+			<U WHO="S2"> because i don't wanna create some sort of mystery space there that's off in some </U>
+			<U WHO="S1"> then then then then, do you wa- but you do wanna create straightness there and not <OVERLAP> mere analogous to straightness. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> an analogue of </OVERLAP> straightness. <U WHO="S1"> yeah <OVERLAP> are you_ if you're just saying </OVERLAP>
+				</U> you know <OVERLAP> i mean is it straightness or is it anal- </OVERLAP> something that's <OVERLAP> analogous to straightness. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah if you if y- </OVERLAP> if if if ana- if someth- if if if if the analogy has to be so tight that it literally has the same feature straightness then we have a disagreement if not i don't care what you say about it. <EVENT DESC="LAUGH"/> you see the, you gotta b- i think you have an impossible line to walk. uh uh uh, and you, will creatively when y- when necessary introduce a new, fudge <EVENT WHO="SS" DESC="LAUGH"/> each time it's no- well, it's analogous it's nonphenom- phenomenal straightness it was you know nonphysical straightness it was, you know a- and but the pattern the overall pattern is, <OVERLAP> either, it's either straight or it ain't. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay there's s- s- sort of two two two ways </OVERLAP> t- two ways in which i i i i i'd sorta go at this one is is that there's some reality to the image that i have. um now the question is what do i make of that alright um the the uh the visual analogue kinda spatial analogue kinda thing is a way of my trying to talk about that. but the other part is when i when i look at sort of an explanation and say well what's really happening is there's a state that affirms that there is a straight line. um that sounds like sort of the proposition uh uh, but doesn't capture the phenomenal character to it. </U>
+			<U WHO="S1"> i understand that that's why you're complaining bu- bu- that that's, that that's why you're complaining but that complaint is really misplaced because i wasn't at this state of the argument, trying to say, if you have and in fact i don't believe, that i would that if this is true, there is consciousness. i'm i- i- i- i wasn't trying to say that all i was trying to establish was we have a certain illusion. and it seems that you could grant that. uh uh uh cuz i'm not saying you know, consciousness is an illusion <U WHO="S2"> yeah yeah yeah </U> okay so we really got onto this, cuz, cuz it's i made it perhaps sound maybe like i was already trying </U>
+			<U WHO="S2"> no i know you're_ what you wanna a- ad- add some stuff by you know the the the the paper we were looking at last time the add enough things into it then none of the parts have any phenomenal character when you put 'em all together <U WHO="S1"> right </U> the claim is presto you've got it uh <U WHO="S1"> uhuh </U> uh and a- i may need to think more about that <U WHO="S1"> uhuh </U> but it doesn't seem to me that you put these nonphenomenal things together and presto you got anything other than a conglomerate of non- nonphenomenal things. <U WHO="S1"> uhuh </U> so in looking at this it's true that that your argument that you have to have more in terms of the conditions to actually have uh uh phenomenality coming out of it. </U>
+			<U WHO="S1"> okay you're objecting to uh <U WHO="S3">
+					<OVERLAP> more presentational (xx) </OVERLAP>
+				</U>
+				<OVERLAP> you're my objecting to my </OVERLAP> theory which is not even, as far as this paper concerns, on th- on the table for discussion yet. i, it's fine cuz we're loose and we can talk about it in any order, i mean we are. but um but, but it matters to me for other reasons that i have a way, of um convincing people that there's, that certain what i'm calling data this, uh has some reality to it. uh um a- a- exists. and um, and, and then you can talk about explaining it. so so so just you can have the last word, um (ho-) what i promised not to do is to say ahah you've conceded you know my entire world view or something uh uh do you see what i mean by saying there's an image illusion and do you, <OVERLAP> still disagree that there is one. where where an image illusion is </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> does tha- if if if in fact </OVERLAP> my my um um uh spatial analogue this is in as dire straits as uh as you say it is uh uh i think my next move on that would be to say when i say it's an analogue to a straight line is that when i draw a line on this piece of paper with a magic marker uh uh and i compare the the the uh image that i have of this black line, is that the experiential uh um state is uh i- very closely analogous and there may be whether this has the same cr- crispness or distinctness to it uh i'm not gonna say it's exactly the same but to say well you don't have a g- any any content analogue uh it seems that it's precisely that that gives the content to it. and when you say okay this piece of paper has spatial you know you can measure it this way but you can't measure the the thing you've done in your head uh i can't take a ruler to it but the experiential, state when i'm imagining it is very closely analogous to this and part of what was characteristic of my looking at the line on the piece of paper was that it has, it's a it's a spatial image that i'm that i'm that i'm having when i'm looking at the line on the paper and when i have_ when i formulate the image in my mind it also has that spatial characteristic to it. now you start asking well okay where is it? um, that, uh raises the whole conundrum of well what exactly is it to have an image in your mind and the the notion that you say that it's it's an illusion, uh </U>
+			<U WHO="S3"> it's alright i just have <U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> to run </OVERLAP> i have a review session in, <U WHO="S2"> go ahead </U> ten minutes ago. </U>
+			<U WHO="S1"> oh </U>
+			<U WHO="S2">
+				<OVERLAP> thanks John </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> midterms uh uh </OVERLAP>
+				<U WHO="S3"> thanks </U> Joh- so John just for next week, um can_ let's, uh can <U WHO="S3"> yeah just </U> can we say the entire paper? <U WHO="S3"> yeah </U> even though it's long or you know an- and uh there's some <OVERLAP> parts in it where it says you can skip this, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> your your your paper a- and </OVERLAP> the the same amount in Tye <OVERLAP> or or try to read some more Tye (xx) just that little, yeah. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> w- well Tye was just a couple pages you can pick up with me sometime. </OVERLAP>
+			</U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S3"> see ya </U>
+			<U WHO="S2"> right </U>
+			<EVENT DESC="S3 LEAVES"/>
+			<U WHO="S1"> uhhh um okay i offered to give you the last word... </U>
+			<U WHO="S2"> no well <OVERLAP> we we could we could respond the next time </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i'm happy to keep on talking about it alright, </OVERLAP> um i didn't understand the thing about the mark on the page it sounded like you were gonna say, you were gonna say um, um well, uh i've draw a line on a page and it's kinda squiggly it's not straight but it's analogous to something straight it's very close <OVERLAP> to being straight </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well i use a </OVERLAP> i use a straight edge and make it look nice or i you know <U WHO="S1">
+					<OVERLAP> but it still only, (perfect) </OVERLAP>
+				</U>
+				<OVERLAP> go to the (print shop) and use my computer </OVERLAP> and make a, and ma- make make a, ma- make a line and uh <OVERLAP> visually </OVERLAP>
+				<U WHO="S1"> well, right </U> it's gonna look, the <OVERLAP> same </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> way as as when i form the image uh <OVERLAP> in my head. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but i wanna say </OVERLAP> whatever's in your mind your brain and so forth it's it's nothing like that mark on that page it's not it's not that, it's not that, there's a near-miss, that there's something almost straight in your <EVENT DESC="LAUGH"/> brain or your m- or your, or your mind there's nothing, remotely straight in there. (that's) not even slightly bent, you know it's um, and if you want me to show you i take a knife and show you <EVENT WHO="S2" DESC="LAUGH"/> um </U>
+			<U WHO="S2"> yeah i think that that's you know uh uh </U>
+			<U WHO="S1"> what are you holding out for? <U WHO="S2">
+					<OVERLAP> i'm holding out f- </OVERLAP>
+				</U>
+				<OVERLAP> and why does it matter, </OVERLAP> to you why does_ why why_ what would, i mean it's such a bizarre thing to be reaching for i wonder why </U>
+			<U WHO="S2"> it's bizarre for me to be reaching for some physical th- phy- physical uh uh line in my head <U WHO="S1"> yeah <OVERLAP> that would be (xx) </OVERLAP>
+				</U>
+				<OVERLAP> and where_ that </OVERLAP> that would be quite uh bizarre </U>
+			<U WHO="S1"> and i'd i would say it's bizarre to be claiming to (be) reaching for something straight or n- almost straight, <OVERLAP> slightly bent in your soul. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> in i- i- </OVERLAP> in my experience. </U>
+			<U WHO="S1"> in your sou- yeah in your soul </U>
+			<U WHO="S2"> but i'm not gonna say soul, it could make myself into a dualism but in my experience. </U>
+			<U WHO="S1"> in your mind yeah. </U>
+			<U WHO="S2"> in my mind. </U>
+			<U WHO="S1"> and you_ but you want there to be s- i mean you would like it you'd be happy <OVERLAP> if there was something, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> well i'd like it </OVERLAP> if if if a </U> straight or almost straight in your mind </U>
+			<U WHO="S2"> if if if i can be given if i can be given a uh uh an account of it, in nonphenomenal terms s- sort of the the the <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> forget </OVERLAP> nonphenomenal i just talked about whether it's straight, (this is) no issue about phenomenal nonphenomenal and i coulda done the whole thing maybe i should without the word image. just in terms of some features like straight, small big you know smelly uh uh uh sharp uh so, um, and the claim is there is nothing, with those features in your mind. <OVERLAP> nothing in your mind. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah okay so we move away from the image </OVERLAP> just looking at the line on the paper, um... the... experience i have, is of a straight line, um i don't actually get outside of myself to sort of reach out and grab the the the paper (xx) somehow the the light waves and reflective characters, <OVERLAP> if th- an- and- </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> kinda like the (seeding of cage.) okay </OVERLAP>
+				</U> and and give rise to <OVERLAP> an experience </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> we agree </OVERLAP>
+				</U> of a straight line. and i would wanna say the experience of a straight line is something takes place in here. uh so when you ask was there anything straight in this experience of the straight line, yes. </U>
+			<U WHO="S1"> namely? </U>
+			<U WHO="S2"> the, the, the character of my experience was, uh </U>
+			<U WHO="S1"> now characters can be straight. </U>
+			<U WHO="S2"> character_ wh- not the character in a personal sense like the </U>
+			<U WHO="S1"> was the experience straight? you've only told me it's a_ you've t- there's a page there's a mark on the page there's you there's an experience. you haven't <OVERLAP> introduced any other characters or any other things. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> par- par- part, </OVERLAP> part of my experience was straight. </U>
+			<U WHO="S1"> your experience had a straight part? </U>
+			<U WHO="S2"> right. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> ( uh uh uh...) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> cuz i don't think the experience was something </OVERLAP> where you sorta look at boundaries and say oh here here is the edge of my experience. <U WHO="S1"> uhuh </U> uh experience isn't something an object, that if you (have to look at it say is the object's right) experience is in fact the prerequisite of having any objects whatsoever. </U>
+			<U WHO="S1"> wow </U>
+			<U WHO="S2"> in a conscious way. </U>
+			<U WHO="S1"> more and more bizarre. <EVENT WHO="S2" DESC="LAUGH"/> ex- i'm s- i d- i i i when i i heard_ i blanked out when you said your experience has a straight part <U WHO="S2"> yeah </U> when i came to you were saying experience is necessary for there to be objects whatsoever. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> yeah my experience has a m- m- my my experience <U WHO="S1"> poof. </U> has ha- ha- ha- has a straight part <OVERLAP> that part (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i didn't say (that) would go over my head but it went over what </OVERLAP> ever what was going over my head. <EVENT WHO="SS" DESC="LAUGH"/> it's like (piled,) but it's <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> the </OVERLAP> the_ if you ask is my experience straight or even is a part of my experience it's it's as though you treating experience as if it was an object as if it were an object of experience <OVERLAP> but experience is not an object. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no no no </OVERLAP> no i'm not i mean well certainly experience_ all i'm treating as experience i- this thing you call experience i'm just treating as a thing that exists. i didn't say it was (in turn) experienced we are thinking about it now you agree <U WHO="S2"> right </U> so it's an object of thought, <U WHO="S2"> right </U> i don't care if it's also an object of another experience or itself or anything like that it's something that exists something that we can talk about i wanna know whether it's straight. i can ask you (of) anything, whether that's straight <U WHO="S2"> yeah </U> and that makes sense <U WHO="S2"> yeah </U> you know is the sun straight is Monday straight and you say no no no, is that experience straight and suddenly you say yes or partly straight. </U>
+			<U WHO="S2"> yeah the the strange thing about to say the experience is straight is usually when we talk about the experience we've stepped back from it, and we're talking uh sort of uh uh secondhand about uh, uh something that's going on in someone else's mind. and there <OVERLAP> we've lost the </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> do it </OVERLAP> for yourself do it on your own i i'm asking you about your own experience. i'm not making that <OVERLAP> mistake. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah yeah </OVERLAP> i i so i i_ feel that's a little distorted but much closer uh to what i intended by saying that part of my experience is straight, rather than saying my experience is straight. </U>
+			<U WHO="S1"> this part of the experience l- l- n- i i don't understand quite part of exp- what that means you'd hafta tell me but, one guess is i- sometimes i have complex experiences and i have experiences as parts of those complex experiences so i i experienced the Gulf War, part of it was experiencing you know landing in Kuwait or <OVERLAP> you know so so so so now you, so so so this part of experience is </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> right n-n n- i i'm thin- thinking about that as a figurative slice of time, where where you have </OVERLAP> parts of the visual field, where it's you have different things within the visual field, and the the visual field can contain uh uh a variety of <U WHO="S1"> uhuh </U> of of different things and in that sense there's parts of an experience you take the visual field one slice at a time. </U>
+			<U WHO="S1"> so can we just dispense with, shouldn't we just talk about the visual field? you said your visual field part of your visual field was straight? is that better you'd rather go that way? </U>
+			<U WHO="S2"> pa- i wanna say part of the the the content_ well it's not m- my my visual field, cuz when i'm having an experience i'm not having a a_ i mean there is there is this sense in which it is like the the visual field i'm looking at the piece of paper i don't have uh imagine a three-hundred-sixty degree uh, uh so that there there there're constraints, put on it </U>
+			<U WHO="S1"> you you you're telling my part of an experience is straight. you liken that to something i (am) equally befuddled by <U WHO="S2"> yeah i </U> the idea that part of a field part of a visual field is straight, but i can kind- i can more_ it's easier for me to understand that sec- what you might be meaning by the second thing so i was, so i was hoping you were trying to substitute rather than liken, um but if not we'll stay with experience. um um... you wanna say part of the experience is straight. </U>
+			<U WHO="S2"> a line. </U>
+			<U WHO="S1"> either a line or how- <U WHO="S2"> yeah </U> whatever you wanna call it. part of the experience, is straight part of it is big small i mean it's not just you gonna stop at straight part of it is pink part of it_ or black whatever part of it is um, far away, <U WHO="S2"> well no, <OVERLAP> that con- </OVERLAP>
+				</U>
+				<OVERLAP> if you have </OVERLAP> an ex- if you imagine something far away is part of your experience far away? </U>
+			<U WHO="S2"> there it's it's analogous to the kind of characteristics of when something uh uh looking something in a salient and it and it and it's and it's far away. uh <OVERLAP> when i when i </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> i have (xx) </OVERLAP>
+				</U> when i when i visualize a distance mountain a distant mountain in my head, um i call it distant not because i think there's some far point inside my head, <EVENT DESC="LAUGH"/>
+				<OVERLAP> (nothing can go very ) </OVERLAP> far inside my head. </U>
+			<U WHO="S1">
+				<OVERLAP> okay (xx) </OVERLAP> but you might think that about your mind (for all i know.) </U>
+			<U WHO="S2"> that my mind could extend? </U>
+			<U WHO="S1"> uh i d- i d- why you would find that silly but not the earlier stuff silly i i haven't <EVENT DESC="LAUGH"/> latched on to that yet. um </U>
+			<U WHO="S2"> yeah it's because it's because whenever i think of the spatial characteristics of of my uh uh of my, uh image, it's not_ there's not literal uh uh spatial in the images it's not it's not </U>
+			<U WHO="S1"> but straightness is a literal spatial property, what are you saying? </U>
+			<U WHO="S2"> i'm saying that the experience that i have uh when i'm imagining is the same experience i have when i'm looking at the line on the the piece of paper and that the uh, i'm enough of a physicalist to think that what's taking place is really taking place in my brain and that somehow i project, and through some projection have this this, this sense that the line is out there when i'm looking at the line on the piece of paper. </U>
+			<U WHO="S1"> but you're not enough of a physicalist to, to conc- you're let- you let beliefs you have about the brain, talk you out of the idea that if you've ever (were attended) to it, that part of your experience is far away. but you don't let facts_ beliefs you have about the brain, talk you out of the idea that part of experience is say straight. or purple. or, polka-dotted or whatever. but you make this decision. that the brain is equally_ i- the brain is as un-polka-dotted and as unstraight as it is un-far-away. <OVERLAP> in exactly the same way </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah, right. <OVERLAP> the the bot- the bot- the bottom line </OVERLAP> the bottom line i think in terms of in terms of the the uh the very strong intuition i have is that is that the experiential state, um uh uh can't be sort of explained away as uh a representation i know you don't take Daniel Denett's sort of uh uh approach where qualia just don't exist, um uh you wanna say they they they do exist but, then the latter part they're nothing but, um uh </U>
+			<U WHO="S1"> well their not right if that's what's at the root of all this then i, really suggest you, consider uh trying to find a way to believe in qualia without believing that straightness has to be a (qualae.) </U>
+			<U WHO="S2"> that's a good challenge to end on i think. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> alright, alright... yeah yeah i mean i believe in qualia but i think they are features other than, distance away straightness reflectance and so forth they're just some other features. uh, uh, okay. whoo. <EVENT WHO="S2" DESC="LAUGH"/> i knew sooner or later you'd come out of, uh come out with these things i've been he- all summer and now we've been, <OVERLAP> i've been waiting. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well we did it </OVERLAP> we did it a a a a little bit when we talked during the summer about uh uh uh uh Denett's uh qualia whether they exist or they just seem to. uh <U WHO="S1"> yeah </U> and the qualia are the seemings tha- which means the seemings don't really exist they just seem to <U WHO="S1"> mhm </U> which just doesn't fly. and your suggestion is that that's a that may be a good critique of uh of Denett uh but the the qualia really exist when i wanna give it some uh the the properties that uh i wanna ascribe to different mental states the F-like those th- th- those things. uh that i i can't do so without, uh abusing language or using language in ways that simply, uh <OVERLAP> not gonna work. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this is not the fault </OVERLAP> of lang- this isn- the pickle you're in with this is not English's fault. it's, it's it's <EVENT DESC="LAUGH"/> logic's fault. <EVENT WHO="S2" DESC="LAUGH"/> you know i think. l- <OVERLAP> well logic plus </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i i i i'm </OVERLAP> open to being persuaded <OVERLAP> i mean that that certainly </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> logic plus um </OVERLAP>
+				</U> read carefully the arguments, that it's a logical mistake. </U>
+			<U WHO="S1"> well it's not c- cr- (xx) not only logic there's also the empirical, bad luck that there's nothing straight in the brain. you coulda lucked out. </U>
+			<U WHO="S2"> eh if there were straight things in my brain that wouldn't help me. <U WHO="S1">
+					<OVERLAP> i think that's f- </OVERLAP>
+				</U>
+				<OVERLAP> unless i unless </OVERLAP> i think there's some sort of eye in the brain looking at this straight thing in my brain. so even if there were straight things in my brain that's not gonna help at all. </U>
+			<U WHO="S1"> yeah so it's, it's (just) mysterious why that would be at all tempting to, to go that way. </U>
+			<U WHO="S2"> when i think about what actually goes on in my brain i- it seems to me that that uh uh, uh it's conceivable we could be recording the information in our brain in zeros and ones or (xx) not really but, <U WHO="S1">
+					<OVERLAP> yeah yeah, (xx) </OVERLAP>
+				</U>
+				<OVERLAP> but using sorta tha- the </OVERLAP> computer analogue. uh and that uh you have zeros and ones that wou- that that that reflect the different sort of like uh light frequencies. and physically all that's going on within your brain is zeros and ones, <U WHO="S1"> mhm </U> uh but out of that we, have the subjective experience of a straight line or <OVERLAP> (uh, yeah) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i agree with all that. </OVERLAP> but that's of-talk. experience represents straightness. i already got that. </U>
+			<U WHO="S2"> uh i have to- t- represents is w- we'll wrestle <OVERLAP> with that some more. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> that's what we're </OVERLAP>
+				</U>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah yeah yeah you want something in-between representing straightness and having straightness. </U>
+			<U WHO="S2"> yeah actually i'm i- enough of of what Searle says about information and ref- re- referring, uh that i'm not sure something really ref- one thing refers to another, um uh without there being some, uh referring for a subject or bringing in in in the </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

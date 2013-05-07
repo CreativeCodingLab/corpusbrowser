@@ -1,0 +1,1705 @@
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Gemma Lum (English Language Institute) -->
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="sgr175su123">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Biochemistry Study Group </TITLE>
+				<TITLE> Rackham Div: BS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SGR175SU123 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="109">
+						<DATE> November 6, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Amy Burke </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Jessica Rett </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 10/3/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="4"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="5"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SU, Peer Group Leader" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="SU, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Science Learning Center Alcove, Chemistry Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> sorry we could only get the old book. </U>
+			<U WHO="S2"> oh that's okay. </U>
+			<U WHO="S1"> okay. <PAUSE DUR=":09"/> so, we have questions on electron transport or what? </U>
+			<U WHO="S2"> um, you kn- that oxyl acetate, you know that, there's like a, a weird cycle. it's, it sorta seems <OVERLAP> separate </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> citric </OVERLAP> acid cycle? </U>
+			<U WHO="S2"> no, it's something, sort of related to it but it's not, it. <U WHO="S1"> okay </U> like, i was reading in the book. it's like </U>
+			<U WHO="S1"> oh oh, <U WHO="S2"><OVERLAP> the </OVERLAP></U><OVERLAP> the </OVERLAP> the t- okay i know <OVERLAP> what you're talking about </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> okay, </OVERLAP> i just... </U>
+			<U WHO="S1"> for the fatty acid breakdown right? </U>
+			<U WHO="S2"> uh yeah, i <OVERLAP> think so </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay </OVERLAP> do you know what chapter that is? <OVERLAP> it's (way) past this </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> um, in </OVERLAP> alri- is it all in the same ch- it was like, </U>
+			<U WHO="S1"> glyoxylate? </U>
+			<U WHO="S2"> yeah, <U WHO="S1"><OVERLAP> okay </OVERLAP></U><OVERLAP> i'm just </OVERLAP> sort of confused about it, like </U>
+			<U WHO="S1"> the purpose of it? or <OVERLAP> what </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> like, </OVERLAP> i i know it's like, it breaks down fatty acids but like, how is it related to like the citric acid it like feeds to the citric a- acid cycle </U>
+			<U WHO="S1"> right, right okay, so, some of the same enzymes are involved, okay <U WHO="S2"> okay </U> like, uh you go from acetyl CoA to citrate that's <U WHO="S2"> okay <OVERLAP> yeah, yeah </OVERLAP></U><OVERLAP> you know exactly </OVERLAP> what you do in the citric acid cycle so you s- have a citrate synthase that does that. okay, then you go to isocitrate, just like in the <U WHO="S2"><OVERLAP> okay </OVERLAP></U><OVERLAP> citric acid </OVERLAP> cycle, so <OVERLAP> aconitase </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> and </OVERLAP> what i- what does this mean? like, you know that means that if there_ A-T-P would inhibit it? or, <U WHO="S1"><OVERLAP> um, let's find out. </OVERLAP></U><OVERLAP> is that j- like an inhibition? </OVERLAP> and in calcium and A-D-P s- like, </U>
+			<U WHO="S1"> that i- that's what it appears to be so, A-T-P would inhibit that </U>
+			<U WHO="S2"> cuz i- is it cuz it bi- it binds to that, or or something? </U>
+			<U WHO="S1"> it probably binds to the enzyme, <U WHO="S2"> okay </U> isocitrate dehydrogenase <OVERLAP> which </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh okay </OVERLAP> and it <U WHO="S1"><OVERLAP> uh </OVERLAP></U><OVERLAP> changes </OVERLAP> the conformation </U>
+			<U WHO="S1"> yeah, so and it's it's an allosteric inhibitor. <U WHO="S2"> oh okay </U> and so these are allosteric activators. <OVERLAP> okay? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh </OVERLAP> so allosteric inhibitors bind to the enzyme and change the active site? or is that, <OVERLAP> so oh okay </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right, right. </OVERLAP> okay? <U WHO="S2"> okay </U> okay so, um, <OVERLAP> maybe </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> like, </OVERLAP> my book started talking about these two like how they, different parts of it give off C-O-two </U>
+			<U WHO="S1"> right, so we have C-O-two <U WHO="S2"> yeah </U> so, what do you think that means? <U WHO="S2"><OVERLAP> i remember </OVERLAP></U><OVERLAP> so how many </OVERLAP> how many carbons does citrate have? </U>
+			<U WHO="S2"> doesn't it have six? <U WHO="S1"> right </U> so it gives off two <U WHO="S1"> it g- </U> isn't isn't there like two parts to it? like, </U>
+			<U WHO="S1"> okay let's look at the, structure. <U WHO="S2"><OVERLAP> wait </OVERLAP></U><OVERLAP> okay </OVERLAP><EVENT DUR=":08" DESC="PAUSE WHILE READING"/> okay, so here's citrate <U WHO="S2"> ci- yeah </U> okay? </U>
+			<U WHO="S2"> like, i think this one's the one that leaves. </U>
+			<U WHO="S1"> which one's the one? </U>
+			<U WHO="S2"> the middle one? </U>
+			<U WHO="S1"> the new one? </U>
+			<U WHO="S2"> no the middle one, here <U WHO="S1"> right </U> that's the one that, leaves first </U>
+			<U WHO="S1"> right... so what does that mean? </U>
+			<U WHO="S2"> that it changes, shape? </U>
+			<U WHO="S1"> right so, this is your substrate citrase, citrate and, aconitase the enzyme, <U WHO="S2"> okay </U> is gonna change it to well eventually to isocitrate, <U WHO="S2"> okay </U> okay? and still has <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> six carbons </OVERLAP> at this point, okay? then, you have this oxidative <OVERLAP> decarboxylation step </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh, so that car- </OVERLAP> that would ca- that would cause the C-O-two to leave </U>
+			<U WHO="S1"> right, and that's catalyzed by, this <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> enzyme </OVERLAP> okay? </U>
+			<U WHO="S2"> okay. so that was </U>
+			<U WHO="S1"> so then you have another carbon, leaving, sa- it's ca- like the step name is called the same oxidative decarboxylation, but it's a, by a different enzyme has <U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> different </OVERLAP> substrate </U>
+			<U WHO="S2"> oh okay <U WHO="S1"> okay? </U> how does that r- sort of relate to the, other one though? </U>
+			<U WHO="S1"> what other one? </U>
+			<U WHO="S2"> the, this one <OVERLAP> this </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> the </OVERLAP> glyoxylate <OVERLAP> cycle </OVERLAP> ? <U WHO="S2"><OVERLAP> yeah </OVERLAP></U> well, the same enzymes and substrates are used and that, this cycle, um, okay it says, what is, it says it's a variation of the citric acid cycle right? <U WHO="S2"> mhm </U> and <EVENT DUR=":11" DESC="PAUSE WHILE READING"/> okay. hello <U WHO="S3"> hi </U> oh we're being recorded today, okay? so you hafta, sign some consent forms before you can speak. <EVENT DESC="LAUGH"/> okay? </U>
+			<U WHO="R1"> actually if you'd rather fill them out, when you leave <U WHO="S1"> okay </U> at the end of the appointment that's okay too. </U>
+			<U WHO="S3"> no problem. </U>
+			<U WHO="S1"> is that okay? </U>
+			<U WHO="S3"> that's fine. <U WHO="S1"> okay </U> (i could care less) <U WHO="S1"> okay </U> oh you got a book? okay so this is </U>
+			<U WHO="S1"> i got an old book, okay. <OVERLAP> yeah that won't help up us </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah o- older books here </OVERLAP> okay. i'll be right back. </U>
+			<U WHO="S1"> okay, so, um, </U>
+			<U WHO="S2"> so like, i know those, when it go- it goes from here, so this is the gly- </U>
+			<U WHO="S1"> glyoxylate cycle </U>
+			<U WHO="S2"> so this is the whole citric acid cycle <U WHO="S1"> right. </U> oh okay, that's what i was ki- cuz i thought it goes here and how could it go there too? oh so it's like <OVERLAP> half of it. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so, </OVERLAP> yeah it's just it's just_ and so, when you do this, you don't get um, </U>
+			<U WHO="S2"> isn't this to like, sort of maintain, this in the cell? <U WHO="S1"> right </U> is this, this is in plants? or </U>
+			<U WHO="S1"> does it only happen in plants? </U>
+			<U WHO="S2"> or was it something else? </U>
+			<U WHO="S1"> i think you might be right it only happens in plants <U WHO="S1"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> but actually </OVERLAP> i'm not sure i'm not sure. <SEG TYPE="READING"> in plants the enzymes of the glyoxylate cycle are sequestered (into) the membrane by organelles. </SEG></U>
+			<U WHO="S2"> okay so not in, not in mammals or (whatever) </U>
+			<U WHO="S1"> um, it doesn't, does the glyoxylate cycle take place in mammals, or just plants? or animals at all? </U>
+			<U WHO="S3"> the, glyoxylate cycle? </U>
+			<U WHO="S1"> do you know what that is? <U WHO="S3"> no </U> okay. did you do your reading? </U>
+			<U WHO="S3"> yeah i did <U WHO="S1"><OVERLAP> okay </OVERLAP></U><OVERLAP> but </OVERLAP> probably not that one. is that like (xx) system one and two and stuff? </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S1"> no. <U WHO="S3"> okay </U> no this is, um <OVERLAP> like, </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> the </OVERLAP> citric acid cycle </U>
+			<U WHO="S1"> this is the citric acid cycle. <U WHO="S3"> yeah </U> this is the glyoxylate cycle. </U>
+			<U WHO="S3"> oh. </U>
+			<U WHO="S1"> okay? and it says in plants it's, in these organelles called glyoxosomes, um, <SEG TYPE="READING"> not present in all plant tissues, </SEG> yeah i think, you're right, it only happens in, uh, in plants. and that's, because you know we don't have these enzymes this isocitrate lyase and, malate synthase right? yeah. </U>
+			<U WHO="S2"> can something inhibit this? </U>
+			<U WHO="S1"> probably <EVENT DESC="LAUGH"/> well the same things that are gonna inhibit, the enzymes that are up here, <U WHO="S2"> oh okay <OVERLAP> in wait, okay </OVERLAP></U><OVERLAP> are gonna inhibit </OVERLAP> this cycle <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> just like they would </OVERLAP> inhibit the citric acid cycle, and these two enzymes, prob- have their own inhibiti- oh <SEG TYPE="READING"> vertebrate an- uh animals do not have the enzyme specific for the glyoxylate cycle, isocitrate lyase, and malate synthase and therefore cannot bring about the net synthesis of glucose from lipids </SEG><U WHO="S2"><OVERLAP> wait </OVERLAP></U><OVERLAP> so what </OVERLAP> plants can do, <U WHO="S2"> oh <OVERLAP> okay </OVERLAP></U><OVERLAP> is, </OVERLAP> they, can take lipids, and turn them into glucose. <OVERLAP> we can't do that </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> but don't </OVERLAP> we have that too? </U>
+			<U WHO="S1"> we can't <U WHO="S2"><OVERLAP> we have fatty </OVERLAP></U><OVERLAP> break down </OVERLAP> fatty acids the same way they can. </U>
+			<U WHO="S2"> oh, then what process do we use <OVERLAP> (then?) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> um, </OVERLAP> a different one <U WHO="S2"> oh. </U><EVENT DESC="LAUGH"/> okay, um okay. we'll have to find out. <PAUSE DUR=":02"/> um, oxidation of fatty acids, <OVERLAP> this thing </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh </OVERLAP> we don't have to <OVERLAP> read that </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> we haven't </OVERLAP> done this chapter </U>
+			<U WHO="S2"> yeah, <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> uh, </OVERLAP> you do that, later? or do you do that a- at all? </U>
+			<U WHO="S2"> i don't, think so. <OVERLAP> i think we're just skipping it </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i think you do. </OVERLAP> cuz i did that part <U WHO="S2"> (oh) </U> you did, you do that. <OVERLAP> it's a it's very different </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> (alright,) well we'll </OVERLAP> learn that later then. </U>
+			<U WHO="S1"> yeah, we'll learn that later. </U>
+			<U WHO="S3"> so what're we gonna go over, for today? </U>
+			<U WHO="S1"> um, well he had some questions first so we're gonna, continue with that. and you're like, teach me. we're not doing that. </U>
+			<U WHO="S3"> why not? it's the best way </U>
+			<U WHO="S2"> s- and this one uh, sort of. is this just like, <OVERLAP> this </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so this </OVERLAP> is just like telling you that, these intermediates in the citric acid cycle, they don't just <U WHO="S2"><OVERLAP> appear there, oh they come from </OVERLAP></U><OVERLAP> do this. they can do </OVERLAP> other things. </U>
+			<U WHO="S2"> oh so these things, do these things come from that or this, makes that? </U>
+			<U WHO="S1"> well <U WHO="S2"><OVERLAP> cuz </OVERLAP></U><OVERLAP> which </OVERLAP> way is the arrow going? </U>
+			<U WHO="S2"> it's going that way but, <U WHO="S1"> right </U> your body doesn't ma- but we eat these things. </U>
+			<U WHO="S1"> we can make those too </U>
+			<U WHO="S2"> oh we can? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S2"> oh okay. and this, <EVENT DUR=":05" DESC="READING IN MUMBLING VOICE"/> oh, okay. so we can use our amino acids to make that <U WHO="S1"><OVERLAP> right </OVERLAP></U><OVERLAP> and that </OVERLAP> can be used to (do) that <U WHO="S1"><OVERLAP> yeah we can take amino acids and </OVERLAP></U><OVERLAP> s- oh so that's how we make, we can make </OVERLAP> glucose if we don't have enough. </U>
+			<U WHO="S1"> right. <U WHO="S2"><OVERLAP> oh </OVERLAP></U><OVERLAP> actually </OVERLAP> i don't think we can do that. i think only plants can do that right? <SEG TYPE="READING"> (phospho) amino pyruvate </SEG></U>
+			<U WHO="S3"> do plants have mitochondria? they <U WHO="S1"><OVERLAP> yes </OVERLAP></U><OVERLAP> do right? </OVERLAP> okay. </U>
+			<U WHO="S1"><OVERLAP> oh, i guess we can </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> it's in here, </OVERLAP> liver and kidneys </U>
+			<U WHO="S1"> we can do that. okay </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S2"> yeah, yeah and then, yeah that's all i had <OVERLAP> cuz i- i was just confused by the pictures. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay, but we probably </OVERLAP> wouldn't go, um... we probably wouldn't go like that. we would, i think we would just go like that, to go to oxaloacetate <U WHO="S2"><OVERLAP> oh okay, i- make </OVERLAP></U><OVERLAP> because, we don't need to </OVERLAP> do the whole glycolysis cycle again you know <U WHO="S2"> oh okay </U> you might as well just go to oxaloacetate, rather than g- <U WHO="S2"> but i- </U> making glucose. <U WHO="S2"> it's possible </U> it's possible. i guess. </U>
+			<U WHO="S2"> oh okay. </U>
+			<U WHO="S1"> what do the red arrows mean? why are some red and some blue? <SEG TYPE="READING"> shown in red are the four anaplerotic reactions that replenish depleted intermediates of the citric acid cycle. </SEG></U>
+			<U WHO="S2"> anaplerotic means both ways, so... maybe that's the enzyme, like C <U WHO="S1"> yeah. <OVERLAP> so </OVERLAP></U><OVERLAP> the enzyme's </OVERLAP> going there </U>
+			<U WHO="S1"><SEG TYPE="READING"> intermediates can be replenished by anaplerotic reactions. under normal, circumstances the reactions which uh, in- by which the cycle intermediates are drained away, and those by which they replenish (xx) (the balance of it) </SEG> okay... so they didn't give a very good definition of anaplerotic. </U>
+			<U WHO="S2"> is it, so it means it just goes both ways though. right? like, the reaction can go, backwards <OVERLAP> and forwards </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no </OVERLAP> that's not that <U WHO="S2"><OVERLAP> oh it isn't? </OVERLAP></U><OVERLAP> important </OVERLAP> no. what does anaplerotic mean? here why don't you look it up, find out. you're on the right page so </U>
+			<U WHO="S3"> what's the word? </U>
+			<U WHO="S1"> anaplerotic </U>
+			<U WHO="S2"> and then <OVERLAP> i have a question </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> A-N-P </OVERLAP> how do you spell that? </U>
+			<U WHO="S1"> A-N-A. </U>
+			<U WHO="S2"> and then the Q cycle, th- that's ubiquinol right? that's not for plants. </U>
+			<U WHO="S1"> what's not for plants? </U>
+			<U WHO="S2"> the Q cycle or whatever </U>
+			<U WHO="S1"> the Q cycle. </U>
+			<U WHO="S2"> you know the one where ubiquinol carries electrons </U>
+			<U WHO="S3"> that's the </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> is that the Q cycle or i thought it was <OVERLAP> wasn't it something else? </OVERLAP></U>
+			<EVENT WHO="S3" DESC="DRAWING ON BOARD"/>
+			<U WHO="S1"><OVERLAP> what? </OVERLAP> is that even, what i- what_ can we label something? i don't even know what that is. </U>
+			<U WHO="S2"><EVENT DESC="LAUGH"/> that's complex one? <U WHO="S3"> yeah </U> i thought it started in complex three. </U>
+			<U WHO="S3"> ubiquinol? </U>
+			<U WHO="S2"> the c- no, the Q cy- isn't the Q cycle ubiquinol? </U>
+			<U WHO="S3"> yeah, that's what it's also called though. </U>
+			<U WHO="S2"> i thought it starts in three. </U>
+			<U WHO="S3"> i thought it was like right here and like, complex three was like, over here and this is like, Q is like right there </U>
+			<U WHO="S2"> oh, i don't know i i th- s- </U>
+			<U WHO="S3"> we'll go over that. </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> okay. well ubiquinone is after the comple- after complex one, so </U>
+			<U WHO="S2"> and, what's the other one, quinone is just, like we had to fill in like <U WHO="S1"> yeah </U> on our project you know the pictures? <U WHO="S1"> so <OVERLAP> which one does ubiquinone </OVERLAP></U><OVERLAP> where would we put quinone? </OVERLAP><U WHO="S1"> go, <OVERLAP> with? </OVERLAP></U><OVERLAP> it's the </OVERLAP> oval one. </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> so, it's the oval one, okay, so what </U>
+			<U WHO="S2"> i put that in complex three, an- cuz i- i don't know, cuz </U>
+			<U WHO="S1"> did you use the book? <U WHO="S2"> yeah </U> okay, is that what the book told you? </U>
+			<U WHO="S2"> well that's where i thought i- it would go. </U>
+			<U WHO="S1"> did you find out what anaplerotic meant? </U>
+			<U WHO="S3"> it told me to go to this page but, <OVERLAP> i don't see it here. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i thought i- it's </OVERLAP> something to do with reactions, right? </U>
+			<U WHO="S1"> anaplerotic? <U WHO="S2"> yeah </U> right </U>
+			<U WHO="S2"> like </U>
+			<U WHO="S3"><SEG TYPE="READNG"> to replace intermediates for this purpose cells employ ana- </SEG> replenishing, it means replenishing. </U>
+			<U WHO="S2"> oh, so it's a reaction that, if you run out of something, it could still go backwards. <OVERLAP> isn't that like why it's </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no, that's </OVERLAP> not what it means. it means that, it's not just like backwards and forwards like that. there are also other, </U>
+			<U WHO="S3"> like N-A-D to N-A-D-H, like you have to go back? </U>
+			<U WHO="S1"> no, it's no- that's not what back_ that's not what it means. <SEG TYPE="READING"> to replace intermediates removed, for this purpose cells employ anaplerotic reactions which are briefly discarded </SEG> okay. so anaplerotic reactions, are other reactions. like <U WHO="S2"><OVERLAP> oh like, like these are the, other re- like </OVERLAP></U><OVERLAP> these are not invol- right. these are </OVERLAP> anaplerotic reactions. <OVERLAP> going this way. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> like, just in case you don't </OVERLAP> have tha- enough of that, that'll make more <U WHO="S1"> right </U> to put it, so that's, that's the reaction that's in_ oh, okay </U>
+			<U WHO="S1"> so these are, some anaplerotic reactions, and where they take place. <U WHO="S2"> oh okay </U> okay <U WHO="S2"><OVERLAP> oh </OVERLAP></U><OVERLAP> so </OVERLAP> pyruvate making malate with, these other guys, is an anaplerotic reaction, right here. </U>
+			<U WHO="S2"> oh okay. <U WHO="S1"> okay? </U> yeah </U>
+			<U WHO="S1"> okay. so let's, figure out, oh that's not it. um, the, this guy. <U WHO="S3"> (second?) </U><U WHO="S2"> yeah </U> oh this is the oxidation of fatty acids. </U>
+			<U WHO="S3"> should i draw you oxal- citrate acid cycle? </U>
+			<U WHO="S1"> yeah let's see it. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> can you do it? </U>
+			<U WHO="S3"> i don't know all the little enzyme things but, i think i've got, the gist of it. </U>
+			<U WHO="S2"> our exam's next week right? </U>
+			<U WHO="S3"> yup <EVENT DUR=":13" DESC="PAUSE WHILE WRITING ON BOARD"/> (am i right? i messed up) </U>
+			<U WHO="S1"> coenzyme A. </U>
+			<U WHO="S3"> is it? </U>
+			<U WHO="S2"> isn't it acetyl, <OVERLAP> CoA </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> acetyl CoA, </OVERLAP> okay </U>
+			<U WHO="S2"> does it, they're different right? </U>
+			<U WHO="S1"> they are different. acetyl, CoA has coenzyme A attached to it <U WHO="S2"><OVERLAP> oh oh okay </OVERLAP></U><OVERLAP> that's why the, that's where </OVERLAP> the CoA comes from. <PAUSE DUR=":07"/> how do you spell acetyl? </U>
+			<U WHO="S3"> i don't know </U>
+			<U WHO="S2"> A C E T Y L </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S3"> this isn't English class </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S1"> you have to know how to spell them though </U>
+			<U WHO="S3"> is it alpha, keto something or other? </U>
+			<U WHO="S1"> right, <EVENT DESC="LAUGH"/> keep <U WHO="S3"><OVERLAP> gluterate? </OVERLAP></U><OVERLAP> going </OVERLAP> alpha keto </U>
+			<U WHO="S3"> gluterate? </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S3"> and in that case (xx) <EVENT DUR=":26" DESC="PAUSE WHILE WRITING ON BOARD"/></U>
+			<U WHO="S1"> that was right... now that's not right </U>
+			<U WHO="S3"> how do you spell it? </U>
+			<U WHO="S2"> wha- wher- </U>
+			<U WHO="S1"> he's trying to spell oxaloacetate. </U>
+			<U WHO="S2"> isn't there an L? oxaloacetate? </U>
+			<U WHO="S3"> well whatever we know what that word is </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S1"> w- spell it out. ox- no, spell it out. say the word and spell it out. </U>
+			<U WHO="S3"> alright. </U>
+			<U WHO="S2"> there's an O </U>
+			<U WHO="S3"> is it phonetically, do you spell it phonetically? </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S2"><OVERLAP> O ox- A </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oxyl acetate? </OVERLAP></U>
+			<U WHO="S2"> O, acetate </U>
+			<U WHO="S1"> that's not right </U>
+			<U WHO="S2"> you forgot an O, y- right? </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S3"> how do you </U>
+			<U WHO="S2"> oxaloacetate. <U WHO="S3"> oh ox- </U> just add an O in yeah </U>
+			<U WHO="S1"> wh- where does the O go before or after the L? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S3"><EVENT DESC="WRITING"/> (it would) before (it would) before, </U>
+			<U WHO="S2"> no </U>
+			<U WHO="S1"> say the word. </U>
+			<U WHO="S3"> oxaloacetate, oxalo- ace- </U>
+			<U WHO="S1"> is it oxylacetate or oxaloacetate? </U>
+			<U WHO="S3"> oxalo- </U>
+			<U WHO="S1"> oxalo- right? <U WHO="S3"> okay </U> so now spell it. <PAUSE DUR=":07"/> oxalo <EVENT DESC="LAUGH"/> oxalo. okay, good job, except you have an extra letter in there but that's okay. okay. right... </U>
+			<U WHO="S3"> is that basically it? </U>
+			<U WHO="S1"> is that it? </U>
+			<U WHO="S2"> acetyl CoA, uh citrate isocitrate, (xx) mm yeah. i think that's right </U>
+			<U WHO="S1"> very good <OVERLAP> so </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> are you </OVERLAP> impressed? </U>
+			<U WHO="S1"> i'm impressed. so, tell me the enzymes that do this. you can't use your book. </U>
+			<U WHO="S3"> oh that's (a hard one) </U>
+			<U WHO="S1"> okay, what how do you get acetyl CoA from pyruvate? </U>
+			<U WHO="S2"> isn't it, pyruvate dehydrogenase? </U>
+			<U WHO="S1"> right. so how many enzymes are, actually in that complex? that's not just one <OVERLAP> enzyme right? right okay </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> three? isn't th- </OVERLAP> that's the E one, two and three right? </U>
+			<U WHO="S1"> right. <U WHO="S3"><OVERLAP> yeah. (xx) dehydro- okay (xx) </OVERLAP></U><OVERLAP> and what, </OVERLAP> coenzymes, do those, need? </U>
+			<U WHO="S2"> coenzyme A? </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> no </U>
+			<U WHO="S2"> mm. oh, M, M-G pl- plus or whatever, (that is) </U>
+			<U WHO="S3"><OVERLAP> M-G </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> do they </OVERLAP> need magnesium? </U>
+			<U WHO="S2"> or is it some (other) <U WHO="S1"><OVERLAP> i think, you might be right i- </OVERLAP></U><OVERLAP> no that, no that's </OVERLAP> that's, no that's glycolysis i think, isn't it? i know you need M-G something, somew- in some reaction (xx) <OVERLAP> i don't know if it's this one though </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah, i yeah i think you need, </OVERLAP> like a lot of reactions need M-G but that is not really important. okay, we're not looking in the book right now. okay, <OVERLAP> sit down </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i can </OVERLAP> tell ya </U>
+			<U WHO="S1"> okay, so, um, how do you get citrate from acetyl CoA? what enzyme catalyzes that reaction? </U>
+			<U WHO="S3"> some kind of (xx) </U>
+			<U WHO="S1"> we're making citrate. </U>
+			<U WHO="S3"> some kind of a, there's a decarboxylation, <OVERLAP> right there </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> is there? </OVERLAP></U>
+			<U WHO="S3"> isn't there? don't you lose C-O-two? </U>
+			<U WHO="S1"> how many, carbons does citrate have? </U>
+			<U WHO="S3"><OVERLAP> three? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> si- </OVERLAP> six </U>
+			<U WHO="S3"> six, really? </U>
+			<U WHO="S1"> six <U WHO="S3"> okay </U> so how many carbons does acetyl CoA bring into the reaction? </U>
+			<U WHO="S3"> six. bring in? <OVERLAP> seven? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> six? </OVERLAP></U>
+			<U WHO="S1"> acetyl, what is acetyl? <U WHO="S3"> must mean something </U> organic chemistry, what is acetyl? </U>
+			<U WHO="S2"> s- it's an alcohol? </U>
+			<U WHO="S1"> acetate <U WHO="S2"> oh </U> what is acetate? what's the formula for acetate? </U>
+			<U WHO="S2"> C, </U>
+			<U WHO="S1"> or how many carbons are in acetate? </U>
+			<U WHO="S2"> i know what a hemiacetal is. <U WHO="S3"> seven? </U> is that, </U>
+			<U WHO="S1"> a hemiacetal, <U WHO="S2"> (is half) </U> is like, eight. it just has a particular, functional group on it right? <U WHO="S2"> yeah </U> but we're talking about the molecule <U WHO="S2"><OVERLAP> is it </OVERLAP></U><OVERLAP> acetate </OVERLAP> how many carbons does acetate have? </U>
+			<U WHO="S3"> six. <U WHO="S1"> no </U> five </U>
+			<U WHO="S1"> how many carbons does pyruvate have? <U WHO="S3"> six </U><OVERLAP> pyruvate </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> no it has </OVERLAP> three. </U>
+			<U WHO="S1"> so, if we had pyruvate go into acetyl CoA there's no way we can, have six carbons in acetyl CoA right? <U WHO="S3"> no </U> so how many carbons does acetyl CoA have? </U>
+			<U WHO="S3"> three </U>
+			<U WHO="S2"> three </U>
+			<U WHO="S1"> does it have three? </U>
+			<U WHO="S2"> cuz that would equal six. </U>
+			<U WHO="S1"> okay if pyruvate has three <U WHO="S3"> yeah </U><U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> you know </OVERLAP> when you make, acetyl CoA from pyruvate you use the enzyme pyruvate dehydrogenase right? what does that enzyme do? </U>
+			<U WHO="S3"> takes off, H-two-O. dehydrogenase? </U>
+			<U WHO="S1"> well, that's what the complex is called but okay so each individual enzyme, what does each indivil- individual enzyme of that complex do? </U>
+			<U WHO="S3"> doesn't one of 'em phosphorylate? </U>
+			<U WHO="S2"> doesn't it have that long ar- it like attaches two parts together? <U WHO="S1"> right </U> there's like some arm thing that moves it, close like they're on opposite ends. </U>
+			<U WHO="S1"> they're on opposite ends. </U>
+			<U WHO="S2"> like, you know, is that the one with three complex right? </U>
+			<U WHO="S1"> it's a complex <OVERLAP> right </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> isn't there </OVERLAP> something like here and here and then it attaches it here? <U WHO="S1"><OVERLAP> okay why don't we look at the picture of that. </OVERLAP></U><OVERLAP> i re- i remem- remembered it, </OVERLAP> i remembered it in the book. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> there was an arm thing, you're right about that. and that's what i was asking you about earlier. </U>
+			<U WHO="S2"> that's what i was thinking about... </U>
+			<U WHO="S3"> there's no A-T-P (with this) <EVENT DESC="DRAWING ON BOARD"/></U>
+			<U WHO="S1"> there's no A-T-P where? </U>
+			<U WHO="S3"> in the, citric acid cycle. </U>
+			<U WHO="S1"> there's no A-T-P <OVERLAP> in the citri- </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> you don't </OVERLAP> put it in. you don't you don't put in A-T-P </U>
+			<U WHO="S1"> do you get A-T-P? </U>
+			<U WHO="S2"><OVERLAP> yes </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> um, </OVERLAP> yeah you get energy but you don't put it in. </U>
+			<U WHO="S2"> you </U>
+			<U WHO="S1"> okay, here you go. <EVENT DESC="POINTS TO BOOK"/></U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> i told you you l- you lose a, a C-O-two. </U>
+			<U WHO="S1"> no you said that acetyl CoA has six carbons. </U>
+			<U WHO="S3"> oh okay but i told you <EVENT WHO="S2" DESC="LAUGH"/> there was some kinda decarboxylation. </U>
+			<U WHO="S1"> you said there was decarboxylation between acetyl CoA and citrate. </U>
+			<U WHO="S3"> oh is that what i said? </U>
+			<U WHO="S1"> yeah that's what you said. </U>
+			<U WHO="S3"> oh <U WHO="S1"><OVERLAP> we're mak- </OVERLAP></U><OVERLAP> so it's between </OVERLAP> pyruvate and acetyl CoA. </U>
+			<U WHO="S1"> right. <U WHO="S3"> okay </U> so how many carbons does acetyl CoA have? </U>
+			<U WHO="S3"> five, uh two. <U WHO="S1"> two <EVENT DESC="LAUGH"/></U> two <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> so how do you get, acetyl CoA, which only has two carbons, to make this six carbon molecule? </U>
+			<U WHO="S3"> of citrate? </U>
+			<U WHO="S1"> of citrate right. how do you make it? </U>
+			<U WHO="S3"> must bring in four. </U>
+			<U WHO="S1"> where do the four come from? </U>
+			<U WHO="S3"> from that enzyme. </U>
+			<U WHO="S1"> from the enzyme? does the e- does an enzyme ever change in a reaction? </U>
+			<U WHO="S3"> no <U WHO="S1"> no </U> it's a catalyst. </U>
+			<U WHO="S1"> what what other, substrate <OVERLAP> has </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh </OVERLAP> ox- the O, the other O thing </U>
+			<U WHO="S1"> say the word. </U>
+			<U WHO="S3"> is it the same one? </U>
+			<U WHO="S1"> yeah say the word. </U>
+			<U WHO="S3"> oh. oxaloa- oxaloacetate. </U>
+			<U WHO="S1"> oxaloacetate, right. </U>
+			<U WHO="S3"> yeah they come together. </U>
+			<U WHO="S1"> right <U WHO="S3"> yeah </U> what enzyme, enables them to come together and make citrate? </U>
+			<U WHO="S3"> some kinda dehydrogenase? </U>
+			<U WHO="S1"> you're making citrate, <OVERLAP> what enzyme? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> is- </OVERLAP></U>
+			<U WHO="S2"> isosome? i don't know </U>
+			<U WHO="S3"> citrate dehydrogenase. </U>
+			<U WHO="S1"> citrate </U>
+			<U WHO="S2"><OVERLAP> citrase </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> -trase </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> citrate </OVERLAP> you're making </U>
+			<U WHO="S3"> kinase <OVERLAP> (no, that's not what it was) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> what does a kinase do? </OVERLAP></U>
+			<U WHO="S3"> phosphorylates? </U>
+			<U WHO="S1"> okay, so we're making citrate. so citrate, </U>
+			<U WHO="S3"> synthase? dehydrogenase </U>
+			<U WHO="S1"><OVERLAP> synthase, right. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> synth- oh so dehydrogon- </OVERLAP> dehydrogenase breaks down? </U>
+			<U WHO="S1"> right. <OVERLAP> usually </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> s- synthase </OVERLAP> makes it and kinase, </U>
+			<U WHO="S3"> phosphorylates </U>
+			<U WHO="S2"> phosphorylates? </U>
+			<U WHO="S1"> what does phosphorylase do? </U>
+			<U WHO="S2"> adds phosphorous? inorganic </U>
+			<U WHO="S3"> no it takes it out </U>
+			<U WHO="S1"><OVERLAP> yes </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh no, oh </OVERLAP> okay so then wh- what <OVERLAP> puts it (on) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> there's that one </OVERLAP> section that it <OVERLAP> tells you all these (proteins) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> what what </OVERLAP> phosphorylates things? </U>
+			<U WHO="S3"> kinases. </U>
+			<U WHO="S2"> ki- oh okay. ki- oh okay <OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so </OVERLAP> kinase and phosphorylase are opposites. <U WHO="S2"> oh okay </U> okay? s- </U>
+			<U WHO="S2"> yeah it's in the <OVERLAP> book i remember there's like a whole chart </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah l- like know these terms </OVERLAP> yeah <U WHO="S1"><OVERLAP> okay </OVERLAP></U><OVERLAP> totally. </OVERLAP> see i read that. </U>
+			<U WHO="S1"> very good. uh, so how do i get isocitrate from citrate? what enzyme do i use? </U>
+			<U WHO="S3"> oh, it's just, </U>
+			<U WHO="S2"> it i- takes off something doesn't it? </U>
+			<U WHO="S3"> no all it is is a rearrangement. </U>
+			<U WHO="S1"> right. so an enzyme has to do that. <U WHO="S3"> yeah </U> what enzyme does it? <U WHO="S3"> um </U> it starts with an A. </U>
+			<U WHO="S2"> a- a- <OVERLAP> aldase </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh aci- </OVERLAP> no i- <OVERLAP> no it's like acitotinase </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> alkinise? </OVERLAP></U>
+			<U WHO="S1"> what is it? </U>
+			<U WHO="S2"> alkinase? </U>
+			<U WHO="S1"> uh, no. </U>
+			<U WHO="S3"> no it's like A C I N O T A S E or something like that </U>
+			<U WHO="S1"> A C I or A C, </U>
+			<U WHO="S3"> A C i know it's like <OVERLAP> A C </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> O </OVERLAP><U WHO="S3"> okay </U> A C O. so say the word again. you had it spelled right except for that one thing. </U>
+			<U WHO="S3"> oh okay. ac- acno- no what a- what'd they say? <OVERLAP> A C O </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> aconitase? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> aconitase, right. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> okay, okay </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh, okay. what did i say </OVERLAP> before then? </U>
+			<U WHO="S1"> i i, akal- i don't know something, <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> weird. </OVERLAP> aconitase. </U>
+			<U WHO="S3"> (whatever) okay </U>
+			<U WHO="S1"> how do you spell aconitase? </U>
+			<U WHO="S3"> i don't know </U>
+			<U WHO="S2"> A C O N O T A S E </U>
+			<U WHO="S1"> N O or N I? </U>
+			<U WHO="S2"> N O. I. </U>
+			<U WHO="S1"> N I. aconitase, okay? so what's the intermediate between citrate and isocitrate? </U>
+			<U WHO="S3"> sys. </U>
+			<U WHO="S1"> sys what? </U>
+			<U WHO="S3"> acitrate? s- no sys </U>
+			<U WHO="S1"> sys A </U>
+			<U WHO="S3"> sys A </U>
+			<U WHO="S1"> sys, starts with an A </U>
+			<U WHO="S3"> (aconicitrate?) <OVERLAP> sys </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> the </OVERLAP> enzyme that catalyzes this reaction is aconitase <U WHO="S3"> aconitase <OVERLAP> okay </OVERLAP></U><OVERLAP> which </OVERLAP> (you're gonna find) the intermediate <OVERLAP> between citra- </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> sys a- </OVERLAP> sys </U>
+			<U WHO="S1"> sys what? </U>
+			<U WHO="S3"> i don't know. i just know it's called sys. does it start with a sys A? like sysaconi- no? </U>
+			<U WHO="S1"> sys what? </U>
+			<U WHO="S3"> aconitase? </U>
+			<U WHO="S1"> aconi- wh- </U>
+			<U WHO="S3"> oh that was that thing again, that was the enzyme so it's acononate. </U>
+			<U WHO="S1"> right. sysaconitate, or, kina- sysaconitate right. <EVENT DESC="FLIPPING PAGES"/> no more looking. sysaconitate. <U WHO="S3"><OVERLAP> okay </OVERLAP></U><OVERLAP> okay? </OVERLAP> so, aconitase catalyzes the reaction, from citrate, to sysaconitate, <U WHO="S2"><OVERLAP> to isocitrate </OVERLAP></U><OVERLAP> and then </OVERLAP> to isocitrate. okay? so, how do i get alpha-keto-gluterate? </U>
+			<U WHO="S2"> it's i- </U>
+			<U WHO="S3"> it's another dehydrogenase, isn't it? decarbo- they're all like <OVERLAP> dehydronation, reactions </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> aren't they just the </OVERLAP> name of the, en- the name of the thing they're making? with some </U>
+			<U WHO="S1"> i- the name, uh you yeah the names are very uh they use the names, right. <U WHO="S2"> oh okay </U> um, but so how many carbons does isocitrate have? </U>
+			<U WHO="S2"> six still? </U>
+			<U WHO="S1"> six right. how many carbons does alpha-keto-gluterate have? </U>
+			<U WHO="S3"> it has five </U>
+			<U WHO="S2"> five </U>
+			<U WHO="S1"> so what <OVERLAP> kind of </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (so it'd be a) </OVERLAP> decarboxylation </U>
+			<U WHO="S1"> it's a decarboxylation reaction. </U>
+			<U WHO="S3"> so it's some kinda dehy- <OVERLAP> dehydrogenase isn't it? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> y- you lose </OVERLAP> C-O-two right? </U>
+			<U WHO="S1"> so, what enzyme does that? don't look. </U>
+			<U WHO="S3"> isn't it some kinda dehydrogenase? </U>
+			<U WHO="S1"> what is it? </U>
+			<U WHO="S3"> some kinda dehydrogenase? </U>
+			<U WHO="S1"> right, what kinda dehydrogenase? </U>
+			<U WHO="S3"> alpha-keto-dehydrogenase, (or) </U>
+			<U WHO="S1"> um, well no. <U WHO="S3"> okay </U> i- uh go the other way. </U>
+			<U WHO="S2"> isocitrate dehydrogenase? </U>
+			<U WHO="S1"> right <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> isocitrate dehydrogenase </OVERLAP> okay? </U>
+			<U WHO="S2"> oh okay (yeah) </U>
+			<U WHO="S3"> do i have to know these enzymes like, <OVERLAP> explicitly, really? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> you do have to know the enzymes. </OVERLAP></U>
+			<U WHO="S2"> like all of 'em, for, every cycle? or anything </U>
+			<U WHO="S1"> i'd be pretty su- y- you, <OVERLAP> i'm pretty su- </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but wouldn't she like kinda </OVERLAP><U WHO="S2"><OVERLAP> for the </OVERLAP></U><OVERLAP> tell you </OVERLAP> like, in this reaction, <U WHO="S2"><OVERLAP> like you y- </OVERLAP></U><OVERLAP> from here to </OVERLAP> here we <OVERLAP> use this enzyme </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah she's </OVERLAP> not gonna ask you to <OVERLAP> draw it out or anything. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> no but like, yeah </OVERLAP> i know but like, one of those questions about, like, from isocitrate to alpha-keto-glu- uh, gluterate, you know, the enzyme in it is isocitrate <OVERLAP> dehydrogenase. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> this is what you </OVERLAP> have to know for the citric acid cycle. <SEG TYPE="READING"> know how pyruvate dehydrogenase complex works and is regulated. know the reactions intermediates and enzyme names for the citric acid cycle. you do not need to memorize the structures. know about anaplerotic reactions that replenish the intermediates in the citric acid cycle. don't forget about plants, so that includes the glyoxylate cycle. </SEG></U>
+			<U WHO="S3"> okay so why don't we like go over this stuff? </U>
+			<U WHO="S1"><SEG TYPE="READING"> know how the cycle is regulated </SEG><U WHO="S2"> oh, okay </U><SEG TYPE="READING"> know which steps are exergonic and irreversible. know where all the high energy compounds are formed and what they are. </SEG></U>
+			<U WHO="S2"> wow that's a lot </U>
+			<U WHO="S3"><OVERLAP> (it's like) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no </OVERLAP> it's really not a lot. once you, you just have to know the citric acid cycle, and know the other <OVERLAP> little, things </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yeah so just memorize </OVERLAP> basically, like how it goes. <U WHO="S1"> right </U> like what we're doing now. <U WHO="S1"> right </U> oh okay </U>
+			<U WHO="S3"> okay so like let's do that stuff <EVENT WHO="S2" DESC="LAUGH"/><OVERLAP> i mean </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> we are </OVERLAP> doing that stuff </U>
+			<U WHO="S3"> okay good <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> gosh you're demanding all of a sudden. </U>
+			<U WHO="S3"> because i like, </U>
+			<U WHO="S1"> we are doing that stuff </U>
+			<U WHO="S3"> okay good <U WHO="S1"> okay </U> good </U>
+			<U WHO="S1"> so, next reaction what happens? how many carbons does alpha-keto-gluterate have? </U>
+			<U WHO="S3"> five </U>
+			<U WHO="S1"> how many carbons does succinyl CoA have? </U>
+			<U WHO="S3"> i think it's like five. it loses uh, like some hydrogen or something like that. </U>
+			<U WHO="S2"> isn't there like nothing in the middle now? </U>
+			<U WHO="S3"><EVENT DESC="DRAWING ON BOARD"/> like there's this_ <U WHO="S2"> (that's the part) </U> i think it's like this, and then, at the bottom then the coenzyme A comes in and replaces that. </U>
+			<U WHO="S1"> right s- well </U>
+			<U WHO="S3"> kind of basically. like all this is still the same. </U>
+			<U WHO="S1"> so you're saying you still have the same number of carbons, you've just lost some oxygens. <U WHO="S3"> yeah </U> do you ever do that? how do you just lose oxygen? <U WHO="S3"> (xx) </U> you breathe off what? in respiration what do you breathe off? </U>
+			<U WHO="S3"> carbon dioxide </U>
+			<U WHO="S1"> right <U WHO="S3"><OVERLAP> (so there) </OVERLAP></U><OVERLAP> so you're </OVERLAP> not gonna, lose oxygen like that <U WHO="S3"><OVERLAP> you lose C-O-two, yeah </OVERLAP></U><OVERLAP> you're gonna lose carbon dioxid- </OVERLAP> carbon dioxide right? <U WHO="S3"> yeah </U> so, is this a decarboxylation reaction? </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"> right. so what enzyme catalyzes it? </U>
+			<U WHO="S3"> alpha-keto dehydrogenase... no. </U>
+			<U WHO="S1"> alpha-keto-gluterate <U WHO="S3"> gluterate </U> dehydrogenase <U WHO="S3"><OVERLAP> gluterate </OVERLAP></U><OVERLAP> complex. </OVERLAP></U>
+			<U WHO="S3"> dehydrogenase? okay. </U>
+			<U WHO="S1"> it's a complex. okay? <OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so it's </OVERLAP> basically all these, can you just, u- usually </U>
+			<U WHO="S1"> you usually can. some <U WHO="S3"> okay </U> uh a little later it gets a little bit, backwards. <U WHO="S3"> okay </U> okay? so, <OVERLAP> um </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but </OVERLAP> isn't that what happens? like okay you might lose this but then it comes, like that? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S3"><EVENT DESC="POINTS AT BOARD"/> i thought that was like, part of that. what does it look like? </U>
+			<U WHO="S1"><EVENT DESC="DRAWING ON BOARD"/> it's like this... so then it goes to this. </U>
+			<U WHO="S3"> oh, S okay, yeah <OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so </OVERLAP> you have a C, bonded to a, a carboxyl group, and then you go C bonded to <U WHO="S3"> yeah <OVERLAP> okay so yeah this i- </OVERLAP></U><OVERLAP> acetyl CoA is this ac- </OVERLAP> this isn't acetyl CoA, i mean not acetyl CoA, coenzyme A <U WHO="S3"> yeah coenzyme A </U> right? <U WHO="S3"> yeah </U><U WHO="S2"> yeah </U> so, coenzyme A. <OVERLAP> okay, i don't know what i was doing </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> what's </OVERLAP> what's S? what's </U>
+			<U WHO="S1"> S is a sulfur. it's how you attach it. </U>
+			<U WHO="S3"> okay sulfur, coenzyme A. okay. </U>
+			<U WHO="S1"> yeah, you attach coenzyme A to your sulfur. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> okay </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> okay no more looking. <EVENT DESC="TURNS PAGE"/><U WHO="S3"> huh okay </U> okay what happens next? </U>
+			<U WHO="S3"> you lose this. </U>
+			<U WHO="S1"> you lose it? </U>
+			<U WHO="S3"> (to go over) there, right? isn't it? </U>
+			<U WHO="S1"> what do you lose? </U>
+			<U WHO="S3"> the coenzyme A </U>
+			<U WHO="S1"> right... so what enzyme does that? </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S3"> um </U>
+			<U WHO="S1"> you're <U WHO="S3"><OVERLAP> sus- </OVERLAP></U><OVERLAP> making </OVERLAP> succinate. <OVERLAP> so wha- </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> s- s- </OVERLAP> succinate dehydrogenase? </U>
+			<U WHO="S3"> no, synthase. <U WHO="S2"><OVERLAP> no, syn- </OVERLAP></U><OVERLAP> it'd be some kinda </OVERLAP> synth- right? </U>
+			<U WHO="S1"> what kinda synthase? </U>
+			<U WHO="S3"> succinyl <OVERLAP> synthase? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> is this a, </OVERLAP> is this a reversible reaction? </U>
+			<U WHO="S3"> i want to say, </U>
+			<U WHO="S1"> what reactions are reversible and what, are not? draw the double arrows in there. </U>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S2"> isn't the first one and the third one? oh no, hold on. </U>
+			<U WHO="S3"> no that's glycolysis. </U>
+			<U WHO="S2"> oh okay, oh. </U>
+			<U WHO="S1"> okay <U WHO="S2"><OVERLAP> is </OVERLAP></U><OVERLAP> is </OVERLAP> acetyl CoA plus oxaloacetate to citrate <OVERLAP> reversible or not reversible? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i think this is </OVERLAP> reversible </U>
+			<U WHO="S1"> the that's a reversible, <U WHO="S2"> mhm </U> right? </U>
+			<U WHO="S3"> (xx) </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> i don't think this is. </U>
+			<U WHO="S1"> you don't think that is, well you would be incorrect. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> okay <EVENT DESC="LAUGH"/> okay, what about succinate to fumarate? thank you </U>
+			<U WHO="SU-f"> you're welcome, thank you </U>
+			<U WHO="S3"> ooh, what's </U>
+			<U WHO="S2"> isn't there like patterns, that you could figure out? like, in glycolysis it was like the first one the third one </U>
+			<U WHO="S3"> that's not a pattern </U>
+			<U WHO="S1"> the s- it's a, it's not a, it's not like a pattern it's just what the cell, <U WHO="S2"> oh okay </U> is capable of doing. like, </U>
+			<U WHO="S3"> fumarate to malate, that would be, reversible wouldn't it? </U>
+			<U WHO="S1"> that is reversible. </U>
+			<U WHO="S2"> how can you tell which one's reversible though? just </U>
+			<U WHO="S1"> it de- it really you can't just tell </U>
+			<U WHO="S2"> oh okay so we actually have to </U>
+			<U WHO="S1"> you have to know </U>
+			<U WHO="S2"> oh okay </U>
+			<U WHO="S1"> because, you can't just tell it depends on, the env- cell environment </U>
+			<U WHO="S3"> i don't think <U WHO="S1"><OVERLAP> okay? </OVERLAP></U><OVERLAP> the first one </OVERLAP> is reversible <U WHO="S1"> okay </U> right? </U>
+			<U WHO="S1"> what about malate to oxaloacetate? </U>
+			<U WHO="S3"> um, i wanna say </U>
+			<U WHO="S2"> mm, no, uh </U>
+			<U WHO="S3"> yes <OVERLAP> it is (xx) </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> is it? </OVERLAP></U>
+			<U WHO="S1"> yes it is. </U>
+			<U WHO="S3"> thought so. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> and, what about succinate to fumarate? </U>
+			<U WHO="S3"> hmm... think so? </U>
+			<U WHO="S2"><OVERLAP> mhm </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right </OVERLAP> it is. </U>
+			<U WHO="S2"> so most of the citric acid cycle is reversible. </U>
+			<U WHO="S1"> most of it is, yeah. </U>
+			<U WHO="S4"> hi </U>
+			<U WHO="S1"> hello... </U>
+			<U WHO="S4"> is this one-sixty-two right now, <U WHO="S1"> no </U> or are you doing three-ten? </U>
+			<U WHO="S2"> three-ten </U>
+			<U WHO="S1"> uh, <OVERLAP> three-ten </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> right </OVERLAP></U>
+			<U WHO="S3"> yeah you're, you're not in our section </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S4"> yeah. i forgot that this was here, i'm actually coming from G-S-I office hours but, that's okay <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"><OVERLAP> okay </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh, she </OVERLAP> starts at three </U>
+			<U WHO="S4"> yeah, i'll just wait. </U>
+			<U WHO="S1"> what time is it? </U>
+			<U WHO="S2"> two <OVERLAP> forty-five </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> oh </OVERLAP> okay. okay, </U>
+			<U WHO="S3"> so the only one that is_ are we done with it? no <U WHO="S1"><OVERLAP> so </OVERLAP></U><OVERLAP> okay the first one </OVERLAP> is irreversible </U>
+			<U WHO="S1"> it's irreversible, right </U>
+			<U WHO="S3"> what about <EVENT DESC="POINTS TO BOARD"/></U>
+			<U WHO="S1"> you tell me. </U>
+			<U WHO="S3"> um, <PAUSE DUR=":05"/> yeah? </U>
+			<U WHO="S1"> oh you don't have a chair. oops, i'm sorry. </U>
+			<U WHO="S2"> how come </U>
+			<U WHO="S3"> looks like no </U>
+			<U WHO="S1"> looks like no, yeah <EVENT DESC="LAUGH"/> from the book </U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> okay. and i'd probably say this one is, not reversible either. </U>
+			<U WHO="S1"> it's not reversible <OVERLAP> right. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> okay </OVERLAP></U>
+			<U WHO="S2"> can i ask you a question? </U>
+			<U WHO="S1"> sure </U>
+			<U WHO="S2"> wh- why do you need oxaloacetate to be reversible? do you know why? </U>
+			<U WHO="S1"> why do you need it <OVERLAP> to be reversible? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> cuz if, y- </OVERLAP> you can make it from some other process. </U>
+			<U WHO="S1"> w- it's just a ob- uh another way to regulate it. i mean if <OVERLAP> there's another problem </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh, okay </OVERLAP> cuz it's isn't it in low concentrations cuz it's not as, is it i- just as_ like the book talks about being in in low concentrations, does that mean it's, either not that impor- it's important? or it's just </U>
+			<U WHO="S1"> it might be, used very quickly. so that's why it's in low concentrations. </U>
+			<U WHO="S2"> oh okay. cuz it prefers to be in low concentrations <OVERLAP> or something. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay </OVERLAP> so if, so then if it prefers to be in low concentrations then it can just, you know go back to malate real quick so it doesn't have to deal with being in high concentrations. </U>
+			<U WHO="S2"> oh cu- isn't that like a higher energy? that's why? </U>
+			<U WHO="S1"> oh. if it is <U WHO="S2"><OVERLAP> or </OVERLAP></U><OVERLAP> then, </OVERLAP> say yes. okay </U>
+			<U WHO="S2"> oh i don't know </U>
+			<U WHO="S1"> i don't know either. where did you read that? </U>
+			<U WHO="S2"> i don't know it's the different book </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S3"> God </U>
+			<U WHO="S1"> don't stress. okay. </U>
+			<U WHO="S3"> is this it? is this the one? </U>
+			<U WHO="S1"> that's your, uh yeah little study guide thing </U>
+			<U WHO="S3"> mkay well </U>
+			<U WHO="S1"> okay. so where do we make A-T-P here? </U>
+			<U WHO="S2"> umm, at the nonreversible points. </U>
+			<U WHO="S1"> not always. </U>
+			<U WHO="S2"> but you can't go backwards to m- you can't use A-T-P to go backwards to A-D-P <OVERLAP> so (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> why can't </OVERLAP> you? </U>
+			<U WHO="S2"> cuz it's not_ i don't know </U>
+			<U WHO="S1"> you can. </U>
+			<U WHO="S2"><OVERLAP> oh you can? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> like right here </OVERLAP> right? <EVENT DESC="POINTS TO BOARD"/> yeah. </U>
+			<U WHO="S1"> that's reversible. </U>
+			<U WHO="S3"> but you're producing A-T-P </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S2"> oh okay... </U>
+			<U WHO="S3"> is that the only step where you, get A-T-P? </U>
+			<U WHO="S2"> no uh, isn't there two A-T-Ps from this? </U>
+			<U WHO="S1"> why do you say there're two A-T-Ps? </U>
+			<U WHO="S2"> i must be confusing it with something else </U>
+			<U WHO="S1"> you're not confusing it with anything else. </U>
+			<U WHO="S3"> what about the very end reaction, <OVERLAP> no? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> what </OVERLAP> about it? </U>
+			<U WHO="S3"> well like i- once you complete it <OVERLAP> i'd think you'd get something out of it </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh never mind. d- it's, the cycle goes around </OVERLAP></U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/><OVERLAP> no, you don't </OVERLAP></U>
+			<U WHO="S3"> oh you don't? </U>
+			<U WHO="S1"> uh you get N-A-D-H and F-A-D-H-two but, <U WHO="S3"> oh </U> right now <U WHO="S2"><OVERLAP> ok- </OVERLAP></U><OVERLAP> you </OVERLAP> don't get anything out of it, <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> it's cuz you go around twice <OVERLAP> cuz you have two of those. okay that's why you get three. okay. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right, you go around twice, so that's why you get two A-T-Ps. </OVERLAP></U>
+			<U WHO="S3"> you have two acetyl CoAs to start off with? </U>
+			<U WHO="S2"> yeah <U WHO="S1"><OVERLAP> why do you have two acetyl CoAs? </OVERLAP></U><OVERLAP> remember you have two, </OVERLAP> you have two pyruvates </U>
+			<U WHO="S3"> oh yeah okay. <U WHO="S2"><OVERLAP> okay </OVERLAP></U><OVERLAP> then </OVERLAP> you'd okay. <U WHO="S2"> oh okay </U> yeah </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> i printed that off the web so, everyone can get that <U WHO="S3"><OVERLAP> good </OVERLAP></U><OVERLAP> if they want it </OVERLAP> okay. </U>
+			<U WHO="S4"> and she said she was gonna update it. </U>
+			<U WHO="S1"> oh i think she updated it today right? </U>
+			<U WHO="S1"> cuz, i don't know (she said something about it) </U>
+			<U WHO="S2"> yeah, i didn't understand this part, the pentose phosphate pathway? </U>
+			<U WHO="S1"><OVERLAP> oh </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> did we </OVERLAP> even really go over that, at all? </U>
+			<U WHO="S2"> she, i think_ well it was on that ho- remember that homework? </U>
+			<U WHO="S4"> is that on there? </U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<U WHO="S2"> cuz, it was on that homework assignment we had remember the photosynthesis <OVERLAP> one? </OVERLAP><U WHO="S3"><OVERLAP> where would </OVERLAP> that be under? </U> remember they had A B C <OVERLAP> D E F G </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> oh yeah </OVERLAP> but then she said we didn't really need to know that <U WHO="S2"> oh </U> or uh, Louisa said we didn't need to know <U WHO="S2"> oh okay </U> (it's_ would be in the book) yeah it is. and, is this what he was talking about? </U>
+			<EVENT DUR="3:00" DESC="BACKGROUND CONVERSATION"/>
+			<U WHO="S2"> can i ask you a <U WHO="S1"><OVERLAP> sure </OVERLAP></U><OVERLAP> ques- </OVERLAP> like, this is confusing me. you know how it's enzyme limited, and substrate limited? like, this is exactly the same as in my textbook. h- how is the, this one enzyme limited, and, how, like i'm i got confused cuz it seems the opposite for me. ma- <U WHO="S1"><OVERLAP> okay let's read the little </OVERLAP></U><OVERLAP> i'd s- i'd say this would be </OVERLAP> enzyme limited <OVERLAP> cuz (there's only) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> thing down here </OVERLAP> okay <U WHO="S3"> yeah </U> let's read this. <SEG TYPE="READING"> regulation of the flux through a multistep pathway occurs at steps, that are enzyme limited. </SEG> okay? <U WHO="S2"> mhm </U><SEG TYPE="READING"> at each of these steps, the orange arrows, which are generally exergonic, the substrate is not in equilibrium with the product, because the enzyme catalyzed reaction is relatively slow. </SEG><U WHO="S2"> mm okay </U> so, what they're saying is, the enzyme, um, there's low concentration of the <OVERLAP> enzyme </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> is th- </OVERLAP> is this the enzyme or is, that </U>
+			<U WHO="S1"> i don't really know <U WHO="S3"><OVERLAP> cuz i thought </OVERLAP></U><OVERLAP> what the B and </OVERLAP> all that stuff is. </U>
+			<U WHO="S2"> i think these are just like different like designations but like, it represents like, this could be the same as that <OVERLAP> they just have a different number </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> oh oh i get it. </OVERLAP> i get it. okay, so, what's happening here is, B is your substrate, for <U WHO="S2"><OVERLAP> yeah </OVERLAP></U><OVERLAP> this </OVERLAP> enzyme, whatever enzyme <OVERLAP> orange is </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> then what's </OVERLAP> A for? </U>
+			<U WHO="S1"> A i- it's just a multistep pathway </U>
+			<U WHO="S2"> oh so just like <U WHO="S1"><OVERLAP> so it's just arbitrary </OVERLAP></U><OVERLAP> it's just say ran- </OVERLAP> oh, okay <U WHO="S1"> so they could </U> so B's th- and this is enzyme limited cuz there's only one enzyme. </U>
+			<U WHO="S1"> no, the enzyme is the ac- the arrow, okay the enzyme is here this is a product, that you get. <U WHO="S2"> oh, okay </U> okay? so <OVERLAP> your enzyme, is here. enzyme is here </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so enzyme limited you get one product. </OVERLAP> oh the the arrows are the enzyme. <OVERLAP> but </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right </OVERLAP> it's not like you just get one product, but you get, like, <U WHO="S2"><OVERLAP> so </OVERLAP></U><OVERLAP> you have a </OVERLAP> high concentration of substrate compared to a low concentration of product. and that's why it's called enzyme limited because you don't have a lot <OVERLAP> of enzyme </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> cuz you </OVERLAP> let's say you had all this, substrate but there's one enzyme there, only one of these can go, <U WHO="S1"> right </U> and that could make just that. <U WHO="S1"> right </U> and this is substrate limited cuz there's </U>
+			<U WHO="S1"> there's very little substrate, but you have lots of enzyme around, okay? </U>
+			<U WHO="S2"> so you still have to make one </U>
+			<U WHO="S1"> you would still, make a comparable amount of product, <U WHO="S2"> oh okay </U> as your substrate </U>
+			<U WHO="S2"> oh okay <U WHO="S1"><OVERLAP> okay so </OVERLAP></U><OVERLAP> and then h- </OVERLAP> here there's like, here's a substrate. </U>
+			<U WHO="S1"> so here's your substrate, <U WHO="S2"><OVERLAP> and there's many </OVERLAP></U><OVERLAP> for this enzyme </OVERLAP> and, this, um, you don't have a lot of uh, substrate, an- but you have a lot of enzyme. so you make your product. but now this next reaction is enzyme limited so you don't have a lot of enzyme. </U>
+			<U WHO="S2"> so you have <OVERLAP> just like one enzyme there and (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so, this collects </OVERLAP> this, product from <OVERLAP> here collects </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh cuz it's </OVERLAP> still waiting <OVERLAP> to </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> cuz it's, </OVERLAP> yeah it's waiting for <OVERLAP> free enzyme </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so there could be like </OVERLAP> one to go here then it makes it then one again, <U WHO="S1"> right </U> but this one there's like many here <U WHO="S1"> there's m- </U> that's why i could make <U WHO="S1"> right </U> oh okay i th- i thought the arrows were like the_ you know like the reaction arrows? </U>
+			<U WHO="S1"> reaction arrows? </U>
+			<U WHO="S2"> like you know th- like you know in the citric acid cycle <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> like </OVERLAP> you know the arrows i thought that was, that what that was. <U WHO="S1"> okay </U> i don't know cuz you know how they just write the enzyme's name? </U>
+			<U WHO="S1"> not good pizza? </U>
+			<U WHO="S4"> i said it looks good <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> oh. okay i thought you said it looks sick, <OVERLAP> okay </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S4"><OVERLAP> no </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> oh okay this is clear now. <U WHO="S1"> okay? </U> okay yeah. </U>
+			<U WHO="S1"> okay. what else? </U>
+			<U WHO="S3"> uh, which ones are exothermic? the ones that are irreversible? or no. </U>
+			<U WHO="S1"> you tell me, which ones are exothermic. </U>
+			<U WHO="S3"> well, obviously this one has to be right? cuz it's </U>
+			<U WHO="S4"> the first one is, highly exothermic, right? </U>
+			<U WHO="S1"> is it exothermic or exergonic? </U>
+			<U WHO="S3"> aren't they the same thing? </U>
+			<U WHO="S4"> what's the difference? </U>
+			<U WHO="S3"> i thought they were the same thing. </U>
+			<U WHO="S2"> ex- </U>
+			<U WHO="S3"> exergonic means exothermic. <U WHO="S2"> yeah </U> and endogoni- and </U>
+			<U WHO="S2"><OVERLAP> endergonic's the one that takes in energy </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it doesn't have to be the same thing </OVERLAP> what's the equation, for delta G? </U>
+			<U WHO="S3"> if it's negative, it's exergonic, <U WHO="S1"> right </U> which means if <U WHO="S4"><OVERLAP> it's exothermic </OVERLAP></U><OVERLAP> it's negative </OVERLAP> it's exothermic. </U>
+			<U WHO="S1"> does it have to be? what's the equation for delta G? delta G equals </U>
+			<U WHO="S2"> isn't i- </U>
+			<U WHO="S4"> something minus, change of T, <U WHO="S2"> del- </U> something <OVERLAP> change of S or something </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> it's entropy isn't it? (xx) </OVERLAP></U>
+			<U WHO="S1"> so </U>
+			<U WHO="S3"> oh entr- entropy <OVERLAP> minus enthropy, </OVERLAP><U WHO="S4"><OVERLAP> T change of S </OVERLAP></U> or something like that? </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S1"> so <U WHO="S2"><OVERLAP> change in en- </OVERLAP></U><OVERLAP> delta G </OVERLAP> equals delta, </U>
+			<U WHO="S2"> S </U>
+			<U WHO="S4"> S? </U>
+			<U WHO="S2"> isn't there T and then <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay why don't we look it up </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> H, H </OVERLAP> delta H <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> let's look it up. </U>
+			<U WHO="S2"> H minus T ti- <OVERLAP> times S? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i thought, like they were </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> (H times) delta S </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> wait, that's right </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i thought they </OVERLAP> were just synonyms, basically </U>
+			<U WHO="S1"> what's just synonyms? </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S3"> exothermic and </U>
+			<U WHO="S1"> usually, they are, but, <OVERLAP> they don't have to be. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> not in this case? </OVERLAP> but in this case, are they? </U>
+			<U WHO="S1"> okay in this case yes <U WHO="S3"> oh okay, <OVERLAP> that's </OVERLAP></U><OVERLAP> okay that's </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S3"><OVERLAP> that's all i wanted to know </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> isn't exothermic, </OVERLAP> doesn't exothermic give off heat but e- </U>
+			<U WHO="S3"> gives off h- y- yeah </U>
+			<U WHO="S2"> ender- what is the other one? <U WHO="S3"> endergonic </U> endergonic just, gives off energy. </U>
+			<U WHO="S1"> right. <OVERLAP> (it) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but </OVERLAP> it takes in heat though doesn't it? take </U>
+			<U WHO="S2"> hm </U>
+			<U WHO="S1"> what takes in ener- <U WHO="S2"> no- </U> heat </U>
+			<U WHO="S2"> exo- </U>
+			<U WHO="S3"> exothermic takes in heat, and <OVERLAP> (i would) guess </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> no it gives off </OVERLAP></U>
+			<U WHO="S2"> e- exergonic gives off <U WHO="S3"><OVERLAP> endothermic? </OVERLAP></U><OVERLAP> energy </OVERLAP> exothermic </U>
+			<U WHO="S4"> endothermic, <OVERLAP> yeah it takes in heat </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah, it takes in heat, </OVERLAP> yeah </U>
+			<U WHO="S2"> endergonic and exergon- which, <EVENT WHO="S1" DESC="LAUGH"/><OVERLAP> are they </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> why don't you </OVERLAP> write the terms on the board <U WHO="S2"><OVERLAP> (alright) </OVERLAP></U><OVERLAP> and then we'll, </OVERLAP> define them... okay where's the uh, citric acid cycle? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> you uh, you can know a lot about the whole passage by just looking at the picture right just </U>
+			<U WHO="S1"> right. you know uh uh uh if you don't have time to read, just go in and look at the figures, like before the exam. i highly recommend that. even if you do read everything, and you just want like, quick study session <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> just go and </OVERLAP> look at all the pictures <U WHO="S2"> okay </U> and if you don't understand a picture then definitely read the, legend for it. where is the citric acid cycle? </U>
+			<U WHO="S2"> isn't it, here. <U WHO="S1"> yeah </U> no it was af- isn't it after this? </U>
+			<U WHO="S1"> (oh,) here it is. oh this doesn't have the delta G cycle does it? where do we have delta Gs? oh, they're here. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"> for, creation of A-T-P you need a delta G of negative thirty, point-five or something? </U>
+			<U WHO="S1"> right. <OVERLAP> something around that </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> does it have to be </OVERLAP> so it has to be ne- like either negative thirty-one, it can't be like <OVERLAP> negative twenty-nine? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> right? no? maybe? </OVERLAP></U>
+			<U WHO="S1"> um, it can be if it's coupled with something else. </U>
+			<U WHO="S2"> usually alone it's not. </U>
+			<U WHO="S1"> yeah, okay, what? </U>
+			<EVENT WHO="S3" DESC="WRITING ON BOARD THROUGHOUT UTTERANCE"/>
+			<U WHO="S4"> actually <U WHO="S1"> okay </U> it's the change of H that's negative. <U WHO="S1"> right </U><U WHO="S3"> okay </U> i don't know what (H time-) maybe (those are the change of G) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> oh exothermic's for H but, w- delta G's exergonic (and) </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S3"><OVERLAP> yes no? </OVERLAP><U WHO="S1"><OVERLAP> right </OVERLAP></U> okay </U>
+			<U WHO="S2"> what does H stand for? </U>
+			<U WHO="S1"> what does H stand for? </U>
+			<U WHO="S4"> change of enthalpy </U>
+			<U WHO="S2"> enthalpy, oh okay that's heat. and then, endergon- a- oh and delta G is f- oh, alright yeah. </U>
+			<U WHO="S3"> okay <OVERLAP> so </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so </OVERLAP> what, does, what does endergonic or exergonic tell you <U WHO="S3"><OVERLAP> yes </OVERLAP></U><OVERLAP> it </OVERLAP> tells you what? <U WHO="S3"> what? </U> if it's, what kind of reaction? if it's a </U>
+			<U WHO="S3"> if it favors products or not, you mean, forward_ uh oh, instantaneous? </U>
+			<U WHO="S1"> instantaneous or spontaneous? </U>
+			<U WHO="S3"> spontaneous, okay </U>
+			<EVENT WHO="S4" DESC="LAUGH"/>
+			<U WHO="S1"> spontaneous those are two, very different terms. <U WHO="S3"> okay </U> spontaneous means, that it's endergonic that means it will uh ex- uh exergonic, <U WHO="S3"><OVERLAP> that's exergonic </OVERLAP></U><OVERLAP> that means it </OVERLAP> will go forward. <U WHO="S3"> forward yeah </U> okay, if it's endergonic, it will not go. <U WHO="S3"> mkay </U> it's nonspontaneous. <U WHO="S3"> sure </U> spontaneous does not mean quick, it just means whether it will go or not go. <U WHO="S3"> mkay </U><U WHO="S4"> okay </U> okay? </U>
+			<U WHO="S3"><OVERLAP> so </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> s- so </OVERLAP> exergonic's when, it's like here and here <EVENT DESC="GESTURES AT BOARD"/><U WHO="S1"> right </U> and then, endergonic's the opposite </U>
+			<U WHO="S3"> yeah, <U WHO="S2"><OVERLAP> oh okay, okay yeah </OVERLAP></U><OVERLAP> cuz it takes it in, so yeah </OVERLAP></U>
+			<U WHO="S1"> okay, and endothermic and exothermic, <U WHO="S3"> just heat </U> are heat. and that usually is a good indicator of </U>
+			<U WHO="S3"> but if something's, exothermic then it's gonna be, spontaneous. </U>
+			<U WHO="S1"> not necessarily. what's the equation for G? what's the equation for G? </U>
+			<U WHO="S2"> uh, <U WHO="S4"> change of H </U><EVENT WHO="S1" DESC="WRITING ON BOARD"/> H, minus T, delta S </U>
+			<U WHO="S4"> T yeah T delta S </U>
+			<U WHO="S2"> just put H minus T, times delta S. </U>
+			<U WHO="S1"> right. so, </U>
+			<U WHO="S3"> what's T? </U>
+			<U WHO="S1"> what's <OVERLAP> T? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> temp- </OVERLAP> temperature </U>
+			<U WHO="S3"> temperature? <U WHO="S1"> right </U> okay </U>
+			<U WHO="S1"> and what's S? </U>
+			<U WHO="S2"> en- <OVERLAP> uh, entropy </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> change of entropy? </OVERLAP></U>
+			<U WHO="S1"> right, <OVERLAP> so </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> entropy </OVERLAP> or enthalpy? </U>
+			<U WHO="S2"> entropy </U>
+			<U WHO="S4"> entropy <U WHO="S3"><OVERLAP> entropy </OVERLAP></U><OVERLAP> H is </OVERLAP> enthalpy. </U>
+			<U WHO="S3"><OVERLAP> okay </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> what </OVERLAP> is the one with Faraday's constant? just like a delta G equals negative </U>
+			<EVENT WHO="S4" DESC="LAUGH"/>
+			<U WHO="S1"> yeah that's, it's another equation </U>
+			<U WHO="S2"> oh d- do we have to know that? </U>
+			<U WHO="S1"> you don't have to know that <U WHO="S3"> no </U> she gives you equations on the exam. </U>
+			<U WHO="S2"> yeah but, if </U>
+			<U WHO="S3"> are there calculations on the second exam, that you gotta make? </U>
+			<U WHO="S2"><OVERLAP> there's </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> probably </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> chapter fourteen </OVERLAP> covers it </U>
+			<U WHO="S3"> what's that? </U>
+			<U WHO="S4"> chapter fourteen </U>
+			<U WHO="S3"> oh </U>
+			<U WHO="S2"> yeah, it's pr- </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"><OVERLAP> that's where (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay, so </OVERLAP> can we get a negative, G, and still have a positive H? positive delta H? is it possible? </U>
+			<U WHO="S4"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> if </OVERLAP> this is negative </U>
+			<U WHO="S1"> right, you can. so you can have, an endothermic reaction, that is exergonic. <U WHO="S3"> okay. </U> so <U WHO="S2"><OVERLAP> (xx)- </OVERLAP></U><OVERLAP> that </OVERLAP> means it absorbs heat, but, it is non s- i mean but it is spontaneous. </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S3"> so back to this. </U>
+			<U WHO="S1"> back to that. </U>
+			<U WHO="S4"> tha- this one, doesn't this one have a change, a big change in G? <U WHO="S1"> right, <OVERLAP> it does </OVERLAP></U><OVERLAP> that's negative? </OVERLAP></U>
+			<U WHO="S1"> ne- uh it's like negative thirty-two-point-two <OVERLAP> so (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so it's like </OVERLAP> one and four? or is it just four? alright <OVERLAP> well let's just go, let's just go with </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> one and four oh are we </OVERLAP> talking about i- okay we're talking <OVERLAP> about enthalpy as well? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> let's, yeah, let's </OVERLAP> just talk about like endergonic and <EVENT DESC="DRAWING ON BOARD"/> exergonic so, that's four then right? </U>
+			<U WHO="S1"> right, that's four. </U>
+			<U WHO="S3"> okay. what about here? </U>
+			<U WHO="S1"> um, <EVENT DESC="HUMMING"/> hm hm hm, that is three. </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S2"> so, okay </U>
+			<U WHO="S3"> (and) here to here <EVENT DESC="GESTURES AT BOARD"/></U>
+			<U WHO="S1"> fou- uh, no wait that's not actually three. because um, the through the_ it's actually four, yeah. to get to the intermediate it's three, the intermediate of sysaconitate. </U>
+			<U WHO="S3"> okay they will, <U WHO="S1"> yeah </U> okay <U WHO="S1"> but then </U> transitory theories <OVERLAP> transition theories? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right, </OVERLAP> but then when you couple it with sysaconitate to isocitrate, it's en- exergonic <EVENT DESC="LAUGH"/> okay, this is <OVERLAP> fun. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so, </OVERLAP> isocitrate to alpha. </U>
+			<U WHO="S1"> isocitrate to uh, </U>
+			<U WHO="S3"> alpha gluto keto gluterate </U>
+			<U WHO="S1"> wait, i'm confused. no, i was wrong <EVENT WHO="S4" DESC="LAUGH"/> that's three. </U>
+			<U WHO="S3"> this is three? </U>
+			<U WHO="S1"> that's <OVERLAP> three </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> the next one's four? </OVERLAP></U>
+			<U WHO="S1"> the next one's four. </U>
+			<U WHO="S3"> okay, here to here. </U>
+			<U WHO="S1"> the next one's four. </U>
+			<U WHO="S3"> and this definitely has to be four </U>
+			<U WHO="S1"> is it highly four? </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"> if it's highly four, how can it be reversible? </U>
+			<U WHO="S3"> oh, but i thought that's where you get, your A-T-P. </U>
+			<U WHO="S1"> that is where you get your A-T-P. </U>
+			<U WHO="S3"> so </U>
+			<U WHO="S4"> isn't it from like a, a transition reaction or something? is it in here? <PAUSE DUR=":02"/> no, never mind... </U>
+			<U WHO="S3"> so if you're gaining A-T-P, i would_ i mean_ <OVERLAP> doesn't nec- </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> but in </OVERLAP> like the previous reactions that are, irreversible <U WHO="S3"> mhm </U> you have a very large, negative delta G. <OVERLAP> so </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so those </OVERLAP> are highly forward. </U>
+			<U WHO="S1"> highly forward so, <U WHO="S3"> this is not </U> that, so the energy that you gain from going through the p- two previous reactions, you use in this reaction. <U WHO="S3"> okay </U> and this reaction is ba- can go, forwards and backwards </U>
+			<U WHO="S3"> but it's it's low, like it's not very high. </U>
+			<U WHO="S1"> it's not very high, what? </U>
+			<U WHO="S3"> it's not highly, endergonic </U>
+			<U WHO="S1"> it's not highly exergonic <U WHO="S3"><OVERLAP> exergonic </OVERLAP></U><OVERLAP> but it </OVERLAP> is exergonic <U WHO="S3"> yeah </U> it's not as high as those guys. </U>
+			<U WHO="S3"> so it'd be like lowly? <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> lowly, exergonic? uh well it's like negative three, <U WHO="S3"> okay, <OVERLAP> so it's not </OVERLAP></U><OVERLAP> kilojoules per </OVERLAP> mole, <U WHO="S3"> pretty normal </U> and the other ones are like negative, forty, kilojoules per mole <U WHO="S3"><OVERLAP> i get it </OVERLAP></U><OVERLAP> okay? </OVERLAP> so, next uh is, </U>
+			<U WHO="S3"> three? </U>
+			<U WHO="S1"> zero. </U>
+			<U WHO="S3"> oh it's nothing? </U>
+			<U WHO="S1"> it's neither exergonic nor endergonic. </U>
+			<U WHO="S2"> can it do that though? because then the reaction wouldn't occur. cuz there's no energy putting putting, <OVERLAP> (wanna put it out) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> but it you have, </OVERLAP> way more substrate than you do product, you're_ remember about Le Chatelier's principle. <U WHO="S2"> oh it <OVERLAP> moves from the highest </OVERLAP></U><OVERLAP> you want to </OVERLAP> balance it. <U WHO="S2"> oh okay <OVERLAP> that's why </OVERLAP></U><OVERLAP> you wanna </OVERLAP> balance your equilibrium <OVERLAP> okay, </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so what about, </OVERLAP> this one, would that be the same thing? </U>
+			<U WHO="S1"> what do you think? </U>
+			<U WHO="S3"> yeah, i would say. </U>
+			<U WHO="S1"> no </U>
+			<U WHO="S3"> no? </U>
+			<U WHO="S2"> oh </U>
+			<U WHO="S3"> that'd be, <EVENT DESC="DRAWING"/></U>
+			<U WHO="S1"> wait, wha- what, why am i on the wrong </U>
+			<U WHO="S3"> what about in the fumarate to malate? </U>
+			<U WHO="S1"> oh, that is, it's, lowly exergonic. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S4"> what's that little O mean? that you just drew? </U>
+			<U WHO="S3"> this? <EVENT DESC="GESTURES AT BOARD"/></U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S3"> neither. </U>
+			<U WHO="S4"> oh <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> it's zero kilojoules per mole. <U WHO="S4"> okay </U><U WHO="S2"> yeah </U> okay <OVERLAP> and the next one? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> and from malate </OVERLAP> to oxaloacetate </U>
+			<U WHO="S1"> what is that? </U>
+			<U WHO="S3"> i would guess it's probably </U>
+			<U WHO="S4"> it's three </U>
+			<U WHO="S3"> exerg- three? so it'd be, okay </U>
+			<U WHO="S2"> so it takes in energy to go to_ oh okay cuz you have to make it, like </U>
+			<U WHO="S4"> that's why this one's so, highly exergonic. to pull that one </U>
+			<U WHO="S3"> oh okay <OVERLAP> okay, let me write this down </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right, and that's why </OVERLAP> oxaloacetate exists, in_ or it, favors low concentration. <U WHO="S2"><OVERLAP> why? </OVERLAP></U><OVERLAP> remember </OVERLAP> you said that? </U>
+			<U WHO="S2"> yeah. why was it again? </U>
+			<U WHO="S1"> because the reaction to make it, from malate, uh is so, endergonic... and the reaction to make citrate, from oxaloacetate and acetyl CoA is so exergonic, <U WHO="S2"> okay </U> that, when you make the little bit of oxaloacetate you immediately convert it to citrate. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> can we do this one next? </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> can we do this one </U>
+			<U WHO="S4"> Lucky do you know if G-S-I office hours are always in alcove 5, or </U>
+			<U WHO="S1"><OVERLAP> i don't know </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> she's wherever, she goes wherever she can find one </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> she's always in that </OVERLAP></U>
+			<U WHO="S4"> oh really? </U>
+			<U WHO="S3"> well yeah </U>
+			<U WHO="S2"> usually she's in that one though </U>
+			<U WHO="S3"> usually but, like s- she, it was there last week <OVERLAP> that's why i wish she could </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah i always s- </OVERLAP> i hear her over here <OVERLAP> sometimes </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> that's why </OVERLAP> i wish she could find an empty spot. they kick someone out. </U>
+			<U WHO="S2"> oxaloace- so from oxaloacetate to acetyl CoA is zero? </U>
+			<U WHO="S1"> from oxaloacetate to acetyl CoA? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> those are two substrates for the same enzyme, for a citrate synthase. </U>
+			<U WHO="S2"> oh they combine </U>
+			<U WHO="S1"> they combine <OVERLAP> to form citrate </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh okay </OVERLAP> so plus, <OVERLAP> so plus </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so uh, </OVERLAP> how'm i doing this week? </U>
+			<U WHO="S1"> how you're doin- <U WHO="S3"><OVERLAP> yeah, yeah </OVERLAP></U><OVERLAP> how are you doing? </OVERLAP> you're doing very well. </U>
+			<U WHO="S3"> okay, good. </U>
+			<U WHO="S1"> were you mad at me last week? <U WHO="S3"><OVERLAP> no i wasn't mad, i wasn't mad </OVERLAP></U><OVERLAP> i'm sorry i yelled at you that would've been a fun one </OVERLAP> to record last week <EVENT DESC="LAUGH"/></U>
+			<U WHO="S3"> how would it be fun? <EVENT WHO="S2" DESC="LAUGH"/> there was like silence </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S3"> other than you yelling at me. </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S1"> well i mean if i ask a question and y- and i mean it's a really easy one and you just haven't, prepared at all, that's <OVERLAP> annoying </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> it's much </OVERLAP> more better if i actually know what i'm <U WHO="S1"><OVERLAP> exactly </OVERLAP></U><U WHO="S2"><OVERLAP> doing </OVERLAP></U> like, cuz the last two weeks i had exams, so i caught up this weekend. that's why i have questions. so now, like <OVERLAP> you know </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it's almost three </OVERLAP> do you wanna have your pizza, so you can go? <U WHO="S2"><OVERLAP> (i guess) </OVERLAP></U><OVERLAP> actually </OVERLAP> it is three-oh-five. </U>
+			<U WHO="S2"> oh, really? </U>
+			<U WHO="S1"> do you have to go? </U>
+			<U WHO="S2"> yeah, what i i don't know i i <OVERLAP> if i have any more questions </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i have another group </OVERLAP> on Wednesday nights, from six to eight, if you wanna come </U>
+			<U WHO="S2"> oh you do? <U WHO="S1"> yeah </U> six o'clock...? i think i asked you all my questions already </U>
+			<U WHO="S1"> okay, well if you think of anything else, you can always come to that one, and i think there's another one tomorrow from four to six. </U>
+			<U WHO="S2"> four to six? </U>
+			<U WHO="S3"> by who? </U>
+			<U WHO="S1"> um, ew. <U WHO="S3"> what? </U> that was like ew, i don't wanna come to your group anymore. </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S3"> no, if i need_ i come every Monday haven't i? <U WHO="S1"> yeah </U> so there you go. </U>
+			<U WHO="S1"> n- it's j- okay i don't know who it is, uh i forgot his name </U>
+			<U WHO="S3"> uh actually i probably <OVERLAP> can't (do this) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> he's some little </OVERLAP> Indian boy. <EVENT WHO="SS" DESC="LAUGH"/> well, he is. what am i supposed to say...? i mean i'm not <U WHO="S3"> i just figured you </U> being offensive, i'm Indian too, right? </U>
+			<U WHO="S3"> really? </U>
+			<U WHO="S1"> really <EVENT DESC="LAUGH"/></U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> wow </U>
+			<U WHO="S2"> can i just ask you about this picture first? </U>
+			<U WHO="S1"> yeah, <OVERLAP> go ahead. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so, </OVERLAP> why do they show both of these? <U WHO="S1"><OVERLAP> okay cu- </OVERLAP></U><OVERLAP> like if they're in </OVERLAP> different places? cuz this is the <U WHO="S1"><OVERLAP> well </OVERLAP></U><OVERLAP> citric </OVERLAP> acid cycle, but that's only in <OVERLAP> plan- </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> the intermediates </OVERLAP> can go and, <U WHO="S2"><OVERLAP> do both </OVERLAP></U><OVERLAP> into the, </OVERLAP> yeah the intermediates can, enter the cytoplasm and interact with one another. </U>
+			<U WHO="S2"> but if this is not in humans, oh this is just plants </U>
+			<U WHO="S1"> yeah, we're <OVERLAP> talking about plants right here </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh okay, so they </OVERLAP> plants have th- both of these. <U WHO="S1"> right </U> oh this is like pl- still on plants. y- so this is the mitochondria of the plant </U>
+			<U WHO="S1"> in the glyoxosome </U>
+			<U WHO="S2"> oh okay </U>
+			<U WHO="S1"> and that's where you get the glyoxylate cycle <OVERLAP> in the plant. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh, okay. </OVERLAP> okay, that </U>
+			<U WHO="S1"> oh i'm sorry you didn't know about the recording thing </U>
+			<U WHO="S4"><EVENT DESC="LAUGH"/> that's okay </U>
+			<U WHO="S2"> and then, this is <PAUSE DUR=":06"/> (cuz uh) where's the, where's the Q cycle? like, would <OVERLAP> it be here or here? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i don't know </OVERLAP> what Q means. <OVERLAP> what what </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> ubiquinone, ubiquinol, it's </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> it's, ubiquinol </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> like, </OVERLAP> why do you call it a cycle? </U>
+			<U WHO="S2"> cuz that's what the book called it. </U>
+			<U WHO="S1"> okay, can w- i see that term? <U WHO="S2"> um </U> i don't know what they're talking about. </U>
+			<U WHO="S2"> it was, in </U>
+			<U WHO="S3"> yeah i'm kinda shady on that like, not very clear on <U WHO="S2"><OVERLAP> yeah </OVERLAP></U><OVERLAP> that like the </OVERLAP> whole, photosynthesis stuff. oh yeah that's why <U WHO="S2"><OVERLAP> oh </OVERLAP></U><OVERLAP> i pointed </OVERLAP> at that, <EVENT DESC="POINTS TO BOOK"/> that whole thing that's (xx) </U>
+			<U WHO="S1"> okay, well this is actually the oxidation of fatty acids. this is not <OVERLAP> what you want </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh okay that's </OVERLAP> why it looks similar. </U>
+			<U WHO="S1"> yeah. so this is not it. this is amino acid oxidation. <OVERLAP> this is </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> did we </OVERLAP> learn that too? </U>
+			<U WHO="S1"> uh i don't think you actually <U WHO="S2"><OVERLAP> oh okay (yeah, so) </OVERLAP></U><OVERLAP> learned that. </OVERLAP> here's um your little guy... </U>
+			<U WHO="S2"> oh they have different pictures. oh here, this one. </U>
+			<U WHO="S1"> okay. so where does it say Q cycle? </U>
+			<U WHO="S2"> oh, in our book it was like later in the_ was it, when they talk about, complex three, how ca- i don't know ma- maybe it's a new term they have. </U>
+			<U WHO="S3"> yeah no they do call it the Q, something or other. </U>
+			<U WHO="S1"> okay you're in photosynthesis now. okay, so </U>
+			<U WHO="S2"> so it was it was like somewhere here or s- like, like y- i think you make two cytochrome Cs, like, t- y- two cytochrome Cs are used to, make it go more. </U>
+			<U WHO="S1"> okay <U WHO="S2"> what </U> so she didn- she didn't want any pizza? okay. </U>
+			<U WHO="S3"> yeah shouldn't we eat this before it gets cold? </U>
+			<U WHO="S1"> you can have a slice, if you want it. </U>
+			<U WHO="S3"> that's okay. </U>
+			<U WHO="S1"> what, go, eat. </U>
+			<U WHO="S3"> no i'll get all greasy. </U>
+			<U WHO="S1"> okay. <OVERLAP> so </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> like </OVERLAP> y- you know um, in this one? here you have this going in, a- and it goes to F-M-N and then to, F-E-S? <OVERLAP> F-E dash S? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> oh well you don't </OVERLAP> have to know all that. that's way, <U WHO="S2"> oh <OVERLAP> okay </OVERLAP></U><OVERLAP> complicated, i feel </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so we just have to know like </OVERLAP> what happens in each one, like before it gets pumped out and stuff. </U>
+			<U WHO="S1"> yeah i, actually i don't even <OVERLAP> know that stuff </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> cuz like the Q </OVERLAP> cycle was part o- it wasn't like, it was part of you know that detail it said like you don't have to know that? it was sort of something like that. </U>
+			<U WHO="S1"><OVERLAP> where's the </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> now where's the </OVERLAP> where's the plant one? </U>
+			<U WHO="S2"> oh is it in plants only? i thought it was in everything. </U>
+			<U WHO="S3"> where's the plant picture one though? </U>
+			<U WHO="S1"> just, keep going </U>
+			<U WHO="S2"> are those like, those big, like iron things <U WHO="S1"> (oh) </U> those are just part of the protein right? the one, <OVERLAP> that one (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> this is it he- </OVERLAP> right here. that, that's what you're talking about? </U>
+			<U WHO="S2"> oh okay. oh it's in plants? i thought it was in... </U>
+			<U WHO="S3"> Q cycle, right there. </U>
+			<U WHO="S1"> Q cycle, </U>
+			<U WHO="S2"> oh it's in plants <OVERLAP> only </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> figure, </OVERLAP> eighteen-ten. not that. figure eighteen-ten? that's like really far back, are you sure guys? <OVERLAP> okay </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (we're not on) </OVERLAP> chapter eighteen? </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> uh </U>
+			<U WHO="S1"> no that's eighteen-nine. figure eighteen-ten. so yeah you have, it's, okay, Q B H cytochrome B okay. so yeah, what happens is, <OVERLAP> okay </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so it's </OVERLAP> not in u- it's not in us, <OVERLAP> it's only </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it is </OVERLAP> in us </U>
+			<U WHO="S2"> but if it's only in plants </U>
+			<U WHO="S1"> n- no <U WHO="S2"> oh </U> this is part of the uh, <OVERLAP> oxidated phosphorylation now </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so, like, i remember reading that </OVERLAP> two of these are used up, two cytochrome Cs </U>
+			<U WHO="S1"> okay <SEG TYPE="READING"> the path of (electrons) through the complex three, probably involves a Q cycle </SEG><U WHO="S2"> oh okay </U><SEG TYPE="READING"> such as, that shown here, </SEG><U WHO="S2"><OVERLAP> in blue </OVERLAP></U><OVERLAP> the blue arrows. </OVERLAP> okay? so, here you have these electrons coming in, and, they <U WHO="S2"><OVERLAP> and </OVERLAP></U><OVERLAP> you </OVERLAP> know, k- they, uh, fall down some, like <U WHO="S2"><OVERLAP> so </OVERLAP></U><OVERLAP> from </OVERLAP> higher energy to lower energy so they </U>
+			<U WHO="S2"> are these, these are the ones with um, iron in it right? these are iron container things? <OVERLAP> (like you) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> the B </OVERLAP> stuff? </U>
+			<U WHO="S2"> weren't they like something like, irons in the middle of it? like, they're two di- the cytochromes are all different, A B and C? <U WHO="S1"> (xx) </U> like i remember they had a big picture of it, somewhere. </U>
+			<U WHO="S1"> yeah this book isn't, <U WHO="S2"><OVERLAP> oh, okay </OVERLAP></U><OVERLAP> doesn't have </OVERLAP> as many pictures as your book. <U WHO="S2"> oh okay </U> it's not as good. </U>
+			<U WHO="S2"> cuz like i was just looking at it </U>
+			<U WHO="S1"> is this it? this thing? </U>
+			<U WHO="S2"> no it was like a bi- like a big page full of, all the <OVERLAP> cytochromes </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> oh, </OVERLAP> yeah i don't think this book has a, big page full of cytochromes. </U>
+			<U WHO="S2"> oh. is it important to know? like, like some, some of them have, c- like cytochrome C i think is covalently bonded, n- but the other two aren't, the </U>
+			<U WHO="S1"> covalently bonded to what? </U>
+			<U WHO="S2"> plac- like, histidine or something or cystine? </U>
+			<U WHO="S1"> okay b- <U WHO="S2"><OVERLAP> but that's, oh </OVERLAP></U><OVERLAP> complex three, </OVERLAP><SEG TYPE="READING"> ubiquinone to cytochrome C, complex three also called the cytochrome B-C-one complex or ubiquinone cytochrome C oxa- o- oxa- oxidoreductase contains cytochromes B-five-six-two, B-five-six-six cytochrome C-one and an iron sulfur protein and at least six other proteins are m- used </SEG><U WHO="S2"><OVERLAP> okay </OVERLAP></U><OVERLAP> it's really </OVERLAP> it has a lot of stuff. </U>
+			<U WHO="S2"> that's what i was talking about then. like our book had pictures of some of these. <U WHO="S1"> okay, yup, <OVERLAP> this one </OVERLAP></U><OVERLAP> but th- </OVERLAP> i guess since it's not in this book we don't have to know it for </U>
+			<U WHO="S1"> does she say that <U WHO="S2"><OVERLAP> she </OVERLAP></U><OVERLAP> you </OVERLAP> can have this book if you have it? </U>
+			<U WHO="S2"> no, she doesn't, it's like it this book doesn't exist like we only have our b- well, i don't think anyone has this book </U>
+			<U WHO="S1"> no one has that book? well then she might want you to know that stuff. </U>
+			<U WHO="S2"> oh okay. well i'll just look on the, review, sheet, later. </U>
+			<U WHO="S1"> oh, okay well let's see, if you have to know it. </U>
+			<U WHO="S3"> this looks like it's </U>
+			<U WHO="S1"> uh, <SEG TYPE="READING"> know various components of the electron transport, chain, know how F-A or, N-A-D-H (xx) (causes endoelectrogen- then remember) two shuttles </SEG><U WHO="S2"> yeah (xx) </U><SEG TYPE="READING"> know the steps (xx) for generating hydrogen gradient. </SEG></U>
+			<U WHO="S2"> that's when like hydrogen pumps out <U WHO="S1"><OVERLAP> right </OVERLAP></U><OVERLAP> and </OVERLAP> stuff pumps in. </U>
+			<U WHO="S1"><SEG TYPE="READING"> know the chemiosmotic theory for A-T-P synthesis and understand </SEG></U>
+			<U WHO="S2"> that's just th- that's just the general picture of it, <U WHO="S1"> right </U> so </U>
+			<U WHO="S1"><SEG TYPE="READING"> know the structure and hypothesis mechanism of A-T-P synthesis. be able to calculate the net yield of A-T-P from one molecule of glucose, for example </SEG> so <U WHO="S2"><OVERLAP> isn't it a </OVERLAP></U><OVERLAP> be able to co- </OVERLAP> calculate the net yield, <OVERLAP> of A-T-P </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so that's like </OVERLAP> t- there's thirty A-T-P? </U>
+			<U WHO="S1"> how many? </U>
+			<U WHO="S2"> thirty to thirty-two? </U>
+			<U WHO="S1"> per what? </U>
+			<U WHO="S2"> per, one glucose. </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S2"> two? </U>
+			<U WHO="S1"> no... okay i'm hungry. </U>
+			<U WHO="S3"> okay, so let's eat then. </U>
+			<U WHO="S1"> can i eat? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> okay, are you guys ready? <U WHO="S3"> whoa </U><EVENT DESC="GASP"/> this is good. i love feta cheese guys. </U>
+			<U WHO="S3"> it's, triangle... </U>
+			<U WHO="S1"> we don't have napkins <OVERLAP> though </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so what </OVERLAP> happened last time? did they just forget or something? </U>
+			<U WHO="S1"> um, she said that, <U WHO="S3"> whoa </U> there was a mix-up. what, did you just do? you dropped everything. <PAUSE DUR=":09"/> wow. this is wonderful. i asked for veggie pizza, because i am, in love with veggie pizzas. </U>
+			<U WHO="S3"> are you vegetarian? </U>
+			<U WHO="S1"> no. <U WHO="S3"> oh </U> i just, don't eat meat all that much. </U>
+			<U WHO="S2"> what is feta cheese? </U>
+			<U WHO="S3"><OVERLAP> it's Greek cheese. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> feta cheese? </OVERLAP></U>
+			<U WHO="S3"> goat's. </U>
+			<U WHO="S1"> it's the, stuff right here. where does it come from you mean? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S3"> Greece. </U>
+			<U WHO="S1"> um, i don't know, Greece? okay. </U>
+			<U WHO="S3"> yeah, it's a Greek cheese. it's either made by sheep, or goats. </U>
+			<U WHO="S1"> okay, i need a napkin. i'm a messy eater. </U>
+			<U WHO="S3"> use a piece of paper. </U>
+			<U WHO="S1"> okay. can i use this? </U>
+			<U WHO="S3"> no </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> no, it's my work. </U>
+			<U WHO="S2"> there's one on the floor. </U>
+			<U WHO="S1"> no, she wants that. crap. </U>
+			<U WHO="S3"> here... </U>
+			<U WHO="S2"> here, there's a <OVERLAP> newspaper </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> you can </OVERLAP> print this out again. </U>
+			<U WHO="S2"> there's a newspaper </U>
+			<U WHO="S1"> oh, here's a newsp- oh whoops <EVENT WHO="SS" DESC="LAUGH"/> oops, i don't even know what's been on this table, it's s- so gross. i'm gonna eat it anyway. i'm making a mess... well, close the pizza don't let the buggies get in. </U>
+			<U WHO="S3"> there're no bugs. </U>
+			<U WHO="S1"> yeah there are. there're so many bugs in the S-L-C it's ridiculous. </U>
+			<U WHO="S2"> s- all these chemicals <OVERLAP> in the (air) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> thanks for </OVERLAP> the pizza. it's wonderful. </U>
+			<U WHO="R1"> oh you're welcome. good... thank you for being recorded. </U>
+			<U WHO="S1"> no problem. we'll do anything for free food, right? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> so we don't have to know those little things i was talking about. </U>
+			<U WHO="S1"> i don't think so... i didn't have to know it. <U WHO="S2"> okay </U> i mean it doesn't say like explicitly </U>
+			<U WHO="S2"> so like two cycles in complex three </U>
+			<U WHO="S1"> yes... </U>
+			<U WHO="S2"> oh, okay <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> is it </OVERLAP> independent? </U>
+			<U WHO="S1"> is what independent? </U>
+			<U WHO="S3"> ubiquinol </U>
+			<U WHO="S1"> independent of what? </U>
+			<U WHO="S3"> of complex, three. if i was like its own, entity. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> um, yeah maybe. </U>
+			<U WHO="S3"> like cytochrome C is independent, right? <U WHO="S1"> mhm </U> cytochrome C is cytochrome C. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"> so how do you, how does it, pump the protons? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> doesn't it lower the, gradient or something? so it, allows it... </U>
+			<U WHO="S3"> it goes four four two right? <U WHO="S2"> yeah </U> the first four goes out complex one? </U>
+			<U WHO="S1"> no... </U>
+			<U WHO="S3"> complex three? </U>
+			<U WHO="S1"> only two go out complex one </U>
+			<U WHO="S2"> no, four. <U WHO="S1"> four? </U> four four and two. yeah. </U>
+			<U WHO="S1"> oops, i just, <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> isn't </OVERLAP> there like two <OVERLAP> N-A-D-H that goes there? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> right there </OVERLAP> yeah complex one. </U>
+			<U WHO="S1"> yeah, aren't there two Hs that go? </U>
+			<U WHO="S3"> no they're four four two. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"> okay, whatever you guys think... </U>
+			<U WHO="S3"> where do the other four go out? </U>
+			<U WHO="S4"> um, i have to go to work but, <U WHO="S1"> okay </U> (i'm just gonna) take this... </U>
+			<U WHO="S3"> did she help you? </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S3"> that's good. </U>
+			<U WHO="S2"> did you do the homework yet for this week? </U>
+			<U WHO="S4"> no. </U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<U WHO="S2"> oh, okay </U>
+			<U WHO="S4"> i'm gonna be up all Tuesday night if you wanna call me <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> bye. </U>
+			<U WHO="S4"> bye. </U>
+			<U WHO="S1"> um <PAUSE DUR=":04"/> (didn't) figure this out. oh here's your little cytochrome stuff right? no. </U>
+			<U WHO="S2"> no they were like real big pictures though they </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> oh so it comes out, complex three. </U>
+			<U WHO="S2"> yeah. it goes in one and is carried by, that Q-H-two that's, ubiquinol, and it goes to three, and then goes to the Q cycle. </U>
+			<U WHO="S3"> mkay, where does the other four get pumped out of? </U>
+			<U WHO="S2"> complex two. </U>
+			<U WHO="S3"> complex <OVERLAP> two </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh no, </OVERLAP> oh no complex one, is it one? n- i know it's one and four </U>
+			<U WHO="S3"> it has to go out three <OVERLAP> channels </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so what </OVERLAP> is comp- what is complex one? N-A-D-H, dehydrogenase right? <U WHO="S2"> mhm </U> so that's where all the N-A-D-H from, both glycolysis and the citric acid cycle, come in and they drop off their, electrons they've been carrying. right? <U WHO="S3"> okay </U> and that enables, complex one to start pumping protons, up their gradient <U WHO="S3"><OVERLAP> so is that </OVERLAP></U><OVERLAP> because they have </OVERLAP> all this increase in of energy </U>
+			<U WHO="S3"> is that the answer to this one? like what's_ is this where he's talking about N-A-D-Hs? </U>
+			<U WHO="S1"> yeah, let's just answer the questions </U>
+			<U WHO="S3"> yeah, right? </U>
+			<U WHO="S1"> right, <OVERLAP> okay </OVERLAP></U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/><OVERLAP> okay </OVERLAP></U>
+			<U WHO="S2"> so what happened? </U>
+			<U WHO="S3"> oh, she's about to tell us. </U>
+			<U WHO="S1"> so complex one, is N-A-D-H, <OVERLAP> dehydrogenase, </OVERLAP><U WHO="S2"><OVERLAP> yes </OVERLAP></U> okay? so all the N-A-D-H, from glycolysis and the citric acid cycle, </U>
+			<U WHO="S2"> go through that. </U>
+			<U WHO="S1"> yes. they come in and they drop off the electrons they've been carrying, and are converted back to N-A-D-plus. and those electrons are taken by, complex one or, N- N-A-D-H dehydor- dehydrogenase complex </U>
+			<U WHO="S2"> isn't it i- i- for every one N-A-D-H two, go out and then uh, so you have two N-A-D-Hs going that's why you have four? <U WHO="S1"><OVERLAP> oh, okay </OVERLAP></U><OVERLAP> is- isn't it </OVERLAP> isn't that <OVERLAP> why the cycle goes around twice? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah. yeah, you're right. </OVERLAP> okay, yeah you're right you're right </U>
+			<U WHO="S2"> is it? <U WHO="S1"> yeah </U> it's not in the book, i just </U>
+			<U WHO="S3"> so, how does it enter it? </U>
+			<U WHO="S2"> isn't <U WHO="S3"><OVERLAP> it just goes in </OVERLAP></U><OVERLAP> this </OVERLAP> this it it doesn't that take it? <U WHO="S1"> yes </U> cuz that's the f- </U>
+			<U WHO="S1"> it doesn't take the N-A-D-H, it takes the two electrons that the N-A-D-H have carried. <U WHO="S2"> but <OVERLAP> how come </OVERLAP></U><OVERLAP> so N-A-D-H </OVERLAP> is turned back into N-A-D-plus remember? <U WHO="S3"> mhm </U><U WHO="S2"> how come </U> we converted it into N-A-D-H? </U>
+			<U WHO="S2"> why is there only one H though? how does it have two? </U>
+			<U WHO="S1"> okay, draw up on the board <U WHO="S3"> it's </U> N-A-D, <OVERLAP> plus </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> it's </OVERLAP> N-A-D-H plus, H. </U>
+			<U WHO="S2"> yeah, s- bu- oh the other, plus H just follows it? </U>
+			<U WHO="S1"> watch. </U>
+			<U WHO="S3"> whoa, careful. </U>
+			<U WHO="S1"><EVENT DUR=":13" DESC="PAUSE WHILE WRITING ON BOARD"/> okay? so you have N-A-D-plus, plus two electrons, plus two hydronium ions right? so that's actually, two hydrogen protons, <U WHO="S2"> okay </U> okay? now what happens is, <EVENT DESC="WRITING ON BOARD THROUGHOUT UTTERANCE"/> this guy takes the two electrons, okay? <U WHO="S2"> hm </U> and takes one hydronium, ion. okay? so if he takes, two electrons and one hydronium ion, what's his charge gonna be? he's already plus. </U>
+			<U WHO="S2"> so it'd be </U>
+			<U WHO="S1"> so you take, one of those pluses away so (then you) is you add two minuses, so one plus, </U>
+			<U WHO="S2"> so it becomes a negative? </U>
+			<U WHO="S1"> two minus, </U>
+			<U WHO="S1"> oh okay so it becom- if it's negative the H is there it's <OVERLAP> like </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> plus one </OVERLAP> plus <U WHO="S3"> so it's </U> so what does that yield? </U>
+			<U WHO="S3"> zero. </U>
+			<U WHO="S2"> oh </U>
+			<U WHO="S1"> one plus, wait </U>
+			<U WHO="S3"> that's zero. </U>
+			<U WHO="S1"> that is zero_ yeah, that's zero, that's right <U WHO="S2"> oh </U> very good. that's zero. so then you get, N-A-D, H because you took one of those, plus, the hydronium ion. cuz you only took one hydronium ion and you <OVERLAP> add it. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> hydr- </OVERLAP> isn't hydronium just, </U>
+			<U WHO="S1"> it's just a proton. </U>
+			<U WHO="S2"> it's H_ doesn't, how many electrons is it, none? </U>
+			<U WHO="S1"> it doesn't have any electrons, <OVERLAP> it's just one proton. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh okay </OVERLAP> oh, cuz the other hydrogen that it's bonded with. oh no they're not bonded. they're like, so </U>
+			<U WHO="S1"> tha- it's really, this. </U>
+			<U WHO="S2"> oh okay yeah <U WHO="S1"><OVERLAP> okay? </OVERLAP></U><OVERLAP> okay </OVERLAP> i understand. </U>
+			<U WHO="S1"> but it's not really that </U>
+			<U WHO="S2"> but didn't they say the plus isn't really a charge? it's not like </U>
+			<U WHO="S1"> isn't <U WHO="S2"><OVERLAP> i've he- </OVERLAP></U><OVERLAP> every </OVERLAP> what? </U>
+			<U WHO="S2"> they they talked about like the p- like the plus isn't really what it means it's </U>
+			<U WHO="S1"> the plus isn't <OVERLAP> really what it means </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> on N-A-D-plus? </OVERLAP> N-A-D-p- it doesn't mean it's like positive, positively charged they said it's just </U>
+			<U WHO="S1"> it means, this is what it is. you have an N, it's bound to four things. <U WHO="S2"> yeah </U> and so, it has a positive charge cuz it's lacking <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> see N </OVERLAP> usually exists in this state. it likes this state, it's neutral in this state, and it has one two three four five, carbons. <U WHO="S2"> okay </U> and this state only has one two three four carbons, so it's lacking one carbon so you could say, that, so the way they designate that is a positive. <U WHO="S2"> oh ok- </U><OVERLAP> okay? </OVERLAP><U WHO="S2"><OVERLAP> oh </OVERLAP> okay </U> because it's lacking one, electron. <U WHO="S2"> okay </U> so you know how to count up valencies? </U>
+			<U WHO="S2"> yeah, i know </U>
+			<U WHO="S1"> okay, so that's how y- that's <OVERLAP> how they got that </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> okay and </OVERLAP> and then so that goes twice cuz you have two, a cycle twice, so that's how you get four, <U WHO="S1"> right </U> okay, th- cuz they don't, they don't say that. they just, sort of show you a picture. </U>
+			<U WHO="S1"> okay <EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S2"> and then F-A-D-H is exactly the same as N-A-D-H for this complex two, that's why you get four, also. </U>
+			<U WHO="S1"> what's different about, </U>
+			<U WHO="S2"> s- f- F-A-D-H is fla- f- <U WHO="S3"><OVERLAP> (flavin?) </OVERLAP></U><OVERLAP> isn't it </OVERLAP> like a f- flavin protein or whatever? </U>
+			<U WHO="S1"> what do i, how do i make F-A-D-H-two? remember it was F-A-D-H-two. how do i make it? what do i start with? </U>
+			<U WHO="S2"> F-A-D-plus? </U>
+			<U WHO="S1"> plus </U>
+			<U WHO="S3"> two E, two H </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> so in this case, you, F-A-D can accept both, the two electrons and the two hydronium ions. so it gets a neutral ch- it shouldn't be neutral then should it? no. </U>
+			<U WHO="S2"> shouldn't they be charged cuz they can move inside the cell? like, you know the cytosol or whatever? </U>
+			<U WHO="S1"> oh, well i guess, wait, it has to be like that but then, it can't be, two... <EVENT DESC="WRITING ON BOARD THROUGHOUT UTTERANCE"/> oh does it start like this? F-A-D-H-plus? </U>
+			<U WHO="S2"> oh yeah, yeah it does </U>
+			<U WHO="S1"> yeah, okay. then, it works... </U>
+			<U WHO="S2"> oh it always accepts one. </U>
+			<U WHO="S1"> it'll only accept one of these hydronium ions, the two electrons, and the other hydronium ion is, just, he's he's he's with him, he's, <U WHO="S2"> oh okay </U> he's ionically attracted to this guy. </U>
+			<U WHO="S2"> oh okay that's why they're there. <U WHO="S1"><OVERLAP> okay, so </OVERLAP></U><OVERLAP> cuz i always </OVERLAP> wondered why they always added plus H </U>
+			<U WHO="S1"> right, <U WHO="S2"><OVERLAP> (xx) </OVERLAP></U><OVERLAP> so, </OVERLAP> what happens is, the electron that that guy brings in, is_ i mean the hydronium ion that guy brings in is the one pumped across. and the hydronium ion he bri- also brings in, is that one that goes across. <U WHO="S2"> oh okay </U> okay? </U>
+			<U WHO="S3"> it says like there're two shuttles, what are the shuttles? this? <U WHO="S1"> two shovels? </U><U WHO="S2"><OVERLAP> shuttle </OVERLAP></U><OVERLAP> shuttle, </OVERLAP> shuttles. </U>
+			<U WHO="S1"> shuttles, <OVERLAP> okay, what's the </OVERLAP><U WHO="S3"><OVERLAP> yeah. this one of 'em? </OVERLAP></U> other shuttle? does that look like a shuttle to you? </U>
+			<U WHO="S3"> what's a <OVERLAP> shuttle? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> is it </OVERLAP> something that, something that moves transports </U>
+			<U WHO="S3"> yeah, <OVERLAP> it takes back and forth </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so is that a shuttle? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> looks like it. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so the Q </OVERLAP></U>
+			<U WHO="S1"> that's a shuttle. uh is that a shuttle? </U>
+			<U WHO="S3"><OVERLAP> yeah, looks like it. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yes </OVERLAP></U>
+			<U WHO="S1"> that's a shuttle, right? </U>
+			<U WHO="S2"> yes </U>
+			<U WHO="S3"> yeah. how come that's not a shuttle? it takes it. </U>
+			<U WHO="S2"> because it's putting it in, it's <OVERLAP> like going </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> that </OVERLAP> goes that way. <U WHO="S3"> oh, okay </U> it is a shuttle, <OVERLAP> basically </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> isn't that </OVERLAP> just going in by itself though <U WHO="S1"><OVERLAP> yeah, it's going down its gradient </OVERLAP></U><OVERLAP> it's sort of like, this thing is a- </OVERLAP> actually using stuff to go out. </U>
+			<U WHO="S1"><OVERLAP> right </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but it says </OVERLAP> two </U>
+			<U WHO="S1"> yeah there is two, what's <OVERLAP> the other one? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but that's </OVERLAP> three. </U>
+			<U WHO="S1"> tha- no, we're talking about N-A-D-H having two shuttles. <U WHO="S3"> oh </U> so where is <U WHO="S2"><OVERLAP> one and three </OVERLAP></U><OVERLAP> N-A-D-H's </OVERLAP> other shuttle? </U>
+			<U WHO="S2"> isn't it one and three? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S3"> four? one and four? </U>
+			<U WHO="S1"> okay, does N-A-D-H come, to three? three gets its energy for pumping the electrons, o- for pumping the protons, from the electrons that, these guys have passed along. <U WHO="S3"> mhm </U> so only one and two are actually <U WHO="S2"><OVERLAP> shuttle </OVERLAP></U><U WHO="S3"><OVERLAP> oh </OVERLAP></U> interacteri- interacting with, interactering? <EVENT DESC="LAUGH"/> interacting with, N-A-D-H, and F-A-D-H-two. </U>
+			<U WHO="S2"> so, she said the two shuttles for a- for </U>
+			<U WHO="S1"> for N-A-D-H. there's another shuttle for N-A-D-H. </U>
+			<U WHO="S2"> but that's not listed there </U>
+			<U WHO="S1"> it's not on that picture. where is it? </U>
+			<U WHO="S2"> isn't it, i don't know. is it like, isn't it like the, ubiquinone, that shuttles the </U>
+			<U WHO="S1"> where else do you get, N-A-D-H? you get it from the <U WHO="S2"><OVERLAP> elect- </OVERLAP></U><OVERLAP> citric </OVERLAP> acid cycle, which takes place, in the <OVERLAP> cytosol. </OVERLAP><U WHO="S2"> in the <OVERLAP> mito- </OVERLAP> yeah. </U> do you get_ sorry i spit everywhere. do you get um, <U WHO="S3"> N-A-D-H </U> N-A-D-H from glycolysis? </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> yes </U>
+			<U WHO="S1"> and where does glycolysis take place? </U>
+			<U WHO="S3"> in the mitochondria? <OVERLAP> no no no </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> in the </OVERLAP> s- <OVERLAP> s- </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> no </OVERLAP></U>
+			<U WHO="S2"> it's like, <U WHO="S1"><OVERLAP> no </OVERLAP></U><OVERLAP> outside </OVERLAP> of the, mitochondria? </U>
+			<U WHO="S1"> right where what's outside the mitochondria? </U>
+			<U WHO="S2"> the <U WHO="S3"><OVERLAP> cy- </OVERLAP></U><OVERLAP> plasmal </OVERLAP> membra- <OVERLAP> no, cytos- </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> cytosol </OVERLAP></U>
+			<U WHO="S1"> cytosol. so, there has to be some kind of shuttle <U WHO="S3"><OVERLAP> in the cytosol? </OVERLAP></U><OVERLAP> on the outer </OVERLAP> membrane here, <U WHO="S3"> okay </U> that, increases the Hs in here. <U WHO="S2"><OVERLAP> oh </OVERLAP></U><OVERLAP> what's, </OVERLAP> where's that shuttle? show me a picture there's a picture. </U>
+			<U WHO="S3"> this one. </U>
+			<U WHO="S1"> does that look like the right picture? </U>
+			<EVENT DUR=":05" WHO="S1" DESC="PAUSE WHILE READING"/>
+			<U WHO="S2"> isn't there like, i- that (simport) and antiport some- something like that? A-T-P, <U WHO="S1"><OVERLAP> okay </OVERLAP></U><OVERLAP> or something </OVERLAP> isn't it shuttle? no </U>
+			<U WHO="S3"> what? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> sorry i had to laugh. <EVENT WHO="S3" DESC="LAUGH"/> i wasn't laughing at you. </U>
+			<U WHO="S3"> you're laughing with me? </U>
+			<U WHO="S1"> yeah. wet ones. </U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> um, </U>
+			<U WHO="S1"> maybe there is another picture, hm. <OVERLAP> (i think there was) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> okay can </OVERLAP> you just tell us? </U>
+			<U WHO="S2"> so what i said was wrong? <OVERLAP> like there's no </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i can't find it. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> what </OVERLAP> you said was wrong um i, what did you say? </U>
+			<U WHO="S2"> the one you were laughing at the, N-A-D-H with the, thing going (in) </U>
+			<U WHO="S1"> i wasn't laughing at you... i was laughing at something else, like i think of things and i laugh. okay... </U>
+			<U WHO="S3"> okay, so what is it? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"><OVERLAP> okay </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> there </OVERLAP> was a picture wasn't there? </U>
+			<U WHO="S2"> can't it move cuz it's charged already? so, oh no <OVERLAP> cuz the lipid it m- </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> no char- </OVERLAP> if it's charged it can't move through the membrane. </U>
+			<U WHO="S1"> what's that? what's that? </U>
+			<U WHO="S3"> F-A-D, complex three... cytosolic </U>
+			<U WHO="S2"> cyto- </U>
+			<U WHO="S3"><OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> let him read it too. </OVERLAP></U>
+			<U WHO="S3"> that's not a shuttle. </U>
+			<U WHO="S2"> that's an enzyme. </U>
+			<U WHO="S1"> how is that not a shuttle? </U>
+			<U WHO="S3"> it's not a complex. <U WHO="S2"><OVERLAP> it's an enzyme </OVERLAP></U><OVERLAP> it's an enzyme. </OVERLAP> your enzyme is your shuttle? </U>
+			<U WHO="S1"> no, <U WHO="S2"><OVERLAP> you mean </OVERLAP></U><OVERLAP> what </OVERLAP> are we doing here? </U>
+			<U WHO="S2"> oh you're changing G <OVERLAP> three P </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> we're changing </OVERLAP> N-A-D-H, <U WHO="S3"> mhm </U> and we're making it </U>
+			<U WHO="S2"> so that's the shuttle? </U>
+			<U WHO="S3"> the malate aspartate </U>
+			<U WHO="S2"> shuttle </U>
+			<U WHO="S1"> right, read that section <U WHO="S3"><OVERLAP> oh okay so </OVERLAP></U><OVERLAP> real quick. </OVERLAP> read the section so you understand what's going on don't just, <EVENT DESC="LAUGH"/> write down words. </U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> did you know the name of it or, </U>
+			<U WHO="S1"> 'm'm </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> should i start studying for the exam today? </U>
+			<U WHO="S3"> yeah. </U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<U WHO="S2"> i don't know. </U>
+			<U WHO="S1"> it's all highlighted for you. read the two highlighted portions. </U>
+			<U WHO="S3"> there's one sentence. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"><SEG TYPE="READING"> the most active N-A-D-H shuttle </SEG></U>
+			<U WHO="S3"> so that's three shuttles then. </U>
+			<U WHO="S1"> where are there three shuttles? read the two highlighted sections. read the second highlighted section. </U>
+			<U WHO="S3"> okay it says shuttle, this says shuttle i thought complex </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> not just the word shuttle </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> i know <OVERLAP> but </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> read </OVERLAP> the entire part </U>
+			<U WHO="S3"> okay, i see that but i thought complex one was, also a shuttle. </U>
+			<U WHO="S1"> it is a shuttle. </U>
+			<U WHO="S3"> so that means there are three shuttles, not two. </U>
+			<U WHO="S1"> what are the three shuttles? </U>
+			<U WHO="S3"> the, malate aspartate shuttle <U WHO="S1"> mhm </U> the glycerol-three-phosphate shuttle and, complex one. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> um is the malate aspartate shuttle another name for, complex one? </U>
+			<U WHO="S3"> is it? i'm assuming so. </U>
+			<U WHO="S1"> you tell me. </U>
+			<U WHO="S3"> oh yeah, it is. </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> how would i know that? <PAUSE DUR=":08"/> not this, this is not the same as complex one, right? <U WHO="S3"> yeah </U><SEG TYPE="READING"> delivers reducing equivalence </SEG></U>
+			<PAUSE DUR=":34"/>
+			<U WHO="S3"> well that took you long enough <EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> i'm a slow eater. <PAUSE DUR=":11"/> okay, now, what happens here? <SEG TYPE="READING"> the reducing equivalents of cytosolic N-A-D-H, are first transferred to cytosolic oxaloacetate, to yield malate by the reaction, of cytosolic malate dehydrogenase. </SEG> look at this picture. <U WHO="S3"> yeah </U> malate aspartate shuttle. you don't actually, form any kind of um, any kind of a, you're just getting the N-A-D-H into the, intermembrane space so it can, react with complex one. so you only have complex one and glycerol-three-phosphate. okay? <U WHO="S3"><OVERLAP> uhuh </OVERLAP></U><OVERLAP> this </OVERLAP> those are the actual complexes okay? <U WHO="S3"><OVERLAP> uhuh </OVERLAP></U><OVERLAP> that, </OVERLAP> do the whole, </U>
+			<U WHO="S3"> thing </U>
+			<U WHO="S1"> thing. this, is it's called a shuttle, i guess it yeah i guess it is another shuttle. um, yeah those are two shuttles, yeah. </U>
+			<U WHO="S2"> so the only two complex shuttles are G-three-P and complex one. </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S2"> oh okay. </U>
+			<U WHO="S1"> those are the <OVERLAP> complex shuttles because </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so those are the two </OVERLAP> she's asking for </U>
+			<U WHO="S1"> i_ she also wants to know, about this one. so she's asking fo- she's actually asking for_ when she says shuttles she means these two shuttles. this one is also, <U WHO="S2"> oh okay </U> um, creating a gradient, okay? </U>
+			<U WHO="S3"> so complex, if it was like, on your exam, what are the two shuttles A B C, and D? <U WHO="S2"><OVERLAP> she's not gonna </OVERLAP></U><OVERLAP> and is it malate </OVERLAP> aspartate, and glycerol-three-phosphate shuttle? </U>
+			<U WHO="S1"> you would say those two. </U>
+			<U WHO="S3"> okay not complex one? </U>
+			<U WHO="S2"> well <U WHO="S1"><OVERLAP> well, </OVERLAP></U><OVERLAP> co- </OVERLAP> complex one isn't a shuttle really <U WHO="S1"> really </U> cuz it's not moving right <U WHO="S3"> okay </U> it's just allow- isn't it just allowing? cuz there's it's like these things are like actual processes, like complex one's just there, <U WHO="S1"> um, </U> like in the, lipid. it doesn't move in </U>
+			<U WHO="S1"> yeah okay, i guess you could say that. </U>
+			<U WHO="S2"> well i don't <OVERLAP> know </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> okay </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> like </OVERLAP> this one is <U WHO="S3"><OVERLAP> good </OVERLAP></U><OVERLAP> what </OVERLAP> i consider a classic shuttle. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S3"><OVERLAP> good </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> this </OVERLAP> one is not really a shuttle <OVERLAP> but whatever, they call it a shuttle. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> s- so a shuttle, what do you </OVERLAP> define a shuttle as then? </U>
+			<U WHO="S1"> well, this is a way of getting N-A-D-H from </U>
+			<U WHO="S2"> one point to another </U>
+			<U WHO="S1"> from one point to another. and it's shuttled because it, um, it is transferred, the electrons from it are transferred, to something else, yeah. yeah. and then, that thing can move across the membrane and then make N-A-D-H again on the other side of the membrane, and then um, and then interact with complex one. <U WHO="S2"> okay </U> okay? this thing, i guess it's a shuttle, i mean if you really wanna call it that, <U WHO="S2"> (yeah i- i-) </U><SEG TYPE="READING"> an alternative means of moving, reducing equivalents from the cytosol, to the mitochondria matrix, dihydroxyacetone-phosphate in the cytosol accepts two, reducing equivalence from cytosolic N-A-D-H, in a reaction catalyzed by cytosolic glycerol-three-phosphate dehydrogenase, and then bring about isosome of, isosyme of, glycerol-three-phosphate. </SEG></U>
+			<U WHO="S2"> yeah, what i- what is an isosyme? isn't it something that can catalyze two different things? is that what's </U>
+			<U WHO="S1"> what's an isosyme? what's an enzyme? </U>
+			<U WHO="S3"> a catalyst. </U>
+			<U WHO="S1"> so what's an isosyme? </U>
+			<U WHO="S3"> it can do two </U>
+			<U WHO="S2"> it can do, <OVERLAP> take two different things? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> iso- </OVERLAP></U>
+			<U WHO="S1"><SEG TYPE="READING"> an enzyme bound isosyme, of glycerol-three-phosphate dehydrogenase. </SEG> so, we have glycerol-three-phosphate dehydrogenase, and then we have this isosyme of that. <OVERLAP> so, </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so it's </OVERLAP> like something different. but it's similar <OVERLAP> to is </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it's </OVERLAP> yeah it does the same functions, </U>
+			<U WHO="S2"> but it's different <OVERLAP> in structure. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> but it's different, </OVERLAP> right. </U>
+			<U WHO="S2"> oh so like an amino acid could have a different residue, but it could still do the same thing. </U>
+			<U WHO="S1"> an amino acid could have <OVERLAP> a different residue? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> no, like </OVERLAP> you know how like histine like, <U WHO="S1"> okay <OVERLAP> amino acids are </OVERLAP></U><OVERLAP> i mean like i mean </OVERLAP> i mean it's like, like if something's attached to a his- histine, w- and then something's attached to like a serine, but they catalyze the same thing. <U WHO="S1"> right, <OVERLAP> exactly </OVERLAP></U><OVERLAP> yeah that's wh- </OVERLAP> that's what i meant </U>
+			<U WHO="S1"> that's an isosyme </U>
+			<U WHO="S2"> oh okay. </U>
+			<U WHO="S1"> but you could also call those mutants because, you changed one amino acid. but if they exist in two different forms in, the body, <U WHO="S2"> oh </U> then, they're called isosymes. like, if they classically exist. but if you go in and you change this one amino <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> acid residue, </OVERLAP> to something else it's called a mutant. <U WHO="S2"> oh okay </U> you could also call it an isosyme, if you want. </U>
+			<U WHO="S2"> oh okay. okay i understand that now. </U>
+			<U WHO="S3"> okay, could we do, steps responsible for generating, the hydrogen ion gradient. </U>
+			<U WHO="S1"> okay. what_ how do you do that? <EVENT WHO="S3" DESC="LAUGH"/> what is that? </U>
+			<U WHO="S3"> just do it on the board. <OVERLAP> and like </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> isn't that just like ca- </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay, go up to the board </OVERLAP></U>
+			<U WHO="S3"> i don't know it, though. but you can help me (probably) </U>
+			<U WHO="S1"> how do you, how are you pumping <U WHO="S2"><OVERLAP> (well) </OVERLAP></U><OVERLAP> the </OVERLAP> electr- uh the hydrogens across? we just went over that. </U>
+			<U WHO="S2"><OVERLAP> they go </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh, through the </OVERLAP> complex (so do the) complex, (thing) </U>
+			<U WHO="S2"> one, one three and four. <U WHO="S1"> right </U><U WHO="S3"> yeah </U> and that creates a gradient cuz when it comes back in, like i- that's what makes it allowed, allowed back in. <U WHO="S1"><OVERLAP> right </OVERLAP></U><OVERLAP> and the- </OVERLAP> and then it allows the, what is it, what was it th- A-T-P can come out of that? or, yeah the A-D-P can attach to that and phosphorylate it, A-T-P </U>
+			<U WHO="S3"> so it's basically, okay N-A-D, goes N-A-D-plus, and from this, four, come out? <U WHO="S2"> yeah, and then that makes <OVERLAP> this </OVERLAP></U><OVERLAP> so do </OVERLAP> you have two of these then? <U WHO="S1"> yes. </U> okay. <U WHO="S2"> then </U> then </U>
+			<U WHO="S3"><OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> why </OVERLAP> do you have two of them? </U>
+			<U WHO="S3"> because, from glycolysis. </U>
+			<U WHO="S1"> mm, let's look at that little chart they have for you. <OVERLAP> where's that chart? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> you get two </OVERLAP> pyruvates. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"> so there's two, in the matrix, <U WHO="S3"> mhm </U> uh, and then, that's from the pyruvate oxidation. and, six from, the citric acid cycle, two from glycolysis, and you also have two A-T-Ps from glycolysis, and you have two F-A-D-H-twos from, citric acid cycle, and two A-T-Ps or G-T-Ps from the citric acid cycle. </U>
+			<U WHO="S3"> okay, so that's all you they want you know when they mean the, the g- ion gradient is just that read_ like, those steps? like this thing right here right? <U WHO="S1"> right. </U> okay </U>
+			<U WHO="S2"> doesn't the H then sort of go through doesn't it leak out here, <OVERLAP> on the side </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> so there, </OVERLAP> is the overall nine? <OVERLAP> that come out, that like </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> overall what nine? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> no eight </OVERLAP> eight </U>
+			<U WHO="S3"> well how <U WHO="S2"> no </U> you get four four two and one comes back in. </U>
+			<U WHO="S2"> oh no ten, ten </U>
+			<U WHO="S3"> yeah so it'd be, ten but, that would make it nine. cuz you get four pumped out four pumped out, two gets pumped out, and then, it looks like one gets pumped back <OVERLAP> in </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no, </OVERLAP> is it pumped back in <U WHO="S2"> no </U> or is it falling down its gradient? it's falling through that channel down its gradient. and it falling through the gradient enables, the formation, and release of A-T-P. </U>
+			<U WHO="S3"> okay well, falling down its gradient but it comes back into the matrix </U>
+			<U WHO="S1"><OVERLAP> after it's pumped. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> but it's not using energy. it's just </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah. </OVERLAP></U>
+			<U WHO="S1"> okay so you pump those, w- however many across. </U>
+			<U WHO="S3"> okay if i give you ten dollars and somehow i get one dollar back, i have nine dollars. </U>
+			<U WHO="S1"> but you also got an A-T-P out of it. <U WHO="S3"> okay </U> so you've, gotten a result. <U WHO="S3"> okay </U> okay? </U>
+			<U WHO="S2"> these take more <OVERLAP> energy to pump i- this thing just goes in, like i- </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> (it just) happens. it just falls. </OVERLAP><U WHO="S3"><OVERLAP> okay </OVERLAP> okay </U> it doesn't_ nothing's happening <OVERLAP> there. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> how co- </OVERLAP> how come here they say, it goes through there. doesn't it go out through this little hole here? and that's, that's what i saw in m- our book. </U>
+			<U WHO="S1"> i don't think it really matters, where it comes out <OVERLAP> from </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> just, </OVERLAP> just know it goes in (there) </U>
+			<U WHO="S1"> i mean it just, falls down its gradient. it it could, i i don't know, where, it i mean they it's n- a- tha- </U>
+			<U WHO="S2"> cuz this is the thing that rotates, <OVERLAP> isn't it? so, </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right. it </OVERLAP> hasn't been solved. the structure hasn't, <U WHO="S2"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> like the </OVERLAP> complete structure has not been solved. </U>
+			<U WHO="S2"> oh there's still </U>
+			<U WHO="S1"> there's still some iffy, it's hypothesized, <U WHO="S2"> oh okay </U> you know </U>
+			<U WHO="S3"> i'm like sketchy on these steps ri- like this, okay right here, okay four, gets pumped out, then, the electrons, what does, complex two do here? <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> what happens </OVERLAP> between succinate and fumarate in the citric acid cycle? look up there. succinate and fumarate, what do you get, at that point? </U>
+			<U WHO="S3"> dehydrog- like it, so yeah <OVERLAP> you lose </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> what do </OVERLAP> you get, though? you get something, at that point. </U>
+			<U WHO="S3"> um, </U>
+			<U WHO="S1"> what do you get? </U>
+			<U WHO="S3"> phosphorylater? no </U>
+			<U WHO="S2"><OVERLAP> carbon dioxide s- </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay, </OVERLAP> you get <OVERLAP> N-A-D-H from other steps, what else do you get? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> you get water don't you? don't you put water in? </OVERLAP></U>
+			<U WHO="S1"> what do you get from that step? </U>
+			<U WHO="S3"> here <EVENT DESC="POINTS TO BOARD"/><OVERLAP> A-T-P </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no </OVERLAP> from succinate to fumarate, what do you get? you get something. it starts with an F. </U>
+			<U WHO="S3"> F? </U>
+			<U WHO="S1"><OVERLAP> F. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> F- </OVERLAP> A-D-H? </U>
+			<U WHO="S1"> F-A-D-H-two. <U WHO="S3"> oh. </U> so you get, one, per cycle. and that enzyme, that goes from succinate to fumarate, is complex three. it's, membrane bound, so it can't, float around like the other guys are all, like soluble in water so they're all, <U WHO="S2"> these ones? </U> hanging out down here. no, not these guys. </U>
+			<U WHO="S2"> oh, <U WHO="S1"><OVERLAP> the- complex </OVERLAP></U><OVERLAP> this is part </OVERLAP> of the Krebs cycle? </U>
+			<U WHO="S1"> yeah complex two is, that enzyme, <U WHO="S2"><OVERLAP> oh, oh okay </OVERLAP></U><OVERLAP> is the enzyme th- from succinate </OVERLAP> to fumarate. </U>
+			<U WHO="S2"> but they just separated it. </U>
+			<U WHO="S1"> they separated it, right. <U WHO="S2"> oh okay </U> so that enzyme is membra- membrane bound, it's the <U WHO="S2"><OVERLAP> oh </OVERLAP></U><OVERLAP> only </OVERLAP> member of the citric acid cycle that is membrane bound. </U>
+			<U WHO="S2"> oh okay i under- <U WHO="S1"><OVERLAP> okay? </OVERLAP></U><OVERLAP> oh so that's </OVERLAP> how they relate. </U>
+			<U WHO="S1"> right, <U WHO="S2"> oh okay </U> that's how they relate. you also get the N-A-D-Hs from there, that come in here. so that's an- another way. </U>
+			<U WHO="S2"> so all these other ones are just like somewhere else? i mean i mean <U WHO="S1"><OVERLAP> they're no- </OVERLAP></U><OVERLAP> no those </OVERLAP> ones are somewhere else but, these <OVERLAP> are always attached, oh okay those, are floating. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah the- those, a- all of those enzymes are_ </OVERLAP> are what? </U>
+			<U WHO="S2"> they're floating? </U>
+			<U WHO="S1"> they're floating yeah <OVERLAP> they can </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> except </OVERLAP> except this one. </U>
+			<U WHO="S1"> they can hang out, in the <U WHO="S3"><OVERLAP> oh okay. oh s- </OVERLAP></U><OVERLAP> cytosol because they're, </OVERLAP> hydrophilic. this guy's hydrophobic. </U>
+			<U WHO="S2"> oh okay <U WHO="S1"><OVERLAP> okay? </OVERLAP></U><OVERLAP> so </OVERLAP> that's th- why it's stuck there. <U WHO="S1"> right. </U> and that's tha- oh okay. </U>
+			<U WHO="S1"> right, okay? </U>
+			<U WHO="S2"> okay, i didn't know that. </U>
+			<U WHO="S1"> yeah they don't explain that in the book at all, i think. and that's really bad. <U WHO="S2"> oh </U> they don't say, oh <OVERLAP> by the way guys this is </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> cuz it seemed separate </OVERLAP> but now it <U WHO="S1"><OVERLAP> yeah </OVERLAP></U><OVERLAP> seems </OVERLAP> like, <OVERLAP> okay </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> what? </OVERLAP></U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> the enzyme that goes from succinate to fumarate, of the citric acid cycle, <U WHO="S3"> yeah </U> is complex three. </U>
+			<U WHO="S3"> oh, so this is complex three. <EVENT DESC="WRITING ON BOARD"/></U>
+			<U WHO="S1"> yes, you can write complex three up there. <U WHO="S3"> okay </U> it also has a name. what is the name of it? </U>
+			<U WHO="S3"> the enzyme? </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S3"> succinate dehydrogenase? </U>
+			<U WHO="S1"> i actually <OVERLAP> don't know </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> that's two, </OVERLAP></U>
+			<U WHO="S1"> is that it? </U>
+			<U WHO="S2"> complex three is something else. </U>
+			<U WHO="S1"> well we're, talking about complex two. <OVERLAP> what is complex </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh yeah </OVERLAP> succinate <OVERLAP> dehydrogenase </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay then. </OVERLAP> so, </U>
+			<U WHO="S3"> is it? </U>
+			<U WHO="S2"> yeah it's, cuz it's... <U WHO="S3"><OVERLAP> okay, cool. </OVERLAP></U><OVERLAP> h- h- how </OVERLAP> do you find a best way to study for this? cuz like last time i read the chapter and did the practice tests. and i did the study guide. </U>
+			<U WHO="S1"> you did all of that? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S1"> very good. <OVERLAP> well i wouldn't </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> could just do </OVERLAP> that again. </U>
+			<U WHO="S1"><OVERLAP> in the study guide, okay. do you have your study guide? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> but i didn't really understand like every single idea. </OVERLAP> no. </U>
+			<U WHO="S1"> okay. in the study guide, <U WHO="S3"><OVERLAP> those, questions are worthless. </OVERLAP></U><OVERLAP> there's like, some que- </OVERLAP> yeah some questions are worthless. <OVERLAP> like, </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh, </OVERLAP> like she tells us some questions to look at on our web page. </U>
+			<U WHO="S1"> okay i would do that definitely <U WHO="S2"><OVERLAP> yeah </OVERLAP></U><OVERLAP> look at </OVERLAP> those questions, but some of those questions are very, <U WHO="S3"><OVERLAP> specific </OVERLAP></U><OVERLAP> specific, </OVERLAP><U WHO="S2"> oh s- </U> and you don't really need to know them. <U WHO="S2"> okay. </U> i would focus on, the crossword puzzle, <U WHO="S2"> oh okay </U> and the stuff <U WHO="S3"> really? </U> in the same chapter after the crossword puzzle like there's </U>
+			<U WHO="S3"> stuff like, what you know, <OVERLAP> applying what you know </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah, the what you know </OVERLAP> thing </U>
+			<U WHO="S3"> um, there's a multiple choice stuff and all that </U>
+			<U WHO="S1"> right. and then there's one thing after the multiple choice that's like, it's like, you know apply the knowledge or something like that, <U WHO="S2"> oh okay </U> but the stuff before, </U>
+			<U WHO="S3"> yeah that's <OVERLAP> that's all, garbage. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> the cr- crossword puzzle? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> you mean li- oh the stuff </OVERLAP> that i sort of wasted my time on? <U WHO="S1"> yeah, <OVERLAP> the stuff before the crossword puzzle? </OVERLAP></U><OVERLAP> that's why it, it seemed like </OVERLAP> after i did all that like, what am i doing? </U>
+			<U WHO="S1"> yeah, exactly it's like way specific and you have to like hunt for everything in the book </U>
+			<U WHO="S3"><OVERLAP> mhm </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> and it's </OVERLAP> wasting my time, <U WHO="S1"> exactly </U> cuz it took a long time for me to do it. </U>
+			<U WHO="S1"> i mean if it actually helps you learn it, <U WHO="S2"> oh it di- <OVERLAP> it didn't though </OVERLAP></U><OVERLAP> then, </OVERLAP> i would do it. but if it doesn't, <OVERLAP> then don't. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> it like sort of </OVERLAP> made me, waste more time <U WHO="S1"> yeah </U> staying up late. </U>
+			<U WHO="S1"> it will sorta make you hate, biochemistry. <U WHO="S2"> oh okay </U> okay. </U>
+			<U WHO="S2"> oh okay that's <OVERLAP> (see s-) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> although i don't </OVERLAP> right now though. </U>
+			<U WHO="S1"> don't you? okay </U>
+			<U WHO="S3"> i do. i hate this class. </U>
+			<U WHO="S1"> wha- oh, okay. </U>
+			<U WHO="S2"> i like organic chemistry better than this. </U>
+			<U WHO="S1"> okay what else? </U>
+			<U WHO="S3"><SEG TYPE="READING"> be able to calculate the net yield of A-T-P (xx) </SEG> so that's like the equation stuff? oh like yeah let's go over this theory and, what, like the experimental evidence that supports it. like it it describes what it is but it doesn't really tell you. like, they it says like this is it, this is <OVERLAP> the theory you know? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay tell me </OVERLAP><EVENT DESC="LAUGH"/> what the chemiosmotic theory is. </U>
+			<U WHO="S3"> tran- uh electrons that are transferred, along the respiratory chain </U>
+			<U WHO="S2"> yeah that's the picture. </U>
+			<U WHO="S3"> yeah tha- that's it </U>
+			<U WHO="S2"><OVERLAP> yeah they, told us. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay well read the, </OVERLAP><U WHO="S3"><OVERLAP> okay </OVERLAP></U><OVERLAP> definition </OVERLAP> to me. </U>
+			<U WHO="S3"><SEG TYPE="READING"> is accompanied by, outward pumping of protons across the inner, mitochondrial membrane which results in the transmembrane difference, in proton concentration, and thus in P-H. the matrix becomes, al- becomes alkaline, alkaline relative to the cytosolic side, of the membrane. </SEG> okay. so it's basically in the picture. <U WHO="S2"> yeah </U> but </U>
+			<U WHO="S2"><OVERLAP> it's, that's what the </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay where's the, experimental </OVERLAP> evidence for it? </U>
+			<U WHO="S2"> didn't they do that, that, <U WHO="S3"><OVERLAP> oh </OVERLAP></U><OVERLAP> chromatography, </OVERLAP> thing? </U>
+			<U WHO="S3"> is it like, i think it was kind of in our notes but, <U WHO="S2"> yeah </U> like if you change the P-H or whatever and stuff will happen <U WHO="S1"><OVERLAP> okay </OVERLAP></U><OVERLAP> then </OVERLAP> like A-T-P goes down then stuff will happen </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S1"> can you go backwards? can i go from A-T-P, <U WHO="S2"> no </U> to A-D-P? </U>
+			<U WHO="S2"> no. </U>
+			<U WHO="S1"> no? </U>
+			<U WHO="S2"> aren't you going from like a really high energy to a low energy? </U>
+			<U WHO="S1"> so if i_ this i- you're saying that this enzyme, won't go backwards. it won't go from A-T-P to A-D-P plus a pho- <U WHO="S3"><OVERLAP> oh no </OVERLAP></U><OVERLAP> inorganic </OVERLAP> phosphate. </U>
+			<U WHO="S2"> oh no i guess it can. </U>
+			<U WHO="S1"> it ca- it will. <U WHO="S2"> cuz </U> if it's in that environment, <U WHO="S2"> yeah in the right </U> that enables it, it will <OVERLAP> do that. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> like </OVERLAP> when they separate. i think they showed us like, they did some kind of chromatography for all the different, like, i- i- in our book they had a picture of that, <U WHO="S1"> okay </U> different colors, that represented each one of these <U WHO="S1"><OVERLAP> okay </OVERLAP></U><OVERLAP> and </OVERLAP> tha- that's how they found all these </U>
+			<U WHO="S1"> so, in your book i- has, did they say that the structure of this is totally solved? </U>
+			<U WHO="S2"> no, they just showed us all these like, protein structures. </U>
+			<U WHO="S1"> did they say the structure of this guy's totally solved? </U>
+			<U WHO="S2"> um, <OVERLAP> i didn't really, i didn't really know it wasn't solved or not. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> cuz this is a really old book. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i don't know. i don't think so. </OVERLAP></U>
+			<U WHO="S2"> all i know is they just showed us a lot of like, <OVERLAP> they sh- </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> that's the one </OVERLAP> that turns around, like that <OVERLAP> right? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yeah </OVERLAP> they showed us like lots of pictures of that, and all the different, alpha, there's like three alpha and three beta. <U WHO="S1"> okay. </U> and like, there's like an empty space. <OVERLAP> there's one with A-D-P </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i'm gonna buy a </OVERLAP> C-D today guys. okay. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S3"> that was random. </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S1"> i know i just thought of it <OVERLAP> that i'm gonna buy it today </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"><OVERLAP> and then it, sorta moves </OVERLAP> and that's how they, that's how the A-T-P changes to, A-T-P </U>
+			<U WHO="S1"> okay, will A-D-P and the inorganic phosphate, w- make A-T-P, uh, without the hydrogen pump? or without this, falling down its gradient? </U>
+			<U WHO="S3"> no </U>
+			<U WHO="S2"> no </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S3"> needs it. </U>
+			<U WHO="S2"> cuz there's no, nothing to move it, make it move in a circle. <OVERLAP> doesn't, right? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it actually </OVERLAP> will, make the A-T-P, it just won't release the A-T-P. </U>
+			<U WHO="S3"> oh </U>
+			<U WHO="S2"> oh okay, so that's why you need the hydrogens. </U>
+			<U WHO="S1"> the hydrogens fall down their gradient forcing, this F-one complex <U WHO="S2"><OVERLAP> turn </OVERLAP></U><OVERLAP> to turn, </OVERLAP> when it turns, it releases <OVERLAP> the A-T-P </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yeah, </OVERLAP> so it's like a mach- a machine. <U WHO="S1"><OVERLAP> yeah it's </OVERLAP></U><OVERLAP> like the </OVERLAP> quarter machine, you put in your money. </U>
+			<U WHO="S1"> it's the world's smallest machine. that's what, my s- teacher calls it. okay. <U WHO="S3"> okay </U><U WHO="S2"> oh okay </U> world's smallest motor. okay? what else? </U>
+			<U WHO="S2"> oh yeah do you think the cell map is good to study like, we should make the cell map <OVERLAP> and then study </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i didn't use </OVERLAP> it to study, but i mean if it really <OVERLAP> helps you stu- </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> cuz we have to make one </OVERLAP> anyway <OVERLAP> so i might as well. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah, you might as </OVERLAP> well, yeah. it'll help you study when you're doing it, and then if you wanna post it on your wall and like try to m- you know memorize it <OVERLAP> you can. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> oh okay. </OVERLAP></U>
+			<U WHO="S3"> have we got, to uh carbohydrate ma- metabolism yet? </U>
+			<U WHO="S1"> have you? </U>
+			<U WHO="S3"> i don't know, <OVERLAP> don't think so </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> mm </OVERLAP></U>
+			<U WHO="S1"> what ab- what about uh, glucagon and, <U WHO="S3"> (all of that?) </U><OVERLAP> all that stuff </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i- isn't it like, </OVERLAP> glucogenesis? </U>
+			<U WHO="S1"> glucogenesis? </U>
+			<U WHO="S2"> isn't that what they ca- <OVERLAP> that's what they called the </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> gluconeogenesis </OVERLAP> maybe? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> yeah. have you done that yet? i don't think you've <OVERLAP> done that. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i r- </OVERLAP> i read it </U>
+			<U WHO="S1"> oh okay. i don't think you've discussed <U WHO="S3"><OVERLAP> what is </OVERLAP></U><OVERLAP> it in class yet </OVERLAP> have you? gluconeogenesis? <U WHO="S2"> i <OVERLAP> don't know </OVERLAP></U><OVERLAP> did you </OVERLAP> discuss gluconeogenesis? </U>
+			<U WHO="S2"> no, i fell asleep in class though. <EVENT WHO="S1" DESC="LAUGH"/> like, <OVERLAP> i always get sleepy. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (that's a good place) </OVERLAP></U>
+			<U WHO="S1"> do you guys look at the notes that are on the web? </U>
+			<U WHO="S2"> i printed them out but i <U WHO="S3"><OVERLAP> yeah </OVERLAP></U><OVERLAP> never </OVERLAP> i don't look at 'em </U>
+			<U WHO="S3"> i look at that and i look at her uh, slides, yeah </U>
+			<U WHO="S1"> okay, so did you guys discuss gluconeogenesis yet? </U>
+			<U WHO="S3"> no </U>
+			<U WHO="S2"> no </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S3"> what is, okay, what about the, cyclic and noncyclic, foio- phosphorylation </U>
+			<U WHO="S1"> where are we? </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> what's, <OVERLAP> rubisco? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> have you guys done that yet? </OVERLAP></U>
+			<U WHO="S3"> i don't know. </U>
+			<U WHO="S1"> rubisco? </U>
+			<U WHO="S3"> i don't know </U>
+			<U WHO="S2"><OVERLAP> no we didn't </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> tha- she spends like </OVERLAP> a day on that. you would've remembered. </U>
+			<U WHO="S3"><OVERLAP> oh </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> mm </OVERLAP> well i gotta go now. </U>
+			<U WHO="S1"> okay. <OVERLAP> bye </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> (thanks) </OVERLAP></U>
+			<U WHO="S1"> are we done? oh we have ten more minutes. </U>
+			<U WHO="S3"> practically. <PAUSE DUR=":08"/> yeah, okay. um </U>
+			<EVENT DUR=":55" DESC="RECORDING RELATED CONVERSATION"/>
+			<U WHO="S1"> okay, mkay. okay what about this stuff? bioenergenics, glycolysis, </U>
+			<U WHO="S3"> i think we've, gone over glycolysis like, <OVERLAP> a ton of times </OVERLAP></U>
+			<U WHO="S1"> bioenergenics? <U WHO="S3"> hmm </U> do you have it memorized? </U>
+			<U WHO="S3"> what? </U>
+			<U WHO="S1"> glycolysis? </U>
+			<U WHO="S3"> the stats? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"> pretty much. </U>
+			<U WHO="S1"> you need to know. </U>
+			<U WHO="S3"> i pretty much know what happens. </U>
+			<U WHO="S1"> you can have this. <EVENT DESC="LAUGH"/><SEG TYPE="READING"> you will need to understand the different ways cells transduce and utilize energy. </SEG></U>
+			<U WHO="S3"> so glycol- glucose to, six </U>
+			<U WHO="S1"> okay, we're talking about <U WHO="S1"><OVERLAP> phosphate, okay </OVERLAP></U><OVERLAP> bioenergenics </OVERLAP><SEG TYPE="SINGING"> hm hm hm hm hm hm hm </SEG></U>
+			<U WHO="S3"> i don't know all those equations and stuff. </U>
+			<U WHO="S1"> oh well doesn't she give you them? <U WHO="S3"> yeah </U> okay. </U>
+			<U WHO="S3"> but like i won't know how to use them. </U>
+			<U WHO="S1"> you won't know how to use them? </U>
+			<U WHO="S3"> no. i'll have to look over 'em. <PAUSE DUR=":14"/> if it's a pyruvate it can be stored, or it could go (to) what, fermentation like lactate or <U WHO="S1"><OVERLAP> right </OVERLAP></U><OVERLAP> (xx) </OVERLAP> or it can enter the citric acid cycle. <U WHO="S1"> right </U> okay, good... </U>
+			<U WHO="S1"> are there any other fates? </U>
+			<U WHO="S3"> no they're only three. no there're th- </U>
+			<U WHO="S1"> what about all those anaplerotic reactions? </U>
+			<U WHO="S3"> yeah but, they tell you that like the th- it says the three fates of pyruvate. </U>
+			<U WHO="S1"> oh does it? oh. <U WHO="S3"> yeah, those are </U><EVENT DESC="LAUGH"/> well that was cool i turned to the right page. <U WHO="S3"> yeah... </U> okay, tell me about glucagon. </U>
+			<U WHO="S3"> isn't that what we did last time kind of? </U>
+			<U WHO="S1"> did we do that last time? </U>
+			<U WHO="S3"> okay if you have high g- if you have like a high glucose level then insulin will b- will release, but then if you don't then, glucagon will be released <U WHO="S1"><OVERLAP> right okay you got it, okay </OVERLAP></U><OVERLAP> and if it's, too high, </OVERLAP> then, it goes from phosphorylase B to A, if it's too high, if it's like the A-T-P concentration is high? </U>
+			<U WHO="S1"> the A-T-P concentration is high? </U>
+			<U WHO="S3"> A-T-P over A-D-P? </U>
+			<U WHO="S1"> so what is the active, form of that (xx) </U>
+			<U WHO="S2"> phosph- the A form, is the active form. yeah cu- phosphorylase B is <OVERLAP> a (inactive) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so if you have </OVERLAP> too much A-T-P, why would you <OVERLAP> want phosphorylase A to be added? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh no, you'd want B then. </OVERLAP><U WHO="S1"> right </U> yeah (xx) cuz you don't have enough okay. and what changes it is, phosphorylase kinase A? <U WHO="S1"><OVERLAP> okay, i don't remember </OVERLAP></U><OVERLAP> or, B i think it's B </OVERLAP> actually, i don't know. okay... </U>
+			<U WHO="S1"> so what's in the paper today? </U>
+			<U WHO="S3"> i don't know. </U>
+			<U WHO="S1"> are you voting tomorrow? </U>
+			<U WHO="S3"> no. </U>
+			<U WHO="S1"> why not? </U>
+			<U WHO="S3"> i'm not registered. </U>
+			<U WHO="S1"> that's sad. </U>
+			<U WHO="S3"> i'd have to go home anyways. </U>
+			<U WHO="S1"> what does that mean? you'd have to go home anyways </U>
+			<U WHO="S3"> cuz if i </U>
+			<U WHO="S1"> why can't you register here? </U>
+			<U WHO="S3"> oh, <U WHO="S1"><OVERLAP> i registered here </OVERLAP></U><OVERLAP> but i don't live in </OVERLAP> i don't live in Ann Arbor. so what's the point? just for one time? </U>
+			<U WHO="S1"> you only stay registered for a year. </U>
+			<U WHO="S3"> oh, you have to reregister every time? </U>
+			<U WHO="S1"> i'm pretty sure. no? </U>
+			<U WHO="S3"> no </U>
+			<U WHO="S1"> i don't remember. i don't know, i'm not even from, Michigan and i registered here. <OVERLAP> so my vote will be so important. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> well good for you, </OVERLAP> good for you. </U>
+			<U WHO="S1"> good for me? no, good for the country guys. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> i don't know. are you even from Michigan? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S3"> where are you from? </U>
+			<U WHO="S1"> Virginia. see my vote wouldn't count in Virginia but it counts in Michigan. </U>
+			<U WHO="S3"> so why didn't you just go to, University of Virginia? </U>
+			<U WHO="S1"> uh because, i knew too many people that went there. </U>
+			<U WHO="S3"> it's a better school than this. </U>
+			<U WHO="S1"> no it's not. </U>
+			<U WHO="S3"> yeah it is. </U>
+			<U WHO="S1"> no it's not </U>
+			<U WHO="S3"> yes it is </U>
+			<U WHO="S1"> no it's not. </U>
+			<U WHO="S3"> in the overall ranking it ranks higher. </U>
+			<U WHO="S1"> i- it's it's not better. it's not better. </U>
+			<U WHO="S3"> okay whatever. but that's okay. <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> and it's </OVERLAP> smaller, and it's just more disgusting, okay. </U>
+			<U WHO="S3"> but it's better. but anyways. it ranked higher. </U>
+			<U WHO="S1"> maybe it ranked higher this year but it didn't rank higher when i, accepted my, little, <U WHO="S3"> okay </U> thing to come here. can we continue? </U>
+			<U WHO="S3"> no we're done. it's four o'clock. </U>
+			<U WHO="S1"> we have, four more minutes. you're always complaining that we don't go over enough stuff. </U>
+			<U WHO="S3"> well i don't think i've learned anything in the last, three minutes </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> so, you haven't gotten to either of this yet? <U WHO="S3"> i don't think so </U> you didn't do any photosynthesis? </U>
+			<U WHO="S3"> oh, yeah well can we_ yeah, we have. like this is, the stuff right? <EVENT WHO="S1" DESC="LAUGH"/><PAUSE DUR=":04"/> yeah, there we go. there's only, two lectures left. tomorrow and Thursday. cuz the exam's next Tuesday. </U>
+			<U WHO="S1"> okay so i'm gonna ask a question real quick okay? </U>
+			<U WHO="S3"><OVERLAP> you may. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i'll quiz </OVERLAP> you in the last five minutes. </U>
+			<U WHO="S3"> hey, how's it going? </U>
+			<U WHO="S1"> um, oh, that wasn't good. um <PAUSE DUR=":06"/> you do not need to memorize the delta Gs for each reaction. <U WHO="S3"> nope </U> that's what she says. <SEG TYPE="READING"> what do the equations for delta G and reduction potential tell you about biochemical reactions in real cells? </SEG> oh, you need to fill out a, consent form. </U>
+			<U WHO="S3"> oh. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S1"> answer the question. </U>
+			<U WHO="S3"> um, if it's <PAUSE DUR=":05"/> if it's a, what's it called <PAUSE DUR=":05"/> if it's positive then it's in the spontaneous, i mean it's not spontaneous and it won't go forward. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> what about reduction potential, what is that? </U>
+			<U WHO="S3"> i have no idea. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S3"> mm mm </U>
+			<U WHO="S1"> i thought everybody would be jealous of us. no one is, though. </U>
+			<U WHO="R1"> some people have been. </U>
+			<U WHO="S1"> oh really? <U WHO="R1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> okay, </OVERLAP> good. </U>
+			<U WHO="S3"> what's that? </U>
+			<U WHO="S1"> they would be jealous of our pizza. </U>
+			<U WHO="S3"> oh. </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S1"> she's doing biochem too. </U>
+			<U WHO="S3"> that's the G-S-I. </U>
+			<U WHO="S1"> that's not the G-S-I. </U>
+			<U WHO="S3"> the one that's talking right now? <U WHO="S1"> mhm </U> yeah, she's my G-S-I. </U>
+			<U WHO="S1"> oh it sounded like somebody i knew. </U>
+			<U WHO="S3"> sorry. </U>
+			<PAUSE DUR=":08"/>
+			<EVENT DUR="1:56" DESC="RECORDING RELATED CONVERSATION"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

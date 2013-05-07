@@ -1,0 +1,694 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="tou999ju030">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Freshman Orientation Tour </TITLE>
+				<TITLE> Rackham Div: NA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> TOU999JU030 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales. (1999) The Michigan Corpus of Academic Spoken English. Ann Arbor, MI: The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES: NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="77">
+						<DATE> August 3, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with one wireless remote and one handheld mic </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Brooke Mays, Carrie Sue Kay Sulzer </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Final Editing, 11/16/99 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="15"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="13"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SU, Tour Leader" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="SG, Researcher" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="R2" LANG="NS" ROLE="SU, Researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-1" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-2" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-8" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-10" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-11" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU" LANG="NS" ROLE="JU, Student" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="JU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Walking tour of Central Campus beginning at East Quad and ending at the Grad Library </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT DUR="4:15" DESC="MICASE RECORDING ANNOUNCEMENT"/>
+			<U WHO="S1"> okay. so. i got a couple quick_ please listen to me please please please listen to me please listen to me, thank you. i got a couple quick administrative things to go through real quick. not only did i have to ask you about this English Language Institute thing, but i also have to ask_ guys move in come on come on come on. this is ridiculous. i'm not gonna shoot you guys i promise i'm not gonna shoot anybody. now, couple quick things, first thing that the c- campus tour is my favorite part of the entire orientation thing. this is where i get off the most, i absolutely get a big kick out of this because i think i give a pretty decent tour, and i've been doing tours actually for the last two years. so anyway, basically i have a really good time giving a tour. if you do not want to be here, i don't want you to be here and the reason is, because, i don't want you to cramp my style i don't want you to cramp anybody else that wants to actually be here, so if you don't want to be here that's fine. i won't hold it against you it's just like that English Lang- Language Institute thing, that's okay if you don't wanna be here cuz you got something else to do you got another agenda please go. because... hey, if you're gonna be like all pissed off that we made you come, it's not a big deal i don't really care. so honest to God if you guys don't wanna be here i'm not gonna be pissed at you. so if you wanna leave, be back at eight o'clock at the same, um auditorium that we were at this uh morning, for our_ for the comedy troupe thing. </U>
+			<U WHO="S2"> can you tell us why you have a water gun? </U>
+			<U WHO="S1"> i can tell you why i have a water gun. now the reason i have a water gun is because not so that i can shoot you guys <U WHO="SU-f">
+					<OVERLAP> no no no </OVERLAP>
+				</U>
+				<OVERLAP> i promise </OVERLAP> see this is this is definitely group love this is spade love okay? definitely group love all the other groups pretty much suck okay? family at U-of-M talked about that a lot this morning but all the other groups they suck. now okay, we're divided, okay, so we're gonna be yelling a lot of, semi-obscene things at the other groups, we're gonna be shooting them with water </U>
+			<U WHO="S3"> you have like the smallest water gun though <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> yeah you do. </U>
+			<U WHO="S3"> you really do </U>
+			<U WHO="S1"> really? </U>
+			<U WHO="S3"> um yes. </U>
+			<U WHO="S1"> you like <OVERLAP> testing </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> the water gun? you wanna see really what the water gun can do? no i didn't think so. i didn't think so... it's leaking... </OVERLAP> trust me. </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S1"> i end up winning, nine times out of <OVERLAP> ten. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1"> so anyway, as i was saying, <U WHO="SU-m"> you guys (xx) </U> as i was saying, um basically, uh the water gun is for the other groups, lotta yelling, lotta shooting, all the other groups <OVERLAP> pretty much sucks </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so, if we see the other groups and they're gonna (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> you gotta warn us. no they're not gonna get you they're gonna_ nine times out of ten they're gonna hit me. they might go after you guys which is why you guys gotta back me up </U>
+			<U WHO="S5"> well if you'd told us ahead of time i could've brought a squirt gun. </U>
+			<U WHO="S1"> well i blew it i know i'm such a jerk. anyway, <EVENT WHO="SU-8" DESC="LAUGH"/> so moving on. everybody's got, their eyes and ears open, for the other group? has (it) the other group (come out) of the meeting you guys are all going to pay cuz i don't wanna get wet i have no desire to get wet but i have every desire in the world to get everybody else wet. so you guys warn me, and it'll work out really well now the other thing unfortunately if anybody talks on the tour at any time, they are gonna get wet, just because, i don't want you to talk, while i'm talking but that's about it (if you want) you can ask questions at any time you can talk while we're not talking (and) you know so are there any questions before we start? </U>
+			<U WHO="SU-2"> how long is this? </U>
+			<U WHO="S1"> long it's gonna go to about eight o'clock so little over an hour. not even cuz actually we're gonna hang out on the Diag for frisbee later. now the next question is, do you want a campus_ all-campus tour, an all off-campus tour or do you want a campus and off-campus combo tour which i happen to think is the best combo deal going. </U>
+			<U WHO="SS"> (xx) </U>
+			<U WHO="S1"> oh combo deal wow. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> any objections to the combo tour? no. okay. alright. with that, we're gonna go. so if you wanna sneak off, you know (do it) really discreetly (xx) so then the other thing is that i got a lot of candy why do i have a lot of candy cuz i'm gonna ask a lot of questions during this tour anybody that answers any questions about the tour, is gonna get, a little bit of, Starburst love. now, you guys all (know) that really cheap liquor <EVENT DUR="1:27" DESC="AUDIO DISTURBANCE"/> we'll be close to it. we'll be close to it. i'll point i'll say (you know what?) South Quad. if not i'll personally take you there tomorrow. alright. (xx) (there) left to do. </U>
+			<U WHO="SU-m"> we go to North Campus (for) tomorrow right? </U>
+			<U WHO="S1"> uh are you an engineer? yes. </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> (first of all i can't hear) (xx) no, no no no. </U>
+			<U WHO="SU-m"> cuz um, </U>
+			<U WHO="S1"> now i actually_ <U WHO="SU-m">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> i lived in East Quad for two years and i think it's the best (xx) </OVERLAP> (xx) the Hill area. depends on where you're living (in) the Hill. (xx) is a phat dorm. </U>
+			<U WHO="SU-m"> (is it?) </U>
+			<U WHO="S1"> it is. it is posh, it was mostly an upperclassmen dorm (xx) last year (it was) converted completely </U>
+			<U WHO="SU-m"> on my thing when i got here it said, (xx) four percent upperclassmen. </U>
+			<U WHO="S1"> yeah well it's not like that anymore they changed it. um so if you got_ and you got a pretty good pick. rooms are a decent size and, it's just really, cool to look at. <EVENT DESC="LAUGH"/> right off of Palmer Field, it's not too far to walk <PAUSE DUR=":18"/> okay, now this is the first big stop on our, tour. anybody tell me what building that is right there? </U>
+			<U WHO="SS"> School of Business Administration. </U>
+			<U WHO="S1"> well there you go. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> (everybody) at the same time couldn't figure out who it was, that is the School of Business Administration who's interested in going to the School of Business? </U>
+			<U WHO="SU-m"> me </U>
+			<U WHO="S1"> good luck. it is tough. kick-ass. <EVENT WHO="SU" DESC="LAUGH"/> totally kick-ass cuz that's pretty much the only way you're gonna get in no i'm just kidding, i'd a bunch of friends that got in but they totally kicked ass as undergrads and they got really really involved while they were here. so if you're interested in going to the School of Business Administration it's number one, so, totally totally kick butt at academics. </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> it's a squirrel. they're rugged around here i'm not kidding they'll kick your butts. if you look through here through these little trees over there you will see two big nice Greek pillars. those Greek pillars were imported by the School of Architecture Dean. he thought it was so cool, and, he was so rich that he decided to import those two pillars himself, so that the School of Architecture students which was housed in Lorch Hall which is behind, uh those two pillars... he thought he would bring 'em in so that they could see what Greek architecture's really like and (how) you know_ how're they gonna get these two pillars there? you can see they're_ the one on the left is segmented off very clearly broken into smaller pieces, that's how they got it here. so, there you <OVERLAP> go for that </OVERLAP>
+			</U>
+			<U WHO="SU-5">
+				<OVERLAP> (xx) how </OVERLAP> they are actually (xx) </U>
+			<U WHO="S1"> they are actually put together like that yes <OVERLAP> i know but they als- </OVERLAP>
+			</U>
+			<U WHO="SU-5">
+				<OVERLAP> (xx) </OVERLAP> in the first place </U>
+			<U WHO="S1"> right i know, but (it_) that's how they were there_ that was the <OVERLAP> separation </OVERLAP> point <U WHO="SU-5">
+					<OVERLAP> okay. </OVERLAP>
+					<EVENT WHO="SS" DESC="LAUGH"/>
+					<OVERLAP> no big d- (xx) </OVERLAP>
+				</U>
+				<OVERLAP> that they brought 'em here </OVERLAP> i did know that thank you <U WHO="SU-5">
+					<OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> though </OVERLAP> i appreciate the effort. </U>
+			<U WHO="SU-5"> i'm glad to hear it. </U>
+			<U WHO="S1"> alright. hey you know what? and for putting me in_ <U WHO="SU-f">
+					<OVERLAP> (thank you) </OVERLAP>
+				</U>
+				<OVERLAP> putting me right </OVERLAP> i appreciate the help there. </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> okay. <EVENT DESC="LAUGH"/> moving on this way. </U>
+			<PAUSE DUR=":16"/>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> oh. it's my (favorite) building on campus. <U WHO="SU-m"> (beautiful) </U> it is. </U>
+			<U WHO="SU-m"> (xx) (classes) (xx) </U>
+			<U WHO="S1"> what that? </U>
+			<U WHO="SU-m"> (like two buildings) (xx) </U>
+			<U WHO="S1"> oh underneath? </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1"> oh, (it's not) a greenhouse </U>
+			<U WHO="SU-m"> what is it <OVERLAP> aquarium? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i'll </OVERLAP> tell you i'll tell you in a little bit. </U>
+			<U WHO="SU-m"> (xx) Law Library (xx) </U>
+			<U WHO="S1"> yeah. okay so this is the second part of the tour and one of the first parts of the off-campus tour. everybody's gonna look over here where the two, older guys are looking at you? that is Dominick's. Dominick's is the largest hub of underage drinking, ever to be imagined on University of Michigan campus. basically what happens there is that you get into a line, somebody with an I-D goes up there, orders, big pitcher of sangria, everybody's, maybe familiar with sangria maybe not probably shouldn't be, anyway, everybody knows what sangria is you go up to sangria guy, i want a pitcher of sangria. so he hands you one glass, and a pitcher of sangria. now, is one person really gonna drink an entire pitcher of sangria? no. so that's why that person brings the entire pitcher and one glass back to the table where there's twelve friends who all can't, get in and shouldn't be there in the first place, are all gonna suck down this big pitcher of sangria. if you want more I-D_ you_ you want more glasses you're supposed to have more I-Ds. but, i've seen people drink straight out of the pitcher and i don't understand what the mentality is because honest to God like if you_ one person is gonna drink an entire pitcher of sangria now sangria's pretty dilute. but if you're gonna drink an entire pitcher of sangria i'm sorry you're not walking out of the joint so i don't understand <EVENT DESC="LAUGH"/> how they can just let you get away with that. but anyway. Dominick's, big hub of underage drinking on campus and i'm not, condoning this of course, i'm not condoning this i'm not con- <U WHO="SU-f"> (xx) </U> yeah is that right? that's right. i'm not condoning this. don't go to Dominick's and drink underagedly. <EVENT WHO="SS" DESC="LAUGH"/> darn it that's the official University of Michigan position. just kidding. don't do it. it's bad for you. alright what building is this behind me right here? </U>
+			<U WHO="SS"> Law Library. </U>
+			<U WHO="S1"> Law Library. who all said Law Library? right there Alex, <U WHO="SU-m"> (xx) not have access to it? </U>
+				<EVENT WHO="SU-m" DESC="LAUGH"/> oh Mike, ( here) Mike Mike Mike <OVERLAP> (oh) there you go_ what? </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> we </OVERLAP> don't have access to it do we? </U>
+			<U WHO="S1"> you do have access to part of it. </U>
+			<U WHO="SU-m"> the dumpy part of it (though) right? </U>
+			<U WHO="S1"> ohh (you're getting) good </U>
+			<U WHO="SU-m"> and (i know where the (xx) are sitting) cuz there's (snow) in (lots of) (xx) <U WHO="SU-5"> that's stupid </U> right? </U>
+			<U WHO="S1"> well you are really bitter aren't you. </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> you're really bitter. </U>
+			<U WHO="SU-f"> (xx) good try </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="SU-5"> i've always wanted to go down there. </U>
+			<U WHO="S1"> that is incorrect. </U>
+			<U WHO="SU-m"> that is incorrect that's <OVERLAP> what (he told me) </OVERLAP>
+				<U WHO="SU-1">
+					<OVERLAP> that is incorrect </OVERLAP>
+				</U> told us last time. i don't (xx) </U>
+			<U WHO="S1"> they lied </U>
+			<U WHO="SU-5"> why can't we go down there? </U>
+			<U WHO="S1"> alright so here's the story about this building, as s- so many people are so impatient to hear about. this building is the Law Library. it was built in the mid-eighteen-hundreds by a name, by a name. by a man by the name of William Cook. William Cook was an incredibly rich law professor that went to the University of Michigan and taught here, and he decided hey let's just donate about oh i don't know about twenty million dollars that i had back in the mid-eighteen-hundreds which is a fat check, still now but was a fat- even fatter check back then, to the University of Michigan to build this law school he wanted to build it after the Stanford_ er this the_ the Yales the Harvards you know the really nice Ivy League posh places right and you can see, i mean it must've cost a lot cuz all those things are hand carved up there you get the shield right there the crest and you got all these little pillars that are hand carved blah blah blah, and he said two things have to happen before i... are gonna_ am gonna give you all this money. one, the whole building the whole thing's gotta be done by the time i die. secondly if you're gonna add on to any part of this, then you have to guarantee that it has to be done in the same style with the same brick. as, it was done now. so they're like okay. well that's cool. so they worked their butts off to get it done before he died and he was really old but unfortunately he died just before they finished it, sucks really bad about two years boom he's dead, they hadn't finished it yet, and the second thing is when the University of Michigan decided to add t- on to it in the nineteen sixties, they didn't have enough money, to add on to it because the price of brick went from about six dollars a brick to sixty dollars a brick so they couldn't afford to do it so what'd they do? dug a big hole in the ground didn't use any bricks and went underground. this is what you're leaning over right now. into the Law Library which is down and to your left you can see (xx) but, that's basically what it is. you cannot get i- get down there unless you are a law student, you can go down the stairs and you can stand there and they'll swipe your card and if it doesn't say you're a law student, <EVENT DESC="SOUND EFFECT"/> denied you have to go home. but you can sneak into the Law Library if the person doesn't happen to be there which i definitely recommend to all undergrads while you're here. also another thing is you get up into the Law School and you climb up on those balconies like that where those other windows are. course that's also not an official, university position that i'm taking, but it's fun as hell. do this <EVENT WHO="SU-f" DESC="LAUGH"/> especially really late at night, so, definitely take advantage of sneaking into the Library they've got really neat, uh classrooms in there that are actually mock courtrooms. so it looks looks just like L-A Law you guys remember L-A Law? (xx) pretty cool in there so i (mean) computers and stuff it's fresh as hell <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> have </OVERLAP> you ever (been) caught? </U>
+			<U WHO="S1"> oh yeah. oh yeah. <EVENT WHO="SU-m" DESC="LAUGH"/> are you a law student? yes. <EVENT WHO="SS" DESC="LAUGH"/> i mean i look like i'm sixteen but, ah sure i'm a law student can i see your I-D no that's fine i'm (xx) so anyway so another (little) thing is everybody always says oh is this an aquarium? is this_ do they let you swim here i hear they let you swim here. (water) not very high they build it to about these little porthole you see those little, portholes there with the little screens over 'em. </U>
+			<U WHO="S7"> is that another group over there? </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="SU-5"> where? Aaron don't play me. </U>
+			<U WHO="SS">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes. </OVERLAP> we'll go get 'em in a minute. <EVENT WHO="SS" DESC="LAUGH"/> thank you very much (that_ and that_) eyes and ears. that's what i'm talking about right there <EVENT DESC="BUMPS INTO SOMEONE"/> whoops hello eyes and ears. anyway, as i was saying they do fill it up to about those portholes that's where the water comes in and they put fish in it so everybody's like yeah right okay why isn't there fish in there now? why don't you think there's fish in there now because we import the fish from Florida and because of El Nino and all the other crap, they're dead. they died this year we couldn't get 'em. so there you go that's why there's no water and no fish in the bottom down there. any questions before we go? </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> alright. we will go to a restroom right now. </U>
+			<U WHO="SU-m"> okay cuz i've gotta_ i'll catch up (xx) </U>
+			<U WHO="S1">
+				<OVERLAP> uh oh </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> it has to be in a group right? </OVERLAP>
+			</U>
+			<U WHO="S1"> uh oh alright okay. alright this is Eric_ this is Eric's group Eric really gets made fun of a lot because he has chicken legs everybody's listening in the back right, Eric gets made fun of a lot because he has chicken legs right and so what we're gonna do is as we walk around the corner i'm gonna go one two three and on three we're all gonna scream chicken legs, okay? if you don't back me up in this i'm gonna look really stupid and i'm gonna make sure you look stupid by the end of the time so please back me up on this. this is crucial. alright you guys ready? he might (scream) one two three </U>
+			<U WHO="SS"> chicken legs </U>
+			<U WHO="S1"> woo. <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="SU-m"> ow </U> now he might scream something crass and immature like Josh blows, <EVENT WHO="SS" DESC="LAUGH"/> to which we'll have to like, aps- respond appropriately Eric swallows... weak, weak... weak </U>
+			<U WHO="SU-m"> he's got a bigger gun though </U>
+			<U WHO="SU-f"> pretty big </U>
+			<U WHO="S1"> yeah but he doesn't know how to use it. in this case size certainly does not matter. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SS"> stubby </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> stubby? <PAUSE DUR=":06"/> but you'll notice that his group sucks pretty much because what_ i mean, what i- what has he got like, seven eight more people than we do and, stubby, <EVENT WHO="SS" DESC="LAUGH"/> eh, alright anyway so we're standing on the steps of the Reading Room of the Law Library, one of my fave rooms on campus this is gonna be the cheesiest thing you're gonna hear on the entire tour but is actually one of the reasons why i decided to come here to the University of Michigan. came on a tour, was like alright (well it's) not bad (no it's) not bad came in here and whoa. absolutely loved this building it's one of my favorite ran the Naked Mile through this building, totally fresh (xx) jumping on the table, absolutely live. if you go to the Naked Mile which you all should go to the Naked Mile. you don't have to run. run if you want to it's a great time if you do do it sober i did it was fun, but, come in here, and hang out here ten minutes before the whole thing starts it is so live. people are jumping on the table people are trying to study, going like this because there's naked people in there <EVENT WHO="SS" DESC="LAUGH"/> dancing next to them flopping all over the place it is not a good scene, but it's the funnest damn thing i've ever experienced ever in my entire life. so anyway we're about to go in (to) the Reading Room, there might be some people in there, it is a Monday it is seven o'clock so there might be like one or two in there, summer classes happening that kind of thing so please keep that in mind, if there's not, i'll just talk normally, do our thing <EVENT DESC="ENTER LIBRARY"/>
+			</U>
+			<U WHO="SU-11"> (xx) </U>
+			<U WHO="S1"> yeah if you um, if you, head down these stairs, </U>
+			<U WHO="SU-m"> don't forget that shit. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> if you head down these_ okay you sure? it's_ it's t- if you head down the stairs and then eventually you're gonna be going to the um, to the right i think and it's in this little inlet thing. there should be a sign. and i'll make sure, we catch you on the way out. </U>
+			<U WHO="R2"> can i get you to (xx) </U>
+			<U WHO="S1"> oh. is it not working? </U>
+			<U WHO="R2"> yeah. (xx) (description) </U>
+			<U WHO="S1"> oh_ whoops and i just_ dropping stuff. alright sure. <PAUSE DUR=":07"/> Rudy... Rudy... e- okay everybody everybody say, hi Rudy but all in really soft terms okay Rudy's the guy right there, that's looking at us right there okay so everybody say hi Rudy one two three </U>
+			<U WHO="SS"> hi Rudy <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> so anyway, look around. okay cuz everybody comes in here, and they, look at me. i'm not the cool part of this tour okay? like this is the cool part of this tour, if you look up at all these_ all these stained glass windows and stuff like that? all the major seals in the universities around campus? are all up on these seals. there's one thousand two hundred and seventy-five lights. i counted 'em all. cuz i was really bored one day. another thing you can do you can actually take a tour of this inside area i don't know if they have 'em right up here, but they've got maps and stuff, they got maps and stuff of the inside place so you can take a tour, of this whole, r- room, and figure out what all these different things mean cuz everything everything means something else all these shields along the top there's Hebrew written over here they tell you what the Hebrew is, it's awesome it's totally cool so actually take five minutes some day and actually take the tour. you'll look like a nerd but, it's cool. </U>
+			<U WHO="SU-m"> is that like writing here? </U>
+			<U WHO="S1"> yeah that's writing. the uh buildings... forming this Law School, Quad blah blah blah. blah blah blah. </U>
+			<U WHO="S8"> (xx) </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S8"> (xx) they have like the little shields of schools. </U>
+			<U WHO="S1"> why? </U>
+			<U WHO="S8"> yeah. </U>
+			<U WHO="S1"> i'm not sure why they do it </U>
+			<U WHO="S8"> the University of Pittsburgh what does that have to do with a- anything </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> i don't know maybe it's the culminating of <OVERLAP> knowledge </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (man) </OVERLAP> it's like, i don't know, Syracuse what does that have to do with it. i'm just curious. </U>
+			<U WHO="S1"> it's the culminating of knowledge </U>
+			<U WHO="S8"> that sounds good <OVERLAP> to me. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP> alright alright that works... Rudy, sorry... </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> okay, alright is Nasr back yet? is he back? </U>
+			<U WHO="SU-f"> did you write? </U>
+			<U WHO="S1"> he's not back... okay, well just hang out. and talk to your neighbor. </U>
+			<U WHO="SU-f"> so how do you get upstairs? </U>
+			<U WHO="S1"> how do you get upstairs basically what you do_ who's psst-ing me? what? God <EVENT DESC="GROWL"/> no you're just psst-ing me (or) (xx) and i heard and i was really confused what you do, is you go downstairs, like down those stairs and down these stairs, and um, you basically, walk through the hallway and there's other side stairs that aren't those stairs that you came up go up those stairs and you get anywhere it's awesome, and th- the courtrooms the_ it's just_ aw i can't tell you how cool the corridors are, and like it's_ it looks like this, throughout the entire facility it's it's incredible. so yeah go down these stairs <U WHO="SU-8">
+					<OVERLAP> can we go now? </OVERLAP>
+				</U>
+				<OVERLAP> and then go </OVERLAP> up those other stairs we can't go now. </U>
+			<U WHO="SU-8"> why not? </U>
+			<U WHO="S1"> cuz i got other, <OVERLAP> stuff i gotta tell you </OVERLAP>
+			</U>
+			<U WHO="SU-8">
+				<OVERLAP> can we (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> no, no and besides we don't_ we already lost one... he's, dead in the catacombs. <PAUSE DUR=":05"/> Rudy. psst. <PAUSE DUR=":06"/>
+				<EVENT DESC="DROPS SOMETHING"/>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> you're causing a ruckus. </U>
+			<U WHO="S1"> i am causing a ruckus. <EVENT DESC="SOUND EFFECT"/>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> okay alright let's get out of here </U>
+			<U WHO="SU-8"> remember what i was saying i'm gonna (xx) </U>
+			<EVENT WHO="S11" DESC="RETURNS"/>
+			<U WHO="S1"> ah sweet i though we lost you. <EVENT DESC="LEAVE BUILDING"/> ah it's beautiful it's not too muggy... </U>
+			<U WHO="SU-m"> what year student are you? </U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="SU-m"> what year student are you? </U>
+			<U WHO="S1"> i just graduated. so i'm not. okay. so, we're gonna have to pick up the pace a little bit so if i seem like i'm walking fast i'm walking fast because, we got a lot more to get through and it's seven o'clock and i'm usually ten minutes ahead of this so we're gonna walk a lot faster okay? so just so you guys know. who built this building again? </U>
+			<U WHO="SS"> Cook Cook <OVERLAP> William Cook </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Cook William Cook, </OVERLAP> very good. </U>
+			<U WHO="SU-8"> (xx) </U>
+			<U WHO="SU-1"> oh really? </U>
+			<U WHO="S1"> what's that (xx) she makes little chains and, crafts out of 'em. i'm not sure what the story is. </U>
+			<U WHO="SU-m"> (xx) (a dorm?) </U>
+			<U WHO="S1"> yep. (xx) just about to (talk about) that too. very good. Adam's on top of it. okay so this region here we got th- the reading room which is <U WHO="SU-f">
+					<OVERLAP> (xx) big room right there </OVERLAP>
+				</U>
+				<OVERLAP> that big room </OVERLAP> we went into over there. thanks. and we got this big square part which makes up the Quad okay that's actually_ these are the Law School ah dorms as you would call i mean if you could call this a dorm, i mean it's a pretty nice to live this place behind you with these big windows that's their cafeteria. it's really rough. God that sucks. but anyway, pretty cool place to live we were actually ah playing whiffleball out here about twelve-thirty at night, they were all pissed off because they had class at eight o'clock in the morning and so they asked us to go find annif- another field for the whiffleball cuz we were playing whiffleball right here it was pretty cool. and ah, other_ another neat thing is that the guys that live in the top of that tower right there i think they have to sign something in their contract which says will throw the coolest parties, ever. because if you go by there any time during the weekend (you you're gonna hear this) <EVENT DESC="SOUND EFFECT"/> wheehoo people are hanging off the balcony, it is_ i mean number one it's just a cool place to live but i mean i think they have to sign something in their contract because there's w- always a party there always always always a party there. so, little tidbits there. come on this way. oh definitely. another quick stop. this is the most photographed spot here at the University of Michigan what you're standing in now shooting back through these arches, to the center of the Diag. every book you'll ever get has this shot in it. don't know why, it's fairly pretty but the most photographic_ photographed spot. ah shit. i'm way behind. okay really quick, what's that white building over there that you can hardly see? </U>
+			<U WHO="SU"> (xx) </U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="SU-f">
+				<OVERLAP> history of art building </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> come on </OVERLAP> what? </U>
+			<U WHO="SU-m"> president's house </U>
+			<U WHO="S1"> president's house Nasr is the bomb today the bomb is Nasr today. what's that? </U>
+			<U WHO="S9"> (did) he have a phat party there this year? </U>
+			<U WHO="S1"> he had a phat party there the president_ this president_ who_ wha- what's the president's name by chance? </U>
+			<U WHO="SS"> Bollinger? something Bollinger </U>
+			<U WHO="S1"> Bollinger Lee Bollinger very good. mystery chew, mystery chew. </U>
+			<U WHO="SU-3"> no i wasn't mystery <OVERLAP> chew </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<EVENT DESC="SOUND EFFECT"/> alright anyway moving on the president held a phat party there this year, completely and totally unintentionally after we won the national championch- ships in hockey, whole bunch of people knocked on his door kicking on his door, he happened to be home. when you've got four thousand people standing in your lawn you should probably answer the door, he answered the door everybody piled on in and started having this little party, he hosted, uh, didn't really have any choice but he hosted the_ pretty much the coolest party that happened here at the University of Michigan last year. uh had four cleaning trucks come in and actually take over the whole place for the, whole next day, really really cool. something not so cool was that there was a really drunk guy up there that day too and climbed all the way to the top of the tree that's right in this front yard, fell from the top of the tree all the way to the ground, didn't really move after everybody's (like,) everybody's like yeah go buddy go, oh my god, you know and everybody called the ambulances and brought the ambulances in he's actually doing fine, and he's walking well now he was a student here, that just got way way way too drunk. so don't climb trees when you're drunk, basically is the moral of that story. another neat thing is that the president has a big, heated sidewalk in front of his, place so that he doesn't trip on his way to work and fall on the ice. isn't that nice? okay. <EVENT DESC="STARTS WALKING "/> you're my pace Karla. you're incredible. </U>
+			<U WHO="SU-3"> (xx) </U>
+			<U WHO="S1"> oh. you got screwed then. we gotta get variety into this the next time you answer a question. </U>
+			<U WHO="SU-3"> (xx) </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> it's true. it's very true. oh i have to make sure you have a diversified Starburst experience. what's that? </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> i'm not sure what they did. not since i've been here... Michigan Union A </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="S1"> (xx) </U>
+			<U WHO="S1"> oh it's a_ it's_ yeah it is pretty cool. shit it's raining. what's that? </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> Union? </U>
+			<U WHO="SU-m"> yeah that's what i meant. </U>
+			<U WHO="S1"> well that's not what you said </U>
+			<U WHO="SU-m"> (can't you) listen? i don't wanna (wanna repeat what <OVERLAP> i'm saying) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> M-card </OVERLAP> heaven isn't it? </U>
+			<U WHO="S1"> M-card heaven yeah definitely, definitely, okay so the next stop on our tour is the </U>
+			<U WHO="SS"> Michigan Union. </U>
+			<U WHO="S1"> Michigan Union can't give you credit for that cuz hey there's a big sign over here that says Michigan Union. </U>
+			<U WHO="SU-5"> well that and <OVERLAP> i'm (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and </OVERLAP> anybody that's seen any picture, of anything <OVERLAP> (so) </OVERLAP> has to know </U>
+			<U WHO="SU-5">
+				<OVERLAP> and i live in </OVERLAP> Ann Arbor </U>
+			<U WHO="S1"> and she lives in Ann Arbor. she doesn't count she shouldn't even be on the tour cuz she's already been on it many times but i'm glad you're here anyway. anyway moving on this is the Michigan Union uh what cool thing happened on the steps of the Michigan Union? </U>
+			<U WHO="SU-8"> a President gave a speech. </U>
+			<U WHO="S1"> a President gave a speech which President? </U>
+			<U WHO="SU-8"> Kennedy. </U>
+			<U WHO="S1"> Kennedy excellent. Michael Garcia special helper ladies and gentlemen, mystery chew. anyway moving on uh Mr Kennedy gave his speech here on October fourteenth, nineteen sixty at two o'clock in the morning to introduce his idea given to him by two University of Michigan students for the Peace Corps. why did he give it at two o'clock in the morning? any theories? </U>
+			<U WHO="SU-f"> that's when everybody was <OVERLAP> up </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> that's </OVERLAP> when the buses stopped going. </U>
+			<U WHO="S1"> anybody_ (yeah) everybody's up at two o'clock in the morning. </U>
+			<U WHO="S10"> when the buses stopped going? i don't know </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S10"> when the buses stopped going? </U>
+			<U WHO="S1"> buses stopped moving. wrong okay so actually what happened he wanted to </U>
+			<U WHO="S11"> the bars closed. </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S11"> the bars closed. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> the bars closed and he wanted all the drunk dudes to come down, that's the best theory i've heard all_ yet, but they're all incorrect. he actually wanted to thwart, an assassination attempt, somebody got tipped that there's gonna be an assassination attempt, and so he was like hey let's just throw the whole thing and have it at two o'clock in the morning, so he did. whole bunch of people still turned out for it i mean hell the President spoke, i mean i'd turn out if he's speaking at my school </U>
+			<U WHO="SU-m"> if you were alive in nineteen sixty. </U>
+			<U WHO="S1"> if you were alive in nineteen sixty. Hillary came last year... yay, but i mean you know hey whatever, <EVENT DESC="LAUGH"/> we do what we can, we take what we can get, <U WHO="SU-m"> (i thought) we were going in here. </U> another neat thing about the Michigan Union is that_ well not a neat thing, a kind of a stinky thing, was that it was originally built only for men, when it was first built. um as you can see, the two ideal Michigan, men_ male students, are exemplified by the two statues that you can barely see, underneath the ivy the one on the left is the athlete and the one on the right is the scholar, curious that the scholar's completely covered, and that the athlete is not hm. anyway what happens at the Michigan Union in the bottom basement of the Michigan Union there's the MUG the Michigan Union Grill great place to hang out especially when, Michigan's playing games and stuff like that um major games everybody's piling in there eating food that's down there there's a lot of fast food down there, also the Michigan Union Bookstore is down there Mail Boxes Etc there's a travel agent, the computer showcase that you're gonna talk about tomorrow that's down there on the second floor there is a billiards room pretty cool to hang out there until two o'clock in the morning shoot some pool, and there are a lot of secret societies that have their, meetings up there and a lot of other organizations and groups and major university administrative-type people, that hold their offices there as well. we're not gonna go in the building because, most of you've probably been in there if you haven't i definitely suggest that you go in it, but for the sake of time and to make sure that we do get to go off campus we're not gonna go in it i'm sorry. any questions? come on you guys... alright <EVENT DESC="STARTS WALKING"/> okay so since you guys are my pace cars now cuz you were in back and now you're in front, we gotta kick up the pace. gotta kick up the pace. you're concerned about the rain aren't you? </U>
+			<U WHO="SU-5"> very (xx) </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> okay. i can stand over you like this, but you'd have to crouch a lot. alright <PAUSE DUR=":54"/> hey what building is this? </U>
+			<U WHO="SS"> Literature Science and Art Building. </U>
+			<U WHO="S1"> oh i can't give credit for that i'm sorry... anybody know why it's orange? </U>
+			<U WHO="SU-f">
+				<OVERLAP> cuz </OVERLAP>
+			</U>
+			<U WHO="SU-11">
+				<OVERLAP> because they ran out of </OVERLAP> money for bricks that matched the other bricks. </U>
+			<U WHO="SU-f">
+				<OVERLAP> cuz </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> is that right? </OVERLAP>
+			</U>
+			<U WHO="S1"> what is with this guy? </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="SU-5"> what? </U>
+			<U WHO="S1"> what is with this guy? the Ann Arbor lady didn't even get that one. </U>
+			<U WHO="SU-5"> get what? </U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="SS"> why is this orange? </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> it is orange for the exact reason that Nasr just said. it is orange because when the University of Michigan decided to build it they couldn't afford the brick because the brick was a lot more expensive, the red brick that is, because it was being used in the war effort. so they jacked up the price so that no one would buy it so they could use all the red brick so they decided hey, instead of, waiting until after the war is over cuz, who knows how the hell long this is gonna last, we'll just go and build the ugliest, building on campus. so there you have the Literature Science and the Arts Building. </U>
+			<U WHO="SU-10"> that's_ that's the one we're gonna (call our home) </U>
+			<U WHO="S1"> no actually you'll n- probably go in there like once, a year, if_ less than that probably. the only thing that's really in there of of any worth, of anything at all in my opinion, is the Cashier's Office. and i'd really just as soon not go there anyway because i've always gotta pay my phone bills there because they always send me these notices that say, yeah you owe us thirty-six dollars and if you don't pay it yet you'll shut_ we'll shut off your service. that's happened about six times or so, but they give you about ten notices ahead of time so it's kinda cool they_ you know they lead up to it... the Registrar used to be there so_ but they moved so pretty much the only thing worth anything is the Cashier's Office. </U>
+			<U WHO="SU-11"> (xx) (hand me a) Starburst (candy) </U>
+			<U WHO="S1"> ah Jesus, mystery chew. </U>
+			<U WHO="SU-11"> that was_ it's pink. </U>
+			<U WHO="SU-f"> (Nasr) (uh'uh) </U>
+			<U WHO="S1"> mystery chew. </U>
+			<U WHO="SU-f"> (how come you) (xx) the Starburst? </U>
+			<U WHO="SU-11"> it's for the brick. i (didn't) </U>
+			<U WHO="S1"> he got it for the brick and he got the mystery chew cuz he's been bitching at me about the fact that he only gets the pink ones. <EVENT WHO="SU-f" DESC="LAUGH"/> i only got the pink ones. </U>
+			<U WHO="SU-f"> i like the pink ones. </U>
+			<U WHO="S1"> well you can have all his pink ones then. officially. okay. we're actually gonna stop right here... alright, is there anyone in this group living in Helen Newberry or Betsy Barbour in the fall? </U>
+			<U WHO="S3"> a friend (is.) </U>
+			<U WHO="S1"> huh? <OVERLAP> a friend did? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> a friend is. </OVERLAP>
+			</U>
+			<U WHO="S1"> your friend is. <U WHO="S3">
+					<OVERLAP> yes. </OVERLAP>
+				</U>
+				<OVERLAP> okay. </OVERLAP> alright. there's nothing wrong with this building. my ex-girlfriend lived in this building while she was here, her first semester she loved it it was really great, this lounge right here which is enclosed by these_ this white, area right in front, with the windows is gorgeous. there's a baby grand piano in there, absolutely incredible plush, very nice carpeting etcetera etcetera etcetera but i have to tell you... it's called the Virgin Vault, <U WHO="S3"> that's <OVERLAP> Martha </OVERLAP>
+				</U>
+				<OVERLAP> because it is </OVERLAP> an all-female residence hall i had to tell you, it's just one of those things, this is the non-parent, campus tour. nothing wrong with the building, but they do call it the Virgin Vault and there's nothing wrong with virgins for that matter. <EVENT WHO="SS" DESC="LAUGH"/> but just for the record, everybody calls it the Virgin Vault. moving on. </U>
+			<U WHO="SU-m"> (xx) Dentistry School here (xx) </U>
+			<U WHO="S1"> it is one of the best. </U>
+			<U WHO="SU-m"> really? </U>
+			<U WHO="S1"> yeah the Dental School is really really good. i've had some friends that've gone here and actually my dentist went here, and they said, the um_ they're trying to phase out a lot of the old professors but, the uh professors are </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> yeah and they're uh_ they're really, rough. <EVENT DESC="LAUGH"/> the professors here, at least what i've heard, the unofficial position, is, ah the the professors can be really rough sometimes. like some of the old guys old g- you know the old crotchety guys yeah the geezers that've been here forever. <EVENT DESC="CROSSES STREET"/> okay we do, we do have to give some- it's alright it's yellow it's fine. </U>
+			<U WHO="SU-m"> do you have to watch the green sign? </U>
+			<U WHO="S1"> oh if it was green i would have to watch out if it was green okay so this is the next stop on our tour now i'm gonna try to make this as inconspicuous as possible cuz hey we're off campus now. so i'm not gonna try to embarrass you guys in front of a bunch of people you don't know and everybody's like oh great it's a tour. i love these tours. blocking up the streets, blah blah blah shut up i gotta go. that's all there is. <EVENT WHO="SU-f" DESC="LAUGH"/> anyway moving on what building is this? </U>
+			<U WHO="SU-f"> Domino's. </U>
+			<U WHO="S1"> Domino's Pizza Domino's Pizza's the coolest place, at four o'clock in the morning because it's cheap, and it's open at four o'clock in the morning it's one of the only places that's gonna be open at four o'clock in the morning for your, dining needs. why would you need to dine at four o'clock in the morning cuz you were at a party until two-thirty you're completely wasted and you come back here and you eat some food. now, i still eat here at four o'clock in the morning i'm not much of a drinking guy but i come here four o'clock in the morning anyway just kinda to see what's up with_ what's up at four o'clock in the morning the line is stretched out the door, everybody's hanging out here, all kinds of people really fun place to hang out. um another neat thing the reason why i actually_ that i came here to the University of Michigan, is because, we just walked across the street, from, that way and if we would've come from that way, or even come from that way, we went from campus to off campus in a matter of, oh i don't know thirty feet. that is pretty damn cool you can't get that, anywhere else. you cannot get that anywhere else you go to Michigan State, there's campus, and way the hell over here is off campus you go to any other school it doesn't work this way it sort of just melds and kind of flows and, it's just pretty damn cool. so, yeah... and it's neat cuz you can go, out to a club or to a... social event other than a club and, get home in like five minutes cuz your dorm's right across the street from that, place like Dominick's or something. any questions before we move on? </U>
+			<U WHO="SU-m"> no. </U>
+			<U WHO="S1"> no. damn you guys. whoops excuse me. <U WHO="SU-f"> sorry </U> so the next stop on the tour, <EVENT DESC="LAUGH"/> is right here. this is the Diag Party Shoppe Diag Party Shoppe is one of the cooler parts of campus as well simply because at any time of the day or night, they're <U WHO="SU-m">
+					<OVERLAP> (xx) what? </OVERLAP>
+				</U>
+				<OVERLAP> open pretty late too </OVERLAP> you can get all of <U WHO="SU-m">
+					<OVERLAP> (xx) Diag Party Shop </OVERLAP>
+				</U>
+				<OVERLAP> your, </OVERLAP> social needs. if you need to get some, pop for a late-night party or if you need to get some chips or or you know guacamole whatever you need in fact if you needed to get little whippets those things that you use to uh shoot whipped cream you know, filled with nitrous, if you needed to get those for a late-night party hey possibly entertaining, need whipped cream for your strawberry shortcake, they're sold at the counter, hafta be eighteen though so if you're not eighteen get an I-D do something else so you can get that there Diag Party Shoppe ladies and gentlemen.... Ashley's, you're not gonna be stepping (any) foot there for a long time... this is Bivouac bought a sweatshirt for my girlfriend never knew i could spend that much money on a sweatshirt <PAUSE DUR=":08"/> Jesus Christ. <PAUSE DUR=":18"/> come on in we've gotta fit everybody in fit everybody in. alright this is Nickels Arcade Nickels Arcade is other_ another one of the coolest parts of_ ooh excuse me. another one of the coolest parts of campus, cuz it's got great echo, but on top of that, you can come by here at any time in the morning, or night and it's open obviously this is open twenty-four hours a day seven days a week, the shops are obviously not, but you can come in here at any time and see somebody in here that's doing something cool. i came in here the other day i hadn't seen this person_ i'm_ literally i'm not kidding at all i was walking by just happened to see this guy playing the cello, had his little cello case open there were these two women singing along it was really cool very nice (it's like) it's like ah you know, everybody's holding hands singing whatever, they're very cheesy but very cool at the same time stopped to listen to him, he's a friend of mine from seven years ago i went to band camp with him, back, way back in the day he happened to be there, pretty damn cool. also you see all kinds of neat people running through here there's gonna be guys that are singing doing a little rap doing a little, harmonica-playing, anything you'll see anything that happens here the other day i was sitting here walking by also, nice little things you see... oh did he leave? no. okay you see the cop right there? alright well he's not one of the_ he's not one of the biking cops c- i thought he was, cuz i thought that might be his bike but it's not, there are excuse me a lot of biking cops on campus uh they'll be riding these really phat Raleigh bikes really really nice rides, cost about twenty-six hundred dollars apiece for a bike, whoa. anyway pretty nice ride, they're riding all over the campus, and i happened to see like four bike cops in here. but then i also_ when i looked a little closer i saw about six or seven other guys on the floor they're get on the floor, get on the floor it was the coolest damn thing and there was other bike cops coming from other directions and they're all spread out in the d- in the Nickels it was really, really cool so Nickels Arcade is just really neat place to come just kinda stop by, hey what do you want to do tonight i don't know, let's go to Nickels you know and just stop by. cuz it's pretty cool some cool stuff happens here. so other people might be saying oh my god is it dangerous on campus? not really. i personally wouldn't walk alone at night just because, i don't know you don't want to invite anything to happen. but at the same time it is a really safe town. i mean i will make the plug and be totally true to you guys, stuff happens. there was an armed robbery up on North Campus last week. straight up it happens. but it happens very few and far between, these incidences. and it usually happens... i don't know, in, very like unlit, unre- you know very remote areas. if you're on campus, you're relatively safe because, there's a cop talking to people on the street just over there, there's bike cops all over the place there's motor patrols all over the place, it is a very very safe campus and i'm very_ feel very safe and i was just talking about this with my friend the other day we were playing, frisbee in the Diag at two o'clock in the morning. just for the hell of it. and there was about thirty people coming through we all the time had to wait for people to walk by. two o'clock in the morning. nowhere else are you gonna find that sort of, activity happening at two o'clock in the morning anywhere else. any questions before we go on? no okay. <EVENT DESC="STARTS WALKING"/> alright we're gonna have to pick up the pace a lot cuz we are way way behind. so if you're my front person, so you gotta take care of this for me. alright? <PAUSE DUR=":25"/> okay so if you're just oozing into this part we're gonna pick_ i'm sorry we're really gonna pick up the pace, so if you guys get left behind i'm sorry but that's the_ gonna be gonna be the tragedy of the event because, we are really gonna pick up the pace cuz we still gotta do a lot of things involving, lots of water. so this is the Michigan, Book and Supply. which is the_ one of the three major bookstores on campus there's Michigan Book and Supply Ulrich's which you pass every time you go to Angell Hall when we've been walking you around and traipsing you around, and also the Michigan Union Bookstore. this place is just as good as any to get your books but it's one of the better places to get mer- merchandise you wanna get a hat sweatshirt T-shirt whatever, good place to go also they have a fully functioning and great Clinique counter. i really don't give two cr- i don't really care about the Clinique counter at all um but my ex-girlfriend used to go there all the time and if you ever go to the Clinique counter and talk to the Clinique lady she will know you. from that moment on for the rest of your life she'll know who you are she'll say Josh it's so good to see you how are you my god oh my god i mean did you really like that powder i gave you last week <EVENT WHO="SU-f" DESC="LAUGH"/> she's a really nice lady but, a little over the top if you ask me, everybody knows everything about her life and all the people are really depressed all the women that go there are really depressed now because she's leaving. leaving for a month because she's getting a hysterectomy. she felt it necessary to spread this around and let everybody knows she's getting a hysterectomy. this is how personal this lady gets. so if you want to make really good friends with the Clinique lady and get free samples, this is the place to go. any questions? <U WHO="SU-m"> no </U> moving on? no okay. </U>
+			<U WHO="SU-m"> (whatever) </U>
+			<U WHO="SU-m"> (xx) good job. </U>
+			<U WHO="S1"> aw thanks. <PAUSE DUR=":11"/> this is Moe's on my right another great place to get apparel they just had a sweatshirt sale ten bucks, for Michigan sweatshirts, pretty cool <PAUSE DUR=":36"/> i wanna know what his story is... that's what i wanna know. i wanna know what his story is. <PAUSE DUR=":17"/> come on come on come on come on come on if we wanna see everything we gotta go... okay this is Hill Auditorium who's been to Hill Auditorium. why? </U>
+			<U WHO="SU-f"> oh i was for a uh... (xx) concert. </U>
+			<U WHO="S1"> what concert? </U>
+			<U WHO="SU-f"> i don't remember her name but she's uh </U>
+			<U WHO="S1"> like Tori Amos or something, or </U>
+			<U WHO="SU-f"> piano </U>
+			<U WHO="S1"> piano. okay. </U>
+			<U WHO="SU-f"> don't remember her name. </U>
+			<U WHO="S1"> Tori Amos by any chance? </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S1"> Tori Amos played here. anybody else? who else has been here who else? </U>
+			<U WHO="SU-f"> graduated here. </U>
+			<U WHO="S1"> graduated here. anybody else. come on. </U>
+			<U WHO="SU-m"> Harlem <OVERLAP> Boys Choir. </OVERLAP>
+			</U>
+			<U WHO="SU-3">
+				<OVERLAP> Cleveland Orchestra </OVERLAP> played there. </U>
+			<U WHO="S1"> who? </U>
+			<U WHO="SU-3"> Cleveland Orchestra </U>
+			<U WHO="S1"> Cleveland Orchestra. Harlem Boys Choir. </U>
+			<U WHO="SU-f"> didn't IASA do a show here? </U>
+			<U WHO="S1"> IASA did a show here. </U>
+			<U WHO="SU-m"> who did? </U>
+			<U WHO="S1"> IASA Indian American Students Association you want to know about it later come talk to me, i'm an honorary member believe or not, also a member of the Hindu Students Council. anyone else? </U>
+			<U WHO="SU-m"> Dave Matthews did he come here? </U>
+			<U WHO="S1"> Dave Matthews did not come here. Pearl Jam came here Adam Sandler came here Moscow Philharmonic came here, uh Cec- Cecilia Bartoli i don't know how the hell to pronounce her name but she came here, um... Saint Petersburg Philharmonic San Francisco Symphony University of Michigan Musical Society Single Ticket Day, all kinds of great stuff happens here. this is one of the coolest auditoriums ever in the history of the world i'm not kidding you at all, um if you ever come here... <EVENT DESC="LAUGH"/>
+				<EVENT WHO="SS" DESC="LAUGH"/> you're all coming here. when you come here if you do not go to Hill Auditorium to see somebody play or do something you are seriously seriously missing out i'm not kidding at all, it's an acoustically perfect place what does that mean? you can stand on the stage_ have somebody stand on the stage and you can sit anywhere in the entire building the building holds five thousand people. sit anywhere in the upper balconies and in the first row you will hear the exact same thing from that perspect- that standpoint as somebody else in the building. it is one of the coolest places, on campus really cool big blue organ, gold leaf everywhere absolutely gorgeous go here... go here go here. Student Convocation the New Student Convocation happens the very first day of move-in, um get here early and go into this thing. get a little snazzed cuz it's kind of a dressy event but it's really cool because Lee Bollinger's gonna speak a bunch of other people are gonna hang out here, it's gonna be a really neat thing kinda gets you psyched for being a U-of-M student and how cool it is to be a U-of-M student, that happens here, it's not musical so you don't really get an idea what it's like, but if you go go to the Indian American Students A- Association con- ah their big thing too, that is fresh as hell i've gone every year it is totally totally live... it's incredible. i_ talk more about it later don't really have a whole lot of time but there's dancing there's music, it's ahh, it's really one of the coolest things that happens about any student organization on campus. any questions? good. okay fine. and we gotta hurry we're stepping up the pace for a reason so please hurry up. <EVENT DUR="1:21" DESC="AUDIO DISTURBANCE"/> they're gonna scream something lame. hurry up... hurry up scream something we gotta go. ugh okay anyway, so this is the coolest part of the campus tour. what we're gonna be doing is going through the fountain. if you don't wanna go through fountain, tough, it's one of the neatest, traditions here at the University of Michigan. i'm going through the fountain i <OVERLAP> go through it every single week. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> i'm going through this damn fountain. </OVERLAP>
+			</U>
+			<U WHO="S1"> the reason why we go through the fountain is because all incoming freshmen, walk from this part, which is the Grad Library, or the Grad School towards campus, it's kinda your culminating_ it's your it's your_ it's your oncoming to the U-of-M and (i'm) getting involved and </U>
+			<U WHO="SU-m"> do we start from up there? </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="SU-f"> do you walk (xx) </U>
+			<U WHO="S1"> just leave your stuff up here. </U>
+			<U WHO="SU-m"> do we have to run through it? </U>
+			<U WHO="S1"> no no we'll just walk we'll just walk. it's gonna be like hey i'm coming to the U-of-M and damnit i'm proud to be here. everybody does it. <U WHO="SU-5"> i have a question. </U> roll up the jeans it's not that deep i promise it's fun. <EVENT DESC="ENTERS FOUNTAIN"/>
+			</U>
+			<U WHO="SS"> come on. </U>
+			<U WHO="S1"> come on. (Anna) <U WHO="SU-f"> ugh. </U> do it. woo. alright everybody's through the fountain. </U>
+			<U WHO="SU-5"> watch out, there's (xx) </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> oh yeah. Tina's lame she won't do anything. it's not that cold, it's not that cold. </U>
+			<U WHO="SU-f"> it is cold. (oh shit.) alright. hey hold up. move move. <EVENT DESC="LAUGH"/> okay. </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> oh no. <EVENT DESC="LAUGH"/> i got a microphone on. alright group, you gotta back me up on this. don't let her get me. </U>
+			<U WHO="SU-m"> (xx) put your shoes on. </U>
+			<U WHO="SU-5"> (at least) there's Starburst in the bucket. </U>
+			<U WHO="SU-f"> come on Fred what's your problem? </U>
+			<U WHO="S1"> alright Richard is that you? </U>
+			<U WHO="SU-m">
+				<OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> oh no no no </OVERLAP> you can't hide behind your students. </U>
+			<U WHO="S1"> what're you gonna <EVENT DESC="SHOOTS SU-F WITH WATER GUN"/>
+			</U>
+			<U WHO="SU-f"> you shot me in the face. </U>
+			<U WHO="S1"> oh shit look out look out, woo. <EVENT WHO="SS" DESC="LAUGH"/> sorry. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> you okay? </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> i told you i w- </U>
+			<U WHO="S1"> i lost my b- </U>
+			<U WHO="SU-f"> wait i didn't get that one. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> no no you didn't get the mic wet... i didn't mean to bump you alright? </U>
+			<U WHO="R1"> okay. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> you did cause my demise however. <EVENT DESC="LAUGH"/> i think it was planned... i hope it still works. i warned you ahead of time. does it still work? is this on? did i lose the clip? (xx) could you give me a hand sorry. </U>
+			<U WHO="SU"> sure. </U>
+			<EVENT DESC="PAUSE :04"/>
+			<U WHO="S1"> thanks very much. appreciate it. okay, so thank you, (Anna) and everybody else that went through the fountain appreciate it it's a good time, why is there change in my, shoe? </U>
+			<U WHO="SU-f"> (it's your tip.) </U>
+			<U WHO="S1"> sweet. whoa. so anyway hand me my sock it's clean i swear to God. throw me my sock. would you throw me my sock somebody please thank you very much jeez, i don't want to touch your sock. you walked through the fountain didn't you, you know who's been in that fountain? <EVENT DESC="LAUGH"/> then you shoulda just thrown me the sock you're better off. just kidding on my last tour there (was) a bunch of guys that wanted to_ they wanted to make it a tradition_ i'm supposed to tell everybody if you want, to do the new tradition which is to run through the fountain, and kiss the belly of that big thing. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> they did it i don't know why they did it they got really wet doing it and, why would you put your lips on a stone thing, that's been there oh i don't know, forty years? it's not like they scrub it down every night. </U>
+			<U WHO="SU-f"> now would be, a good time, to steal her bucket. </U>
+			<U WHO="SU-m"> oh go get her (sure.) </U>
+			<U WHO="S1"> should i do it? </U>
+			<U WHO="SS"> yeah. </U>
+			<U WHO="SU-m"> get her. </U>
+			<U WHO="S1"> you know how pissed she would be? </U>
+			<U WHO="SU-m"> so? (xx) oh she's already (xx) </U>
+			<U WHO="S1"> somebody wanna go get her bucket for me? </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1"> alright. go get her bucket quick just go dude she's not gonna do anything. oh shit. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> he is not sly about it (xx) really comes in (xx) </U>
+			<U WHO="S1"> i'll give him credit though <U WHO="SU-5"> (i'll) (somebody get the) the <OVERLAP> candy. </OVERLAP>
+				</U>
+				<OVERLAP> i'll give him </OVERLAP> credit. alright so while we're sitting here and i'm putting on my shoes we're gonna talk about a couple b- buildings that building over there, used to be the Women's Union. uh the women got pretty pissed that the men had their own union i would be_ i would be pissed too so they built their own. and the two, statues that they have, exemplify the two great characteristics of all women on ca- campus, that will be friendship and character. or at least at that time. uh Michigan League as it's now called is home to uh one of the uh, hotels on campus you can come here and pay a lot of money to stay there, or you can come and uh if you're involved in any societies on campus that happen to have dances and stuff like that? uh those formals will be held there, um IASA has their formal there, uh let's see also moving on here we have the Burton Memorial Tower, Mr Burton was a, um regent here at the University of Michigan, uh a few years later one of regent's daughters actually jumped off of that tower killed herself it holds the third heaviest instrument in the world, uh Burton Memorial Tower. uh and actually one of our other bosses, actually plays the carillon up there so if you ever hear the bells and they're Pachelbel's Canon or something, you might hear that coming from there. um there's the Michigan M- uh Modern Language Building over there which holds all the modern languages and stuff like that as well as psychology, Horace Rackham Graduate School uh green-roofed building over there, uh Horace Rackham donated ten million dollars at the time to build the building, and said if i'm gonna build this building for you i want a clear shot to see the Grad Library which is over there all the way over there. well at the time there were twelve buildings in this middle mall area so they had to pull out all twelve buildings just to build his (building.) (xx) whoa. so money talks here at the University of Michigan you got ten million dollars donate it. you can do all kinds of neat things. another good example is that_ any of you guys engineers raise your hand. couple engineers you're going up North Campus tomorrow any Art and Architecture? you guys are going up to North Campus any Art and Design? you guys are going up to Ar- uh North Campus you're gonna see the brick dick. former engineer up here at University of Michigan donated a lot of money and he built this tower named it after himself and i swear to God it looks a big old penis. (if) you don't think it looks like a penis when you look at it... it doesn't? </U>
+			<U WHO="SU-5"> i've been there no. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> okay. i don't wanna make any comments then. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> so anyway it looks just like a penis i swear to God, it's got two little towers at the base of the penis </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> okay. so everybody, trust me go up there and look at the brick dick that we call it. i was gonna make a comment that maybe she's never seen a penis, <U WHO="SU-m">
+					<OVERLAP> (yeah) </OVERLAP>
+				</U>
+				<OVERLAP> yeah </OVERLAP> but that would've been (low) yeah yeah so i decided not to. </U>
+			<U WHO="SU-f"> don't shoot my students. </U>
+			<U WHO="S1"> i'm not shooting your students... oh shit alright actually i gotta fill this before we go. la- everybody's got my back right? <PAUSE DUR=":08"/> alright let's go. </U>
+			<U WHO="SU-m"> (so) you said uh that Business undergraduate's number one? </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="SU-m"> what about uh (uh,) U Penn. <OVERLAP> wh- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> U Penn's </OVERLAP> up there i- <OVERLAP> they sorta trade </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> Wharton's graduate. </OVERLAP>
+			</U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="SU-m"> Wharton's number one for graduate? </U>
+			<U WHO="S1"> i'm not sure <OVERLAP> i'm not sure </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> (Michigan's) number one </OVERLAP> for business? <OVERLAP> really </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> yeah </U>
+			<U WHO="SU-m">
+				<OVERLAP> wow. </OVERLAP>
+				<U WHO="S1"> yeah </U> undergraduate? </U>
+			<U WHO="S1"> y- <OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="SU-m"> what about uh graduate? </U>
+			<U WHO="S1"> i- the graduate program is really good too. <U WHO="SU-m"> wow. </U> i'm not sure what it is but it's like in the top five. </U>
+			<U WHO="SU-m"> wow. (xx) </U>
+			<U WHO="SU-m"> Josh how how hard is it to get into the law school? </U>
+			<U WHO="S1"> how hard is it to get into law school? it's pretty hard, but, actually i have a lot of friends that are in the law school. <U WHO="SU-m"> uhuh. </U> um and basically they did really well their undergrad, and got really involved on campus, involved in a lot of things <U WHO="SU-m"> that's <OVERLAP> (what they tell) me. </OVERLAP>
+				</U> and they totally kicked ass on their LSATs. </U>
+			<U WHO="SU-m"> really? </U>
+			<U WHO="S1"> so i mean if you if you do really well your undergrad, and you_ <U WHO="SU-m"> get involved </U> if you get involved and you_ and you hang out like if you get involved, you don't have to be <EVENT DESC="LAUGH"/> as good academically <OVERLAP> necessarily </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> really? </OVERLAP>
+			</U>
+			<U WHO="S1"> well yeah because_ i mean honestly, like you have to be good you have to be damn <OVERLAP> good. </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> yeah </OVERLAP> yeah. </U> but at the same time you have to think about it in the_ in respect that, um, i mean they're not gonna want somebody that's totally book smart you know that that did nothing on campus <U WHO="SU-m">
+					<OVERLAP> yeah yeah. </OVERLAP>
+				</U>
+				<OVERLAP> you know? </OVERLAP> if you if you go and y- you study all the time and just study study study study study, but you don't get out, you know they're not gonna want you <U WHO="SU-m"> yeah. </U> cuz you're not rounded you know? and especially as a lawyer i mean really <U WHO="SU-m">
+					<OVERLAP> yeah that's (xx) </OVERLAP>
+				</U>
+				<OVERLAP> you're gonna have to interact with all kinds of different people </OVERLAP> from different backgrounds and different you know, whatever and if you don't get out and get involved, you're not going anywhere. </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1"> so everybody's like oh i'm gonna study my ass off when i get here well that's good. but if you don't get out man, you're not going anywhere i'm sorry nobody's gonna hire you, nobody's gonna give you a job you're not gonna get in at any grad schools, i mean you got a_ you have a four-point-oh and you know, whatever totally blow your LS- LSATs away, but if you do anything nobody wants you. cuz you're a nerd. </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="SU-m"> (what's like the) average class in the Business School? </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="SU-m"> what's the average class size in the Business School? </U>
+			<U WHO="SU-m">
+				<OVERLAP> every every year they come in </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i think it's a hundred and ten, </OVERLAP> a hundred and fifteen. </U>
+			<U WHO="SU-m"> wow. </U>
+			<U WHO="S1"> it's small. <EVENT DESC="LAUGH"/>
+				<OVERLAP> yeah it's tough. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> wha- what </OVERLAP> like where where what's like the average, G-P-A and like the </U>
+			<U WHO="S1"> hold on one second. i'm not sure what the_ what the mean G-P-A is i think, like as long as you're right around like a_ like a three-three three-four three-five, you're okay. that's, <U WHO="SU-m"> (an extra) (xx) </U> pretty tough. <EVENT DESC="LAUGH"/> that's pretty tough here but i th- i i i know people that got in for less. so it's it's it's really random. like it's it's really_ like if you call the B School, you can probably_ pretty much_ you c- they'll tell you and they'll send you a brochure about it you can pick up brochures all over the place. about it and stuff like that. </U>
+			<U WHO="SU-m"> (is it like) the hardest one to, get into kind of, the Business School? </U>
+			<U WHO="S1"> it's one of 'em, i mean_ yeah it's pretty_ it's pretty competitive. um but yeah... woohoo woo yip yip. nice dreads... <EVENT WHO="SS" DESC="LAUGH"/> nice dreads. </U>
+			<U WHO="SU-m"> and what about med school (that's) just like </U>
+			<U WHO="S1"> med school's pretty tough to get in here too, um, but it's not impossible. </U>
+			<U WHO="SU-m"> yeah. oh i know. </U>
+			<U WHO="S1"> i mean, i know a lot of people that are going to med school here too. that i never <EVENT DESC="LAUGH"/> would've thought would've gone to med school at all. </U>
+			<U WHO="SU-m"> really? </U>
+			<U WHO="S1"> yeah. so </U>
+			<U WHO="SU-m"> it's kinda like anybody can make (xx) </U>
+			<U WHO="S1"> you just gotta bust your ass. </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/>
+				<U WHO="SU-m"> yeah </U> and get involved. okay we're gonna go_ actually we're gonna stop right here. we're gonna stop right here cuz we actually got done a little even almost earlier than i thought we would. now Tina's gonna go into the library. </U>
+			<U WHO="SU-m"> (sealed) </U>
+			<U WHO="S1"> yeah we're gonna talk about the M in a minute but Tina's gonna go in the library if you wanna go in the library we'll go to the library but, i don't see any point. if you guys wanna go we'll go. who wants to go in the library raise your hand. anybody? no okay. <U WHO="SU-m"> (well) </U> you do? </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1"> you want to? </U>
+			<U WHO="SU-m"> (i mean i-) i can go by myself i (don't i don't care) </U>
+			<U WHO="S1"> you guys care if we go in the library? </U>
+			<U WHO="SU-m"> yes. </U>
+			<U WHO="SU-f"> it's just a bunch of books haven't you been in a library before? </U>
+			<U WHO="S1"> ooh ouch. <OVERLAP> Anna be nice. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> i'm sorry. </OVERLAP>
+			</U>
+			<U WHO="SU-m"> damn Anna that kinda hurt. </U>
+			<U WHO="S1"> that did kinda hurt i i i think an ass-whipping is, definitely in order. </U>
+			<U WHO="SU-m"> yeah really. </U>
+			<U WHO="S1"> no. <EVENT DESC="LAUGH"/> alright so i'm sorry but the majority has kinda overruled you, <U WHO="SU-m"> that's (cool.) </U> um if you want i'll even take you on a personal tour you can get stuck in there you get lost in there trust me you're never getting out. </U>
+			<U WHO="SU-m"> you got two personal tours to do tomorrow for him and for (him.) </U>
+			<U WHO="S1"> that's right that's right i got personal tours to do tomorrow. anyway uh we're kinda standing in the central Diag area_ i don't know if she's done. hey hey are you done? Tina. </U>
+			<U WHO="SU-f"> what? </U>
+			<U WHO="S1"> are you gonna be done after this? </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S1"> oh. </U>
+			<U WHO="SU-f"> i rerouted. </U>
+			<U WHO="S1"> oh. </U>
+			<U WHO="SU-f"> i'll be_ i'll be off here in a second. </U>
+			<U WHO="S1"> well hurry up. </U>
+			<U WHO="SU-f"> okay. </U>
+			<U WHO="S1"> God, jeez. okay anyway. so she's taking the lame route so you guys actually really did_ definitely got the best tour because you're supposed to end with the M it's the coolest part. so she's gonna go from the M, to the library. </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S1"> so alright anyway. so okay there's a lot of different things to talk about in this area. introduce you to a few buildings on campus so i don't_ i give you the full tour. over here is the, Randall Laboratory Physics Building this red one right here if you can_ you can barely sorta see it over here, is the middle white part in the middle now why is this building cool? well physics is held there and physics is cool. no actually physics sucks i hate physics it's probably one of the worst subjects that's ever been taught here ever, um that's just my personal opinion, but um anyway the cool b- part about this building is that middle part is all completely free-standing and it's on its own base. it's on its own base. why is it on its own base it's so it's they can do seismic studies. they have these little generators in the inside that can shake that part of the building so they can do, earthquake stuff. pretty damn cool okay. the rest of the building, isn't like that but the middle part it's all labs up in there and it shakes freely on its own base. whoa. moving on to the left coming over here to the brick building over there is the School of Natural Resources and the Environment anybody involved in that? really cool program here at the University of Michigan lotta people call 'em tree-huggers, i do too, but i got a lot of friends who are in 'em_ in it so i can do that. really really really neat if you're, going into biology another neat thing to do is to go to the Biological Station up, towards the U-P. really really cool thing to do i did it i studied insects, and uh ecology. the insects was a little off but it was pretty cool too cuz i got the really phat Belostomatid it's really really neat it's kinda <EVENT DESC="SOUND EFFECT"/> crawling around it was huge killed it big thing <EVENT DESC="SOUND EFFECT"/> it was really fun, talk about that later too Chemistry Building's right next to that if you're interested in chemistry or even if you're not that's the Chemistry Building, one of the biggest lecture halls, in the world is in that building right there actually just in the United States. uh holds about six hundred people but they can't even put six hundred people in there because it's not built um right the N-E-A the National Education Association or somebody else said, sorry you can't fill it to capacity, because it's kinda like, it's kinda drawn <EVENT DESC="DRAWING"/> like you got the, chalkboard here right, and you got all the seats that go like this, right, and the problem is you can't put anybody here or here, up in this area sorry or up in this area because they can't see the board right. so, they actually can only put people in this middle area, so they can only fill it enough so that people can sit in the middle area people sit on the sides anyway and sleep, but you know you gotta give it an (opportunity.) another neat thing about this b- room is that right here where these, chalkboards are three chalkboards lift hydraulically up into the air about thirty feet in the air. pretty cool they write on the one board write on the one board write on the one board, they don't feel like erasing it. and here at the University of Michigan, you can be lazy as a professor and hit that, little key <EVENT DESC="SOUND EFFECT"/> lifts it up to the second level. you get bored you're writing on the board writing on the board you don't want to erase that one either. <EVENT DESC="SOUND EFFECT"/> you can go into three tiers up in the air and you got this huge phat chalkboard thing, up in the air. pretty cool so if you e- ever have a class in there go in there cuz it's cool. it's intimidating as hell but it's really cool. just to realize that building that room we were in this morning, that's just like all the_ a lot of all the_ uh blah la la la. that's just like most of the um, lecture halls on campus. the one we were in this morning, that's pretty standard. don't flip out it's not that big. that one, is huge it's the first lecture hall i ever went in and the first one i ever saw i walked in, registered for classes i'm all geeked i went in for my, my uh, my first class my chem one-thirty class i sat down, four hundred other people around me, pissed myself i was so scared. <EVENT WHO="SU-f" DESC="LAUGH"/> but, keep in mind that Angell Hall Auditorium A is the average size classroom that we were in this morning. moving around the corner, we have, with this white little, um Hershey's-Kiss-looking thing, that is a greenery, green_ what is </U>
+			<U WHO="SU-f"> greenhouse? </U>
+			<U WHO="S1"> greenhouse. greenhouse thank you very much yes i am a biology major. uh the building behind there is the Biology Building, not much in there except the Nat Sci Auditorium, cool stuff happens in Nat Sci Auditorium they show free movies in there every now and then, you gotta wait for about two hours in line just to see the free movie but it's pretty cool nonetheless, and uh you'll take exams in there it's one of the worst places to take exams because you're sitting in this little chair, and you got this little tiny desk like you did for those placement tests right, the desks are smaller and th- the uh_ the table_ er the_ the guy in front of you is even closer. so you try to put your, knee up you're kicking somebody in the back of the head it's a really big pain in the neck, took all my exams in there that's why i didn't do so well here at the University of Michigan. moving over here is Angell Hall, Angell Hall pretty much speaks for itself a lot of great stuff in a lot of administration buildings etcetera etcetera etcetera. any questions before we move on to the coolest part of the tour? </U>
+			<U WHO="SU-m"> is that where the Fishbowl is? </U>
+			<U WHO="S1"> that's where the Fishbowl is. what is the Fishbowl? everybody's wondering what the Fishbowl is Fishbowl is one_ you'll see it on the third day. unless you're an engineer. uh then you won't see it, um you'll see a cooler building actually but um the Fishbowl is a big big big room, and it has, about three hundred computers in it. one of the largest um... </U>
+			<U WHO="SU-f"> (here's) a mystery chew. </U>
+			<U WHO="S1"> oh my god. i dropped a mystery chew. has about three hundred computers in it and's one of the biggest computing sites on campus, uh University of Michigan houses more computers than any other facility in the United States except Microsoft and NASA. whoa. lots of computers so the question is do i bring my own computer? obviously you don't have to cuz you can find a computer somewhere else because we got that many computers i guarantee there's probably gonna be one available. if you're willing to walk a little bit. who wants a mystery chew? takers for the mystery chew? Adam's got the mystery chew, threw it on the ground, last part of the tour <EVENT DESC=":10 PAUSE WHILE WALKING"/> ooh careful careful back up back up. alright. this is the most, sacred and beautiful part, of campus. this is the M and i know you guys think you know what the story is, i know you guys think you know everything but you don't. i'm telling you now you don't know the story of the M before we talk about the story of the M though because it's one of my favorite stories we're gonna talk about the story about the pumas, which are in front of the Nat Sci Aud- er Natural Science Museum. pumas in front of the Natural Science Museum cuz they're gonna come into play later there are two big stone pumas in front of the Natural Science Museum and who knows what those_ that story is? every time </U>
+			<U WHO="SU-m"> you gotta run, like naked (a in front of them) </U>
+			<U WHO="S1"> no no no shh. that's coming up. <EVENT WHO="SS" DESC="LAUGH"/> next? come on everybody knows. </U>
+			<U WHO="S3"> you mean like the bell ringing (and you have to run back and) (xx) </U>
+			<U WHO="S1"> yeah that's true but there's something else. okay so what everybody always thinks, they always tell people on the campus day tours and the other campus day tours, you know when you got your parents with you they always say, every time, um, Michigan beats Ohio State the pumas roar. well, we beat Ohio State all the time. and they're stone. they're not roaring i'm sorry it's not gonna happen. so actually what is true is every time a virgin graduates from University of Michigan, the pumas roar. and as they're, stone, they've, never roared. anyway so that's the legend just wanted to throw that out, for the little thing there, moving on to the last part of the tour this is the M. very sacred and, actually geographical center of campus, this is the M. the M was actually just refinished all this area right here (all) around, it was_ used to be blue this blue part right here uh we- used to be blue but it's not blue now it's rose or salmon or whatever the hell color you wanna call it, and they just sent it to England last year to have it refinished last summer this whole area was completely redone so you're standing actually in the new Diag, um and it's a lot more light_ lit than it was before like i said i was playing frisbee here (at) two o'clock in the morning, we're gonna come back from the comedy troupe thing at night and you_ we probably are not going to go through here but you look over here you see this wow i mean it looks like, what do you call it Close Encounters of the Third Kind man it's just like all lit up it's totally cool people study out here under these lights, two o'clock in the morning i'm not kidding at all, so anyway, really neat refinished and everything like that so what's what's the story about the M? </U>
+			<U WHO="SU-m"> you can't step on it. </U>
+			<U WHO="S1"> shh. see i don't want you to screw up the story, see i appreciate your efforts but you can't screw up the story cuz everybody's got their own version of the story and everybody always tells their version of the story, and it's wrong i guarantee it this is the only story, here. </U>
+			<U WHO="SU-m"> cuz it's your story. </U>
+			<U WHO="S1"> cuz it's my story and i only tell the truth, i never lie. so anyway, currently stepping on the M why am i allowed to step on the M? i just graduated from the University of Michigan and i've already taken a bluebook. what's a bluebook? a bluebook is a big thick wad of paper. with a blue cover on it. and wh- if you take a class like econ, take a class like oh i don't know philosophy, sociology, history, those kind of things. involves a lot of reading and writing. you're gonna probably take an essay exam. that essay exam is gonna be given in a bluebook, if you are to disrespect the M... <U WHO="SU-m"> eat the bluebook </U> if you were to disrespect this M and step on it inappropriately, you're gonna fail that bluebook because you have acquired the curse. i, i didn't do that. i wanted to respect the, M until after i took my first bluebook and i took that bluebook on my birthday, October twenty-seventh, so you can all send me cards, my freshman year, and i aced that bluebook. i did i studied, i didn't step on the M and i aced that but somebody else. they stepped on that M they studied hard too, they got an A as well but they still acquired the curse. and they should've failed their bluebook and it's coming later it may not come right away, sometimes it takes awhile but, they're gonna fail, at some point. the only way to reverse the curse, is to strip completely naked from this spot and run all the way to the pumas over there by the Natural Science Museum and give 'em a kiss <EVENT DESC="SOUND EFFECT"/> on the face run all the way back and, get dressed by the stroke of midnight according to the Burton Tower. that's the only way to reverse the curse. so, the night before bluebook exams hundreds and hundreds of people are running naked, no not really but, it'd be pretty cool if they were. so anyway, that is that, about that. are there any questions? no. you guys are so quiet so quiet all day today </U>
+			<U WHO="SU-m"> fascinated. </U>
+			<U WHO="S1"> fascinated in awe. </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1"> that deserves a Starburst right there. </U>
+			<U WHO="SU-m"> (okay good.) </U>
+			<U WHO="S1"> definitely definitely. how do you pronounce your name? </U>
+			<U WHO="SU-m"> (Shill. Sepa) </U>
+			<U WHO="S1"> really. </U>
+			<U WHO="SU-m"> yes. </U>
+			<U WHO="S1"> that's beautiful. </U>
+			<U WHO="SU-m"> thanks. </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> no i'm not kidding at all, that is awesome. okay so anyway, actually that concludes our tour. <U WHO="SU-m"> yes. </U> i thank you very much, for uh, being on the tour, sticking it out, and uh dealing with my ramblings and craziness, um the last couple minutes before we go in to go see the comedy troupe, i like to hang out here and just relax, cuz this is really a lot of work for me. so we're all gonna hang out i got some frisbees in the back, got some extra Starburst, we're all just gonna chill i'm gonna play some frisbee if anybody's up for frisbee i'm definitely down with frisbee, otherwise, this concludes your tour here at the University of Michigan i hope you enjoyed yourself. <EVENT WHO="SS" DESC="APPLAUSE"/> if you have any questions, (you_) thank you very much, this is the first group that's clapped you guys. so anyway i'm just gonna hang out over here so if you guys wanna come over here or you don't that's fine, um you can go, take a leak or, anything, over there if you want through those same buildings (over there.) you had a question? </U>
+			<U WHO="SU-m"> (can i have a) frisbee? </U>
+			<U WHO="S1"> yeah definitely definitely. so we're done, actually, if you guys, <U WHO="R1"> okay. </U> want this back. <U WHO="SU-m"> (where is) (xx) </U> um we're just gonna play </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

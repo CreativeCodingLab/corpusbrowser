@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="tou999ju030">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Freshman Orientation Tour </TITLE>
+				<TITLE> Rackham Div: NA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> TOU999JU030 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales. (1999) The Michigan Corpus of Academic Spoken English. Ann Arbor, MI: The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES: NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="77">
+						<DATE> August 3, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with one wireless remote and one handheld mic </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Brooke Mays, Carrie Sue Kay Sulzer </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Final Editing, 11/16/99 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="15"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="13"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SU, Tour Leader" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="SG, Researcher" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="R2" LANG="NS" ROLE="SU, Researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-1" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-2" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-8" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-10" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-11" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU" LANG="NS" ROLE="JU, Student" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="JU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Walking tour of Central Campus beginning at East Quad and ending at the Grad Library </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT DUR="4:15" DESC="MICASE RECORDING ANNOUNCEMENT"/>
+			<U WHO="S1"> okay. so. i got a couple quick_ please listen to me please please please listen to me please listen to me, thank you. i got a couple quick. so honest to God if you guys don't wanna be here i'm not gonna be pissed at you. so if you wanna leave, be back at eight o'clock at the same, um auditorium that we were at this uh morning, for our_ for the comedy troupe thing. </U>
+			<U WHO="S2"> can you tell us why you have a water gun? </U>
+			<U WHO="S1"> i can tell you why i have a water gun. now the reason i have a water gun is because not so that i can shoot you guys <U WHO="SU-f">
+					<OVERLAP> no no no </OVERLAP>
+				</U>
+				<OVERLAP> i promise </OVERLAP> see this is this is definitely group love this is spade love okay? definitely group love all the other groups pretty much suck okay? family at U-of-M talked about that a lot this morning but all the other groups they suck. now okay, we're divided, okay, so we're gonna be yelling a lot of, semi-obscene things at the other groups, we're gonna be shooting them with water </U>
+			<U WHO="S3"> you have like the smallest water gun though <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> yeah you do. </U>
+			<U WHO="S3"> you really do </U>
+			<U WHO="S1"> really? </U>
+			<U WHO="S3"> um yes. </U>
+			<U WHO="S1"> you like <OVERLAP> testing </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> the water gun? you wanna see really what the water gun can do? no i didn't think so. i didn't think so... it's leaking... </OVERLAP> trust me. </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S1"> i end up winning, nine times out of <OVERLAP> ten. </OVERLAP>
+			</U>
+
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

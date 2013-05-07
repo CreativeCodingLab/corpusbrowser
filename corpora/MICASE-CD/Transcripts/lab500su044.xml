@@ -1,0 +1,1081 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="lab500su044">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Biopsychology Lab </TITLE>
+				<TITLE> Rackham Div: BS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LAB500SU044 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="52">
+						<DATE> October 28, 1999 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Joanne Morgan, Matt Murphy </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Rodney Pratt </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 11/7/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="22"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="9"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SG, Instructor" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Students" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Students" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom Laboratory, East Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> they're gonna be posted on the Internet but like not until Monday, or something like that <U WHO="S2"> really? </U> so i figured <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> when's the test? </OVERLAP> this Thurs- two weeks from next (xx) </U>
+			<U WHO="S1">
+				<OVERLAP> yeah, it's like a one-to-four ratio </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it's gonna snow hell of a ratio Jesus </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, (xx) or so. </OVERLAP> um the exam'll be two, Tuesdays from now. <OVERLAP> and the review will be next_ </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (this Thurs-) </OVERLAP> two Thursdays? </U>
+			<U WHO="S1"> two Thursdays from now. and the review will be this coming Wednesday. and, i i took a lot of your criticism about the last review to heart and, i'm running it. so don't worry about it, okay? it'll be okay. uh me me and Angie are running it. </U>
+			<U WHO="S4"> wait is Wednesday the only review? </U>
+			<U WHO="S1"> Wednesday is the only review session, but it's it's in class. wh- can you not make class? or what? </U>
+			<U WHO="S4"> oh in class. </U>
+			<U WHO="S1"> it's in class just like last time, yeah. <U WHO="SU-f"> oh, right </U> so we're gonn- we're gonna go over a lot of stuff and a lot of material. try to help y'all out a little bit. </U>
+			<U WHO="SU-f"> instead of saying, we can't answer that. </U>
+			<U WHO="S1"> um, okay, so, <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<U WHO="SU-f"> shit </U> let's start. <EVENT DESC="SIGHS"/> this is the, like, such a cool thing if you have the right attitude about it, alright? these, the first thing to think about is that this is a mammalian brain. and, mammalian brains are fundamentally, and structurally, incredibly similar. what you are about to see is, in most ways that really matters, not very much different from what you see in in human brains. it's a lot smaller, and there's a lot of stuff that's less well uh, developed. but for the most part everything that's structured in this brain, humans have as well. they just have bigger or smaller versions of 'em. and, one of the things that you're gonna wanna do, is, one of the things- you- you're i definitely want you to see is that the cortex itself, in terms of its organization is pretty homogenous, and not very interesting. but, on the other side of the cortex, underneath the cortex, there's all this cool stuff. and that's really what you want to get at. get at it from underneath the cortex. things like the fornix, right? which is attached to the cingulate gyrus or the corpus callosum which is here. then goes underneath it's a myelinated sheath which seems to be involved in the organization of emotional, patterns. um midbrain structures, like, the hippocampus, which if you guys can find, is really really cool. i'll give ya_ i'll hel- i'll try to help you find it, but it's organized, basically underneath the temporal lobe, which is here. okay? these are all not cortical they're underneath the cortex. so, after you, do the work that's in here, think about the the the uh midbrain and the, hindbrain structures. and then all the stuff that's happening in, the brain stem, like the pons. um, the thalamus should be very easy to find. so will the inferior and superior colliculi okay? they're they're actually very very obvious. and the, the cerebellum. what i would recommend you do, is, take half your bra- you go- you got two halves of your brain right? take half your brain and take it through that step-by-step process that's on the sheet in front of you. and that will take you all the way to uh, pretty much like basically early subcortical, examination. take the other half of your brain, and dig around. try to find the stuff that that you that you think might actually be very very interesting that's actually in the book. and in particular, think about it in in terms of this context. the cortex itself, is really only about an eighth of an inch thick. okay? everything underneath the cortex is, uh connections, to other cortical areas, and midbrain hindbrain areas. so the things that you find underneath the cortex really will tell you a whole lot about how the brain's put together and how it works. wow. okay. it's gonna hafta be four to a brain. dissection sheets are over here. alright. okay. we, we've procured some incredibly high technology, <EVENT WHO="S5" DESC="LAUGH"/> plastic knives, nice. <U WHO="SU-f"> no way </U> okay, gloves are over here. okay, we have some like, really high-tech instruments designed to cut your brains up, alright? we also have some metal spat- metal spatulas, it doesn't matter. as a matter of fact, i recommend you use these, because it, it gives you a better cut, and they're lighter. it it- you- it's easier to control control the cut. um, these brains have been, uh stored in formaldehyde so they're a lot harder than they normally would be. if you took a brain like this from a sheep, you know if you were hunting down sheep one night and you, caught a sheep, and you pulled the brain out it would actually be very squishy and and very very uh, easy to damage. what happened with these, is that they were put in formaldehyde and they were soaked, so they've been basically hardened and solidified. that being said it's a very soft tissue. this is all you're gonna need. okay? this is all you're gonna need. you might wanna use two, but you should be able to do everything you need to do with fingers. and with with the butter knives. so, come on up, grab yourself a ins- implement of destruction. </U>
+			<U WHO="SU-m"> we need tweezers? </U>
+			<U WHO="S1"> tweezers are cool, for pulling away some of the smaller parts, and everyone's in- every group should try to have some. <U WHO="SU-f"> huh? </U> okay? </U>
+			<U WHO="S6"> now you go out and sell (underwear) again (xx) </U>
+			<U WHO="S1"> um </U>
+			<U WHO="S7"> yeah i know </U>
+			<U WHO="S1"> okay... follow the, basically follow the dissection process step by step. i wanna reiterate, this is a, teaching technique, this is a pedagogical method for you guys, to learn, where, the parts of brain are. i don't care what your brain looks like at the end of this. <EVENT WHO="SU-m" DESC="LAUGH"/> i heard some chemist was telling me some story about some pig that she was dissecting all semester and if she messed up the brain she got points off. i don't care, okay? what matters to me is that you use this to help you, on the exam, which comes in two weeks because i guarantee that there's gonna be anatomical questions on the exam in two weeks, alright? just take my word for it. just count on that. so um, have some fun with this, use it to to find the parts that're in here, and then dig around a little bit. if you have questions about a particular uh, organ or nucleus, see if you can find it. </U>
+			<U WHO="S7"> hey tell me about the pineal gland. wh- what exactly does the pineal gland what does <OVERLAP> (what does the pineal gland do) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the pineal gland </OVERLAP>
+			</U>
+			<U WHO="S7"> i just noticed it </U>
+			<U WHO="SU-m"> it's right, </U>
+			<U WHO="S7"> it's in the hindbrain, <U WHO="S1"> yeah it's </U> or the or the midbrain. </U>
+			<U WHO="S1"> it's really hard to find </U>
+			<U WHO="S7"> but it didn't say anything about it in the book </U>
+			<U WHO="S1"> the pineal gland is it's really only interesting if you're into, uh, uh <OVERLAP> (property dualism, which is Cartesian) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i i don't </OVERLAP> even know what that is </U>
+			<U WHO="S1"> uh it's a it's a it's a theory that that consciousness <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> (oh my god a) </OVERLAP> yeah <U WHO="S1"> yeah </U> why is it interesting if you you (xx) </U>
+			<U WHO="S1"> well because Descartes thought that consciousness can't (do anything) </U>
+			<U WHO="S7"> well yeah that's what i mean <U WHO="S1"> yeah </U> you ever see those old movies? <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> what was that movie? The Eliminator? </U>
+			<U WHO="S1"> i think so <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> where the </OVERLAP> guy's pineal gland, like <EVENT WHO="S1" DESC="LAUGH"/>
+				<OVERLAP> you know what i mean? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's cracks me up. </OVERLAP> um, one last thing. is i- are any of y'all, leaving before tomorrow? any of you guys going out go- going out of town for the weekend? </U>
+			<U WHO="S8"> possibly. </U>
+			<U WHO="S1"> possibly. is anybody else going out of town for the weekend? alright. <U WHO="SU-m"> (i wanna leave town for the weekend.) </U> um, i didn't have, i don't have your questions yet because of a photocopy snafu. <EVENT WHO="SU-m" DESC="LAUGH"/> i'll have 'em by eight-thirty tomorrow morning on the fourth floor, outside my office. mkay? they'll be in a box. so, that's why, i'm just asking now. otherwise just get 'em, you know, get 'em tomorrow. good. </U>
+			<EVENT DESC="MULTIPLE CONVERSATIONS NEXT 7:20 ONLY ONE TRANSCRIBED"/>
+			<U WHO="S8"> man i remember (seeing where you guys) (xx) you know. (xx) (specific) one of these little curves? </U>
+			<U WHO="S7"> no. </U>
+			<U WHO="S8"> this whole area? </U>
+			<U WHO="S7"> it's well like uh like front- frontal lobe i <OVERLAP> guess </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> this whole area? </OVERLAP>
+				</U> frontal lobe </U>
+			<U WHO="S8"> cuz then we can point to like a specific, thing you know? </U>
+			<U WHO="S7"> like temporal is temporal is uh right here <U WHO="S8"> right </U> i don't know what the_ where this_ where the differentiation is at. <U WHO="S8"> right <OVERLAP> occipital (xx) </OVERLAP>
+				</U>
+				<OVERLAP> and the </OVERLAP> occipital is, yeah that's the uh </U>
+			<U WHO="S8"> somewhere up here </U>
+			<U WHO="S7"> that's the cerebellum <U WHO="S8"> yeah, <OVERLAP> (somewhere) </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> so it- it's in the back, correct? </U>
+			<U WHO="S8"> and then (parielesum,) up here? </U>
+			<U WHO="S7"> right </U>
+			<U WHO="S8"> and parietal up on top </U>
+			<U WHO="S7"> honestly, yeah, i don't remember her showing us, i think she said it was really sketchy you know sort of between where exactly between like uh, you know parietal ends and the frontal starts. </U>
+			<U WHO="S8"> so... alright. trying to find the central sulcus <OVERLAP> (xx) precentral and postcentral, </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> look at the eyes? (xx) </OVERLAP> those are the eyes you think? </U>
+			<U WHO="S8"> uh, it's possible </U>
+			<U WHO="S6"> whoa it's freaky, </U>
+			<U WHO="S7"> (i thought there) was only one optic nerve that comes into the brain (maybe these things start here) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> when's a (xx) </OVERLAP> this seems like it's the spinal cord? </U>
+			<U WHO="S6"> uh this is the medulla? medulla and then coming up with this here the spinal cord. <U WHO="S8"> right </U> here so, </U>
+			<U WHO="S8"> i guess, this would would be the pons, somewhere here? <U WHO="S7"> right right </U> cerebellum, uh... you know where the central sulcus, is? </U>
+			<U WHO="S6"> right there </U>
+			<U WHO="S8"> yep. pre and postcentral, gyri? </U>
+			<U WHO="S6"> i don't even see where that is. </U>
+			<U WHO="S7"> this this alright </U>
+			<U WHO="S8"> nah, know where you know where the central </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S6"> we should (be able to see) it a lot better if we </U>
+			<U WHO="S8"> cut it open? <OVERLAP> oh yeah it's a </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i didn't quite </OVERLAP> make it though <OVERLAP> tried to bring </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> we should uh </OVERLAP>
+				</U> her over so it'd be veteran service. well okay so we got the (xx) central sulcus. the precentral or postcentral gyri gla- no that's an external? or, </U>
+			<U WHO="S8"> it look li- it looks like a (xx) (and uh) </U>
+			<U WHO="S7"> i thought that was a internal too like around a ling- like here's a, a gyri postcentral gyrus there, <OVERLAP> (xx) </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> no doubt, this is like eighth grade. </U>
+			<U WHO="S8"> alright, um... olfactory and optic nerves. olfactory looks like </U>
+			<U WHO="S7"> this is removed where it says removed i don't know if that's a diagram of what we were supposed to be looking at. hey Dan. </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S7"> o- is the olfactory bulb in this or not? </U>
+			<U WHO="S8">
+				<OVERLAP> is this it right here? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um, </OVERLAP> it's doubtful. </U>
+			<U WHO="S7"> doubtful? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S7"> cuz it says removed on this diagram </U>
+			<U WHO="S1"> yeah, it's it's usually yanked off, <U WHO="S7"> yeah? </U> during dissection. <U WHO="S7"> alright </U> what you do, what you should be able to find too is, let me see, well look at that. maybe you guys do have that. <U WHO="S8"> as in, olfactory? </U> that, that looks like the olfactory bulb to me. </U>
+			<U WHO="S7"> and what's the other one on_ the matching one on the other side? <OVERLAP> is that an optic nerve? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh well there're there're </OVERLAP> two of them. right? there're two olfactory bulbs, so there's one on each side. <U WHO="S7"> oh really? </U> yeah. and here's uh, now here's, here's a thinker for you (Rick.) the olfactory bulb. you know the optic chiasm is a cross-over, right? and what's happening there is that basically in the uh, the reason for that is because you know right hemisphere controls left side of brain <U WHO="S7"> yeah, right </U> olfactory systems are not like that. olfactory systems are what you call ipsilateral. <U WHO="S7"> yeah yeah </U> this is contralateral. <U WHO="S7"> right </U> ipsilateral. and so, when you see this, you see the way it kinda goes with the brain there. </U>
+			<U WHO="S8"> i have a question, when, when you're looking for the occipital lobes. <U WHO="S1"> uhuh </U> does it matter, when you look at the frontal lobe. is it just an area? <OVERLAP> or is it like </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's just it's area </OVERLAP> i mean, it's supposed <OVERLAP> be divided (into) central sulcus </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (cuz they always in all the diagrams they always) point to </OVERLAP> a specific, area </U>
+			<U WHO="S1"> yeah, i mean it's hard to find. like, the central sulcus is supposed to be right about, here. actually you can see <OVERLAP> it on this one really nice </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> and the sulcus </OVERLAP> that's like another just word for what? like a <OVERLAP> canal basically, it's not a structure it's just a differentiated </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> sulcus means, yeah sulcus is a is a um is </OVERLAP> is a is like a value. <U WHO="S7"> right okay </U> yeah, and and so here's your central sulcus. here's your frontal lobe there's your parietal lobe and there's your occipital lobe back here. so this division here, should tell you what you're (xx) </U>
+			<U WHO="S7"> and temporal temporal parietal that difference is there something <OVERLAP> that separates those two? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> temporal lobe </OVERLAP> is is sort of yeah temporal lobe is sort of hard to find on sheep. but it's folded under <U WHO="S7"> yeah </U> the way you think about it. think about the brain as a fist <U WHO="S7"> right </U> and the thumb is the is the temporal lobe <U WHO="S7"> right </U> and then you have your occipital lobe here. and the frontal lobe. so. the temporal lobe sort of folds underneath from the other cortex. <U WHO="S8"> right. </U> (xx) </U>
+			<U WHO="S8"> now now where's the optic nerve on there? </U>
+			<U WHO="S1"> and you guys it's really hard to find on this, but it would be here. </U>
+			<U WHO="S8"> that far back? </U>
+			<U WHO="S1"> well it kind of goes, it it shou- this is part of it right there. </U>
+			<U WHO="S7"> this is this is actually a sheep brain right? </U>
+			<U WHO="S1"> that's actually a sheep brain. and so this is a really good way to tell you where it would be. </U>
+			<U WHO="S7"> i don't even i don't even see. i see op- optic, chiasm optic tract, </U>
+			<U WHO="S1"> yeah, the optic tract is here. and what would happen is you- you would see a crossover. some of the crossovers are more clear than others. but that's like, this is the superior colliculus and so it's going right into the superior colliculus from there. this one's not. this one's been beaten up. we- we'll try to_ if you if you guys can't find certain organs, wander around a little bit and see if you can find them. </U>
+			<U WHO="SU-m"> alright </U>
+			<U WHO="SU-m"> (xx) pons and medulla (xx) </U>
+			<U WHO="S8"> uh, this would be, (xx) see it looks like the (pondula) pulled it out <U WHO="S7"> yeah </U> and this would be the pons and this would be the medulla. i mean this wo- </U>
+			<U WHO="S7"> well i think that little thing that we tore down (xx) <U WHO="S8"> okay </U> would be the pons. <U WHO="S8"> right right right </U> cuz there's a better picture of it <U WHO="S8">
+					<OVERLAP> turn the page. and then the hypothalamus </OVERLAP>
+				</U>
+				<OVERLAP> (xx) whose book whose book is that? that thing's gonna get nasty </OVERLAP> smellin- smelling that thing for another week in your book bag. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> hypoth- hypothalamus and this is, somewhere <U WHO="S7"> we gotta open this </U> under there <U WHO="S7"> we gotta open it up and and see </U> it looks like it's (xx) </U>
+			<U WHO="S7"> no yeah look at it. that's what it s- that's what it says. turn the brain over again. alright it says, i- uh it, try to find the uh, cranial nerves. <OVERLAP> i didn't think we cou- i didn't think we could do that. </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> without the brain being (open there.) in the book it looks like it's, really really hard to find. (gotta) kind of weave in and out of this tissue. </U>
+			<U WHO="S8"> the, cingulate, uh, gyrus? </U>
+			<U WHO="SU-m"> where is that? </U>
+			<U WHO="SU-m"> i don't know. </U>
+			<U WHO="S7"> oh that's </U>
+			<U WHO="S8"> well if it's cingulate (xx) the cranial, (xx) </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> i know i thought something was, <U WHO="SU-m"> yeah </U> leakage. </U>
+			<U WHO="S8"> leakage uh, (you mean) right there? the white part? </U>
+			<U WHO="S7"> it's it's a great (xx) internal (xx) (structure) from the rest of the, <U WHO="S8"> right </U> from the rest of the (xx) are connected with the (xx) </U>
+			<U WHO="S8"> connected (to) the hemisphere </U>
+			<U WHO="S7"> yeah, corpus callosum (xx) talking about that (xx) okay, yeah okay so you should be be, alright so you're <OVERLAP> at the corpus callosum </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> where's the cingulate gyrus? </OVERLAP> uh </U>
+			<U WHO="S7"> now see if you get a different (xx) </U>
+			<U WHO="S8"> it's uh <OVERLAP> (xx) right above the corpus callosum, it's gotta be like uh) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> so that must uh, connect the </OVERLAP> the limbic system with the uh <OVERLAP> (rest of the brain) </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> yeah see yeah yeah </OVERLAP>
+				</U> or the, or the cortical <OVERLAP> vestibules </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> the, right at the bulge, </OVERLAP> the uh the corpus (callosum.) <U WHO="SU-m"> hm' </U> that's layer five. </U>
+			<U WHO="S7"> i i i didn't realize it, like when i was m- meeting up there with uh, that three-seventy-whatever, two session. that everybody meets at the same time like right down the hall from each other. i saw, another girl (xx) </U>
+			<U WHO="S6"> what here in uh Dennison <U WHO="S7"> two-seventy-two </U> Abnormal? <U WHO="S7"> um </U> is that Abnormal? </U>
+			<U WHO="S7"> no Peterson, the, research class </U>
+			<U WHO="S8"> yeah yeah <OVERLAP> Abnormal </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> yeah Abnormal Research yeah </OVERLAP>
+			</U>
+			<U WHO="S8"> you're in that also? </U>
+			<U WHO="S7"> yeah </U>
+			<U WHO="S8"> that's crazy. </U>
+			<U WHO="SU-m"> we're all abnormal. </U>
+			<U WHO="S7"> yeah, i know you kept saying that maybe i took, yeah. the thing um, there was this girl, who's in another one. (xx) she's in my Cognitive Psych class. now </U>
+			<U WHO="S8"> she has three psych classes now? </U>
+			<U WHO="S7"> yeah, and i got like stats too right now </U>
+			<U WHO="S8">
+				<OVERLAP> (kind of) overworked </OVERLAP>
+				<U WHO="S7"> yeah </U>
+			</U>
+			<U WHO="S6"> it's a lot of work (xx) </U>
+			<U WHO="S7"> (xx) (but,) it's, not so hard, so far but i'm but i'm kind of kind of lo- losing my energy because it's getting sort of like repetitive <U WHO="S8"> yeah </U>
+				<OVERLAP> and uh it's getting </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> when y'all y'all are chopping </OVERLAP> your brains up. <U WHO="S6"> come on (xx) </U>
+				<U WHO="S7"> yeah </U> couple things to notice about this. some of the fibers are gray and some are white, <U WHO="SU-m"> mhm </U> right? think about why that <OVERLAP> might be so. based on what we've talked about. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> there's there's there's their speech class is gonna meet there, at Dennison </OVERLAP> right there, at four o'clock... </U>
+			<U WHO="S8">
+				<OVERLAP> wow </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> how did you guys </OVERLAP> do on the test? </U>
+			<U WHO="S8"> which one? (xx) </U>
+			<U WHO="S7">  the (xx) <U WHO="S8"> (xx) </U> yeah, it was easy. i i got a sixty-one. so <U WHO="S8"> i don't know what that is. i guess </U> it's an A (xx) </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S8"> i guess, you wanna, cut the brains in halves. anyone, wanna? </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> you got the brain. you got the buzzer. you got control control of the board. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> uh it, sounds like you're (xx) </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":05"/> yeah, that's a dissection there. (xx) </U>
+			<U WHO="SU-m"> (xx) </U>
+			<EVENT WHO="S7" DESC="LAUGH"/>
+			<U WHO="S8"> guess it's take off. (xx) just take this off? </U>
+			<U WHO="S7"> (xx) yeah, cerebellum and all that </U>
+			<U WHO="S8"> or we could chop it like this. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> no no no don't do that. see, does it rip right out? well anyway <OVERLAP> is that really totally (xx) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> nah i could </OVERLAP> i could actually cut up uh </U>
+			<U WHO="S7"> pretty nasty, oh that's cool. alright, cool. </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S7"> that's yeah it that's a regular one... funky. <EVENT WHO="SU-m" DESC="LAUGH"/> weird. </U>
+			<U WHO="SU-m"> which one's that? </U>
+			<U WHO="S8"> that's a <OVERLAP> keeper </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> that's a </OVERLAP> keeper. that's an easy one. <U WHO="SU-m"> alright </U> cut, <SEG TYPE="READING"> now carefully cut the callosum with your scalpel. </SEG>
+			</U>
+			<U WHO="S8"> okay now find the corpus callosum. that would be (xx) type looking (xx) </U>
+			<U WHO="S6"> boy it really is defined </U>
+			<U WHO="S8"> where's the fornix exactly? </U>
+			<U WHO="S7"> what the (xx) fornix? that's in a surrounded structure or something isn't it? </U>
+			<U WHO="S8"> surrounding (in) a, uh, (i really don't know) </U>
+			<U WHO="S7"> what does it uh, (xx) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> part of the (xx) </OVERLAP>
+			</U>
+			<U WHO="S8"> well this would be the, <U WHO="S6"> thalamus </U> thalamus. </U>
+			<U WHO="S7"> the thalamus is right all the way in the middle. <U WHO="S8"> yeah </U> and the hyp- and the <OVERLAP> hypothalamus is </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> the fornix is </OVERLAP> right around it </U>
+			<U WHO="S7"> whew. God that stuff stinks when it gets close to it. </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S6"> don't ask me. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S6"> (xx) </U>
+			<U WHO="S8"> squeeze the crap out of it. </U>
+			<U WHO="S6"> there it is </U>
+			<U WHO="S7"> the fornix. a- a- all i see is <OVERLAP> (xx) </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> so it must (xx) be connected to the corpus callosum, but it's just, <U WHO="S8"> oh it's <OVERLAP> connected because </OVERLAP>
+				</U>
+				<OVERLAP> like that like that little </OVERLAP> differentiation maybe right there. </U>
+			<U WHO="S8"> i guess it's kinda down <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> yeah </OVERLAP> yeah </U>
+			<U WHO="SU-m"> i guess it (xx) </U>
+			<U WHO="S7"> okay there's the pin okay so that thing right there on th- on the top end riding piggyback is the pineal pineal gland <U WHO="S8"> where is that? </U> the pineal body. it's riding piggyback right up right up on the top of the pons it's like a separate little structure. </U>
+			<U WHO="S8">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> that little that </OVERLAP> that little knobby thing </U>
+			<U WHO="S8"> oh it's not (xx) this one is it? </U>
+			<U WHO="S7"> i think that </U>
+			<U WHO="S8"> oh okay </U>
+			<U WHO="S8">
+				<OVERLAP> this thing right there </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> well like this </OVERLAP>
+				</U> that little, bulb for that. okay, what'd you say that is? </U>
+			<U WHO="S7"> the pi- the pineal body </U>
+			<U WHO="S6"> what's that, where's that on the uh </U>
+			<U WHO="S7"> no it's not i don't think it's <U WHO="S8"> oh okay </U> look on look on this one because this is an actually a sheep brain. </U>
+			<U WHO="S6"> he said it, he said there was no, apparent structure or i mean no, something </U>
+			<U WHO="S7"> it's a gland so it must, release some hormone or something. tha- that's what i think it's about (xx) </U>
+			<U WHO="S8"> (xx) </U>
+			<U WHO="S7"> pineal gland. now he's hurt. i don't know what exactly it does. </U>
+			<U WHO="S8"> (where's the) (xx) </U>
+			<U WHO="S7"> oh that's how they disattach. because remember the (xx) hangs that it hangs that it's really delicate and probably falls off or, or gets um, taken. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S6"> alright what else you guys? </U>
+			<U WHO="S8"> the cingulate gyrus. <U WHO="S7"> oh that's, </U> oh that's that's part of it right there. </U>
+			<U WHO="S7"> i, i can't tell </U>
+			<U WHO="S8"> (a gigantic) i think it's just the first layer </U>
+			<U WHO="S7"> do you have like a little piece of gray like right on top of your thalamus? </U>
+			<U WHO="S8"> not really no why. </U>
+			<U WHO="S7">
+				<OVERLAP> cuz i want </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> that's separated. that that that </OVERLAP> that is the uh fornix there. </U>
+			<U WHO="S6"> you think that's the fornix? </U>
+			<U WHO="S8"> yeah </U>
+			<U WHO="S6"> that's what i think too. </U>
+			<U WHO="S8"> cuz it, just looks li- i forget what it does but it look like, (xx) uh you know (xx) or something. </U>
+			<U WHO="S7"> cingulate gyrus is right there? </U>
+			<U WHO="S6"> alright, hypothalamus? </U>
+			<U WHO="S7"> hypothalamus is supposed to be underneath the uh (xx) </U>
+			<U WHO="S1"> alright, guys. some of you are are taking the phrase gently separate a little too far, and pulling it to the point where i've already seen two groups rip their corpus callosum, alright? <U WHO="SU-f"> oh </U> just pull it wide enough so that you get a little hole where you get the knife in there, and then cut, alright? but yo- some of you guys <OVERLAP> go </OVERLAP>
+				<EVENT DESC="SOUND EFFECT"/> you know you're just ripping the brain apart. </U>
+			<U WHO="S8">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> (xx) </OVERLAP>
+				<EVENT DESC="LAUGH"/> worse than worse than that, i'm sure you could cut anywhere. </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S8"> this would be the thalamus. this is definitely the thalamus. the the gyrus? </U>
+			<U WHO="S7"> what do we do? </U>
+			<U WHO="S8"> i mean this doesn't look like anything (xx) </U>
+			<U WHO="S7"> I wonder what this (xx) is right here? look at this, little guy. it's like a little, like separate structure right here. <U WHO="SU-m">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> yeah. </U>
+			<U WHO="S8"> i don't have any clue </U>
+			<U WHO="S7"> but that's a superior (colliculus,) it's right uh, (right there,) yeah, that's a, that's a little like, it's like a totally separate color. it's a different color, it's a different structure. <U WHO="S6"> is that the superior colliculus? </U> oh yeah. i wonder i don't know what that <OVERLAP> what that is </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> is that, is that a </OVERLAP> midbrain thing? a midbrain thing? </U>
+			<U WHO="S7"> that's a mid- that's a midbrain <OVERLAP> thing </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it looks like, </OVERLAP> tissue riding the lateral ventricles (xx) </U>
+			<U WHO="SU-m"> nah it's not (xx) </U>
+			<U WHO="SU-m"> it's the superior colliculus </U>
+			<U WHO="S7"> yeah. oh look here's (another) </U>
+			<U WHO="S8"> see this is screwing me up cuz i'm looking at the other side of the brain </U>
+			<U WHO="S7"> yeah (xx) </U>
+			<U WHO="S8"> nah, not exactly no. actually i got the hole here ( now i actually got) (xx) i don't know, do we have it there? </U>
+			<U WHO="S7"> you got, you got some stringy stuff coming off, comes off of the uh pons (and the) medulla </U>
+			<U WHO="S1"> hey Kevin. </U>
+			<U WHO="S7"> hey what? </U>
+			<U WHO="S1"> is this pineal gland here? that's uh, <OVERLAP> behind the pons </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> i got i got </OVERLAP> pineal gland yeah </U>
+			<U WHO="S1"> you got it? </U>
+			<U WHO="S7"> yeah. </U>
+			<U WHO="S1"> lemme see it. let's see. </U>
+			<U WHO="S6"> we're assuming. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S7">
+				<SEG TYPE="READING"> pineal gland is located (behind the thalamus) </SEG>
+				<U WHO="S1">
+					<OVERLAP> there it is </OVERLAP>
+				</U>
+				<OVERLAP> and i think it's either that </OVERLAP>
+				<U WHO="S1"> yep that's it </U> and we're thinking that's the superior colliculus right there. </U>
+			<U WHO="S1"> one of the best ways <OVERLAP> to see the superior colliculus is </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> it starts a separate body completely </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah you got- you gotta really gotta get in there. after you, do each analysis, <U WHO="S7"> mhm </U> cut this area away, and and cut away the cortex and then you're gonna see the superior colliculus more easily. </U>
+			<U WHO="S7"> i got, i got a nerve coming out <OVERLAP> right there </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uhuh uhuh </OVERLAP> that's one of the cranial nerves. <OVERLAP> it's (part of the) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (xx) the hypothalamus. </OVERLAP>
+			</U>
+			<U WHO="S1"> the hypothalamus? </U>
+			<U WHO="S8"> yeah. </U>
+			<U WHO="S1"> well the thalamus is, <U WHO="S8"> this thing right here </U> this large object right here, so the hypothalamus is sort of a broad structure. you can see, (hey) look here. should say it right here. (it doesn't) (isn't that the hypothalamus) the hypothalamus is sort of it sorta holds the thalamus underneath right there. so it's not_ it's kinda, it's kinda hard to see as a differentiated object, <U WHO="S8"> okay </U> it's real small. </U>
+			<U WHO="S8"> like on on this half it'd be uh, <U WHO="S1"> lemme </U> okay this is the hypothalamus right there? </U>
+			<U WHO="S7"> (i guess let's see) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> yeah there's your there's your thalamus there. </U>
+			<U WHO="S8"> (the) hypothalamus must be that <OVERLAP> coming in </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> it's not a connecting area (xx) </U>
+			<U WHO="S7"> what do you what do you what do you guys think (well) maybe this is a hypothalamus, it's like a separate sort of structure, </U>
+			<U WHO="S1">
+				<OVERLAP> that uh </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> or </OVERLAP>
+				</U> is the mammillary body. if you look underneath. <OVERLAP> that's, well well there's the opt- there's the optic tract right? yeah </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> so what you're seeing right there is you're seeing, you're actually seeing the fib- the the cross-section of the fibers that make up the optic, tract, yeah. </U>
+			<U WHO="S6"> so the optic tract is, there's an optic nerve, where? you mean, </U>
+			<U WHO="S1"> this is the optic, this is the optic nerve. </U>
+			<U WHO="S6"> optic, optic tract is <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S8"> last question. <U WHO="S1"> yeah </U> this part right there </U>
+			<U WHO="S1"> this area here? </U>
+			<U WHO="S8"> uh yeah (xx) </U>
+			<U WHO="S1"> okay so this is gonna be, when you pull this over, that's your superior colliculus. it's just you can't see it very well cuz it's hidden by cortex. </U>
+			<U WHO="S8"> oh, okay so that's what you were saying. </U>
+			<U WHO="S1"> yeah, so, after you guys do some (xx) one thing you can do is you can actually do a a horizontal slice this way and sort of see wha- actually no one's ever done that. (xx) do the horizontal slice this way. and you </U>
+			<U WHO="S8"> can we uh (xx) the cortex? </U>
+			<U WHO="S1"> yeah, because what's happening is that the cortex is hiding, (xx) (some) meninges. the cortex is hiding all this cool stuff. <U WHO="S6"> right </U> so if you can peel away the cortex, a lot of you will just <EVENT DESC="SOUND EFFECT"/> pull it away, you'll see a lot more </U>
+			<U WHO="S7"> now would this lemme a- lemme get two more questions here, we got a gra- some gray material right there. </U>
+			<U WHO="S1"> that's meninges. that's uh just um <U WHO="S7"> just </U> yeah that's that's uh like the the the uh <U WHO="S7"> (xx) matter </U> it's the membrane that protects the brain and cushions it. </U>
+			<U WHO="S7"> and it's that far inside the <OVERLAP> brain (xx) structure </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, yeah </OVERLAP> well yeah because what it does it also goes inside the, <U WHO="S7"> th- </U> this is a a_ that's a </U>
+			<U WHO="S7"> a fold? </U>
+			<U WHO="S1"> (this is_) what'd you, what'd you say? </U>
+			<U WHO="S8"> the fold? </U>
+			<U WHO="S1"> not the folds the um, (God) what the_ ventricles. these are the ventricles, <U WHO="S8"> mhm </U> this is a ventricle, here </U>
+			<U WHO="S8"> any s- any s_ (xx) </U>
+			<U WHO="S1"> yeah those are those big_ space there? that's our, that's our ventricle. and there's a big old mama ventricle underneath. </U>
+			<U WHO="S8"> (here) </U>
+			<U WHO="S1"> y- yeah exactly, and you see this white really_ this is a really tough white fiber here? <U WHO="SU-m"> yeah </U> that's actually tough fiber that separates this ventricle on the right hemisphere from the left hemisphere. when you chop through it there would be fluid inside this ventricle. </U>
+			<U WHO="S7"> and so, the pineal gland, is there any uh, um, a hormone that it secretes? <OVERLAP> or, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> it secretes, i don't know what it's for, <OVERLAP> but it does secrete a hormone (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> purpose (xx) </OVERLAP> yeah </U>
+			<U WHO="S1"> yeah i can't just remember though off the top of my head. i'll probably remember about, in another two weeks. </U>
+			<EVENT WHO="S7" DESC="LAUGH"/>
+			<U WHO="S8"> um, where'd he say the ventricles were? </U>
+			<U WHO="S7"> um (lemme see) like. (in that hole) </U>
+			<U WHO="S8"> like spaces? </U>
+			<U WHO="S7"> yeah, an- anything any any of the separating areas have the ventricle because that's gonna be fluid (xx) </U>
+			<U WHO="S8"> right you know </U>
+			<U WHO="S7"> (you see these) layers </U>
+			<U WHO="S8"> optic, chiasm. </U>
+			<U WHO="S7"> you see, where we were pointing at? </U>
+			<U WHO="S6"> no </U>
+			<U WHO="S7"> i got a big old mother nerve right there. </U>
+			<U WHO="S8"> that's the (xx) brain? </U>
+			<U WHO="S7"> yeah it comes underneath. </U>
+			<U WHO="S8"> (xx) down (over here?) is that underneath here? </U>
+			<U WHO="S7"> (xx) oh yeah you do. </U>
+			<U WHO="S6"> this point right here, (xx) </U>
+			<U WHO="S8"> mammillary bodies? </U>
+			<U WHO="S7"> i think they're mammillary bodies but i was pointing at i thought that mighta been the hypothalamus but that's that <OVERLAP> right there. so, </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> how was he saying </OVERLAP> to cut it? </U>
+			<U WHO="S8"> he said cut it through the uh, </U>
+			<U WHO="S6"> through the <OVERLAP> corpus? </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> through </OVERLAP> the corpus </U>
+			<U WHO="S7"> i wanna get through the (xx) the midbrain after that? </U>
+			<U WHO="S8">
+				<OVERLAP> yeah, </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> look at the (xx) </OVERLAP> look over here. </U>
+			<U WHO="S7"> yeah, it's like, gritty man. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S8"> the dorsal surface is like, (one or two from) here. (xx) </U>
+			<U WHO="S7"> (that's not what he was saying about this) it's way, <OVERLAP> you know </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> alright </OVERLAP> you gotta pull the cortex and the cerebellum, away from the dorsal. from the dorsal brain stem? </U>
+			<U WHO="S6"> yeah (xx) </U>
+			<U WHO="S7"> pons. okay so, how do we know what the pons is? (how do we know what to do with this?) </U>
+			<U WHO="S6"> maybe that's the mammillary body. what what'd he say (xx) </U>
+			<U WHO="S7"> (xx) (over here) </U>
+			<U WHO="S8"> uh, hippo- how do you get the hippocampus? </U>
+			<U WHO="S7"> right, it's this <PAUSE DUR=":05"/> mm, (xx) don't have it (on mine,) what is this right here? hippocampus is, underneath, but i don't have it on the chart for the, sheep brain, olfactory, </U>
+			<U WHO="S8"> (we're) trying to get in here to the visible (xx) what's this in here? (xx) </U>
+			<U WHO="SU-m"> oh that's the (xx) </U>
+			<U WHO="S7"> (y'all) want the half the brain to work with now? </U>
+			<U WHO="S8"> see this in here? this (xx) </U>
+			<U WHO="S7"> yeah that's what i was looking at too. yeah. i don't know. it it's a knobby little it's a knobby little structure. </U>
+			<U WHO="S8"> it doesn't show (anything.) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S6"> wow, like a little uh, section in there. </U>
+			<U WHO="S7"> (well) that'd be amygdala. you got the nerve, (xx) </U>
+			<U WHO="S6"> a separate sulcus </U>
+			<U WHO="S8"> i'm just gonna slice it out. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S6"> yeah, there's like all this bullshit in the way. </U>
+			<U WHO="S7"> we don't have an amygdala on our (tract...) </U>
+			<U WHO="S8"> alright </U>
+			<U WHO="S7"> so that's a good slice. </U>
+			<U WHO="S6"> i don't (if) (xx) </U>
+			<U WHO="S8"> this looks like nothing to me <EVENT WHO="SS" DESC="LAUGH"/> i have no idea what this this thing this thing does </U>
+			<U WHO="S6"> all the (definitions along there?) </U>
+			<U WHO="S8"> still don't <OVERLAP> know. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> (you might) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> yeah (xx) oh well, (is that a) that's a <OVERLAP> slice, right? </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> side of that, yeah </OVERLAP>
+				</U> so you musta sliced outside of the <OVERLAP> (xx) </OVERLAP> . </U>
+			<U WHO="S8">
+				<OVERLAP> at least </OVERLAP> there'll be something in there. i dunno but i needed something. </U>
+			<U WHO="S6"> (what does a) (xx) (do?) </U>
+			<U WHO="SU-m"> what is all this stuff? </U>
+			<U WHO="S7"> i don't know, i think that's the, we just got outside the limbic system. so a lotta that st- it's like all that stuff is on the outside of the brain. you know? inside_ the inside it's it's really <U WHO="SU-m"> gray </U> it's really yeah that's how, people say people say, (xx) </U>
+			<U WHO="SU-m"> it's (xx) </U>
+			<U WHO="S8"> whoa. this broke right off. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> i think that's the top of the cere- <U WHO="SU-m"> this thing? </U> the top of the cerebellum or top of the, occipital? </U>
+			<U WHO="SU-m"> seems like the smaller you get smaller and smaller little curves see how it, <U WHO="SU-m"> yeah </U> see how it gets smaller and <OVERLAP> smaller (xx) </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U> each other. </U>
+			<U WHO="S7"> it's like a little snail. so that's, </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S8"> this is the nerve this is the optic nerve <U WHO="S7"> i-i-i- it might be </U>
+				<OVERLAP> (xx) optic nerve </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> cuz the </OVERLAP> optic nerve goes back to the, <U WHO="SU-m"> yeah (xx) </U> cuz the optic nerve goes right back to the, um back of the brain. back to the um, to the whatchamacallit. to uh, here. what do you call that? the occipital lobe (there.) </U>
+			<U WHO="S6"> (xx) </U>
+			<EVENT WHO="S7" DESC="LAUGH"/>
+			<U WHO="SU-m"> (xx) organs (xx) </U>
+			<U WHO="S6"> ( no i didn't i needed a lot on demand.) </U>
+			<U WHO="S7"> all those little curves </U>
+			<U WHO="S8"> yeah what is that stuff? (xx) </U>
+			<U WHO="S7"> (xx) like </U>
+			<U WHO="SU-m"> let's see (xx) </U>
+			<U WHO="S8"> i like the red (piculars.) <U WHO="S7"> whew </U> this part's just done. <U WHO="S7"> whew </U> kind of falling apart. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-6"> (xx) take a break </U>
+			<U WHO="S8"> hold on a sec </U>
+			<U WHO="S6"> (xx) back together again </U>
+			<U WHO="S7">
+				<SEG TYPE="READING"> take one to two brain hemispheres and pull the cortex and cerebellum away from the nerval brain stem. </SEG>
+				<U WHO="SU-m">
+					<OVERLAP> that's the brain stem </OVERLAP>
+				</U>
+				<U WHO="S8">
+					<OVERLAP> yeah i </OVERLAP>
+				</U>
+				<OVERLAP> so that's </OVERLAP> what you were trying to do and <U WHO="S8">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> it ripped </OVERLAP> okay. hey Dan? </U>
+			<U WHO="S1"> yo... i don't know what, i can't tell y- </U>
+			<U WHO="S6"> see a little bit of <OVERLAP> pressure </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> (see it's like </OVERLAP> brain) (xx) </U> a little bit of pressure and all this could start pulling apart. <U WHO="S8"> mhm </U> see they're all they're all curved slices like this one right here. <U WHO="S8"> yeah </U> (xx) here. cool, (xx) </U>
+			<U WHO="S1"> mhm? </U>
+			<U WHO="S7"> oh uh, alright, so, we got one half of this this this toast <OVERLAP> but we </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> alright </OVERLAP>
+				</U> gotta identify a coupla things <OVERLAP> (out) here </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> alright let's </OVERLAP> take a look at what we got here. </U>
+			<U WHO="S8"> don't look at me <OVERLAP> (since) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no, this is good </OVERLAP> this is a start, okay. <U WHO="S8"> okay </U> alright. </U>
+			<U WHO="S8"> (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> alright </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> you looked </OVERLAP> you looked you looked uh, blank. </U>
+			<U WHO="S1"> alright, <U WHO="S6"> look looked uh mild </U> this is yours, remember we were talking about those large objects? here's_ okay so first let me find everything. that looks like, okay. here's your superior colliculus. and your inferior colliculus, <U WHO="S8">
+					<OVERLAP> this this is </OVERLAP>
+				</U>
+				<OVERLAP> okay? </OVERLAP> yeah. </U>
+			<U WHO="S8"> and uh, isn't this the corpus? <OVERLAP> the uh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this is the </OVERLAP> cerebellum. </U>
+			<U WHO="S8"> the cerebellum. </U>
+			<U WHO="S1"> right. now imagine like with humans, it would look like this, right? which is why we w- w- confused wi- with, animals, yeah it's like straight back so this is superior inferior colliculi. now, what you're supposed to be able to do if you cut right through the middle of this, is find the substantia nigra but i i haven't found (anybody can) do it. um okay <EVENT WHO="S8" DESC="LAUGH"/> you can do it, alright. so th- this is a good example. you see that the thalamus, which was, here, right? and then the hypothalamus was here. and then you have this_ this is real- i have no idea what exactly this, object right here is. <U WHO="S6"> red stuff? </U> no this this this big old pumping, uh nucleus right here, it's got it's got <U WHO="S7">
+					<OVERLAP> a lot of veins in it (xx) </OVERLAP>
+				</U>
+				<OVERLAP> a lot of veins in it. it's highly innervated </OVERLAP>
+				<U WHO="S7"> (xx) little veins </U> yeah if you, pull away this stuff here, let me show you something. this is really tough cuz it's (hypolaminated,) but if you pull this away, you get, you see this? you see all the, you see the little stripes, the little lines there? <U WHO="S8"> yeah (xx) </U> that is, all fibers. that's all nerve fibers. i don't know what that is. um, i think, i think, it's like, basically, i mean this may actually be a thalamus and this may be the hypothalamus, and in which case, you know like all this crap we've been doing before is is wrong i've been told wrong all these years. it makes more sense because this is a big old object that has a whole lot of nerve fibers extending from it and there's a smaller object beneath it. but, whatever it is it's really interesting because of all the uh, all the <OVERLAP> nerve fibers </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> (nerve fibers) </OVERLAP>
+				</U>
+				<U WHO="S7">
+					<OVERLAP> mhm </OVERLAP>
+				</U> coming out of it. they're highly myelinated. so you guys found the superior colliculus and inferior colliculus. and then what else what else we got here? where_ oh is this colliculus? </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> okay, this is the fornix. alright? </U>
+			<U WHO="S8"> wait where is- isn't the fornix right on the, <U WHO="S1">
+					<OVERLAP> the fornix </OVERLAP>
+				</U>
+				<OVERLAP> (xx) (ventral) </OVERLAP> ventral side of the ah corpus callosum? </U>
+			<U WHO="S1"> it's on the ventral side of the corpu- it's on the ventral side of the corpus callosum and what you need here is that, okay is this the corpus callosum here? </U>
+			<U WHO="S8"> uh, no this is, <EVENT DESC="LAUGH"/>
+				<OVERLAP> (i threw it in the parts) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP> okay. and then, okay </U>
+			<U WHO="S8"> he just kinda took a cross-section and i just tried to pick it apart, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh, </OVERLAP> okay so this is actually goes on top like that. </U>
+			<U WHO="S8"> i don't remember to be honest <OVERLAP> with you it was (like yeah) </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> (xx) </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> and yeah that's right (it was on) that top curve (there) </OVERLAP>
+				</U>
+				<OVERLAP> it was the uh </OVERLAP> and the uh and then this is the uh, the corpus callosum and then that's the stuff below it </U>
+			<U WHO="S1"> okay you see this little lump here? if if i understand correctly if i remember correctly this would actually go, into the temporal lobe cuz this looks like, a temporal lobe (project-) so when you cut this one open be a little more careful. try to separate, try to cut off the top of the cortex. </U>
+			<U WHO="S6"> (this is) the other half </U>
+			<U WHO="S1"> this the other half of it? </U>
+			<U WHO="S6"> there's a lot. (xx) </U>
+			<U WHO="S1"> yeah. okay <OVERLAP> ooh yeah yeah </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> so try to cut off from </OVERLAP>
+				</U> here it is, check this out. alright, now pull this away. </U>
+			<U WHO="S7"> what's on your_ what's in your right f- between your right thumb and finger right here? </U>
+			<U WHO="S1"> right here? </U>
+			<U WHO="S7"> no right up there </U>
+			<U WHO="SU-m"> no, that's no- </U>
+			<U WHO="S7"> no the the, pull it back, <U WHO="S1"> mhm </U> what's that snail, like, that thing that kinda curves around and stuff? <U WHO="S8"> right there? </U> looks like a little knob (xx) like this right here. </U>
+			<U WHO="S1"> i don't i don't know. i don't know what that is. this is um, this part right here is interesting because there, is the fornix. you see that? you see this, right here? this is the fornix and if you pull this away, <U WHO="SU-m"> peel it? </U> yeah, if you peel it away, really gently. underneath that? </U>
+			<U WHO="SU-m"> ooh </U>
+			<U WHO="SU-m"> look at that </U>
+			<U WHO="S7"> the, stringy uh? </U>
+			<U WHO="S1"> yeah, it it's really interesting isn't it? and and underneath that, on this side, should be, <U WHO="S8"> (xx) </U> the hippocampus. yeah, i know be careful with that all the <EVENT WHO="SU-m" DESC="LAUGH"/> crap that's coming outta here. but this this curves around like that and then, where's the, am i doing this the right way? oh okay. so this is frontal and this is, okay. and this_ what happened here is that, underneath this, kinda nestled in there should be the hippocampus, (and) in the temporal lobe right in here, should be, the amygdala. so if you pull the fornix away and you pu- there's another layer of fornix here, if you pull that away, you should find the hippocampus sort of nestled in the cortex <U WHO="SU-m"> mkay </U> alright? yeah </U>
+			<U WHO="S7"> so those things are actually, you can't see 'em unless you dig <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> you really gotta dig. </U>
+			<U WHO="S7"> so i should make should make like i should make a cut on top of the cors- <U WHO="S1"> yeah </U> corpus callosum and just try and? </U>
+			<U WHO="S1"> cut on top and try to and try to get at it in two ways. but remember that what's gonna happen is that those bodies will separate <OVERLAP> away from </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> right right right </OVERLAP>
+				</U> each other. you know what i mean? but it's hard. like finding the hippocampus is really hard... </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S7"> what is this, uh guy filming here doing? </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S8"> (it's about) language (or something) </U>
+			<U WHO="S7"> oh really? </U>
+			<U WHO="S8"> something about second languages (or something) </U>
+			<U WHO="S7"> weird. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-m"> did (you guys) get (xx) (for this?) </U>
+			<U WHO="S7"> (i used) (xx) </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<EVENT DESC="UNINTELLIGIBLE SPEECH"/>
+			<PAUSE DUR=":17"/>
+			<U WHO="SU-m"> oh man </U>
+			<U WHO="SU-m"> come on (xx) </U>
+			<U WHO="SU-m"> (brain parts in my book) </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S7"> (yeah) you can get a real thin slice and use it as a bookmarker if you freeze-dry it. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-6"> (and then the) girl stops and (flick) open my book (in the library) <EVENT WHO="SS" DESC="LAUGH"/> and then a piece of brain falls <EVENT WHO="SU-m" DESC="LAUGH"/> (out) on the table </U>
+			<U WHO="S8"> (xx) i'm not finding anything (xx) </U>
+			<U WHO="S6"> (xx) </U>
+			<U WHO="S7"> what's behind it? what are you looking at? is there something behind there? </U>
+			<U WHO="SU-m"> (xx) didn't he say you peel that lexical layering away (and) the hippocampus is behind there? <U WHO="S7"> um </U> but there's no_ it's not as defined is it's just like you pull away (xx) we're trying to wedge it so it just starts to break apart (xx) </U>
+			<EVENT DUR=":45" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S7"> (no,) it's stronger like the more you cut into it it's gotten really so (xx) in there </U>
+			<U WHO="S8"> (xx) </U>
+			<U WHO="S7"> yeah i know. </U>
+			<U WHO="S8"> (xx) </U>
+			<EVENT DUR=":07" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-m"> (you know how it goes) back together </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S6"> you just take really small slices in the, <U WHO="S7"> i wanna get </U>
+				<OVERLAP> hippocampus and the </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> yeah i </OVERLAP> wanna get (on to-) i wanna get (all this stuff) </U>
+			<U WHO="SU-m"> that was really weird </U>
+			<U WHO="S6"> see it was on TV like they took a um, forget like a a like an (xx) like a, like a serial killer, like (xx) </U>
+			<U WHO="S7"> oh when they sliced him into like <OVERLAP> microscopically thin pieces  </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> sliced them into really thin pieces. </OVERLAP>
+			</U>
+			<U WHO="SU-8"> and sews him up. and no one (finds out) about it wow </U>
+			<U WHO="S7"> yeah you ca- i think you can buy that program for like on_ for your computer. the Digital Man. like it's like sixty bucks or seventy bucks and you can go to the_ the site is weird yeah they free- they freeze the pieces <U WHO="S6"> (xx) they slide <OVERLAP> 'em </OVERLAP>
+				</U>
+				<OVERLAP> (then) </OVERLAP> they stain 'em, like different colors and then they, they get computer-image all of 'em. <U WHO="SU-m">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> freaky </OVERLAP> they did that, they just did that for a woman too </U>
+			<U WHO="S6"> did they? </U>
+			<U WHO="S7"> yeah cuz they didn't have a woman, who was like scummy enough to wanna do that to i guess <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> aw this is cool you can, peel off this uh, this sheet thing </U>
+			<U WHO="S7"> oh the <OVERLAP> outside, oh the outside, scuzz </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> the tired? (xx) yeah, </OVERLAP> yeah (xx) </U>
+			<EVENT DUR=":32" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S7"> you're just going to town on the (xx) ooh there's nothing left of (xx) </U>
+			<U WHO="S7"> whew </U>
+			<U WHO="SU-m"> (i guess i'll watch right after) (xx) </U>
+			<U WHO="SU-6"> (xx) that's a solid, that's a solid, slice </U>
+			<U WHO="S8"> what is that thing? </U>
+			<U WHO="S7"> i dunno i thought that's the cingulate gyrus? or the um, yeah i think it's the cingulate gyrus. look. it's that it's that curly (curly thing.) (xx) </U>
+			<U WHO="S6"> oh yeah. </U>
+			<U WHO="S7"> do do </U>
+			<U WHO="S6"> mkay (are these, are these just like) (xx) </U>
+			<U WHO="S7"> there's (veal.) <PAUSE DUR=":05"/> alright (xx) wow that's a big motherfucking (xx) </U>
+			<U WHO="S6"> look at the size of it. </U>
+			<U WHO="S7"> (wow) that must be an artery. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S7"> (the other side of that, look at the side of this) <U WHO="S6"> huge </U> it's fucking huge. it's a huge, huge artery... the- these must be this guy (xx) was talking about. and this is the corona (radii.) <SEG TYPE="READING"> you will see the large white radiation fibers that pass from the cortex through the corpus callosum to the other side. </SEG> i think that's that right there <SEG TYPE="READING"> peel gently in order to expose the hippocampus </SEG> that's right here. gently my ass. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S7"> unless it was already (de-juiced) <U WHO="SU-m"> (yeah we already did that) </U>
+				<EVENT DESC="LAUGH"/> well those are all the radii right there. (check it out) those are the things that connect (the arc.) <SEG TYPE="READING"> you should see large white radiation fibers that pass from the cortex through the corpus callosum to the other side. </SEG> corona radiati. </U>
+			<U WHO="S6"> we gotta keep going through them? <OVERLAP> (because) </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U> (there's not much) (xx) </U>
+			<U WHO="S7"> it says peel them gently away to expose the hippocampus so i'm just coming at the hippocampus from the other side. from what you were coming at it from. (i don't know about) gentle... </U>
+			<U WHO="SU-m"> it look- tastes like chicken </U>
+			<EVENT DUR=":13" DESC="UNINTELLIGIBLE  SPEECH"/>
+			<U WHO="S6"> every time it seems to (go, just go) right part, (xx) (save that shit) </U>
+			<U WHO="S7"> we need some, we need some better tools. (xx) </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S6"> so where's the hippo- where's the hippocampus supposed to be? <U WHO="S7"> (xx) </U> like on this thing? </U>
+			<U WHO="S8"> (xx) </U>
+			<U WHO="S6"> should be like in in there then? </U>
+			<U WHO="S7"> yeah it should be, right. right in this right in th- well look. looks like it, sh- should be right in here. right on the bottom (xx) right on the bottom (here,) of this, mm so here's my thalamus, when i'm coming from the other side. and then there's, some big meaty-ass structure. now wait a minute here, </U>
+			<U WHO="S6"> the hippocampus should be right up (over) here. (xx) </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S6"> i know it's not that little, dark, thing on the bottom (though.) </U>
+			<U WHO="S7"> oh, (you) got something there (xx) </U>
+			<U WHO="S8"> do you think that amygdala (you think) (xx) or did he tell us <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> you know </OVERLAP> i don't know what (he told us) he said go one more layer and find (hippocampus...) (going) down another (layer) (xx) </U>
+			<U WHO="S7"> (xx) i i wonder i i i found (xx) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S8"> you might wanna pull this completely apart cuz we'll be able to identify it better </U>
+			<U WHO="S7"> i think i toasted (my) (i can't get any further) cuz it seems like nowhere (xx) (from a different) way </U>
+			<U WHO="S6"> well you're almost to (the other side) </U>
+			<U WHO="S7"> i'm not getting to the (cavity.) </U>
+			<EVENT DESC="UNINTELLIGIBLE SPEECH :08"/>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> i know, we got hashed, we got hashed now. look at that look at our brain we got hashed. </U>
+			<U WHO="S6"> sorry dude. </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> we were looking </U>
+			<U WHO="S6"> isn't it amazing that he can like (pick) up all the little pieces and be like oh that's the (da-da-da) </U>
+			<U WHO="S8"> (xx) </U>
+			<U WHO="S6"> i dunno. </U>
+			<U WHO="S8"> hafta find something (in there going go) above this cortex (xx) </U>
+			<U WHO="S6"> some of those shapes? </U>
+			<U WHO="S8"> yeah it's really (xx) </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> i know </U>
+			<U WHO="S6"> so you like, pass, pass this little thing that's broken apart real nice <U WHO="S7"> yeah </U> this is all like, gristly and </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S7"> you gotta nice sec- you gotta nice section there. it's just like, (it's really fine) </U>
+			<U WHO="SU-m"> all i got all i have left is the midbrain, and the uh, a little bit of the internal structure like my, cortex is, toast. my cerebellum's toast. </U>
+			<U WHO="S6"> (too much shit to work with) i'm telling you (xx) (let's get it) (xx) (there it is) </U>
+			<U WHO="S7"> where? oh, yeah. oh yeah. (xx) did you get the outside (there?) </U>
+			<U WHO="S6"> (xx) </U>
+			<U WHO="S7"> you got the outside (of each) (though right?) </U>
+			<U WHO="S6"> (xx) </U>
+			<U WHO="S7"> yeah. </U>
+			<U WHO="S6"> (this is) kinda dark, (i wonder) what's going on </U>
+			<U WHO="SU-m"> oh yeah. that's general slime. </U>
+			<U WHO="SU-m"> (xx) (i'm gonna flip it over) (xx) (it says he) said the (xx) hypothalamus would be, somewhere in here </U>
+			<U WHO="SU-m"> cool </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-m"> gimme that </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-m"> (there's not) enough (of that) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S6"> gimme that </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<EVENT DUR=":04" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S8"> (xx) before we go? </U>
+			<U WHO="SU-m"> (xx) part of this (xx) </U>
+			<U WHO="S7"> wow that's really (different) i wonder if, (xx) </U>
+			<U WHO="S8"> you sure it's not (part of) (xx) </U>
+			<U WHO="S7"> yeah hold on i wonder what's uh, </U>
+			<U WHO="S6"> wasn't that something in three-seventy-three we should (be able to list the) (xx) </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> right. </U>
+			<U WHO="SU-m"> (xx) (last night) </U>
+			<U WHO="S7"> you didn't? </U>
+			<U WHO="SU-m"> i can't believe that i <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> (xx) for the (stat) </OVERLAP> the stat shit is, didn't it? i fucked up with the multiple choice. i only got like forty-something, <OVERLAP> one. i got forty-one. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> well yeah i got (i was_ right ) </OVERLAP> that stuff that stuff i (still couldn't) figure (out at all) (xx) (like) until i got to the <OVERLAP> short answers </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> she gave me short answers (like) she gave me two on almost all of 'em i was like, yeah. <U WHO="S7">
+					<OVERLAP> yeah. </OVERLAP>
+				</U>
+				<OVERLAP> (it was) </OVERLAP> easy. </U>
+			<U WHO="S7"> are you coming to se- are you coming to look? </U>
+			<U WHO="SU-8"> yeah. </U>
+			<U WHO="S7"> we have like (four) we have like half, now. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (xx) </OVERLAP> our brain. </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> there's not much left. </U>
+			<U WHO="S9"> alright. well what did you do with the, the brain stem? i mean, did you find anything? </U>
+			<U WHO="S7"> we found a <OVERLAP> couple of </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> we found a couple of things, yeah </U>
+			<U WHO="S8"> the brains, </U>
+			<U WHO="S9"> well there you go, </U>
+			<U WHO="S7"> well no no no wait a minute i think, are you messing with my cerebellum, now? </U>
+			<U WHO="S8"> (this is) the cerebellum yeah <U WHO="S7"> yeah </U>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> where did you (mess,) </OVERLAP> see- look um, so, this is how the brain goes like that so there's your_ that's the cerebellum or the uh <U WHO="S8"> (that's) the cerebellum </U> this is the um, what would you call that? hindbrain? </U>
+			<U WHO="S6"> the spinal cord? </U>
+			<U WHO="S7"> no no spinal cord's down here. </U>
+			<U WHO="S6"> and that's the medulla </U>
+			<U WHO="S7"> okay so that's the medulla, right there. and then <U WHO="SU-m"> uh </U>
+				<OVERLAP> this the </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-7"> what's going on? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> (that's it right there) </U>
+			<U WHO="S7"> yeah, so that right there (is the pons, it's that thing) (xx) and that's the, the, hindbrain section, the medulla with uh, um, with the midbrain. which is this stuff right in here. so, that's like the superior colliculus in here somewhere, which we found and then destroyed somehow <U WHO="S9">
+					<EVENT DESC="LAUGH"/> okay </U> and then there's a there's a, inferior colliculus in here somewhere too, but i think that's probably (where it is) (though it could be that right there too) i don't know. how did you guys do with your brain? what'd you find, anything? </U>
+			<EVENT DESC="GLASS FALLS ON THE FLOOR"/>
+			<U WHO="S9"> i knew that was gonna happen (xx) around on the floor </U>
+			<U WHO="S7"> what is that a bottle (xx) or something? </U>
+			<U WHO="S9"> um... yeah we found it eventually, like we had to (mess with) (xx) this corpus thing. </U>
+			<U WHO="S7"> yeah, yeah (all this) corpus callosum, all that. </U>
+			<U WHO="S9"> i haven't done any reading yet, so like... i'm gonna cram the last week <U WHO="SU-m"> (xx) </U>
+				<EVENT DESC="AUDIO DISTURBANCE"/> this is where i work. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S8"> (man,) i'm getting like dizzy and like, lightheaded. i mean (xx) with no food (in like) (what is it now?) </U>
+			<U WHO="S9"> doesn't this look like chicken? or isn't there chicken (xx) </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S8"> it feels like a chicken. </U>
+			<U WHO="S9">
+				<EVENT DESC="LAUGH"/> yeah (xx) </U>
+			<U WHO="S7"> no chicken no sushi... oh yeah, (the little) sacks in between 'em there. </U>
+			<U WHO="S6"> (who's the) (xx) </U>
+			<U WHO="S7"> what do we got for the time? how much longer w- should we really be expected to stay here? </U>
+			<U WHO="S8"> whenever. </U>
+			<U WHO="S7"> we can leave whenever? </U>
+			<U WHO="S8"> yeah. </U>
+			<U WHO="S7"> like i'm, i'm getting ready, right now, right? </U>
+			<U WHO="S9"> thank you </U>
+			<U WHO="S1"> how are y'all doing? </U>
+			<U WHO="S7">
+				<OVERLAP> (oh we're doing) (xx) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (xx) (find a time break) </OVERLAP>
+			</U>
+			<U WHO="S7"> we uh, we can't find the hippocampus (still) but, (i think) we we got everything else </U>
+			<U WHO="S1"> i'm gonna help you guys try to find the hippocampus here (xx) watch out for, yo lea- don't get brains on the tables okay? <EVENT WHO="SU-f" DESC="LAUGH"/> (xx) that's disgusting. </U>
+			<U WHO="S7"> alright, so, so we had that, and then this guy, comes out, <U WHO="S1"> yeah, <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and then </OVERLAP> you said pull a little bit farther and uh, </U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> if we're done, how do we get rid of our, tissue? </OVERLAP>
+			</U>
+			<EVENT DESC="MULTIPLE SIMULTANEOUS CONVERSATIONS NEXT 1:12"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="S1"> okay, yeah this is important hold on here. alright, um, if you're finishing up, there's a, container right over here that says, well let's see (see if i can find one.) discard parts. it says parts discard, okay? only, only throw brain tissue in there don't throw gloves or snot or, tampons or any of that other stuff, just brains okay? <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="SU"> (brains go in there?) </U> yeah, the sec- the same thing is clean up your mess. <OVERLAP> clean up your mess. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> why are you gonna </OVERLAP> recycle them? </U>
+			<U WHO="S1"> okay? <U WHO="SU-m">
+					<OVERLAP> uh, tampons? </OVERLAP>
+				</U>
+				<OVERLAP> no we're not gonna recycle the brain parts. </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> oh </OVERLAP> good </U> okay? don't worry about it. um, uh, wash off your utensils, and wash off your your uh, your plate, in th- in thes- in these places here. (and then) </U>
+			<U WHO="SU-m"> (we have to) wash our plates off? </U>
+			<U WHO="S1"> what? excuse me? <EVENT WHO="SU-m" DESC="LAUGH"/> don't wa- (xx) wash out wash out your trays and throw your gloves away in this plastic garbage bag right over here. okay? </U>
+			<U WHO="SU"> where do we (xx) </U>
+			<U WHO="S1"> uh, give 'em to me and_ (well actually.) these go in the discard parts right here. mkay? yeah. clean up, clean up your mess in these trays up front. </U>
+			<EVENT DESC="CONVERSATION 2"/>
+			<PAUSE/>
+			<U WHO="S7"> it's only six-thirty (xx) </U>
+			<U WHO="S8"> let's see if we can (go) </U>
+			<U WHO="S7"> mhm, i'm about ready. <U WHO="SU-8"> (let's go) </U> i wanna t- i wanna take a look at those questions (and stuff that we got just so i can really) (xx) </U>
+			<EVENT DUR=":15" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-m"> it's gonna be fucking hard, (xx) </U>
+			<U WHO="S6"> yeah... </U>
+			<EVENT DUR=":06" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-m"> (xx) these </U>
+			<U WHO="SU-m"> i need i need (xx) (one, question) </U>
+			<U WHO="S7"> yeah, (xx) <OVERLAP> (xx) you're right </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> you're right it's one question you're right you're right you're right. you're right. </U>
+			<U WHO="S8"> that's a lotta shit. </U>
+			<U WHO="S7">
+				<SEG TYPE="READING"> early brain development (xx) </SEG>
+			</U>
+			<U WHO="S6"> it'll be easier (than that stuff) </U>
+			<U WHO="S7"> (right.) it'll be clearly marked, yeah. </U>
+			<U WHO="S6"> (xx) trying to find the part. </U>
+			<EVENT DESC="END SIMULTANEOUS CONVERSATIONS"/>
+			<U WHO="S1"> okay. now let m- let me take a look here and see what you got (here) </U>
+			<U WHO="S7"> yeah (xx) </U>
+			<U WHO="S1"> you guys are really (cooking.) </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S7"> these are some intense questions man, these are some really, intense questions. </U>
+			<U WHO="S1"> they're okay, <OVERLAP> i mean actually, </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> they're okay? </OVERLAP>
+			</U>
+			<U WHO="S1"> well, the materi- a lot of this you don't know yet, right? but, we're gonna talk about this next_ but but think about it this way, i think these are a lot more conceptually straightforward <OVERLAP> so, yeah </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> yeah there </OVERLAP>
+			</U>
+			<U WHO="S7"> no i agree yeah <U WHO="S1"> yeah </U> it's not <U WHO="S1"> yeah so </U> like, it's not as much <U WHO="S1"> yeah </U> going on a limb yeah </U>
+			<U WHO="S1"> yeah there's only one (xx) right. </U>
+			<U WHO="S1">
+				<OVERLAP> uhuh, right </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> (xx) </OVERLAP> (xx) </U>
+			<U WHO="S1"> yeah, you, your brain is so tough, it's really hard. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> is that a, </OVERLAP> no. wait he said th- are those (clutches?) did you get those from over here? </U>
+			<U WHO="S7"> yeah i just wanna look at your i <OVERLAP> just wanna (xx) for a second </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, </OVERLAP> you see this, you see this area, okay, no you see this uh, section right (there?) where it kinda curves around a little bit? alright, that's uh that's the hippocampus. right there. (xx) you push it and no wonder (xx) you ripped it all up you can't see it. (the whole) of this section right there, (is) the hippocampus. it's so hard to get at, you know? </U>
+			<U WHO="S6"> it's like it's like it's like (it formed into one) with all the uh </U>
+			<U WHO="S1"> yeah, yeah. it really is. </U>
+			<U WHO="S6"> it's kinda get, a little bit on the bottom of that. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S7"> alright, what was the thing that you never found? </U>
+			<U WHO="S1"> um, i never found the amygdala. the amygdala is nestled so deep inside there that in order to get to it you usually have to destroy it. it's it's it's underneath, all this cortex, right? </U>
+			<U WHO="S6"> we don't have (amygdala.) </U>
+			<U WHO="S7"> what did, what did you say with the gloves? </U>
+			<U WHO="S1"> uh, put the gloves in the plastic garbage bag. actually it's due on Monday, alright, yeah. </U>
+			<U WHO="S1"> when is your critique due? </U>
+			<U WHO="SS"> Monday. </U>
+			<U WHO="S1"> Monday. </U>
+			<U WHO="SU-m"> Thursday. </U>
+			<U WHO="SU-m"> Monday? </U>
+			<U WHO="SU-m"> Monday i thought it was Thursday. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> critique. </U>
+			<U WHO="SU-f"> i thought it was Thursday. </U>
+			<U WHO="S1"> the the outline was due on Thursday. </U>
+			<U WHO="SU-m"> wait wait wait how we gonna get 'em to you? </U>
+			<U WHO="S1"> give 'em to me in class, y'all are planning to </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

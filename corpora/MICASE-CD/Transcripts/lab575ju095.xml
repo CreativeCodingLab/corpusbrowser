@@ -1,0 +1,301 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="lab575ju095">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Intro Statistics Lab </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LAB575JU095 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="47">
+						<DATE> June 6, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Carrie Sue Kay Sulzer </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Carrie Sue Kay Sulzer </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 10/1/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: MIX </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="30"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="5"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SG, Instructor" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-4" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="JU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, Mason Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT DUR=":55" DESC="UNINTELLIGIBLE SPEECH"/>
+			<EVENT DUR="1:45" DESC="MICASE RECORDING ANNOUNCEMENT"/>
+			<U WHO="S1"> like i said i don't know if the word interested is, probably the best <EVENT WHO="SU-f" DESC="LAUGH"/> word to use, but <U WHO="SU-f"> forced (would be better) </U> forced, maybe. <EVENT WHO="SU-f" DESC="LAUGH"/> required, okay. here's your quiz for this week... okay you got a quiz this, Thursday i believe right? homework's due on Wednesday, quiz due Thursday, all kinds of fun stuff. end of the semester, we have two weeks left <EVENT DUR="2:10" DESC="PAUSE WHILE TAKING QUIZZES"/> yeah i know. </U>
+			<U WHO="S2"> you kn- uh, what? </U>
+			<U WHO="S1"> go </U>
+			<U WHO="S2"> what do you mean? </U>
+			<U WHO="S1"> twentieth right? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> okay, go, <OVERLAP> (i knew) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay </OVERLAP> i have another question </U>
+			<U WHO="S1"> alright go </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> no, not that, um do you mind if i started practicing with the calculator now since i'll probably have to borrow it again for the, <OVERLAP> practice test? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um </OVERLAP> sure. </U>
+			<U WHO="S2"> i mean it would be easy for me to borrow it then because we're already setting up a day <U WHO="S1"> yes </U> alright, okay cool. thank you. </U>
+			<U WHO="S1"> no problem <PAUSE DUR=":10"/> okay you guys ready to go over this, bad boy? <U WHO="SU-f"> that's good (xx) </U>
+				<EVENT WHO="SU-f" DESC="LAUGH"/>
+				<EVENT DESC="LAUGH"/> i swear i forgot about that, see i don't even know it's there. okay, so the probability that June gets an A in Stat one-hundred is, point-four-five so, <EVENT DESC="WRITING ON BOARD THROUGHOUT NEXT 1:28 OF UTTERANCE"/> the probability <OVERLAP> of </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> number? </OVERLAP>
+				</U> J, uh the probability that May_ i i couldn't think of any names so i'm like oh i'll just use months. April was gonna be next but i didn't have any other name i could use. eight-five, probability of both May and June, getting an A is point-three-five. okay. so now what is the probability that either May or June_ cuz we're looking for the probability of M, over J. we wanna know that. now we know, that we have this awesome addition formula which is, probability of A or B, the probability of A plus the probability of B, that's the probability of A and, okay so this is on your formula sheet you know all this, um this is review for you, hopefully. so, this is the formula we can use, to solve this. so we have, we we're given this this and this, and we wanna find, that. so we're given probability of A probability of B, probability of A and B, and we wanna find probability of A or B. we just plug and chug into the equation. okay? so the probability of A is point-four-five. probability of B is point-eight-five. point-three-five, and when you add 'em up and subtract, it's point-nine-five. so the probability of A or B, or the probability of May, probability of May or June, is point-nine-five. and that's that answer. you can also do this, uh with a Venn diagram. either way is fine. if you see it- if you see things easier probably, it's best to draw a Venn diagram. but, i can see things with formulae easier so i don't use the Venn diagrams. are the events, June gets an A in Stat one-hundred and May gets an A in Stat one-hundred, independent? well now how would we calculate if things are independent...? but we know there's the independence formula, this. <EVENT DESC="WRITING ON BOARD THROUGHOUT NEXT 1:11 OF UTTERANCE"/> A... so, if this happens, we know they're independent. if the probability of A, times the probability of B is equal to the probability of A and B, then they're independent... okay, mkay and either way, if they're independent then this is true, and if this is true then they're independent. it's a tautology. there that was an, ace English words for you. okay, are the events independent? okay, so the probability of A, is point-four-five. probability of B, is point-eight-five. are they equal? so the probability of A and B, well the probability of A and B is point-three-five. it's not, if these two mul- t- multiplied together is equal to point-three-five, then they're independent. did i do this right? it's point-three-eight-two-five. so the answer is point-three-eight-two-five is not equal to, point-three-five, therefore they're not independent. so they're not, independent. mkay? and you may think, wow why shouldn't, they should be independent. they're two separate students in the class. but, i don't know, you can always_ don't don't use logic when you, when you uh solve stats problems. just use numbers. numbers work better than logic. are the events, June gets an A in Stat one-hundred and May gets an A in Stat one-hundred disjoint? are they? they're not. they have thirty f- fir- thirty-five percent chance that that will happen, so they're not disjunct. if they had, if there was no events in common, if there was no chance of that happening, then they would be disjoint. but since we have, a chance of that happening they're not disjoint. what is the probability that, that either May or June gets an A in Stat one-hundred. okay? so the probability, come on <EVENT DESC="WRITING ON BOARD THROUGHOUT NEXT :25 OF UTTERANCE"/> (we'll do) that here... that's the probability that neither an M or J is equal to, the minus the probability that, M or J gets it. okay? M minus point-three-five, so it's a, only a five percent chance that neither of 'em, will get an A. okay? question two, <U WHO="SU-f"> what is the answer? </U> what, what do you mean? </U>
+			<U WHO="SU-f"> the probability of, </U>
+			<U WHO="S1"> neither May, <U WHO="SU-f"> oh, neither, okay </U> mhm, i'm sorry, i, i'm sorry i can't write very well. uh, question, any questions for number one? let's move on to question number two. X is distributed U-three-seven, what does that mean? <EVENT DESC="WRITING ON BOARD THROUGHOUT NEXT 1:57 OF UTTERANCE"/> again, three lower bound, upper bou- i think almost everyone did really well on the qui- the exam for this question, for drawing this, so that's good. and we want to find the height but we always label it density, that's one over the max minus the min, one of them over seven minus three, that's one out of four. okay, so we have drawn this. <SEG TYPE="READING"> find the probability that X is greater than four </SEG> well, there's four... we want that probability. remember probability is the same as area when you're doing uniform, and area is equal to, what, height times width. okay? it's equal to one-fourth, cuz that's the height, times the width is s- seven minus three which is three, so three-fourths. so that's the probability, X is greater than four... three out of four. okay. and we want, to find the probability, so we want this now. probability X is greater than four, we have X. okay. now this slash, i didn't write it in words, but that means given. so we wanna find the probability that X is greater than four, given that X is less than six. aw- another rule, another awesome formula that you must know, probability of A given B, sequence of the probability A and B, divided by probability of B. mkay? another formula that you must know so, i don't know, i happen to write three of the really important formulas that you must know for your, quiz on Thursday and for your exam, in a couple weeks so, know this stuff, that's good. so then we can rewrite this statement from here, be something like that. so this is gonna be equal to the probability that X is greater than four, and X is less than six. divided by the probability that X is less than six. mkay... so now when, we wanna find the probability that X is greater than four, but less than six. so basically that means the probability that, X is between four and six. right? does everyone see that? we're greater than four, and we're less than six. so... that's the area we're looking for. mkay. so that's what that's equal to. and it's again divided by the probability that X is (the systems.) mkay? so this probability, again area of a rectangle, the base times the height, the base here is six minus four is two, times one-fourth, so it's two over four. and the denominator is X is less than 6, base times height again. six minus three is three, height is still one-fourth, three out of four... and that's two-thirds. okay, so this probability is equal to two-thirds. so the probability that X is greater than four given X is less than six, is two-thirds, as well as the probability that X is greater than four is three-fourths. are these two independent? well, another rule, see, this rule_ we can also rewrite that as saying, the probability of A given B, probabil- so, if the probability of A given B is equal to the probability of A, then they're independent... as well. it's the same s- it's actually the same statement as this one here, just rewritten in a different way. okay? so and we've we actually have done all this work already. so the probability of X is, greater than four given that X is less than six, less this guy, is two-thirds, is that equal to, probability of_ that X is less than four, X is greater than four excuse me, three-fourths? it's not equal to, so they're not independent. okay? again this is just some of the stuff from chapter, eight, that you must know. okay... today's lab_ does everyone know the game show Monty Hall? that's not what i thought- Let's Make a Deal. everyone know that game show? anyone know that game show? i used to love that game show. we're doing a lab based on, a game show. so, uh everyone needs to get with another person, we're gonna have, lab in groups today. so, get with, i- one more person so we can have groups of two, and have all kinds of cool fun. (take that) <EVENT DUR=":36 " DESC="UNINTELLIGIBLE SPEECH"/> mkay groups of two, who doesn't have a group? you get the cool gr- you don't have someone else, you get the group of <U WHO="SU-f"> oh okay </U> (xx) okay group of three people. if you can read this (slip,) <SEG TYPE="READING"> there are three doors. behind one door is a car. behind the other two doors is a goat </SEG>
+				<U WHO="SU-m"> idiots </U>
+				<SEG TYPE="READING"> as a contestant, you are asked to select a door with the idea that you will receive the prize behind the door. the game show host, </SEG> you know, Monty Hall, <SEG TYPE="READING"> knows what is behind each door. after you select the door the host opens one of the remaining doors that has a goat behind it. note that mo- that no matter what door you select at least one of the remaining doors will have a goat behind it for the host to open. </SEG> now explain, just be certain, you guys see that. right, okay. so, there's three doors. one has a goat, one has a goat, and one has a car. there's three doors. again. so now, let's say this is, i can't draw th- draw draw doors very well. door one door two door three. <EVENT DESC="LAUGH"/> okay. if you do, if, if let's say you select door one, the game show host is gonna show you door two, that has a goat behind it. okay does everyone see that? if you select door two, the game show host is gonna show you, door number one which has a goat behind it. and if you select door three, the game show host will show you either door one or door two, which has a goat behind it. so either way you're going to see a ca- a door, with a goat behind it. okay so that is the_ that is really what i want you to see so does everyone see that? so no matter what, door you pick, you're going to see, a door with a goat behind it. for example, i have three cards here. as you see there's two red cards and one black card. this is a car, these are goats. they're not really goats, but, let's pretend. okay? so, i'm mixing the cards up, okay? select a door, one two or three. <U WHO="SU-f"> two </U> two. you select door two, i'm gonna show you this door right here, which has, is a goat. so i can show you a goat, all the time. okay? now, it doesn't matter again, i can show you one more time. you select this door, ri- initially, i'm gonna show you one of these two doors, which has a goat behind it. if you select this door, i'm gonna show you this door which has a goat behind it. and if you select this door, i'm gonna show you this door which has a goat behind it. so either way, you're going to see, a goat. okay that's the key. now the big question is, knowing that, knowing Monty Hall always sh- you know gives you the option, he always shows you the one door and he asks you, do you wanna stay, or do you wanna switch? okay? now that's the big question, that's what we're gonna investigate, whether it's better to stay or better to switch. now how many think that it doesn't really matter, that you get no, there's no real difference if you stay or you switch. okay we got a couple. good. people are alive today. how many thinks it really does make a difference, that one is, one gives you a greater probability than the other? which one gives you the greater one do you think? <U WHO="SU-f"> um, if you switch. </U> you think switch? why? you don't know <U WHO="SU-f"> i don't_ i'm just guessing. </U> we're gonna_ yeah, we're gonna take a look at it, we're gonna investigate it. um, it's kind of interesting if you read an article on the web that uh_ we'll talk about that later though. okay, it says <SEG TYPE="READING"> note no matter what door you select at least one of the doors will have a goat behind it. the host then gives you the option. stay with the door you originally chose, and get the prize behind it, or switch, and get the pri- prize behind that. what is the probability of winning if you stay? </SEG> well, i think we can, almost guess that one but, we'll get on to that later. what is the probability of winning when you switch? does switching increase your chance of winning? does your neighbor agree with you? if the answer's not clear, we can carry out a simulation, which is what we're gonna do. so each group, that's why i have you in groups of two, is going to, get a set of three cards, which i'll hand out right now. again you're gonna get two red cards and one black card. they're kind of big too, so let's see, and again the two red cards are your, goats, and the one black card is your, car. so we're gonna carry out a simulation and see, which is_ is it better to switch or is it better to stay? <PAUSE DUR=":05"/> i think, yeah. let's see how many groups do we have today? we have one two three, nine. okay so we have nine groups. okay, (i need...) working with_ here's one way to simulate the game show. which is the way we're gonna do it. working with a partner designate one person to be the game show host. the one person will be Monty Hall. and the other person will be the person, uh who is gonna be the contestant. if you remember the game show they always had everyone dress up as you know, oranges or bananas or tomatoes, or something like that, if you remember the game show. i loved that game show so i re- i remember that. they always had people in costumes. that was funny <SEG TYPE="READING"> designate one person to be the game show host and the other to be the contestant. you can switch roles halfway, through the simulation. the game show host controls the three doors, represented by the three index cards. </SEG> playing cards in this case. and, what's gonna happen is, the s- the contestant will select a door. just from experience, it's faster to just point to a door, rather than say one two or three, cuz, is it, is this one or is this one, you know just say, i select this door. okay, when you're the contestant. i select this door. and then the g- game show host is gonna show you a door with a goat behind it. again, i showed you before, you can always find a door, with a goat behind it. you show them, one of the doors they did not select that has a goat behind it. okay? so you would show them this door, (if they select it) it has a goat. okay? and then the person will either switch or the person will stay, and we're gonna tally and see how many chan- how many times, you're going to win. mkay? now this is- the host clo- you can either lay 'em down, like this like you know, do it like Three-Card Monte, you know that but we don't, they're not bent so you really can't do it. so it's probably easier just to, you know hold 'em like this and then have someone select. okay? and, keep a record list of your, uh results either staying or switching, either winning a car or winning a goat, one should perform any repetitions you can do you re- use the relative frequencies to estimate it, corresponding probabilities. you turn the page over and see, we have strategy win strategy stay. and we're gonna do this twenty times each. so each group will do it twenty times. and, we're not gonna randomly select people of either s- you know, you're gonna switch half the time stay half the time. what it's gonna do is, you guys are gonna stay, um stay stay and, stay. and then switch switch switch switch switch. does everyone know who's staying? mkay, stay stay stay stay, switch switch switch switch switch, okay? so you're gonna do this twenty times, mkay? and again we can practice, one more time. so if you're staying, okay, select a door. okay so i'm gonna show you this, you're staying, you're staying so you would've won. okay? so you would've won. so, and we'll practice one if you're switching, okay? <U WHO="S3"> okay, <OVERLAP> two </OVERLAP>
+				</U>
+				<OVERLAP> pick a </OVERLAP> door. </U>
+			<U WHO="S3"> two </U>
+			<U WHO="S1"> point, remember point </U>
+			<U WHO="S3"> two, <OVERLAP> sorry </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> two </OVERLAP> okay, i'm gonna show you this one, switch, <U WHO="S3"> switch </U> and you woulda won too. so look we've, got two winners in a row. and now we're just gonna do this. each group's gonna do it twenty times, either staying or switching, people are starting already. i'll be walking around if there's any questions. ready set go. </U>
+			<U WHO="S4"> and then switch, </U>
+			<U WHO="S3"> you win </U>
+			<U WHO="S4"> i'll just have you point </U>
+			<U WHO="S3"> yeah i have all, the other ones... and then, </U>
+			<U WHO="S4"> switch </U>
+			<U WHO="S3"> you win... <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S4"> switch </U>
+			<U WHO="S3"> you win </U>
+			<U WHO="S4"> wow </U>
+			<U WHO="S3"> so wait, if you switch it aren't you gonna win every time? </U>
+			<U WHO="S4"> i don't know, because not if no. cuz if i pick </U>
+			<U WHO="S3"> oh if you pick the, <U WHO="S4"> the </U> black <OVERLAP> if you pick one </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> black one, right yeah </OVERLAP> but you have a greater chance of picking the red one, <U WHO="S3"> mhm </U> first <U WHO="S3"> yeah </U> i don't know, okay. switch. <EVENT WHO="S3" DESC="LAUGH"/> that one. switch. <PAUSE DUR=":09"/> that one, the red one. </U>
+			<U WHO="S3"> you win. </U>
+			<U WHO="S4"> wow... that one, switch. </U>
+			<U WHO="S3"> win </U>
+			<U WHO="S4"> i'm pretty good at this </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> you should be on- you shoulda been on the game show </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> um, that one </U>
+			<U WHO="S3"> that must be a win </U>
+			<U WHO="S4"> and that one </U>
+			<U WHO="S3"> the middle one? </U>
+			<U WHO="S4"> yeah, that one. </U>
+			<U WHO="S3"> so you win. yeah, so you <OVERLAP> do have a greater chance of getting the goat (with so-) switching </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah, yeah </OVERLAP> that one, and that one </U>
+			<U WHO="S3"> that's another win <U WHO="S4"> alright </U> i'll probably be like the worst at this game <EVENT DESC="LAUGH"/> (or something) </U>
+			<U WHO="S4"> see lose </U>
+			<U WHO="S3"> oh, okay </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> um, which one? </U>
+			<U WHO="S3"> the middle one i'm sorry <U WHO="S4">
+					<OVERLAP> switch </OVERLAP>
+				</U>
+				<OVERLAP> switch </OVERLAP> so win... that one </U>
+			<U WHO="S4"> that one, but then you <OVERLAP> so switch, so you lose </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> switch, so i lose </OVERLAP> uh, that one </U>
+			<U WHO="S4"> so, this one? </U>
+			<U WHO="S3"> right then switch so i lose. <U WHO="S4"> so you lo- <EVENT DESC="LAUGH"/>
+				</U> oh see i told you i'm horrible. uh, middle one </U>
+			<U WHO="S4"> uh this one <U WHO="S3">
+					<OVERLAP> switch </OVERLAP>
+				</U>
+				<OVERLAP> switch </OVERLAP> so you win... </U>
+			<U WHO="S3"> middle one </U>
+			<U WHO="S4"> i'll show you this one, <OVERLAP> so you switch </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> and i switched </OVERLAP>
+				</U> and you win. </U>
+			<U WHO="S3"> um, that one. <U WHO="S4">
+					<OVERLAP> switch and you win. </OVERLAP>
+				</U>
+				<OVERLAP> switch so i win... </OVERLAP> uh, that one. </U>
+			<U WHO="S4"> you win. </U>
+			<U WHO="S3"> i have two more, five six seven eight, yeah two more. that one. </U>
+			<U WHO="S4"> you win. i can just, <EVENT WHO="S3" DESC="LAUGH"/> do it from here <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> uh, middle one. </U>
+			<U WHO="S4"> you win. </U>
+			<U WHO="S3"> alright, so we have eight wins, two loss, or i mean, <U WHO="S4"> no we have </U>
+				<OVERLAP> oh </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> eighteen </OVERLAP> wins </U> i'm sorry i put these in the wrong one. so it's half and half. </U>
+			<U WHO="S4"> did you, you didn't get five a minute ago, did y- did you? </U>
+			<U WHO="S3"> no, i didn't </U>
+			<U WHO="S4"> you got like, two or three i think. <EVENT DESC="LAUGH"/> oh my gosh. i think you only got_ did you get three? </U>
+			<U WHO="S3"> yeah, <U WHO="S4"> okay </U> yes because i, <U WHO="S4"> yeah </U> i put that one there when we did that. </U>
+			<U WHO="S4"> alright so three, </U>
+			<U WHO="S3"> and you had all, <OVERLAP> ten win </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i had </OVERLAP> all wins so... seven, so it was, how many_ seventeen out of twenty wins? </U>
+			<U WHO="S3"> yup </U>
+			<U WHO="S4"> oh that's what it's, switching we're down here. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> that's, yeah that's the probability of winning when you switch the door, oh i (get it) </U>
+			<U WHO="S4"> eighty-five percent <PAUSE DUR=":06"/> it's really weird cuz in my, like i took like in the philosophy class i mean it was just in high school but, the philosophy class like they said like, each one has like the same chance like, even if you switch to these two it's still a </U>
+			<U WHO="S3"> oh really? so they said that <OVERLAP> it doesn't matter </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> they were like </OVERLAP> saying it's a lot like, that each of these was still a two-third, one and one-thir- one-third chance of being the car <U WHO="S3"> yeah </U> so that like it shouldn't change no matter what. <U WHO="S3"> yeah. </U> but it does. </U>
+			<U WHO="S3"> but when you s- <OVERLAP> think </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U> about it, you have a better chance of getting <OVERLAP> the goat </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> exactly </OVERLAP>
+				</U> when you pick </U>
+			<U WHO="S4"> so then you have a better chance if you switch it. <U WHO="S4"> yeah </U> but they were saying like logic, like <OVERLAP> is statistically but like </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> is the (when you when you) think about it </OVERLAP>
+				</U> i think like, mathematicians and statisticians have like an argument, i don't know. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> oh this weather is horrible. <U WHO="S4"> hm? </U> this weather i hate it. </U>
+			<U WHO="S4"> i know it's supposed to be summer. </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> i know </U>
+			<PAUSE DUR=":19"/>
+			<U WHO="S4"> are you staying here both_ for both spring and summer <OVERLAP> semester? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> no, just spring </OVERLAP> i'm gonna go home at the end of June. </U>
+			<U WHO="S4"> where do you live? </U>
+			<U WHO="S3"> i live, up in Traverse City. </U>
+			<EVENT DUR="1:35" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> okay, let's tally our results and see, empirically, what the answers should be. okay so groups that stayed, how many did you guys get, Anne Marie, how many did you get? </U>
+			<U WHO="S2"> eight </U>
+			<U WHO="S1">
+				<EVENT DESC="WRITING ON BOARD THROUGHOUT NEXT 3:34 OF UTTERANCE"/> eight, five, five, six. go. </U>
+			<U WHO="SU-f"> twelve, or_ to stay, right? </U>
+			<U WHO="S1"> okay, one, two, six, twelve... guys in the back </U>
+			<U WHO="SU-f"> eight. </U>
+			<U WHO="S1"> eight. guys in front. </U>
+			<U WHO="SU-f"> seven. </U>
+			<U WHO="S1"> seven, six seven. so we had, thirty-five, thirty-five wins. this is, out of there was four groups so it was out of eighty total. now let's do switch. uh, what'd you guys get right there? <U WHO="SU-m"> right here? </U> Dave, yeah Dave </U>
+			<U WHO="SU-m"> eleven </U>
+			<U WHO="S1"> eleven... eleven, yeah </U>
+			<U WHO="S3"> seventeen </U>
+			<U WHO="S1"> seventeen, wow... seventeen, okay you guys. </U>
+			<U WHO="SU-m"> eleven </U>
+			<U WHO="S1"> eleven. one, two <OVERLAP> three, eleven. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> we're just very good at this game </OVERLAP>
+			</U>
+			<EVENT WHO="S4" DESC="LAUGH"/>
+			<U WHO="SU-f"> thirteen </U>
+			<U WHO="S1"> thirteen </U>
+			<U WHO="SU-m">
+				<OVERLAP> what? bingo </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> one, five </OVERLAP> six, eight nine ten eleven, twelve thirteen, and you guys. </U>
+			<U WHO="SU-f"> thirteen </U>
+			<U WHO="S1"> thirteen, one two oops, three four five six, seven eight nine ten eleven twelve thirteen. is that everyone? (looks like that's everyone) five ten fifteen twenty, sixty-five. this is out of a hundred cuz we have five groups. okay so now we can calculate these, empirical probabilities. i can do the one in my head, i don't think i can do the other one. let's see. so let's see we have, thirty-five out of eighty. wow that's pretty good. four-three-five, and this one i can guess is (four-six-five.) okay? so now if you if you listen to the numbers posted we had a lot of, pretty big ones for switching. and actually it is, true. switching does help you win. you win, two-thirds of the time, as opposed to one-third of the time, if you stay. and i'll just show you really fast why. i think some of the groups figured it out, fairly quickly, okay. so let's just say for instance, door one is the car, so goat, goat. okay. if, if you pick door one, and you stay, you would win. okay? so if you stay, and you picked one, you picked door one, you would win, you pick door two you'd lose, pick door three you would lose. okay? now if you switch... and you pick door one, okay you pick door one. okay? ga- Monty Hall's gonna show you door two. you're gonna switch over to door three, but you're gonna lose. you're gonna get a goat, so you'd lose. if you pick door two initially, pick door two Monty Hall's gonna show you door three. okay? cuz that's the losing one. you ca- and you're gonna switch over back to door one, so you're gonna switch over to a win. and if you pick door three, Monty Hall's gonna show you door two, which is a loss, but you're gonna switch over, and you'll win. so, the actual probabilities, you're gonna win two-thirds of the time that you switch, and you're gonna win one-third of the time, if you stay. that's the empir- that's the actual probabilities. empirically we can see, we're pretty close here, point-six-five is really close to, two-thirds. um, point-four-seven-five, i- again it's kind of big, but we had one group that was really really big, so that's why i think, that that happened to be, little bit higher than than it did. if we did more repetitions obviously we only did eighty repetitions if we did you know, two three thousand, we'd get numbers really close to one-third, and two-thirds. okay? so basically, does everyone see why, it pays to switch? okay? so if you're ever on the game show you know you should always switch. basically the only way you win, if you stay, is if you happen to guess correctly, initially, and get the car right away. if you're switching, the only way you lose is if you guess correctly right away. so, it's kinda, it's kinda weird the way that that works. so, when you switch, when you when your strategy's switching, you really wanna guess the wrong door, initially, then you're gonna, win once you switch. so, and the thing is you've got a greater chance, of picking the wrong door than picking the right door, initially, so that's why, it's always better to have, switching rather than staying. let's see. what else do we have here? number of wins using this. what did you estimate the probability of this (xx) what strategy appears to be best again, switching is the best, just because we can show empirically it's better, and we (can) show actually it's better. now if you go on the web page, the Stat one-hundred web page, under i think other information, maybe, i think it's there. they have on there an actual article by, statisticians and mathematicians arguing this exact problem. i mean they have nothing to do in their free time other than, arguing this particular problem, but you you get really you know, well known statisticians actually arguing that it's better to stay, rather than switch. and we could show right here, you know, within you know, half an hour that it's, it's better to switch. even just doing it empirically it's better to switch, than it is to stay. you can show it, actually fairly easily in this problem. okay? so, let's see what time we've got, any questions from the lab? any questions...? ah, let's do a homework problem. someone pick a homework problem we'll do it... just cuz, we have very little time left. <PAUSE DUR=":27"/>
+				<SEG TYPE="SINGING"> yo if there's a problem yo i'll solve it check out the hook while my D-J revolves it </SEG>
+				<EVENT WHO="SS" DESC="LAUGH"/> alright, pick a problem <U WHO="SU-m"> (you just freaked us out) </U> i just have to do that at least once a semester, just to keep my skills up, (xx) back in my day i was <U WHO="SU-m"> that was the highlight of my day </U> yeah, i was i was known as, <U WHO="SU-m">
+					<OVERLAP> white chocolate </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> Vanil- Vanilla Dice, you know cuz my last name is Dyson. Vanilla... <U WHO="SU-f"> Eminem now </U> okay. pick a problem someone, a problem. anyone. </U>
+			<U WHO="SU-3"> eight-thirty. </U>
+			<U WHO="S1"> eight-three-oh? </U>
+			<U WHO="SU-3"> three-oh </U>
+			<U WHO="S1"> thank you. what page is that on? </U>
+			<U WHO="SU-3"> three-ninety-four </U>
+			<U WHO="S1"> three-ninety-four. let's see. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-3"> are we supposed to do that one? <U WHO="SU-4"> mhm </U>
+				<U WHO="S1"> is tha- is that assigned? </U>
+				<U WHO="SU-4"> yeah </U> making sure </U>
+			<U WHO="SU-4"> yeah it is... <EVENT DESC="ISOLATED CONVERSATION"/> which one is that? </U>
+			<U WHO="SU-3"> it's the one with the random distribution. i just didn't know, <U WHO="SU-4"> i know <OVERLAP> i </OVERLAP>
+				</U>
+				<OVERLAP> if you </OVERLAP> were supposed to do it the same, as like before. </U>
+			<U WHO="SU-4"> well that's what i had a question on too, so <PAUSE DUR=":08"/> oh, i don't wanna go to lecture. but (i wanna get extra credit) </U>
+			<U WHO="SU-3"> yeah i know, like, (i can never pay attention) </U>
+			<U WHO="SU-4"> i know </U>
+			<U WHO="S1"> okay, so it says <SEG TYPE="READING"> suppose the time for an operator to place a long distance call, is normally distributed with a mean of twenty seconds and a standard deviation of five seconds. </SEG> so we're gonna call <EVENT DESC="WRITING ON BOARD THROUGHOUT NEXT 2:14 OF UTTERANCE"/> that variable, my favorite letter, X <EVENT WHO="SU-f" DESC="LAUGH"/> so it's distributed normally, mean of twenty minutes, and a standard deviation of five, so again, write it as five-squared, make our lives so much easier. <SEG TYPE="READING"> what is the probability that a long distance call will go through in less than ten seconds? </SEG> well we know the distribution of X, right? normal. one-E. so this is X. doesn't really look like this, it's really a straight line down here. it's just cuz i can't draw straight. okay? so we wanna find the probability, it'll go through in less than ten seconds. so, there's time. we wanna find this area... correct? does everyone see that? okay, so again we just use normal C-D-F right? normal C-D-F, lower bound is negative infinity, upper bound is ten. the mean is twenty, standard deviation is five <PAUSE DUR=":10"/> and it's, negative E nine nine ten count to twenty da da da and we get, nine, zero two two eight. okay...? what is the probability that it will take longer than thirty-two seconds for a long distance phone call to Australia? okay? thirty-two... there's thirty-two. okay. again it's the same thing, normal C-D-F, the lower bound in this case though is thirty-two, the upper bound is positive infinity, mean is still twenty, standard deviation is still five, and we get, do do do thirty-two, okay... uh point-zero-zero-eight-two. okay? <PAUSE DUR=":06"/> what else you guys got? give me your best shot. fire away <PAUSE DUR=":15"/> questions? </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S5"> how about a graphed one at the end? </U>
+			<U WHO="S1"> which one? </U>
+			<U WHO="S5"> one of those graphed ones at the end? it might have been in the next chapter. </U>
+			<U WHO="SU-3"> yeah </U>
+			<U WHO="S1"> i'm not sure_ graphed? </U>
+			<U WHO="S5"> there's some, well reading graphs and stuff. </U>
+			<U WHO="S1"> oh, you mean like reading um, let's see. </U>
+			<U WHO="S5"> they're probably in like, like in nine-nine-two or something. (xx) </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S1"> do you have a page number maybe on that? </U>
+			<U WHO="S5"> uh it's four-thirty, four-thirty-four, <U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> (i think) exercise nine-two </U>
+			<U WHO="S1"> nine-two. okay, we could do that. <OVERLAP> to est- </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<SEG TYPE="READING"> to estimate the parameter theta from a given population, three different estimators were proposed. the graphs of the sampling distributions of the three estimators are shown at the right, note that the, all three graphs have the same scale. which estimators are unbiased? </SEG> now unbiased means that, what is the definit- i i always like saying more often than not (you're getting at) the right answer but, </U>
+			<U WHO="S5"> you're doing nine-two? </U>
+			<U WHO="S1"> yeah nine-point-two, page uh, three-fifty-four. i don't wanna give you guys the wrong answer, wrong uh definition for biased, unbiased sorry... oh unbiased sure. <SEG TYPE="READING"> a statistic is unbiased if the center of the sampling distribution is equal to the corresponding population parameter value. </SEG> that's the book definition, like i say, more often than not getting at the right answer. that's what i, my definition of unbiased is. know the book one though, practically, i i practically will use the one that i know but, book one's more important to know. estimator one, as you see the, centered right on the parameter, so that is unbiased. estimator two, more often than not, we're going to get the right answer. that's also unbiased. estimator three as you can see, the center is not even close to theta well, it's like a unit or two away so that's un- that is biased. so estimator three is biased, one and two are not biased. of estimators one and two, which would you select and why...? well we know they're both unbiased, so now we wanna probably have to take the one with less variability. that would be, that's always the two key things we want in an estimator. we want it to be, <SEG TYPE="WRITING"> unbiased and low variability... </SEG> that's the two th- key things in an estimator to have. now again we measured variability, as the standard deviation of variance by how far away the uh, the all the uh parameter the uh, (xx) all the uh estimates mkay, are away from the mean. so how far away is everything away from the mean? and in this case, as we see, for estimator one, which looks like a normal curve... <EVENT DESC="WRITING ON BOARD THROUGHOUT NEXT :19 OF UTTERANCE"/> okay, and estimator two was like <EVENT DESC="SOUND EFFECT"/> okay? which one has more values closer to the mean? right? which has less variability? this guy does. right? cuz here we have these guys spread far apart from the mean and here we have a lot centered, clustered right around the mean. so s- estimator one has less variability. therefore, it would probably be the one you would select. because it has less variability. part C. which estimator has the smallest variability? and that's the one where it's tightly cru- clustered around its mean. okay. so in this case estimator three, as you can see, the values even though it's not on target, it's tightly clustered around where it is on target for. so that estimator has the lowest variability. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> is that C, wait was that C? </U>
+			<U WHO="S1"> yeah. estimator three has the lowest, overall variability, even though it might not be on target. or wholly on target. <SEG TYPE="READING"> based on the sampling distributions which estimator is the best estimator of theta? </SEG> now, and again we want, an unbiased estimator and we want low variability. so, if we get to be really concerned about low variability, we'd probably pick estimator three even though it's a little bit biased. but if we wanted unbiasedness, we'd probably pick estimator one. because it's got_ it's on target, it's unbiased but, although it has high variability. so that's kind of like a toss up question. which which do you think is more important? to have low variability, or to have unbiasedness. okay? so, you can answer that question, any particular way you choose. as long as you make a good, rational argument, for it. <PAUSE DUR=":06"/> okay. you guys have class now. enjoy, enjoy lab, sure. somehow i forgot almost everything. (xx) <PAUSE DUR=":06"/> i don't know i, i think i lost everything else. i have everything else somewhere. i'll give it to you by Wednesday for your quiz. don't forget to turn your quizzes in to me, so that i know you were here today. thank you. </U>
+			<EVENT DUR=":20" DESC="UNINTELLIGIBLE SPEECH"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

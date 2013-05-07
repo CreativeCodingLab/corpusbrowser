@@ -1,0 +1,693 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="les485mg006">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Graduate Physics Lecture </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LES485MG006 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES: NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="105">
+						<DATE> March 17, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape recorder with two external microphones, video recorder </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Margaret Luebs </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Janine Ovens </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Carrie Sue Kay Sulzer </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Janine Ovens </NAME>
+							<RESP> Final Editing, 2/9/99 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: MIX </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="6"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="7"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Instructor" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S3" LANG="NNS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Student" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Seminar Room, West Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> today, what i'd like to do, is to finish up our sort of, first seven weeks of the course which are taking eight and a half weeks, of, of the... interaction of classical fields, with, atoms or molecules... and later on today we'll start, some aspects of the quantized nature of the field. the assignment for next time looks long, but it's actually much shorter than all, all of our other assignments, because, we're now entering into an area, where... it's not so, much my area of expertise so that, i can't make up such long problems, uh, hopefully educat- problems that are educational but, these are more standard s- problems which, are fairly simple and take only a page rather than, three and four pages so even though it looks longer, it's really, one of the shortest assignments of the, of the semester. the material, actually on that again, the material that we're going to be starting to use, is really, covered pretty well in, Mandel and Wolf so that, starting with the quantized field i think that if you use the text and i i emailed you, various sections that we're covering, i think that'll help you and you'll be able to go ahead. in fact one of the homework problems i think is actually solved at the end of the Wolf, and also, the first volume of Cohen-Tannoudji's book, on uh Introduction to Electrodynamics, interaction of atoms with fields is on reserve at at the uh, science library, that's also, covers this the material. but it's also covered in almost any, basic quantum optics book. but before we get there let's start and just_ i wanted to finish up again, what we had last time on the Ramsey fringes. the physical experiment here and developed by Ramsey, is one in which you have something an atomic beam, that passes through two field regions. and the idea here is to get a line shape eventually, that will, be narrower in frequency than, you would've, had if you did, C-W spectroscopy, and you would've been limited by the transit time the amount of time the atom stays in the, field interaction regime. here we're assuming that the atom really, doesn't spend very much time in the field interaction regime we're assuming short pulses, but that there's a time interval between pulses, which, in the atomic rest frame is just L over V-X, where V-X is the longitudinal velocity, and V-Z is the transverse velocity or V-perpendicular, in this case. so the idea of the experiment is you detune the laser field, from the, atomic transition by a certain amount, you send the atoms through, and you measure the population of the atoms, just as they exit, the field region, you can do this in a number of ways field ionization, or just probing it with another, if it's in the R-F domain with another radio frequency field. does everyone understand the experiment? </U>
+			<U WHO="S2"> you do that for both fields right? </U>
+			<U WHO="S1"> excuse me? </U>
+			<U WHO="S2"> you check after each </U>
+			<U WHO="S1"> no you check only after the second field. </U>
+			<U WHO="S2"> only after the second </U>
+			<U WHO="S1"> only after the second field you check for the population. alright? so just right here, you check for the population. now what's physically going on here? </U>
+			<U WHO="S3"> (between) </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S3"> (between) the (out) field </U>
+			<U WHO="S1"> it_ both fields have the same (between). </U>
+			<U WHO="S4"> oh. </U>
+			<U WHO="S1"> alright? normally the way you would do this, is you would take this field, and send it down via some uh corner cube or something else and get it. i- i- i- in the case of optics in the case of R-F you would have two cavities, that you would be sending the atoms through and you would have to weight the cavities to, to uh, make sure that the cavities have a, fixed relative phase. so this is what's happening, and we wanna measure the population so physically, what's going on here? this is what_ you can_ once you understand that then i think uh things are are fairly straightforward. what you're doing what you're going to be measuring here, is, essentially a difference in phase. (xx)? the first pulse actually starts a clock. you can think of it as starting a clock pressing down on a s- on a stopwatch and starting a clock, and the second pulse then, stops the clock <PAUSE DUR=":04"/> alright? so which phases are we actually comparing, with this start and stop? if you think of this this way you won't get confused cuz a lot of times people get confused they say well look, the pulses are off we have the natural frequency here or how do we get anything in this experiment? if you think of it in terms of these clocks i think you'll, figure out what's going on. what phases are you comparing? <PAUSE DUR=":06"/> there's only two frequencies in the problem... aside from Doppler shift. one is the frequency of the, </U>
+			<U WHO="S4">
+				<OVERLAP> atom </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> field </OVERLAP>
+			</U>
+			<U WHO="S1"> well you got 'em both alright? <EVENT WHO="S2" DESC="LAUGH"/> one is the frequency of the atom <U WHO="S3"> atom </U> and one is the frequency of the field <U WHO="S3"> field </U> and how much frequency does the_ how much phase does the field go through in the time interval between the pulses? </U>
+			<U WHO="S2"> um... (that) length? </U>
+			<U WHO="S1"> uh think of it in terms of time it's easier, how much phase does it, go through...? its frequency is big omega, so it's just </U>
+			<U WHO="S4"> omega </U>
+			<U WHO="S3"> omega T </U>
+			<U WHO="S1"> omega times T, big T. and how much phase does the atom, the dipole that you've created go through? if its natural frequency is little omega? </U>
+			<U WHO="SS"> little omega times T </U>
+			<U WHO="S1"> little omega times T. so what's the difference in phase? <U WHO="SS">
+					<OVERLAP> delta times T </OVERLAP>
+				</U>
+				<OVERLAP> just delta times T </OVERLAP> so all you're doing is measuring, this relative phase, of the, of the field, and the atom. the atomic oscillator. and that's what a Ramsey fringe does, the measurement does. it takes, and it lets you compare, two frequencies and this is very important because you can make f- laser frequencies very stable, and you're trying to get atomic frequencies maybe as a standard as a time standard, so this lets you, essentially get a very precise way as we'll see, of creating some type of standard, time standard. and in fact this is what's used now. </U>
+			<U WHO="S3"> so there's no Doppler phase </U>
+			<U WHO="S1"> there is a Doppler phase we have to look at it and see what's involved with a Doppler, phase. which we did that last time but i'll redo it again, today. now any question on the physics once the physics once you got the physics then the rest is, is is mathematics but it's i- it's really, a- and there are some, important applica- implications of the Doppler shift as well, so we have to look at that. alright everybody any questions on the physics? alright? stop_ start and stop of a clock, so that last time we calculated in fact what W is, right after the second pulse, and that's_ we're interested in rho two two, or W, it doesn't make a difference really. and W, is just sine A-one sine A-two and those are the areas of the pulse, E-to-the-minus-gamma-T, cosine delta-bar T, where delta-bar <WRITING TYPE="ON BOARD"> equals delta plus K V-perpendicular. </WRITING> which is K V-Z, and then there's another term, which, has cosine A-two, but doesn't depend on delta... that's just essentially the part of the ground state that went through without, getting excited, and we're not really interested in that. so we can neglect this part, <EVENT DESC="CROSSES OUT SOMETHING ON BOARD"/> not that it's not there it'll give you some background, but it doesn't depend on delta. now remember we're gonna look at our signal as a function of delta... </U>
+			<U WHO="S2"> but aren't you gonna record that when you make the measurement y- </U>
+			<U WHO="S1"> it's a background so it affects </U>
+			<U WHO="S2"> so how do you get rid of it? i mean, you, have to have <OVERLAP> some </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it doesn't </OVERLAP> make a differ- in other words even if you have a background signal <U WHO="S2"> yeah </U> that's a constant, and that's not what you're interested in, so it may affect your signal to noise, but it won't affect the the shape of the signal it'll just add, it'll add a D-C component to the signal, alright? now in fact, you can see that if you, judiciously choose A-one and A-two, you can actually make this term vanish identically, as well. alright if you take the first pulse pi over two pulse, and the second one, well i don't know if you can make them both vanish here, uh, if you take the second pulse pi over two this vanishes... so it doesn't look like you make both of these uh this is sine-squared A-one over two, so, um <PAUSE DUR=":07"/>
+				<EVENT DESC="WRITING ON BOARD"/> well i don't think you can make, both these vanish and that one not be uh, not be zero but if you just take, the second pulse, have an area of pi over two, then the f- this term vanishes anyway, because cosine A-two would be zero... so we have to calculate the integral of this over velocity and we need some velocity distribution, this is not in the vapor cell (now,) we have a beam, so there's some transverse distribution of velocity, due to the divergence of the beam, there you have divergence of the beam, and there's some distribution of longitudinal velocities. if we're a model energetic beam, what would the longitudinal velocity distribution be? </U>
+			<U WHO="S2"> two, you mean it'd just be constant? </U>
+			<U WHO="S1"> not constant if it was monoenergetic it would be a? delta function, it would be delta V-X minus whatever the, speed of the beam is, alright? monoenergetic means you have all the, atoms have the same longitudinal velocity, alright? now out of a thermal source you don't get that out of a supersonic source you can do a lot better, and you can use laser cooling techniques actually to get close to that. so let's, i just took a simple distribution, for the speed along the beam V-X-squared, typically in a thermal beam it might be V-X-cubed, times E-to-the-minus-V-X-squared just moves it out a little bit. but this is just a function that's peaked, at some value related to U-X. so we have to calculate, the <EVENT DESC="WRITING ON BOARD"/> integral, of cosine, delta plus, K V-perpendicular, times T, now remember T is, L over <EVENT DESC="WRITING ON BOARD"/> V-X, times W of V <PAUSE DUR=":06"/> now this is again related to integrals we've seen before, but, the important thing is that let's look at <EVENT DESC="WRITING ON BOARD"/> K V-perpendicular... times T. and let's take some typical values. K is on the order <EVENT DESC="WRITING ON BOARD"/> of ten-to-the-fifth centimeters-to-the-minus-one in the optical this is in the optical... <EVENT DESC="WRITING ON BOARD"/> domain. let's take a thermal beam, <EVENT DESC="WRITING ON BOARD"/> V-perpendicular let's, let's take an angular divergence, of ten-to-the-minus-three that's a pretty small angular divergence. ten-to-the-minus-three radians </U>
+			<U WHO="S3"> why they in the Doppler now they have, the exponential, um, Us, um U-X, uh, U, is that? </U>
+			<U WHO="S1"> this is U-X-squared. alright that's, gives us the most, that's related to the most probable, speed along the beam </U>
+			<U WHO="S3"> but here w- we have we have U-squared not </U>
+			<U WHO="S1"> i know but this is a beam you_ uh that's in a that's in a cell, where U-X-squared average equals U-Y-squared average equals U-Z-squared average <U WHO="S3"> mhm </U> when you have a beam that's collimated, the the, velocity in the transverse direction is, very small, that's what you mean by a beam right? if it was going all over the place you wouldn't have a beam <U WHO="S3"> yeah </U> and the velocity in the longitudinal direction is determined by the source, so (nubbin,) how the atoms come out along the beam, right so there's a different, probable velocity associated with the longitudinal motion, and the <SIC> transversh </SIC> mot- transverse motion. <U WHO="S3"> okay </U> alright? <U WHO="S3"> mm, yeah </U> so for V-perpendicular in fact we take some theta, which is the beam divergence, times let's say five times <EVENT DESC="WRITING ON BOARD"/> ten-to-the-fourth or something, centimeters a second, and let's take <WRITING TYPE="ON BOARD"> theta dot ten-to-the-minus-three </WRITING> that's a very small beam divergence, so that's <WRITING TYPE="ON BOARD"> five, times ten-to-the, one, </WRITING> centimeters per second. and the idea in these experiments is you want to make T large so let's take L about a meter, long, it's not, atypical, so we take <EVENT DESC="WRITING ON BOARD"/> L equals a hundred centimeters...and V-X is also, let's take it thermal, where U-X is five, times ten-to-the-fourth, centimeters per second, alright? so if you multiply all those out, you end up with, <WRITING TYPE="ON BOARD"> K V-perpendicular T, is on the order of ten-to-the-fourth... </WRITING> well what does that mean? <PAUSE DUR=":11"/> this is the Doppler shift that the atoms get because of their transverse motion, interacting with the field, remember they don't all have the same transverse velocity we have to integrate over it... and what's the_ for a typical atom what about its Doppler shift small or large? compared to unity. this is a phase. it's very large. so as we integrate over V-perpendicular, what'll happen to all these phases...? </U>
+			<EVENT WHO="SS" DESC="UNINTELLIGIBLE ANSWERS"/>
+			<U WHO="S1"> they'll just cancel each other out </U>
+			<U WHO="S2"> what are you telling us with_ you're asking us, what that number means or what are you asking us with </U>
+			<U WHO="S1"> in other words this number's ten-to-the-fourth, but we still have to integrate i just took a st- a typical V-perpendicular, we still have to integrate over V-perpendicular <U WHO="S2"> mhm </U> and since the phase for a typical atom is so large </U>
+			<U WHO="S2"> so you're saying the same thing that you said before basically with the, with the <OVERLAP> phases </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> with </OVERLAP> in- free induction decay <U WHO="S2"> okay </U> it's the same effect as free decay. </U>
+			<U WHO="S4"> how does it compare with delta? </U>
+			<U WHO="S1"> delta's not_ delta's fixed, and we'll have to deal with delta also delt- there's another phase here, that we'll have to deal with, but i want to look at this phase first. no matter what delta is it's fixed. so when we average over Vs- V-perpendicular, the signal washes out of the optical domain. so you can't do the Ramsey fringe, for these typical parameters, in the optical domain... and in fact the original experiments were done in the R-F domain, where, in the R-F domain... <EVENT DESC="WRITING ON BOARD"/> what changes? </U>
+			<U WHO="S2"> frequency? </U>
+			<U WHO="S1"> frequency so K changes. so K is about... <WRITING TYPE="ON BOARD"> ten-to-the-minus-six, K optical... </WRITING> in the R-F domain. and what does that mean about the total phase then? <U WHO="S2"> it's small </U>
+				<WRITING TYPE="ON BOARD"> K-R-F... V-perpendicular T is on the order of, ten-to-the-minus-two </WRITING> or so, so what about that phase? </U>
+			<U WHO="S4"> it's small? </U>
+			<U WHO="S1"> it's small and we can neglect it <PAUSE DUR=":09"/> so in the R-F domain, what about the second term? </U>
+			<U WHO="S4"> it's small </U>
+			<U WHO="S1"> we can throw it out... and that's where Lorentz originally carried out his experiments, so we're left now, with an integral, of, <WRITING TYPE="ON BOARD"> cosine, delta, L over V-X, times W, naught of V-X, D-V-X </WRITING>
+			</U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S4"> but why are we looking in the R-F domain? </U>
+			<U WHO="S1"> that_ that's where the or- we don't have to look in the R-F domain that's where the experiments were originally, carried out it's still an important domain. because the frequency standards are, are, cesium for example ground state transition, so it's a transition between, between the two hyperfine states and the ground state, which is in the radio frequency part of the spectrum. it's on the order of gigahertz. so that this is in fact the region where most standards have been, developed so far it would be better if we could get an optical standard, but we're not there yet, because of other problems. so that this, is, a way to measure, for example transitions between hyperfine states... now what if we did have a monoenergetic beam? what would this signal look like? in other words if V-X instead of being, a distribution as i, wrote it, was, just a delta function, of V-X minus some, V-X-zero? </U>
+			<U WHO="S2"> (xx) integration'd be easier? </U>
+			<U WHO="S1"> the integration would be trivial but what would we get...? let's say it was delta V-X... <EVENT DESC="WRITING ON BOARD"/> minus V-X-zero, or minus okay minus V-zero <PAUSE DUR=":05"/> then when i integrate it what would i get...? <EVENT DESC="WRITING ON BOARD"/> cosine delta V-zero, i'm sorry cosine delta-L, over V-zero. well what does that look like as a function of delta? </U>
+			<U WHO="S4"> cosine </U>
+			<U WHO="S3"> cosine </U>
+			<U WHO="S1"> it's a cosine it looks like a cosine. <EVENT WHO="S2" DESC="LAUGH"/> but what's wrong with that for this experiment? why isn't that good you would think, boy, i'll do a lot better if i don't have to do this, horrible integration, if i have a monoenergetic beam, i should get perfect results. but what's wrong? why did_ isn't this useful? </U>
+			<U WHO="S2"> um, you have a problem with the... it's not confined to a, point in space? </U>
+			<U WHO="S1"> what are you trying to determine...? what value of delta? </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S1"> when delta's equal to what? you wanna, you wanna use this to measure the frequency of the transition so what value of delta do you need? </U>
+			<U WHO="S2"> zero </U>
+			<U WHO="S1"> zero. well if i draw you a curve like this <EVENT DESC="DRAWS CURVE ON BOARD"/> which is delta equals zero? </U>
+			<U WHO="S2"> (xx don't know) </U>
+			<U WHO="S1"> you don't know. so in fact, you want something, that destroys all the fringes, except the? delta equals zero fringe <PAUSE DUR=":04"/> is that clear? </U>
+			<U WHO="S2"> yeah </U>
+			<EVENT WHO="S1" DESC="ERASES BOARD"/>
+			<U WHO="S3"> excuse me i'm not following this is it you want to measure (the delta) </U>
+			<U WHO="S1"> the <SIC> populmation </SIC> W population, as a function of delta. <U WHO="S3"> uhuh </U> alright? and i said that if this were a a monoenergetic beam, we would just we wanna pick out the delta equals zero. but if we had a monoenergetic beam we'd get a pure cosine there would be no way to isolate, which is the central fringe, the delta equals zero fringe. </U>
+			<U WHO="S3"> why they want delta equals zero fringe? </U>
+			<U WHO="S1"> you tell me why do you want delta to equal zero? </U>
+			<U WHO="S3"> you say you want to measure the </U>
+			<U WHO="S1"> when a_ if delta equals zero, what is the frequency of the laser equal to? </U>
+			<U WHO="S3"> equal to the omega </U>
+			<U WHO="S1"> equal to the atomic <U WHO="S3"> atomic </U> and that's what you wanna measure. <U WHO="S3"> oh okay </U> alright...? when delta's zero what is this integral? </U>
+			<U WHO="SS">
+				<EVENT WHO="SS" DESC="UNINTELLIGIBLE ANSWERS"/>
+			</U>
+			<U WHO="S5"> g- Gaussian </U>
+			<U WHO="S1"> no it's normalized but what's the integral? </U>
+			<U WHO="S4"> one </U>
+			<U WHO="S1"> just one. and then what happens? as delta starts to, deviate from zero, you start to get oscillations and what'll happen eventually to this integral? as we integrate over it? it'll start to wash out. you have to do this integral numerically, and it's done in the notes, but it'll look something like this. <PAUSE DUR=":10"/>
+				<EVENT DESC="WRITING ON BOARD"/> and what's the width? approximately? what's the order of the width? it's when this phase, it's the value of <EVENT DESC="TAPS BOARD"/> of delta for which this phase, is approximately equal to unity. and we put in the U-X, so this width, then in_ as a function of delta, <EVENT DESC="WRITING ON BOARD"/> is just one over T, which is, U-X, of order. it's of order one over T, U-X over L. </U>
+			<U WHO="S2"> how do we know that gives us the width of the? </U>
+			<U WHO="S1"> you do it, you do it numerically you can measure it, but i'm just saying, here you have a phase. when do you start losing, when does it_ when do you start getting things wash out, when the phase is of order? </U>
+			<U WHO="S3"> pi </U>
+			<U WHO="S1"> pi unity pi equals, two pi equals one, right? <EVENT DESC="S1 AND S2 LAUGH"/> right for all these things, for large values of one, alright, so <U WHO="S2">
+					<OVERLAP> that was my confusion (xx) </OVERLAP>
+				</U>
+				<OVERLAP> just get the </OVERLAP> that's that's the order you always hafta you hafta do it, numerically to see where it, it, goes down to one half the uh, <U WHO="S2"> okay </U> alright, so you can look on the notes and j- actually, plot <U WHO="S2"> it was two pi equals one that got me </U> alright two pi over one... you remind me sometime when we're not being taped i'll tell you a Feynman story about factors of two pi <EVENT DESC="LAUGH"/> alright... so this gives you a width that depends on what? </U>
+			<U WHO="S4"> (laws) </U>
+			<U WHO="S1"> as the length gets larger and larger, what happens to the width? </U>
+			<U WHO="S4"> gets smaller </U>
+			<U WHO="S3"> smaller </U>
+			<U WHO="S1"> smaller and smaller so it looks like you have arbitrarily small width. there's only one, feature that's, that we haven't mentioned so far or i didn't put it here, we always have this <WRITING TYPE="ON BOARD"> E to the minus gamma T, </WRITING> now in the R-F domain that decay rate is very slow, so you can go on forever but in the optical domain, if you had that, it would start to kill you very quickly, except in certain cases, and i'll talk about that in a second. so here you can get very narrow widths that are not limited by transit time, they'll be limited by signal to noise by drift, by keeping your phase of your laser, steady by locking your laser by your frequency stability of the laser. really that's what the experimental problems will be. and this is a very important technique. any questions on the R-F domain? we can do it in the, optical domain but not with this setup. and i'll show you how to do that right now... any questions here first? </U>
+			<U WHO="S3"> so in R-F domain, the frequency will be lower when you measure it? is it only (can) measure (it) lower? </U>
+			<U WHO="S1"> you can measure R-F frequencies which are <U WHO="S3"> oh yeah </U> gigahertz or something like that... or you can neglect the Doppler ef- effect... how can you do this in the optical domain? any oth- any other questions...? so let's see what happens. <EVENT DESC="ERASING BOARD"/> what was the main problem? why didn't it work in the optical domain...? which i just erased. </U>
+			<U WHO="SS"> because (xx) velocity </U>
+			<U WHO="S1"> because of the Doppler effect, the wipeout. so we have to do something clever to eliminate the Doppler effect. </U>
+			<U WHO="S4"> the big phase difference is what you're talking about, or the big phase? </U>
+			<U WHO="S1"> the big pha- the Doppler, the large Doppler phase. and you already know how to do that in some sense... how did we eliminate Doppler effects in the f- in the past? </U>
+			<U WHO="S3"> two photon, two </U>
+			<U WHO="S1"> one is the two-photon and the other in in the coherent transient domain what was it? essentially used a photon echo... </U>
+			<U WHO="SS"> right, oh </U>
+			<U WHO="S1"> right? so we have to do something similar to that. so now, the idea is... <EVENT DESC="WRITING ON BOARD"/> that we put in four pulses <PAUSE DUR=":04"/>
+				<EVENT DESC="WRITING ON BOARD"/> the first two have wave vectors K-one, and the second two have wave vectors K-two, and these are the times T. i won't go through the details of this calculation but i'll just sketch it very briefly, to show you what's going on. what are the first two pulses giving me for W? we've already done that. it gives me <WRITING TYPE="ON BOARD"> cosine, delta plus K-one dot V, times T. </WRITING>
+			</U>
+			<U WHO="S2"> are we taking K-one and K-two to be, in opposite <OVERLAP> directions? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> not </OVERLAP> not yet we're just taking 'em arbitrary <EVENT DESC="WRITING ON BOARD"/> alright? </U>
+			<U WHO="S2"> to get rid of okay </U>
+			<U WHO="S1"> and what does the second pulse do essentially? i put these very close together, to indicate that we don't have to worry about what's going on here. so the second pulse just gives us another, the same type of factor. the only thing that changes is what? </U>
+			<U WHO="S4"> it's K-two </U>
+			<U WHO="S3"> cosine </U>
+			<U WHO="S1">
+				<WRITING TYPE="ON BOARD"> delta plus K-two dot V, times T... </WRITING> so you look up on the page in your head where you have the cosine identities <EVENT DESC="WRITING ON BOARD"/> alright? so this is, <WRITING TYPE="ON BOARD"> cosine of delta, plus K-one plus K-two... dot V, T, over two, two delta... plus, cosine of K-two minus K-one, over two, dot V T </WRITING>
+				<PAUSE DUR=":06"/> now we need the delta why do we need the delta? </U>
+			<U WHO="S3"> delta equals zero (xx) </U>
+			<U WHO="S2">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we want to look at things </OVERLAP> as a function of delta <U WHO="S3"> okay </U> so we want to eliminate the Doppler effect so what the way_ is there to eliminate it here? </U>
+			<U WHO="S2"> by taking K-one and K-two to be </U>
+			<U WHO="SS">
+				<OVERLAP> opposite directions at equal magnitude </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> opposite directions at equal magnitude </OVERLAP> so if we take K-one equals minus K-two... <EVENT DESC="WRITING ON BOARD"/> the Doppler phase goes away and we get a Ramsey fringe signal, in the optical domain... now remember now we have <EVENT DESC="WRITING ON BOARD"/> this factor E-to-the-minus-two-gamma-T, and in the optical domain, if we want to make T large, what's gonna happen there? it's gonna start killing the signal. so where do you have to work in the optical no- domain, in fact in almost all the experiments on optical Ramsey fringes, up to recently, were carried out for, essentially forbidden transitions, transitions which have a s- a very long lifetime, in magnesium or cesium. they're not strictly forbidden, but they're almost forbidden, so that they get lifetimes on the order of either microseconds or milliseconds <PAUSE DUR=":06"/> and, again these were proposed as standards and now people are still working on these, transitions in magnesium and cesium. uh, no it's calcium, and magnesium, as standards... (xx) </U>
+			<U WHO="S2"> is there a reason why we_ the decay factor is different, here than it was in the R-F? </U>
+			<U WHO="S1"> it's the same factor except we have two Ts <EVENT DESC="TAPS BOARD"/>
+			</U>
+			<U WHO="S2"> oh okay </U>
+			<U WHO="S1"> alright? </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> we're always dealing with the dipoles, between the, pulses. now, these these experiments were carried out in the, eighties, and then later on uh Christian Borde, gave, an interpretation of these experiments in terms of atom interferometry. now this is a somewhat controversial area. and, which, i've been involved with a little bit and Dor- Boris Dubetsky who works with me, is uh much more emotional about these issues. </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S1"> and i'll come back to it in just a second and tell you why why what the controversy is, in terms of atom interferometers. you could think of this now, if we remember those diagrams in terms of recoil, we could think of these as, two atoms going along different paths, because of recoil, and then recombining. so, in that context, this could be, as an atom interferometer. but to get this result did we ever use, anything related to quantization of the center of mass motion? not at all. so in_ ultimately or, fundamentally, this result is not related to quantization of the center of mass motion, and it's not related to matter wave interferometry in other words, treating the motion of the center of mass motion_ center of mass motion quantum mechanically. you can still use it as an interferometer, but it's what we call an internal what we term, an internal state it depends on the fact that you have, different internal states, and you're looking at the interference between those states. and that'll become a little clearer in just a second. so this is, a way of, doing Ramsey fringes doing interferometry, as well, because <EVENT DESC="COUGHS"/> excuse me, what if anything, affects the velocity in here? what about the velocity cancellation? will it be perfect? </U>
+			<U WHO="S2"> no </U>
+			<U WHO="S1"> no so you can measure phase changes due to gravitational effects, or rotation, and this can serve as a rotation center, or a gravitational sensor. and the experiment's already been done, in which that was_ uh, those were measured... the question is, is it possible to, to build an interferometer, when we're not so much interested in standards, so we're not trying to measure a frequency, but we want to have a very long baseline of time, so we can carry out an experiment over a long time, to get a higher precision... if we use the dipole moment, what are we always limited by? </U>
+			<U WHO="S2"> the decay? </U>
+			<U WHO="S1"> the decay of the dipole, (sine state) </U>
+			<U WHO="S2"> so what's a long time you said we need a long time what do you mean? </U>
+			<U WHO="S1"> long time the longer the better but let's say we c- want to get up to seconds, or tens of seconds <PAUSE DUR=":05"/> what's the only state that stays around for that long, a period of time? </U>
+			<U WHO="S4">
+				<OVERLAP> ground state </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> ground state </OVERLAP>
+			</U>
+			<U WHO="S1"> the ground state. so we have to build an interferometer of this type, that just depends on the, ground state. so let me just sketch again how you can do that <EVENT DESC="ERASES BOARD"/> now instead of putting in, four pulses we only have to put in two pulses, <EVENT DESC="WRITING ON BOARD"/> but we put in standing waves... and then another standing wave <PAUSE DUR=":04"/> let's see if you can unders- get an idea of how this happens, in terms of our little diagram <EVENT DESC="WRITING ON BOARD"/> here we have time <EVENT DESC="WRITING ON BOARD"/> for the first pulse, what do we have acting? we start at state one, and we have both fields, think of both, traveling wave components acting <PAUSE DUR=":04"/> alright this is just a sketch i'm not doing this in detail, i'm just trying to give you a flavor for what happens here... let's imagine we absorb from this beam, let's_ and we emit into this beam... <EVENT DESC="DEMONSTRATING WITH HANDS"/> hm? (xx) you have to look up if you're gonna see this. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> you absorb from this beam, and then emit into this beam. how much momentum do we transfer to the atom? </U>
+			<U WHO="S2">
+				<OVERLAP> two </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> K? </OVERLAP>
+			</U>
+			<U WHO="S2"> two-K </U>
+			<U WHO="S1"> two H-bar K, remember because, when you (absorption) you change the sign if we absorb from this beam, and then emit it into this beam of course, then that thing would've been zero, but by doing it this way how much do we transfer? </U>
+			<U WHO="S3"> two </U>
+			<U WHO="S1"> two K-V, and we can be either in the excited state or the ground state. if we do this twice how much do we transfer? </U>
+			<U WHO="SS"> four </U>
+			<U WHO="S1"> four K-V six K-V eight K-V any even, even frac- even uh, power of K-V. but let's just look at the two K-V to see what happens, lowest order of perturbation. so now, and let's assume we're back in the ground state. where will the diagram_ where will the line_ what line should i draw now since we've got two K-V of momentum, what should i draw? a line going up at </U>
+			<U WHO="S3"> two (xx) </U>
+			<U WHO="S1"> two K-V <EVENT DESC="WRITING ON BOARD"/> with that slope. but we're still in the ground state <PAUSE DUR=":04"/>
+				<U WHO="S3"> what is </U> or the excited state, that's it, alright? </U>
+			<U WHO="S3"> you_ what is doing in the ground state? </U>
+			<U WHO="S1"> well that's a that's a term remember you go, just do it in perturbation theory you start in the ground state, you go up to the excited state with one field and back down to <U WHO="S3">
+					<OVERLAP> ah </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> ground state with the second field. so we're back in the ground state amplitude. alright? so we're_ we have here a ground state. </U>
+			<U WHO="S2"> so, i understand your (by your) picture i think i understand what you're talking about, well, you're talking about both fields acting at the same time but </U>
+			<U WHO="S1"> no it's <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> one </OVERLAP> i i'm just thinking of not both pulses acting, each pulse consists of, two traveling wave fields it's a standing wave <U WHO="S2"> yeah </U> so they automatically, act at the same time it's a standing wave i'm thinking of the standing wave as two traveling waves. </U>
+			<U WHO="S2">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so </OVERLAP> you have standing wave pulses? </U>
+			<U WHO="S1"> th- these are two, this is a standing wave pulse and a second standing wave pulse. <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> but in </OVERLAP> this standing wave pulse you have two traveling wave pulses. </U>
+			<U WHO="S2"> so you're looking at one standing wave </U>
+			<U WHO="S1"> this is just the first standing wave. </U>
+			<U WHO="S2"> okay alright </U>
+			<U WHO="S1"> this is just the first standing wave. u- </U>
+			<U WHO="S4"> so you're saying we stay in the ground state but we </U>
+			<U WHO="S1"> we <U WHO="S4">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> ca- something, </OVERLAP> some probability in the excited state as well, but i'm just following the ground state here. </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> and now, <EVENT DESC="MARKS ON BOARD"/> what do we do with the second standing wave just as in the photon echo? we change it so that it comes back, <EVENT DESC="WRITING ON BOARD"/> down. <EVENT DESC="WRITING ON BOARD"/> we would hafta actually, transfer four K-V, in that process, <U WHO="S4">
+					<OVERLAP> and that's </OVERLAP>
+				</U>
+				<OVERLAP> to </OVERLAP> change its direction. </U>
+			<U WHO="S4"> that's the second pulse? </U>
+			<U WHO="S1"> that's the second pulse this is at time T... <EVENT DESC="WRITING ON BOARD"/> so in the end, we've had a Doppler phase, in a population. how do we get a Dopu- Doppler phase in a population? </U>
+			<U WHO="S5"> from scattering </U>
+			<U WHO="S1"> by creating a modulatio- a spatial modulation. two K dot R. and then R goes like R plus V-T. that's two K-V-T. and then what've we done by the second pulse? we've? rephased, that modulation... and now you're sensitive to very small effects because you can, use long time scales. however there's one catch, <EVENT DESC="ADDRESSING STUDENT"/> i'll get your question in a second alright? <U WHO="S2"> okay </U> the catch is, remember when you did that homework problem this week, if you did it, with the stimulated photon echo, <EVENT DESC="POUNDS DESK"/> what's the only time you get a long signal...? a signal that will last for a long time? </U>
+			<U WHO="S5"> when gamma is </U>
+			<U WHO="S1"> when the system was, open <EVENT DESC="POUNDS DESK"/> when gamma two didn't equal gamma one. so in order to get this to work you need an open system. and that's not hard using magnetic substates you, you drive on one transition, and it can tr- spontaneously emit to another magnetic substate. so that works. alright now_ so_ i'm going to stop for a second but you have a question? </U>
+			<U WHO="S2"> well, the diagram you've drawn, looks like we're only looking at rho one one. </U>
+			<U WHO="S1"> well you have your rho two two as well. </U>
+			<U WHO="S2"> yeah okay that's my <OVERLAP> (xx) seems like we're </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> or you have a rho two two as well </OVERLAP>
+			</U>
+			<U WHO="S2"> always in the past we're always looked at, the difference and now </U>
+			<U WHO="S1"> here it's the same thing we're still looking at the difference. </U>
+			<U WHO="S4"> where's the second_ where is there a line for the second state? </U>
+			<U WHO="S1"> in the second state? we have to_ we have to be uh... <EVENT DESC="WRITING ON BOARD"/> we wanna create rho two two now... this picture doesn't work so easily we start in state one <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S6"> to to go to a three level? </U>
+			<U WHO="S1"> now i hafta <EVENT DESC="WRITING ON BOARD"/>
+				<U WHO="S6"> (xx) </U> i want to get <U WHO="S6">
+					<EVENT DESC="ADDRESSING S2"/>
+					<OVERLAP> (xx) ground state (xx) stays (xx) </OVERLAP>
+				</U>
+				<OVERLAP> another two, that stays in the ground state </OVERLAP> alright so that, uh, i can have <EVENT DESC="WRITING ON BOARD"/> i can_ i don't know if this is_ this is not gonna work so easily in this picture, but i have_ i can have the same field act, and leave me in state two, also. if i have one field act, that leaves me one field act and acts again, it leaves me in state two. so i can_ to to second order_ this is not such a simple picture so let's </U>
+			<U WHO="S2"> so i guess my </U>
+			<U WHO="S1"> let me think about that <U WHO="S2"> my </U> for the upper state. </U>
+			<U WHO="S2"> my real question then is, if <EVENT WHO="S1" DESC="ERASING BOARD"/> this picture doesn't always_ if this sort of diagram, doesn't always give us a good idea of which matrix elements </U>
+			<U WHO="S1"> this does i- <OVERLAP> in fact </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it tells </OVERLAP> you what one of the_ well it doesn't tell you any wrong ones but it doesn't necessarily give you a complete picture right? </U>
+			<U WHO="S1"> well if i i no i didn't give you a complete picture <EVENT WHO="S2" DESC="LAUGH"/> but i could do it it's just i have to think about it, </U>
+			<U WHO="S2">
+				<OVERLAP> okay so it's possible to do it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> to get you the rho two two </OVERLAP> remember we did it with the simulator we had both terms, as well we had rho two two, <U WHO="S2"> yeah </U> and rho one one, and i have to think about it, and i'll try to bring it in next time to think of the <U WHO="S2"> okay </U> the rho two two. but it's the rho one one that's critical, because that'll last a long time. now there's another subtle way to open up the system, not simply by other magnetic substates. when you take into account recoil, on spontaneous emission, that turns out, that it also opens up the system for different velocity classes. so the recoil of the atom uh we haven't done this yet, but the recoil of the atom, opens the system. so in that case, we can get effects here, that would be absent when we neglect recoil, but, are present when we include recoil. so these effects are intimately related to what? to the, <EVENT DESC="POUNDS TABLE"/> quantum nature, of the center of mass motion. and such, interferometers in which you need that effect, you can really call de Broglie wave, interferometers. because they really depend, on, the, quantum properties of the center of mass motion. they, they in the limit that H-bar goes to zero, these effects vanish. where in the other interferometers when you let H-bar go to zero, all the effects still stay around. they're not, intrinsically quantum effects, quantum_ related to the quantum, center of mass. and we have a collaboration with a group at N-Y-U Tycho Sleator if you came to his, talk here he gave the A-M-O seminar two weeks ago or last week, and, this is the type of interferometer that they've, been looking at, in their labs. and have seen these effects of, the quantization of the center of mass motion. so there's a lot of interesting physics here, we've just touched on it i just, wanted to illustrate that, you can, use the techniques that you've learned, at least, not that we didn't, look at quantization yet of the center of mass motion but we will, you can use the techniques that you've learned to analyze many many situations that are very important... any questions on this? </U>
+			<U WHO="S3"> how do you say, consider recoil, it's a, it's open? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1">
+				<EVENT DESC="SIGHS"/> alright, just a just a, two minute explanation alright? <EVENT WHO="S2" DESC="LAUGH"/> when we neglect velocity, what do we know about, rho one one <EVENT DESC="WRITING ON BOARD"/> plus rho two two? let's just say we have a two level system. </U>
+			<U WHO="S3"> one </U>
+			<U WHO="S1"> that's equal to one. <EVENT DESC="WRITING ON BOARD"/> now, let's say we put velocity in. if there's no colli- if there're no collisions or anything of that sort, we still have rho one one of V... <EVENT DESC="WRITING ON BOARD"/> equals what? </U>
+			<U WHO="S3">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> for each </OVERLAP> velocity class, equals some number <U WHO="S3"> oh </U> W in order V alright? <U WHO="S3"> yeah </U> alright? now when we start to put in, we start to put in, spontaneous emission, and recoil, what happens? things get a little strange. when you absorb, radiation, which way do you recoil...? </U>
+			<U WHO="S2"> which way does what recoil? </U>
+			<U WHO="S1"> the atom </U>
+			<U WHO="S2"> the atom </U>
+			<U WHO="S1"> you absorb radiation this way, <U WHO="S2">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> the atom </OVERLAP> gets a kick this way. <U WHO="S3"> mm </U> but when it emits it, which way does it emit it? </U>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="S1"> it emits it in a lot of different directions so we can get a kick another way. so that this condition, <EVENT DESC="WRITING ON BOARD"/> no longer holds. <U WHO="S3"> oh </U> alright? it's no longer open, for each velocity s_ it's no longer closed for each velocity subclass. of course for the whole system it's_ the integral is conserved, but not, each velocity subclass. but that's not the reason it gives you the effect. alright? that's important but it's not. it's because, we're looking at, the interaction of these two, fields, and you hafta start thinking in terms of, quantization, of center of mass motion. remember, how many, labels do you need, when you quantize the center of mass motion? remember we did the Wigner functions you don't remember <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> but you may </OVERLAP> remember a little. we need, <U WHO="S5"> two </U> two we hafta use R-R prime R-P, or P-P prime... so let's st- imagine we're using P-P prime. you start with P... and if you have this type of interaction Matt what do you add to that? to the atom? </U>
+			<U WHO="S6"> mm </U>
+			<U WHO="S1"> how many H-bar Ks? </U>
+			<U WHO="S6"> two </U>
+			<U WHO="S3"> two? </U>
+			<U WHO="S1"> two. so you create a coherence, in momentum states. <EVENT DESC="WRITING ON BOARD"/> rho, P, P plus, two H-bar K. <PAUSE DUR=":05"/> this is no longer a population, and in fact if you find that this... <EVENT DESC="WRITING ON BOARD"/> does not equal a constant. this is the quantity that you're interested in. it's not the total population, but it's that part, that you've created, that coherence, which gives you spatial modulation of the field... (xx) because you're only looking for, the part that absorbed from this beam emitted into this beam, and that means that, that gives you a second harmonic E-to-the-two-I-K-Z. which means you have a coherence between P, and P plus two H-bar K. so these are the types of terms you have to start looking at, when you quantize the center of mass motion. and for these terms, it's no longer closed. alright? if you're really interested i can give you some references, if you wanna look at it some more, as to, how this comes about <PAUSE DUR=":05"/> any other questions any other questions we're sort of now we're done with the first, half of the course, which took a little more than half but </U>
+			<U WHO="S4"> you started by saying this can be used for an atom <OVERLAP> interferometer </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this is </OVERLAP> an this is an atom interferometer now... it can be used_ it doesn't have to be in the_ if it's an open system, it can be used even when you don't have to quantize a center of mass motion. if it's a closed, system in the absence of recoil, the signal will vanish unless you take into account recoil. and the idea is now, remember, how do we get our signal? whatever Doppler phase we acquired here what had to happen here? <U WHO="S4"> you had to cancel (xx) </U> had to <U WHO="S3">
+					<OVERLAP> cancel </OVERLAP>
+				</U>
+				<OVERLAP> cancel </OVERLAP> it. so if you change the Doppler phase? what'll happen to the signal? it'll start to get destroyed or at least it can change the phase. so if the whole thing accelerates? you'll change the phase of the relative signal. </U>
+			<U WHO="S2"> if the whole thing accelerates, wouldn't it </U>
+			<U WHO="S1"> if it_ it's in a gravitational field <U WHO="S2"> oh <OVERLAP> okay </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> the fringes alright? </OVERLAP> alright? and that's how you measure the acceleration of gravity. o- our new way, modern way, which is, already competitive with the falling, interferometers. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> i thought you were gonna say the falling apple. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> it's the same idea. you can also measure rotation rates this way. it'll again change the velocity, and it leads to a phase shift. and, in the experiment i just said, when it's the recoil that's important, it turns out that the recoil, is H-bar K-squared over two M, because that's just the, recoil associated with a photon, and the wavelength is very well known, the mass is actually pretty well known, so that lets you measure H-bar, to better accuracy, probably, in the f- near future, than had been measured before, as well. the thing you need, the longer the time you can go, the more the frin- the more fringes you can get, and the better the precision you can get... </U>
+			<U WHO="S5"> more fringes meaning that the, two ground states are sort of in phase for longer? </U>
+			<U WHO="S1"> it's it's that we measure this as a function of some detuning or as a function of, of some, time separation between the pulses. we vary this time separation. alright? and then we'll see that uh things are periodic with omega K t- the ra- the recoil frequency times time. so each time you move by one over the recoil frequency you get a new maximum or whatever the pattern repeats. so if you can go out a million waves, you could do much better in determining the recoil frequency than if you have one wave. alright? the precision is essentially one over the time of the experiment <PAUSE DUR=":04"/> any other questions? <PAUSE DUR=":05"/> (xx) okay you have a question? </U>
+			<U WHO="S3"> no </U>
+			<U WHO="S1"> alright. uh, of course i'll do anything to avoid starting the next topic which is a little <EVENT WHO="SS" DESC="LAUGH"/>
+				<EVENT DESC="ERASING BOARD"/> more mathematical <PAUSE DUR=":13"/> so now we're going to talk about, quantizing the field. now, why quantize the field at all? where did you learn_ when when did you learn about quantizing the field? first grade third grade? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> fifth </U>
+			<U WHO="S1"> fifth grade? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> where did you where did you first learn about quantizing the field? </U>
+			<U WHO="S2"> um </U>
+			<U WHO="S3"> don't remember <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> quantum <OVERLAP> mechanics </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you </OVERLAP> don't remember you're too old already <U WHO="S3">
+					<EVENT DESC="LAUGH"/>
+				</U> see that's what i say it could've been first grade. quantum mechanics. and what's y- why do you quantize the field at all? </U>
+			<U WHO="S5"> everything else is quantized (when) (xx) </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1">
+				<OVERLAP> well that's that's_ actually that's not a bad reason, </OVERLAP> you say well, everything else is quantized why don't you quantize the field as well, for consistency. </U>
+			<U WHO="S7"> the classical field doesn't explain everything? </U>
+			<U WHO="S1"> and uh that's sometimes used as a reason and what k- doesn't the classical field explain? what's the first </U>
+			<U WHO="S3">
+				<OVERLAP> spontaneous emission </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> spontaneous emission </OVERLAP>
+			</U>
+			<U WHO="S1"> what's the first thing you learn? <U WHO="S3">
+					<OVERLAP> spontaneous </OVERLAP>
+				</U>
+				<OVERLAP> spontaneous </OVERLAP> e- that's the first thing you learned? </U>
+			<U WHO="S2"> no it's </U>
+			<U WHO="S1"> what is the first evidence for a quantized field that most people learn? </U>
+			<U WHO="S5"> uh, the photoelastic, er <OVERLAP> photoelectric effect </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> photoelectric effect </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> and of course that's known, that uh you can explain the photoelectric effect totally without any, reference to, photons... alright? Compton scattering, when you, think of the particles as, photons. but the Compton scattering experiments, the Compton scattering calculations were done with classical fields. in fact most calculations and most of your life, you're dealing with, classical fields and you can describe things using classical fields, <EVENT DESC="WIPES NOSE"/> excuse me... the only time that it appears that you have to use quantized fields, is when? </U>
+			<U WHO="S6"> when the number of photons is, very <OVERLAP> small </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh </OVERLAP> when the number of photons is small, when there're just a few, photons in the beam... but how do you get just a few photons in the beam? turn down the vol- turn down the power? that doesn't work. that's the misleading thing in the photoelectric effect... what's the only <EVENT DESC="KNOCKING ON DESK"/> one guaranteed way to know that you have, quote one photon in the beam? </U>
+			<U WHO="S6"> measure it </U>
+			<U WHO="S1"> n- no </U>
+			<U WHO="S3"> (make one) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> you don't know if you measure it you you can </U>
+			<U WHO="S6"> then you don't have anything </U>
+			<U WHO="S1"> that's right, so you <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> don't know what you had before </OVERLAP> right? what's a simple way to guarantee it? you take one atom </U>
+			<U WHO="S7"> and you excite it </U>
+			<U WHO="S1"> you excite it </U>
+			<U WHO="S4"> (xx) </U>
+			<U WHO="S1"> and you wait a little while. now what's emitted in that case? </U>
+			<U WHO="S3"> how can take one? </U>
+			<U WHO="S1"> how can you take one atom? <U WHO="S3"> mm </U> that's possible. you can just you don't hafta even take one atom. you can focus your, your detection apparatus, that it covers only one atom, say in an impurity, people do this single atom spectroscopy </U>
+			<U WHO="S3"> mm </U>
+			<U WHO="S1"> alright? so you have the_ some atoms in a host and you can just focus in on that one atom... and you can ways of checking we'll talk about it alright? so what happens then what does that atom do? what's the normal nomenclature? </U>
+			<U WHO="S7"> emits a </U>
+			<U WHO="S1"> emits a photon. well that's not quite, true either. my, my advisor was Willis Lamb, and, his point was that he said he d- it's not that he's against the word photons but he thinks it's, that people should have to apply for a license to use the word </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> and he said most people wouldn't get it, <EVENT WHO="SS" DESC="LAUGH"/> wouldn't pass the exam. now... we'll talk about that a little bit as well in other words, what is a photon and what does it mean to say, a photon the word photon is used all the time, but for example it would be more correct to say in that, atom case where it emits, as it emits into a one photon state, of the system. it's actually not a single photon but a superposition of an infinite number of, single photons, single, infinite number of photon states, but it's a one photon state, and we'll see what that means, also... and i'll, give you the prescription for, quantizing the system, as well. well, we hafta start with some type of, classical system, that's the normal way that you quantize you look at a classical system, and you fudge around a little and you look for some Poisson brackets you look for something you recognize, and then you, quantize the system. in the case of the electromagnetic field, we have to start with some type of system, classical system. and you already know, that, for the classical electromagnetic field, things will depend on the boundary conditions... if you take a boundary condition like this, and you try to quantize the field, try to find the classical fields in there, what will you find? </U>
+			<U WHO="S2"> a mess? </U>
+			<U WHO="S1"> problems. alright? even if you take a spherical cavity, which is a nice system for using angular momentum states, to quantize the field, what will you find when you try to quantize those states? it's like quantizing in a spherical cavity? you get Bessel functions you get, all these combinations of Bessel functions, and, things are not the waves are not transverse, you get it's like, you're_ oh someone was talking about Jackson, this is the modes inside of a spherical cavity. if you take a box, then things get a little easier, <U WHO="S3"> (xx) </U> but you still have to worry about, the boundary conditions at the say maybe the, the edges of the box and what's going on it's not so clear, as to what's going on. the point is no matter what you take for your quantization volume, if you let the quantization volume grow to infinity, then things won't, really depend, too much on how you've chosen, the quantization volume. so you might as well take the easiest one possible, or one of the easiest ones. and one of the easiest ones is, a, periodic boundary conditions. if you choose periodic boundary conditions, it just makes life easier you go on for infinite space, but we'll eventually choose, periodic, boundary conditions so that's the one we'll choose. however if you're dealing with a real cavity, you may not have a choice. inside a real cavity what will you have to choose? </U>
+			<U WHO="SS"> whatever (xx) </U>
+			<U WHO="S1"> whatever the modes are of that cavity, <U WHO="S3"> mm </U> in order to quantize the field. </U>
+			<U WHO="S3"> so quantize field quantize the mode </U>
+			<U WHO="S1"> this is the way that you never run into trouble. if you look at the classical prop- for example if you have a beam splitter which we'll do later on... you should include as your system, include the beam splitter, in your system, and quantize the field, get the classical modes of the field, with the beamsplitter in... and we'll see how to do that, and then you don't run into any problem. and then you associate with each, classical mode, some quantized mode. and that's what we'll be doing. so that's the pep talk, the philosophy and then i, go through this. most of this is in the notes i'm not gonna_ it's_ as boring <SIC> at is is </SIC> for you to look at it on the board, it's just as boring f- for me, to go through it, on the board, but i wanna just point out some of the details, and, remind you of some things you may know or you haven't looked at recently, that we'll need for what we're going to be doing, <EVENT DESC="GOES TO BOARD"/> so, dealing with infinite space in this case or periodic boundary conditions alright uh eventually, so we Fourier transform any field, F is any field variable. the electric field the magnetic field the, vector potential, something like that... and when we do that, we find this is F of K-T, <EVENT DESC="WRITING ON BOARD"/> we find that F of minus K-T is just the, F of K-T star. alright you just substitute in, F, F of R-T remember is real. so this is the transformation from, F of K back to F of R, and the Hamiltonian in free space... now we'll be dealing with a free field, it's just, half epsilon zero E-squared plus C-squared B-squared... and Maxwell's equations at least uh Faraday's law, and the displacement law can be written in free space, in the, in the K space, in this form. this would be normally, uh, dell cross E and this would be dell cross B. but the dell is replaced by K, in, <EVENT DESC="COUGHS"/> excuse me, in, in Fourier space. so this is the starting point. now, this Hamiltonian <EVENT DESC="WRITING ON BOARD"/> looks pretty familiar, almost... something squared, plus something else squared... what Hamiltonian do you have, where you have something squared plus something else squared? </U>
+			<U WHO="S3"> harmonic oscillator </U>
+			<U WHO="S1"> harmonic oscillator P-squared over two M, plus one half K-X-squared. so it's tempting to think, that, i can assign one of these, E for example to momentum, and X, or X to momentum, and, B to, E to X-Q and B to momentum, and it will look like a harmonic oscillator. well you can't quite do that because the, commutation relations for the field, are not the same, as the commuta- or the Poisson brackets for the field are not the same, as the Poisson brackets for X and P, in the harmonic oscillator. but for certain boundary conditions it almost works out, that way. so the idea instead of doing that is to use a little trick. is to use some combinations of E and B, and then see if we can get the Hamiltonian written, in a new form that also looks, quite, familiar to you. so this is what we'll do. and let me get the, definitions correct. so we need to take alpha... <EVENT DESC="WRITING ON BOARD"/> of K-T, which is a vector, which is, minus I, over two N of K, times, E, minus, C, kappa, cross B... where kappa is K over K. kappa's a unit vector. and these are tildes. so these are still in in Fourier space. N is just a normalization. we can choose it any way we want. it's just a number we're putting in. and we'll choose it, for some convenience in a few minutes. i did the calculations carrying it all the way through, to show you that there's nothing magical with N but then i, i decided that it's not worth, all that, you know. you can choose any- anything you want, but, it'll just eventually uh_ everything will (scat) with N, and we choose it in a certain way, to give, familiar results. </U>
+			<U WHO="S3"> is this in Gaussian unit? </U>
+			<U WHO="S1"> no everything is stan- S-I. S-I that's the wave of the future right? even Jackson's new edition which he's writing, <EVENT DESC="LAUGH"/> he's gonna write, in S-I units <EVENT DESC="LAUGH"/> (xx)? so everyone will have to buy a new edition. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> and what we'll also want is alpha star, <EVENT DESC="WRITING ON BOARD"/> of minus K and T, equals I over N-K <PAUSE DUR=":05"/> E tilde, plus C, kappa cross B tilde, how do we get that? remember we use this property of fields, in order to, get that and K changes to minus K, so that changes this sign. so when we do this we can write down the fields <EVENT DESC="WRITING ON BOARD"/> E is, two I, I-N, times alpha, of K-T, minus alpha star, of K-T, of minus K-T <PAUSE DUR=":04"/> and B, is, I, N... alpha of K-T, plus alpha star, of, minus K-T... <PAUSE DUR=":08"/> so these are, the fields, in terms of these quantities alpha and alpha star, <EVENT DESC="WRITING ON BOARD"/> which have been introduced because they're gonna lead to something familiar... what you notice, first of all since we're in free fields, what <EVENT DESC="WRITING ON BOARD"/> about E B... and alpha and alpha, star? they're all perpendicular to? </U>
+			<U WHO="SS">
+				<OVERLAP> K </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> K, </OVERLAP> and we'll need to use that <PAUSE DUR=":06"/> so now, essentially we can write down the Hamiltonian, in terms of, alpha and alpha star <PAUSE DUR=":05"/> here's our Hamiltonian, in K space. so what do you do? </U>
+			<U WHO="SS"> substitute </U>
+			<U WHO="S1"> you substitute in, and remember when i'm integrating over K what can i always do? i can change K to minus K, and, it doesn't change the integral, at all, so i can make that substitution when i need to. so what do you get when you substitute in? when i get the E-squared terms what do i get? i get terms like, alpha alpha-star, alpha alpha, complex conjugate, this time this complex conjugate. and what do you imagine when i add these together what about the cross terms? </U>
+			<U WHO="SS"> cancel </U>
+			<U WHO="S1"> the cross terms cancel. and what about the, contribution from E and B? you know for a for a plane wave? contribution to the energy from the E-field and the B-field? </U>
+			<U WHO="S3"> same <EVENT DESC="OTHER STUDENTS NOD"/>
+			</U>
+			<U WHO="S1"> it's the same. so we're just gonna get a factor of two, which will cancel this, factor of two, and we end up, the details of, <EVENT DESC="WRITING ON BOARD"/> wherever, in your head on the sheets <EVENT DESC="WRITING ON BOARD"/> so we have now, an <EVENT DESC="WRITING ON BOARD"/> integral, of N of K, squared, and now we have <EVENT DESC="WRITING ON BOARD"/> alpha, of K-T... alpha star... of K-T let me just use the same notation that they're using here, alright and remember when you take_ the_ when you put in B, remember, oh this B is wrong this should be kappa cross alpha <EVENT DESC="WRITING ON BOARD"/> these are kappa cross alphas, in here, (xx)? and that came from using this, relationship that we have to take, uh <PAUSE DUR=":04"/> uh if i if i use the fact that K is perpendicular to b- to B and E, i can_ when i invert this i can multiply by K, on both sides, to get this relationship. </U>
+			<U WHO="S5"> i think you need a C as well </U>
+			<U WHO="S1"> there's a C, yeah, let's see <PAUSE DUR=":09"/>
+				<EVENT DESC="FLIPPING PAGES"/> alright... no it's I-N over C <EVENT DESC="WRITING ON BOARD"/> so it's alpha alpha star, plus alpha star alpha. <EVENT DESC="WRITING ON BOARD"/> now why do i, do this? <PAUSE DUR=":04"/> clearly that's just two alpha </U>
+			<EVENT WHO="SS" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> but i'm going to wanna leave it in some type of symmetrized form, so that when i try to quantize the system, i'm able to quantize it... alright? so this just comes now, and this is dot really <EVENT DESC="WRITING ON BOARD"/> these are vectors <PAUSE DUR=":04"/> so this is the Hamiltonian, that we have class- everything is classical, so far... what equation of motion does alpha obey? <EVENT DESC="WRITING ON BOARD"/>
+			</U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S3"> it just substituted to the next (wave) </U>
+			<U WHO="S1"> alright? it's just equal <EVENT DESC="WRITING ON BOARD"/> to, I H-bar, times minus I over two N-K, times a partial of E with respect to T. what is that? </U>
+			<U WHO="S4"> mm, K cross B </U>
+			<U WHO="S3"> I-C-squared-K </U>
+			<U WHO="S1"> the partial'd be I-C-squared-K cross B <EVENT DESC="WRITING ON BOARD"/> and then we have, minus C, kappa cross, what's the partial of B with respect to T? </U>
+			<U WHO="S3"> minus I-K cross C </U>
+			<U WHO="SS"> minus I-K cross C </U>
+			<U WHO="S1"> minus I-K cross C <EVENT DESC="WRITING ON BOARD"/>
+				<PAUSE DUR=":05"/> so what does K cross K cross E give us? </U>
+			<U WHO="S7"> dot-squared-E? </U>
+			<U WHO="S1"> no remember use the (back cav, row) alright you don't have to er- it's K times, K dot E. but what is K dot E? </U>
+			<U WHO="S3"> it's, zero. </U>
+			<U WHO="S1"> zero, because K is perpendicular and then you get minus E times, K dot K, but K dot K is, kappa is just </U>
+			<U WHO="S3"> zero? </U>
+			<U WHO="S1"> K. K dot kappa kappa's in the direction of K. </U>
+			<U WHO="S3"> oh </U>
+			<U WHO="S1"> so it's just K. so what_ without going through all the details what does this term give you just back? <OVERLAP> E. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> E </OVERLAP>
+			</U>
+			<U WHO="S1"> and what does this term give you? </U>
+			<U WHO="S3"> E </U>
+			<U WHO="S1"> K cross B. </U>
+			<U WHO="S3"> E (xx) </U>
+			<U WHO="S1"> no K cross B. so we're back to what we started with. kappa cross B and E. and what's the multiplication factor? it's just C-K... and what is C-K? </U>
+			<U WHO="S3"> omega? </U>
+			<U WHO="S1"> omega. so this is just equal to, um... i have to put I H-bar, so this is <EVENT DESC="WRITING ON BOARD"/> I H-bar, times, minus I omega, alpha... i'll try to use Js to distincti- <EVENT DESC="WRITING ON BOARD"/> to remind you that it's not the same I as, the complex I. so in other words alpha J dot, equals minus I omega J, alpha J. this is the equation for the_ in free space, for these alphas. this is totally equivalent to Maxwell's equations, this equation for alpha. and the corresponding equation for alpha star, remember there's a_ independent quantities. so i have alpha star, <EVENT DESC="WRITING ON BOARD"/> since alpha's complex, alpha star dot, J, equals I omega J, alpha J... these are equivalent to Maxwell's equations. you can work in alpha space, or in E and B space. so, this will now, let us quantize the system. so let's do that, and then we'll probably, uh quit for today, but let's at least start, with that. </U>
+			<U WHO="S3"> ex- excuse me? <U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> J related to the, mode, mode or? </U>
+			<U WHO="S1"> we haven't yet we haven't yet quantized remember, this is just_ everything is totally classical now. each, B and E, remember since we're in_ using, periodic boundary conditions what modes are possible? </U>
+			<U WHO="S3"> mm, it's, <U WHO="S2"> all </U> in plane wave. </U>
+			<U WHO="S1"> a- all plane waves, so each K corresponds, and, we actually hafta introduce some polarization, each K corresponds to how many set_ independent modes essentially? </U>
+			<U WHO="S3"> two </U>
+			<U WHO="S1"> two wu- you have two independent polarizations. <PAUSE DUR=":09"/>
+				<EVENT DESC="ERASING BOARD"/> so let me choose N now, mm let me think, alright value here... <EVENT DESC="FLIPPING PAGES"/> i wanna choose N-squared, <EVENT DESC="WRITING ON BOARD"/> equals H-bar omega over two epsilon zero, times, L over two pi, cubed. where L is the length <EVENT DESC="WRITING ON BOARD"/> of our quantization volume. of course L goes to infinity. </U>
+			<U WHO="S2"> these are the number of modes? </U>
+			<U WHO="S1"> this is just a normalization factor. remember it could've been anything. if you're not happy with this, keep the N in the equations all the way through, and at the end you can choose anything you want. i'm just choosing it this way. so if we put that in, what do we find for H? <EVENT DESC="WRITING ON BOARD"/> it's, an integral, uh <EVENT DESC="WRITING ON BOARD"/> H-bar omega, over two epsilon zero, L over two pi, Q, alpha star alpha, plus, alpha alpha star, now i'm taking out the dots but, in principle what you should do is put in a polarization for each mode and then dot the epsilons, so that this'll be, there as well. and that's in the notes... <EVENT DESC="WRITING ON BOARD"/>
+				<PAUSE DUR=":05"/> alright. so this is starting to look familiar. now what we do is we go over from, a_ integral to a sum let's use periodic boundary conditions. so what is K-X in this case...? in periodic boundary conditions...? </U>
+			<U WHO="S3"> L <OVERLAP> L </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's </OVERLAP> two <OVERLAP> pi </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3"> over L </U>
+			<U WHO="S1"> two pi N-X, over L. so we're inter- we're interested in the integral <EVENT DESC="WRITING ON BOARD"/> of some function of K, B-K. let's just do it in one dimension, <EVENT DESC="WRITING ON BOARD"/> and then we'll see what it is in three dimensions. so this is, <EVENT DESC="WRITING ON BOARD"/> essentially F of K-one delta K, plus F of K-two, delta K, etcetera. that's how_ that's what we mean by an integral. </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S1"> but what is delta K? </U>
+			<U WHO="S3"> two pi over L </U>
+			<U WHO="S1"> it's just two pi over L we just change N by one. <EVENT DESC="WRITING ON BOARD"/> so this is the sum, of F of K-I, times two pi over L. so that tells us how to go from an integral to a sum. what do we simply multiply by? </U>
+			<U WHO="SS"> (xx) </U>
+			<U WHO="S1"> two pi over L-cubed, and we take the sum. so H now <EVENT DESC="WRITING ON BOARD"/> goes to a sum, and i had to put the epsilon zero here so that cancels, of... one half, H-bar omega J, times alpha star J, alpha J plus alpha J, alpha star J <PAUSE DUR=":08"/> it's still classical <PAUSE DUR=":04"/> this is the total equivalent to our original Hamiltonian in terms of E-squared plus, B-squared. but now what we do <EVENT DESC="ERASING BOARD"/> is we notice the following this is a homework problem but i'll, do it today, anyway cuz it's so... short we take the partial of A with respect to alpha... J, <EVENT DESC="WRITING ON BOARD"/> what is that? </U>
+			<U WHO="S2"> it's the </U>
+			<U WHO="S3"> H-bar omega um J </U>
+			<U WHO="S1"> H-bar omega J <U WHO="S3"> J </U> times what? </U>
+			<U WHO="S3">
+				<OVERLAP> alpha J </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> alpha J </OVERLAP>
+			</U>
+			<U WHO="S1"> alpha J star. <EVENT DESC="WRITING ON BOARD"/>
+				<PAUSE DUR=":06"/> but what is, alpha J star? in terms of alpha J star dot? <EVENT DESC="WRITING ON BOARD"/> this is just, I, <EVENT DESC="WRITING ON BOARD"/> H-bar, <EVENT DESC="WRITING ON BOARD"/> alpha J, star, dot... remember because alpha J star, <EVENT DESC="WRITING ON BOARD"/> dot, is I omega J, alpha J, star. so i just solved for alpha J star it's alpha J star dot over I omega, J, and <U WHO="S4">
+					<OVERLAP> so it should be minus </OVERLAP>
+				</U>
+				<OVERLAP> we have a minus </OVERLAP> minus <PAUSE DUR=":04"/> well this is starting to look, encouraging. if we now, take this whole thing, <EVENT DESC="WRITING ON BOARD"/> and we take the partial of H, with respect to minus I, i'm sorry, with respect to I H-bar, alpha J star... what do we find...? that's just, one over I H-bar, times, H-bar omega J, alpha J. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> the Hamiltonian </U>
+			<U WHO="S1"> but what does that equal...? <EVENT DESC="WRITING ON BOARD"/> that's minus I omega J alpha J <U WHO="S3"> mm </U>
+				<PAUSE DUR=":05"/>
+				<EVENT DESC="WRITING ON BOARD"/> but what is minus I omega J alpha J just simply? </U>
+			<U WHO="S3"> alpha </U>
+			<U WHO="S1"> alpha J dot <EVENT DESC="WRITING ON BOARD"/> partial of H with respect to one variable equals minus the other variable dot? partial with respect to H with the second variable <OVERLAP> equals the first variable dot? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> one's P one's Q </OVERLAP>
+			</U>
+			<U WHO="S1"> these are what not Ps and Qs but they're? canonical variables. so we see that, alpha J, <EVENT DESC="WRITING ON BOARD"/> and I H-bar alpha J star, are canonical variables <PAUSE DUR=":06"/> so that means their Poisson bracket is unity. and what's a way of quantizing then? you're never guaranteed. you know you can_ it's like differential equations you can do anything you want to quantize the system, and, if it works it works if it doesn't then you find a reason why it didn't work. (xx)? <EVENT WHO="SS" DESC="LAUGH"/> but, if we take the Poisson bracket and now let it become a commutator? what do we have to set then? <EVENT DESC="WRITING ON BOARD"/> alpha J comma, I H-bar alpha J star... now, goes to, A-J some quantum mechanical operators, comma I H-bar, A-J dagger... and what must that commutator equal if we use our normal quantization procedures? whenever you have the Poisson bracket you set the, commutator equal to? </U>
+			<U WHO="S2"> I H <OVERLAP> bar </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> I H-bar </OVERLAP>
+				<EVENT DESC="WRITING ON BOARD"/> so what does that tell us? that, A-J comma A-J dagger, equals, one. and that's why we <SIC> trook </SIC> the took the N, the way, i did so that you end up just getting, this value from the commutator if not you would get a different value, and all the equations would be scaled by N, wouldn't make a difference... so this is the fundamental commutator relationship, and again of course the A, I comma A-J dagger, equals delta I-J. not the same mode, you get_ the commutator vanishes. so w- </U>
+			<U WHO="S3"> so what do you change to A, A is uh alpha? </U>
+			<U WHO="S1"> A would change from the classical variables alpha now <U WHO="S3"> oh </U> to quantum mechanical, operators, alpha, A and A dagger. that's how we make the transformation. <U WHO="S3"> mm </U> that's the normal way of cn- of quantizing to each classical variable, we associate, a quantum mechanical operator. so that's what we're doing, and, now we can write our Hamiltonian <EVENT DESC="ERASING BOARD"/> don't need this any more <PAUSE DUR=":04"/> H, <EVENT DESC="WRITING ON BOARD"/> equals one half sum, of, H-bar, omega J, A-J dagger, A-J, plus A-J, A-J dagger <PAUSE DUR=":05"/> which is the sum of H-bar omega J, A-J dagger A-J, plus a half. <EVENT DESC="WRITING ON BOARD"/>
+				<PAUSE DUR=":06"/> well what h- Hamiltonian is this are you familiar with this? </U>
+			<U WHO="SS"> harmonic <OVERLAP> oscillator </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> harmonic </OVERLAP> oscillator, Hamiltonian so that we know, how to deal with this harmonic oscillator potential, Hamiltonian, and we know how to get the eigenstates. what are the eigenstates for this, Hamiltonian? now, i do- i wo- don't want to go through and bore you but i'll remind you, how do you deal with this Hamiltonian do you remember what you did, in quantum mechanics? to get the eigenstate to this Hamiltonian? </U>
+			<U WHO="S2"> do the, raising and lowering </U>
+			<U WHO="S1"> yeah and how did you do that y- that's right. how did you do the raising and lowering you remember? this is something to remember that's why i wanna remind you of this if you don't remember it. </U>
+			<U WHO="S2"> what do you mean? </U>
+			<U WHO="S1"> how did you get the raising and lower operators? what did you consider? </U>
+			<U WHO="S4"> the outer (xx) levels </U>
+			<U WHO="S2"> the outer (xx) levels or even the phase (xx) </U>
+			<U WHO="S1">
+				<EVENT DESC="WRITING ON BOARD"/> you take H-A, minus A-H... and what is that equal to? let's just take a single mode. </U>
+			<U WHO="SS"> (partial A-P) </U>
+			<U WHO="S1"> what's the commutator of H with A? let's take a single mode, <EVENT DESC="WRITING ON BOARD"/> so let's say H equals, H-bar omega, A dagger A, plus a half. what's H comma A? <EVENT DESC="WRITING ON BOARD"/>
+			</U>
+			<U WHO="S6"> (xx) </U>
+			<U WHO="S4"> yeah (xx) </U>
+			<U WHO="S1"> just do it </U>
+			<U WHO="S6"> oh <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> it's A dagger, first of all a half commutes with A, you don't have to worry about that. <U WHO="S3"> mm </U> A dagger A </U>
+			<U WHO="S4"> squared? </U>
+			<U WHO="S1"> A dagger A, comma A what is that? </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S4"> it's been a long time </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> let's see </U>
+			<U WHO="S1"> it's been a long time at least uh... remember how to do this you take one (xx) out to this side, you take this out to this side, <U WHO="SS"> yeah </U> a comma A is zero <U WHO="SS"> yeah </U> when you take this out you get A dagger <OVERLAP> comma A </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i can't remem- </OVERLAP> i- A dagger A is one, <U WHO="S1">
+					<OVERLAP> hm </OVERLAP>
+				</U>
+				<OVERLAP> or </OVERLAP> is it minus one? A dagger A is </U>
+			<U WHO="S3"> A A <U WHO="S2">
+					<OVERLAP> ah, okay </OVERLAP>
+				</U>
+				<OVERLAP> dagger </OVERLAP> is one </U>
+			<U WHO="S1"> so it's <OVERLAP> minus A </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> minus A </OVERLAP>
+			</U>
+			<EVENT WHO="S2" DESC="SIGH"/>
+			<U WHO="S1"> alright? so what does that mean? if i look at H A, minus A <PAUSE DUR=":05"/> operating on A in other words, i can call this whole operator a new operator N... right? and i could_ i don't have to do that but i could say H operating on an eigenket, <EVENT DESC="WRITING ON BOARD"/> N, let me not call that N, H operating on eigenket, N, equals H-bar omega, N plus a half, N. this is perfectly general, N could be anything it doesn't have to be an integer at this stage, it's just any number, i'm just writing it in this formal_ in this way, parameterizing it. so if i write, H-A minus A-H operating on a state N, what is that equal to? </U>
+			<U WHO="S4"> N (xx) </U>
+			<U WHO="SS"> (xx) </U>
+			<U WHO="S1"> minus A, operating on N... but what is H, operating on N? </U>
+			<U WHO="S4"> parameter </U>
+			<U WHO="S1"> H bar omega N plus a half. </U>
+			<U WHO="S3"> mm hm </U>
+			<U WHO="S1"> so if i end up i look, and i find <EVENT DESC="WRITING ON BOARD"/> that, H-A, operating on N, from this term, i bring this to the other side, i get simply <EVENT DESC="ERASING BOARD THEN WRITING AGAIN"/> this is equal to, N minus one, plus a half, A, N, from this... alright? but what does, this, imply? <PAUSE DUR=":06"/> what does this imply? this is you're supposed to have had this w- this is your harmonic <OVERLAP> oscillator. alright? </OVERLAP></U>
+			<U WHO="S5"> <OVERLAP> that's, the </OVERLAP> eigenstate, of H </U>
+			<U WHO="S1"> A-N is an eigenstate of H with an eigenvalue </U>
+			<U WHO="SS"> of N minus one </U>
+			<U WHO="S1"> N minus one. so what does that mean? that means A-N <EVENT DESC="ERASING BOARD"/> A-N <EVENT DESC="WRITING ON BOARD"/> is just some constant, times, N minus one. and similarly if i look at the commutator of H and A dagger, i get a raising operator, and i find that A dagger, operating on N, equals some C-N prime, times N plus one... (xx)? and then i can look at A dagger A, if i take the, if i take, this times its adjoint? what do i get? </U>
+			<U WHO="S2"> number (xx) </U>
+			<U WHO="S1"> i get <EVENT DESC="WRITING ON BOARD"/> N-A dagger A-N, equals C-N-squared, times, one, N minus one times N assuming they're normalized. but what is this simply? </U>
+			<U WHO="S2"> number </U>
+			<U WHO="S1"> gives me, the number operator N, so this just gives me N. so that <EVENT DESC="WRITING ON BOARD"/> C-N, equals the square root of N, C-N prime equals the square root of N, plus one. so this is what A-N (xx) i assume this is familiar to most of you, at some point even if you don't want to admit it, <EVENT WHO="SS" DESC="LAUGH"></EVENT> that, these are the raising and lowering operators and this is what the, raising and lowering operators do to the, kets, N and N_ to the (ket) N. and then what's the next step? E, is positive definite, because it's written as H-bar omega A dagger A plus a half, so you know that all the eigenvalues have to be what? </U>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="S1"> positive. <EVENT DESC="POUNDS TABLE"/> greater than zero. so you keep on applying A, the operator A, until you get down to the lowest eigenvalue, has to kill it, and that shows you that the la- lowest eigenvalue is_ has to be, N equals zero, and, that N has to be an integer, otherwise, things wouldn't work. so you end up, finding that the (eigenkets,) of this, Hamiltonian can be written simply as, N, where N equals zero one two, etcetera. and these, now, in the case of, the harmonic oscill- harmonic oscillator what were they called? these states? </U>
+			<U WHO="S5"> number states </U>
+			<U WHO="S1"> number states. alright? in the case of the radiation field what are these states called now? </U>
+			<U WHO="S3"> photon states? </U>
+			<U WHO="S1"> photons... N means the number of photons in a given mode of the field... so this is the quantization procedure you get a classical, box, you find the classical modes, and to each classical mode, you, essentially, apply, an A-H-bar omega A dagger A in the Hamiltonian... so let's stop here, we now, you can review this if you've forgotten it before next lecture, but i_ next time what i'll do is i'll start to talk about some properties of these, photon states, and we'll talk about what are called coherent states, i'm not going to do the phase operator in any detail. the phase operator's in the notes, and Mandel knows more about pha- a lot more about phase operators than i do. and he's worked on that extensively so if you look in Mandel and Wolf, he has both, which i'll talk about the Pegg-Barnett, definition of the phase operator and, what he's developed himself which are called operational, measures of the phase operator, which, disagree somewhat from the, Pegg-Barnett but there's a discussion in his book, about that. after, that i'll talk about coherent states, and then we'll talk about two photon coherent states or squeeze states, as they're called. okay? </U>
+			<U WHO="S2"> so does your_ well, this is just a side question you were talking about </U>
+			<U WHO="S3"> excuse (xx) </U>
+			<U WHO="S1"> well one question at a time alright? </U>
+			<U WHO="S2"> you were talking about how uh, the uh, your advisor said that </U>
+			<U WHO="S1"> Lamb said that you need a license t- </U>
+			<U WHO="S2"> right, (xx) has to do with_ does that have to do with coherent states? </U>
+			<U WHO="S1"> that has to_ well the coherent states are strange states what it has to do with_ people talk about photons <U WHO="S2"> yeah </U> but, you rarely ever, if you had a single photon state here, it would be in all of space <U WHO="S2"> yeah </U> it could_ it couldn't interact with any (of the other) <U WHO="S2"> oh okay </U> so, what Lamb i think would agree to is that, the proper way to_ what you call a photon, are the corresponding, excitations of the corresponding classical modes, of the boundary value problem. <U WHO="S2"> alright </U> if you associate with each of those modes, something, a quantum excitation which are called photons, you never have any problems. <U WHO="S2"> oh alright </U> Simi you had another question? </U>
+			<U WHO="S3"> uh yeah how do you got C equal square root of N? </U>
+			<U WHO="S1"> here? </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"> well A dagger A is just N </U>
+			<U WHO="S3"> oh </U>
+			<U WHO="S1"> operating on this, alright? we know what A... A dagger A is just, remember, this is H <EVENT DESC="WRITING ON BOARD"/> this is H, <U WHO="S3">
+					<OVERLAP> oohhhh </OVERLAP>
+				</U>
+				<OVERLAP> minus a </OVERLAP> half alright? <U WHO="S3"> oh </U> and we know what H does to the state <U WHO="S3"> uh huh </U> it just means N... it'll give us N plus a half <U WHO="S3"> okay </U> and then we'll subtract off the half <PAUSE DUR=":06"/>
+				<EVENT DESC="ADDRESSING DIFFERENT STUDENT"/> alright now i'm supposed to be meeting with you, and Simi today now there's a faculty meeting, if, you wanna come by at one are you free at one today...? <U WHO="SU-m"> um yeah </U> alright, if you both come by at one i can talk to you about your (project) and i can talk to you about your_ <U WHO="S3"> homework </U> your homework... </U>
+			<EVENT DESC="2:00 MICASE-RELATED SPEECH"/>
+			<U WHO="S5"> now, we're gonna relate the raising and lowering operators to D and B, next time? </U>
+			<U WHO="S1"> next time we'll just write_ remember we've already done that. because, alright it's off off the board now but we wrote, we wrote E in terms of alpha and alpha star. </U>
+			<U WHO="S5"> yeah but the E and B there were still classical </U>
+			<U WHO="S1"> they were kind of a_ all_ the only thing we had to do is replace the uh, alpha by A, and the alpha star by A dagger </U>
+			<U WHO="S5"> and they still_ i mean nothing really changes between the, sort of classical B and E </U>
+			<U WHO="S1"> no that's how we go from them there there are changes but that's how we go from a classical E <U WHO="S5">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<OVERLAP> and B, </OVERLAP> to a, a quantized E and B by replacing the A and A dagger and we'll see that, for example the energy in the field of (vision,) you're gonna (appear) in the vacuum state. <U WHO="S5"> (xx) </U> which is not, the case in a classical field. so there are a lot of embarrassments <EVENT WHO="S5" DESC="LAUGH"/> alright? that occur when you use this definition. and, who knows if, a hundred years from now we'll have the same uh, you know vacuum still poses a, a lot of pobl- problems people have tried to avoid this by other techniques but, none of them uh successful. </U>
+			<U WHO="S5"> haven't people tried to actually, tried to get (into) the vacuum entity, experimentally? </U>
+			<U WHO="S1"> well you can never measure the infinite (xx you're) always measure differences right? </U>
+			<U WHO="S5"> right </U>
+			<U WHO="S1"> cuz (xx) snapshot </U>
+			<U WHO="S5"> but utilize the vacuum </U>
+			<U WHO="S1"> you can utilize the vacuum but that that's you know this is all, that's all hype i mean, you're inside a cavity you have vacuum fields and, you can see the effects, on an atom, and you send it in you get a force on an atom and things like that, so, the Casimir fill- forces are usually <U WHO="S5"> right </U> referred to as a, as a uh indication of its uh totally quantum mechanical effect so, that may be, some justification. you have to look effects don't, disappear as H-bar goes to zero <U WHO="S5"> right </U> the <SIC> Casimar </SIC> Casimir effect is one such effect, you're modifying the vacuum by putting it in plates, and it causes a force <U WHO="S5"> oh right right right </U> between the plates. but uh, i haven't thought about that enough i'm still, it seems to me... and there_ and there's a whole group that_ it's not so popular anymore but there's a whole group of people who, claim, that all the quantum properties of the fields, are always related to quantum properties of an atom, rather than the field so that, sorry for the atoms, remember we said if we excited one atom it would emit a, single photon state. but it_ it's really the_ the property of that field is related to the fact that we started, with a quantized atom. so there are, there are theories (oh,) i don't know if we'll get there this, semester but, what you can do is you can eliminate the fields, you can eliminate the uh, the fie- the the vacuum field in some sense, and write the electric field, totally in terms of, say atomic operators. </U>
+			<U WHO="S2"> and that's what- </U>
+			<U WHO="S1"> that's what's <U WHO="S2">
+					<OVERLAP> i (need help) </OVERLAP>
+				</U>
+				<OVERLAP> called </OVERLAP> source field, that's called source field theory, and, but these are quantized operators so that, you represent the quantized electric field, in terms of the, of the, uh atomic operators, and that shows you that all the quantum properties of the field, are in some sense related to the quantum properties of the atoms. </U>
+			<U WHO="S2"> uh are_ can you, can you spend any time or are we gonna spend any time talking about that because, that's what i, that's the piece i i seem to be missing to understand why coherent_ you mentioned that, coherent states have to do with the absorption, i think well at least we talked about it in in, field theory or whatever we call it, the quantum mechanics (xx) it was confusing me at first why, why you'd be interested in an operator that doesn't have eigenvalues... </U>
+			<U WHO="S1"> you mean coherent states, that's <OVERLAP> something else. but- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> coherent states. but </OVERLAP> is, doesn't that relate to, <OVERLAP> absorption? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> it does relate to it but, coherent states are these weird things i mean Glauber when he, invented them or used them at least in, said you know people were very skeptical. and uh, but, what you can show is if you have any classical, current distribution, it generates a coherent state in the field. </U>
+			<U WHO="S2"> well maybe it'll be more_ maybe_ maybe it'll make more sense <OVERLAP> when we talk about it next time </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but we'll talk about coherent </OVERLAP> states, as difference i mean we'll talk about what, a coherent state is simply defined such, i'll do next time <U WHO="S2"> yeah </U> such that its expectation values, give you, the classical field values. <U WHO="S2"> okay </U> alright? that's that's the way it's defined so that, it's as close to a classical field as we can make it, by demanding that it's (xx) but when we demand that, we see that it has a very strange property, that, that the, (they're defined by the annihilation operator op- ap- anything under coherent state) </U>
+			<U WHO="S2"> give you the <OVERLAP> same thing </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (gives back </OVERLAP> the same state so,) if you had destroyed a photon, how could you be back in the same state? </U>
+			<U WHO="S2"> uh yeah, that's what i need help with, <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> alright. </OVERLAP> i don't know if i'll help you... </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<U WHO="S1"> that's that's the, that's the uh (xx) </U>
+			<U WHO="SU-f"> bye </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

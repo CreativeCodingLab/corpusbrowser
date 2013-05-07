@@ -1,0 +1,1175 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="sem545mg083">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Graduate French Cinema Seminar </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SEM545MG083 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="169">
+						<DATE> February 17, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Rodney Pratt </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Rodney Pratt </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Final Editing, 01/17/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="6"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="7"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S6" LANG="NNS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SG, Visitor" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="ST, MICASE Researcher" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Conference Room, Modern Languages Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> think about whether or not that was, true or not or maybe the person that wrote that, you know had, like some distorted vision of France and French culture. they immediately they're like, yeah it's true because you know when i went to Paris God they were so mean <EVENT WHO="SU-f" DESC="LAUGH"/> and everyone's like yeah yeah yeah. i mean i couldn't even i'm like well, you know just like there are people that think that about America you know i mean, <U WHO="S2"> i know </U> they wanna all think that and they're all like really? no i i really think it's true. <U WHO="S2"> wow </U> i'm like okay. </U>
+			<U WHO="S3"> it's sad. </U>
+			<U WHO="S2"> wow. </U>
+			<U WHO="S1"> it is kinda sad. </U>
+			<U WHO="S3"> rocking. <PAUSE DUR=":04"/> okay, so um i guess we should, fill out these forms. </U>
+			<EVENT DUR="3:40" DESC="RECORDING RELATED CONVERSATION"/>
+			<U WHO="S1"> i had to break myself of that habit when i was in high school i said you know, after every three words. dut dut dut you know? dut dut dut you know? you know? you know? you know? </U>
+			<U WHO="S3"> yeah when i first started teaching i kept, the first one i used was, <FOREIGN> bon. </FOREIGN> and then students would just, just made incredible fun of me. and then the next one i did was <FOREIGN> bien </FOREIGN> made fun of me. i was like <FOREIGN> ca va? </FOREIGN> made fun of me. so now, i kind of just, intermingle all three and say things like <FOREIGN> bon et bien, </FOREIGN> or <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<FOREIGN> ca va et bien, alors </FOREIGN>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S3"> okay really. oh i have to write this down on my little thing here. God. (xx) </U>
+			<U WHO="S2"> so, you guys coming to (clip) this weekend? </U>
+			<U WHO="S1"> i cannot. </U>
+			<U WHO="S4"> i think i might be coming to a panel or two. i need to look more specifically at them. </U>
+			<U WHO="S2"> you don't have to. </U>
+			<U WHO="S4"> i'll come and sit in. </U>
+			<U WHO="S2">
+				<OVERLAP> (you it doesn't matter) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> nah </OVERLAP>
+			</U>
+			<EVENT WHO="S4" DESC="LAUGH"/>
+			<U WHO="S3"> last year was very good </U>
+			<U WHO="S2"> yeah, it was fun. </U>
+			<U WHO="S4"> see i didn't get to go last year so i need to go now. </U>
+			<U WHO="S2"> i think (Ross's) talk should be interesting. um, </U>
+			<U WHO="S4"> ooh that's at five yeah i was thinking about maybe going to that. </U>
+			<U WHO="S3"> i'm going to a job talk, and um, i'm so sorry, that i'm gonna miss (Ross's thing) </U>
+			<U WHO="S2"> i think it's_ it think it'll be fun </U>
+			<U WHO="S3"> yeah i'm sure it's gonna be great. </U>
+			<U WHO="SU-f"> i hope it'll be alright with the weather though </U>
+			<U WHO="S2"> i know </U>
+			<U WHO="SU-f"> yeah i'm worried about that. </U>
+			<U WHO="S3"> just gonna, pass that on down to, i'm sorry what was your name again? sorry. </U>
+			<U WHO="R1"> Rodney. </U>
+			<U WHO="S3"> wha- pardon me? </U>
+			<U WHO="R1"> Rodney </U>
+			<U WHO="S3"> Rodney. okay great. thank you. <PAUSE DUR=":08"/> okay. Filipe has rejected us. <PAUSE DUR=":07"/> i'll open it up after class. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> okay. there's nothing scary in there. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> i should put that next to the, the um, four foot mirror that another student, turned in. </U>
+			<U WHO="S4"> four foot mirror? </U>
+			<U WHO="S3"> she claims she stalked, Robert Urich. <EVENT WHO="SU-f" DESC="LAUGH"/> what the hell Robert Urich is doing in Ann Arbor i don't know. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> yeah really </U>
+			<U WHO="S4"> she thinks it's really, </U>
+			<U WHO="S3"> she really thinks it's him. <EVENT WHO="S4" DESC="LAUGH"/> first she thought it was just some guy who like, ripped up his bagels, like just tore them apart and then discovered that it was she believes it's him. </U>
+			<U WHO="S2"> huh </U>
+			<U WHO="S1"> what do you mean he ripped up his bagels? </U>
+			<U WHO="S3"> she just like was looking at him like, that man is like really gross she's like use a knife. <U WHO="SS">
+					<OVERLAP> ohh </OVERLAP>
+				</U>
+				<OVERLAP> cuz like cuz he was like </OVERLAP> using his, hands and like, torturing the sustenances and like <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> Jeff Daniels, i could see that. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> yeah i could <OVERLAP> see that </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but maybe </OVERLAP> Robert Urich is doing <U WHO="SU-f"> why </U> something for Jeff Daniel's theatre. i didn't think about that. <OVERLAP> otherwise i really didn't </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> he actually_ he built a </OVERLAP> theatre, it's some rose something theatre </U>
+			<U WHO="S3"> Purple Rose Theatre. <OVERLAP> Chelsea. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> Bob Seger </OVERLAP> lives here. </U>
+			<U WHO="S1"> Bob Seger? </U>
+			<U WHO="S4"> really? </U>
+			<U WHO="S2"> Bob Seger lives in Ann Arbor. </U>
+			<U WHO="SU-f"> (yeah) </U>
+			<U WHO="S4"> interesting. </U>
+			<U WHO="S2"> doesn't he? </U>
+			<U WHO="S4"> i don't know </U>
+			<U WHO="S1"> i don't know </U>
+			<U WHO="S2"> think he does. that's what i heard. </U>
+			<U WHO="S1"> hmm. </U>
+			<U WHO="S4"> excellent </U>
+			<U WHO="S3"> all those_ you know like Iggy Pop all those people are from <U WHO="S1">
+					<OVERLAP> yeah mhm </OVERLAP>
+				</U>
+				<OVERLAP> this area. </OVERLAP>
+				<OVERLAP> (so everbody's cheering) </OVERLAP>
+			</U>
+			<U WHO="S2"> Madonna </U>
+			<U WHO="S4"> Madonna </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S1"> that's right </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> this is, <U WHO="S2"> anyhoo </U> important academic discourse <EVENT WHO="SS" DESC="LAUGH"/> okay, so, um <PAUSE DUR=":05"/> urbanization regulation Haussmannization and the boulevards. </U>
+			<U WHO="S1"> yes... </U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> plus i have a lot of stuff on there, we never did see all of </OVERLAP> A Nous la Liberte but obviously the city_ oh i didn't bring my book. (xx) it was in there. um, so i guess we can kind of start anywhere really. um, either with the films although the films may, might make more sense if we talk about them i guess at the end, in relation to Haussmann, or in relation to reading the films, knowing what we know about, city planning. but um, we can start anywhere. </U>
+			<U WHO="S1"> should we start with the Benjamin? </U>
+			<U WHO="S3"> we can start anywhere. that would be great. <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S1"> i'm kind of interested about this book, Paris Capital of the Nineteenth Century. is the entire book just these tiny little essays just through the entire thing? or </U>
+			<U WHO="S3"> the book is called, The Arcades Project, the <OVERLAP> whole book. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP> okay </U> and it's written in_ this Paris, Capital of the Nineteenth Century is just, a fraction. i think this was actually written up, the the shape of this essay is basically the shape of the, of The Arcades Project, <U WHO="S1"> mhm </U> but this was written up in a sense to, justify that, project. because the um, Arcades Project is about, five hundred pages of, what're called convolute, <U WHO="S1"> mhm </U> or folders, <U WHO="S1"> mhm </U> so you look under convolute and, prostitution, and then underneath it it has all these other sections. <U WHO="S1"> mkay </U> so this in in in essence is a kind of, um boiled down version of, all of the stuff in The Arcades Project. um, that he doesn't (really) as as are parts of The Flaneur parts of The Boheme which we didn't read which is also about Baudelaire <PAUSE DUR=":06"/> so, i think i mentioned last time that the title is Haussmann or the Barricades and i, um optimistically put Haussmann and the Boulevards, uh which would be a better title for, the Willms article i think. than for the, for the the Benjamin but, so, yeah let's start here this is a great place to start. what're your thoughts on <PAUSE DUR=":05"/> Benjamin and, Haussmannization? or his take, i mean that might be, i think that's the question i ask right? <U WHO="SU-f"> mhm mhm </U> so, i mean we might as well start, with Benjamin's reading, who is Haussmann...? lemme see </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> it's really not too um, not to critic- i mean not compared to, the other one that we read. um you know basically he just says that, Haussmann built it, built the, boulevard to um, protect civil, to to avoid civil war. <U WHO="S3"> mhm </U> so, um, it really was pretty just of i felt the, the style was pretty mild, <U WHO="S3"> right. </U> i mean it was just kinda telling a little </U>
+			<U WHO="S1"> the what was pretty mild? </U>
+			<U WHO="S4"> the style. </U>
+			<U WHO="S1"> the style </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S1"> yeah it was fairly general. and it sort of seemed like the Willms article was, written in reaction to him <OVERLAP> (and) </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U> he says, you know historians have the tendency to say that it was, that Haussmann did this just to, um, secure against the barricades in civil war, but it's much more nuanced than that much more complicated and, i mean i think, he had this articl- it seemed like he had this article in mind. </U>
+			<U WHO="S2"> i think also that on page one-sixty that um, the sixth line from the, top. where that <SEG TYPE="READING"> meanwhile he estranges the Parisians from their city, they begin to be conscious of its human cha- character. </SEG>
+				<U WHO="S3"> mhm </U> that's pretty tough. i mean that's, that's, really, i wouldn't want that said about me you know, that i estranged, the inhabitants of the city from it. <U WHO="S5"> mhm </U> or that i brought out the inhumanity, <U WHO="S4"> uhuh </U> of where, humanity should be, <U WHO="SS"> mhm </U> the most. </U>
+			<U WHO="SS"> mhm </U>
+			<U WHO="S4"> that's so fleeting, you know, like the just that little </U>
+			<U WHO="S2"> yeah yeah i do <U WHO="S4">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> and then </OVERLAP>
+				</U>
+				<OVERLAP> agree </OVERLAP> that most of it is um, i mean most of it's <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> i mean he goes into <FOREIGN> (laleque) </FOREIGN> he goes into, other things so it's not even all about Haussmann but, um, but i j- i don't know those two lines just, really jumped out at me. </U>
+			<U WHO="SU-f"> mhm. mhm </U>
+			<U WHO="S4"> yeah reading that as um, it kind of brought to mind what's happening today even, uh with the uh national library and at um Bercy. <U WHO="S2"> mhm </U> which_ i mean it seems like every time they wanna get rid of, <EVENT DESC="LAUGH"/> you know, uh people, that they you know build some, enormous project um to get rid of 'em, send 'em on out. <U WHO="S3"> mhm </U> that might be a- a little bit unfair but i don't know. </U>
+			<U WHO="SU-f"> mhm </U>
+			<U WHO="S2"> does, uh but then, what you guys are saying does hold up in the next paragraph the, true purpose was to secure the city against civil war. you know it's not like the power politics behind it all that we get in the, <U WHO="S1"> yeah </U>
+				<U WHO="SU-f">
+					<OVERLAP> mhm mhm </OVERLAP>
+				</U>
+				<OVERLAP> Willms </OVERLAP> so </U>
+			<U WHO="S1"> he also places all the blame or credit, um, on Haussmann. i mean he barely brings up um, Napoleon. </U>
+			<U WHO="SS"> yeah, mhm yeah </U>
+			<U WHO="S3"> um, right which is, i think one of the, the real stark contrasts <U WHO="SU-f"> mhm </U> with the two articles. Willms starts with, the emperor. right? starts with Napoleon Trois and <U WHO="S1"> yeah </U> yeah. um, and then sort of, says this was the plan and then, Haussmann </U>
+			<U WHO="S1"> Haussmann sort of carried it out but basically it was Napoleon that wanted to do this and he had already been making plans etcetera etcetera. </U>
+			<U WHO="S3"> hm. because of his fears. <U WHO="S1"> uhuh </U> of civil war having lived through, <U WHO="S1"> mhm </U> (xx) in eighteen thirty and eighteen forty-eight. um... w- that style i mean just to, i wa- i wanna respond to two things but the style of Benjamin i think you're right to pick up on that. those fleeting references the fragments. and as i said this is a kind of, um, microscopic version of, the f- the fragmentation, in in the whole of The, Arcades Projects. so, if you can imagine that in The Arcades Project every one of these sentences has a little folder that goes with it, that's basically what_ it would be like he just took this, the you know the either the topic sentence of the folder or the title of the folder and created (this string of,) of um, of s- you know str- paragraphs i guess. why again the why the, barricades? why Haussmann, or the barricades? we talked earlier about some of the other, Baudelaire or the Streets of Paris, um Louis-Phillipe or the Interior, Fourier or the Arcades like yeah whatever, but why barricades? <PAUSE DUR=":10"/> i mean using that one word what does that, what does that do to, all of Benjamin's argument? <PAUSE DUR=":04"/>
+			</U>
+			<U WHO="S2">
+				<EVENT DESC="COUGHS"/> excuse me when he says that um, Haussmann seeks to prevent barricades in two ways, but by linking them together in the title, that just reinforces any kind of connection and kind of highlights that, you know regardless of whether he, you know did mean to take down, or prevent barricades, that, essentially that is what is created by this, dehumanizing the city, and forcing (people out of it.) </U>
+			<U WHO="S3"> right. so in fact it's both. it's both those dis- possibilities. but how does that also help, that notion of the barricades how does that help them, him, move it to the conclusion? <PAUSE DUR=":06"/> either stylistically speaking or in terms of content...? i mean i think, as you pointed out Dominica that all the blame or credit lies on Haussmann <U WHO="S1"> mhm </U> of this new city. <U WHO="S1"> mhm </U>
+				<PAUSE DUR=":12"/>
+			</U>
+			<U WHO="S4"> well and it reduces the, the boulevard to just, the purpose of, of preventing barricades too. it doesn't explore any of the other, benefits perhaps of having the boulevard or other disadvantages, to them. </U>
+			<U WHO="S3"> right. so again it reduces, ben- the f- the, the sort of, in a sense import of of Benjamin's, argument. is that is that what you_ would you agree? </U>
+			<U WHO="S4"> mhm. although i think that Benjamin himself doesn't, necessarily see all the advantages and disadvantages. <U WHO="SU-f"> mhm </U> in this anyways he didn't write about the, </U>
+			<U WHO="S1"> no and i mean, he basically_ isn't he just saying there was a complete and total failure because of the commune and he's <U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> Haussmann, Haussmann's project basically, uh led to the commune and like the burning of everything, uh total destruction, as what does he say? <SEG TYPE="READING"> a fitting conclusion, to Haussmann's work. </SEG>
+			</U>
+			<U WHO="S3"> mhm. right. right and so he can actually use, that's, even though this is all very sketchy he actually uses, Haussmann to be able to push forward int- up to, just about the time that he's writing. you know to, surrealism. in the twenties. so up until about, the the, t- he's writings this in the thirties so, um, yeah. it points to the i- the illusion first of all. um, of, the, the impossibility of, barricades. <U WHO="S1"> mhm </U> and then to the, the ulti- the the failure. but then what does that say about Benjamin's argument? <PAUSE DUR=":07"/> if the people, actually were able to have civil war, does that, i mean he's trying to pit, the barricades in a sense against Haussmann that that they're the failure of the boulevards is that the barricades could be built. but then that in some ways sort of negates part of o- Benjamin's argument about, <SEG TYPE="READING"> the true purpose of Haussmann's work was to secure the city against civil war. </SEG> does that ma- does that make sense? </U>
+			<U WHO="S6"> well it could be, well, i think it does but, but it could also be like the purpose, i mean the fact that it was the purpose doesn't doesn't necessarily mean that it, that it was accomplished right? </U>
+			<U WHO="SU-f"> mhm </U>
+			<U WHO="S6"> and i don't think his, i i think in fact he, he mentions a little bit like, how barricades were, were possi- in the sentence like </U>
+			<U WHO="S3"> yeah right in the next part. so, that the purpose in this sense is not necessarily consequence or result. it's just the en- um, </U>
+			<U WHO="S4"> it's just his intention? </U>
+			<U WHO="S3"> his intention. <U WHO="S1"> right </U> i mean that's a good way to read that. <PAUSE DUR=":10"/>
+			</U>
+			<U WHO="S5"> um i sort of got lost, a little bit, right toward the end. <U WHO="S3"> mhm </U> um, especially in that sentence on the top of one sixty-two where, he says that um, what's the guy_ um architecture photography literature, commercial art um, these are, you know these are on the, these are going to the point of, uh <SEG TYPE="READING"> these are on the point of going to the market as waiters </SEG> okay? fine, i get that. <SEG TYPE="READING"> but they hesitate on the brink. </SEG> and that's, that's part where i, where i suddenly got lost like, um... where does he see, where is he drawing the line then between, not coming to the, market, and going onto the market and, aren't they already on the market...? why are they hesitating? what is this brink? <PAUSE DUR=":07"/>
+			</U>
+			<U WHO="S3"> that's a good question anyone wanna tackle that? </U>
+			<U WHO="S2"> i don't wanna tackle that but i want, <EVENT WHO="SS" DESC="LAUGH"/> but i wanna add something to it. i was trying to think um, when you were asking, Carina, were asking, <EVENT WHO="SS" DESC="LAUGH"/> about um, you know what's his argument, so i was thinking you know, because i have this underlined too and i didn't know what to do with it. so i'm trying to think of this as like a, you know a liminal kind of, they hesitate on the brink they're in the threshold they can go either way. and to me that's really (assumed) Haussmann and the barricade. that you know, Haussmann, can go, either way. he can, you know have, this intention of, preventing, barricades and he can, but he ultimately ends up with the Paris fire. you know and the barricades can ultimately, can initially be seen as something that's kind of positive but end up as something, <U WHO="S3"> mhm </U> not so much. so maybe it's the same kind of, characteristic marking all of this that, you know and which, would work really well with the idea of, you know the fleeting the ephemeral, all that <U WHO="S5"> mhm </U> with that stuck in their mid-motion ready to go either way. so that didn't answer your question at all but <OVERLAP> it </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> no but it makes </OVERLAP> it, i mean if it's form if that makes it formulate it better i think, um <PAUSE DUR=":08"/>
+			</U>
+			<U WHO="S2"> (really) i didn't know what to do with surrealism, at the end of all this, either. </U>
+			<U WHO="S5"> yeah <U WHO="S4"> yeah </U> it, it was really kind of poetic the way he sets it up and very nice. um, like they are residues of a dream world. the, the arcades the interiors exhibitions panoramas, this dream world i guess it's, like <PAUSE DUR=":06"/> the the dream for, uh... i couldn't say a classless society, i don't think, i don't know that that's part of the dream. </U>
+			<U WHO="S3"> cla- yeah i would say <PAUSE DUR=":04"/>
+			</U>
+			<U WHO="S5"> or the promise that modernity, um <U WHO="SS"> yeah </U> you know, but what is that promise again? i mean that one of the promises of modernity is a classless society (in sort of way.) </U>
+			<U WHO="S1"> is it though? </U>
+			<U WHO="S5"> one of_ well one of them. i mean <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> modernism </OVERLAP> you know, modernism makes that, <U WHO="S1"> mm </U> or modernity in the case of our (conversation it doesn't, necessarily keep) <U WHO="S3"> right. </U> um, but here he's talking also about capital then. <U WHO="SS"> mhm </U> so, maybe, i don't know. what do you think? <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S1"> well i think of when he says dreams you know the promise of, uh modernity i i think more of like a liberal, uh democratic economy <U WHO="S5"> mhm </U> capitalism at work. and, then i would tie that back in at the end when he says <SEG TYPE="READING"> in the convulsions of the commodity economy. </SEG> so, in trying to attain that that's when we recognize that the monuments everything, all of our dreams were crushed with this (rebellion.) <PAUSE DUR=":04"/>
+			</U>
+			<U WHO="S2"> wait can you explain that again? </U>
+			<U WHO="S1"> um, yeah so when he's talking about realization of dream elements you know um, i think of that as like the promise of capitalism, or liberal democracy, for the bourgeoisie. um, but all that collapsed, um, at the end of the nineteenth century, and um, that i mean that's basically how i read the last sentence i guess, in the convulsions of the commodity economy. in trying to reach them that's, that it it convulsed it it just exploded it didn't work. </U>
+			<U WHO="S2"> that makes a lotta sense. and not only did they talk about, uh commodity economy but he brings in you know, the dialectical thinking as, <U WHO="S1"> mhm </U> related to the dream and then as history is related to a dream and, surrealism and, <U WHO="S1"> mhm </U> all of it. <U WHO="S5"> mm </U> so all of the major, don't wanna say na- narrative but overriding, you know philosophies are being, connected to the dream that's connected to surrealism you know the fleetingness of modernity but somehow they're all, not quite making it. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S3"> i think there's a lot of things in there that aren't quite making it. right? i mean there is, the dream of, the bourgeoisification. <U WHO="SU-f"> mhm </U> th- the, um, the dr- tha- that doesn't happen. the dream for, cla- um, the class struggle, that doesn't happen. um </U>
+			<U WHO="S2"> mm. so is Haussmann just being held up as the paradigmatic figure of the, attempt that just doesn't, ultimately work? is that why this is all attached to, him and the barricades? </U>
+			<U WHO="S3"> i don't know. (i mean) i think, that </U>
+			<U WHO="S1"> dashed hopes. </U>
+			<U WHO="S2">
+				<EVENT DESC="LAUGH"/> yeah it </U>
+			<U WHO="S4"> he represents sort of a model of, of the hope of of modernism. modernity and and, yeah, i i think that's what he is <OVERLAP> being held up as </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> just progress </OVERLAP> and <U WHO="S4">
+					<OVERLAP> yeah exactly </OVERLAP>
+				</U>
+				<OVERLAP> technology </OVERLAP> and economic development, all of that </U>
+			<U WHO="S4"> the idea not necessarily the success <U WHO="S2"> mhm </U> or the failure. i think is what, Benjamin is saying is important here. sort of the giddy stage of modernity. <PAUSE DUR=":12"/> i still don't understand that hesitate on the brink sentence though. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> um, i have kind of a, an idea but, it's a it's, truly negated by post-World War Two culture. i mean, in a sense if, what the reading, that Benjamin is giving in in um, the mid-nineteen thirties here, early nineteen thirties, is that that moment, which can be seen either through its objects, arcades panoramas or through its ideals, um, is already in ruins and he's writing at this_ at a moment when he's seeing the co- the destruction of the last of the arcades in Paris. some of which are_ but there's like five that are saved or something. um, and remember he sees the arcades the kind of crumbling, of the arcades as a kind of etiology, um, E T no how do_ etiol- i don't know how the heck that's pronounced. <EVENT WHO="SS" DESC="LAUGH"/> oh yeah. i'll just spell it. <EVENT DESC="LAUGH"/> E T I O L O G Y. i believe that is pronounced etiology. um, a kind of symptomology, there we go. <EVENT DESC="LAUGH"/> um of of of this sort of bourgeois ideal. right? you de- with the arca- the crumbling, in a sense of the arcades and all of that. now, at the same time... th- the inc- incredibly violent and horrific repression of the commune, also falls within, i believe that crumbling. <PAUSE DUR=":05"/> um, so, on the one hand, the brink could be, sort of the mass market. what we end up with in post-World War Two, economy. the the the, what's what's called modernization through technology rather than modernity. um, often called in France, Americanization. um, where you have the mass production of, commodity items. not just you know small, not just uh the, the, manufacturing of say you know ph- ph- photographs, um, and posters and things like that but you know, sort of the leisure zone comfort zone stuff like washers and dryers and, washing machines and all that, stuff which we'll, talk about sort of midway through this course. at the same time <PAUSE DUR=":14"/> what <PAUSE DUR=":05"/> the commercialization <PAUSE DUR=":06"/> commercialization, in not, fulfilling the promise, i think that was the word you, you all used. um <PAUSE DUR=":07"/> is analogous to, you know this destructi- the the deterioration of the arcades. i mean i was gonna argue that, it was, also, the commune but i just realized that the they in <SEG TYPE="READING"> they hesitate on the brink </SEG> is in fact all these products. <U WHO="SS"> mhm </U> so i can't actually read the commune into that sentence. <PAUSE DUR=":06"/> see, at the very beginning of that paragraph <SEG TYPE="READING"> Balzac was the first </SEG> on the bottom of one-sixty-one <SEG TYPE="READING"> Balzac was the first to speak of the ruins of the bourgeoisie, um, but only surrealism exposed them to view </SEG> which is obviously the the Paris Peasant. right? who pulls from, this arcade which is about to be destroyed for the, uh prolongation of the Hauss- boulevard Haussmann, ironically, but that's also the sort of dreamscape, dream space, um, before the mass you know before the sort of mass market department stores, right? i mean not before but, before they became you know before Carrefour Prix Unique and all of those type of, department stores. dis- before discount department stores, in the fifties, basically, eradicated small shops. you know, eradicated boutiques so <PAUSE DUR=":20"/> i mean i think my_ yeah go ahead. i'm sorry. </U>
+			<U WHO="S2"> this is kind of a different topic but i just, was trying to figure out where the beginning of this (all came) into it. um, one-forty-nine because as i was reading this um, this morning i, like, gambling converts time into narcotic sentence, just so, directly does not go with the films from last night. where time was the regulat- the regulatory, function and you know, time was not a, narcotic, not in the same way, and then when i was trying to figure out what that went with, it was the stock exchange and so more about, commodities and, um commodity economy, and how that kind of works its way into a dreamscape. so, through the, through this connection of gambling, from that <SEG TYPE="READING"> playing the stock exchange this places the game of chance into the horns of the condemned, (in feudal) society. </SEG> so maybe, is this, an example of what he's talking about at the end? is this the, convulsions of commodity, commodity economy? that the stock exchange brings in, not only, this commodity thing but also the, the narcotic, the, misrepresentation of time? because i didn't know what to do with the gambling, there in thi- there in the start. </U>
+			<U WHO="S3"> um... uh, i'm very glad you brought that up because while i haven't really thought about it i just realized of course that, if Benjamin is writing in the early nineteen thirties this would be s- at the moment, just few years past the great crash and, the height of various different kinds of economic, sort of early, early um, tremblings of economic crisis. so um <PAUSE DUR=":04"/> right. i mean i was actually reading this thing about gambling more with the <FOREIGN> flaneur </FOREIGN> right? more about the time of the <FOREIGN> flaneur </FOREIGN> this kind of leisure time, rather than the time of the factory of the nineteen twenties and thirties so i was reading <U WHO="S2">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<OVERLAP> that more as like </OVERLAP> an eighteen forties, eighteen thirties eighteen forties like pre-Haussmann. </U>
+			<U WHO="S6"> perhaps in the time of the factory that we saw last night the time, the time does not belong to them, to those people it's more like they belong to the time right? as opposed perhaps to the people in the, in the garden in Metropolis, <U WHO="S3"> mhm </U> who, who had time they, they did have time (xx) </U>
+			<U WHO="S3"> right. </U>
+			<U WHO="S6"> so gambling could be more like, for them, for the people that, have the time. </U>
+			<U WHO="S3"> right where that's the only, space in which, that kind of notion of time can remain, within a leisure class that is not, even a bourgeois class it's almost like an aris- an <U WHO="S6"> mhm </U> aristocracy. </U>
+			<U WHO="S1"> but i think that the notion of gambling really works well for both. <U WHO="SU-f"> mhm </U> uh and it, especially, within this discussion of Haussmann and um, you know the whole rebuilding of Paris, um, because as far as like literature's concerned that's, i can't think of any, text like earlier than late nineteenth century that really tackled that to talk about you know the dangers of, you know real estate speculation, etcetera etcetera etcetera. um, for example, Zola's La Curee i mean the entire book is about that. about how these how these people just, they were so wealthy but they had no money in the bank whatsoever and it was just so um, precarious. so i think that works very well. </U>
+			<U WHO="S3"> right. and that um, with Haussmann's, uh transformation of Paris he brings along with him, um land value, a land value system based on real estate speculation. that the city had not, known to that point. that is areas that were considered, unsanitary and unhealthy, which would've just been torn down, were now in fact being rebuilt, in a kind of bourgeois model. um you know the sort of, all those rows of, rue de Rivoli is a very good example in Paris where all of the facades are exactly the same. you have the gallery underneath, right? and the the front, the work, the architectural work is based on a kind of um, uh m- mass production of these like stone edif- stone ornamentation, for the edifice, the facade, so, um, yeah i mean i think that_ and and Willms actually quotes La Curee in in the article. that, obviously the gambling, works well with, that notion of real estate speculation. um, and the stock exchange displaces gaining, or gambling, that kind of speculation i'm thinking of Manon Lascaux. i don't know if you're familiar with that novel from, eighteen, mid-eighteen, mid-eighteen, <EVENT WHO="SS" DESC="LAUGH"/> hundreds. </U>
+			<U WHO="S1"> seventeen something (xx) <EVENT DESC="LAUGH"/> i don't remember. seventeen i don't remember. </U>
+			<U WHO="S3"> oh man, yeah. so um, where gambling is equated with a descent into the underworld. that that is the, that's the, and it's only for the very wealthy. <U WHO="SU-f"> mhm </U> and that Manon La- Lascaux would get caught up in all of this gambling, as a kind of outsider, um you know she kind of goes with the gambler, because she thinks he's kind of a man of money, um because, the gambler in this sort of, um, both connected to the very wealthy and the underworld. and of course she just ends up with debt. <EVENT WHO="SS" DESC="LAUGH"/> cuz she's not of the right class. um, but how does gambling, the stock market i mean how does that get us back to both, the hesitation and the brink? i mean is that the stock market crash? is that a kind of larger more general consequence of, trying to create mass, commodity economy, when it's not actually ready for_ when culture, society, economy is not yet ready for it? i mean, i don't know. <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="SU-f"> maybe just the time necessary for them to catch on, as commodities, and </U>
+			<U WHO="S3"> right, i mean some ways you'd think that Benjamin would be kind of celebrating, the demise, he doesn't seem to be, he seems to be more interested in this dialectical movement um, in a kind of Marxist interpretation of history so, it's strange that one would <PAUSE DUR=":05"/> like, like there there, i mean <FOREIGN> Aragon </FOREIGN> is the one who initially says, that the arcades are a residue of a dream world. um a receptacle, a fence is the other term that, that <FOREIGN> Aragon </FOREIGN> uses. um... so i can't figure out if there's irony or sadness, in Benjamin. <PAUSE DUR=":10"/>
+			</U>
+			<U WHO="S4"> the very f- second sentence um, the, (xx) between <SEG TYPE="READING"> noble technical necessities by artistic aim </SEG> seems to me a bit, ironic. jus- uh the n- the, the word necessities. Haussmann, wha- what Haussmann was doing he he had to do. he had no_ he had to do it. <U WHO="S3"> mhm </U> and that seems a bit ironic. ironic to me. </U>
+			<U WHO="S3"> right. <PAUSE DUR=":10"/> well i mean, the very beginning starts with the apotheosis, so that already we're at the, we're at the height or the apex of the, the sort of bourgeois dominance. secular and and clerical dominance of the bourgeoisie. um <PAUSE DUR=":04"/> in the streets, the streets which, are in a sense, Haussmann is in a sense compelled to construct in that way. as technology necessitates that he do that. um, as you know, health laws and, the, all these other sort of laws put in place, eminent domain was put in place at that point. so all of these things leading to that i, i agree. so i mean i'm wondering... if we hit already the, aput- the apo- apotheosis, then um <PAUSE DUR=":04"/> how can we come back to a brink? <PAUSE DUR=":31"/>
+			</U>
+			<U WHO="S4"> well perhaps, the creation of the boulevard, creates, a space, in which, um, a a commodity economy can flourish, but before then the kin- i- the the commodities themselves are kind of on the brink. but this new construction where the bottom floor is, uh reserved for commercial use, really creates a, a rather large space where, the commodity economy can succeed, once and for all. <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S3"> right. <PAUSE DUR=":22"/> maybe it was because... maybe, i'm just gonna attach this, tangentially to what you just said, um Jamie. and i'm looking on page one-sixty-one, where um, there's actually this discussion of the lack of a guiding theory of revolution. <SEG TYPE="READING"> if on the one hand the lack of a guiding theory of revolution was the undoing of the old workers' uprisings, it was also on the other hand, the condition, for the immediate energy and enthusiasm with which the set about establishing a new society. this enthusiasm which reached its climax in the commune </SEG> so, we have, on the one hand, this kind of, anarchic uprising, another sort of climax or apex which is the commune, ultimately uh with dashed hopes. n- i mean <PAUSE DUR=":05"/> i mean perhaps, what Ben- i mean i've never actually thought about these things so, just bear with me. you know perhaps one of the um, one of the things that Benjamin is pointing to in fact is um, this dialectical movement, within history. which is what he would be doing at the end there. <SEG TYPE="READING"> for this reason dialectical thinking is the organ of historical awakening. each epoch, not only dreams the next but also dreams strives, toward the moment of waking. it bears its end in itself and unfolds it </SEG> so in fact, you know as Hegel (xx) the ruse. so in fact maybe, the point that he's making is that, there's some kind of dialectical, movement or cycle, that brought the sort of bourgeoisie, that could've lead to some kind of dominance of the bourgeoisie over everything. over, you know the entire culture which i would argue happens after World War Two, but that it doesn't happen at that moment. he gi- also gives_ throws in the example of the commune which goes to this point and then gets dashed. right and so instead of this, um, <PAUSE DUR=":05"/> instead of like the celebration then of, bourgeois dominance at this time or, liberal democratic economy, um, while things were in place, one would think things are in place in fact, it has to fail. it has to kind of s- keep striving and changing. does that make sense? i mean that's kind of ultimately quite simplistic but, um, i mean if i read on with the Hegel <SEG TYPE="READING"> it bears in its, end, it bears its end in itself and unfolds it. </SEG> so that it sort of, wraps itself, up to kind of end it but also, unfolds the pi- possibility or potential for the next, <U WHO="SU-f"> mhm </U> moment of waking. </U>
+			<U WHO="S5"> so this will to, like, totalization, is a failure because, this brink, is in fact hesitation? it's not just that hesi- you know they hesitate on the brink but the brink itself is hesitation? is that what, what </U>
+			<U WHO="S3"> yeah or <PAUSE DUR=":04"/> that the products them_ that, i mean he's sort of he's saying all these products but of course he means everything about modernity, um, that the brink itself is hesitation. well that it there there is... uh, maybe <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> like that dream world and, <U WHO="S3"> right </U> like hesitating is, is the waking state? i don't_ i assume. what it_ is that how he characterizes it? no wait a minute, the realization of dream worlds, dream elements (in the, it's the) (xx) i don't know this is, allegoric. <U WHO="S3"> mhm </U>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+				<SEG TYPE="READING"> they stand as ruins. </SEG>
+				<EVENT WHO="SU-f" DESC="LAUGH"/> um, so these ruins, this is like um now whe- when he, usually s- says ruins that means, like, irredeemable, uh, fragments of, like that, don't end up being resolved in the end. <U WHO="S3"> right </U> is that, <U WHO="S3"> right </U> okay. okay. <PAUSE DUR=":09"/> boy we went a long <EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> yeah, i mean i think that this is um, yeah the close reading, stumps the, s- i mean in a sense i guess we're supposed to be stumped by Benjamin. in that very sort of, that way of writing that, one could perhaps write an entire dissertation on, what is, the brink in modernity? you know. <EVENT WHO="S5" DESC="LAUGH"/>
+				<U WHO="SU-f"> (xx) gonna take it </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> hesitation or space. </U>
+			<U WHO="S1"> Jaime and i are gonna fight over that one. <EVENT WHO="SS" DESC="LAUGH"/> (xx) dissertation, it's mine. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> the brink is mine. <EVENT DESC="LAUGH"/> i hesitate. no. um <PAUSE DUR=":04"/> yeah. so, Haussmann, Benjamin's Haussmann then is the kind of uh... i mean what is he? he's not just, the um, the kind of perpetrator, </U>
+			<U WHO="S4"> he's the artist in demolition. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> he's the artist in demolition, exactly right. so he's not just, he's he's criminal and, artist in demolition. for Willms, <OVERLAP> who is Haussmann for Willms? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (xx) </OVERLAP> Dr Jekyll and Mr Hyde that's what he is, according to Willms. </U>
+			<U WHO="S3"> right. </U>
+			<U WHO="S1"> he was very popular with the workers was he not? because he was seen as someone who was creating jobs. maybe not for people that were getting expelled from their homes but, like um, the masons etcetera etcetera </U>
+			<U WHO="S3"> oh yeah. oh yeah and um, </U>
+			<U WHO="S1"> and at the time, did they realize how corrupt his, his accounts were? was that made public or did that, did they find out much later? </U>
+			<U WHO="S3"> that was, um, it would've probably_ i mean i'm not i don't know for sure, <U WHO="S1"> mhm </U> but the the, second empire, <EVENT WHO="SS" DESC="LAUGH"/> um was um, disgraced in disgrace and shambles, i mean really um at the point at which the the Franco-Pru- the, yeah the Franco-Prussian War, <U WHO="SU-f"> (mhm) </U> was kind of underway. within the, administration there was definitely knowledge of the corruption. <U WHO="SU-f"> mhm </U> and it isn't until after the commune <U WHO="SU-f"> mhm </U> that that comes out. so when Haussmann's, memoirs are published i think in like eighteen ninety, <U WHO="SU-f"> mhm </U> he's ca- he's really, rehabil- trying to rehabilitate, <U WHO="S1"> oh okay. </U> his work. </U>
+			<U WHO="S1"> well it's perfect for the third republic then, for them to just trash, Haussmann and <U WHO="S3"> mhm </U> (the emperor) </U>
+			<U WHO="S3"> right, um, so, at this time there were many people who were critical, right the, there were there were, critics of Haussmann and the Paris plan, because they believed, that Haussmann was really doing exactly what Benjamin said he was doing which is basically protecting against civil war. but because, that was in a sense a part of the hidden agenda, that was never made public. so the, the the critics were always um, sort of stopped in their tracks by Haussmann and Napoleon publishing, these tracts about why they were doing this which never had anything to do with, the um the civil war. um <PAUSE DUR=":07"/> so it's really only in retrospect that you have, the um, this this kin- you can have this kind of discussion by Willms that he's done a lot of, archival digging, and using the literature of that time to, point to both the ecstasy and the critique, of the plan... um <PAUSE DUR=":04"/> so... yeah Haussmann is a Dr Jekyll Mr Hyde but also, the part that Napoleon Three played, <U WHO="SU-f"> mhm </U> is very key, to understanding how Haussmann... much more so than um, Benjamin, talks about i mean, doesn't even seem to talk about him at all in fact <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S6"> i thought it was interesting how he, um, talks about, um, Haussmann being the, this is the, the last paragraph the last, part of the last paragraph, it said <SEG TYPE="READING"> Haussmann's transformation of Paris created the conditions for the great myth in which modernity is fulfilled. the myth of the metropolis as it is has manifested itself in the Paris of the second empire. </SEG> like, the way he sees, um, modernity as, as something that was fulfilled right? so that makes me think that he he's, like more interested in the, aesthetic or, architectonic or, um, urbanization, um, idea of modernity right? like for Paris. </U>
+			<U WHO="S3"> yes. <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> not so </OVERLAP> much on the on the social, social struggle that, that came, with it. </U>
+			<U WHO="S3"> mhm. so how does_ i mean given what you just said, how does Willms see Haussmann ultimately? </U>
+			<U WHO="S6"> as a benefactor. </U>
+			<U WHO="S3"> right, as a benefactor. <U WHO="SU-f"> mhm </U> as a kind of um, predecessor to all urban planners even. <U WHO="S6"> mhm </U> right? </U>
+			<U WHO="S1"> he would fit into the um, the planner with a vision and, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> right </OVERLAP> the planner with right, with vision. <PAUSE DUR=":08"/> right. <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S1"> i thought it was interesting Willms also talks about um, how this whole plan was much more my er- much more than just a reaction to like eighteen thirty and eighteen fourty-eight but more that he just, was obsessed with the idea of having like complete control over like the urban space right? <U WHO="S3"> mhm </U> um not so much in reaction to, a possible revolt but just preventing it just, through modernization. <PAUSE DUR=":23"/>
+			</U>
+			<U WHO="S2"> (xx) (urban landscape) </U>
+			<U WHO="S3"> um, yeah complete control. <U WHO="S1"> mhm </U> i mean wha- the this article in fact builds builds a kind of uh, suspense of control. builds a kind of whole narrative of control. um, besides having an immense personal creative, contribution, to the transformation of Paris. um, it's all in some ways about various different kinds of control. on, starting with his appointment, as the, Prefect... um, he later became called Baron Haussmann. i don't know if he was just sort of granted that title or whether he purchased it but i suspect he was, his his memoirs are by the Baron Haussmann. anyway, so first he becomes um, the Prefect and he starts organisi- organizing around the, the sort of maps or plans of Napoleon Trois, on, and he actually literally starts with mapmaking. right? so we we've talked about, i mean go back to what we talked about with the, with um, the Eiffel Tower, Barthes and de Certeau, and the notion of, the vista, the panorama, the panoptic view, <U WHO="SU-m"> mhm </U> of the city right? the overhead of the city. and he made this map i mean, he, you know and then hired obviously people to help him make this map but, i was fascinated by this detail, that he worked over a year to complete the master plan. and the master plan, um, was drawn to this scale, one to five thousand or something like that. um, in order and it was produced on this movable easel i'm just quoting here from the text, and that it could be, very easily, reproduced, in a much smaller scale that could be taken out, and used on the street level. but, they were still looking at the street, on the street level with these overhead maps, these overhead plans. so um, what i find fascinating is that, and as um, Dominica pointed out, that that notion of control, begins with the inception of this project. right? and a visual, some kind of visual control, um, </U>
+			<U WHO="S6"> and i guess this mapmaking comes like, from, i don't know the fifteenth century perhaps? in like, when empires are being formed, it's like to have the control and to and to, use it as a symbol also for, for control. </U>
+			<U WHO="S3"> mhm, right. and i heard a, a really interesting lecture about various different cities and, in Rome Pope Sixtus so in, Pope Sixtus the fifth <EVENT DESC="LAUGH"/> and i think the late <SIC> teenth, </SIC> late <EVENT DESC="LAUGH"/> fifteen hundreds or fifteenth century depending on, my notes which i'm not gonna look up at the moment um, he actually, decided to use, the ci- the sort of ancient city of Rome, to reconstruct, his, contemporary city. so what was like ruins and rural, which had originally been part of, um a- the the city of Rome in antiquity um, he had a map drawn, of based on ruins and then reconstructed roads, based on old roads and then started developing pockets. this is back when the church controlled all of Rome. um, so it's i think that that's true, that there was this notion that, drawing from perspective, but then also this overhead. this im- imagined sort of bird's eye view, that you would have of your city. um, and all about kind of setting control. both in terms of networking, of the networks of the streets the walls, that were existing, all of that are drawn in these maps. so, <OVERLAP> (agree) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> and what i think </OVERLAP> is also really interesting is what he chooses not to control like the <FOREIGN> petits banlieus </FOREIGN> that, that is talked about. you know basically saying okay you're not worth my time. i'll give you some churches and <EVENT WHO="SS" DESC="LAUGH"/> you'll be happy with that. <U WHO="SU-m"> mhm </U> but you don't get sewers you don't get what you need, because, you're not you're not worth controlling you're you're on the outsides. </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S3"> outsides of what? that's key. what i- what're they_ cuz you're absolutely right. </U>
+			<U WHO="S4"> tax wall isn't it? </U>
+			<U WHO="S3"> right. outside the tax wall. <U WHO="SU-f"> mhm </U> um one of the Baudelaire poems that i don't think i reproduced for you is called the Wine of the Barrier. and it's all about people sort of lining up along the bar- a- along that wall, at night, to go outside to buy their wine. <EVENT WHO="SS" DESC="LAUGH"/> so they don't have to pay, the tax. and to go outside and drink it. buy their wine and drink it outside the wall so they don't have to pay, city tax, on the wine. </U>
+			<U WHO="S1"> does any part of that wall still exist? i don't remember any mention of it (here.) </U>
+			<U WHO="S3"> the, Porte d'Orleans all those Porte de whatevers, <U WHO="S1"> that's </U> that's those original, tax walls. those gates of the tax walls. <U WHO="SU-f"> hm </U> and you had to come through those, you were <U WHO="S1">
+					<OVERLAP> wow </OVERLAP>
+				</U>
+				<OVERLAP> taxed as </OVERLAP> you came through those doorways. i think the map, um... yeah. this map on um <PAUSE DUR=":06"/> i think that's the (xx) wait let me just double check this maybe i'm, hallucinating... um <PAUSE DUR=":07"/> i thought that this map, um, the major elements of the Parisian street system, <PAUSE DUR=":04"/>
+				<U WHO="SU-f"> mhm </U> actually shows, in some ways these these exterior boulevards, show the various different kinds of, you have the, fortifications, right around the outside. and then you come into the, the exterior boulevards which were new, but basically, were just inside the tax wall. to this internal periphery which would have been, equivalent to the old wall. <U WHO="SU-f"> mm, okay... </U> um, and of course now, you have the whole, uh periphery highway that goes all the way around the outside. connecting up, um, of this this, more recent map right connecting up all of the, neighborhoods. <PAUSE DUR=":04"/> yes, i i too find it fascinating that he <PAUSE DUR=":05"/> oh right beti- between the tax wall and the fortifications right? so, outside, right? so that area i knew that was on my map right so outside that area, and before the fortifications... what is now obviously, <EVENT DESC="LAUGH"/> parts of fashionable Paris. <EVENT WHO="S5" DESC="LAUGH"/> um, so he sees so Willms sees um, Haussmann as a much more complicated figure. also a kind of um, urban planner with a vision. um, but someone who took control very seriously and didn't, try to take control where, um, one either, um new neighborhoods, couldn't be constructed, for whatever reason, you know, the Benjamin argument is so that civil unrest could not take place in those neighborhoods, but the other reason would be to, rehabilitate, the sort of Haussmannian take would be to rehabilitate those neighborhoods to make them, sanitary. um, what other kinds of um... laws were put into place? that made it possible for him to gain this control s- um and i'm thinking specifically financial <PAUSE DUR=":05"/> what is this lu- what is it called here? the um... the one hundred and eighty million, <U WHO="SU-m"> (xx) </U> i just_ i love when they have laws that have these great names in them, the a hundred and eighty million, franc, rule. <EVENT DESC="LAUGH"/> where did that go? <PAUSE DUR=":05"/> okay. here we go. on page two-sixty-eight. he starts talking about, Willms starts talking about um the suspicion, for the strategic objectives of this. and Haussmann's first argument was always_ and this is in the middle of the page, was that the sole purpose, was for quote <SEG TYPE="READING"> the large thoroughfares designed by his majesty, </SEG> which were to quote, <SEG TYPE="READING"> rehabilitate the old part of the city and open it up to traffic. </SEG> okay? so while it was not, very convincing it actually, he was al- able, to continue to build and construct and demolish, based on that very simple notion of rehabilitation, and opening up to traffic opening up to circulation, um, allowing for um, increased obviously commodity circulation and things like that. and um, he had, three, basically three projects going. right? the first project, was with this, was with um, the state. right? the state was gonna give him one third of the construction money sixty million francs, to do a large portion of the construction. the second part, was, uh projects that were gonna be financed by the city and the state. so the reha- part_ mostly rehabilitation. um, and then the third part was, was just gonna be paid for by, the city, and that was this, developing of the central stars, which if you look on that map, and we talk about control, i mean you can see, the development of the stars, um both on that map that we looked at before with the, exterior boulevards and the fortification you can see the stars, but also on the, on um, the map the later the, three pages away, the David Pinkney which also shows the extent of the Boulevards and the stars. i mean that in in a sense is, a kind of panoptic, view of street control. right? that hierarchizes that space that articulates a space, right? that should have more meaning more importance, than other, sort of square corners. or sq- you know square intersections. so it hierarchizes, um, it creates um, arterial movement, movement along the axis, but it also, in a sense, creates more power, more control, for those areas. um, Etoile which is by um, the Eiffel Tower and Nation... er, i'm sorry Arc de Triomphe is at the Etoile. et Trocadero is the Eiffel Tower so, you can see how he's already, imagining, or thinking of other ways of controlling, rather than just through finance. alright? it's this visual control. what are some of the other arguments that um Willms makes for Haussmann's, project? i mean i talked a little bit about real estate speculation but how is that real estate speculation, um ultimately very important for what we know now as Paris? i mean in a sense Willms sets us up to accept, Haussmann, till now. right? to the Paris that we have now. <PAUSE DUR=":05"/> um, i'm thinking mostly about the stuff on page like two-seventy, the bottom of two-seventy-one two-seventy-two. <PAUSE DUR=":34"/>
+			</U>
+			<U WHO="S6"> in a sense it's a process by which, the expropriation of, um, the, the houses that belong to lower classes, is, the that land is used, to build um, constructions that would attract the um, the bourgeoisie. that, <U WHO="S3"> right. </U> that that that, was in accordance with their appearance. <U WHO="SU-f"> mhm </U> so so it, generated a, a movement, <EVENT DESC="COUGH"/> excuse me, of the people of the social classes, within the, the city. </U>
+			<U WHO="S3"> mhm. movement and, if you have, those big bourgeois buildings, apartment buildings, backing up to, these, very small pockets, which are left of those, working class neighborhoods, you not only create movement but also a kind of proximity, that had never existed before. right? um, a kind of proximity that, in some ways, Baudelaire becomes very distinctly aware of. um, at the same time, and this is the kind of irony that i believe Mr Willms, uh misses, is that in, the development of this, these buildings, um, which were designed primarily for sort of bourgeois, i'll quote <SEG TYPE="READING"> bourgeois needs and expectations. </SEG> were that they themselves very much, under, Haussmann's controlling, and and orderliness. even though he wasn't the actual builder of those, um, apartments, because every single apartment if you if you see here every single apartment is the same. except for, obviously some are a little bit larger, but those parts that are larger are still like in these dark hallways, in the backs of the buildings. so everyone has like a front window on the street, but, from the outside the facades are completely uniform. so there's a kind of, uniformity within, both the exterior and the interior. so, in a sense the the, the extent to which Haussmann is responsible for, um both regulating, the working class, disrupting those neighborhoods sending people out to the suburbs, is also he's also responsible for, a kind of regula- w- what is the word that (i'm us_) like, regularizing, <U WHO="SU-f"> mhm </U> regu- not just regulation but a kind of regularizing of, also the bourgeois lifestyle. right? in these little buildings with the same, i mean the difference between carved stone, and glued on stone, is what we're talking about. these are all just sort of glued on, decorative, neoclassical, mass produced pieces of, uh architectural facade, that get put on these buildings. um, <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> he also sort of </OVERLAP> attributes that conformity to um, the fact that, like Haussmann and um, the emperor were basically just, sort of in bed with the same five, real estate companies right? <U WHO="S3"> yes </U> so if you only have five companies making all of, uh the apartment buildings in Paris they're obviously gonna look pretty much the same. </U>
+			<U WHO="S3"> mhm, right.... and the the the um, the parts of the city that don't get changed, that don't really get um, they don't experience any upheaval, either with the real estate market, speculation or, demolition are these neighborhoods in the sixteenth and seventeenth arrondisement which are the, what Willms called the refuges of the rich. so the pockets of the aristocracy never get touched. and yet, as, as you point out Filipe there's als- there's a potential though for movement, of the very wealthy, and upper bourgeois classes to these new apartment buildings. right? on like the Champs Elysees and, and various parts of um, mostly the right bank. um, but really those pockets still stay stay the same. and in fact have remained the same to this day. </U>
+			<U WHO="S6"> another thing there is, i don't know exactly how that works but, but i thought it was interesting the way that all those, um, new apartments, had, like the, the side that faced the, the street was, the living room and the dining room and so, in a sense like, the, the everyday life is also uniformed in its relation of the public and private, areas. </U>
+			<U WHO="S3"> right... right, yeah and i think that, that would be another way in wh- which in fact goes, along with some of what we saw in that film The City last night. with the planned cities and towns, um, that there's a regularization of, the everyday life. and i hadn't actually thought about it in terms of space but you're right. that everyone ends up in some ways in those apartments with the same sort of... both the same public and private space, and recognition of it... which Willms doesn't s- i mean i, i tend to critique that kind of, uniformity, planned uniformity, uh but Willms doesn't seem to do that. because i think, he sees Haussmann as you pointed out at the end as this sort of great, um, transformer, a great planner... so um, let's, i think... take a break. and when we come back, we'll um... do maybe some close readings of the Baudelaire, with the Berman and knowing what you know about Haussmann, and maybe tease out, um, a reading, um of, especially the i mean The Eyes of the Poor, but i also tend to like The Rope for instance, um myself. uh or any other poems. that sound good? and obviously if you have more to say about Haussmann i mean you're welcome. and then we'll talk about some of the films. okay. so, break. i have to run over to Rackham, to get some, papers so, just wait for me if i'm running a little late <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S1"> but that's kind of <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> what? well that's all they want you to be able to do. it's reading knowledge. (oh yeah, i have to do that next semester.) </U>
+			<U WHO="S1"> can you do it next semester? </U>
+			<U WHO="S4"> i think so. well, i don't know. </U>
+			<U WHO="S1"> double check and make sure <OVERLAP> that you get_ yeah that's the thing that's the thing. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> see that's what i (been doing sure first is,) </OVERLAP> um, yeah see if they </U>
+			<U WHO="S1"> or if i were you, if it's more, appealing, just take the third <U WHO="S4"> just do the, (thingy) </U> but, yeah just you know take another semester of Spanish if you want that'd be more fun in any case and <U WHO="S4">
+					<OVERLAP> that's true </OVERLAP>
+				</U>
+				<OVERLAP> then, just take the test. </OVERLAP>
+				<U WHO="S4"> that's true </U> because right now, if i decide_ i was thinking of dropping that test. i would just go ahead and bring in a page, to Frieda and be like okay, i translated this page let's talk about it. and, that's the test right? </U>
+			<U WHO="S4"> (xx) yeah that would work maybe i'll just (another Spanish) (xx.) we'll see. </U>
+			<U WHO="S1"> it's so weird, to get that email from Catherine about the, the weekend </U>
+			<U WHO="S7"> (you know Brody we can) hear you outside. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> uh oh. hey, uh Laura did you get my student's copy of the test to grade yet? or no? it has it made its way to you yet? Phillipe Montesquieu? </U>
+			<U WHO="S7"> i don't remem- i haven't checked my box since before i taught. <U WHO="S4"> okay. </U> but i got one a couple days ago but that wasn't your student i don't think i think it was Jane_ uh Jenny's. </U>
+			<U WHO="S4"> Jenny's okay, yeah i got that too. i think, Jen- i know that Catherine has a student whose, test has been in Jenny's box all week. i put it in Jenny's box on Monday, and it hasn't been touched. so i don't know if you've graded that one or not. it's Catherine's <U WHO="S7">
+					<OVERLAP> (yeah no) </OVERLAP>
+				</U>
+				<OVERLAP> student </OVERLAP> but it's in Jenny's box. </U>
+			<U WHO="S7"> okay. well <U WHO="S4">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> if </OVERLAP> it's still there i'll check and see if it's still there <U WHO="S4"> okay. </U> if it's there i'll grade it. <U WHO="S4"> okay. </U> i think maybe she doesn't check her box </U>
+			<U WHO="S4"> yeah she must not cuz i put, <U WHO="S7">
+					<OVERLAP> as often as you (want) </OVERLAP>
+				</U>
+				<OVERLAP> i put my </OVERLAP> student's test in her box too and i don't know if she has it or not i haven't checked her box. <U WHO="S7"> okay. </U> but um, yeah </U>
+			<U WHO="S1">
+				<OVERLAP> (xx) you don't drive in do you? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (it's kinda nice that) everybody </OVERLAP>
+			</U>
+			<U WHO="S1"> you don't drive in do you? drive into </U>
+			<U WHO="S7"> yes </U>
+			<U WHO="S1"> you do? <U WHO="S7"> mhm </U> (travel) mom. </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S7"> yeah i know. and they have, well actually it's (not a problem) cuz Alex's daycare, he doesn't go to daycare on Friday so, <U WHO="S4"> but that's good. </U> (i don't know why they closed it but this is) Ann Arbor schools (xx) </U>
+			<U WHO="S4"> um, one other, do we know if the, oral eval is in the Mac Lab or in the, one that, the one inside the L-R-C? </U>
+			<U WHO="S7"> inside the L-R-C. </U>
+			<U WHO="S4"> it is inside? okay good. </U>
+			<U WHO="S7"> yeah. </U>
+			<U WHO="S4"> excellent </U>
+			<U WHO="S7"> it'll be pretty much exactly like last time. </U>
+			<U WHO="S4"> okay cool. </U>
+			<U WHO="S1"> and was this </U>
+			<U WHO="S7"> (cuz that was it) <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> alright cool. </U>
+			<U WHO="S7"> no change. alright <OVERLAP> see you later. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> excellent. </OVERLAP> good, that's where i told 'em to go. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah (don't wanna) corral them up. other room guys. </U>
+			<U WHO="S4"> sorry. </U>
+			<U WHO="S1"> ugh. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> i have no paper topic for this class. and not even one that's like, coming to me either <U WHO="SU-f"> yeah </U> nothing is, </U>
+			<U WHO="SU-f"> i don't know what to do either. </U>
+			<U WHO="S2"> and we're halfway done, <U WHO="S4"> uhuh </U> so we probably should be thinking about something. </U>
+			<U WHO="S4"> uhuh <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S5"> you know what you're doing for the summer? </U>
+			<U WHO="S2"> i'm gonna go to Africa. </U>
+			<U WHO="S5"> oh. </U>
+			<U WHO="S4"> are you going back? </U>
+			<U WHO="S5"> well </U>
+			<U WHO="S2"> yep. <U WHO="S4">
+					<OVERLAP> excellent </OVERLAP>
+				</U>
+				<OVERLAP> i got, </OVERLAP> i got money again so i'm. <U WHO="S4">
+					<OVERLAP> woo </OVERLAP>
+				</U>
+				<OVERLAP> thrilled </OVERLAP>
+			</U>
+			<U WHO="S5"> great </U>
+			<U WHO="S2"> yay </U>
+			<U WHO="S1"> that'll be awesome. <OVERLAP> back to um, </OVERLAP>
+				<OVERLAP> </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and um mhm </OVERLAP> back to <OVERLAP> (Niger) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh </OVERLAP> yay. </U>
+			<U WHO="S2"> same place, same, <OVERLAP> house (probably) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> who do you stay with when you go_ </OVERLAP> or, where do you stay when you go there? </U>
+			<U WHO="S2"> i stay um, with the woman who's the program director of my study abroad. but, i um, hope that i'll find someplace else. </U>
+			<U WHO="S4"> cool. what do you do there? </U>
+			<U WHO="S2"> i take classes in the mornings, from eight to twelve, and then, </U>
+			<U WHO="S5"> what classes? </U>
+			<U WHO="S2"> Housa. </U>
+			<U WHO="S5"> oh. </U>
+			<U WHO="S2"> um, which is, fun but kind of painful cuz it's four hours just me and a professor and </U>
+			<U WHO="S1"> oh it's just the two of you? </U>
+			<U WHO="S2"> yeah. <U WHO="S4"> and </U> no books. <OVERLAP> they don't have any text books. </OVERLAP>
+				<EVENT WHO="S4" DESC="LAUGH"/>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> is it, is it your like your </OVERLAP> research area? </U>
+			<U WHO="S2"> one of mhm one of 'em yeah. and so, and then in the afternoons, i just have fun. enjoying like a good museum, <U WHO="S4">
+					<OVERLAP> nice </OVERLAP>
+				</U>
+				<OVERLAP> make some </OVERLAP> like art things, or just wander, go stay someplace <OVERLAP> air-conditioned, </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> ah </OVERLAP> nice. </U> i love it. so </U>
+			<U WHO="S5"> how 'bout you? </U>
+			<U WHO="S4"> i don't know yet. i'm i think i'll probably go back to Chicago my parents live there and i think i'm gonna try and teach French at like a community college type thing, <U WHO="S2"> oh that's good. </U> cuz they didn't have it there la- cuz i took Spanish, there la- last su- summer but, <U WHO="S5"> mhm </U> they didn't have a French night class and i was thinking, <U WHO="S2"> wow </U> maybe i'll just call 'em up and see if they, want one taught. <U WHO="S2"> that's a good idea, yeah. </U> so then, <U WHO="S5"> yeah </U> i don't know what else i_ see i have this_ i really like working with autistic kids and that's what i do every summer, <U WHO="S5"> mhm </U> and i might do that again this summer. i'm not gonna do the same program but, i wanna work one-on-one with autistic kids. cuz <OVERLAP> it's fun, </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> that's great </OVERLAP>
+				</U> and i don't wanna do French. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S5"> i have no idea. </U>
+			<U WHO="S2">
+				<OVERLAP> no idea? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> no? </OVERLAP>
+			</U>
+			<U WHO="S5"> well my, the memo to the department for, you know that kind of funding is due tomorrow and i'm gonna forget <U WHO="S2">
+					<OVERLAP> ohh </OVERLAP>
+				</U>
+				<OVERLAP> about </OVERLAP> that deadline until Monday. <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<U WHO="S4">
+					<OVERLAP> ah </OVERLAP> yes. </U> um, i gotta, i gotta figure out something because, i um, last year i got money, and i was uh two months in Paris and one, one month in <OVERLAP> Vienna, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> oh </OVERLAP> wow. </U>
+				<OVERLAP> um, </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> nice </OVERLAP>
+				</U> the problem is that_ i don't know if i told you before but the you know the museums, in Paris were closed, <U WHO="S4"> yeah </U> they were <U WHO="S2">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> on strike. </OVERLAP>
+				<EVENT WHO="S4" DESC="LAUGH"/> and so i couldn't do my thing, that i wanted to do. <U WHO="S4"> d'oh </U> and finally when i, when i was in Vienna during the month of July i came back to Paris for August, and, was working, for a professor there and, i wanted to go to like the Picasso archives. well, the Picasso Museum finally opened after having, been on strike, but, their, you know their <FOREIGN> centre de documentation </FOREIGN> was, <U WHO="S4"> oh dear </U>
+				<U WHO="S2"> right </U>
+				<FOREIGN> en vacances </FOREIGN>
+				<EVENT WHO="SS" DESC="LAUGH"/> and so, so, <U WHO="S4"> d'oh </U> i tol- it's like i got all this money from the department i couldn't_ well i mean <U WHO="SU-f">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> i used </OVERLAP> it because <U WHO="S2">
+					<OVERLAP> mhm, yeah, right </OVERLAP>
+				</U>
+				<U WHO="S4">
+					<OVERLAP> you have to. yeah exactly </OVERLAP>
+				</U>
+				<OVERLAP> you know i had to eat, (xx) but, </OVERLAP> um, <OVERLAP> i was so mad </OVERLAP>
+				<U WHO="S4">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> but you couldn't do anything </OVERLAP>
+				</U> so i have to like, pro- you know do this, well i can't, it's a humiliating to have to write for more money, <U WHO="S2"> yeah </U> to say that well, you know generous as it was last year <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> i still <OVERLAP> wasn't </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U> able to do what i <U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> needed </OVERLAP> to do. </U>
+			<U WHO="S5"> uh s- </U>
+			<U WHO="S4"> just blame it on the French. <OVERLAP> those damn frogs. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> that's true, so i gotta figure out, </OVERLAP> what i'm gonna, see i don't think i can get two months out of them. <U WHO="S2"> right. </U>
+				<U WHO="S4"> yeah </U> you know maybe, three weeks max. <U WHO="S4"> mhm </U> um, but um </U>
+			<U WHO="S2"> i hate applying for summer money. <U WHO="S4"> i know </U> it's always such a, big deal. </U>
+			<U WHO="S5"> i know this sounds really pompous but i just don't wanna work, this summer. <U WHO="SU-f"> mhm </U>
+				<U WHO="S4"> yeah </U> i just </U>
+			<U WHO="S2"> that's why i go to Africa because i take, you know, language classes and just have fun and hang out. <U WHO="S5"> yeah yeah </U> i don't actually do anything (regarding,) with books. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> it's all good. yeah, this summer i need to read read read read i need to get one of those like boring jobs like, nine to five, probably in a book store where they'll give me a nice big discount. <U WHO="S2"> mhm </U> and then just read all day that's all i'm gonna have to do. <U WHO="S2"> yeah </U> find a job where i can just read all day. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> that's no fun. </U>
+			<U WHO="S4"> no it's really not. it sucks. but, i've had a great summer job the last five years so, i guess i'm, <U WHO="S2"> yeah </U> i'll get a really crappy one this_ i just need to make money, that's the thing. paying stupid rent in this town. </U>
+			<U WHO="S2"> mhm </U>
+			<U WHO="S5"> mhm </U>
+			<U WHO="S2"> too expensive. </U>
+			<U WHO="S4"> yeah it is. </U>
+			<U WHO="S5"> the beer is expensive too. <EVENT WHO="SS" DESC="LAUGH"/> (i despise it) it's so, it's most annoying. i have to pay </U>
+			<U WHO="S4"> one benefit of being allergic to <OVERLAP> alcohol. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> damn near five </OVERLAP> dollars a pint. </U>
+			<U WHO="S2"> you're allergic to alcohol? </U>
+			<U WHO="S4"> i am. most unfortunately. <U WHO="S5"> oh no </U>
+				<OVERLAP> i mean </OVERLAP> i can have like a little you know like, if i'm eating, it's one th- like wine with dinner, alright, no problem, like a glass. but, i can't drink any beer whatsoever i think the hops in that makes me crazy. like right off the bat cuz i can't even tolerate like one or half of a beer <OVERLAP> and then </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> well what happens </OVERLAP> when you drink it? </U>
+			<U WHO="S4"> i get really ill. <U WHO="S5"> oh </U> like violently ill. and it's not even fun_ you know it's <U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U> like, you know. <U WHO="S2">
+					<OVERLAP> it's not even fun </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> it's not even fun first </OVERLAP> and then you get sick. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> that's so unfortunate. </U>
+			<U WHO="S4"> i know. but i can have, i can have like a, hard drink or two. but that's the limit. so. (terrible) </U>
+			<U WHO="S2"> you can't, you can't drink and you don't like chocolate </U>
+			<U WHO="S4"> i know. i'm kind of a freak. <EVENT DESC="LAUGH"/> i do smoke though, that's my, my little vice. <U WHO="S2">
+					<OVERLAP> you gotta have one. </OVERLAP>
+				</U>
+				<OVERLAP> but i've i've su- </OVERLAP> i'm successful though on the, no smoking on campus anymore. <U WHO="S2"> wow. </U> don't bring 'em with me. it's good, <U WHO="S2"> wow. </U> progress. <EVENT DESC="LAUGH"/> but, you know </U>
+			<U WHO="S5"> well you can't give up, all the things <OVERLAP> in life. you know </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> everything </OVERLAP> you can't <U WHO="S4">
+					<OVERLAP> i know </OVERLAP>
+				</U>
+				<OVERLAP> be perfect Jaime </OVERLAP> but if you get a <U WHO="S4"> i do </U> job that makes you read all the time <EVENT DESC="LAUGH"/> you'll really go crazy. </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> aiyaiyai. </U>
+			<U WHO="S5"> i uh, for so- for some reason i only have the like the first page of this. i went to read the, <U WHO="S3">
+					<OVERLAP> ohh </OVERLAP>
+				</U>
+				<OVERLAP> read it this </OVERLAP> morning and i had only the first page. so, i don't know uh </U>
+			<U WHO="S4"> well do you have <U WHO="S2">
+					<OVERLAP> you know </OVERLAP>
+				</U>
+				<OVERLAP> the rest? </OVERLAP> because that's that last_ on the back is the last page <U WHO="S2">
+					<OVERLAP> of a different thing. </OVERLAP>
+				</U>
+				<OVERLAP> of another thing. </OVERLAP>
+				<OVERLAP> so you might have separated </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> (alright) (xx) of the surrealist one. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i got confused too and i thought i only had the first page but, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> of the surrealist </OVERLAP> yeah. </U>
+			<U WHO="S4"> so it might've just separated itself <OVERLAP> in your folder somewhere. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> right but here's my </OVERLAP> surrealism. on the, <U WHO="S3"> ohh </U> so i... don't know. </U>
+			<U WHO="S3"> so you need a copy of the, <U WHO="S5">
+					<OVERLAP> of the, the Marshall Berman </OVERLAP>
+				</U>
+				<OVERLAP> Berman. </OVERLAP> okay let's (xx) </U>
+			<U WHO="S1"> that history book that you brought into uh four-hundred-level class </U>
+			<U WHO="S3"> let me think, </U>
+			<U WHO="S5"> i think i already know this (mess.) </U>
+			<U WHO="S1"> it starts at uh, </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S1">
+				<GAP DESC="EDITED" REASON="CONFIDENTIALITY"/>
+			</U>
+			<U WHO="S5"> some, some people </U>
+			<U WHO="S3"> yes. </U>
+			<U WHO="S5"> some people i know have applied for it </U>
+			<U WHO="S3"> oh really? </U>
+			<U WHO="S5"> yeah. from, my department. </U>
+			<U WHO="S3"> okay so i wanna return this to you. this is so cool. <U WHO="S4"> you like it? </U> someday i'll have to spend much more time with it. cuz it is amazing that notion of the skin. </U>
+			<U WHO="S4"> mhm </U>
+			<U WHO="S3"> you know i been walking around all day tapping, and i in fact have a tack in the bottom of my shoe. <EVENT WHO="SS" DESC="LAUGH"/> everyone thought i was trying to be Gene Kelly. <EVENT WHO="SU-f" DESC="LAUGH"/> (xx) it's gonna stay there, nope (xx.) mkay so, here we go, Baudelaire <PAUSE DUR=":09"/> Baudelaire in Films. Marshall Berman, Baudelaire in Films...  </U>
+			<U WHO="SU-f"> okay, let's see here. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> (Willms) (xx) </U>
+			<PAUSE DUR=":17"/>
+			<U WHO="S2"> i was trying to figure out why i knew the title of that book. <EVENT WHO="SS" DESC="LAUGH"/> it's like i know i know that from somewhere. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> (xx) each article. (where do i know that from?) </U>
+			<U WHO="S3"> yeah it's uh... it's a famous book. okay. so, i mean i a- guess i asked a really, sort of general question about Baudelaire and um, Berman and Haussmann. so... we can kind of take this up from various different points but, i thought, that at least with... i guess The Pauper's Toy works also quite well in this discussion as does, The Eyes of the Poor. but maybe if we start with The Eyes of the Poor, from Spleen, just take the eyes of the poor and rip 'em out of the spleen. um, <EVENT WHO="SS" DESC="LAUGH"/> we can, sort of maybe engage in this <PAUSE DUR=":04"/> discussion of, both Berman, Haussmann, Baudelaire, and Benjamin. if we can. kind of a tall order. <PAUSE DUR=":22"/> okay so you want to know why i hate you today? <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<PAUSE DUR=":07"/> even if you haven't read i guess the Berman, um, and so you don't know whether you agree or disagree with his reading of The Eyes of the Poor, maybe we can talk about the presence of, the Haussmannized Paris, in The Eyes of the Poor. maybe that would be one way to start... </U>
+			<U WHO="S4"> well there's the vision of the um, let's see, what does it say? the um, this, third paragraph that first, sentence there. um, when it's talking about uh, <FOREIGN> ses splendeurs inachevees, </FOREIGN> uh, and just the pile of, the pile of rubble as sort of a remnant of the Haussmannization of, um, of Paris paralleled then with, um, the the poor, <FOREIGN> les les pauvres </FOREIGN> (xx) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> so it's not and it's not just the sort of unfinished splendor it's also, right? the bre- in that same beginning of that same paragraph <U WHO="S4"> mhm </U> the brand new cafe, <U WHO="S4"> mhm, yeah <OVERLAP> there's a juxtaposition </OVERLAP>
+				</U>
+				<OVERLAP> on the corner of the new </OVERLAP> boulevard right. between all of the wonders and the unfinishedness of it. </U>
+			<U WHO="S4"> mhm. and just the detail, that he goes into, of what's inside. kinda the the the <FOREIGN> les deesses portant sur leurs tetes des fruits </FOREIGN> etcetera, all that is just so, b- i- b- gaudy and you know there's so much, <U WHO="S1"> campy </U> that it's ki- campy there you go. <U WHO="S1"> that's what Berman says </U> yes. <EVENT WHO="SS" DESC="LAUGH"/> yeah it's just um, very overwhelming to see that, you know in contrast with a pile of, of rubble. </U>
+			<U WHO="S3"> what're the other words besides gaudy? campy that would be of course our reading, of it. <U WHO="SU-f"> mhm </U> they didn't have campy, back then yet. <U WHO="SU-f"> mhm, </U> um, what abou- what about in the French? do you have <FOREIGN> goinfrerie? </FOREIGN> do you have that in the French? <U WHO="S4"> mhm. </U> right. how does it_ what does that translate as? </U>
+			<U WHO="S4"> gluttony </U>
+			<U WHO="S3"> gluttony. right. so, gaudy, gluttony what else? <U WHO="SU-f">
+					<OVERLAP> decadent </OVERLAP>
+				</U>
+				<OVERLAP> and then i want you_ </OVERLAP> yeah? </U>
+			<U WHO="S1"> decadent. </U>
+			<U WHO="S3"> decadent </U>
+			<U WHO="S4"> very busy too there's, i don't know but when i read that i just, everything, um, there's sort of an underlying theme of movement. <U WHO="S3"> mhm </U> to me, <U WHO="S3"> mhm </U> it's just, that the way that the, statues you know had their arms, out or whatever. </U>
+			<U WHO="S2"> i think also um, since i always harp on the classical <EVENT WHO="SU-f" DESC="LAUGH"/> um, that final line the all history and all mythology at the command of gluttony. <U WHO="S4"> oh yeah </U> um, when i was reading Berman, and on one forty-eight, he says a- describing what are the primal modern scenes, he says that <SEG TYPE="READING"> those (are experienced in) joys from the concrete everyday, of Bonaparte and Haussmann's Paris by (carrying) mythic resonance and depth (of the problem) into their place and_ beyond their place and time, and transform them into archetypes of modern life. </SEG> um, i was trying to think of, i mean we encounter this idea of myth, in, everything we've read so far today. you know and it seems to be central and, this myth of modernity, the myth of postmodernity the myth of premodernity, all of it's a myth and so this, here in the cafe i think is just, you know bringing the myth into the everyday life and, what i- why is it that, every time we encounter the everyday we have to go directly from that into a myth? and because that's how i see this functioning. you know, rather blatantly. and this by having the nymphs and the goddesses and, Ganymede um, all inside a cafe which is supposedly the, the primal scene of, modernity, Baudelaire here. and also to the poor because they look, in at least the family of the poor in the, in this, poem because they look in and think how beautiful, you know, if only we could enter. but people like us can't enter this house. so there's something about the exclusion from the myth, of of, modernity or, or some kind of a participation in it and, (i don't know) <U WHO="SU-f"> mhm </U> i- i ran out of, steam there at the end. but i do think that that's supposed to be what's highlighted. </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S4"> mhm. also i think the idea of um, being able to have privacy in a public space, is a r- is a result of the, Haussmannization of, of Paris these two, lovers can sit at a table and, and have their privacy but yet they're in a space that, um, you know that anyone can walk into <U WHO="SU-f"> mhm </U> (and in the poem, someone does) and that's basically what Berman, says. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"> um, the description of the cafe also reflects a lot of what, Baudelaire um, seems fascinated by, modernity with you know it sparkles um, it's bright, it's <FOREIGN> eblouissante, etince- etincele </FOREIGN> he says, um, i'm sure it goes back to, the first part of the reading we did for Berman where he talks about how Baudelaire is just fascinated by everything that's new and um, glitters. </U>
+			<U WHO="S6"> and among those, new things are all these classic, <FOREIGN> tropos </FOREIGN> that are brought into the spaces, part of the commercial exchange for now like, part of the display, you know the, you know... </U>
+			<U WHO="S4"> the idea of being able to see at night too, because of the gas lights, <U WHO="SU-f"> mhm </U> is important in this piece. it helps, highlight the, material and the, you know the, the material world inside of the cafe. <PAUSE DUR=":05"/> and all those people, you know there's more the issue of safety as well. um, so that more people are just gonna be out now, in the public space. because they can see at night. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> so that, those elements that we brought up earlier about movement and proximity, um, sort of explode in this, encounter. </U>
+			<U WHO="SU-f"> mhm. </U>
+			<U WHO="S6"> and explode in a, in a particular, way here because, like the the way Willms, (Willms what's his,) <EVENT DESC="LAUGH"/> um, presented it was like the, the bourgeoisie was was hiding the, the poverty right? <U WHO="S3"> mhm </U> and this time it's like the poverty looking at the bourgeoisie from from the front, from the front from the from the outside to the inside, using those windows those <PAUSE DUR=":06"/> it's, <EVENT DESC="LAUGH"/> it's like, a moment when, when what, what is, what was tried, to keep from seeing starts seeing, itself, <U WHO="S1"> yeah mhm </U> starts, disturbing that privacy that you were talking about before. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> it also kind of reminded me of um, i think it's, Mary Louise Pratt who talks about the contact zone? is it her? <U WHO="S3"> hm? </U> you know like, the boulevard as a contact zone then, uh whereas it isn't really, um, the colonizer, the colonized that's that's making contact but um the bourgeoisie and then, the working class. um and that would sort of work with what you were saying Susan in that, it's not just you know black and white it's there's sort of an exchange going on there you know where um, are they being excluded from the myth or are they looking in and, trying to be a part of it? or </U>
+			<U WHO="S2"> but yet there's no real interaction between them. you know people looking in and the people looking out, <U WHO="S1"> mhm </U> their, you know the father's eyes were saying, he wasn't actually saying this is what this guy looking out this (xx) (thing that he's) saying. <U WHO="S1"> mhm </U> and then um, i mean, there's no real_ you don't have any idea really what these people were thinking as they, as they looked in. they could've been thinking you know this is, <U WHO="S1"> yeah </U> um, what happened when, Paris was torn down they might have been condemning it we don't, we don't have any idea, if they wanna be, (in the) (xx) or, or not. </U>
+			<U WHO="S4"> yeah there was a part in the Berman article too that, you know when they were, when he describes, the the the, <FOREIGN> pauvres </FOREIGN> and he says you know, they wanna be part of, they look in and they wanna be part of it. but that may, i didn't get that at all from reading the poem i didn't think that they necessarily wanted to be a part, of, that inside world. um, oh and i can't find it now. </U>
+			<U WHO="S1"> but what about when um, the eyes of the father say says um <FOREIGN> que c'est beau que c'est beau </FOREIGN> or <FOREIGN> c'est une maison ou peuvent seuls entrer les gens qui ne sont pas come nous? </FOREIGN>
+				<OVERLAP> (xx) (people) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah but i still, </OVERLAP> i don't know i i, didn't get that, that lon- sense longing necessarily <U WHO="S1"> mhm </U> i just got this sort of, <OVERLAP> i just saw 'em as observers and_ yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> a sense of exclusion, like they just, </OVERLAP> they just realize that they're excluded <U WHO="S4"> mhm </U> they don't particularly want <U WHO="S4"> yeah </U> want to be part of it </U>
+			<U WHO="S4"> they're just sort of observing and, giving their commentary on it but, you know they d- they don't, try to go in they don't you know lament that they, they can't they they just look. <U WHO="S1"> mhm </U> you know and and who wouldn't at that time period i mean that's a new scene you you've never seen something like that. um, so i don't know i didn't really i didn't really agree with Berman in that respect. <U WHO="S2">
+					<OVERLAP> (you think that) </OVERLAP>
+				</U>
+				<OVERLAP> that they </OVERLAP> so desperately want </U>
+			<U WHO="S2"> so it's the (xx) with the, coffee house, assignment. because just, as i was looking out at people you know <EVENT WHO="SU-f" DESC="LAUGH"/> that glass was there and i would see them and, for a split second we would see each other, and so i could say you know oh obviously they're thinking you know, i want a cup of coffee or_ i have no idea what they're thinking. you know and that's just kind of what i, view this as that, what they_ what i imagine them thinking ultimately says more about me than, about, them. and that's, what <OVERLAP> happens </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> here. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S5"> um, Berman might be reading that, the way he does based on that, just that little signal that, the but, but only people not like us when the k- <U WHO="SU-f"> mhm </U> when kid says, that that um, what is it called? disjunctive or whatever? <U WHO="SU-f"> mhm </U> uh, kind of points to, maybe the fact that the father did wanna go in, and the kid is saying no but, <OVERLAP> you're </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> didn't </OVERLAP> wanna go in? <OVERLAP> or he did wanna (go) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> maybe did. </OVERLAP> yeah like to side_ if <U WHO="S1"> yeah </U> i_ you know to play to devil's ad- i mean to take Berman's side um, <OVERLAP> if </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but </OVERLAP> no dad. </U>
+			<U WHO="S5">
+				<OVERLAP> yeah </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> or </OVERLAP>
+				</U>
+				<U WHO="S1">
+					<OVERLAP> we </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> no dad. <OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> or </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah you_ </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> we can't go. </OVERLAP> right. </U>
+			<U WHO="S4"> but maybe the father's already past the point of of even, even wa- like going in there <EVENT WHO="SU-f" DESC="LAUGH"/> but the it's just the kid who is saying, who is, who's internalizing it on his own. so we don't know you know like <U WHO="S5">
+					<OVERLAP> oh that's true (i hadn't) </OVERLAP>
+				</U>
+				<OVERLAP> he could just be saying </OVERLAP> to himself, <U WHO="S5"> mhm </U> oh but you know, because that's what he's sort of been taught in his youth to just sort of understand. but the dad's already past that point. he's past the point of wanting because he knows he's not gonna get <OVERLAP> in there so why, why bother? oh totally </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but at the same time i mean we have no idea it is the poet that's like looking </OVERLAP>
+				<EVENT DESC="LAUGH"/> at him saying, <U WHO="S6"> mhm </U> i think they're saying <OVERLAP> this </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> yeah </OVERLAP> totally </U> you know they could be sitting there cursing them like, <U WHO="S4"> yeah </U> damn bourgeoisie we hate you right? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> exactly </U>
+			<U WHO="S3"> i mean it is the, right? <U WHO="S1">
+					<OVERLAP> (oh God) </OVERLAP>
+				</U>
+				<OVERLAP> the barrier, </OVERLAP>
+				<U WHO="S6"> mhm </U>
+				<U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> that's </OVERLAP> uh, their eyes were (saying to me) <EVENT WHO="S1" DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> it is an interesting thing that the way he, u- he, imagines this communication only through the eyes <U WHO="S1"> yeah </U> without, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> without </OVERLAP> the use of, <U WHO="S1"> mhm </U> words. </U>
+			<U WHO="S2"> and then i think that's highlighted through the jarring juxtaposition of the last paragraph, where you know this woman that he's supposedly in love with he can't read her eyes, and he's shocked when he finds out what she's thinking. <EVENT WHO="SS" DESC="LAUGH"/> and then says how difficult it is to understand one another. and how uncommunicable thought is. <U WHO="SU-f">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> know i think that should signal to us right away that, we don't know, what these people are thinking. </U>
+			<U WHO="SS"> mhm </U>
+			<U WHO="S1"> yeah, exactly. yeah that's right. <PAUSE DUR=":07"/>
+			</U>
+			<U WHO="S5"> um, i just had a sm- minor question about the form of the_ of all these poems really. um, Berman has stated on one-forty-eight then that it is crucial to remember that the poems, in, Paris Spleen, do not present themselves as verse, <U WHO="S3"> mhm </U> an established art form but as prose, in the format of news. and, </U>
+			<U WHO="S2"> where is that? sorry. </U>
+			<U WHO="S5"> uh one-forty-eight. <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> didn't Baudelaire hate the newspaper? <EVENT WHO="SS" DESC="LAUGH"/> i mean wasn't that one of his? and so i wondered why he would write something like that </U>
+			<U WHO="S3"> um, <U WHO="S5"> um </U> yeah well uh, because, what he's doing is, what Berman is doing is extending the notion of the <FOREIGN> feuilleton. </FOREIGN>
+				<U WHO="S5"> okay. </U> which wa- those little sort of opinion pieces. if you look_ i should have just typed <OVERLAP> out some of, </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i should've read the thing so </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> no that's okay. but i should've hijacked um, some of Margie's work cuz, as i was saying before i- Margie in in Wilder in comp lit has um, photogra- uh photocopies of the f- of the like the front page of these newspapers, from this time. and there's always like the news, and then a line on the front page and then this like opinion piece or observation piece, very much like, Bart- Barthes was writing, those mythology pieces, from the fifties in in um, Le Monde those are just sort of that same style, um, we don't really have a tradition in the_ in American papers we have the op-ed page. but there's no real tradition of, um, i mean there's a tradition of, the news, oh, is it the syndicated, sort of news discussant? i don't even know what to call them anymore. do you know what i mean? you know like the K- you know the Hamblin the, all those i can't think of their names right now cuz i'm blanking. entirely. <EVENT DESC="LAUGH"/> on, their names. um, what the hell are they called? um, syndicated journalists? </U>
+			<U WHO="S5"> mhm. that sounds good. </U>
+			<U WHO="SU-f"> mhm </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"> commentators? <EVENT DESC="LAUGH"/> can't remember what they're called but, <EVENT WHO="SS" DESC="LAUGH"/> those people. that's what we have here. but the <FOREIGN> feuilleton. </FOREIGN> so what what um, what he's doing is making this, it's not roughly equivalent to the op-ed piece, i mean i think that's not quite right but um, so he's, he's actually taking, just the the fact of these things running in the newspaper. <U WHO="S5"> oh okay </U> to say then, that they're in the format of news. yet he's kind of, <U WHO="S5"> mhm </U> pushing the definition of <FOREIGN> feuilleton </FOREIGN>
+			</U>
+			<U WHO="S5"> okay. </U>
+			<U WHO="S3"> columnists. columnists. </U>
+			<U WHO="S5"> syndicated columnists </U>
+			<U WHO="S3"> syndicated columnists. (xx) take me a minute but i got there. <EVENT WHO="S1" DESC="LAUGH"/>
+				<EVENT DESC="LAUGH"/> okay um, right. so that's what he says there. um but, obviously it is true that, by not writing in an established art form he can kind of get away with, a lot more freedom in what he's, in what he wants to, talk about in his observations. just as, in general. <PAUSE DUR=":04"/> so, <PAUSE DUR=":04"/> how else is, Haussmann's, Paris, present here? i think to get to the point about talking about the narrator, realizing how uncommunicable thought is and yet he's just gone through and given us, what he thinks, reading the eyes, cuz of course he believes he can read eyes, um, and sort of saying what the poor, what he believes the poor might be, might be thinking of saying. but what about his relationship to this woman? i mean that's one of the interesting points that i think Berman tries to, flesh out but, i don't know if it's satisfactory. <PAUSE DUR=":15"/>
+			</U>
+			<U WHO="S6"> suggests, something that, um, let me just double check cuz now i'm not sure. i think it suggests, that um, that he could, he could be, could be her? <U WHO="SU-f"> mhm </U> yeah? okay. and um, and i, i don't know i i, i would tend to agree with, with this, especially with, because of that my thoughts, my thought there in like, in the, in italics there and um, and also because, he's addressing her at the beginning, telling her that he hates her, but, uh after this that happened days before but they are still together right? like he's still talking to her and it's, that gives me the idea more that that, that they're like two, sides of the of a single con- conscience. </U>
+			<U WHO="S1"> so they are actually what he says at the beginning. you know that we had promised ourselves that day that we would be two halves of the same soul. <OVERLAP> right? </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> same. </OVERLAP> yeah that's it. </U>
+			</U>
+			<U WHO="S6"> i think that's a possible reading. </U>
+			<U WHO="S1"> that's why he hates her because he did actually see his own thoughts in her eyes. </U>
+			<U WHO="S6"> mhm... </U>
+			<U WHO="S3"> mhm. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> right so there's </U>
+			<U WHO="S6"> and applied to the, Haussmannization of Paris, it would be like, that, conscience of Paris that has been, um, attacked by two, fronts or, that it is now composed of two juxtaposed, sides. <PAUSE DUR=":08"/>
+			</U>
+			<U WHO="S3"> two juxtaposed sides that um, are now proximate. <U WHO="S6"> yeah </U> are now near each other. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S6"> and dangerously near. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> mhm, right. </U>
+			<U WHO="S6"> though he does say that, that there is no, hostile undertone in, in the way they they look at them. </U>
+			<U WHO="S3"> mhm. <PAUSE DUR=":32"/> does anyone else wanna tease anything else out of that poem? <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S4"> i just had a quick question. on the bottom of page eighty-three when it says, <FOREIGN> cette famille d'yeux </FOREIGN> is that supposed to be sort of a, word playish type thing on, <FOREIGN> Dieu </FOREIGN> as well? </U>
+			<U WHO="S3"> um... yes? <EVENT WHO="SS" DESC="LAUGH"/> i don't know. </U>
+			<U WHO="S4"> okay. i'll toss a coin. </U>
+			<U WHO="S3"> ohh </U>
+			<U WHO="S4"> i don't _ i just, i <FOREIGN> Dieu </FOREIGN>
+			</U>
+			<U WHO="S1"> it could work i mean if he's elevating this family. </U>
+			<U WHO="S5"> which paragraph? </U>
+			<U WHO="S1"> uh </U>
+			<U WHO="S4"> the very last line on page eighty-three. </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S5"> well i (xx) </U>
+			<U WHO="S1"> oh, <OVERLAP> oh okay </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that's why um </OVERLAP>
+			</U>
+			<U WHO="S1"> it starts with um <FOREIGN> les chansonniers </FOREIGN>
+			</U>
+			<U WHO="S3"> oh </U>
+			<U WHO="S5"> okay. and then <OVERLAP> the last line? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and then the_ </OVERLAP> yeah and the last line. oh no no no no no not even, um the sentence is <FOREIGN> non seulement j'áis attendri </FOREIGN>
+			</U>
+			<U WHO="S3"> um, (xx) </U>
+			<U WHO="S5">
+				<FOREIGN> famille d'yeux </FOREIGN>
+				<U WHO="S1"> (mhm) mhm </U> (okay) </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S3"> so i, i'm sorry i need to look at this for a second (i am curious) </U>
+			<U WHO="S5"> you said <FOREIGN> famille d'yeux? </FOREIGN>
+			</U>
+			<U WHO="S3"> oh i see what you're saying, <FOREIGN> Dieu </FOREIGN>
+			</U>
+			<U WHO="S4"> right. </U>
+			<U WHO="S3"> took me a minute there. <EVENT WHO="S1" DESC="LAUGH"/> um, </U>
+			<U WHO="S4"> coulda been clearer too. </U>
+			<U WHO="S3"> no no i don't have the French in front of me i left my book at home. um, yeah, <FOREIGN> famille d'yeux </FOREIGN> i don't know, that's a good question. </U>
+			<U WHO="S4"> cuz i saw this being a, a poem very much between, the narrator and <FOREIGN> les yeux des pauvres, </FOREIGN> and not, the narrator and this woman. so she_ i just saw that as sort of Baudelaire needed a situation, um for the narrator to be in so he could see, so he could have this experience. and it just okay. and that's why_ and it ended up working really well, um, but i didn't really see it, as a central part of the text. </U>
+			<U WHO="S3"> right, with the woman. </U>
+			<U WHO="S4"> right. </U>
+			<U WHO="S3"> well i think, when i initially read it i did but then because, i w- i actually, in a sense agree with the reading of Berman, that it's actually him struggling with himself, and the side that he actually can't struggle with is the the feminine, side, this impermeable side. <U WHO="S5"> mhm </U> which is very interesting in terms of Baudelaire who's um, you can read more about that in Leo Bersani. about, Baudelaire's, problem with women, or this femininity. um that he perceived as uh utterly impenetrable, impermeable. so um... i think, i mean for me personally i read this as someone, who, is both incredibly egotistical, but also, at a point where he's actually conflicted about, what he sees in front of him. </U>
+			<U WHO="S1"> he has a conscience. </U>
+			<U WHO="S3"> um, s- so, i mean at a- at a certain point, um, at the bottom of the paragraph on page one-fifty-four in the Berman he says, um, it just is so cuz he's he just does the reading about the man who hates that part of himself. <SEG TYPE="READING"> maybe the deepest split is not between the narrator and his love but within the man himself. if this is so it shows us how the contradictions that animate the modern city street resonate in the inner life of the man on the street. </SEG> so um, on the one hand i agree that, it's the relationship between him, and these people he sees that brings out the conflict in him but, um, you know the woman there is used, to be kind of this other half of him. <U WHO="SU-f"> mhm </U> which is, you know, very, i mean i'll say very Baudelairian, whatever that means. <U WHO="SU-f"> mhm </U> but, </U>
+			<U WHO="S2">
+				<OVERLAP> are you </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> um oh </OVERLAP> sorry, </U>
+			<U WHO="S2"> are you s- suggesting a, a link between the narrator and the street? is that what i'm, hearing? or am i just </U>
+			<U WHO="S3"> a link between the narrator and, </U>
+			<U WHO="S2"> the street, like, the conflictedness of the narrator (is enlarged to the half-finished half rubble.) are y- were you saying that or am i just hearing you, differently? </U>
+			<U WHO="S3"> i'm saying that he is feeling conflict based on, what he sees in the street. <U WHO="S2"> oh okay. </U> or, or you know in, this, this new, <U WHO="S1"> mhm <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> these </OVERLAP> these issues of new proximity. these new relations new new encounters that can happen, in the city. </U>
+			<U WHO="S2"> alright </U>
+			<U WHO="S6"> when Berman says that that, in the, re- m- uh, in the barricades they could be at, different, on different sides, i would, yeah i would see that, i would say that here, at least it's presented that way because uh, because the poor and the narrator are, all talking through their eyes only right? whereas the, the woman or that feminine side is, who's shown with different kinds of eyes because her eyes are like, almost perverse <EVENT DESC="LAUGH"/> in the way <U WHO="S3"> right </U> he presents them. <U WHO="SU-f"> mhm </U> um she uses her mouth. she's the one that actually uses her mouth to talk right? <U WHO="SU-f"> mhm </U> it's like a, differentiation there of the senses. </U>
+			<U WHO="S3"> mhm. <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S1"> just going back to your um, word play very quickly. you know that would also work, <EVENT WHO="S4" DESC="LAUGH"/> if you see what comes after it. because then he says, that um, he he felt, ashamed like right in front of this <FOREIGN> famille d'yeux, </FOREIGN> you know. and he uses the word <FOREIGN> honteux </FOREIGN> which is something you know that you could, use, in a religious context. you know who do you feel ashamed in front of? God right? </U>
+			<U WHO="S3"> mm. right. <PAUSE DUR=":05"/> i mean i i, think that this... i don't know if anyone's written on <FOREIGN> famille d'yeux </FOREIGN> but um, what it reminds me of is, Baudelaire's fascination with windows. and being able to, look through the window and read a scene. um, and instead of like a nar- you know a narrator, um, in s- in some of the other poems we read in Les Fleurs du Mal it's the narrator reading scenes through a window, but there's never, any other external interaction. so i actu- i mean so, while i argued before that the, the sort of central figures of the poem are the man and these people, actually to also have that, encounter with the woman is central to, both the issues that you brought up of, the privacy, put in, put in public display. but that the couples are_ the couple, together are as another kind of family, are the ones on display. right? and that it's not the poor, the old the decrepit that that, Baudelaire's narrators often, see when they look into a window. <U WHO="SU-f"> mhm </U> you know it's not the old woman it's not the widow it's not the prostitute, it's actually, he- i mean you had said, there's a kind of reversal here. when you initially started talking about it and i think that that's right. pointing to, um, Baudelaire's kind of f- fascination with the look. and all of_ here much more complex than in some of his earlier, some of his earlier work. </U>
+			<U WHO="S6"> in the, in the earlier works, like his, windows were more like, that kind of, i don't know, what it's called like mirror, window or something like, <U WHO="S3"> mhm </U> it's only, you can only see, one way <U WHO="S3"> mhm </U> but in this one it's, transparent on on both sides. <U WHO="S3"> right. </U> it's uh it's a wall, but at the same time, it permits communication. </U>
+			<U WHO="S3"> right... only, our man doesn't really wanna communicate. <EVENT WHO="S6" DESC="LAUGH"/>
+				<PAUSE DUR=":04"/> what about, you you mentioned that notion of the barrier, being on both sides of the barrier, that, works really well in relationship to the other poem, The Toy, <U WHO="S1"> mhm </U> The Pauper's Toy, <U WHO="SS"> mhm </U> in terms of the barrier. and um, i said The Rope um, which is my favorite which doesn't really deal with barrier but um, so maybe we'll talk about The Pauper's Toy, and then go back to um, The Rope just to say a few things about it. um </U>
+			<U WHO="S1"> actually could i, <U WHO="S3"> yes </U> can i (get) one last or, ask one last question? <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> please </OVERLAP> continue i stopped that conversation i didn't mean to. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh no </OVERLAP> it's okay i was just wondering. isn't it kinda strange though that um, this like meeting or like clash between like, the classes, occurs? because of when i think of Haussmannization i think of, like, the separation right? so that, they've parcelled out the city, and they separated the classes so that they don't have to see each other as much anymore. um, you know you think of the, the big boulevard and the good cafes being on one part of town where, they can enjoy themselves without having to go through this guilty process of looking at, the masses. yes? so is this sort of like a transitional phase when it's happening but, so they can sit in their cafes but, you know they still have to go through sort of like, the annoying experience of feeling this guilt? or </U>
+			<U WHO="S3"> well if you remember part of, Haussmann's project was to um decimate, in his words rehabilitate, the poor neighborhoods. <U WHO="S1"> mhm </U> and he built those boulevards but in building the boulevards, the, the real estate speculators came in, and they put in those, those bourgeois houses so for instance, i'm gonna draw this on the board. i mean this is not exact but, um, say you would have these like pockets of neighborhoods, of working class neighborhoods. you know like that. and you know Haussmann just came and just basically blasted through like that. <U WHO="S1"> mhm </U> broke up the most, insidious sort of, uh, well what he saw was insidious were working class, um, neighborhoods of strife. but then, obviously like this pocket is still here, so on, so what they would do is they would line, the boulevards with these bourgeois, apartments which were the same. so you actually have, where you would have had the bourgeois in their own separate neighborhoods, <U WHO="S1"> mhm </U> you actually have this kind of proximity which never existed before. <U WHO="S1"> mhm </U> and so, with the speculation, the real estate speculation you end up with, you know so all of this is basically out. but you have pockets so, you would, actually end up with, like cafes, on these corners, that actually are both part of the bourgeois neighborhood and the working class neighborhoods. so you ended up with these really interesting, strange little pockets but, because, one of Haussmann's, i mean actually in hi- d- in his favor, he did not reveal, where he w- where his plan was going next. because he didn't want real estate speculation to take over. i mean to his credit i guess one could say that, he knew that with the, the d- demolition of those neighborhoods, he would be providing the space, in which these bourgeois apartments could be going up. </U>
+			<U WHO="S4"> didn't he also not, give out the whole plan right away cuz he didn't think it would be accepted, cuz it was gonna cost so much and, <OVERLAP> be so huge and </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well right. </OVERLAP> right, i mean there's that too. <U WHO="S4"> right </U> i mean one could say he did it out of wariness. Willms says he does it because he realized that the the, the problems of speculation, <U WHO="SU-f"> mm </U> um, sorta like insider trading he would be, he would be, he would be vilified if, if that sort of got out. <U WHO="S2"> (xx) </U> so those_ i'm sorry go ahead. </U>
+			<U WHO="S2"> also wasn't like the uh, stated objectives to open up the city, <U WHO="S3"> mhm </U> to all of its inhabitants? whatever, probably (everyone <OVERLAP> wouldn't) </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> mhm </OVERLAP>
+				</U> understand that. <U WHO="SU-f"> mhm </U> yeah but um, that can also be, um, that <SEG TYPE="READING"> i can't stand those people with their eyes wide open like entrance gates, </SEG> so that can be, words that the woman says in her like, hatred or contempt of the people. <U WHO="S3"> mhm </U> that entrance gate can be symbolically you know <OVERLAP> what </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U> allows them to be there, even though, <U WHO="S1"> and there ya go </U> the fact that there has to be an entrance gate between them shows that (xx) (the barrier) </U>
+			<U WHO="SS">
+				<OVERLAP> mhm mhm </OVERLAP>
+			</U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="SU-f"> mhm </U>
+			<U WHO="S6"> and in a sense they're <EVENT DESC="COUGH"/> excuse me. they're always there also because, <U WHO="SU-f"> mhm </U> because that, those are the ruins that he, that he sees that can also see ou- outside, this they are all reminiscent of the, <U WHO="S1"> yeah </U> of those poor neighborhoods. </U>
+			<U WHO="S1"> ruins, yeah, of a different sort. yeah </U>
+			<U WHO="S3"> right. i mean they could be actually read as, the the newest class of homelessness. <U WHO="S1"> mhm </U> newest class of homeless, Parisians. <U WHO="S6"> uhuh </U> and i always imagine that when they're staring in the cafe they're thinking, oh bread food. <EVENT DESC="LAUGH"/> you know. um and so that, that notion that um, they would be seeing beauty actually also points to, that he reads in their, in their eyes beauty, points back to Haussmann's beautification plan. <U WHO="S1"> mhm </U> right? he was, part of Haussmann's plan was, about, beautifying the city. <U WHO="S6"> makeup </U> using these new perspectives what? </U>
+			<U WHO="S6"> makeup <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah makeup right. right. um, exactly. </U>
+			<U WHO="S6"> perhaps they could also be, when they looked inside, they could also be, <EVENT DESC="LAUGH"/> um <EVENT DESC="LAUGH"/> i don't know if i'm stretching this too far <EVENT WHO="SU-f" DESC="LAUGH"/> but they could also be, thinking about like, this was our home. this used to be our home. right? </U>
+			<U WHO="S1"> yeah right. </U>
+			<U WHO="S4"> right. </U>
+			<U WHO="S3"> and look at the gaudiness that has taken over, <U WHO="SU-f"> mhm </U> you know, what used to be our living room. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> much better </OVERLAP> as a shack. <EVENT WHO="SS" DESC="LAUGH"/> right. </U>
+			<U WHO="S3"> right. i mean we talked_ i mean i'm gonna sort of get off the topic just for one second before we go to The Pauper story but um, one of the clips from the film last night, um, i love that clip of like the happy living, the filthy city living and i'll show you that clip again, when we talk talk about it. but um i was reminded when i was a kid, in the nin- early nineteen seventies houses were destroyed in our, the village i lived in to put in a highway. because through various federal programs and taxation programs, little towns could group together, and help finish highways. so this highway that was constructed between the city of Rochester and the, little town i lived in, was paid for along the way by three little towns. and they just like, wrecked these beautiful old homes that p- most people lived in and most of the people who lived in those homes were, um the working class but they were old ho- sort of large old homes and many of them had like tons of kids, or they were elderly, and they basically just, through eminent domain, the the, city, or at that point the town maybe the state bought the houses from the people for about thirteen thousand dollars which was market value. and the only homes that any of those people could afford were mobile homes, in the next county. right? so i mean that kind of, displacement, is is the kind of displacement that we're talking about here. but, for in Haussmann's time most the people are renters, so they get nothing. right their homes are just basically destroyed and they have to find housing elsewhere. so even with the notion of eminent domain and fair market value, there's no real compensation, that can be, that can be given. </U>
+			<U WHO="S4"> well for Haussmann it would be the jobs that were created, would be the, minimal sort of compensation you'd get. <U WHO="S3"> right. </U> we'll kick you out but you can work where, yo- you can help build this thing that, is gonna cover your old home <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah, yeah </U>
+			<EVENT DESC="END FIRST TAPE/ BEGIN SECOND TAPE"/>
+			<U WHO="S3"> so, <EVENT DESC="LAUGH"/> ah The Pauper's Toy. <EVENT WHO="S1" DESC="LAUGH"/> i like to talk about this one um, in fact, actually maybe we'll talk about this and instead of talking about The Rope we'll go, to, clips from the film because this actually, does that really interesting juxtaposition, here of course poetically, and in the film visually but, um, i, i re- i think that it ki- it'll work out. i mean we can talk about sort of montage, um in relationship to these prose poems and and the films. so um, the presence of, Haussmann, in this poem <PAUSE DUR=":07"/>
+			</U>
+			<U WHO="S4"> well again the proximity. just, (we're already on that.) </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S3"> right the possibility for proximity because of those boulevards, that now go out, to this, this, this kind of a neighborhood. it's still part of the city but just outside, right? um homes with gardens. <PAUSE DUR=":25"/> how 'bout the juxtaposition that we saw in The Eyes of the Poor? is there a si- a similar juxtaposition, occurring here? <EVENT DESC="COUGH"/> excuse me <PAUSE DUR=":09"/>
+			</U>
+			<U WHO="S6"> yeah i think so. <U WHO="S3"> mhm </U> yes, because, <U WHO="S3">
+					<OVERLAP> in what? </OVERLAP>
+				</U>
+				<OVERLAP> he talks about </OVERLAP> talks about the symbolic bars separating two words, two worlds. </U>
+			<U WHO="S3"> right, exactly. okay? and what's behind one set of bars? </U>
+			<U WHO="S4"> a rich kid and his fancy toy. </U>
+			<U WHO="S3"> right. um, right, the kid and the toy sort of similarly on display. um, and then on the other side of the grate, this is that sort of dialectical movement that keeps, that that Benjamin talks about that Berman talks about, on the other side, <SEG TYPE="READING"> not in the garden but amidst thistles nettles, </SEG>
+				<EVENT DESC="LAUGH"/> um, you have, you don't have the whiteness of a pretty castle you have, the dirty puny grimy child. <PAUSE DUR=":04"/> and, so it's not just a distinction in the children but then it becomes a distinction of_ in the toys. <U WHO="SU-f"> mhm </U> right? so the immobility, of the one toy, um, the shiny i- the shininess, the spiffiness of the of the doll, like the kid, in comparison to, the toy in the box which of course is a </U>
+			<U WHO="S4"> rat. </U>
+			<U WHO="S3"> rat. why the fascination though, by the rich kid? <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S4"> well, maybe he's, i mean depending on, you know how he's been raised and what not, maybe he's never, come into contact with a rat so he doesn't ha- think you know, necessarily these negative connotations that people tend to have, tend to associate with rats but also i mean, it's alive it's something that's living and it moves and his toy doesn't move but this kid's toy moves. <U WHO="S3"> right </U> you know? </U>
+			<U WHO="S3"> so when they say he's greedily inspecting, a rare and unknown object, how, how is, his class, set up against, i mean he they're u- obviously Baudelaire's using this toy but how is class? i mean what're the words that denote him and his class just in that little, why greedy? <PAUSE DUR=":04"/> ho- why is the rat rare and unknown? i mean w- what are those terms, what is the connotation of the ter- those terms? </U>
+			<U WHO="S4"> it's exotic. </U>
+			<U WHO="S2"> it's all about commodities. and um, like the ephemerality of the commodity because the thing that was bought with a lot of money is thrown by the wayside, for this thing plucked out of, plucked out of life, extracted the toy from life itself, um, is that which (gains) attention. and you have to consume it, because you're not, you know who knows when this kid's gonna see it again? <PAUSE DUR=":08"/>
+			</U>
+			<U WHO="S3"> you wanna add something? </U>
+			<U WHO="S2"> no i'll wait. <EVENT WHO="SS" DESC="LAUGH"/> well okay, if nobody else has anything to add, <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S1"> go ahead. </U> i'm just curious about this whole romiticent- romanticization of childhood, um, where, you know in the cafe these adults, the father and the, um, and the two people, inside the cafe, they looked at each other but what their gaze is directed to, is, the opulence. you know, the children, uh i don't know if they're supposed to be eth- un- o- supposed to seem more untouched by, these forces at work so they look towards the rat instead of the shiny toy. you know um, and we see that in the films, where children are the hope you know and, and when we focus on the, the New England village it's all about the kid running around with his dog, um, this is so romanticized and so, <U WHO="S3"> mhm </U> seen as the innocence and, the two children latched to each other fraternally, <U WHO="SU-f"> oh yeah </U> with teeth of equal whiteness um, <EVENT WHO="S4" DESC="LAUGH"/> i was jus- i'm just curious about that, and how you guys read it and what you think should be made of it. because we also get the references to childhood from, the earlier articles (i think it) was it Benjamin who wrote them? who wrote about modernity in childhood? or, de Certeau? </U>
+			<U WHO="S3"> de Certeau well <U WHO="SS"> de Certeau </U> what both Benjamin and de Certeau talk about experiencing modernity as a child. <U WHO="S2"> right yeah </U> as child-like experience. the newness of it. the excitement of it. </U>
+			<U WHO="S2"> yeah so i was thinking that it had to relate somehow to that, but, i'm not sure exactly how. <PAUSE DUR=":13"/>
+			</U>
+			<U WHO="S6"> yeah i don't know but, but it's very interesting, <U WHO="S2"> yeah </U> especially because uh, like the way, that, discourse of childhood as a future and modernity as a future come together right? <U WHO="S1"> mhm </U> and they become like childhood, cuz modernity is the future. <PAUSE DUR=":13"/>
+			</U>
+			<U WHO="S2"> because he definitely imposes class on these, kids. you know we have the one who is lovely and the other, you know the other categories of ordinary and poor. which i think is really funny, because the o- poor children aren't ordinary. but um, i mean so there's something being imposed on them. </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S4"> maybe at this point they're too young to understand, you know capitalism and and value that's placed on an object. they just see the object, for what it is. you know they don't <U WHO="S2"> right </U> they don't put prices on things yet so, they're just looking at the actual thing. and to them what's, you know cooler is the rat. <EVENT WHO="S2" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> mhm </U>
+			<U WHO="S6"> when he says, he looks at it greedily, <U WHO="SU-f">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> he's </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> already </OVERLAP> like insinuating there's this, even if it, he can't_ he cannot price it he's, he's got the attitude already. </U>
+			<U WHO="S4"> oh well yeah yeah i mean you're gonna be raised by your parents and you're gonna kinda pick up on that but i think he's still too young to really be like, you know, fully cognizant of, you know capitalist ideas and what not. </U>
+			<U WHO="S6"> at least at this point they, their, their teeth are still, equally white. <U WHO="S4"> yeah </U>
+				<OVERLAP> but yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> actually just i think that's </OVERLAP> probably one of the least satisfying endings, for a <EVENT WHO="SS" DESC="LAUGH"/> Baudelaire poem i've ever read. but i usually uh, expect some sort of Poe-esque ending you know <U WHO="S2"> mhm </U> and you get that with the rat, and they he just sort of has this sort of like <SIC> disingenius </SIC> sort of, i don't know </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> yeah and their, teeth were equally white. <EVENT WHO="SS" DESC="LAUGH"/> uh, </U>
+			<U WHO="S3"> right and the_ but the whiteness, <U WHO="S1"> mhm </U> goes back to the whiteness of the pretty castle. <U WHO="S1"> mhm </U> right? so the white, i mean that's f- for me the, that romanticization of childhood, but that the whiteness, itself which has already come up refers specifically to a kind of castle, struck by the sun, appeared in the background, almost dreamlike. <U WHO="S1"> mhm </U> um, and, while i don't really know exactly how far i wanna go with that um, it seems to me that their, whiteness is such a weird word to come up, in any case that, to come up in those two, ways it's as if, the kid with the rat somehow, meets, the ideal dream, world. um, but still of that you know, meeting it, but in that very romanticized way, as is the whiteness of that castle. </U>
+			<U WHO="S1"> mhm. </U>
+			<U WHO="S2"> uh </U>
+			<U WHO="S3"> yeah. </U>
+			<U WHO="S2"> the the rat in the box um, struck me as similar to the surrealist um, film where they're looking at the hand on the ground. where you know it's what's grotesque but once you, look at it in a different way it becomes fascinating. <U WHO="SU-f"> mhm </U> you know and just the fact that they would have this rat in a box and not have it, you know not be staring at it as it runs around, kind of, links it to- towards that, you know, commodity and, and changing, perspective on it. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S4"> you move it from its natural environment and then it <OVERLAP> gains a value. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> exactly. yeah. </OVERLAP> and that's what i was thinking about <U WHO="SU-f">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> when you </OVERLAP> were saying the dreamscape and linking it to surrealism and all that. </U>
+			<U WHO="SU-f"> mhm </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S3"> yeah it is a very, problematic, i mean it does sort of romanticize them and yet, in one of the other poems that um, you may or may not have read i believe i_ i believe it's the one right before it. um which i'm_ (xx) spending time on The Cake, it's actually number fifteen so it wouldn't have been right before it. that actually the kids are like little um, they're like vicious fighting devouring, um, machines, that they attack the bread, </U>
+			<U WHO="S4"> oh don't they have <FOREIGN> griffes </FOREIGN>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yes they have </OVERLAP> right <FOREIGN> griffes </FOREIGN> what is that? claws right? like an animal. savagely fighting over a piece of bread. <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S4"> it's interesting too in the, footnote, footnote number two. um, <FOREIGN>
+					<SEG TYPE="READING"> l'idee que le joujou est la premiere initiation de l'enfant a l'art. </SEG>
+				</FOREIGN> so it's interesting that they choose, the rat, you know the the the toy is an initiation to art, and yet they choose that, which is not, manufactured. </U>
+			<U WHO="S3"> ohh... </U>
+			<U WHO="S2"> and what do we do with the first two lines, first two sentences, <SEG TYPE="READING"> i want to present an idea of an innocent entertainment, (because there are) so few diversions that are not (wicked?) </SEG> i didn't know how to, link it, to the rest. </U>
+			<U WHO="S3"> well his innocent entertainment at least as i read it is, buying these cheap, toys </U>
+			<U WHO="S2"> oh so it's his own it's not the kid's entertainment? </U>
+			<U WHO="S3"> no i think it's the, narrator's entertainment... </U>
+			<U WHO="S2"> oh okay. </U>
+			<U WHO="S3"> does that make sense? he goes and buys, <SEG TYPE="READING"> when some morning you go, </SEG>
+				<U WHO="S2"> right </U>
+				<SEG TYPE="READING"> out, buy these little toys and give them to kids along the way and see their reactions. </SEG>
+				<PAUSE DUR=":04"/> and then, gives one example, of, an event where he actually didn't even have to give a toy away. <EVENT WHO="SS" DESC="LAUGH"/>
+				<PAUSE DUR=":04"/> the English is quite amazing because in that paragraph where, the rich kid is greedily inspecting it like a rare and unknown object which i read as, a kind of in the, acquisition mode like you just said. remove, the rat from its natural envirent- environment it makes a commodity of it. actually he sp- perceives it as a thing he does not have. and therefore wants it. he's already in the, um, acquisitional mode, of the bourgeois parents. right? and then seeing it as a rare and unknown object as if it were, in fact a piece of art. right? he's already, <OVERLAP> commodified it. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> do you think though </OVERLAP> that he's, i don't i think that's a kid thing to do. not not a kid of bourgeois parents necessarily just that, i don't have it i want it (mom.) <U WHO="S3">
+					<OVERLAP> that could be. </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> like a little a kid reaction than a a socioeconomic, <U WHO="S3"> right. </U> one. but i don't know because it depends really on how old these, these kids are, too. you know i i me- i don't_ well at least i don't really have a clear idea cuz if, to me it makes a difference if they're five or perf- or if they're eight. <EVENT WHO="SU-f" DESC="LAUGH"/> you know there's a difference to me. so i don't <U WHO="S3"> yeah. </U> cuz developmentally they change so much so rapidly that when they're that young that you don't know, psychologically what stage they're at yet and </U>
+			<U WHO="S3"> mhm. well it's still, i mean i still think that there is a kind of romanticization of childhood. but one that's kind of problematic and, i mean we saw it in the films last night absolutely. it's like when there is, despair one can always fall back on the children. children are the future. you know and in that sense i mean this, this this poem does that but obviously the w- earlier ones don't and then th- something like The Rope, <EVENT WHO="S6" DESC="LAUGH"/> where actually, the piece of rope, that the kid hangs himself with, is commodified because a kid killed himself on it. right? so there's this, lu- there's a kind of, i mean i wanna read more irony in this, Pauper's Toy but i can't, i can't dig it out at the moment. i can't you know, flesh it out. <PAUSE DUR=":05"/> so, unlike, i think, the romaticized call to childhood as a chime of as a time of innocence, that we saw in the pastoral vision, of um, of the films last night. both, in um Metropolis, right? the man's heart, is softened by the emotional hinge, by seeing you know this beautiful blonde woman with these children. and then of course in The City which, takes as its point of departure, giving healthy, sanitary conditions to children who are the future. and as i said of course the French doesn't, you know, kids are not the same. kids are not viewed in the same way, the romant- you know the the the emotional hinge is th- is the romance between the couple. <U WHO="S4"> mhm </U> um, but th- it does it does problematize, Baudelaire. you see it in Zola. we'll see it in, we'll see it in Le Ventre de Paris. um, in oh that you see it in other Zola novels in other Balzac, Hugo, uh obviously, the lost innocence of childhood lost. death of a child. those kind of like, <PAUSE DUR=":06"/> i should read more on this. i mean i i don't know if anyone_ i've never, really dug through kind of thematics of childhood in Baudelaire and, my fear of course would be that it would be very literal and therefore not very interesting. but there might be something out there, that actually, tries to, sort of, um get at those problems. cuz most of Baudelaire's writing in this, has this very ironic tone to it. so, so the disappointment maybe is some s- that we feel in reading this is just, either throwing us off the path, derailing us in some way, from his ir- from his his sort of, his ironi- i mean he calls these kids like little scum, right? th- the pariah, um, you know, if it could wipe awe- now he's talking about this <SEG TYPE="READING"> impartial i might discover this kid is not so horrible, if it could wipe away this repulsive patina of privation just as a connoisseur's eye detects, an ideal painting beneath, the coachmaker's varnish. </SEG> you know a kind of, you know, i mean i'm using my voice to express a kind of irony there but, i don't know. </U>
+			<U WHO="S6"> and so why, why would he choose, the teeth and the whiteness as that space where they come together where they are equal right? <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i mean that's, </OVERLAP> a puzzling question. <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S3"> the_ i i will tell you in secret the undergrads who read this poem, made an argument about you know, kids brushing their teeth. <EVENT DESC="LAUGH"/> which, i'm glad none of you tried to, make that argument here today. <EVENT WHO="SS" DESC="LAUGH"/> cuz i had a hard time keeping a straight face, when they were making that argument. <EVENT WHO="S2" DESC="LAUGH"/>
+				<OVERLAP> they both brushed their teeth. </OVERLAP> they both listened to their parents like they had fluorinate, Fl- Fluoride in their water and they brushed their teeth. i'm like, whose world are you, like talking about? Colgate didn't exist in the, eighteen fifties. <EVENT DESC="LAUGH"/> anyway. so, but why the teeth? i mean Baudelaire's fascinated by body parts, <U WHO="SU-f"> mhm </U> and he writes entire poems about a piece of hair, or like a lock of hair, you know and the other one The Eyes of the Poor so why the teeth here? </U>
+			<U WHO="S2">
+				<OVERLAP> (well it could be) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> could it just </OVERLAP> be, like a linking factor that links them in their youth? if you think that like you know, depending on dental hygiene teeth get worse <EVENT WHO="SS" DESC="LAUGH"/> as you get older and they start falling out, whatever, and when you're young maybe you both have white teeth. </U>
+			<U WHO="S2"> they could just be a symbol for eating, the ultimate consumption. </U>
+			<U WHO="S1"> mhm mhm </U>
+			<U WHO="S3"> right. </U>
+			<U WHO="S2"> in which case, eyes could have worked just as well since, seeing is the same kind of consumption. but, you know </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S6"> yeah but it's not only the teeth but also the the whiteness that's <OVERLAP> that's </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S2"> yeah </U> important there right? and it could be we could_ compare it a little to what um, Jaime was talking about their innocence, and we think about their, what's that called? like the first teeth that fall out? </U>
+			<U WHO="SS"> baby teeth? </U>
+			<U WHO="S6"> thanks the baby teeth. <U WHO="SU-f"> mhm </U> so something that, would, they would lose eventually and </U>
+			<U WHO="SU-f"> yeah, yeah, yeah, yeah yeah </U>
+			<U WHO="SS"> ohh </U>
+			<U WHO="S2"> but also with that, that um, </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> yes? </U>
+			<U WHO="S2"> i think that this, you know thinking, that, this is just a natural thing to do. but if we look in the second paragraph he says, you know he gives this whole, list of what kids do when they're, given something new. they look at it, they don't dare take it, they doubt their good fortune. and then they grab it and run. which, you know is very much a, you know this is mine i have control over it i have ownership. which is kind of what's going on here so, you know even if it is a kid thing to do and i think it is, it also is, tied up with this idea of of controlling and owning. you know which, they're not gonna lose. which is only gonna become, more prevalent. of course i don't know how teeth relate to that at all, but <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> well, we have to think about, hesitation on the brink, the whiteness of the teeth, <EVENT WHO="SS" DESC="LAUGH"/> and um, maybe think about, i'm i'm very of course interested in this sort of, hence the topic for today's class which is like, four, words all ending i believe in -ization. i don't believe i've ever sort of constructed such a wordy title in my life. um, urbanization and regulation. Haussmannization_ oh and boulevards. <EVENT WHO="SU-f" DESC="LAUGH"/> never mind three. um so, um, i mean i think that what we discover at Haussmann's Paris, is that, there is a sense of urbanization without the planner yet, like Haussmann in a sense is the pre-urban planner. um, he's the artist of demolition, not yet so we don't really quite have, at least in the imagination at that time the planner, the urban planner. um, and, what i'm very fascinated by of course is that notion of regulation and the fear of that regulation, becoming a metaphor for the mechanization of everyday life. which is what we see in the films of the twenties and thirties. and i just wanted to run, um two clips by you. that actually, for me point to, that analogy that, Metropolis makes between the factory and the city. that the French film only makes, through a kind of, i would argue a kind of visual, uh reference to Metropolis, it doesn't actually do it itself because, we have the distinction of, sort of prison and the city, military life and and the, or prison and factory military life and the factory. sort of the city, in a sense is, caught up in that but very external to those issues. and um, this is really just at the level of montage. and um... and, um i can only point to, both a sort of interest in um, use tha- using, montage as some kind of aesthetic of fear, um, that these things right? in using the dissolve, the lap dissolves the one becomes the other <U WHO="S1"> mhm </U> seamlessly, that i think is sort of at the core of the fear that we find, in um, in these films, which is very different from, at least, the way that we're reading the Baudelaire and the Haussmann these distinctions that are created. whereas in the twenties and, early thirties those distinctions, are not as clear and i think that's where part of that fear comes in, and i mean i would argue that this montage, points to, that, dissolving of distinction. um and a kind of heightened menace, <EVENT DESC="STARTS VIDEO"/> oops. <EVENT DESC="STOPS VIDEO"/> whoop (we have this we seem to) have, not rewound this... so i'll, just say a few more things. um, Metropolis, you know i don't know if if those of you who know the film at all. but there's even, uh um, a kind of mechanized woman robot woman, at a certain point, who um, is made to be very much like this beautiful woman, that we see, um and so there's not only this fear of having a mechanized life, um but that life can be reproducible. so the level of fear and menace is is um exponentially stronger in Metropolis. there she is, there's the robot woman. <EVENT WHO="SU-f" DESC="LAUGH"/> oh damn damn damn. stop stop stop. i jus- i think i hit fast forward instead of play. (xx) ohh... the agony of technology. okay let's try that again. <PAUSE DUR=":09"/> okay, no. we can fast forward through this. this just tells about, getting speed right when playing the Hammond organ, <EVENT DESC="STARTS VIDEO"/> Metropolis. Rosa Rio, on the Hammond organ playing the original, score. <PAUSE DUR=":06"/> i really hope we get through all this before, okay. <PAUSE DUR=":14"/> okay... so German Expressionism, um <PAUSE DUR=":05"/> is often, called upon as an aesthetic tradition, when invoking this film... so we went right from the city through that lap dissolve to what looks like pistons and the functioning of a factory. this is the dissolve again. and there's, other images of gears, works... and i see something. it looks like a train, gear. <PAUSE DUR=":09"/>
+			</U>
+			<U WHO="S4"> it's always the parts of these machines too the close-ups never the whole <OVERLAP> thing </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U> right there. <U WHO="S3"> a- </U> you have no idea what they're making </U>
+			<U WHO="S3"> right the metonymy. right? that part, stands in for the, the menace. and then the ten hour day gets infused with this as well. okay. and what i wanna get to is the whistle. because the whistle, is the part that's like the whistle of the factory's (al-) is, embedded, within the city. <PAUSE DUR=":04"/> okay and then we have the title, The Day Shift. <EVENT DESC="STOPS VIDEO"/> and we we've seen those men come marching in. okay that in relationship to the French film so this is, made in twenty-six, distributed in twenty-seven, and then the A Nous la Liberte which is, Freedom for Us is from thirty-one, so this is the French, the fear of mechanized life is not attached to the city. it's attached to um, <EVENT DESC="STARTS VIDEO"/> factory life. the mechanization of everyday life through the factory. and so here you have this very interesting dissolve of the record, right the lineup of the men the record to the factory... um, to the clock, and that gear, that the men, all of these men turn this fantastical, maybe that was some kind early form of, clock, punching clock but, there seems to, to be no, regularity with which these men, move that handle. and once again the music. <PAUSE DUR=":06"/> nineteen thirty-one also is, in some ways the beginning of, the fear of fascism in Europe. so that there's also an equation of, fascism with factory life. um, and then this, this choreography of movement, um, also the i mean this fear of being detected i would argue, comes from some of this, that was already been, um made. you know that fear, from the, from the mid-twenties, and instead of having the huge groups of men coming in you have the individual shift change, while the line is still moving. and you just fall into place, put your part on the (track_) so it's even, there's no even stoppage, which you have in Metropolis. of the sh- the change in shift. right? and the police state. <EVENT DESC="STOPS VIDEO"/> so it's really interesting at least for me in terms of film that the police state, the prison state the military state, get equated, by analogy, to the sort of mechanisi- the factory and then the mechanization of everyday life. that the fear no longer comes from, the city itself, which we saw earlier on. so the dehumanizing, actually is coming from work. and you have that long s- you have that sequence of the man sleeping, and the guards telling him work, why're why aren't you working? work sets us free. and then you see, the, teacher saying that to the boys in the classroom they're writing, and that immediately that lap dissolve goes to the men working in the factory. and then back to the guy you know, lounging in the prison yard. so um, now that use of montage, and menace, right? for me, is very distinct from the one in The City. right? which shows, not, fear but progress. right? so, what'll, in that article about city plans and planners, that i, talked yesterday about those the four ways in which, you know the pla- the plan is revealed, the planning is revealed, um, the final one of wizardry, i would actually argue that the films, are the ones that helped produce, the planner as wizard. and you can see that in this, in this sequence so, whereas earlier, <EVENT DESC="ADJUSTING VIDEO"/> oopsy-daisy. right the editing, <U WHO="S1"> uh oh </U>
+				<PAUSE DUR=":10"/> whereas the editing showed fear. </U>
+			<U WHO="S6"> the wizard. </U>
+			<U WHO="S3"> right the wizard, we need the wizard where's the wizard when we need him? <EVENT WHO="S1" DESC="LAUGH"/> okay. let's see... <EVENT DESC="INSERTS VIDEO"/>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> yes </U>
+			<U WHO="S3"> i gave it an extra little shove. <EVENT WHO="SS" DESC="LAUGH"/>
+				<EVENT DESC="STARTS VIDEO"/> but see here we go <PAUSE DUR=":06"/> so we have a kind of um... crescendo. of healthiness in this new planning. music, entertainment, advances in medicine, the farmers' market brought to you. right? the school is the center. <PAUSE DUR=":05"/> romanticization of the children. and using the children, right? <PAUSE DUR=":33"/> is that a sombrero? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> yeah, i saw that. </U>
+			<U WHO="S1"> oh <OVERLAP> this, this was great. oh yeah </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah, gotta love the (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> right? </OVERLAP> so this is this argument i'm making about the montage. it's <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> no longer </OVERLAP> the dissolves right? of that fear of con- conflation it's, editing now to show, <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, </OVERLAP> yeah. </U>
+			<U WHO="S3"> the, the, <U WHO="S2"> the music </U> well the music right? the Aaron Copeland writes the music but then in juxtaposition to there's no longer the dissolve, <U WHO="SU-f"> mhm </U> right? the fear of the overlapping you can actually change this. <U WHO="S1"> mhm </U> right? change these horrible things to </U>
+			<U WHO="S6"> why yes </U>
+			<U WHO="S3"> right. <PAUSE DUR=":09"/> not blight but vision, courage right? that, planner as visionary as wizard. <U WHO="S1"> mhm </U>
+				<PAUSE DUR=":13"/> using childhood, equated with disorder. </U>
+			<U WHO="S1"> oh yeah. </U>
+			<PAUSE DUR=":57"/>
+			<U WHO="SU-f">
+				<OVERLAP> (great) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's </OVERLAP> kinda confused though i mean what are they talking about they're talking about these great big um, metropolises and then the suburbs they're talking about rebuilding, or making new, cities. you know i mean, i- i se- it seemed like they were kind of, going from one to the other. </U>
+			<U WHO="S3"> well, that is, i mean if you look at Haussmann as the great decentralizer, that's why he's so, importantly the predecessor to urban planning. because urban planning at this point, was, building these garden cities or new cities. <U WHO="S1"> mhm </U> which we would call suburbs. but they envision them as these, perfectly insulated little cities. </U>
+			<U WHO="S4"> well those are even still being built today like Disney World has one of those. </U>
+			<U WHO="S3"> oh yeah. <U WHO="SU-f"> yeah? </U> uh what is it called? Happiness? Harmony? </U>
+			<U WHO="S4"> i don't even know. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S5">
+				<OVERLAP> who </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> it's </OVERLAP> scary though. </U>
+			<U WHO="S5"> who paid for this, produc- uh production? </U>
+			<U WHO="S1">
+				<OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh </OVERLAP> this was paid for by uh, the Carnegie <OVERLAP> Corporation. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> oh, </OVERLAP> that's right. </U>
+			<U WHO="S1"> is it, to sort of seduce the taxpayer into thinking that, they should fund this? i mean, and who's the we? you know they kept saying we, we we we. we should provide this for everyone. and then it was the we of the working class. we don't deserve to live like this. (it's pretty) bizarre. </U>
+			<U WHO="S3"> well it was made for the nineteen thirty-nine World's Fair. <U WHO="S1"> oh </U> so the we would be, all of the spectators i think the thirty-nine World's Fair, i think that was the one in Corona, Queens. <U WHO="S1"> mm </U>
+				<U WHO="S6"> probably </U> right? if i'm not mistaken that's the one in, in New York City. so, and that is on the very edge of, New York City. so basically the we is all the people who'll be coming to this. we, do not want blight we want choice. <U WHO="S1"> mhm </U> right? so that we is, a voice of the progress, <U WHO="SU-f"> mhm </U> of the people. </U>
+			<U WHO="S5"> well why would the Carn- Carnegie Foundation or whoever, why would they, why would they want this? </U>
+			<U WHO="S3"> well i'm_ you know this is interesting i'm not sure but you know at the same time there was a British film also called The City also made in nineteen thirty-nine, about the new cities, the the garden cit- what are called in the, in British vernacular you know garden cities. these are called like the new city, uh in in America. i don't know if there's a, if there's one, like one was a consequence of the other. that is the one, for England was made therefore the one in America had to made to prove that we too have this, this pastoral vision of the new city. or, you know vice versa. so, i i'm gonna say it's, two things. one is there is um, a kind of competition of um, developing an ideal living space. there's also a desire to um, sort of decongest, the city. but also that, at a World's Fair you wanna show the world, what, your, technology, can produce. your technology your know-how your American technology and know-how can produce, perfect harmonious living spaces. </U>
+			<U WHO="S4"> and the idea too of the happy worker is a better worker. <U WHO="S1"> mhm </U> and the <U WHO="S3"> yeah oh </U> worker who has a happy family, <U WHO="S3"> right </U> is a better worker too. </U>
+			<U WHO="S3"> right. because you also have leisure time you're not stuck on these roads right? that whole sequence of the roads that ends with the car crashing. <EVENT WHO="SU-f" DESC="LAUGH"/> (cue it up but we don't have time) so, <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> could they, <U WHO="S3">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> could </OVERLAP> they be investing in in those, constructions? perhaps, like, speculating with the </U>
+			<U WHO="SU-f"> mhm </U>
+			<U WHO="S3"> the Carnegie Foundation? or </U>
+			<U WHO="S6"> yeah. i don't know anything about it it's just a question. </U>
+			<U WHO="S1"> oh that's a good question. </U>
+			<U WHO="S3"> it was a philanthropic organization but obviously behind </U>
+			<U WHO="S4"> yeah Carnegie got his money from somewhere. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S5"> steel </U>
+			<U WHO="S4">
+				<OVERLAP> steel yeah. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> steel. </OVERLAP> right? construction i suspect ultimately. </U>
+			<U WHO="S5"> all his neighborhoods (xx,) you know </U>
+			<U WHO="S3"> right <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> all those, steel </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> that's what </OVERLAP> that's what Pittsburgh apparently looked like in the (xx) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> but also like, in a way, </OVERLAP> in a sense i remember that, in this in this, documentary they, they made that transition from that disorganized, vision of the city, like through the airplane and the and the train ride to these, to the cities. <U WHO="SU-f">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and, </OVERLAP> and i guess like in a sense it could be linked to that, to that whole, like um, commercializing of, the um, the train, to to work everyday or something like this. <U WHO="SS"> mhm </U> like pushing people out and and making this railway system work kinda (xx) </U>
+			<U WHO="S4"> actually that just happened, where, right by where my parents live there's a, community that was built and, it's a lotta property but what they, chose to do was, they chose everyone chose to have their houses built on really teeny tiny lots, and that, all of the rest of it's open space that they all share. <U WHO="SU-f"> mhm </U> and they built a train station, <U WHO="SU-f"> mhm </U> to specifically go to Chicago so, people can go to work so they don't have to drive they don't have to be in their cars but they, the, community has its own school, it has its own post office it has, it basically its own little community, in in a town. but it's separate. so it's really yeah and it, and that kind of goes along the same, <U WHO="SU-f"> mhm great </U> (xx) </U>
+			<U WHO="S3"> well i think what's really interesting about that vision, in fact you pointed to the, one of the central issues of this course is about circulation, transportation but that it's the airplane. right? that pa- again the panoptic vision. <U WHO="SU-f"> mhm </U> right that pan- not just the panorama, but the overhead shot, the bird's eye view of what that space could potentially be. so it's again about a particular kind of control, here control, for, you know one could argue practically for health, pragmatically for health reasons, working closer to the to, factories schools in walking proximity for the kids and all that. but actually creating these isola- isolated, no one ever thought about the isolation then, of that community right? from other, nodes of, <EVENT DESC="LAUGH"/> the world. um, but again because it's you you know, the the plane is used here, to make the link. right? over space over time. um, to draw, out the highway, every town will have its own interchange. right? that notion that interchange, would bring some kind of communication. but that in fact is, you know topographically controlled. right? so, i mean there's a lot of questions that this kind of film brings up. um, but actually, we a- we saw all of the potential in that Haussmann. all of what we see developing in the thirties, uh in the late thirties um, where we have to wait for the war for the housing boom, the end of the war for the housing boom in the States, we see, we see in in this kind of a film. and that is described in that article. i mean London basically uses its bombed out city to reconstruct, a better city. um, so these i think these questions i'm gonna put this film on reserve um, The City and all of A Nous la Liberte, and you should feel free to watch them but i think i'll bring that film The City back, when we tal- next week we're gonna see Blade Runner, so we're already pushing, right the construction the control the regu- the the sort of urbanization and regulation, to an extreme. right? um Brazil would be another film that we could see. that would, show some of that same kind of, regularization. so um, for next week i think, let me just quick look at the syllabus. kind of, shut off, dialog there cuz i had that whole theory about montage so if you think about that feel free to come back and talk about it. but um, next week um, it's we're really gonna t- move to_ the article from the Cinematic City is about Blade Runner. Schivelbusch is about lighting the streets. Baudelaire Les Fenetres also you can read more of the Baudelaire you'll see, you can draw back connections but it's really gonna be about like L-A and, um these p- the the postmodern city. um, all of the articles underneath which are either in cinema or the coursepack, deal with, different ways, that sort of culture has dealt with regulation. right? photography in the commune. posters and, um degenerate art, um the Manet one actually doesn't really kind of fit but, it's still very interesting <EVENT DESC="LAUGH"/> if you wanna read it. and we're gonna also talk about the commune, i believe next week. right? as a kind of regulation of space. which is interesting cuz it's seen both as failure of Haussmann, but at the same time, a city that allowed the commune to happen. </U>
+			<U WHO="SU-f"> mhm </U>
+			<U WHO="S3"> alright? </U>
+			<U WHO="S2"> and your presentation is on that last article there (xx) </U>
+			<U WHO="S1"> uh, <U WHO="S2">
+					<OVERLAP> is that right? </OVERLAP>
+				</U>
+				<OVERLAP> yeah </OVERLAP> somewhat. <U WHO="S2"> okay. </U> um, yeah. </U>
+			<U WHO="S3"> so we should read the Prysbylski? </U>
+			<U WHO="S2"> what do you think? </U>
+			<U WHO="S3"> i don't know, i think it can't hurt, i mean it's a very interesting article. </U>
+			<U WHO="S1"> i'll email you guys. i'm not sure how much i'll focus on that, um i'll probably talk about, maybe the commune bring that in and then talk about the other stuff, just you know regulation of space in general. um, i might also talk about the situationists, in the commune. <U WHO="S3"> mhm </U> so, okay. </U>
+			<U WHO="S4"> um, would you mind at all just giving us a hint of what this dee- street distinctions assignment will be? cuz i won't be here for spring break, so if it's something that must be done in Ann Arbor then i need to do it, like, next week right after class or <OVERLAP> something </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay sure, </OVERLAP> the street distinctions that is basically, i want you to map, however you envision mapping, as opposed to essaying, right? mapping the distinction between, um, uh... Liberty, between State and Huro- no Liberty between State, and Main and Huron. between State and Main. </U>
+			<U WHO="S6"> can you say that again please? </U>
+			<U WHO="S3"> sure, i want you to map, the distinction, between, Liberty Street, <U WHO="S6"> mhm </U> between State Street and Main Street that, so those, f- five blocks, and, so Liberty Street in relationship to Huron. that's also along that those same five block area from State to, Main. so actually two parallel, streets. <U WHO="S1"> hm </U> Washington is really a liminal space but, i'm ignoring it. <EVENT WHO="S4" DESC="LAUGH"/> because it is, a liminal space. <EVENT DESC="LAUGH"/> um so that's what that assignment is. so mapping, and you can ma- i mean you can imagine mapping in anyway you want to. conceive of mapping in any way you want to. so um, i would love your essays, of the experience. i already have one, in (bag) form. <PAUSE DUR=":06"/>
+			</U>
+			<U WHO="S1"> Carina when are your office hours? </U>
+			<U WHO="S3"> Tuesdays from one to three. but if that doesn't work with_ for you you should contact me to see if there's a better time. um, i'm gonna be on campus sadly, for myself, a lot next week. <U WHO="S1"> okay. </U> but, fortunately for people who wanna come talk to me. and if you wanna come talk to me about papers, just email me and then, i i mean emailing me first and saying like i wanna come talk to you about papers, sets me up, to kind of know like, what you wanna (xx.) </U>
+			<EVENT DUR=":12" DESC="NO SOUND"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

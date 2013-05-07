@@ -1,0 +1,347 @@
+<!DOCTYPE TEI.2 SYSTEM "\\lsa-f4\eli\micase\Transcripts\AllTextsXml\micase-prag.dtd">
+<TEI.2 ID="adv700ju023">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Honors Advising </TITLE>
+				<TITLE> Rackham Div: NA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> ADV700JU023 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English. Ann Arbor, MI: The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="52">
+						<DATE> July 7, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Carrie Sue Kay Sulzer, Matt Murphy </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Carrie Sue Kay Sulzer </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Eric Breck, Bonnie Malczewski </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> John Swales </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 9/21/99 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="4"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="4"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NRN" ROLE="ST, Advisor" SEX="F" RESTRICT="NONE" AGE="4">
+					<FIRSTLANG> EST </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Honors Advising Office, Angell Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> so. i see that you're from Hartland Michigan <U WHO="S2"> yes </U> this is, right up the road </U>
+			<U WHO="S2"> mhm, like forty minutes from here <U WHO="S1"> yeah </U> mhm </U>
+			<U WHO="S1"> okay, and uh, you say that you're interested in prebusiness and economics </U>
+			<U WHO="S2"> i was i don't think that i am anymore <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> okay cuz you write a lot about international business. </U>
+			<U WHO="S2"> mhm i wro- i w- i'm interested in the um, international aspect, <U WHO="S1"><OVERLAP> uhuh, uhuh </OVERLAP></U><OVERLAP> more, of a </OVERLAP> um, of a, program or whatnot so, like the international, business i was gonna do, it's a really, you know open field, you know like all that stuff but i don't, think that that's what i wanna do anymore, so </U>
+			<U WHO="S1"><Q TYPE="WF" SUBTYPE="L"> so what, what changed your mind and what has it been changed to? </Q></U>
+			<U WHO="S2"> um, i, don't know if i wanna sp- like i wanna experience like you know, cultures and and the world and and <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> everything and </OVERLAP> and business would be get me th- to these places but i don't know if i wanna spend all my time behind a desk, not really enjoying where i am, you know, like having to d- work with numbers all the time and like, not really being out, doing something a little more interesting maybe like flavorful in any case so, i thought about um, i don't know if i, i mean even if i, ugh i just don't think business is and i, i have lots of other interests like um, that are a little bit more like, paleontology or astronomy or <U WHO="S1"> oh </U> international religion or uh not religion international relations, so, those things i wanna_ i think i'm gonna concentrate more on, i don't think i wanna do the business. </U>
+			<U WHO="S1"><Q TYPE="PF" SUBTYPE="L"> have you done any digs or anything like that? </Q></U>
+			<U WHO="S2"> no<PRAG TYPE="EVN" SUBTYPE="POS"/> i'm really like dinosaurs like fascinate me like that stuff fascinates me but i don't know if that's like a career choice yet but i, was looking through the course book and i know they offer like a w- half a term class or something, <U WHO="S1"><OVERLAP> one of those </OVERLAP></U><OVERLAP> that if i had </OVERLAP> space <U WHO="S1"> geology short courses </U> mhm <U WHO="S1"> mhm </U> that i could, like, take and see if i, if it was worth it that i should go into, <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> you </OVERLAP> know more depth or if that was just sort of like okay, i l- i like it but i don't wanna, like study that so i don't know. </U>
+			<U WHO="S1"> both geology and biological anthropology, will lead you, that way. <U WHO="S2"> mhm </U> um, geology has got this one course called i think Dinosaurs and Other Failures <U WHO="S2"> mhm </U> is that the <U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> one </OVERLAP> that you noticed? yeah, so a lot of, it_ that's a very, you know_ <PRAG TYPE="EVN" SUBTYPE="POS"/> i mean_ it's kind of a fun course actually <U WHO="S2"> right </U> and i think, you know we're all interested in triceratopses and woolly mammoths <U WHO="S2"> right </U> you know and so on and it talks about what, all of the various theories about why it is that they, <U WHO="S2"> mhm </U> you know <U WHO="S2"> mhm </U> became extinct and why they no longer exist you know we've heard all of the, you know big uh, meteors coming from outer space <U WHO="S2"> right </U> and it, becoming too cold for them and so they talk about all of these various theories about what happened to them, and biological anthropology deals more with, humanoid skeletal remains, <U WHO="S2"> mhm </U> so, it is um, in biological anthropology it's really sort of the crest of the wave, uh work right now is being done in the whole field of is there a common ancestor or did a humanoid species, spring up or <U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> exist </OVERLAP> in various places in the world, <U WHO="S2"> mhm </U> not just in Africa, but also in Asia, and maybe also in southern Europe <U WHO="S2"> mhm </U> um, and, two of the people who adhere to this second theory, are two people who are in the biological anthropology department here at Michigan. and they have just, written a book that, you know now is, is one that's really being <U WHO="S2"><OVERLAP> right </OVERLAP></U><OVERLAP> discussed in </OVERLAP> academic circles. um, but uh, you know so, because this is kind of a, a controversial sort of <U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> issue in </OVERLAP> biological anthropology right now, but a lot of that too is paleontological <U WHO="S2"><OVERLAP> right </OVERLAP></U><OVERLAP> work, </OVERLAP> archeological work, <U WHO="S2"><OVERLAP> right </OVERLAP></U><OVERLAP> digging, </OVERLAP> you know now with all of the new s- <U WHO="S2"><OVERLAP> yeah </OVERLAP></U><OVERLAP> all of the </OVERLAP> new technology with looking at, D-N-A and so on, <U WHO="S2"> mhm </U> that you can, extract from something that's you know, thousands of years old to, <U WHO="S2"> mhm </U> to give you all sorts of clues about what, you know it might have been. um, how this creature might have lived and how it existed and, and so on it just uh,<PRAG TYPE="EVN" SUBTYPE="POS"/> i think it's really very exciting work. <OVERLAP> and </OVERLAP></U>
+			<U WHO="S2"><PRAG SUBTYPE="POS" TYPE="EVN"/><OVERLAP> yeah </OVERLAP> i find it, like, absolutely fascinating and that's, one of the things i don't know if i- i wouldn't wanna be in a career or studying a major that, is not that interesting to me i'm just doing it because it's_ i could be successful, or whatever i think i'd rather, stick with something that's more, um i could be more involved in, and, <U WHO="S1"> mhm </U> and that's why, and and that's why_ also looking at like um, foreign relations and foreign affairs like <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> dealing with, </OVERLAP> people <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> more </OVERLAP> and um, issues that i can like be involved in and like um controversial things that, you know debatable topics not just something that's like, like doing math, like a_ you know plugging in numbers type of a thing all the time so </U>
+			<U WHO="S1"> being an accountant </U>
+			<U WHO="S2"> yeah i could <EVENT WHO="S1" DESC="LAUGH"/> not be an accountant <EVENT DESC="LAUGH"/> either, never </U>
+			<U WHO="S1"> oh dear well, now Dr Crown talked about rules and regs and degree requirements and what it is that you need to get out of here and, i don't wanna talk about, what you need to do to graduate, i wanna talk about, how your interests will translate into the courses that you wanna <U WHO="S2"><OVERLAP> okay </OVERLAP></U><OVERLAP> take your </OVERLAP> first semester. so one thing you and i know is that you're going to be taking either Great Books <U WHO="S2"><OVERLAP> right </OVERLAP></U><OVERLAP> or Classical </OVERLAP> Civilization, and the other thing, we know is that by using the results of these, placement tests we will kind of decide what other courses, you need to take which other courses you want to take. uh, the first thing here, is that you placed into the Spanish two-thirty-one, <U WHO="S2"> mkay </U> which is the third semester of Spanish. <U WHO="S2"> okay </U> so, if you want to continue with Spanish it means that you are to take two more semesters of Spanish. <U WHO="S2"> mkay </U><PRAG TYPE="ADV"/> and if you wanna continue with Spanish, my strong recommendation, is that you do it, now, instead of waiting until next year, <U WHO="S2"> right </U> or the year after that <U WHO="S2"> right, um </U> so that's one decision you're gonna make. <U WHO="S2"> okay </U> am i gonna do Spanish, am i gonna switch to another language. </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> then, uh, math and chemistry are a little bit murkier, because, if you had said to me gee you wanted pre-med, you wanted a biology concentration that's really what you wanted to do, then i would say well you gotta take math and, chemistry, because you need chemistry before you can take biology and ma- you need a year of, math if you're gonna be a biology concentrator you need two years if you're gonna be doing microbiology or something like that, <U WHO="S2"> right </U> so you'd better get started with the math right away, but, your interests to me, don't, s- don't necessarily demand, <U WHO="S2"> mhm </U> that you do chemistry and math right away, <U WHO="S2"> mhm </U><PRAG TYPE="ADV"/> uh, you may decide you wanna do that at some point, but it's absolutely not necessary <U WHO="S2"> mkay </U> especially, if you, are right now, you know you can't decide, which way you're going, and you want to be able to sample both fields <U WHO="S2"> mhm </U><PRAG TYPE="ADV"/> so it probably makes more sense to you, in your first semester to sort of take something from the social sciences that might lead you toward, international relations so <U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> like, </OVERLAP> you know, international, you know, politics <OVERLAP> or something like that </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yeah i saw </OVERLAP> a course like Introduction to World Politics or something <U WHO="S1"> right </U> that, <OVERLAP> right </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> which is </OVERLAP> Poli Sci one-sixty </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"><PRAG TYPE="ADV"/> you know, you might wanna do that, and then you might wanna take, this biological anthro course or a beginning geology course or, <U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> you know </OVERLAP> something like that, and then if you decide you wanna do geology or, bio anthro, then you could use that, poli sci for social science distribution. <U WHO="S2"> right, okay </U> and if you decide you want so- uh poli sci plus take some economics, then you take these other courses for natural science distribution <U WHO="S2"> right, okay </U> so nothing is wasted <OVERLAP> really </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so okay </OVERLAP> so these a- courses would all be, worth it no matter how i </U>
+			<U WHO="S1"> exactly, <U WHO="S2"> okay </U> exactly, no matter how you really put it together. <U WHO="S2"> okay </U> um, the one expectation that we have, is that you take two honors courses per term, <U WHO="S2"> mhm </U> and, in that, orientation newsletter that you got in the mail <U WHO="S2"> mhm </U> those blue sheets of paper, in the middle? they've, they have the honors, uh courses for first-year students listed in there </U>
+			<U WHO="S2"> mkay there's, two booklets that we got i'm <U WHO="S2"> no </U> no </U>
+			<U WHO="S1"> uh i'm referring to this </U>
+			<U WHO="S2"> i'm not sure if i remember that one </U>
+			<U WHO="S1"> oh, you will, you will remember, i guarantee you </U>
+			<U WHO="S2"> oh, yeah, okay, right, i <OVERLAP> did see this, yeah, oh mhm, right, yeah </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> and, yeah, see and the two sheets there in the middle? now you see </OVERLAP> that Poli Sci one-sixty, when you leaf through it, <U WHO="S2"> mhm </U> uh has got an honors section. so that could be an honors course for you <U WHO="S2"> oh okay </U> okay? so there are a lot of different ways to do an honors course you don't have to do Honors Math to do an honors course. <U WHO="S2"> okay </U> you can take, all sorts of other, options for honors courses </U>
+			<U WHO="S2"> okay, oh that would be go- that would be </U>
+			<U WHO="S1"> now uh one thing i haven't asked you, is, eh- whether you took any A-P tests in May. </U>
+			<U WHO="S2"> i did and i know the, the um, </U>
+			<U WHO="S1"> the outcome? </U>
+			<U WHO="S2"> yeah. i got a four, on the English language one, <U WHO="S1"> okay </U> and whoa i bombed that chemistry test <U WHO="S1"> oh okay </U> so, i did decent in the class all year got an A but, man that A-P test sure </U>
+			<U WHO="S1"> so your English language A-P was a four. <U WHO="S2"> mhm </U> now, that will give you some credit toward graduation. </U>
+			<U WHO="S2"> it will give me credit? </U>
+			<U WHO="S1"> oh yeah. but that will, but_ uh Dr Crown also explained how that does not mean <OVERLAP> that you </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i guess that means </OVERLAP> that i get out of it but i get credit, right? <U WHO="S1"> exactly, exactly </U> and how many credits would i get th- you know? or or </U>
+			<U WHO="S1"> i think you get six actually i don't remember <U WHO="S2"> wow </U> uh, no, excuse me. you have to get, a five to get six, but you get three hours of credit. </U>
+			<U WHO="S2"> wow, for a four, that's good that's good and um i_ do you give any credit at all for threes? <U WHO="S1"> uh </U> cuz i_ for <U WHO="S1"><OVERLAP> depends </OVERLAP></U><OVERLAP> European History </OVERLAP> last year i got a three. </U>
+			<U WHO="S1"> okay, in some departments threes do earn you credit in others not, so European History you have to have a four or a five </U>
+			<U WHO="S2"> okay i wasn't sure </U>
+			<U WHO="S1"> uh, you can get a three in poli sci or physics if you get threes, you get credit, but not, not in history <U WHO="S2"> okay, <OVERLAP> alright </OVERLAP></U><OVERLAP> yeah, </OVERLAP> so, you haven't had the A-P Poli Sci, or <OVERLAP> (we- we) </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> no i've never had </OVERLAP> really any political science <OVERLAP> whatsoever </OVERLAP></U>
+			<U WHO="S1"><OVERLAP><PRAG TYPE="ADV"/> oh </OVERLAP> okay, well then i think it really is something that you should, think about. <U WHO="S2"> okay </U> um, the other thing i wanna point out to you, is that in those_ in that first-year-seminar handbook you know? <U WHO="S2"> mhm </U> there it is_ there are some geology courses in here. <U WHO="S2"> mhm </U> um, now i don't know if they, can't remember, whether they might be exactly what you're interested in. uh Ice Ages Past and Present, and The Evolution of North America... uh... Nat- Natu- Natural Hazards, that that doesn't really, talk as <U WHO="S2"><OVERLAP> 'm'm </OVERLAP></U><OVERLAP> much about </OVERLAP> the things that you might be interested in but... i i don't i don't know whether, these aren't as, um much paleontologica- i mean they don't really deal with, you know skeletal <U WHO="S2"><OVERLAP> right yeah it's more </OVERLAP></U><OVERLAP> remains and so on as much </OVERLAP> i'm just thinking that they are, like that's a full course, <U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> that would </OVERLAP> be th- a three credit course,<PRAG TYPE="ADV"/> so that could be like one of your courses but another thing that you could do is to take, is to look look at Anthropology one-sixty-one. <U WHO="S2"> mkay, mkay </U> okay? look at Anthropology one-sixty-one, and then you could do an add-on, of the, dinosaurs course if you wanted to <U WHO="S2"> mkay </U> because then you would have four credits in Great Books, if you take Spanish you'd have four credits in <U WHO="S2"><OVERLAP> mhm </OVERLAP></U><OVERLAP> that, </OVERLAP> you would have four credits of poli sci, you'd have four credits in, anthro, and then one credit, for the geology which is seventeen credits, um... you know which is, what people who are taking chemistry are going to be having to elect, seventeen <OVERLAP> credits </OVERLAP><U WHO="S2"><OVERLAP> seventeen </OVERLAP> credits </U> we usually say we want four courses, you know four <U WHO="S2"><OVERLAP> right </OVERLAP></U><OVERLAP> academic </OVERLAP> preparations, but the, geology short course is, much more of a, really, it's a course that's sort of intended, for people that just have an interest in something instead of, being a course that is for students who really know that they wanna, <U WHO="S2"> mhm </U> you know </U>
+			<U WHO="S2"> well could i take that maybe like second semester? </U>
+			<U WHO="S1"> it's taught every term </U>
+			<U WHO="S2"> oh it is, <OVERLAP> so </OVERLAP><U WHO="S1"><OVERLAP> it's taught </OVERLAP> every term </U> maybe if i wanted to take sixteen credits, just to see how i'm handling it, <U WHO="S1"> right </U> and then second, semester i can you know once i take different classes, i might have a better idea if i could handle like ano- an extra class on top of that. </U>
+			<U WHO="S1"> right, right. now do you know where you're gonna be living? </U>
+			<U WHO="S2"> Mo-Jo </U>
+			<U WHO="S1"> Mo-Jo </U>
+			<U WHO="S2"><OVERLAP> mhm </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay. </OVERLAP> i was just uh, wondering whether, whether you were gonna be in South Quad. </U>
+			<U WHO="S2"> hm'm, no i'm not <U WHO="S1"> okay </U> doing uh Honors Housing </U>
+			<U WHO="S1"> mhm, uh this evening, there is another session, with the peer advisors, at seven-thirty, in one of the computing classrooms which is right next by <U WHO="S2"><OVERLAP> right </OVERLAP></U><OVERLAP> the computing </OVERLAP> center, and that's where you're going to get on the web, and you're gonna look at, um all of the courses, you're gonna read course descriptions, you're gonna figure out what times courses meet, and, try and figure out your sections <U WHO="S2"> okay </U> um, and then tomorrow morning when you come in to talk to me, you'll have pretty much a solid idea of what you're gonna be taking.<PRAG TYPE="ADV"/> i advise you actually to look at the introductory geology courses, not just the ones that are in the freshman seminar, but the ones that are in the <U WHO="S2"> like the bulletin, </U> yeah, <U WHO="S2"> that we had </U> well, have you been on the online online course guide yet? </U>
+			<U WHO="S2"> no huh'uh </U>
+			<U WHO="S1"> okay it's really easy i'll show you. you know you know what the web is <U WHO="S2"> yeah </U> alright. so, we just get here on the Netscape Navigator click click click <U WHO="S2"> mhm </U> and, you'll do that tonight too <U WHO="S2"> mkay </U> get on the Navigator, here we are, and this is the L-S-and-A page, homepage and we go under College Administration and Services, and we look at... oh. oh that's the wrong one. you don't want College Administration and Services do you? <EVENT WHO="S2" DESC="LAUGH"/> you want student stuff. information for students... oh you don't want the bulletin. we want the course guide... and here's the course guide, it comes right up, and then you can just page, down only not quite that fast... uh, to geological sciences <U WHO="S2"> mkay </U> and, now we start looking at all of these introductory courses, um, these are the ones that are, these, one, credit courses <U WHO="S2"><OVERLAP> right </OVERLAP></U><OVERLAP> that are </OVERLAP> just for half the term and they are taught every term and this is the one you were looking at here <U WHO="S2"> mhm </U> uh, and then... now we're looking here Introduction to Geology, which you can take with a lab or not with a lab <U WHO="S2"> mkay </U> uh, that one sounds a lot like the ones we were looking at, um, but Environmental Studies Environment People and Resources that might be more, or Physical World, Evolution of the Earth, here we go now this, oh. that those were the two sh- those were the two uh uh </U>
+			<U WHO="S2"> yeah the uh those were the, <OVERLAP> seminar. yeah </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> evolution </OVERLAP> yeah uh okay Introductory Geography Water Climate and Mankind, the Planets, Di- oh. </U>
+			<U WHO="S2"> oh yeah, and i... i might even wanna, take a, astronomy course or something i, <U WHO="S1"> yeah </U><PRAG TYPE="EVN" SUBTYPE="NEG"/> i like, i'm not a big fan of, and that's the thing with like the geology, i'm not a fan of chemistry <U WHO="S1"> yeah </U> and </U>
+			<U WHO="S1"> now you see this here, this is a course in paleontology <U WHO="S2"> oh it is, <OVERLAP> i didn't </OVERLAP></U><OVERLAP> but it tells </OVERLAP> you that you have to have an introductory <U WHO="S2"><OVERLAP> biology </OVERLAP></U><OVERLAP> biology </OVERLAP> course and, Geology one-seventeen before you can take it. so... so you look and you say okay, well what is this, one-seventeen is that introductory course in geology. <U WHO="S2"> mhm </U> so, that's one way to look at it <U WHO="S2"><OVERLAP> okay </OVERLAP></U><OVERLAP> now </OVERLAP> another way... so we can also go and look at astronomy... <U WHO="S2"> mkay </U> and it tells you about the sol- you know, you've got The Solar System, you've got The Stars Galaxies and the Universe, and see some of these courses are intended for students who, are not gonna be majors and others for students who are <U WHO="S2"> right </U><PRAG TYPE="ADV"/> so you've got to, kind of look at that <U WHO="S2"> mkay </U> and some of them have labs and some of them don't.<PRAG TYPE="EVN" SUBTYPE="POS"/> uh, and the lab is, great fun, because you go up on the, roof of Angell Hall where they have the telescopes <U WHO="S2"> oh, that would be <OVERLAP> fun </OVERLAP></U><OVERLAP> and that's where </OVERLAP> and that's where you have your labs. <OVERLAP> so </OVERLAP></U>
+			<U WHO="S2"><OVERLAP><PRAG TYPE="EVN" SUBTYPE="POS"/> that would </OVERLAP> be exciting, yeah </U>
+			<U WHO="S1"><PRAG TYPE="ADV"/> uhuh, so look at those two tonight <U WHO="S2"> okay, <OVERLAP> i will </OVERLAP></U><OVERLAP> alright? </OVERLAP><U WHO="S2"> definitely </U> now, i'm gonna see you tomorrow morning <U WHO="S2"> mkay </U> and at that point, i hope, that you've worked out four or five courses, <U WHO="S2"> mkay </U> and i can um, you know we can finalize your elections, and then one of the peer advisors will help you register right in this office and you'll walk out of here with your courses in your hand </U>
+			<U WHO="S2"> great </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S2"> i'm excited </U>
+			<U WHO="S1"><OVERLAP> good </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yes. okay </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> nice </OVERLAP> meeting you <OVERLAP> and i'll see you tomorrow </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> nice meeting you </OVERLAP> yes. <OVERLAP> eight-thirty </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> bye bye </OVERLAP></U>
+			<U WHO="S2"> bye </U>
+			<U WHO="S3"><PRAG TYPE="EVN" SUBTYPE="POS"/> first day and a half was <U WHO="S1"><OVERLAP> yeah </OVERLAP></U><OVERLAP> fun </OVERLAP><PRAG TYPE="EVN" SUBTYPE="NEG"/> it was, to be totally honest a little boring with all the le- you know the lectures and information it's just like you kind of sit there and listen and hopefully absorb, <U WHO="S1"> yeah </U> but then the last thing with you know the peer advisors where they're throwing out the different options in classes and like where you should fit in it was like, i could fit in there, i might, i might not, i just, i have, no idea <U WHO="S1"><EVENT DESC="LAUGH"/> so </U> i have no confidence in my French or chemistry placements, <U WHO="S1"> oh alright </U> whatsoever </U>
+			<U WHO="S1"> well, uh well we can start with that. <U WHO="S3"> mkay </U> um <U WHO="S3"> they're i'm <OVERLAP> sure they're awful </OVERLAP></U><OVERLAP> the_ you </OVERLAP> you have said here, you know i was reading your essay, <U WHO="S3"> mhm </U> and i thought to myself, this young woman is going to end up saying she wants to be a teacher, because she wants_ she likes to work with children <U WHO="S3"> yeah </U> and it was no that that wasn't what you said. uh, have you ever thought about that? </U>
+			<U WHO="S3"> i have. especially of recent i did a lot of tutoring my senior year, <U WHO="S1"><OVERLAP> uhuh uhuh </OVERLAP></U><OVERLAP> lots. </OVERLAP><PRAG TYPE="EVN" SUBTYPE="POS"/> i tutored like, two, at least two times every week. <U WHO="S1"> mhm </U> and i really enjoyed it. <U WHO="S1"> mhm </U> i loved tutoring. <U WHO="S1"> mhm </U> and then...<PRAG TYPE="EVN" SUBTYPE="NEG"/> but as for being like an elementary school teacher or like a high school teacher it jus- it just doesn't really have that, much appeal for me. <U WHO="S1"> mhm </U><PRAG TYPE="EVN" SUBTYPE="POS"/> i mean despite the fact that i really do love working with kids, <U WHO="S1"> mhm </U> no, like teaching wasn't, maybe ultimately, this is kind of i don't know how far-fetched this is, but like ultimately i think it would be kind of fun like, in my later years you know to be like, professor, you know a teacher, but, as for like a profession, i don't know. </U>
+			<U WHO="S1"> mm. i was thi- i i think that if i... i i really enjoyed teaching elementary language <U WHO="S3"> mhm </U> because, it was something that was so, um, obvious when, eh- students had grasped something or made a breakthrough, you know what i mean? <U WHO="S3"> mhm </U> even though, the concepts weren't, you know, earth-shattering, life-changing concepts you know, which which a preposition governed the dative, in German, you know that isn't really something that's gonna change your life if you, know that <FOREIGN> aus ausser bei mit nach seit von zu </FOREIGN> governed the dative <U WHO="S3"> uhuh </U> that's not gonna change your life,<PRAG TYPE="EVN" SUBTYPE="POS"/> but, you could see the, you could really see someone's progress very very easily and it was very very nice, whereas my husband who grapples with, bigger questions and issues, cu- he teaches a course in Great Books, and, he says that it's sometimes, you know it's very rewarding when you have a student who, really loves it and really understands it and just wants to do more and more and more and when you have exciting class discussions, but that, it's just not as easy to measure <U WHO="S3"> mhm </U> uh as it is when when you're just teaching an elementary language or if you're teaching a young child, <U WHO="S3"> right </U> how to do a particular task, which is very, easily discernible whether that task has been mastered or not, and therefore you can really see the progress and you can say uhuh, i can see i've really contributed to this and this and this and this, and that's really very nice. </U>
+			<U WHO="S3"><PRAG TYPE="NAR"/><PRAG TYPE="EVN" SUBTYPE="POS"/> yeah, it it was wonderful, i mostly tutored in algebra, <U WHO="S1"> mhm </U> um, and it was nice when like by the end of doing a homework assignment like i could see obviously that one person had_ like knew finally what was going on, and i had the same teachers as like one of my, <U WHO="S1"> mhm </U> tutorees, and, and he said that like her grade had improved <U WHO="S1"> oh yeah, mhm </U> like he could see like in her homework assignment it was a lot better, which helped her grade, and <U WHO="S1"> mhm </U> you know, she may have done a little bit better on the test so, that's_ yeah, it is really rewarding, <U WHO="S1"> mhm </U> i can_ i did honestly feel that, <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> i can </OVERLAP> see it, but, as for a, teaching i don't, i don't know, <U WHO="S1"><OVERLAP> you don't know </OVERLAP></U><OVERLAP> it's just that, </OVERLAP> in general i do really like working with people <U WHO="S1"> yeah yeah </U> i mean specifically kids, are wonderful <OVERLAP> i love working with children </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so why did you decide </OVERLAP> on medicine? </U>
+			<U WHO="S3"> why? </U>
+			<U WHO="S1"> now what what brought you to that? </U>
+			<U WHO="S3"><PRAG TYPE="NAR"/> i know it_ kind of like the corny way like a lot of kids might learn about it my father is a doctor, <U WHO="S1"> uhuh </U> and so i mean like early on i, understood some things about the medical profession like, my parents' friends were all doctors i'd always like interacted with them <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> and, </OVERLAP><PRAG TYPE="EVN" SUBTYPE="POS"/> i really, i think i i really would enjoy that lifestyle <U WHO="S1"> mhm </U> like i'm starting to volunteer at our local hospital and, <U WHO="S1"> mhm </U> and stuff um, i've always leaned_ i'm more of a math science person, <U WHO="S1"> mhm </U> definitely i've alwa- i've always leaned towards the math and science, even though, like i took a creative writing class my senior year. my senior year though, i really like, i just as soon as college hit, (it) was like as soon as college questions hit it seemed that i went from like less specific as what i always thought i wanted to be like i always thought i wanted to be a doctor but then like, my senior year, when college like confronted me it seemed like oh no but there are all these other options i want to explore, <U WHO="S1"> yeah </U> like creative writing and, and such, but i've always leaned toward math and science.<PRAG TYPE="EVN" SUBTYPE="POS"/> and, i've always really_ i took anatomy and biology and really enjoyed both, <U WHO="S1"> mhm </U> and, i don't know i just wanted to find something that combined working with people and still having like my science knowledge and stuff. </U>
+			<U WHO="S1"><PRAG TYPE="EVN" SUBTYPE="POS"/> one of the nice things about, the, requirements that you have to take, that Dr Crown talked about, <U WHO="S3"> mhm </U> was that that is a way for you to explore, <U WHO="S3"> yeah </U> everything that goes on here. you know you're gonna have to take some humanities you're going to have to take some social sciences you're going to have to take some natural sciences, that aren't in your concentration, <U WHO="S3"> mhm </U> and, that means that, you know you get a chance to look at all of these various areas that you probably haven't taken classes in before, or that you have taken classes in before and that you're really, you know interested in, <U WHO="S3"> mhm </U> that you want to keep on doing, and so that's one of the reasons, why, you know we look at the, at the placement tests and say okay what is it that you need to do, and what is it that you'd like to do, <U WHO="S3"> mhm </U> uh and you know that you need to elect either Great Books or Classical Civilization, for your intro comp and for an honors requirement, <U WHO="S3"> right </U><PRAG TYPE="ADV"/> and then after that, if you're pre-med you really should be taking math and science. <U WHO="S3"> right </U> and chemistry is what you should be taking for the science... because even if you took A-P, <U WHO="S3"> uhuh </U> and even if you got a four or a five, it doesn't place you out of the organic which is what the two-ten two-eleven is, that you placed into </U>
+			<U WHO="S3"> oh i did? </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S3"> oh okay, good. that's what, yeah that's actually what i was thinking, cuz i do have </U>
+			<U WHO="S1"> oh no you didn't </U>
+			<U WHO="S3"> oh i didn't? </U>
+			<U WHO="S1"> excuse me </U>
+			<U WHO="S3"> oh </U>
+			<U WHO="S1"> you placed into the one-thirty. <OVERLAP> now </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> which is </OVERLAP> just the general? </U>
+			<U WHO="S1"> which is the general. now did you take the A-P Chemistry? </U>
+			<U WHO="S3"> no, <U WHO="S1"> no </U> i didn't. i've had one year of Honors Chemistry, which would be like the first year basically and i took that, my junior year and so everything that was on the test, i mean i could recognize the things like, i remember seeing that i'd been working with this but i, couldn't remember for the life of me like, <U WHO="S1"> okay </U> what to do. </U>
+			<U WHO="S1"><PRAG TYPE="ADV"/> alright, well... i think probably given this score, <EVENT WHO="S3" DESC="LAUGH"/> i might suggest that you do take the one-thirty </U>
+			<U WHO="S3"> really? </U>
+			<U WHO="S1"> uh, some of it is going to s- seem like repetition, <U WHO="S3"> yeah </U><PRAG TYPE="ADV"/> but i think, you want a really good solid, basis in general chemistry before going on to organic. although organic isn't very much like general chemistry. but, nevertheless, <U WHO="S3"><OVERLAP> yeah </OVERLAP></U><OVERLAP> you </OVERLAP> do need the solid basis in order to do that. </U>
+			<U WHO="S3"> really? </U>
+			<U WHO="S1"> yeah.<PRAG TYPE="ADV"/> so i think i'd say Chemistry one thirty and i'd say either Great Books or Classical Civilization,<PRAG TYPE="EVN" SUBTYPE="POS"/> and, your math score is real good, uh did you take A-P Ca- Calculus? </U>
+			<U WHO="S3"> yes </U>
+			<U WHO="S1"> A-B or B-C? </U>
+			<U WHO="S3"> A-B </U>
+			<U WHO="S1"> and have you gotten your scores already? </U>
+			<U WHO="S3"> no. i hadn't gotten them yet before i left. so </U>
+			<U WHO="S1"> okay, so how do you think you did on that do you think? </U>
+			<U WHO="S3"> um, i wanna say i got a four. <U WHO="S1"> okay </U> i really think i'm pretty sure i got at least a three, <U WHO="S1"> mkay </U> but i, really felt really confident afterwards, my, my fos- or my foster mis- my calculus teacher Mr Foster <U WHO="S1"> mhm </U> really <U WHO="S1"> mhm </U> prepared us and so we were taking we've been <OVERLAP> taking like </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> my foster </OVERLAP> teacher Mr calculus </U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> yeah <EVENT WHO="S1" DESC="LAUGH"/> i know, i got all tongue-twisted there but um, he, really prepared us for the test like we'd been taking A-P style tests, <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> two </OVERLAP> months ahead of <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> the </OVERLAP> actual A-P, and by the time i got the A-P, like done and over with, <U WHO="S1"><OVERLAP> uhuh </OVERLAP></U><OVERLAP> Mr </OVERLAP> Foster's tests were so much harder than, <U WHO="S1"> oh </U> that one was so, <U WHO="S1"> okay </U> i, feel_ watch i'll probably get like a two now but, i really think i may have gotten a four, <U WHO="S1"> alright </U> four, at least three. </U>
+			<U WHO="S1"> well that, if you got a four that'll place you out of a first semester of, of math. of calculus. that would give you credit for Math one-fifteen, which is the first semester of calculus here, and then the issues become, oh gee should i, take Honors Calculus should i take the one-eighty-five sequence. </U>
+			<U WHO="S3"> i do, yeah i_ that was what i was leaning towards, <U WHO="S1"> mhm </U><PRAG TYPE="EVN" SUBTYPE="POS"/> i do like math. </U>
+			<U WHO="S1"> mm. if you like math, </U>
+			<U WHO="S3"> i do feel, yeah </U>
+			<U WHO="S1"> see i_ students who say oh well i might as well just take, Honors Math because i need another honors course, those are the students who probably shouldn't be taking Honors Math. <U WHO="S3"><OVERLAP> mhm </OVERLAP></U><OVERLAP> but </OVERLAP> the people who like math and <U WHO="S3"><OVERLAP> yes </OVERLAP></U><OVERLAP> they say </OVERLAP> i like math i <U WHO="S3"> i do </U> and i really enjoy it <U WHO="S3"> mhm </U> and and i wanna learn more,<PRAG TYPE="ADV"/> they're the people who really should be taking Honors Math. <U WHO="S3"> right </U> so maybe you should take the one-eighty-five one-eighty-six you realize that you're going to lose the A-P credit, if you take one-eighty-five and one-eighty-six. <U WHO="S3"> mhm </U> but, four credits, aren't going to make you or break you. </U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> okay </U>
+			<U WHO="S1"> you understand that? </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S1"><PRAG TYPE="EVN" SUBTYPE="NEG"/> yeah. you'll be you'll re- you'll be getting kind of a nasty little letter, it's not a nasty letter it's just that it's very businesslike, ruff ruff ruff <EVENT WHO="S3" DESC="LAUGH"/> from the, Records Office in, October, <U WHO="S3"> mkay </U> if you get a four or a five on the A-B saying, you got credit for Math one-fifteen, for A-P and now you're in Math one-eighty-five so we're gonna take away your credit. </U>
+			<U WHO="S3"> if i did get a four or a five though, wou- would that mean should i opt to take like the two-ninety-five? </U>
+			<U WHO="S1"> uh, <U WHO="S3"> or </U><PRAG TYPE="ADV"/> you could opt to take the two-ninety-five<PRAG TYPE="EVN" SUBTYPE="POS"/> your S-A-T score is very good. and if you really like math, <U WHO="S3"> mhm </U> and then i i would, then i would talk about the two-eight_ two-ninety-five. if you want more discussion about two-ninety-five, then tomorrow morning between nine and eleven <U WHO="S3"><OVERLAP> mhm </OVERLAP></U><OVERLAP> we do </OVERLAP> have a math advisor who comes into the honors office to talk specifically about math issues. <U WHO="S3"> okay </U> um, but that's probably something you should be thinking about, but you know actually what you can do, is you can, sign up for one now, after you get your score, you can call us and ask us to put an override into the system for you for the other course, and drop the one that you're in if it's not the correct one. </U>
+			<U WHO="S3"> i actually think i'd like to go, probably just with one-eighty-five, <U WHO="S1"> okay </U> i don't know </U>
+			<U WHO="S1"><PRAG TYPE="ADV"/>it's probably, it's probably safe to sign up for <U WHO="S3"><OVERLAP> one-eighty-five </OVERLAP></U><OVERLAP> one-eighty-five, </OVERLAP> and then wait for the score and see what happens, <OVERLAP> you know </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> mhm... </OVERLAP> okay </U>
+			<U WHO="S1"> now your Spanish placement or, <U WHO="S3"><OVERLAP> French </OVERLAP></U><OVERLAP> French, </OVERLAP> placement was one-oh-three, which is that </U>
+			<U WHO="S3"> oh really </U>
+			<U WHO="S1"> yeah, it's that, sort of, in between the first and the second year course, <U WHO="S3"> mhm </U> and so that means that you_ if you keep on with French you have three semesters to do of French. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"><PRAG TYPE="ADV"/> but if so this is a time that you_ you know you might think about another language, uh cuz if you started a brand new language, if there's something that you'd rather take that makes more sense to you, then you just have one additional semester of that language to do so that would be just a four-semester shot then for you. </U>
+			<U WHO="S3"><PRAG TYPE="EVN" SUBTYPE="POS"/> oh, i really like French. <U WHO="S1"> alright </U> i really what i was actually kind of thinking was almost majoring in French. <U WHO="S1"> oh, alright </U> and then eventually though<PRAG TYPE="ADV" SUBTYPE="SOL"/> do you think this might work i would love to take Latin sometime too.<PRAG TYPE="EVN" SUBTYPE="POS"/> but i do i do like French a lot, i had a really good teacher and, i'd really like to <OVERLAP> continue </OVERLAP></U>
+			<U WHO="S1"><OVERLAP><PRAG TYPE="ADV"/> you may </OVERLAP> want to take, um what they call sort of an intensive Latin when you're a junior or senior, uh it's kind of, it's kind of the equivalent of three semesters in a year, <U WHO="S3"> mhm </U> and it really just uh it's one-ninety-three that's the number and what you would be doing is,<PRAG TYPE="EVN" SUBTYPE="POS"/> that gives you a real good reading knowledge, of <U WHO="S3"><OVERLAP> of Latin </OVERLAP></U><OVERLAP> of Latin, </OVERLAP> which is all you really all, you want, <U WHO="S3"> yeah, not really spoken </U> uh you're not gonna do any time-travelling and <EVENT DESC="LAUGH"/></U>
+			<U WHO="S3"> right, go back to ancient Greece and, no </U>
+			<U WHO="S1"> okay so, what we're saying is, </U>
+			<U WHO="S3"> so like Math one-eighty-five </U>
+			<U WHO="S1"> sounds to me like Math one-eighty-five, either Great Books or Classical Civilization, </U>
+			<U WHO="S3"> French one-oh-three and then </U>
+			<U WHO="S1"> French one-oh-three <U WHO="S3"> so </U> and then Chemistry one-thirty </U>
+			<U WHO="S3"> you think Chemistry one-thirty because, if i want, i did wanna be a pre-med major. so i i suppose i mean i will obviously <OVERLAP> have time to fit everything in </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> did you take </OVERLAP> A-P Biology? </U>
+			<U WHO="S3"> no <U WHO="S1"> no </U> we didn't have an A-P Bio class, that was... <U WHO="S1"> it's okay </U> i almost wanna say like, well no actually it's not the same thing my, my anatomy teacher was also the biology teacher <U WHO="S1"> mhm </U> and, anatomy really, she was talking to us about it one day <U WHO="S1"> mhm </U> and, i i really can't say that i did l- anything like A-P Biology either so, i mean it tries to continue but it it goes through the kingdoms <U WHO="S1"> mhm </U> so, like to the different phylum like the animal, <U WHO="S1"> mhm </U> kingdom so i really don't think </U>
+			<U WHO="S1"> see people who score in the seventieth percentile and better, on the chemistry placement are put into the two-ten two-eleven, <U WHO="S3"> mhm </U><PRAG TYPE="EVN" SUBTYPE="POS"/> so you're not, totally out of the ballpark here i mean you know, your score isn't, <EVENT WHO="S3" DESC="LAUGH"/> in the thirties <U WHO="S3"> yeah </U> or you know, you know what i mean? um, so you </U>
+			<U WHO="S3"> cuz i </U>
+			<U WHO="S1"><OVERLAP> you you could try </OVERLAP></U>
+			<U WHO="S3"><OVERLAP><PRAG TYPE="EVN" SUBTYPE="POS"/> i have no idea like how much </OVERLAP> confidence yeah i think i really think i am borderline with this, <U WHO="S1"> yeah </U> i have no idea, like i wanna say i'm confident enough with my science skills that i could go with, <U WHO="S1"> mhm </U> is that organic what you're talking about? </U>
+			<U WHO="S1"> mhm <OVERLAP> that would be the two-ten two-eleven </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> that i could do organic </OVERLAP> but, at the same time, i mean i really th- i think Chemistry one-thirty would just basically like solidify whatever <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> math </OVERLAP> skills or <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> chemistry </OVERLAP> skills i had but, so <U WHO="S1"><OVERLAP> yeah </OVERLAP></U><OVERLAP> i don't </OVERLAP> know <OVERLAP> if i really want to jump into it </OVERLAP></U>
+			<U WHO="S1"><OVERLAP><PRAG TYPE="ADV"/> i guess maybe that's the way </OVERLAP> i feel too </U>
+			<U WHO="S3"> that i i should probably solidify? </U>
+			<U WHO="S1"> yeah, yeah. see you've got your two honors courses with the math and the Great Books or Class Civ_ which one are you leaning toward? </U>
+			<U WHO="S3"> Great Books </U>
+			<U WHO="S1"> Great Books. okay with math and Great Books you got your two honors courses, and you're starting on your way, with, <U WHO="S3"><OVERLAP> my language </OVERLAP></U><OVERLAP> the chemistry </OVERLAP> and <U WHO="S3"><OVERLAP> mhm </OVERLAP></U><OVERLAP> you're, </OVERLAP> s- beginning to finish your language so, <U WHO="S3"> okay </U><PRAG TYPE="EVN" SUBTYPE="POS"/> that's a good <OVERLAP> program </OVERLAP> . </U>
+			<U WHO="S3"><OVERLAP> cuz </OVERLAP> yeah, i just know that since i am_ if i'm pre-med, i'd have to take so, is Chemistry one-thirty_ will i just take_ i'll take care of that my first year, my <OVERLAP> first semester </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> chemistry firs- </OVERLAP> yeah <U WHO="S3"> fall </U> first semester and then second semester you take two-ten two-eleven. </U>
+			<U WHO="S3"> alright oh. <U WHO="S1"> mhm </U> is that considered like a year then of organic right there? are they when people say like, for like pre-med requirements it's like you have a year of organic a year of inorganic <OVERLAP> how much is that </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> a year of </OVERLAP> organi- well, this is a semester of inorganic right here now, one one-thirty </U>
+			<U WHO="S3"> oh really? </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S3"> oh </U>
+			<U WHO="S1"> and then organic would be two-ten two-eleven that's one semester and then two-fifteen two-sixteen that's the second semester. and you'd be taking two-fifteen two-sixteen in the fall term next year. </U>
+			<U WHO="S3"> mm okay, my sophomore year, and so, this is a semester so i'm i'm taking oh gosh this is <OVERLAP> confusing, </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> mhm, </OVERLAP> this is a semester </U>
+			<U WHO="S3"> i'm taking a semester of inorganic then <U WHO="S1"> mhm </U> right now i <U WHO="S1"> mhm </U> complete like a whole year of organic <U WHO="S1"> mhm </U> which'll be two more semesters, and then like, so i i still have another, semester of, inorganic and a year of biology and a year of physics? </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S3"> oh </U>
+			<U WHO="S1"><PRAG TYPE="ADV"/> uh, you should look here on, on in the bulletin, when you have <U WHO="S3"><OVERLAP> mhm </OVERLAP></U><OVERLAP> time, </OVERLAP> on page thirty-three, they've got all the pre-med requirements in here </U>
+			<U WHO="S3"> uhuh. page thirty-three you said? <U WHO="S1"> mhm </U> okay. oh boy </U>
+			<U WHO="S1"> and that just tells you... just exactly what all the pre-med requirements are, see and if you decide to be a biology concentrator, <U WHO="S3"> mhm </U> then all of the pre-med requirements are the same as the prerequisites for the biology concentration. </U>
+			<U WHO="S3"> okay. ooh. alright </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"> now, you're going to be meeting with, the peer advi- peer advisors again this evening, are you living in Honors Housing? </U>
+			<U WHO="S3"> yes. </U>
+			<U WHO="S1"> okay, so you will go to a meeting with Earl at seven o'clock? </U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> yeah </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/><U WHO="S3"> yeah </U> you'll get to be entertained by Earl <U WHO="S3"> oh </U> for another half-hour </U>
+			<U WHO="S3"> i have been <EVENT WHO="SS" DESC="LAUGH"/><PRAG TYPE="EVN" SUBTYPE="POS"/> yeah he's quite amusing </U>
+			<U WHO="S1"> uhuh <U WHO="S3"> okay </U> and then at seven-thirty, you're all going to be meeting in one of the computer classrooms by the computer center here in Angell Hall, <U WHO="S3"> mhm </U> and you're gonna learn to get on the web and look up all of the courses, read descriptions, figure out when courses meet what's open what's closed and when you come in to see me tomorrow morning we'll finalize your schedule. <U WHO="S3"> okay </U> and then you will call CRISP right from this office <U WHO="S3"> mhm </U> and you will register and you'll leave here with your schedule in your hand. </U>
+			<U WHO="S3"> okay. alright, thanks. </U>
+			<U WHO="S1"> alright? </U>
+			<U WHO="S3"> um, am i taking_ with Chem one-thirty is there like a one other something for a lab? is that </U>
+			<U WHO="S1"> well there's one-twenty-five but, you don't have to take it because you've had a lab <U WHO="S3"> yeah </U> in high school <U WHO="S3"> definitely </U><PRAG TYPE="ADV"/>so you don't need it <U WHO="S3"> okay </U> so one-thirty is all you need to take. <U WHO="S3"> alright </U> now sometimes students like to take one-twenty-five, actually </U>
+			<U WHO="S3"> really? </U>
+			<U WHO="S1"> because it, you know it, just reinforces what you're doing in the one_ in the lecture and the discussion and the recitation lab </U>
+			<U WHO="S3"> it's a completely, it's kind of a separate class though? <OVERLAP> basically? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it's kind of </OVERLAP> of a separate class </U>
+			<U WHO="S3"> is it, is this an overload would you think? </U>
+			<U WHO="S1"> 'm'm, no no </U>
+			<U WHO="S3"><OVERLAP> if i took one-twenty-five also? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it wouldn't be an overload </OVERLAP> it wouldn't be an overload, uh'uh, that would give you seventeen credits, but anyone who takes chemistry, has got seventeen credits. </U>
+			<U WHO="S3"> mhm. um, okay </U>
+			<U WHO="S1"> if they're taking, <U WHO="S3"><OVERLAP> (xx) </OVERLAP></U><OVERLAP> you know, the lecture </OVERLAP> and the lab combination </U>
+			<U WHO="S3"> okay is this sixteen right now? </U>
+			<U WHO="S1"> 'm'm </U>
+			<U WHO="S3"> isn't the lab only one credit? </U>
+			<U WHO="S1"> it's fifteen right now </U>
+			<U WHO="S3"> oh it's fifteen, okay </U>
+			<U WHO="S1"> lab is two credits. </U>
+			<U WHO="S3"> so i could just uh, s- even solidify and strengthen it, <U WHO="S1"> mhm </U> even more. <U WHO="S1"> mhm </U> oh, alright. okay </U>
+			<U WHO="S1"> alright? </U>
+			<U WHO="S3"> whoo <OVERLAP> thanks </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> good </OVERLAP> well i'll see you tomorrow morning then. </U>
+			<U WHO="S3"> alright, <OVERLAP> thank you </OVERLAP></U>
+			<U WHO="S1"><OVERLAP><PRAG TYPE="EVN" SUBTYPE="POS"/> it was very nice </OVERLAP> meeting you </U>
+			<U WHO="S3"> you too </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S3"><OVERLAP> bye </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> bye bye </OVERLAP> now. <EVENT DESC="S4 ENTERS"/> this is all i need, drop all your, your work here. <U WHO="S4"><EVENT DESC="LAUGH"/></U> ohh... now i see, from your file that you're interested in biology and, and biomedical, engineering or technology or </U>
+			<U WHO="S4"> yeah i want_ i was_ i'm thinking of possibly going into uh work with genetics <U WHO="S1"> uhuh </U> in genetic research </U>
+			<U WHO="S1"> and how did you come to that? </U>
+			<U WHO="S4"> i had, my first two years of high school i took two biology courses and we, were exposed to some genetics,<PRAG TYPE="EVN" SUBTYPE="POS"/> and i thought it was pretty interesting. <U WHO="S1"> mhm </U> and also like the, just the stuff that's been in the news on genetics, things like that </U>
+			<U WHO="S1"> mhm, mhm. okay, so, so you took biology and chemistry and physics in high school? </U>
+			<U WHO="S4"> mhm </U>
+			<U WHO="S1"> and did you take any A-P courses? </U>
+			<U WHO="S4"> yeah i took, i took A-P Calculus, A-P </U>
+			<U WHO="S1"> A-B or B-C? </U>
+			<U WHO="S4"> A-B. </U>
+			<U WHO="S1"> A-B. <OVERLAP> okay </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> uhuh </OVERLAP> A-P Lit, and, what else A-P Psych, A-P History </U>
+			<U WHO="S1"> oh you took a lot. now did you take tests in all of those? </U>
+			<U WHO="S4"> just the lit and history. </U>
+			<U WHO="S1"> okay. and, do you know your scores yet? </U>
+			<U WHO="S4"> history, i took that my junior year and i got a four on that, i haven't gotten <OVERLAP> the scores </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> is that the </OVERLAP> American History? </U>
+			<U WHO="S4"> yes </U>
+			<U WHO="S1"> okay. well that, American History four will give you credit for the first year's worth of American history here. <U WHO="S4"> okay </U> so you get four credits, and you get credit for History one-sixty and one-sixty-one, which is the freshman h- American history sequence. <U WHO="S4"> mhm </U><PRAG TYPE="ADV"/> so, if you wanted to take another American history course, you would have to look for, something that had that as a prerequisite. <U WHO="S4"><OVERLAP> mhm </OVERLAP></U><OVERLAP> you know, </OVERLAP> so you could take a three-hundred- or, sometimes students even take a four-hundred-level American history course if they're really interested in history <U WHO="S4"> mhm </U> after having had that A-P uh, you know credit. so that, works you know really pretty well for some people. and then you said you took the uh English too? </U>
+			<U WHO="S4"> yeah i took both the, lang and comp and lit and comp. </U>
+			<U WHO="S1"> and how do you feel about those? </U>
+			<U WHO="S4"><PRAG TYPE="EVN" SUBTYPE="POS"/> i think i did pretty good, po- possibly fours </U>
+			<U WHO="S1"> if you get fours or fives in those, then you're going to get six credits for each, <U WHO="S4"> okay </U> and, you know that those credits are added, are reckoned kind of toward that hundred and twenty that you need to graduate <U WHO="S4"> mhm </U> so, you, if you got a four or a five then that would be twelve credits plus the four for, American history that would <U WHO="S4"><OVERLAP> mhm </OVERLAP></U><OVERLAP> give you </OVERLAP> sixteen credits already. and what that really does for you i mean it doesn't, get you out of anything really <U WHO="S4"> uhuh </U> but when you go to register next for next semester, you'll already be registering with the sophomores, because those sixteen credits, plus what you take in the fall <U WHO="S4"> uhuh </U> will probably add up to twenty-five or more, and that's what you need to be a sophomore. <U WHO="S4"> right </U> so that, it helps you that way too you see? <OVERLAP> so are y- </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> so </OVERLAP> what does that do for me applying with sophomore, standing? </U>
+			<U WHO="S1"> it means that you get an earlier CRISP date, and so you uh, some of the courses that are typically sort of first-year-student courses, <U WHO="S4"> right </U> you get a first whack at the them, <U WHO="S4"> okay </U> before some other first-year students will. <U WHO="S4"> uhuh </U><PRAG TYPE="EVN" SUBTYPE="POS"/> so, you know that's really pretty good. <U WHO="S4"> mhm </U> yeah. so, you want to do sort of a pre-med curriculum or just a free_ a pre-biology curriculum or how how have you thought about it? </U>
+			<U WHO="S4"> um, i'm not really sure which way i wanna go with that so, <U WHO="S1"> mhm </U> i guess probably for now pre-biology. </U>
+			<U WHO="S1"> mkay. you're very very lucky because pre-med and biology prerequisites pre-med requirements <U WHO="S4"> uhuh </U> and biology prerequisites are identical. <U WHO="S4"> right </U> so you're really pretty lucky that way. <U WHO="S4"> uhuh </U> um, and so, let's see now, Dr Crown explained to you about um, how there're some courses that you have to take <U WHO="S4"> mhm </U> and then some, there's cer- you have some choices and then you've got, particular requirements that you must meet by the time you graduate and, it's <U WHO="S4"><OVERLAP> right </OVERLAP></U><OVERLAP> better </OVERLAP> to do some early and some late and, and so on, okay, um, so your placement for chemistry was into the Chem one-thirty which is the, um, first, inorganic chemistry <U WHO="S4"> mhm </U> it's the general chemistry class,<PRAG TYPE="EVN" SUBTYPE="POS"/> um, your math placement's real good, um, and then for French you were placed into one-oh-three, which is that sort of um, mm, that course kind of between the first and the second years, <U WHO="S4"> mhm </U> so if you decide to go on with French then you would need three semesters of French. <U WHO="S4"> okay </U><PRAG TYPE="ADV"/> and, the thing to do, i don't know, sometimes i advise students to think about it, i mean is French really what you want, uh or is there another language that you're more interested in, <U WHO="S4"> mhm </U> what is this a Hungarian name? </U>
+			<U WHO="S4"> uh, no, Polish </U>
+			<U WHO="S1"> Polish </U>
+			<U WHO="S4"> yes </U>
+			<U WHO="S1"> okay. uh, i saw that, i saw the Z <U WHO="S4"> uhuh </U><PRAG TYPE="ADV"/> um, so, you know you might want to take Polish <U WHO="S4"> mhm </U> because </U>
+			<U WHO="S4"> yeah i was thinking about whether or not i wanted to take a different language </U>
+			<U WHO="S1"> yeah.<PRAG TYPE="ADV"/> you might wanna take Polish or you might say to yourself well gee, i want, uh you know i want biology or, or biomedical engineering i mean which languages, is that stuff being done in <U WHO="S4"> mhm </U> uh and probably the answers are you know German and Russian. so you might wanna think about German and Russian. <U WHO="S4"> mhm </U> i mean if you really like French, there's no reason to change, but if you are thinking about, you know if you really want to start another language, <U WHO="S4"> mhm </U> or if you just see other languages out there that you know make more sense to you? that's something that you might think about. if you are continuing with French, i strongly advise that you do it right away. <U WHO="S4"> uhuh </U> you know. that you sign up for French one-oh-three for the fall. if you're thinking about another language, then you can wait, a year or even two. uh cuz you need the equivalent of two years, <U WHO="S4"> okay </U> and as long as you start by the beginning of your junior year, you know you're fine... <U WHO="S4"> okay </U> so uh, have you thought about, whether you're more interested in Great Books or Classical Civilization? </U>
+			<U WHO="S4"> i, wasn't really sure what the Classical Civilization, is, about. </U>
+			<U WHO="S1"> Classical Civilization is really a course in, um, cultural history, <U WHO="S4"> mhm </U><PRAG TYPE="NAR"/> so um, oh the examples i use is, the example i always use is, you know if you look at, the Iliad, okay which is, an epic by Homer and it talks about the Trojan war which is, the assault on Troy by the Greeks led by Agamemnon and Tele- Telemachut not Telem- not Telemachus. ugh, God. i've got my, i've got my Greeks mixed up. but... and the hero, of, the Iliad, is, Achilles, <U WHO="S4"> mhm </U> really. he is the great warrior. and the whole, story of the Iliad really basically is, Achilles' wrath, he is angry, he is angry, at Agamemnon for having taken away his, prize of war which is a beautiful young woman. <U WHO="S4"> mm </U> and, so he says i won't fight. and when he says he won- he isn't gonna fight, then the Greeks start losing, and Hector, who is the great warrior on the Trojan side, stirs up the Trojans and they win and win and win. and so the whole_ a lot of this is, why does Achilles not fight? what are these issues about? what are these themes, that are being dealt with <U WHO="S4"><OVERLAP> mhm </OVERLAP></U><OVERLAP> in the </OVERLAP> Iliad? what is honor? what is, responsibility? what is glory? what is anger? what is wrath? what is, mm, what really is the relationship between the warrior and his, and his leader? you know things like that, but th- you know you're talking about themes and motives, primarily, and allusions and you're talking about it as a work of art as literature. when you do the Iliad in Classical Civilization and you really have practically the same reading list in Classical Civilization as you do in, in Great Books, <U WHO="S4"> mhm </U> you're looking at the Iliad as a, uh, as a historica- as a as an historical document. so what does this tell us about the, governance of the Greek warrior states, city states? what does this tell us about, warfare? what does this tell us about their religion? what does this tell us about their state of technology and economics? so it, <U WHO="S4"><OVERLAP> mhm </OVERLAP></U><OVERLAP> you </OVERLAP> know it's it's a different, um a whole, <U WHO="S4"><OVERLAP> mhm </OVERLAP></U><OVERLAP> it's </OVERLAP> it's sort of a different emphasis, and that different emphasis um is the difference between studying, this as literature and studying this as history. <U WHO="S4"> mhm </U><PRAG TYPE="ADV"/> so, for the people who are more interested in history and maybe sociology and social concepts and so on, Class Civ makes a lot more sense. <U WHO="S4"> mhm </U> um, because you're still doing the same, literary works it isn't as though you're losing out on that, <U WHO="S4"> uhuh </U> but for the people who really like literature, or who, um, even, not that they really love literature, but that they don't have that other interest, <U WHO="S4"> mhm </U> then Great Books might make more sense. </U>
+			<U WHO="S4"> i think i'd probably wanna go with Great Books </U>
+			<U WHO="S1"> yeah, about ninety percent of the students do. <U WHO="S4"> mhm </U> and it's it's a, course that has a great following you know<PRAG TYPE="EVN" SUBTYPE="POS"/> i mean everyone loves Professor Cameron, everybody likes to go, <U WHO="S4"><OVERLAP> mhm </OVERLAP></U><OVERLAP> to </OVERLAP> the same class, and they all wake up_ are you gonna be living in Honors Housing by the way? </U>
+			<U WHO="S4"> no i won't </U>
+			<U WHO="S1"> okay, do you know where you're living? </U>
+			<U WHO="S4"> i'm up on North Campus. </U>
+			<U WHO="S1"> oh, okay.<PRAG TYPE="ADV"/> so, if you do decide on Great Books and it sounds like you're going to, um tomorrow let's_ tonight in fact ask the um peer advisors <U WHO="S4"> mhm </U> in the computing center to figure out uh the Bursley section of Great Books into your schedule. because there's a section of Great Books recitation, <U WHO="S4"> mhm </U> that is only intended for Bursley students so it'll have all the people who are in honors in Bursley, <U WHO="S4"> uhuh </U> in there,<PRAG TYPE="EVN" SUBTYPE="POS"/> so that'll be good, then you'll know who the other honors kids are who are living in Bursley. </U>
+			<U WHO="S4"> alright </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S4"> mhm </U>
+			<U WHO="S1"> so do you have any questions for me? </U>
+			<U WHO="S4"><PRAG TYPE="ADV" SUBTYPE="SOL"/> um, i don't know, i was wondering if, whether, like what kind of classes i should be taking should i take like math or chemistry <OVERLAP> the first semester </OVERLAP></U>
+			<U WHO="S1"><OVERLAP><PRAG TYPE="ADV"/> well you should take </OVERLAP> chemistry, you should take, French, you should take either Great Books or Class Civ, and then for math you've got some options, <U WHO="S4"> mhm </U> because you can dec- you can decide on whether you should take Honors, Math or non-Honors Math.<PRAG TYPE="EVN" SUBTYPE="POS"/> your math <U WHO="S4"><OVERLAP> mhm </OVERLAP></U><OVERLAP> score, </OVERLAP> your A-C-T is very good, your math placement score is very good. <U WHO="S4"> mhm </U> to me you look like a pretty obvious candidate for Honors Math. <U WHO="S4"> right </U> so, now the question becomes one-eighty-five, or two-ninety-five. and that's where, we've gotta do some thinking, and that's where you've gotta do some thinking, <U WHO="S4"> mhm </U> because the one-eighty-five is pretty much a, standard kind of calculus course, with probably more theory than you've seen, <U WHO="S4"> yeah </U> and the two-ninety-five is a very theoretical course, intended for students who really think calculus is beautiful, and math is, wonderful. </U>
+			<U WHO="S4"> that's not me </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> it isn't? <OVERLAP> okay </OVERLAP></U>
+			<U WHO="S4"><OVERLAP><PRAG TYPE="EVN" SUBTYPE="POS"/> no </OVERLAP> i'm, like i'm good, i'm pretty good at math, <U WHO="S1"> uhuh </U><PRAG TYPE="EVN" SUBTYPE="NEG"/> but i'm not like, i don't really like it </U>
+			<U WHO="S1"> oh you don't really like it. </U>
+			<U WHO="S4"> no.<PRAG TYPE="EVN" SUBTYPE="NEG"/> i'm not really <U WHO="S1"> ooh </U> big on it </U>
+			<U WHO="S1"> alright </U>
+			<U WHO="S4"> yeah. it comes pretty easy to me, but i don't know. </U>
+			<U WHO="S1"><PRAG TYPE="ADV"/> (alright) well you may wanna think about whether you wanna do, Honors Math or mains- or just a regular, <U WHO="S4"> mhm </U> math, you know in the teens, because if you don't, i mean even for one-ninety-five, the people who are in there, i mean one-eighty-five excuse me, the people in there, really like math, <U WHO="S4"> mhm </U> really wanna do it. your scores say, you'd be fine, but if you're lacking that gee i love math, then that's then that's something you oughta think about. </U>
+			<U WHO="S4"><PRAG TYPE="ADV" SUBTYPE="SOL"/> what about one-fifty-six? </U>
+			<U WHO="S1"> one-fifty-six is fine for people who have A-P credit for one-fifteen. <U WHO="S4"> uhuh </U> so did you t- and you said you didn't take that A-P test correct? <U WHO="S4"> no </U> yeah.<PRAG TYPE="ADV"/> so i would um, i think maybe one-fifteen is a little bit too elementary for you, <U WHO="S4"> mhm </U> and one-eighty-five is probably the right course for you, but, i don't, want to, say that you must take it, unless you want to. now tomorrow morning we're going to have a, a math advisor here between eight and eleven_ uh nine and eleven, and, you can talk to him, more about this kind of <U WHO="S4"><OVERLAP> mhm </OVERLAP></U><OVERLAP> bounce </OVERLAP> some ideas off him, um, i'm not a mathematician so i can't talk to you specifically <U WHO="S4"><OVERLAP> right </OVERLAP></U><OVERLAP> about </OVERLAP> you know, this function and that function and have you done this and have you done that, but he can, <U WHO="S4"> mhm </U> and he can also sort of, talk to you about what you might be more interested in. <U WHO="S4"> okay </U> alright? </U>
+			<U WHO="S4"><PRAG TYPE="ADV" SUBTYPE="SOL"/> so, you think i should go with like, either the Great Books or the Classical Civilization, <U WHO="S1"> right </U> language, math and chem? </U>
+			<U WHO="S1"> probably, <U WHO="S4"><OVERLAP> okay </OVERLAP></U><OVERLAP> probably </OVERLAP> um, and then second semester, it doesn't get much different. </U>
+			<U WHO="S4"> uhuh. so i do the inorganic, chemistry this semester? </U>
+			<U WHO="S1"> right <U WHO="S4"> right </U> and the organic next semester, <U WHO="S4"> okay </U> the first semester of the organic, and um, you know if you're looking here, in the bulletin, <U WHO="S4"> mhm </U> i gave you yours yes, your, did i give you yours? </U>
+			<U WHO="S4"> uh this, no </U>
+			<U WHO="S1"> no, this is yours <U WHO="S4"> okay </U> um, if you're looking in the bulletin, you can look at um, pages... fifty-three... you know fifty-three through, fifty-six that describes the biology concentration, and then page thirty-three, is where the pre-med information is... </U>
+			<U WHO="S4"> alright </U>
+			<U WHO="S1"> alright? now, this evening you're gonna go, as i said you're gonna go to the, to the computer classroom, <U WHO="S4"> mhm </U> and then tomorrow morning you're gonna come back here, we're gonna finalize your schedule, one of the peer advisors is gonna help you register, and then you're gonna leave here with your schedule all, all ready and in your hand and all set. </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S4"> mhm </U>
+			<U WHO="S1"><PRAG TYPE="EVN" SUBTYPE="POS"/> it was very nice meeting you. </U>
+			<U WHO="S4"><PRAG TYPE="EVN" SUBTYPE="POS"/> nice meeting you too. </U>
+			<U WHO="S1"><PRAG TYPE="EVN" SUBTYPE="POS"/> good. i'll see you tomorrow </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S1"> bye bye </U>
+			<U WHO="S4"> bye </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

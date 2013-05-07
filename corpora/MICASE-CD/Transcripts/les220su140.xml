@@ -1,0 +1,1590 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="les220su140">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Ethics Issues in Journalism Lecture </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LES220SU140 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="83">
+						<DATE> March 14, 2001 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Amy Burke, Jessica Rett </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Jessica Rett </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 3/19/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="25"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="24"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Instructor" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S17" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S18" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S19" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S20" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S21" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S22" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S23" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S24" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Small Classroom, Modern Languages Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> and then i'll tell you which, team you're on and which_ the way you're gonna argue in favor of it. </U>
+			<EVENT DUR="2:02" DESC="PAUSE WHILE S1 HANDS BACK PAPERS"/>
+			<EVENT DUR="1:35" DESC="RECORDING RELATED CONVERSATION"/>
+			<U WHO="S1"> it'd be it'd be fun to hear our voices. <EVENT WHO="SS" DESC="LAUGH"/> (xx) maybe not who knows. anyway so that's one thing, uh w- uh, Dennis and, and Laura have, things that, they were gonna get to we ran out of time last time. we have our reading on um, photo journalism and doing ethics you've got, reports on photos, and um, i'll give you a new assignment, and we'll do a role playing game based on the handout, for today. and then on Monday we finish, uh doing ethics, and i will um, at that time i'll talk about, Tailwind so that, for the next assignment a week from today you'll be_ you'll know what to look for. because there's a lot, there's a lot to look at in the in the Tailwind disaster at C-N-N. okay so let's start out with what we, what we uh ran out of time on last time. you wanna start? </U>
+			<U WHO="S2"> okay um, this was an article in People that we talked about like, i guess it was two weeks ago now about, when we read, about the little two-year-old who was murdered by two ten-year-old boys in England and um, i'll pass it around i h- highlighted some things with my pen that were, the interesting parts like, um <SEG TYPE="READING"> on January eighth of this year a London High Court judge ruled that Jamie's killers both eighteen and el- eligible to be released now be given new identities and anom- anonymity, for life to protect them from reprisals and the ferocity of the Briti- Britain's tabloids. </SEG> and um, you know i- they've only been in jail for eight years but the justice described the two as genuinely extremely remorseful and say that no further detention would s- would serve any purpose so, it's kind of interesting and then there's, a long thing about, you know what other people think about it and what they've been doing in the past eight years these two kids and how they're gonna try and make their, debut back into society so this week so it's um, i mean it's kind of scary and, it's interesting why, to think why somebody would rule that they should be allowed to be given anonymity, you know cuz the, issue is i guess that they were ten years old when they did this and they should be given a chance at another life, and then the argument is that it was such a horrible crime that, you know why should you protect these two pe- these two kids and um, </U>
+			<U WHO="S1"> this is anonymity in terms of their names right? </U>
+			<U WHO="S2"> right </U>
+			<U WHO="S1"> how about their, images, their faces? <U WHO="S2"> um <OVERLAP> they show a </OVERLAP>
+				</U>
+				<OVERLAP> can can </OVERLAP> newspapers take pictures and publish the photograph without the name? or is that not in the judge's ruling? </U>
+			<U WHO="S2"> um it didn't say, <U WHO="S1"> mhm </U> but i mean it shows a picture of them when they were ten, and so i guess if you're like, if they look, i don't know about you but i look exactly the same as when i did when i was little, <EVENT WHO="SS" DESC="LAUGH"/> so it'd be <OVERLAP> really easy to tell. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well i have less hair </OVERLAP> than i, than (i did then.) <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so, um </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> was the </OVERLAP> initial sentence longer than eight years? </U>
+			<U WHO="S2"> yeah the initial sentence was for fifteen years of <U WHO="S3">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<OVERLAP> detention. but um, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (xx) a good time </OVERLAP>
+				</U> they switched it to eight years, so just until they were eighteen <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and um, </OVERLAP> yeah so it doesn't_ i mean i guess they don't even i don't even think the papers know what these boys look like now, <U WHO="S1"> mhm </U> and so there's a chance that they look nothing al- <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> alike </OVERLAP> and that they'll, live the rest of their lives in, anonymity or there's a chance that maybe people will figure it out. and i don't_ it doesn't really say what the papers are allowed and not allowed to do it just says that, </U>
+			<U WHO="S1"> cuz cuz wherever they're living, you know let's say they're living in some town somewhere in England, once you publish the photograph anybody in the town that, sees that person on the street is gonna know who they are. <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> then </OVERLAP> you might as well publish their name because it, it then becomes public knowledge. </U>
+			<U WHO="S2"> yeah i don't think that they've been, um press has been, granted access to them <U WHO="S1"> mhm </U> so i don't know if people know <OVERLAP> it. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but i </OVERLAP> just didn't know whether the judge specified image as well as name. </U>
+			<U WHO="S2"> it doesn't say in here <U WHO="S1"> mhm </U> unfortunately <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> but, </OVERLAP> and then also, i didn't_ i couldn't find another picture so, i chose this one so i'm just gonna say it right now but this is an interesting picture to publish because it's a picture of one of the boys leading the two-year-old out of the mall. which is obviously kind of scary because, you see this, what normally looking two kids walking hand in hand, down a mall and you don't realize that one of these is a- about to commit like a really bad murder, <U WHO="S1"> mm </U> and so it's really kind of um a scary picture an interesting to pu- to print so. </U>
+			<U WHO="S4"> was that picture staged? </U>
+			<U WHO="SU-f">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> this? </OVERLAP> no this is from a mall security camera. </U>
+			<U WHO="S4"> oh it's from a camera? <U WHO="S2">
+					<OVERLAP> this is real. </OVERLAP>
+				</U>
+				<OVERLAP> a security camera? </OVERLAP> okay. </U>
+			<U WHO="S2"> yeah it um, a mall camera caught one of his killers leading him away. </U>
+			<U WHO="S4"> okay. </U>
+			<U WHO="S1"> anybody happen to watch Nightline last night? they mentioned that photograph, <U WHO="S2"> oh really? </U> last night. they did a story about, privacy in England and hidden cameras, in fact the police wanna, have cameras posted all over the place. </U>
+			<U WHO="S2"> yeah i'll pass these around <OVERLAP> so that (you can look at it.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> remember how at </OVERLAP> the Superbowl people were surprised to hear that everyone who attended the Superbowl had their photograph taken, by police? </U>
+			<U WHO="SS"> mhm </U>
+			<U WHO="S1"> uh, so in England they wanna do that on a... constant basis have, cameras everywhere. and this piece, last night on Nightline specifically mentioned that photograph, as an example of, police saying there's a value to having cameras (out there.) </U>
+			<U WHO="S2"> right. Big Brother. </U>
+			<U WHO="S1"> yeah. <EVENT WHO="SS" DESC="LAUGH"/> good well thanks for that. Dennis? now did everybody still have the handout from last time? </U>
+			<U WHO="S3"> nope </U>
+			<U WHO="S1"> do you have an extra copy? </U>
+			<U WHO="S5"> yeah <EVENT WHO="S1" DESC="LAUGH"/>
+			</U>
+			<EVENT DESC="UNINTELLIGIBLE SPEECH NEXT :33"/>
+			<U WHO="S13"> while we're doing this i have a question um, photo essays do they far fall in the same topic as, regular photo journalism? </U>
+			<U WHO="S1"> yeah. they're similar to feature, you know they're the photo equivalent of a, feature print story. feature text. so they can be more, atmospheric than a hard news photo. okay Dennis? </U>
+			<U WHO="S5"> uh, well the the the th- the article that i found over the weekend was about the um, associa- or American Society of Newspaper Editors, um, with support of sopi- Society of Professional Journalists trying to get, uh copies of the autopsy photos of race car driver Dale Earnhardt's, uh body after he after he was um, killed in a stock car race at the, Daytona Five Hundred. um, part of the background of the story is the other article that i passed out, which talks about uh Teresa Earnhardt's reaction, uh just a few days after the, after the race where she said that she wanted the, medical examiner's records to remain confidential, of course there's the aspect, of (in) photo journalism of, of of of public harm and of course granting public access to aus- autopsy photographs. um, it turns out that Florida has a pretty liberal law regarding uh, autopsy photographs if they're not part of the active criminal investigation so therefore, uh the newspaper editors, uh collectively are going after these documents, the reason is is they want to, hire an independent investigator to determine if there was another reason, why he died, during his car crash, if there was a reason that was contrary to the official finding. um i should also note, as a side bar to these stories is that, it became, also published, or it became known, that, Dale Earnhardt's car there was a question regarding the, safety or the, uh whether he was w- actually wearing a an intact, safet- uh safety belt which would have restrained him. now obviously if you're going two hundred miles an hour in a stock car race and you slam into the wall, you know the odds are k- are heavily against you. but anyway, <EVENT WHO="SS" DESC="LAUGH"/> the uh, the N-S-C, uh </U>
+			<U WHO="S1"> can i ask you a question? </U>
+			<U WHO="S5"> sure go ahead </U>
+			<U WHO="S1"> um, wh- what are the unanswered questions, in his, case? cuz, i mean, sh- surely the cause of death is pretty clear isn't it? wh- what questions are there left to ask? </U>
+			<U WHO="S5"> well apparently the the newspaper editors, wh- wh- i guess two f- as far as i can see one is the access of the pictures, in order to determine an independent investigation since they were newspaper editors, they felt that under Florida law they had a right to actually get a copy of them. and, evidently they f- uh, as i said before as a as a, news organization they've gotten s- support of S-P-J and other newspaper <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> organis- uh, </OVERLAP> editors so it's not exactly, like they're, like they're making some met- kind of maverick intention here. <U WHO="S1"> mhm </U> and the other aspect of course is the fact that, um what is to be determined by actually having it in_ what is the worthwhile, plus side? what is the <U WHO="S1"> mhm </U> what's the (what're the) ramifications of actually having a, third party investigator look at, another possible cause of death. i- </U>
+			<U WHO="S3"> is there any posi- possible cause of death? i mean, if you s- you, i saw it on T-V. so, you see just, crash. i mean and he was one of the top, race car drivers right? and so i mean it, </U>
+			<U WHO="S1"> so o- i mean obviously <U WHO="S3">
+					<OVERLAP> why do they need them </OVERLAP>
+				</U>
+				<OVERLAP> his death was caused by the crash so </OVERLAP> that's not the question <U WHO="S7">
+					<OVERLAP> they're b- </OVERLAP>
+				</U>
+				<OVERLAP> the ques- </OVERLAP> the question is what aspect of the crash specifically caused his death? </U>
+			<U WHO="S6"> there were a lot of questions about the type of restraints um, what s- <U WHO="S2">
+					<OVERLAP> (like how to change) </OVERLAP>
+				</U>
+				<OVERLAP> like there're so many different seat belts and there's certain ones, yeah. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> like how did it start? what happened to him at the moment of, impact? </OVERLAP> which part of his body, <OVERLAP> made contact with, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> like, should NASCAR </OVERLAP> change their rules about safety precautions? <U WHO="S1"> mhm </U> is i think one of the big issues. because th- like, if he was using, the safety precautions they have right now and he died maybe they should, up the safety precautions <U WHO="S1"> right. </U> so </U>
+			<U WHO="S5"> i should_ lemme ask l- i just remembered one more thing. part of the other, controversy, quote unquote is the fact that NASCAR is under some heat right now because this is the fourth, race car driver to die in the last nine months, <U WHO="S3"> oh </U> so there's the suspicion and then there's the perception that, s- safety's safety <U WHO="S1"> mhm </U> measurements aren't exactly up to snuff here <U WHO="S1"> mhm </U>
+				<OVERLAP> and, perhaps </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (that they're) lax </OVERLAP> being lax in, </U>
+			<U WHO="S5"> right and as as as a news story i think these these, editors are_ and photo people are looking at this, information as possible, uh information that they'd like to, impart to the public. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S8"> one of the questions that they were, that, i know that independent sources want to find out is, there's a different helmet that <U WHO="S7">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> you can wear, </OVERLAP> and Dale Earnhardt is like, was, vehemently like against that helmet he, wore the open faced helmet, and there's another helmet that has like the closed face helmet and, apparently he died of head injuries, <U WHO="S1"> mhm </U> so they were wondering if, like he had worn the, the closed face helmet, if that would have possibly like helped him, <U WHO="S1"> mhm </U> and that's what, uh independent sources wanted to, check into, after the autopsy was released. </U>
+			<U WHO="S1"> yep </U>
+			<U WHO="S2"> well i don't think the newspapers should be granted access to the photos because um, like basically we live in a morbid society so if one newspaper has them even if they don't publish 'em it's gonna get out, be on the net or something like that, <U WHO="S1"> mhm </U> and so so people are gonna go see it and i think that is a gross invasion of privacy, <U WHO="S8"> mhm </U> to have your pictures of your_ like <OVERLAP> if i was dead and i had a autopsy </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> but th- they they said exclusively </OVERLAP> though that's not their expressed intent for, </U>
+			<U WHO="S2"> yeah but <OVERLAP> it will happen. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what if, </OVERLAP> what if you did it this way? what if the f- they cannot have the photo but the expert can come into a room where there's a guard, expert can look at the photo, take notes, cannot take a picture of it, cannot take it, <OVERLAP> with the expert when the expert leaves the room. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> if they wanted their opinion </OVERLAP> i think that's fine but i think if they wanna like see the photos and like look at 'em it's g- it's bound to get out and <OVERLAP> i don't think that's right. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> do they want photos </OVERLAP> of the body or photos of the incident as it took place? </U>
+			<U WHO="S2"> no they want the photos of the <OVERLAP> body. autopsy photos. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> body. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> autopsies. autopsy, pictures of the corpse. corpse yeah. </OVERLAP> yeah. </U>
+			<U WHO="S9"> just i, i uh tend to think why is it anybody's business, to see these photos? i mean, the guy is dead, <U WHO="S2"> he's a public <OVERLAP> figure </OVERLAP>
+				</U>
+				<OVERLAP> the family, </OVERLAP> the family is in pain, it's uh, i mean it's not, a journalist's job to uncover, whether NASCAR is unsafe. common sense would dictate that going around the track at two hundred forty miles per hour, <EVENT WHO="SS" DESC="LAUGH"/> is probably unsafe in itself, and if four drivers have died in the last nine months, i'm sure NASCAR will take some steps to correct that and it, doesn't require the involvement of journalists. </U>
+			<U WHO="S1"> are they more likely to take steps if the press puts some heat on them? </U>
+			<U WHO="SS"> mhm yeah </U>
+			<U WHO="S2"> the press has already put heat on 'em they're putting heat on themselves. i don't think it's necessary. </U>
+			<U WHO="S1"> well they're obviously not having enough heat put on them because it keeps happening. <U WHO="S2">
+					<OVERLAP> i think (xx) </OVERLAP>
+				</U>
+				<OVERLAP> i mean for_ at least it's possible. </OVERLAP> yes? </U>
+			<U WHO="S10"> showing pictures of a dead body is not gonna put the heat on 'em that's necessary to make the changes though, i mean it's gonna be the reporting on the incident, you know it's th- one photo of a dead_ i mean i i just think that it's, definitely an invasion of privacy, that isn't necessary. </U>
+			<U WHO="S1"> Dennis is it clear whether the the any of the newspapers intend to publish this photograph? </U>
+			<U WHO="S5"> no in fact they they s- they reported rather clearly as i said before they have, uh their, their intention is to, <U WHO="S1">
+					<OVERLAP> i mean have they said we will not (publish) (xx) </OVERLAP>
+				</U>
+				<OVERLAP> prevent pr- prevent a public release </OVERLAP> of the photos. </U>
+			<U WHO="S1"> have they said we will not publish the photo? or have <OVERLAP> they just said we don't intend or so </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> (xx) </OVERLAP> we don't intend to. </U>
+			<U WHO="S5"> right. </U>
+			<U WHO="S1"> that's different from saying <OVERLAP> we won't won't do. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> right. we don't </OVERLAP> intend to well <OVERLAP> what if something else comes up? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> right the the wording </OVERLAP> was is has no intention of <OVERLAP> publishing photos, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no intention </OVERLAP> of publishing </U>
+			<U WHO="S5"> it was their attorney who said the photos are important because they might reveal what caused, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> Earnhardt's </OVERLAP> death. <U WHO="S1"> mhm </U> and then the other th- as i said before the other thing is that that, in Florida, granting public access to autopsy photographs is permissible if it's not part of a criminal investigation. <U WHO="S1"> mhm </U> so the other feather in their cap is the fact that if it was another state then we we might not be having this argument. </U>
+			<U WHO="S1"> i guess another question would be has this happened in the past? and it, has there been an autopsy photo that, news media have obtained access to? you don't happen to know do you? </U>
+			<U WHO="S5"> uh <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> not not that you're the expert on this uh, </U>
+			<U WHO="S2"> thinking back to who's died recently no. </U>
+			<U WHO="S1"> well in the previous crashes well you know you say they keep having all these crashes so the issue must've come up, </U>
+			<U WHO="S5"> i remember when this when the, <U WHO="S1"> earlier </U> wh- when she first went on, she had the press conference if you s- look at the picture on the top right, <U WHO="S1"> mhm </U> her and her son Dale Eh- Earnhardt junior, <OVERLAP> were at this p- whoop </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> this this is this, this one here. and he had a crash too didn't he? </U>
+			<U WHO="SS"> yeah </U>
+			<U WHO="S12"> yeah he crashed (the next) race. </U>
+			<EVENT DESC="BACKGROUND CONVERSATION NEXT :20"/>
+			<U WHO="S1"> was he wearing the the helmet and the restraint (xx) does anybody happen to know? yeah that would be interesting to know. </U>
+			<U WHO="S4"> didn't he come in second in the (race then?) </U>
+			<U WHO="S7"> no he didn't finish </U>
+			<U WHO="S5"> no he didn't finish it it got rained out <OVERLAP> (that day) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<EVENT DESC="LAUGH"/> they mentioned that it was <OVERLAP> his uh third wife. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> (his team won the race though?) </OVERLAP>
+			</U>
+			<U WHO="S5"> well yeah <U WHO="S3">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> his </OVERLAP> team won the race yeah but he didn't, <OVERLAP> he wasn't he he wasn't in it. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> the race that he was in with his dad. </OVERLAP> they were like neck and neck in the race with his father right? </U>
+			<U WHO="S12"> i just have a problem with them so just blatantly, uh going against what his family wants. i mean i understand that, i mean there are a lot of things in this world that obviously your family wouldn't want to get out like if you're a criminal you know obviously your family is, <U WHO="S1"> mhm </U> but, something like this that's truly painful i mean, the possibility just the possibility that this could be published, i mean yeah like like it says, like i- they they stated that they have no intention of publishing the photos <U WHO="S1"> mhm </U> well, if it's gonna make the story better, what's gonna stop what's to stop them? </U>
+			<U WHO="S1"> yeah, there's the danger it will get published, number one number two it's not clear to me i don't know how you feel but it's not clear to me that, having someone look at this photo's <U WHO="S12">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> gonna </OVERLAP> make any difference as you said, <U WHO="S5">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<U WHO="S12">
+					<OVERLAP> and, </OVERLAP>
+				</U> whether it's gonna put more heat on NASCAR i don't, <U WHO="S12"> and how is looking at the photo gonna, </U> it doesn't seem clear. it's possible but it's not, it's not so sure that it would clearly outweigh, uh, protecting the family from harm. <U WHO="S12"> and, </U> l- let me give you a hypothetical you know how i love hypotheticals. <EVENT WHO="SS" DESC="LAUGH"/> to make it more difficult. let's say that a photograph, would make it possible for, police to catch a criminal. right? and they strongly urge, news media <U WHO="S3">
+					<OVERLAP> photograph of what? </OVERLAP>
+				</U>
+				<OVERLAP> to publish a photograph </OVERLAP> a photo not this one but uh some other photograph. you know photograph of a, victim of a murder. right? family is strongly against it, you know says it'll cause a lot of harm, son said he's gonna commit suicide you know you could make it, <EVENT WHO="SS" DESC="LAUGH"/> make it as difficult as you want, but the, argument on the other side is the police say there's a very good chance we can catch the criminal because someone will, will recognize the victim and they'll, associate. now it's a much tougher call isn't it? because you've got a clear argument on the other side. what do you do? yeah. </U>
+			<U WHO="S11"> well i mean isn't a criminal case, different cuz then you know if it could help the police could just go to the <OVERLAP> courts and then, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but you've got </OVERLAP> the same thing with the family saying it's gonna cause us a lotta harm. </U>
+			<U WHO="S11"> but, if like the court subpoenaed the photograph from the newspaper and then, it doesn't have to be printed but the police can just look at it. <OVERLAP> i mean it seems like (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no no no the police </OVERLAP> want the public to see this <OVERLAP> picture. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> oh they want the public to see it. oh. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> they want the newspapers to get this picture_ cuz it's a little different because it's not newspapers asking for it but, <U WHO="S3"> like </U> the newspapers might agree they might say well even if, police didn't want us to do it we still would do it. then you've got a tough call don't you? yeah. </U>
+			<U WHO="S12"> yeah cuz then like there's such, there's like, such a strong argument for minimizing harm to like, other people in the community who could be like, hurt by the, by the killer as opposed to like minimizing the harm of the family isn't so important then. </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"> like what are those rules? like, the greater good of, you know the majority of the people. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S2"> the needs of the many. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> thanks Dennis. that's good. um, let's let's jump to our role playing game before we get, to the reading. um, don't spend a lot of time reading these things but you just wanna get the sense as to which one, is more newsworthy. you've got two stories. both these stories broke yesterday, right? the New York Times and C-B-S, got the results of their opinion polls, showing that Bush enjoys, a solid sixty percent, popularity. but, about half the public's not so sure that he's really in charge. s- some very interesting statistics about, his standing, it has great political significance has great implications for policy. but the other story is that he apparently, is breaking a p- one of his campaign pledges, to restrict, uh carbon dioxide, emissions. which scientists say, is a major cause of global warming. uh, you, and and we'll have two teams, and you'll_ the main thing you wanna do is say what's wrong with the other team's position, okay? that's your main focus why the other team is wrong. i guess we could just divide it right here Kat you're on that side, Janeiro you're on that side. uh, you want the poll. the New York Times_ w- wait a minute. <EVENT WHO="SS" DESC="LAUGH"/> you have to have reasoned arguments not just, dissing. the New York Times C-B-S poll sixty percent, rating for Bush, Bush says he's gonna break his campaign promise to restrict carbon dioxide. one of these two is gonna lead the New York Times the print edition's gonna be in the upper right hand corner of this morning's paper. no fair if you already saw, the print edition. and it'll also be the top story on the online edition, when they start the day but of course it'll change depending on what other news breaks. okay? so take a, just very quickly read through some of the basic facts in these two, and then, form your caucuses and prepare really powerful arguments against the other, side why they're wrong, in terms of what, the New York Times should be doing. what is the f- what is the duty of the New York Times to its readers, to its profession, of journalism and to the nation? to the good of the nation. <PAUSE DUR=":13"/> and of course what i gave you is, stories by the New York Times. but one of them leads the paper, and one of them doesn't. </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S3"> i have a question. </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"> wouldn't it make the most sense, this might ruin the whole role play but, wouldn't it make the most sense to have, this first one as the cover and then this one as a side bar showing why, <OVERLAP> there's not a </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> wh- wh- which one </OVERLAP> are you referring to as the first one? </U>
+			<U WHO="S3"> the top of this, the approval the sixty percent approval, <U WHO="S1"> yeah, </U>
+				<OVERLAP> as the main, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you would lead the </OVERLAP> paper with that </U>
+			<U WHO="S3"> right and then have this story as a reason as to why there's some disagreement with him as a side bar as just like a, an offshoot or something th- th- you know a tangent. </U>
+			<U WHO="S1"> the the uh, pollution story. </U>
+			<U WHO="S3"> right. </U>
+			<U WHO="S1"> as a, <OVERLAP> as a side bar. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> because it's, </OVERLAP> right. </U>
+			<U WHO="S1"> okay well you_ that's your team right? you can make that argument. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> never mind. </U>
+			<U WHO="S1"> it's probably better if you do it in secret though because you've just given them, you've tipped your hand to them. </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> oops. told you it was gonna ruin the game. </U>
+			<U WHO="S1"> so you now can prepare very powerful arguments against that idea... why don't you guys form up your, subgroups? </U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT 4:22"/>
+			<EVENT DESC="UNINTELLIGIBLE SPEECH NEXT 3:13"/>
+			<U WHO="S10"> okay it says uh it says in here that it's it's vice-president Cheney on the first occasion that they mention it but they don't mention it on the first occasion that they men- mention Bush, he's president Bush. and then they refer to, to each of 'em subsequently as misters. <U WHO="S2"> yeah </U>
+				<OVERLAP> (that) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but they </OVERLAP> never mention that Bush is, president Bush <OVERLAP> but they say </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5"> right here it says president <OVERLAP> Bush right there. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> in the, </OVERLAP> very first sentence <OVERLAP> it says president Bush </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no not not_ </OVERLAP>
+				<OVERLAP> we're looking at the other one. </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> no no. f- we're </OVERLAP> looking at the other one. </U>
+			<U WHO="S1"> oh the second one? </U>
+			<U WHO="S2"> no <OVERLAP> the first one. </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> no the first one. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> first one. </OVERLAP>
+			</U>
+			<U WHO="S1"> first one? </U>
+			<U WHO="S5"> presidential debut </U>
+			<U WHO="S3">
+				<OVERLAP> the only one </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah presidential </OVERLAP> debut that makes him president doesn't it? </U>
+			<U WHO="S2"> yeah but still it's not like </U>
+			<U WHO="S3"> it's not his title. </U>
+			<U WHO="S2"> you know? because they did that before they were like Mr Bush and then vice-president Gore. <EVENT DESC="LAUGH"/> they were talking about before like, <U WHO="S10">
+					<OVERLAP> i think we're ar- </OVERLAP>
+				</U>
+				<OVERLAP> like during </OVERLAP> the coverage. </U>
+			<U WHO="S10"> we're arguing semantics here <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> well that's an interesting point but i don't know how relevant it is to, <U WHO="S3"> oh it's <OVERLAP> not </OVERLAP>
+				</U>
+				<OVERLAP> to this </OVERLAP> exercise <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> today. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> oh we have_ </OVERLAP> we already have such infallible <U WHO="S1">
+					<OVERLAP> oh oh you're beyond. you're you're already beyond it. </OVERLAP>
+				</U>
+				<OVERLAP> arguments that there's really no point. </OVERLAP> we we gave up. </U>
+			<U WHO="S1"> n- you're you've gone beyond. how're you guys doing? you <U WHO="S6">
+					<OVERLAP> we're ready </OVERLAP>
+				</U>
+				<U WHO="S12">
+					<OVERLAP> we're just fine </OVERLAP>
+				</U>
+				<OVERLAP> presenting_ </OVERLAP> developing powerful arguments, <U WHO="S6"> yeah, </U> against them why they're all wet </U>
+			<U WHO="S12"> no contest. </U>
+			<U WHO="S1"> oh okay good. and obviously as part of your argument is why you were right, right? </U>
+			<U WHO="S12"> yep. </U>
+			<U WHO="S6"> absolutely. </U>
+			<U WHO="S12"> nope. </U>
+			<U WHO="S1"> okay. everybody ready? you guys ready? </U>
+			<U WHO="S3"> i think so. </U>
+			<U WHO="S1"> okay. why don't you uh face each other, confront each other... unleash your venom. </U>
+			<EVENT DESC="UNINTELLIGIBLE SPEECH WHILE REARRANGING CHAIRS NEXT :20"/>
+			<U WHO="S1"> okay so you you guys are the uh, <U WHO="S6"> alright we uh, </U> New York Times you gotta decide what the lead is. </U>
+			<U WHO="S8"> who says you go first? </U>
+			<U WHO="S6"> we_ okay you can go first. </U>
+			<U WHO="S8"> no no no no go ahead. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> you're the disadvantaged so (xx) <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> i don't think so. </U>
+			<U WHO="S3"> i beg to differ. </U>
+			<U WHO="S6"> we conclude that <OVERLAP> uh, </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> we win. </OVERLAP>
+				</U> these these uh, you know percentages of of favoring Bush are a dime a dozen they they they, they occur so often, that what's more important is is, a key decision of a reversal that Bush made and, by him making this decision u- it's gonna affect his support anyway so, already this, sixty percent, is, not correct it's gonna be it's gonna <OVERLAP> change. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it's not </OVERLAP> correct? </U>
+			<U WHO="S4"> it's old news, <OVERLAP> already </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> it's old news already and it's already out of </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well let's say, well hang on let's say </OVERLAP> hypothetically, that your pathetic story would be <EVENT WHO="S1" DESC="LAUGH"/> above the fold. now, the beginning part of the story makes it, kind of biased because, Bush in reversal Bush promised this but now he's doing this and it doesn't explain why until much later so people have to flip to the inside to find out the real reason why he did which i think is an important part. so it's not really fair to put that, on the front page cuz it's making it seem like, for a certain thing and then later down it s- much later down it says like, it talks about California and why he decided to make this decision <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it's not an objective news story. </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S6"> actually in above the fold probably in the first three paragraphs of the report you'll see that, he sort of explains why. </U>
+			<U WHO="S3"> nope, nope </U>
+			<U WHO="S9"> mhm </U>
+			<U WHO="S4"> we don't we don't understand why you'd wanna like put that story when it's like old news because like <OVERLAP> maybe that sixty percent, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> cuz the key issue </OVERLAP> right now, </U>
+			<U WHO="S10"> is the <OVERLAP> economy </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> economy. people are panicking. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> is the economy. and we're running into </OVERLAP>
+				<U WHO="S10">
+					<OVERLAP> yep </OVERLAP>
+				</U>
+				<OVERLAP> recession </OVERLAP> just like we were, when George Bush senior was president. </U>
+			<U WHO="S9"> how is this any different <U WHO="S3"> and, </U> than when senior Bush said read my lips no new taxes and that made the front page. <OVERLAP> policy issue change. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it's not which would be_ which would? the exact point which is be- </OVERLAP> what which is what it goes into in the article saying how a lot of people think, that there is some, </U>
+			<U WHO="S6"> but you're giving <OVERLAP> false information </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> heavy </OVERLAP> implement- i'm not i didn't write this. </U>
+			<U WHO="S6"> well by putting it on the front page you're you're giving it_ by putting it at all actually </U>
+			<U WHO="S3"> no i think <U WHO="S2">
+					<OVERLAP> how is it it false information? </OVERLAP>
+				</U>
+				<OVERLAP> more people right now, </OVERLAP> care about the economy than <OVERLAP> care about global warming. i'm sorry. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> Bush's su- but Bush's support is still gonna be changed, </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> but the the thing </OVERLAP>
+				</U> just by his reversal in the carbon_ in the emissions of carbon dioxide. </U>
+			<U WHO="S3">
+				<OVERLAP> do you know </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> this article </OVERLAP> doesn't even talk about the <U WHO="S8">
+					<OVERLAP> but the article talks about how, </OVERLAP>
+				</U>
+				<OVERLAP> economy if you read it it talks about everything </OVERLAP> but the economy <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> time out. i want a quick time out </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it talks about how </OVERLAP> people are concerned about the economy it doesn't talk about what they're planning to do about the economy. </U>
+			<U WHO="S3"> i have a quick time out. </U>
+			<U WHO="S8"> oh no wait <OVERLAP> time out </OVERLAP>
+				<EVENT WHO="S1" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> what's, what's the question regarding, what's the, which um, </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> but something something </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> it's a twenty second time out. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no time outs. no holds barred. </OVERLAP>
+			</U>
+			<U WHO="S8"> something that, <OVERLAP> you're you're arguing </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> ah your article </OVERLAP> was written on the thirteenth and ours was written on the fourteenth so our r- our poll was taken after yours. </U>
+			<U WHO="S8"> no, the poll, <OVERLAP> (had to take it first) </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> both are, </OVERLAP> both are on the front page of today's New York Times. </U>
+			<U WHO="S3"> right but the date on here is the fourteenth the date on here is the thirteenth so <OVERLAP> the poll was taken after the fact? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it doesn't matter both are on the </OVERLAP> front page of, <OVERLAP> today's New York Times. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> that poll was gathered, </OVERLAP> weeks ago. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> look, were you working on it? </U>
+			<U WHO="S3"> i didn't know i'm curious. </U>
+			<U WHO="S6"> for my uh, </U>
+			<U WHO="S2">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> the other problem with your story </OVERLAP> is that the uh, Christy, Christy Todd Whitman the E-P-A director, y- h- has has not gone on record as actually s- supporting the president on this issue. <U WHO="S12">
+					<OVERLAP> but it's that not a </OVERLAP>
+				</U>
+				<OVERLAP> so perhap- so </OVERLAP> so perhaps uh a clarifying, part of the story <OVERLAP> if (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> well a spokesperson </OVERLAP> for Ms Whitman said that they would follow the president's lead. </U>
+			<U WHO="S3"> that means nothing. </U>
+			<U WHO="S5"> but but <U WHO="S12">
+					<OVERLAP> what does it ma- what does it matter if she, supports it? </OVERLAP>
+				</U>
+				<OVERLAP> she's not she's not she's not, </OVERLAP> my point is that she's not quoted, on record, as saying what <OVERLAP> her position is. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> that she supports it </OVERLAP> so what, does that matter? </U>
+			<U WHO="S5"> well the the point is is if this is an E-P-A this is an emissions policy on <U WHO="S12">
+					<OVERLAP> it's still a story. </OVERLAP>
+				</U>
+				<OVERLAP> carbon dioxide, </OVERLAP> it's a story but i- it's miscast because what they're actually doing is, they're actually repositioning, the E-P-A and giving Bush the lead, whereas, wherea- where in fact they should be talking more about the E-P-A chairman, <OVERLAP> and and what the policy is, </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> they explicitly say, state that she did not say directly. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> yeah but let's say that Whitman just </OVERLAP> decided for a week that she wasn't gonna talk to the press does that mean that you should just hold off until she decides that she wants to speak? i mean if the story comes out you gotta run it. </U>
+			<U WHO="S6"> well you have environmental groups you have c- c- uh you have Congress debating this topic, um really saying that she would follow the president's lead is kind of, kind of predictory, s- it's sort of uh kind of, normal it's not <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> i mean </OVERLAP> everyday you read about quotes from the White House uh, spokesman and press secretary and you believe that that person is representing Bush you don't have to wait till you hear a direct quote from Bush to believe, what the White House is doing. </U>
+			<U WHO="S3"> it's not saying anything that she's doing except follow the president's lead, and that doesn't, <OVERLAP> mean that </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> so then that's enough for (that) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> and it well it, if it has nothing to d- her, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> the problem is is your energy thing </OVERLAP> is a little bit incomplete right now because it's so new so, i really don't think that it'd be front page, because it's just not, quite ready for that. </U>
+			<U WHO="S6">
+				<OVERLAP> bottom line </OVERLAP> is which i- which story's more important? </U>
+			<U WHO="S1"> they're <OVERLAP> both on, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> alright mine is </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> ours </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> i don't think yours is </OVERLAP>
+			</U>
+			<U WHO="S9"> global warming's a very serious worldwide issue </U>
+			<U WHO="S8"> to who? but </U>
+			<U WHO="S3">
+				<OVERLAP> as is as is the power out as are the power outages in California </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> to who? </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> when it's ninety degrees out </OVERLAP> in the middle of winter it's gonna be <OVERLAP> very serious. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> okay. </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/> okay this story is about, your story is about carbon dioxide and i'm sorry <OVERLAP> if this makes me a bad American but i really don't care. </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> yeah no but th- th- not necessarily that i- that it's about carbon dioxide but, </OVERLAP> more importantly it's about Bush's, you know, change in, <U WHO="S12">
+					<OVERLAP> yeah in policy </OVERLAP>
+				</U>
+				<OVERLAP> in heart and that and that and that's, </OVERLAP> gonna <OVERLAP> affect his supporters. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> and ours is about (his_ it concerns that too) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> yours is about how the ec- </OVERLAP> how your neighbor feels about Bush. <OVERLAP> big deal. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> actually ours talks about a lot of different things. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but our article is about the repercussions of </OVERLAP> that and it it it's, it's about the change in policy <U WHO="S2">
+					<OVERLAP> we just </OVERLAP>
+				</U>
+				<OVERLAP> and what </OVERLAP> the how that has affected the opinion of the American people. </U>
+			<U WHO="S2"> yeah and we just came out of one of the closest elections ever and don't you think it's interesting that sixty percent approve of him and that and that certain people don't like, it says here black Americans do not_ i mean don't you wanna like, <U WHO="S6">
+					<OVERLAP> i think </OVERLAP>
+				</U>
+				<OVERLAP> read about </OVERLAP> what people_ this is like, </U>
+			<U WHO="S6"> it would be <U WHO="S8">
+					<OVERLAP> (he's arguing a lot for him) </OVERLAP>
+				</U>
+				<OVERLAP> more interesting </OVERLAP> after they take into account this reversal. </U>
+			<U WHO="S3"> they did. </U>
+			<U WHO="S6"> they did not. </U>
+			<U WHO="S12"> no they didn't. </U>
+			<U WHO="S1"> it hadn't happened yet. </U>
+			<U WHO="S3"> i'm still sticking to it. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> cuz people didn't know about the the reversal until this morning when they opened up the New York Times and saw the poll in there and the, story about the reversal. </U>
+			<U WHO="S6"> it's probably gonna be around, fifty-nine percent now. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> but <OVERLAP> i mean i, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> margin of error of, </OVERLAP>
+			</U>
+			<U WHO="S6"> plus or minus three. </U>
+			<U WHO="S3">
+				<OVERLAP> thank you. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> the environment </OVERLAP> is an important thing and everything but i think the majority of Americans probably it's not like their top, right now people are more worried about their jobs. <OVERLAP> yeah i can't get (xx) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> but it doesn't tell, </OVERLAP> it doesn't say anything about the jobs it just says how they feel about their jobs naturally you assume everyone <OVERLAP> likes their job. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but it starts off </OVERLAP> well. <EVENT DESC="LAUGH"/> better than yours does. </U>
+			<U WHO="S12"> oh i see. </U>
+			<U WHO="S12">
+				<OVERLAP> somehow (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> when it's too hot to go to work </OVERLAP> then you'll be, <EVENT WHO="S1" DESC="LAUGH"/>
+				<U WHO="S12">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> complaining </OVERLAP> all right? </U>
+			<U WHO="SU-f">
+				<OVERLAP> i think it's important </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> and you can't have air conditioning </OVERLAP> cuz the ozone is totally, screwed so, </U>
+			<U WHO="SU-f"> i think it's im- <OVERLAP> i think (xx) </OVERLAP>
+				<EVENT WHO="S1" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah but think about all </OVERLAP> these people in California like if he did do this <U WHO="S12">
+					<OVERLAP> right right </OVERLAP>
+				</U>
+				<OVERLAP> then they would have </OVERLAP> like no electricity. </U>
+			<U WHO="S12"> hey we're no we're talking about like, this whole <U WHO="S8">
+					<OVERLAP> that's a good one </OVERLAP>
+				</U>
+				<OVERLAP> article and it it </OVERLAP> affects people who support like, </U>
+			<U WHO="S2"> well i'm just saying that not <OVERLAP> everyone's </OVERLAP>
+				<U WHO="S12">
+					<OVERLAP> and it's </OVERLAP>
+				</U> gonna be against his decision right here <U WHO="S2">
+					<OVERLAP> no i know it's </OVERLAP>
+				</U>
+				<OVERLAP> and this makes it seem like </OVERLAP> everyone's pissed off at him </U>
+			<U WHO="S12"> no it no well, no it doesn't. it really doesn't it just says, this is what he did. and then it says why he did it. and it lets you draw your own conclusion. </U>
+			<U WHO="S6">
+				<OVERLAP> there you go. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> consider this. </OVERLAP>
+				<EVENT DESC="LAUGH"/> like, Bush has tons of things coming_ with the whole Iraq situation hello possible war, and then <OVERLAP> like the </OVERLAP>
+				<U WHO="S3">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> and </OVERLAP> Cheney might die. </U> the you know, <EVENT WHO="SS" DESC="LAUGH"/> Cheney, issue <OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> yeah and he </OVERLAP> he might die of heat exhaustion so <EVENT WHO="SS" DESC="LAUGH"/> (xx) </U>
+			<U WHO="S8"> and the the the economy thing, i think it's important to know how, the country feels about him right now. more important, than talking about carbon dioxide. </U>
+			<U WHO="S12">
+				<OVERLAP> but the thing is </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but how they feel is </OVERLAP> gonna change because th- he's going back on what his whole political campaign like <OVERLAP> represented (and stuff) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> that wasn't_ his </OVERLAP> entire platform <U WHO="S4"> but it </U> was not based on this. </U>
+			<U WHO="S4"> i know but people might have voted him <U WHO="S2">
+					<EVENT DESC="LAUGH"/> Gore's was </U> for him because of that, <U WHO="S8">
+					<OVERLAP> nuh-uh </OVERLAP>
+				</U>
+				<U WHO="SU-m"> no </U>
+				<OVERLAP> and the election was like so close that, </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> they would have voted for Nader then </OVERLAP>
+				</U> the election was so close as it is, that this is like a, sticky subject. </U>
+			<U WHO="S3"> i don't think this was one of the key issues though. it really wasn't. in the campaign. </U>
+			<U WHO="S4"> but it was one of his issues. i mean like if, <OVERLAP> like, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i m- </OVERLAP> it says right now that he won't seek cut in emissions but i mean we're talking in the first couple of weeks of his presidency, three years from now, who knows what he might be doing. two years from now maybe, he'll_ it'll be the right time to look for, cut in emissions and then hey he'll keep his promise so you really can't say <OVERLAP> that </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so like every </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> this is an </OVERLAP> issue that's been around for a while it was not a brand new thing that just came up today that we're having environmental problems. so, </U>
+			<U WHO="S13"> right we know that but the whole <OVERLAP> point is he went back on his word right. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> but his change in policies is, brand new. </OVERLAP>
+			</U>
+			<U WHO="S8"> mhm </U>
+			<U WHO="S4"> so what </U>
+			<U WHO="S3"> which president hasn't gone back on their word? ever? </U>
+			<U WHO="S4"> this is true <U WHO="S6">
+					<OVERLAP> George Washington </OVERLAP>
+				</U>
+				<OVERLAP> do they_ did that </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/> stop them from, from publishing it? you know, does that stop the papers from publishing it every time? </U>
+			<U WHO="S2"> so which changes like should be published then are we just gonna select like oh, only, people who care about this one they might not care about this as much so let's not publish it you know? it's important to inform everybody about every_ like the decisions that he's making. </U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it's not a m- </OVERLAP> never mind. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> did you have a, </U>
+			<U WHO="S8"> i was just gonna say it's not a matter of being published or not it's just a matter of, which one's more important. and i think the (extra) one's more important. </U>
+			<U WHO="SU-f"> at this point in time. </U>
+			<U WHO="S8"> (that's what we're talking about.) </U>
+			<U WHO="S12"> i disagree. </U>
+			<U WHO="S2"> when we have no ozone layer left, y'all's stories, will be more important. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> this is the um, front page of the New York Times, print edition, sixty percent, </U>
+			<U WHO="S3"> yes </U>
+			<U WHO="SS">
+				<OVERLAP> yay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> involved in, </OVERLAP> and then, </U>
+			<U WHO="S6"> we knew they were stupid. </U>
+			<U WHO="S1">
+				<EVENT WHO="SS" DESC="LAUGH"/> here is, carbon dioxide is, </U>
+			<U WHO="S3"> side bar? </U>
+			<U WHO="S6"> that's still above the fold. </U>
+			<U WHO="S1"> side bar </U>
+			<U WHO="S3"> told you so. <EVENT WHO="S1" DESC="LAUGH"/> told you so. </U>
+			<U WHO="S1"> this is the print edition, and then the online edition, begins with the, you know th- starts the day with the sixty percent poll and then it's overtaken by the stock market. <U WHO="S3"> okay </U> so that was good. and th- that was good because you got into the, public policy issues. uh, and w- you know what is the duty of the newspaper? is it always just to do, what people are interested in or does it have an obligation to do, do some spinach journalism? also </U>
+			<U WHO="S12"> what do you think about that? </U>
+			<U WHO="S1"> uh, i think the New York Times is wrong, and the Washington Post agrees with me Washington Post has a big headline, uh Bush breaks promise on carbon dioxide. </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S2"> yeah i kinda agree with that. </U>
+			<U WHO="S3"> i agree with that too. </U>
+			<U WHO="S5"> i agree with that. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> with all due respect to you. </U>
+			<U WHO="S8"> well we had to fight. </U>
+			<U WHO="S1"> course, uh, your heart wasn't in it right? </U>
+			<U WHO="S5"> oh no. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> you were, o- </U>
+			<U WHO="S5"> oh oh i was <OVERLAP> clearly on the other side. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> all the way over there. </OVERLAP>
+				<EVENT WHO="S3" DESC="LAUGH"/>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> we have a traitor in our midst. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh, you wanna know, </OVERLAP> you wanna know my opinion why they led with it? because it's a, New York Times C-B-S poll. </U>
+			<U WHO="SS"> oh </U>
+			<U WHO="S1"> if it had been an A-B-C, Wall Street Journal poll, tchoo. </U>
+			<U WHO="S4"> did they say that in there? </U>
+			<U WHO="S1"> oh yeah. </U>
+			<U WHO="S4"> oh. </U>
+			<U WHO="S12"> we were we kinda guessed that when we were s- when we </U>
+			<U WHO="S3"> sure you did </U>
+			<U WHO="S12"> they'd probably run that one first. </U>
+			<U WHO="S8">
+				<OVERLAP> you should have said that </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> hey we did. </OVERLAP>
+			</U>
+			<U WHO="S1"> that would have been <U WHO="S12">
+					<OVERLAP> i was gonna say that isn't gonna back up my argument. </OVERLAP>
+				</U>
+				<OVERLAP> one of your, one of your arguments that is </OVERLAP> to promote you know we paid for this thing and so we wanna get a, good run for it. pr- get some promotions. okay. <U WHO="SU-f">
+					<OVERLAP> well, it coulda been much bigger </OVERLAP>
+				</U>
+				<OVERLAP> now now we'll get to, </OVERLAP> our reading for today. <EVENT DUR=":12" DESC="PAUSE WHILE STUDENTS MOVE CHAIRS"/> let's let's start out with the checklist, and if you notice how each chapter starts out with a little introduction and then right away there's a checklist, that's very valuable not only for the reading but also for your assignments today, photographs that you brought in. so, one of the main, some of the, obviously you have you have the same basic conflict that you have w- in a lot of ethics questions. just to restate the obvious what is the basic conflict? </U>
+			<U WHO="S1"> invasion of privacy? </U>
+			<U WHO="SU-m">
+				<OVERLAP> harm? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no but i mean </OVERLAP> in bigger terms two two big principles. </U>
+			<U WHO="S6"> harm. </U>
+			<U WHO="SU-m"> harm? </U>
+			<U WHO="S1"> harm and, </U>
+			<U WHO="SS"> truth. </U>
+			<U WHO="S1"> truth. yeah. so once again it's a, ultimately a conflict between telling the truth and minimizing harm. to people who might be harmed. uh and then specifically on this checklist it goes into detail so what are some examples of the specifics, when dealing with photographs? and also what is it about photographs that, requires a whole chapter in this book and, you know, that that we're devoting, so much time, to this one topic? there's something about photographs yeah? </U>
+			<U WHO="S14"> um the book says that, it's important to uh look at uh photographs, um, with scrutiny because they're the ones that receive the most, the most um, uh, letters and and um, <OVERLAP> criticisms. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay. </OVERLAP> alright yeah? </U>
+			<U WHO="S3"> the image is what stays in your head i mean so you like might glimpse the first or second paragraph but the image is what's the most salient to the, <U WHO="S1"> mhm </U> reader. </U>
+			<U WHO="S1"> anybody see the democratic convention? </U>
+			<U WHO="S3"> yep <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> what's the picture you remember? </U>
+			<U WHO="S3"> Clinton walking down the, </U>
+			<U WHO="S11"> Gore kissing uh Tipper. </U>
+			<U WHO="S3"> uh-oh oops. </U>
+			<U WHO="S1"> the kiss. the kiss. do you remember every word of what he said in his speech? or any words of what he said in his speech? </U>
+			<U WHO="S8"> no </U>
+			<U WHO="S1"> but but you'll remember that kiss. <U WHO="S8"> yeah </U> because it's an image. that's an example. <U WHO="SU-f"> guess so </U> yeah? </U>
+			<U WHO="SU-f"> in terms of political </U>
+			<U WHO="S10"> i think that uh pictures too are oftentimes more, serious invasions of privacy than, are actual words because, it actually shows the reader, you know like the actual visual of what happened as opposed to just telling it, you know, through an uh a written account <U WHO="S1"> mhm </U> i think it's definitely more powerful. </U>
+			<U WHO="S1"> why is that though? why does the photograph have more impact? </U>
+			<U WHO="S3"> it leaves less to the imagination, it's there you can't, <U WHO="S1"> mhm <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> you can't </OVERLAP> self-center it. <OVERLAP> censor it. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> i think it's cuz, </OVERLAP> if you read a story you have to choose whether or not you want to believe it but if you see a photograph then you accept it as truth. </U>
+			<U WHO="S1"> mhm. seeing is believing. <U WHO="S11"> yeah. </U> of course nowadays we're not always sure that what we're seeing is the truth. and and we'll get to that in a minute when we get to manipulation. um so, let's go down this checklist what are, what are some examples of specifics? </U>
+			<U WHO="S15"> invading privacy? </U>
+			<U WHO="S1"> but what specifically what does it say? </U>
+			<U WHO="S15"> am i invading someone's privacy? </U>
+			<U WHO="S1"> alright <EVENT WHO="SS" DESC="LAUGH"/> am i invading someone's privacy? in other words to ask yourself am i invading, <U WHO="S15">
+					<OVERLAP> thank you </OVERLAP>
+				</U>
+				<OVERLAP> privacy? </OVERLAP> what else? what other? </U>
+			<U WHO="S6"> is this a private moment of pain and suffering that needs to be seen by our readers, or viewers? </U>
+			<U WHO="S1"> okay. uh </U>
+			<U WHO="S3"> does this story tell what i want? </U>
+			<U WHO="S1"> so actually the the Earnhardt photo, you know that might be an examp- is this is this something that, needs to be seen by our viewers or is, uh, too painful? for the family. what else, what else on the checklist? </U>
+			<U WHO="S4"> am i acting with compassion and um, sensitivity? <U WHO="S1"> mhm </U> which also goes along with the Earnhardt story. </U>
+			<U WHO="S1"> okay, okay. anything else? </U>
+			<U WHO="S5"> distance. um, which shows uh, potentially, victimizing, circumstances of the, of the, victim or, </U>
+			<U WHO="S1"> d- did you say distance? </U>
+			<U WHO="S5"> yeah distance like how far away the <OVERLAP> picture's taken </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh how far away </OVERLAP> the picture's taken. <U WHO="S5"> yeah </U> okay mhm. </U>
+			<U WHO="S5"> yeah, a close-up really close-up showing really graphic or, <U WHO="S1"> mhm </U> something that's taken at a distance and, minimizing harm. </U>
+			<U WHO="S1"> what about_ a lotta newspapers, have a policy on no dead bodies. what if the dead bodies are tr- from a great distance? so you can't really make out any details and just see a little dot on the, horizon. <OVERLAP> does that change it? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that's not, </OVERLAP>
+				<U WHO="S4"> that's not even worth </U> that's not a dead body then. </U>
+			<U WHO="SU-f"> why? </U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well </OVERLAP> it is but it isn't. </U>
+			<U WHO="S1"> uh huh. </U>
+			<U WHO="S4">
+				<OVERLAP> and why publish it? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what if it's a little </OVERLAP> closer so you know it's a dead body? <EVENT WHO="SS" DESC="LAUGH"/> you know me, you know it's a dead body but you're pretty far away from it. </U>
+			<U WHO="S12"> well if you can't identify whose body it is it's not really so much an invasion of privacy. </U>
+			<U WHO="S1"> mhm. okay, lots of times, a picture of a body uh, you don't see the, the face, <U WHO="S12">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> you know, </OVERLAP> either it's covered or just the angle, s- you just see a, you know, a form. <U WHO="S12"> yeah. </U> um, so there's the question of the distance. what about uh, related to that is how it's played, right the play of the photo what, what does the book say about that? i think that's in there isn't it? on the checklist? see it on the checklist or in one of the case studies. is there anything about how the photograph is played questions they ask about <OVERLAP> how it's played? </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> didn't it say </OVERLAP> something like if it was, pl- like, under the fold it's not in the checklist but didn't it say something like it's, not as harmful? </U>
+			<U WHO="S1"> yeah you're right um, i think there's another checklist, after the first checklist. um, page two-twelve. </U>
+			<U WHO="S12">
+				<OVERLAP> oh that's right </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this was the checklist, </OVERLAP>
+				<U WHO="S13"> oh </U> after the um... <U WHO="S5"> oh, yeah </U> the campus tragedy. </U>
+			<U WHO="S5"> instructional value? </U>
+			<U WHO="S1"> instructional value, mhm. is it possible to present the image in such a way that it reflects, its instructional value without inflicting undue emotional distress? so present the image that could i- get involved in the play, whether it's on the front page how big it is, so forth. um, and, point four is very important disclosure what's what's that about and why is that so important? yeah? </U>
+			<U WHO="S16"> you have to be able to justify why you put the picture in in the first place, <U WHO="S1"> mhm </U> to the readers. </U>
+			<U WHO="S1"> so can you remember from, some of the case studies for today any examples of where, there was an explanation that was, <OVERLAP> given? </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> the </OVERLAP> wasn't the, middle finger one, <U WHO="S1">
+					<OVERLAP> yup </OVERLAP>
+				</U>
+				<OVERLAP> in the, </OVERLAP> the one paper a couple of them wrote the, right there to the reader, <U WHO="S1"> mhm </U> on why they printed it and then there was one that didn't, that got like the most complaints and the one asked for feedback from, all the readers saying, <U WHO="S1"> okay </U> (that wanted their) opinions. </U>
+			<U WHO="S1"> good. so that was, that was published, the same time as the, <U WHO="S3"> mhm </U> controversial photograph right? were any others, not published at the same time but later? <U WHO="S12"> yeah the, </U> yeah? </U>
+			<U WHO="S2"> well this first one, the Ohio University one, i'm not sure if it, i don't think it was on the same day, but, there was um, <OVERLAP> editor </OVERLAP> explains use of photo in the opinion page so it wasn't where the picture was <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but, </OVERLAP>
+			</U>
+			<U WHO="S3"> it was the next, </U>
+			<U WHO="S5"> it was the next edition </U>
+			<U WHO="S3">
+				<OVERLAP> edition. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it was the next </OVERLAP> (one.) </U>
+			<U WHO="S1"> next edition. </U>
+			<U WHO="S3"> they did an entire editorial page. </U>
+			<U WHO="S1"> hm. there're some more examples, from, the case studies yeah? </U>
+			<U WHO="S12"> um the, the, the kid that got shot outside the convenience store <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> editor, um, wrote wrote a, column was it the same day of the paper? i'm not sure. but he wrote a column explaining why they, <U WHO="S1"> yeah </U> why they ran it <OVERLAP> cuz at first he didn't wanna run it. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you can actually see it, </OVERLAP> y- you can see the column, <U WHO="S12"> yeah </U> tu- turn the page. </U>
+			<U WHO="S12"> yeah, oh. </U>
+			<U WHO="S1"> well it's in there somewhere <OVERLAP> i don't know. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> yeah yeah it's </OVERLAP> right here. oh wait, </U>
+			<U WHO="S1">
+				<OVERLAP> th- </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> no </OVERLAP> no no that's not it. </U>
+			<U WHO="S1"> i know that it's in there somewhere. i just saw it. anybody r- </U>
+			<U WHO="S5">
+				<OVERLAP> (you can actually) </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> i mean it </OVERLAP> shows the, </U>
+			<U WHO="S1">
+				<OVERLAP> what page is it on? </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> it shows you the words </OVERLAP> t- the bottom of two-twenty two it starts. the bottom of </U>
+			<U WHO="S3"> that's where <OVERLAP> he explains </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> you don't see the, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah yeah yeah </OVERLAP>
+			</U>
+			<U WHO="S11"> you don't see the, photo of it. </U>
+			<U WHO="S1"> well i know i saw it somewhere. where did i see it? </U>
+			<U WHO="S11"> well you see the dear reader, one from the, <U WHO="S1"> mm </U> the guy with the middle fingers (but,) </U>
+			<U WHO="S18"> yeah no this is it, isn't it? </U>
+			<U WHO="S5">
+				<OVERLAP> you're probably think- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> page two-el- </OVERLAP> page two-eleven. </U>
+			<U WHO="S18"> oh. </U>
+			<U WHO="S1"> again the uh, Ohio University one, <U WHO="S5"> oh. </U> see opinion page, and then on the right hand column, editor explains use of photo. and that was the next, not the same day but the next edition, of the newspaper. so, what's the point of all that? why, why is that so important? </U>
+			<U WHO="S5"> it shows that the c- you touch base with the community let them know that, you're you're being accountable. <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> so then they </OVERLAP> can understand your position. </U>
+			<U WHO="S1"> mhm. and what ef- what effect does that have on the reader? would you imagine? if you had to speculate_ yes? </U>
+			<U WHO="S18"> well it makes 'em be like not so outraged and th- it makes them have more respect for you and think that you're not just publishing for shock value <U WHO="S1"> mhm </U> but that you're actually have a legitimate reason. </U>
+			<U WHO="S1"> mhm, okay. and that you're taking the readers', views into consideration, showing some sensitivity, giving them an opportunity to, to react and uh, welcoming their response. <U WHO="S18"> mhm </U> um, okay. so those are general principles now let's, go into the specifics the, case study number thirty, they had a choice of two photographs didn't they? what what were the two photographs and why did they choo- chose the one they chose? yeah? </U>
+			<U WHO="S12"> well the one was, the photograph that they published, was the uh picture of, the body, of one of the bodies <U WHO="S1"> mhm </U> that was covered with a sheet and, i mean it's it's, graphic enough to where you can tell it is a body and there's blood around the head, <U WHO="S1"> mhm </U> but um the other, shot that they were gonna use was just a pool of blood, and uh a notebook and a sandal. and even though there there was no body, like like present in that i th- they they chose the other one because it didn't seem as, um, i guess, invasive, or <OVERLAP> as, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but why? </OVERLAP> what wha- </U>
+			<U WHO="S12"> i think that showing, i mean you don't see the face of the body in this picture. and it's further away and showing, </U>
+			<U WHO="S1"> but you didn't see the face in the other picture either. </U>
+			<U WHO="S12"> right but <OVERLAP> i think showing the sandal, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so why is the other picture, </OVERLAP> why is the other picture more disturbing? </U>
+			<U WHO="S4"> all the blood probably. </U>
+			<U WHO="S1"> yeah i think so. the amount of blood. </U>
+			<U WHO="S12"> yeah i i think like just the fact of like, showing, a notebook and, and something like that just like remnants it's, <U WHO="S1"> mhm </U> really, grotesque to me. </U>
+			<U WHO="S1"> mhm. Katie? </U>
+			<U WHO="S4"> um i think this is something about the thought that the picture of the, notebook and the blood was, would be like sensationalism. i'm, <OVERLAP> trying to find that here. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, mhm </OVERLAP> yeah. that's right. this is a close one though isn't it? i mean it's_ there's a very fine line, you know one, one shot of the body another shot of, blood, and they're they're both pretty gruesome. um, how do you feel about the decision to run any picture? yeah? </U>
+			<U WHO="S17"> i just have a question, that wasn't the only two pictures they had, was it? </U>
+			<U WHO="S1"> well i th- i think they had to choose between those two <U WHO="S17">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> they were on </OVERLAP> deadline af- </U>
+			<U WHO="S17"> so why couldn't they ha- just have shown one of the Jeep after it rolled over or, and just told the story about what happened? </U>
+			<U WHO="SU-f">
+				<OVERLAP> or how about their_ just their pictures? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> they could have. they could have. w- </OVERLAP> would you have preferred that? </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S17"> yeah. </U>
+			<U WHO="S1"> okay, why? </U>
+			<U WHO="S17"> if they had to, sh- show one, of the a- from the accident scene. </U>
+			<U WHO="S1"> and why would you prefer that? </U>
+			<U WHO="S17"> m- i don't know. <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S17"> cuz it doesn't, i don't know i just, think seeing dead bodies in a newspaper i don't </U>
+			<U WHO="S1"> i mean it, it bothers you. </U>
+			<U WHO="S17"> yeah. </U>
+			<U WHO="S1"> okay. yeah? </U>
+			<U WHO="S3"> i, i mean i agree that it it's bothersome and that would be helpful but then if you you know after the explanation was made if you look at, um the letters that they received um, i was kind of, shocked to think that the reader would i mean that some of these would be, <EVENT DESC="CLEARS THROAT"/> excuse me sent into the newspaper about, if you think about basically, you know if you think about how many lives were saved from this or if somebody thinks of this image, it's it's it is upsetting and it is powerful and that's why they wanted it in there because, once an image like that is stuck in your head it's there. and then whatever, possibly whatever images were in the photograph or whatever it is, can trigger off those, images that you have in your mind and it, can prevent something similar from happening. </U>
+			<U WHO="S1"> instructional value. yeah? </U>
+			<U WHO="S6"> i mean th- they didn't mention it here but also like i think sometimes it hits home more like a picture of the, students, before an im- like a a normal <U WHO="S3"> mhm </U> picture of them. <U WHO="S1"> mhm </U> because it shows them you know like, a- and then like maybe a picture of the of the of the actual car or something like that, <U WHO="S3"> mhm </U> cuz it it sort of you know it humanizes you i think. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S11"> well at that point they didn't know who the students were <OVERLAP> or who the people were. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> right i guess uh, </OVERLAP>
+			</U>
+			<U WHO="S1"> well we can jump to the other, case history where they did that. <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> alright? </OVERLAP> let's talk about that one. </U>
+			<U WHO="S2"> the one with the young boy? </U>
+			<U WHO="SS"> yeah. </U>
+			<U WHO="S1"> convenience store he's m- he's </U>
+			<U WHO="S6"> yeah. th- i mean they showed both. </U>
+			<U WHO="S11"> although the parents, said that they had to show that, or they asked that they <U WHO="S1">
+					<OVERLAP> asked mhm </OVERLAP>
+				</U>
+				<OVERLAP> show a </OVERLAP> picture of the boy so who knows if they would have <OVERLAP> done it if the parents hadn't asked. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. let let's let's </OVERLAP> let's sorta go through, step by step what the newspaper did in that case, and whether it was ethical or not. what types of decisions and actions, were taken by, the editor. this is the boy who's killed outside a convenience store i- during a robbery. yeah? </U>
+			<U WHO="S3"> well initially the editor, was h- highly against it saying that n- no quote unquote no way will we run this photo just because, it was, thoroughly inappropriate <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> it's close up </OVERLAP> and you see the blood and you see the boy and it's, </U>
+			<U WHO="S1"> mhm. now you don't see his face right? it's the <OVERLAP> back of his head. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> right. it's the </OVERLAP> back of his head. </U>
+			<U WHO="S1"> yeah. <U WHO="S3"> but the um, </U> so then why did they change? i mean they already had a policy <OVERLAP> no way </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> they talked </OVERLAP> to the family. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S5"> and they, got input and said yeah and f- actually the family, was the one who said that yeah the the wo- it would, do some positive good then </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S3"> well it was the reporter or the photographer which one was it? </U>
+			<U WHO="S1"> yeah i don't know whether the family was the first, </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S3"> right. please (xx) </U>
+			<U WHO="S1"> but, the_ certainly the f- uh, now, you know what i'm gonna ask you next right? what if the family had said no? <U WHO="SS"> mm </U> you know me right that's typical Chapman question. </U>
+			<U WHO="S3"> no way. </U>
+			<U WHO="S1"> family says no, and you say okay we don't run the picture. </U>
+			<U WHO="S3"> (exactly.) </U>
+			<U WHO="S1"> just for the sake of argument somebody disagree. you don't have to personally agree with it just advocate the position. yeah? </U>
+			<U WHO="S18"> you're an independent paper and you've decided already that you wanna run the photo because it's gonna affect people and it's gonna make people understand the context of the murder more, and so i- it's it's gonna, f- y- it's gonna be serving the public good by showing this photograph and so you should show it anyway. </U>
+			<U WHO="S1"> mm. </U>
+			<U WHO="S19"> what are the concerns with him being a minor? like don't parents have to give permission for minors, to be on newspapers? i know that's </U>
+			<U WHO="S1"> well i mean th- the purpose of that is to protect someone who later in life, keep doesn't wanna have this, shadow hanging over them. unfortunately this, this young person is dead so it's, the fact th- it's a juvenile doesn't matter. right? there are no implications for the future cuz unfortunately this, person doesn't, have any further life, that's gonna be affected. the people affected are the family. right you don't have a an issue of of, withholding the name of a juvenile, for the usual reasons. you might have it for some other reason. </U>
+			<U WHO="S3"> are there any legal actions you could take if they, did it and you didn't want them to? </U>
+			<U WHO="S1"> no. First Amendment. i mean you could try, you know. i think you'd have a lotta trouble. and, the newspaper would argue what? let's suppose it did come, to it, right? family says pain and suffering you owe us ten million dollars. what would the newspaper say in court? just to, follow along on what what you were saying, just to take it one step further. i mean, i- they they would say more than just what you said they would they would say and it has great value because, you know <U WHO="SU-f">
+					<OVERLAP> it can </OVERLAP>
+				</U>
+				<OVERLAP> what is </OVERLAP> the great value? </U>
+			<U WHO="S18"> oh i don't know. </U>
+			<U WHO="S3"> (it) informs the public? </U>
+			<U WHO="S1"> inform the public, in order to do what? </U>
+			<U WHO="S12">
+				<OVERLAP> prevent it from happening. </OVERLAP>
+			</U>
+			<U WHO="S18">
+				<OVERLAP> attempt to prevent </OVERLAP> future problems? </U>
+			<U WHO="S1"> yeah, yeah. to warn people, how serious the problem is, this crime problem. maybe it's th- you know more can be done to fight crime maybe the police need more money, right? but there're all kinds of policy implications yeah? </U>
+			<U WHO="S2"> um i'm not sure if i agree with the photo or not i'm still kinda debating but, i mean one other thing is is, i mean sad as this is, in alm- almost every paper you can read about someone being gunned down, outside a convenience store or some similar such thing <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> for no </OVERLAP> particular reason, </U>
+			<U WHO="S1"> that's a very good point. </U>
+			<U WHO="S2"> and so this time, you actually have something to go with it and so i think, this one, it makes it hit home a lot more because you actually see it and you're like, oh my god as opposed to just reading about it, but i still like this is a awfully graphic photo so i'm just not really sure how i feel about it. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S14"> they did also decide to put it in black and white and not color <OVERLAP> it's one of the decisions that they made. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, yeah. </OVERLAP> and they included the photograph of him, <U WHO="SU-f"> mhm </U>
+				<U WHO="S14"> of </U> the nice picture of him, young man. and another picture what's this third picture that they ran? </U>
+			<U WHO="SS"> the mother </U>
+			<U WHO="SU-f"> the mom on the bed </U>
+			<U WHO="S1"> what what effect does that have by including that, on the front page? </U>
+			<U WHO="S12"> that affects the parents, i think a lot </U>
+			<U WHO="SU-m">
+				<OVERLAP> it shows the pain of the parents </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> you know look at, </OVERLAP> at her sitting in his, bedroom, <U WHO="S1"> mhm </U> and he's not there and, <U WHO="S1"> mhm </U> and it's gotta have his little s- like stuffed M-and-M thing on there and, </U>
+			<U WHO="S1"> mhm, yeah it's very moving isn't it? um, okay. </U>
+			<U WHO="S3"> what made the New York Times switch to color? </U>
+			<U WHO="S1"> i don't know. uh, i i think they, they at the time they said that, you know this is what other newspapers are doing and they can't, fall behind and, </U>
+			<U WHO="S11"> and compete with <OVERLAP> uh, U-S-A Today. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> U-S-A Today for </OVERLAP> one. </U>
+			<U WHO="S1"> U-S-A Today and, Washington Post i don't know. uh, i'm not so crazy about, the front page of the New York Times being in color i can see, stuff inside being in color. um, if if the New York Times decided to run a photograph of, a dead person, for some legitimate reason, then they'd have to make a re- really tough decision about color or not. they've got the picture in color are they gonna run it in color? that would be a tough decision. um, okay case study thirty-one <PAUSE DUR=":10"/> this man apparently slipped and fell. alright? regardless, why he got on top of this tower once he was there he slipped and fell that's a fact. uh it's not clearly suicide he may have intended suicide or wasn't sure or whatever, but it_ you can't say for sure this man was committing suicide at the moment he fell. that's the fundamental fact. wh- how does that impact on the decision whether to run in the pictures or not, yeah? </U>
+			<U WHO="S2"> well um, they had a policy on, no running suicides. </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S2"> and s- but since <OVERLAP> this is </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and this isn't </OVERLAP> clearly a suicide. </U>
+			<U WHO="S2"> right so they weren't sure. </U>
+			<U WHO="S1"> so it's okay. </U>
+			<U WHO="S2"> but, i just wanted to_ my personal opinion on this, <U WHO="S1"> okay </U> these pictures, what i think is interesting, is that there is no story, to go along with the pictures. <U WHO="S8"> mhm </U> there is a caption. and i think it's wrong because, this makes it sensational this is <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> mainly </OVERLAP> i wanna sell <U WHO="S8">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> this paper </OVERLAP> by putting, somebody falling off a <OVERLAP> tower on it. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's right. </OVERLAP> they're saying gee whiz we've got this picture. not, here's what you need to know to understand the circumstance yes? </U>
+			<U WHO="S14"> i i agree i think um, i think they're making a case, they're making a case, to sell papers and that because they're not quite sure, you know that it was an accident <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> i think </OVERLAP> they're, they're um, they're sensationalizing it <OVERLAP> i agree. i wouldn't have run it. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay. yeah. </OVERLAP> mhm? </U>
+			<U WHO="S18"> i don't understand why it's okay to show accidental deaths but not suicides like, why is that their policy or whatever anyway? </U>
+			<U WHO="S1"> that's a very good question. anybody have any idea yeah? </U>
+			<U WHO="S9"> well i oh i was just gonna say i i would have shown this but i would have run it with a story, because it is a newsworthy event <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> without a story, it looks like, it it's just like, looks like some Evil Knievel stunt or something <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> the newspaper's advocating. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S3"> they don't know the story though, c- right? <OVERLAP> there's nothing </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> well they have, enough to make a story </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well i think, th- they, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you could have at least written up something </OVERLAP> about it. </U>
+			<U WHO="S1"> th- they they could, say all kinds of things, you know, they they could talk about what the security s- conditions were at the tower, what new precautions are being taken i mean there's all kinds of, reporting you can do. uh but let's come back to this question wh- if you had to speculate what would be the reason for not running a picture of a suicide? </U>
+			<U WHO="S20"> copy copycat. </U>
+			<U WHO="S1"> copycat, okay. anything else? </U>
+			<U WHO="S2"> glorifying </U>
+			<U WHO="S21"> yeah i was gonna say something similar to that like, they have the runaway teen policy we read we read about like, <U WHO="S1"> mhm </U> not running that that, i think, even with suicide too people think well then my name will be known like people'll finally <OVERLAP> pay attention to me, like once i'm dead, yeah. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mm, oh oh that they'll do it t- in order to get, </OVERLAP> in order to get attention. in fact there's a reference to, a man in Pennsylvania. you see that? who committed suicide in order to get attention. </U>
+			<U WHO="SS"> mhm </U>
+			<U WHO="S1"> what was the decision made by news organizations what to do, with that story? i'm pretty sure that's in the_ isn't that in the reading for today? </U>
+			<U WHO="S12"> it's because um people h- heard about it or (were) already hearing about it. so th- so many people were there, and, everybody was interested in it, so well we'll run it. </U>
+			<U WHO="S1"> mhm, mhm. </U>
+			<U WHO="S12"> and you know as far as this this suicide the difference between (like running) a suicide or whatever, because of copycat things they were concerned about that and they still ran it. and they were concerned about the fact that even if it wasn't, a suicide, people might try to climb up in that tower. <U WHO="S1"> mhm </U> and, i mean that's, and to show that picture i mean </U>
+			<U WHO="S1"> s- well that's an issue whether or not it's a suicide. <OVERLAP> an i- issue whether or not to run the picture. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> it's_ whether or not it's a suicide </OVERLAP> but, <U WHO="S1"> yeah </U> i mean they ran it and then you're faced with the same exact problem, <U WHO="S1"> mhm </U> regardless if it was a suicide or not. </U>
+			<U WHO="S1"> yeah. isn't suicide a sin in in in some religions i think in the Catholic religion, <U WHO="SS"> yeah </U> right? i don't know about other religions. so that that could play a role too you know this is, something very terrible and v- and, also it's, extremely personal, uh, it's a tragedy i mean it's this... there's lots of issues connected with it, um, but uh, there could be a time, well what would be an example of where, a news organization, could publish a photograph of somebody committing suicide? even if they had a policy against it? it might be, yeah? </U>
+			<U WHO="S16"> if it was a terrorist situation or something like that? </U>
+			<U WHO="S1"> somebody's, somebody's being held hostage and they kill themselves? <U WHO="S16">
+					<OVERLAP> like, </OVERLAP>
+				</U>
+				<OVERLAP> is that </OVERLAP> what you mean? </U>
+			<U WHO="S16"> no like if the t- if a terrorist or, </U>
+			<U WHO="S1">
+				<OVERLAP> the terrorist, kills himself? </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> somebody, like kills themself in protest (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> like kills himself, with blombings bombings </OVERLAP> or <OVERLAP> (blows himself up) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> kamikaze </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh okay </OVERLAP> i see uh um a political <U WHO="S3">
+					<OVERLAP> like fundamentali- yeah </OVERLAP>
+				</U>
+				<OVERLAP> suicide, political suicide. </OVERLAP> okay that's a good example yeah. </U>
+			<U WHO="S14"> how about cults? <OVERLAP> cults, yeah. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> yeah like David Koresh. </OVERLAP>
+			</U>
+			<U WHO="S1"> cults? okay. mm yeah? </U>
+			<U WHO="S11"> is there some kinda like, you know if you're a, like if Doctor Kevorkian type thing if you're, killing yourself cuz you're sick or something. </U>
+			<U WHO="S1"> mhm mhm yeah. </U>
+			<U WHO="S6"> if you're a, public official where you, serve the public in some aspect and, you're not gonna be doing that anymore. </U>
+			<U WHO="S1"> mhm. <EVENT WHO="SS" DESC="LAUGH"/> o- o- obviously if if the president of the United States commits suicide and you have a picture of it, <U WHO="S3"> yeah </U> pretty hard to say well we have a policy uh we don't <OVERLAP> publish </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> what about </OVERLAP> like a senator or somebod- or uh, <OVERLAP> governor? </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> yeah i didn't </OVERLAP> i didn't, i was gonna say president but i figured that was a little rash i mean it's somebody like that you know like a senator or governor somebody who's, </U>
+			<U WHO="S1"> yeah. and then where it gets more difficult is where you go down, <U WHO="S3">
+					<OVERLAP> down </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> to less important officials. <U WHO="S6"> right. </U> less important. uh, what if the person, uh, like Kevorkian type situation and they say uh, i want my picture to be used cuz i think this'll, help the cause of, euthanasia. </U>
+			<U WHO="S2"> negative. </U>
+			<U WHO="S1"> because? </U>
+			<U WHO="S2"> you would be supporting one side. </U>
+			<U WHO="S1"> right and you're being manipulated, by the person. on the other hand, you know, C-B-S did it, uh, Sixty Minutes. they ran th- uh, video of of a man, committing suicide with the help of, Doctor Kevorkian yeah? </U>
+			<U WHO="S20"> what about the time in uh L-A with the, the, af- </U>
+			<U WHO="S1"> the guy on the freeway? </U>
+			<U WHO="S20"> uh n- no the h- the bank robber with the guy with the assault weapons and the, guy who shot himself in the head? </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S20"> well i i remember seeing th- those photos all through the, the L-A, news. </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S12"> there was one in, Detroit too. where a guy was, he was gonna shoot himself and there were a bunch of cops i think it was Detroit. yeah there were a lotta cops around, <U WHO="S1"> mhm </U> and then um, they showed a, they didn't show it on the television when he shot himself in the head but, they had it on tape and then they were showing the cops' reaction and everything (xx) </U>
+			<U WHO="S1"> mhm. yeah so in other words, they probably showed before and after right? </U>
+			<U WHO="S12"> right they didn't show that they <OVERLAP> showed him (yelling) mhm. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> trying to talk him out of it and </OVERLAP> then the aftermath, but they have, they also have the tape of the actual moment, <U WHO="S12"> right </U> and they choose not to show it. <U WHO="S12"> right. </U> okay. there was also a a guy on a freeway in Los Angeles and uh he, </U>
+			<U WHO="S2"> i remember that </U>
+			<U WHO="S1"> uh i think h- uh, sho- what'd he shoot himself? but it was like four o'clock in the afternoon and uh, one of the stations the the N-B-C affiliate showed it live and, it was a big controversy about it because <U WHO="S20">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> children </OVERLAP> children are watching, <OVERLAP> in the afternoon after school. </OVERLAP>
+			</U>
+			<U WHO="S20">
+				<OVERLAP> is that is that the one where he </OVERLAP> shot his dog and then shot himself? </U>
+			<U WHO="SU-f"> oh </U>
+			<U WHO="S1"> i don't know, but i </U>
+			<U WHO="S2"> i totally remember that scene but i don't remember what happened it was l- on this like bridge and like, <U WHO="S1"> yeah </U> you know kind of, running or, </U>
+			<U WHO="S1"> yeah. but it it it was a very strong, reaction by the public afterwards. to the decision to, run this, live. okay, um, number thirty-two, we talked about the editor w- saying dear reader and explaining why why to run the photograph. how do you feel about r- the decision to run this photogr- some, not every newspaper ran it, right? <U WHO="SU-f"> mhm </U> um, the Sacramento Bee did not publish it, who do you think's right? yeah </U>
+			<U WHO="S13"> i think the people that didn't run it were right. <U WHO="S1"> uh huh </U> because like they said in here i mean, his crime speaks for itself so us seeing this is not, sh- sh- showing us anymore that, oh he's such a bad man. </U>
+			<U WHO="S1"> mhm yeah. </U>
+			<U WHO="S22"> i agree also because of the fact that children will see this, and i don't know i'm sure parents wouldn't want them to see this or for them to emulate this behavior, <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm. </OVERLAP> are you talking about television or the newspaper? </U>
+			<U WHO="S22"> no the newspaper. </U>
+			<U WHO="S1"> okay. because the newspaper's gonna be on the coffee table? </U>
+			<U WHO="S22"> yeah it's on the front page i mean </U>
+			<U WHO="S12"> well it's everywhere on, newsstands. </U>
+			<U WHO="S1"> mhm. <U WHO="S22"> yeah </U> oh and they'll pass the newsstand and see it? </U>
+			<U WHO="S22"> yeah </U>
+			<U WHO="S1"> mhm? </U>
+			<U WHO="S3"> i agree a hundred percent that it shouldn't have been run but if it had to have been run i think they did it the best way possible. <U WHO="S1"> mhm. </U> i mean it could have been on the inside or just like had a picture of him and had it on the inside <OVERLAP> to avoid that, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> how about, </OVERLAP> somebody arguing in favor of it? </U>
+			<U WHO="S6"> i think you should run it i think it just shows what a moron this guy is and it's a it emphasizes, th- that you know, the type of person that he is. i think if anything, i mean everybody knows, you know what the the middle finger is </U>
+			<U WHO="S1"> what about Janeiro's argument that, we already know that he's a terrible person? </U>
+			<U WHO="S9"> mhm </U>
+			<U WHO="S1"> right that's what you were saying? </U>
+			<U WHO="S8"> mhm </U>
+			<U WHO="S6"> i y- we do but i think it emphasizes it even more. </U>
+			<U WHO="S1"> okay, yeah. </U>
+			<U WHO="S4"> i thought it was good too um i especially liked what i believe it was the executive editor did how he's like, listen you know this is what went into deciding whether or not to publish this photo, i wanna know what you think. and like gave his like, um his, fax number his phone number and like his email address and like actually told people it wasn't just like this is how we feel he's like please you know, <U WHO="S1"> mhm </U> give me some feedback to let me know what you think and i thought that was like a good thing, <OVERLAP> so people who were upset could voice their opinions. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> hm. Julie y- you had your hand up. </OVERLAP>
+			</U>
+			<U WHO="S12"> oh i was just gonna say, it's a good th- i think it's fine that they ran it because, some people if they just read the story and think oh he got life or whatever they might start feeling sympathetic for him <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> for some reason </OVERLAP> but <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> then this </OVERLAP> just, </U>
+			<U WHO="S1"> or they might that he's remorseful, <U WHO="S4"> right </U>
+				<U WHO="S12"> right <OVERLAP> and then just to see that, </OVERLAP>
+				</U>
+				<OVERLAP> cuz sometimes people are remorseful in a, situation </OVERLAP> like that yeah? </U>
+			<U WHO="S9"> um, just i- if anyone knows the circumstances to this case i mean, when when you look at this man and look at his face and look at his contempt for the justice system, or what he did for this gi- to this girl, and i- i- it's just so necessary, to publish this photo to, capture the true essence of, what a sick human being he is if we can even call him human, i mean </U>
+			<U WHO="SU-f"> oh i remember this. </U>
+			<U WHO="S12"> yeah i i agree with that i mean i just feel that, it's not gonna, i can't imagine people even involved in the case being hurt by it any more than than you know what they've already been <U WHO="S1"> mhm </U> they're just gonna hate him more. and or or if they could hate him more. <OVERLAP> you know i don't </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what if, </OVERLAP> what if the newspaper devoted the entire front page, <U WHO="S12"> well that's, </U> to this photograph? that would be too much. </U>
+			<U WHO="S12"> that's <OVERLAP> too much. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> that's sensationalizing. </OVERLAP>
+			</U>
+			<U WHO="S1"> what if they ran, you know a tiny little, thing where you can barely make out, </U>
+			<U WHO="S12"> i don't know, i just f- personally <OVERLAP> feel that it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that would be </OVERLAP> the other extreme <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> right </OVERLAP> i feel just looking at this it's, </U>
+			<U WHO="S1"> so it's really a question of degree isn't it? you know that you wanna ha- you put on the front page if if you feel that, this picture needs to <OVERLAP> be published </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> cuz i think it </OVERLAP> it just sums up everything, you know <OVERLAP> the whole entire thing in this picture. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but d- do you also try to, </OVERLAP>
+				<U WHO="SU-f"> mhm </U> put it in a certain, <U WHO="S12"> mhm, well yeah <OVERLAP> i mean </OVERLAP>
+				</U>
+				<OVERLAP> perspective </OVERLAP> and not too big. not oversensationalized. very quickly case study thirty-four abortion protests, the bottom line is uh, uh, ch- children normally are not, identified but in this case the parents were putting them up, pr- provok- you know uh, putting them out there, and uh, so uh, it became a, uh a legal question. so it's an exception to the rule. case study thirty-five photo digital cover-up very important. this issue is extremely important. i'm sorry they don't have more case studies, like this because, this is becoming a b- really big problem now. because of new technology and uh, anybody see the movie Rising Sun? Sean Connery movie remember? it's it's all about manipulating an image on a <OVERLAP> security tape right? </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> oh yeah i've seen that. </OVERLAP> Wesley Snipes? </U>
+			<U WHO="S1"> yep. </U>
+			<U WHO="S11"> where he strangles <OVERLAP> that girl. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. </OVERLAP> you know that the pixels the pixels and the <U WHO="S11">
+					<OVERLAP> yeah yeah yeah </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> electronic photograph that you can, all they are is little, electronic bits and you can manipulate them very easily. uh, in this particular case study it had to do with uh, covering up, um, the woman for modesty, but there are other examples where it's much more controversial. anybody know of or, they're all just mentioned here and d- you happen to know of any others? where the, pi- pi- pictures have been manipulated, and, people aren't told about it yeah? </U>
+			<U WHO="S8"> wasn't there one with the O-J case? </U>
+			<U WHO="S1"> sure. </U>
+			<U WHO="S8"> that made it to <OVERLAP> the (xx) or something? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Time Magazine. </OVERLAP> Time Magazine, ran the mug shot of O-J and darkened his face, <U WHO="SU-f"> oh </U>
+			</U>
+			<U WHO="S2"> i remember that now </U>
+			<U WHO="S1"> darkened his face, uh deliberately, and then later there was a big protest and they and they said well this wasn't really a photograph it was a photo illustration done by an artist. but the problem is they never said that they never said we've, changed his appearance intentionally. so that's one of the rules that i- number one don't manipulate a photograph and two if you do, don't call it a ph- news photograph. call it an artist's interpretation and clearly tell the, reader we have manipulated this p- photograph. did you have your hand up Katie? </U>
+			<U WHO="S4"> i was just gonna give another example, <U WHO="S1"> yeah </U> um National Geographic moved one of the Great Pyramids so it <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> could like </OVERLAP> fit on the cover. </U>
+			<U WHO="S1"> right right. <EVENT WHO="SS" DESC="LAUGH"/> um, i'll tell you some s- some others very quickly. uh, the A-P ran a uh distributed a picture of somebody winning the spelling bee in Washington the national spelling bee. and you know, participants wear a uh, a number, on a on a you know they wear a sign with a number on it, and the name of their sponsor. the winner was sponsored by i think the New York Daily News. the New York Post, removed part of the sign, so it didn't say, New York Daily News it just said you know the number, twelve. uh and the A-P protested saying this is an A-P picture you cannot, fool around with our picture. uh, and it was clearly done, you know for business reasons they don't wanna give free publicity to their, competition yeah? </U>
+			<U WHO="S9"> i saw something in Sports Illustrated uh a few weeks ago speaking of NASCAR, that uh, Fox uh television uh, blocked out some of the sponsors' names, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> on uh </OVERLAP> cars, because they had network, the network had competitive sponsors that, </U>
+			<U WHO="S1"> that's right, <U WHO="S9"> so, </U> and um, New Year's Eve, at the time of the millennium, uh Dan Rather C-B-S is in Times Square, and the N-B-C Jumbotron is, electronically changed so you don't see N-B-C, anymore. and they don't tell the viewer that they've done this. we're running out of time but i wanna get to to your pic- let's see how many pictures we can do and then we'll do the rest, next time. <PAUSE DUR=":08"/> also before i forget let me give you your assignments, for Monday. since the reading in uh Doing Ethics is uh covers, sources, once again i want you to get a news story and identify the sources for each item, in that news story especially, anonymous sources. and keep looking till you find a story, i think some of you the last time couldn't find anonymous sources keep looking eventually you'll find, especially stories from Washington you'll find, you know one administration source said one White House source said, keep looking till you get one of those stories and then, start asking the questions that are on, page two-sixty-six, the checklist for treatment of sources. okay? </U>
+			<U WHO="SU-m"> two-sixty-six? </U>
+			<U WHO="S1"> page two-sixty-six of uh Doing Ethics (has the) checklist for sources yeah? </U>
+			<U WHO="S14"> oh you want me <U WHO="S1">
+					<OVERLAP> yeah uh </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> um, mine's from Newsweek it's um, a story on the Mad Cow Disease. <U WHO="S1"> okay </U> and what i think is interesting about this picture is um, well i don't think this is very interesting it's just a steak saying caution, <U WHO="S1"> uhuh </U> but what i think is interesting is that, when they start the story it has these pictures of the families of victims of people who have died, from um Mad Cow Disease and stuff, but then um once you get into it, they start having these great pictures of these cows, and this one isn't even <U WHO="SU-f">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> this doesn't say </OVERLAP> anything <EVENT WHO="SU-f" DESC="LAUGH"/> about the cow, <U WHO="S1"> hm </U>
+				<U WHO="SU-f"> that's just foul </U> it's like this cow without a head on a um, on like a, (meat) it's kinda gross. <U WHO="S1"> yeah, yeah. </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> um, and it's not there's no there's no caption at all. it just has this picture. <U WHO="S1"> hm </U> which is kinda weird. <U WHO="S1"> mhm </U> then, wait hold on there's more. <EVENT WHO="S1" DESC="LAUGH"/> then it has them burning the cows, <U WHO="SU-f"> ew </U> on the next page. </U>
+			<U WHO="SS"> yeah. oh. </U>
+			<U WHO="S12"> that's what i have too. </U>
+			<U WHO="S14"> and then, </U>
+			<U WHO="S1"> how many others have, <U WHO="SU-f">
+					<OVERLAP> burning cows? </OVERLAP>
+				</U>
+				<OVERLAP> Mad Cow Disease? one two </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S14">
+				<OVERLAP> and then there's more, </OVERLAP> and then there's more and then they have stripped heads, <U WHO="S1"> ew </U>
+				<U WHO="SU-f"> oh </U> in this tiny picture, uh without skin <U WHO="S1">
+					<OVERLAP> don't look if you're, (xx) </OVERLAP>
+				</U>
+				<OVERLAP> it's just their skull. i think it's, </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/> i mean i know you know i eat <OVERLAP> i'm a meat </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so what do </OVERLAP> you think, that they had in mind? </U>
+			<U WHO="S14"> i think it's kinda shock value <U WHO="S1">
+					<OVERLAP> shock value? </OVERLAP>
+				</U>
+				<OVERLAP> this picture </OVERLAP> especially, <U WHO="S1"> mhm </U> i think this is just pure shock. <U WHO="S1"> mhm </U> but i mean, <OVERLAP> without having a (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what w- but what would be an argument </OVERLAP> in favor of saying you know, that there is a legitimate <OVERLAP> journalistic purpose? </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> to, </OVERLAP> show that they're really ge- doing something about it and getting rid of 'em. <U WHO="S1"> uhuh </U> to prove to u- or <U WHO="SU-f">
+					<OVERLAP> make you vegetarian </OVERLAP>
+				</U>
+				<OVERLAP> show us that they're </OVERLAP> burning 'em up or </U>
+			<U WHO="SU-f"> yeah <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> releasing it all into the air. </U>
+			<U WHO="S17">
+				<EVENT DESC="LAUGH"/> yeah. </U>
+			<U WHO="SU-m"> it shows us the severity of the problem. </U>
+			<U WHO="S1"> yep, yep okay. how 'bout a non mad cow disease story, Kathy? </U>
+			<U WHO="S8"> i've got, this is a photo of um, one of the funeral of one of the kids that died in the school shooting, th- </U>
+			<U WHO="S1"> can you hold it up again? </U>
+			<U WHO="S8"> this is the actual funeral there's a couple different ones so there musta been a like a reporter in there <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> cuz this is like, </OVERLAP> his mother, <U WHO="S1"> uhuh </U> standing at his cock- casket with the picture above it, <U WHO="S1"> mhm </U> and there's ones of like his family crying, of like just the the pastor in front of the casket giving the eulogy, <U WHO="S1"> mhm </U> and it's just like an obvious invasion of privacy. like there's no reason for us to see his funeral. to know that they were mourning. </U>
+			<U WHO="S1"> mhm, okay. yep? </U>
+			<U WHO="S21"> i have a picture of a stripper's leg. it was um, <EVENT WHO="SS" DESC="LAUGH"/> (xx) and <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> a picture of </OVERLAP> what? </U>
+			<U WHO="S21"> a stripper's leg. </U>
+			<U WHO="S1"> a stripper's leg. okay. </U>
+			<U WHO="S21"> and it was on the_ it was a front (link) page story, but the picture is like way behind, <U WHO="S1"> uhuh </U> on eight or something. </U>
+			<U WHO="S1"> so what </U>
+			<U WHO="S21"> i think it's for <OVERLAP> shock value. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> that's like, that's a graphic </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> for shock value, </OVERLAP> uh, why do you think they, i mean in addition to the shock value what's what's it supposed to illustrate what point is it supposed to make? </U>
+			<U WHO="S12">
+				<OVERLAP> that there are strippers in the world. </OVERLAP>
+			</U>
+			<U WHO="S21">
+				<OVERLAP> it's not, yeah. </OVERLAP>
+				<EVENT DESC="LAUGH"/> it's about like a the stripper law, in Alabama but, </U>
+			<U WHO="S1"> oh it's about a law </U>
+			<U WHO="S21"> it's about a law but, <U WHO="S1"> mhm </U> i don't think it was necessary. </U>
+			<U WHO="S1"> mhm, okay. on on grounds of taste or, <U WHO="S21"> yeah </U> it's offensive mhm okay yeah Steve? </U>
+			<U WHO="S20"> yeah i just grabbed this from the Michigan Daily which i thought was really interesting that this is a normally a color, uh daily, <U WHO="S1"> mhm </U> and they got Ellerbe here in black and white, </U>
+			<U WHO="S1"> wonder why </U>
+			<U WHO="S20"> and i i i was really <OVERLAP> curious about that myself. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> it mighta been the only picture that they had </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S19"> can i say why? <U WHO="SU-f"> oh </U> someone messed up. <EVENT WHO="SS" DESC="LAUGH"/> someone messed up the zipping and i, spent several hours consoling the staff. </U>
+			<U WHO="S1"> oh that's <OVERLAP> that's too bad. that's too bad </OVERLAP>
+			</U>
+			<U WHO="S19">
+				<OVERLAP> so it was just, it was just </OVERLAP> an error, <U WHO="S1"> yeah </U> in the zipping. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> maybe there shoulda been some little explanation. </U>
+			<U WHO="S11"> i have Ellerbe <OVERLAP> from yesterday actually. </OVERLAP>
+			</U>
+			<U WHO="S19">
+				<OVERLAP> you wouldn't know </OVERLAP> till it printed out the next morning. <U WHO="S1"> oh </U> that it was gonna be black and white. </U>
+			<U WHO="S1"> oh </U>
+			<U WHO="S11"> i brought this in this is Ellerbe from yesterday and, i just thought like, you know it makes him look like he's about to start crying <EVENT WHO="SS" DESC="LAUGH"/> in the picture and, i don't know it's kind of, i think_ it seems like an unfair picture for him there's some head, <OVERLAP> in the background (like) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> was this was this picture manipulated? because the person, the person in the background (seems to) </OVERLAP> look like something's been done to the image. </U>
+			<U WHO="S11"> yeah the face is <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i mean it has </OVERLAP> a theatrical look doesn't it? do you happen to know? </U>
+			<U WHO="S19"> i, i haven't heard about it it <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> l- let me hold it up, let me hold it up so everybody can see it. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> yeah it is so dark that it's, </OVERLAP> it's like he's in the spotlight and </U>
+			<U WHO="S1"> look at look at look at this here wh- when i saw this picture i thought it, it had been <OVERLAP> manipulated or, </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> yeah i'm thinking it's at a, </OVERLAP> a press conference i'm assuming it's at a press conference which are, pretty much, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it might </OVERLAP> have been that this is just the way the picture <OVERLAP> happened to come out. </OVERLAP>
+			</U>
+			<U WHO="S19">
+				<OVERLAP> was it taken by a </OVERLAP> Daily person or was it <OVERLAP> an A-P? </OVERLAP>
+			</U>
+			<U WHO="S23">
+				<OVERLAP> i think i saw </OVERLAP> the same picture in the <OVERLAP> Detroit News. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> David </OVERLAP> Katz? </U>
+			<U WHO="S19"> e- yeah it was. </U>
+			<U WHO="S23"> i think it's i i was reading the Detroit News yesterday and i saw that same picture it was like_ or it was a very similar picture. <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> and i think </OVERLAP> it was the s- i think it was the same one. </U>
+			<U WHO="S1"> but i mean look look at here <U WHO="S8">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<U WHO="SU-f">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> this b-i- </OVERLAP> it's so smudged it looks like somebody has manip- manipulated it. </U>
+			<U WHO="S19"> i'll <OVERLAP> find out. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> well, </OVERLAP> that kind of picture usually_ you show pictures like that when people are mourning cuz someone has died and like i think it's funny that they show it for Ellerbe <EVENT WHO="SS" DESC="LAUGH"/> because he's just been fired. </U>
+			<U WHO="S1"> okay i think we can do a couple more yeah. </U>
+			<U WHO="S16"> um mine is a, the article is about the police raids in L-A, <U WHO="S1"> mhm </U> and the one picture is of um these two, men that lived in one of the houses and they you know they look kind of mad cuz their house was raided and it's supposed to be like, the police were like we're gonna show you gangs about drugs and everything, <U WHO="S1"> mhm </U> and it was the the police were in the wrong and then there's a picture of one of the officers with his wife next to a picture of him in, his little outfit on the wall, and these are the only two pictures and it makes it um then there's a little quote about how i didn't know i was in the wrong because i'm a rookie and, <EVENT WHO="SS" DESC="LAUGH"/> nobody told me i w- i was going outta control, so i think like as for um, you know like the picture telling the story, it makes the police officers y- y- ma- like oh they're, it's okay cuz you know he didn't know, <U WHO="S1"> mhm </U> and i don't know i </U>
+			<U WHO="S1"> so what would have been a better picture? </U>
+			<U WHO="S16"> maybe like the damage that was done to the h- you know cuz that was the main point was that these police officers just busted in and just totally destroyed these houses, um trying to sh- you know put the gangs in their place with drugs <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> a- when it </OVERLAP> it wasn't a gang or there were no drugs there. and </U>
+			<U WHO="S1"> so they got the wrong house. </U>
+			<U WHO="S16"> s- yeah something <OVERLAP> like that </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> yeah, mhm </OVERLAP>
+				</U> and it it doesn't, <OVERLAP> come across like that at all in the pictures. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, that's good, yeah? </OVERLAP>
+			</U>
+			<U WHO="S24"> well i have the same story but, (xx) just having a picture of just like, black like two black men (xx) i don't know if they have they have two pictures of just not include, pictures of actual people just of the damage, it'd be a less stereotyping (i thought) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm, so that gets </OVERLAP> into diversity issues we talked about earlier. um, who else have we got? </U>
+			<U WHO="S5"> (professor) </U>
+			<U WHO="S1"> yeah? </U>
+			<U WHO="S5"> sorry. </U>
+			<U WHO="S13"> like, <U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> um </OVERLAP> i got this picture and this is um the picture of the guy, the um school shooting in California, <U WHO="S1"> okay </U> and it kinda made me mad because it's like this big picture of him, but then like on the next page it's like these little pictures of the victims, <U WHO="S1">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> and then </OVERLAP> another big picture of him, <U WHO="S1"> mhm </U> (and that just annoys me.) </U>
+			<U WHO="S12"> and what a close-up too it's just, </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S23"> i have, pictures from the shooting too and they just, here they the picture they have of him i think is, him being taken away at the school and then they have, like these pictures with other students <OVERLAP> just kind of </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so it's the </OVERLAP> opposite, the pic- the the victim is large and the, <U WHO="S23"> yeah, and then <OVERLAP> on the next page </OVERLAP>
+				</U>
+				<OVERLAP> killer is small. </OVERLAP>
+			</U>
+			<U WHO="S23"> they show one of the i mean this guy was i think (that somebody who was) shot in the mouth, <U WHO="S1"> mhm </U> and they show him (xx) and then, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> they just, </OVERLAP> show the, police and firefighters going into the, school. </U>
+			<U WHO="S1"> so if you had to choose between the two, as to which picture's larger which picture's smaller wh- which do you prefer o- of these two? the the the uh, the killer, larger or the victim larger? </U>
+			<U WHO="SS"> the victims </U>
+			<U WHO="S1"> victims? everybody agree on that? </U>
+			<U WHO="S8"> but it depends <OVERLAP> on the story. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> but it de- </OVERLAP> s- yeah <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh this story on this story. </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> (xx) </OVERLAP> i think i like the killer larger </U>
+			<U WHO="S8"> well i mean it does <U WHO="S1">
+					<OVERLAP> this particular story. </OVERLAP>
+				</U>
+				<OVERLAP> this story concentrate more </OVERLAP> on the killer? </U>
+			<U WHO="S12"> i think with that one, </U>
+			<U WHO="SU-f"> (that's) the point of what they were saying </U>
+			<U WHO="S12"> because of the way that the killer he's like pictured i mean... maybe that's, maybe it sounds terrible but he did something really really bad and i mean he looks terrible_ no i mean, and he looks, like evil in that picture, <U WHO="S1"> mhm </U> as far as i'm concerned and like, just to like intrude on these girls like they did and the close-up on their faces they're like sobbing, </U>
+			<U WHO="S23"> yeah i don't know if i like the one this <OVERLAP> (the) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> i think that's, </OVERLAP> terrible. </U>
+			<U WHO="S11"> yeah. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S11"> i mean especially cuz you know a lot of states there's like questions of whether like in these, shootings by younger kids if if they should try the kid as a, as a child or an adult. <U WHO="S1"> mhm </U> like when you see the full page of that kid with the, evil look in his eyes <U WHO="S12"> mhm </U> (then) you know you, you think that jeez <U WHO="S12">
+					<OVERLAP> yeah he should be tried as an adult. </OVERLAP>
+				</U>
+				<OVERLAP> gotta go to jail </OVERLAP> he should be tried as an adult you know. </U>
+			<U WHO="S1"> mhm. we don't have the time to talk about it now but remind me next time, um, when there's a choice of pictures g- choice of pictures of somebody, one, where they look, positive one where they look negative, which one do you choose and why and and, is that fair? could somebody remind me, <U WHO="SU-f"> okay </U> next time? </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

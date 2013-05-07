@@ -1,0 +1,784 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="lab175su033">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Biology of Fishes Lab </TITLE>
+				<TITLE> Rackham Div: BS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LAB175SU033 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="95">
+						<DATE> August 7, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with remote wireless and two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Carrie Sue Sulzer, Janine Ovens, Matt Murphy </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Carrie Sue Kay Sulzer </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Rodney Pratt, Amanda Jones </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 1/22/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NSO"> Native Speaker Other English </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="10"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="12"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NSO" ROLE="SF, Instructor" SEX="M" RESTRICT="NONE" AGE="4">
+					<FIRSTLANG> UKE </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Reighard Lab, University of Michigan Biological Station, Pellston MI </P>
+					<P> NOTE: Total time of speech transcribed is approximately 55 minutes (out of 95 min.) due to the omission of approximately 25 minutes of calling out numbers and 15 minutes of unintelligible speech. Twelve speakers participate but only the main speaker is individually identified. </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> (xx) scales, and it doesn't have a few scales that have come off another fish and are sort of, hanging around. so you need to wash the fish first, and then measure the total length. um, take three to five scales, where from? </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="SU-m"> the fish </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> oh, um maybe it's seventy-eight or something. (xx) um i'd assume that you already (xx) <EVENT DESC="AUDIO DISTURBANCE"/> seventy-seven somewhere around there. </U>
+			<U WHO="SU-m"> why is that? </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> sixty-four? </U>
+			<EVENT DUR=":12" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="S1"> wash the fish. measure its length. </U>
+			<U WHO="SU-f"> you don't have to put soap on the fish though </U>
+			<U WHO="S1"> you don't have to (xx) oh. um, then you take three to five scales where are you going to take them from? thank you. </U>
+			<U WHO="SU-f"> the, (xx) or, the back part </U>
+			<U WHO="S1"> well we're taking Rock Bass and Pumpkinseed, so we're going to take it from </U>
+			<U WHO="SU-f"> the dorsal </U>
+			<U WHO="SU-f"> (xx) the pectoral </U>
+			<U WHO="SU-f"> uh the <SIC> pectorial </SIC>
+			</U>
+			<U WHO="S1"> just behind the pectoral fin. okay? put them on two scales, between a couple of scales a s- couple of slides i mean. put them between a couple of slides and keep them wet keep them in water. if you allow them to dry out air bubbles will get underneath everything and the min- meniscus will make it, almost impossible, to see anything. so keep two slides one on top, and um, and measure them. count, the number of rings. then, what we need to do, is fill in a table to start with, which plots... the length of the fish... and its age... for Rock Bass, and Pumpkinseed. </U>
+			<U WHO="SU-f"> (xx) (length in?) </U>
+			<U WHO="S1"> beg your pardon? </U>
+			<U WHO="S1"> you mean the lengths (xx) </U>
+			<U WHO="SU-f"> (xx) just lengths? </U>
+			<U WHO="S1"> yes do the lengths for the minnows first and give me some pieces of paper with those on. okay? so let's get to it. did you get cake? </U>
+			<U WHO="SU-f"> thank you for sharing Brad that was really tasty </U>
+			<U WHO="SU-f"> yeah, thank you Brad </U>
+			<U WHO="SU-m"> thank you Brad </U>
+			<U WHO="SU-f"> thank you </U>
+			<U WHO="SU-m"> thank you Brad </U>
+			<U WHO="SU-m"> he stinks </U>
+			<U WHO="SU-m"> i know he stinks, (man) he didn't take a shower </U>
+			<U WHO="SU-m"> (then) didn't shower </U>
+			<U WHO="SU-f"> why_ you didn't shower? </U>
+			<U WHO="SU-m"> look at him, (xx) he laid down for half an hour. </U>
+			<U WHO="SS">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> i'm gonna run down to the lab and get that other, piece of data. </U>
+			<U WHO="SU-f"> okay. </U>
+			<U WHO="SU-f"> you don't shower </U>
+			<U WHO="SU-m"> (take a) shower </U>
+			<U WHO="SU-f"> (xx) move out of bed but like you don't have any (xx) </U>
+			<U WHO="SU-m"> no that's dirty laundry </U>
+			<U WHO="SU-m"> oh. </U>
+			<U WHO="SU-f"> ohh s- (xx) </U>
+			<EVENT DUR=":08" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-f"> did anybody bring any of the forceps back? </U>
+			<U WHO="SU-f"> Chris is a smelly boy who doesn't wash his body or clothes </U>
+			<U WHO="SU-f"> forceps anybody? </U>
+			<U WHO="SU-m"> no thanks. </U>
+			<U WHO="SU-f"> no thanks. </U>
+			<U WHO="SU-m"> nope, trying to quit. </U>
+			<U WHO="SU-f"> um there's none in those buckets </U>
+			<U WHO="SU-f"> wait. here are some </U>
+			<U WHO="SU-f"> if you have forceps in your project please bring them back. same goes for the thermometers and other equipment you may have. </U>
+			<U WHO="SU-f">
+				<FOREIGN> termometra </FOREIGN>
+			</U>
+			<U WHO="S1"> warmed up...? </U>
+			<EVENT WHO="SU-f" DESC="SINGING"/>
+			<U WHO="S1">
+				<EVENT DESC="SINGING"/> dum da dum, mm hm hmm </U>
+			<U WHO="SU-f"> gimme gimme gimme </U>
+			<EVENT DUR=":17" DESC="AUDIO DISTURBANCE"/>
+			<U WHO="SU-m"> remember we had, the lab... well when he comes back we'll turn it back on. </U>
+			<U WHO="SU-m">
+				<FOREIGN> eau de </FOREIGN>
+			</U>
+			<U WHO="SU-f">
+				<FOREIGN> eau de </FOREIGN>
+			</U>
+			<U WHO="SU-m"> (xx) <U WHO="SU-f">
+					<OVERLAP> no. </OVERLAP>
+				</U>
+				<OVERLAP> (xx) is that? </OVERLAP>
+			</U>
+			<U WHO="SU-m"> (xx) (way) is the lab </U>
+			<U WHO="SU-f"> larger than, this? </U>
+			<U WHO="SU-f"> (now we can) be like </U>
+			<U WHO="SU-m">
+				<FOREIGN> eau de </FOREIGN> (xx) </U>
+			<U WHO="SU-f"> no. <FOREIGN> eau de </FOREIGN> boy that hasn't showered in, <EVENT DESC="LAUGH"/> a long time. </U>
+			<U WHO="SU-f"> yeah? </U>
+			<U WHO="SU-m"> you registered? </U>
+			<U WHO="SU-f"> i register on Saturday, <U WHO="SU-m">
+					<OVERLAP> oh yeah? </OVERLAP>
+				</U>
+				<OVERLAP> Sunday, </OVERLAP> Sunday. </U>
+			<EVENT DUR=":40" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-m"> (5:30) i don't have my coffee cup down (xx) </U>
+			<U WHO="SU-m"> well, bring it (xx) </U>
+			<U WHO="SU-m"> did i leave my coffee cup down on the boat? </U>
+			<U WHO="SS"> (xx) </U>
+			<U WHO="SU-m"> (who cleaned off) the boat </U>
+			<U WHO="SU-m"> well i can have him bring it down (xx) </U>
+			<U WHO="SU-m"> i left my coffee cup in the whaler. <U WHO="SU-f"> oh no </U> shit. </U>
+			<U WHO="SU-f"> um then i won't buy a lot i'll buy (xx) </U>
+			<U WHO="SU-f"> what is it? (xx) just regular joe? </U>
+			<U WHO="SU-m"> is it what? </U>
+			<U WHO="SU-f"> what kind is it? flavored or just regular joe? </U>
+			<U WHO="SU-f"> (you have to) (xx) Folgers? </U>
+			<U WHO="SU-m"> regular joe Folgers. Max- it might even be Maxwell House </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> well that's better (xx) </U>
+			<U WHO="SU-m"> (well,) it's better than that flavored shit. </U>
+			<U WHO="SU-f"> that's what i buy. that's what you've been drinking my flavored shit </U>
+			<U WHO="SU-m"> that's not flavored </U>
+			<U WHO="SU-f"> yeah it is </U>
+			<U WHO="SU-m"> flavored like what? </U>
+			<U WHO="SU-f"> (xx) hazelnut (xx) </U>
+			<U WHO="SU-m"> that's not hazelnut </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="SU-m"> what's flavored? </U>
+			<EVENT DUR="7:20" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-m"> i think maybe we should just make our own tunes up </U>
+			<U WHO="SU-f"> there's a there's a (manual) over here </U>
+			<U WHO="SS"> (xx) <EVENT DUR=":45" DESC="SINGING"/>
+			</U>
+			<U WHO="SU-m"> (xx) keep it going </U>
+			<U WHO="SU-f"> i think we should keep it going </U>
+			<U WHO="SU-f"> i really think we <OVERLAP> should </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> here's another one </OVERLAP>
+				</U> not keep it going </U>
+			<U WHO="SU-f"> oh yeah i think we should break it into a round <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> yeah let's </OVERLAP> do round </U>
+			<U WHO="SU-f"> row row row your boat </U>
+			<U WHO="SU-m"> oh no no </U>
+			<EVENT WHO="SU-f" DESC="SINGING"/>
+			<U WHO="SU-f"> everyone (xx) </U>
+			<U WHO="SU-m"> you guys did not get enough sleep </U>
+			<EVENT DUR=":35" WHO="SS" DESC="SINGING"/>
+			<U WHO="SU-f"> it's questionable what (occurs) here sometimes </U>
+			<U WHO="SU-f"> it's kinda funny when you laugh so hard you cry </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> well this is gonna look really good for you guys' work isn't it? </U>
+			<U WHO="SS">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SS"> (xx) </U>
+			<U WHO="SU-f"> yeah everything is all getting recorded and transcribed no less. <U WHO="S1">
+					<OVERLAP> thirty </OVERLAP>
+				</U>
+				<OVERLAP> he's </OVERLAP> got the (Paul's) got the recorder right (xx) (all this) </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="SU-f"> you don't know where the </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> (xx) tray </U>
+			<U WHO="SU-m"> oh ugh oh (better get outta the way) he might not live </U>
+			<EVENT WHO="SS" DESC="WHISTLING"/>
+			<EVENT DUR="1:10" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> do we have the lengths coming in yet? </U>
+			<U WHO="SU-f"> not yet... they're almost <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> what did i do with the disk? </U>
+			<U WHO="SU-f"> it's in the machine </U>
+			<U WHO="SU-m"> yeah man (xx) beer i'll chew up a raw fish </U>
+			<U WHO="S1"> i see Chris is awake </U>
+			<U WHO="SS">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> (you) eat everything </U>
+			<U WHO="SU-f"> he also did ninety-nine bottles of beer on the wall </U>
+			<U WHO="S1"> oh God </U>
+			<U WHO="SU-m"> i think we should try that little row row row your boat again </U>
+			<U WHO="SU-f"> i think we should too </U>
+			<EVENT DUR=":20" WHO="SS" DESC="SINGING"/>
+			<U WHO="SU-f"> i think we should just be quiet until (Velana) gets back with the radio... you guys are giddy </U>
+			<U WHO="SU-m"> can you at least (be serious) for two minutes please, i'm serious </U>
+			<U WHO="SU-m"> i'm still measuring </U>
+			<U WHO="SU-m"> how could we possibly be serious? look what we're doing. </U>
+			<EVENT DUR=":15" WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-m"> we're measuring fish </U>
+			<U WHO="SU-f"> yeah yeah </U>
+			<U WHO="SU-f"> this is a <OVERLAP> very serious endeavor </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> does anyone have a </OVERLAP> list of lengths that they want to give us yet? </U>
+			<U WHO="SU-f"> mhm i'm almost done (here) </U>
+			<U WHO="SU-f"> yeah i got a list. you wanna hear it? </U>
+			<U WHO="SU-m"> yeah, here you go </U>
+			<U WHO="SU-m"> no we don't wanna hear it. <OVERLAP> go bring it up there </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> one two three </OVERLAP>
+			</U>
+			<U WHO="SS"> don't wanna hear it </U>
+			<U WHO="SU-m"> i don't wanna hear your stinking list </U>
+			<U WHO="SU-m"> that's right </U>
+			<U WHO="SU-f"> unless you can sing it </U>
+			<U WHO="SU-m"> forty-three </U>
+			<U WHO="SU-f">
+				<EVENT DESC="SINGING NUMBERS"/>
+			</U>
+			<U WHO="SU-m"> shut up </U>
+			<U WHO="SU-f"> can i have it or are you still working? </U>
+			<U WHO="SU-f"> well, you can have it </U>
+			<U WHO="SU-f"> i thought i (xx) </U>
+			<U WHO="SU-m"> i can't imagine (xx) it is (xx) </U>
+			<U WHO="SU-m"> one... two... three... </U>
+			<U WHO="SU-f"> you can count </U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP> the area </U>
+			<U WHO="SU-m">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m"> i like the one that goes my future's so bright have to wear shades. what's that song? remember that one? it's an eighties song </U>
+			<U WHO="SU-f"> (ice ice city) </U>
+			<U WHO="SU-m"> hey let's do it in rounds </U>
+			<U WHO="SU-m">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> my future's so bright i have to wear shades, my future's so bright i have to wear shades, my future's so bright i have to wear shades </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> okay you guys start </OVERLAP> then go to the front (then we'll come in back) </U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :05"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="SS"> okay </U>
+			<U WHO="SU-m"> one two three </U>
+			<U WHO="SU-f"> how about, um things are going great and they will be getting better? is that the one you're talking about Jason? </U>
+			<EVENT DESC="CONVERSATION 2"/>
+			<U WHO="SU-f"> sorry </U>
+			<U WHO="S1"> what date is it today? </U>
+			<U WHO="SU-f"> today is the seventh </U>
+			<U WHO="SU-f"> no (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> it's Huey Lewis, it's not </U>
+			<U WHO="SU-m"> (xx) remember that? </U>
+			<U WHO="SU-f"> oh yeah but i don't know all the words to that </U>
+			<U WHO="SU-f"> here you go Megan </U>
+			<U WHO="SU-f"> where is it? </U>
+			<U WHO="S1"> okay gimme some numbers </U>
+			<U WHO="SU-f"> forty-one </U>
+			<EVENT DESC="22:12 LISTING NUMBERS; NOT TRANSCRIBED"/>
+			<U WHO="S1"> alright well... i guess we just know it's up here somewhere </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> i've never seen it do that before </U>
+			<U WHO="S1"> okay now what do i need to go here? very weird isn't it? </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> strange </U>
+			<U WHO="S1"> (xx) we we at this time of the semester they let us have this which i wanted to have all the time just to make it easier <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> really? so you just got this </OVERLAP> at the end? </U>
+			<U WHO="S1"> just today because the other classes are busy in the midst of projects so um... </U>
+			<U WHO="SU-f"> oh... (xx) </U>
+			<U WHO="S1"> if we could but usually they don't uh, i wanted just a low-level computer in the classroom they wouldn't let me have it this year </U>
+			<U WHO="SU-f"> (xx) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> yes they always have in the past, three sixty-four... three sixty-four... three sixty-four... </U>
+			<U WHO="SU-f"> (xx) upgrading to your (laptop) </U>
+			<U WHO="S1"> yeah i- it does actually make things tremendously easier </U>
+			<U WHO="SU-f"> so just set up everything that you need beforehand, right? </U>
+			<U WHO="S1"> yeah, that's right, there's programs, um... oh interesting, we've got programs for um, a whole bunch of things too which we which we've put in </U>
+			<U WHO="SU-f"> (xx) only one there </U>
+			<U WHO="S1"> okay. uh now where was it? um which one did we use the comp- on the computer? all the uh all the um community stuff. the that's all on histograms uh all on computer now and uh basically so you just plug the numbers in. we've got a species diversity thing that calculates diversity richness and all that kind of stuff <U WHO="SU-f"> mhm </U> and this is A ten </U>
+			<U WHO="SU-f"> these are fishes we caught today right? </U>
+			<U WHO="S1"> right </U>
+			<U WHO="SU-f"> (xx) it's nice that um (xx) you couldn't do with Macs (xx) </U>
+			<U WHO="S1"> we uh_ i i go the other way i'm all I-B-M </U>
+			<U WHO="SU-f"> yeah (xx) </U>
+			<U WHO="S1"> it does actually. the biggest problem with having the (xx) in class hasn't been um this so much <OVERLAP> as uh </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> i have </OVERLAP> four on here so i'll <OVERLAP> (xx) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> oh damn </OVERLAP>
+				</U>
+				<OVERLAP> one of 'em is pretty cool it </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> it should be </OVERLAP> B </U> (xx) messed up though (i'm not good for counting rings) </U>
+			<U WHO="S1"> but they haven't got the same programs the same levels of um of Excel or whatever it is in the various (xx) </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> what is worse is that the current stuff isn't compatible with what i have on my computer and that's been even worse </U>
+			<EVENT DUR="2:00" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-m"> Megan would you say this guy is about, three years old? </U>
+			<U WHO="SU-f"> what you're looking for is there's going to be all these rings and there's going to be (xx) </U>
+			<U WHO="SU-f"> what would be black like and star-like on the edge of their fins? </U>
+			<U WHO="S1"> black and star-like? </U>
+			<U WHO="SU-f"> dark (darker) </U>
+			<U WHO="SU-f"> i have (some numbers) </U>
+			<U WHO="S1"> okay, yes please. could you read them out to me? </U>
+			<U WHO="SU-f"> sure thing. forty-one </U>
+			<U WHO="S1"> are you having fun yet? <EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT DESC="4:23 LISTING NUMBERS; NOT TRANSCRIBED"/>
+			<EVENT DUR="2:23" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> oh okay okay yeah that's a melanophore. absolutely, a beautiful melanophore. little octopus tape type thing. it's the um pigment (set) the same thing we have in our skin that gives us the tan and they look like these little sort of Pac-Attack people probably didn't grow up with Pac-Attack and Pac-Man you know um little sort of star-shaped objects what it is you got some skin on there and the skin has got a melanophore on it if you take a slace of slice of your skin where it was pigmented we'd find the same thing, and the thing is they can expand and contract, there's some control over a number of them and that's how the fish changes color... okay? how are we doing folks with the scales? </U>
+			<U WHO="SU-f"> marvelous darling </U>
+			<U WHO="SU-f"> (xx) with all the fishes that we caught <OVERLAP> today </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> oh i hate that </OVERLAP>
+			</U>
+			<U WHO="S1"> yes good </U>
+			<U WHO="SU-f">
+				<OVERLAP> did you want did you want you wanted </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but you've done all the scale lengths? (have) you </OVERLAP> done all the sc- the ages? </U>
+			<U WHO="SU-f"> yes. you want i- it the then? </U>
+			<U WHO="S1"> really. well let me have a look at some. these are? </U>
+			<U WHO="SU-f"> she has one and i have one other </U>
+			<U WHO="S1"> oh okay. so it's two years old and sixty millimeters. say, feel free to do more. </U>
+			<U WHO="SU-f"> oh do you want us to do </U>
+			<U WHO="SU-f"> are you including? <OVERLAP> okay sorry </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> go (on) </OVERLAP>
+			</U>
+			<U WHO="SU-f"> like you see the one gap so you know it's one years old and it's on its second year <OVERLAP> so do you call it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes. so </OVERLAP> that's a two-year-old fish </U>
+			<U WHO="SU-f"> okay you call it two </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="SU-f"> do you want us to like redo other people's? or... <OVERLAP> cuz i think we've done them all </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> have we r- have we done all the </OVERLAP>
+			</U>
+			<U WHO="SU-f"> the ones from today, we have </U>
+			<U WHO="S1"> have we done all the, all the fishes from today? including the little tiny ones/ </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="SU-m"> (xx) scales off the tiny ones? </U>
+			<U WHO="S1"> yes. and off the tiny ones. </U>
+			<U WHO="SU-f"> hey, here's a sixty millimeter </U>
+			<U WHO="SU-f"> mine was two years old too </U>
+			<U WHO="SU-f"> yeah? </U>
+			<U WHO="SU-f"> and i did one of those (xx) </U>
+			<U WHO="SU-f"> yeah there's still this big old mess of scales (xx) </U>
+			<U WHO="SU-f"> wait a minute, nobody did these right? </U>
+			<U WHO="SU-m"> (xx) minnows <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> think they've all been done </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> i think those are </OVERLAP> the ones we just put in (to that) </U>
+			<U WHO="SU-f"> (oh really?) the little teeny ones? </U>
+			<U WHO="SU-f"> i did a little tiny <OVERLAP> one </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> i </OVERLAP> i did too </U>
+			<U WHO="SU-f"> this one doesn't look like it's been done, but this one has </U>
+			<U WHO="SU-m"> yeah they're not a year old </U>
+			<U WHO="SU-m"> where do we write this information down? </U>
+			<U WHO="SU-f"> overhead </U>
+			<U WHO="SU-f"> here </U>
+			<U WHO="SU-m"> come on dude let's get it together </U>
+			<U WHO="SU-f"> so if it's in its third year do you say it's two? </U>
+			<U WHO="S1"> i beg your pardon </U>
+			<U WHO="SU-f"> if it's in its third year </U>
+			<U WHO="S1"> yes, then it's, yes (they're) three years old </U>
+			<U WHO="SU-m"> alright </U>
+			<U WHO="SU-m"> now that's a Muskie hanging (xx) </U>
+			<U WHO="SU-m"> does anyone have one that's like four or five years old? </U>
+			<U WHO="SU-m"> this one is like three </U>
+			<U WHO="SU-m"> where? </U>
+			<U WHO="SU-m"> Muskie (xx) pike or (it's) hanging out in the (xx) </U>
+			<U WHO="SU-f"> are we gonna do 'em all (xx) or no? </U>
+			<U WHO="S1"> i beg your pardon </U>
+			<U WHO="SU-f"> are there more (xx) i mean do you (xx) a couple </U>
+			<U WHO="SU-f"> they were Rock Bass and Bluegill right? </U>
+			<U WHO="SU-f"> (some of them) were so hard to see because the- they were so little <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> in general </OVERLAP> the scales have like the same same structure...? </U>
+			<U WHO="S1"> yes, the the i- in general </U>
+			<U WHO="SU-f"> like they'll all look like this basically? but... </U>
+			<U WHO="S1"> yes they'll all look they'll all look alike um that's not the most incredibly good drawing i've ever seen <EVENT DESC="LAUGH"/> of a scale, um </U>
+			<U WHO="SU-f"> i'm not an artist </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> th- um <U WHO="SU-f"> something like that </U> d- d- does it show the pieces, the various structures that you want to see? </U>
+			<U WHO="SU-f"> yes. </U>
+			<U WHO="S1"> where's the focus? </U>
+			<U WHO="SU-f"> oh. for uh on what i drew? </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> no. the focus is here. </U>
+			<U WHO="S1"> and do you you really have th- the um circuli crossing over like that all over this tail? </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> no. </U>
+			<U WHO="S1"> okay um, so then it's um, not the most wonderful drawing of a scale that i've seen </U>
+			<U WHO="SU-f"> yes </U>
+			<U WHO="SU-f"> i think this one, has one (xx) </U>
+			<U WHO="S1"> how are we doing? </U>
+			<U WHO="SU-f"> good. </U>
+			<U WHO="S1"> Pumpkinseeds </U>
+			<U WHO="SS"> (xx) </U>
+			<U WHO="S1"> um, in looking at the Pumpkinseeds and so on please, do include some of the, young of the year that we've got with their tiny little scales, cuz we want as large a size range as possible. okay? </U>
+			<U WHO="SU-m"> who took my waders? </U>
+			<U WHO="S1"> how are you doing? </U>
+			<U WHO="SU-m"> (xx) she told me this was a <U WHO="SU-f"> no </U> Pumpkinseed and i'm like no </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> it's a Rock Bass okay. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":05"/> go and get a little one to do. <U WHO="SU-m"> what? yes </U> go and get a little one to do. </U>
+			<U WHO="SU-m"> what're_ they_ a- there are some star-shaped things </U>
+			<U WHO="S1"> okay the star-shaped thing_ um, a lot of you are getting star-shaped objects on top of your scales. that'll sort of look like octopuses. okay octopi. these are in fact um, melanophores, which are the source of pigment, and it means you've got a little bit of skin on top, and that's the mal- melanophore in the skin. if someone would like to volunteer a skin sample, we could take a piece from one of you, and see the melanophores in your skin and they'd look similar. </U>
+			<U WHO="SU-m"> i'm not <OVERLAP> sure if you wanna </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> does it hurt? </OVERLAP>
+				</U>
+				<OVERLAP> see what's on my skin but i'll volunteer one </OVERLAP>
+			</U>
+			<U WHO="SU-m"> i'll do it </U>
+			<U WHO="S1">
+				<OVERLAP> yes, um, </OVERLAP> the thing is, well you don't know where i want to take it from. um </U>
+			<U WHO="SU-f"> where you gonna take it from? </U>
+			<U WHO="S1"> o- one of the things to, one of the things, is that uh, these will respond to hormone levels and things such as that, and as a result they can change in shape they can get bigger, and and larger so that the fish gets darker, and also smaller so it gets lighter, so it's the change in the melanophore size, which is one of the ways that the fish change color. the fish we saw today were way darker than anything we've seen in a long time, and that's cuz the melanophores have been more expanded and, perhaps that's why you're picking them up so much cuz, i haven't seen as many mela- melanophores as this on scales. as always you're ahead of me. okay so that's what the octopi are... how are you doing? </U>
+			<U WHO="SU-m"> good, i like this </U>
+			<U WHO="SU-m"> i got a lotta, <OVERLAP> melanin in my skin (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay um, yes you do. </OVERLAP> one thing, do try and keep these dry and put a slide on top as well as underneath if you're not doing so. </U>
+			<U WHO="SU-m"> keep 'em wet. </U>
+			<U WHO="SS"> wet. </U>
+			<U WHO="S1"> and ke- yes s- sorry what did i say? </U>
+			<U WHO="SS"> dry. </U>
+			<U WHO="S1"> keep them wet. </U>
+			<U WHO="SU-f"> i was like uh oh (xx) </U>
+			<U WHO="S1"> oh i see people are steering clear of the yellow ones... </U>
+			<U WHO="SU-f"> well that nontoxic thing you know. </U>
+			<U WHO="SU-f"> are you eating scales? </U>
+			<U WHO="SU-f"> no </U>
+			<U WHO="SU-m"> are we done with (the fish?) </U>
+			<U WHO="S1"> no i haven't seen any of the little ones done. according to this size range, there aren't any measurements of the little tiny ones. </U>
+			<U WHO="SU-m"> how much skin do you have to take off? </U>
+			<U WHO="S1"> pardon? </U>
+			<U WHO="SU-m"> how much skin do you have to take off? </U>
+			<U WHO="S1"> oh you have to go into the dermis. so you'll bleed. </U>
+			<U WHO="SU-m"> oh. i can do that. </U>
+			<U WHO="SU-f"> how much will you bleed? </U>
+			<U WHO="S1"> no we won't. um i don't know is there any blood in you? </U>
+			<U WHO="SU-m">
+				<OVERLAP> last time i checked </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> how do we do it? </OVERLAP>
+			</U>
+			<U WHO="SU-m"> (some would say it's cold.) </U>
+			<U WHO="S1"> um, you'd have to take a, a a, a small slice, you'd need to get local anesthetic and all those <OVERLAP> kinds of things. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> really? </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah you can see melanophores in your skin. </U>
+			<U WHO="SU-f"> do it really fast </U>
+			<U WHO="SU-m"> i don't need any stinking anesthetic </U>
+			<U WHO="SU-f"> tough man </U>
+			<EVENT WHO="SS" DESC="GRUNTS"/>
+			<U WHO="S1"> did i hear you were going to the, He Man con- uh competition at the state fair? </U>
+			<U WHO="SU-m"> no i w- i went last night, to watch it. </U>
+			<U WHO="S1"> oh you didn't participate? </U>
+			<U WHO="SU-m"> no i'm too heavy. </U>
+			<U WHO="S1"> too heavy. </U>
+			<U WHO="SU-m"> we'll i'd be_ i boxed at Michigan but i'd be a heavyweight in this, in uh </U>
+			<U WHO="S1"> in northern Michigan you'd be a heavyweight? </U>
+			<U WHO="SU-m"> yeah. well it cuts off at one-eighty-two and i'm like one-ninety. </U>
+			<U WHO="S1"> hmm... </U>
+			<U WHO="SU-m"> these have all been done haven't they? </U>
+			<U WHO="S1"> yes. </U>
+			<U WHO="SU-f"> the (xx) county fair's going on right now? </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="SU-f"> oh that's great <U WHO="SU-m"> yeah </U> should be a lot of fun </U>
+			<U WHO="SU-m"> it is fun, we went last night, i can't go tonight (because of) homework. </U>
+			<U WHO="S1"> can we um i really do want some_ as many of the little fish measured as possible please. </U>
+			<U WHO="SU-m"> alright </U>
+			<U WHO="SU-m"> what're the- where are we getting these? </U>
+			<U WHO="SU-m"> (let's go into) old ones? (let's go into) old ones? where do we get (xx) looking for? </U>
+			<U WHO="S1"> i want some one-year-olds and some zero-year-olds </U>
+			<U WHO="SU-f"> one </U>
+			<U WHO="SU-m"> zero-year-old? </U>
+			<U WHO="SU-f"> how can you have a zero-year-old? </U>
+			<U WHO="S1"> a one-year-old. it's in its first year... okay we've got, one two three four and five for the Pumpkinseed, but the Rock Bass are really struggling. </U>
+			<U WHO="SU-m"> i got a, i got a four-year-old hundred and fifteen millimeters </U>
+			<U WHO="SU-m"> you got a four-year-old? (xx) i need to look at it. </U>
+			<U WHO="SU-f"> how can you tell the difference between (the wait a minute,) how can you tell the difference between a zero <OVERLAP> and a one-year-old? </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> i've got my twenty-three millimeter zero-year-old </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i'm saying that the zero_ </OVERLAP> that they're in their first year and they're one year old. there are two different conventions as to how you measure age, report age. </U>
+			<U WHO="SU-f"> i saw zero rings (xx) zero rings </U>
+			<U WHO="SU-f"> uh oh </U>
+			<U WHO="SU-m"> well he's in his fourth year i think there's only three, three possibly four bands <OVERLAP> but he's in his fourth year </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> i think we should clear that up </OVERLAP>
+			</U>
+			<U WHO="S1"> clear what up? </U>
+			<U WHO="SU-f"> how to_ if it's got two (ranges) if it's two years old or if it's in its third year whatever you wanna call it. </U>
+			<U WHO="S1"> okay. if it's in its first year i'm calling it a one-year-old. if it's in its second year i'm calling it a two-year-old. </U>
+			<U WHO="SU-f"> okay so if it's got <U WHO="SU-m"> what about third year? </U> no rings it's one? </U>
+			<U WHO="S1"> it's i'm calling it one year old. um, one of the reasons to do that, is that when you have to take logarithms, you can take a logarithm. and so, the- one convention is to d- is to call an a- a fish in its first year one year old. however, some people will prefer to use the human business, and um call them in a zero year old. okay? but we'll use them as one year old if they're in their first year. </U>
+			<U WHO="SU-m"> i've got a new shirt on </U>
+			<U WHO="SU-f"> whoops </U>
+			<U WHO="SU-f"> it might be just breaking up on me i think </U>
+			<U WHO="SU-f"> okay Paul </U>
+			<U WHO="SU-m"> no i didn't </U>
+			<U WHO="SU-f"> who wants to check? </U>
+			<U WHO="SU-f"> and if you want to avoid confusion in terms (xx) on exams, just write down <OVERLAP> it's in its third </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> i beg your pardon </OVERLAP>
+				</U> (xx) its third year </U>
+			<U WHO="SU-f"> um, my zero-year-olds are gonna have to be one </U>
+			<U WHO="SU-f"> so the </U>
+			<U WHO="S1"> i've changed it </U>
+			<U WHO="SU-f"> okay and then, the one that's fifty-six <U WHO="S1"> hang on </U> should be three (again) </U>
+			<U WHO="S1"> wh- i haven't got a fifty-six yet. oh that's on the other one, yeah. <OVERLAP> okay. </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> make me nervous (one year then it's) (xx) </OVERLAP>
+				</U> three ninety... thank you. oh it doesn't look too bad. look at that. lookie lookie lookie... </U>
+			<U WHO="SU-f"> you guys have we done everything from today? </U>
+			<U WHO="SU-f"> wh- uh what did we do with our, oh you have it </U>
+			<U WHO="S1"> yes i do. <U WHO="SU-f"> i have these fish (xx) </U> are these Pumpkinseeds? </U>
+			<U WHO="SU-f"> one Pumpkin, and then the first (xx) </U>
+			<U WHO="S1"> okay if you could write them up but give me the Pumpkinseed. it's one year old and </U>
+			<U WHO="SU-f"> twenty-four millimeters </U>
+			<U WHO="S1"> twenty-four millimeters <PAUSE DUR=":12"/> oh, might actually work this year. </U>
+			<U WHO="SU-f"> is that normal? one two three? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="SU-f"> it's_ they really grow that much <OVERLAP> between the first </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well um </OVERLAP> i- i think there may be one missing there </U>
+			<U WHO="SU-f"> well that's what i was thinking. <U WHO="S1"> yeah </U>
+				<OVERLAP> there should be something there. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well there probably could well be </OVERLAP> yes. um, yeah we don't we haven't got any of that (age through.) no they could grow that fast </U>
+			<U WHO="SU-f">
+				<OVERLAP> really? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> in the </OVERLAP> second year, yeah. asymptotic growth... okay where are we at with the fishes please? </U>
+			<U WHO="SU-m"> i'm looking for little ones. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-m"> so how many rings did you think you saw on that one? </U>
+			<U WHO="SU-m"> i'd say it was in its fourth year </U>
+			<U WHO="SU-m"> you say they saw four rings? </U>
+			<U WHO="S1"> a Rock Bass? </U>
+			<U WHO="SU-m"> no i saw three rings (xx) </U>
+			<U WHO="S1"> that's the way we're doing it, yes. </U>
+			<U WHO="SU-m"> yeah, that's what i saw. </U>
+			<U WHO="S1"> ah. okay so we do have some others for the Rock Bass the, Pumpkinseeds are... okay are we all done on these? i can see people standing around looking, <OVERLAP> intelligent. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP> smaller of (xx) <U WHO="S1"> okay </U> (xx) <U WHO="S1"> okay </U> i was looking in the older jars but i don't see any so </U>
+			<U WHO="S1"> yeah i don't_ i think we were getting the smaller ones here. </U>
+			<U WHO="SU-f"> yeah i don't think we've ever really found (xx) </U>
+			<U WHO="SU-m"> little baby bullhead </U>
+			<EVENT DUR="2:21" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> you mean you haven't done the background reading? </U>
+			<U WHO="SU-m"> no i did it. it doesn't mean i recall (everything). (okay so i'm not going to work particularly well...) </U>
+			<U WHO="S1"> (mhm) </U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S1"> okay where are we at...? can we uh, begin to have a look at these uh data then if we could gather round the screen here... </U>
+			<U WHO="SU-f"> oh hey i'm right by the screen <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> oh that wasn't very good <PAUSE DUR=":10"/> for reasons i don't understand, aw damn... aha, got it. <PAUSE DUR=":05"/> no, this is really weird. <PAUSE DUR=":06"/> okay. the uh first thing, is to look at the, the data for the, the minnow, for the minnow. now from the earlier data we've got this year <EVENT DUR=":06" DESC="PAUSE WHILE GOING THROUGH SLIDES"/> we've got a nice clear separation of our, couple of sized classes of minnows. okay? and this is presumably the young of the year that have just been born this year, and these are the older ones and you can see the do- growth (depensation) that i was talking about this morning. um the second one, only looks at the smaller minnows, and then this is today's data. um, it's horrible actually, but i believe it. um it it's sort of a little surprising because if you look at it it looks as if, um there's just one group of fishes, which frankly, i am very skeptical about. i think what you've actually got is a group of fish here, and perhaps a second group of fish, here. <U WHO="SU-f"> mhm </U> and, given, if you go all the way up here, that these are the older fishes, these two groups of fish down here, um, are going to be, probably two separate spawnings... probably two separate spawnings. i'm not entirely certain. anyway i've taken the average of these fish here, and if you look at it on a a graph, you can see a fa- an effect which is quite common. um... this is probably the new spawning, and i haven't yet had a chance to put the numbers in, but i think they're about thirty-five. um, but you see this this kind of effect where with time, the growth rate, gets lower. it's very fast to begin with and then it tails off. </U>
+			<U WHO="SU-m"> is that (case) selection? or </U>
+			<U WHO="S1"> pardon? </U>
+			<U WHO="SU-m"> is that (case) selection? or </U>
+			<U WHO="S1"> no no this is individual growth rates not population growth rates okay? um a- and what it's saying is that, when the babies started off little, they grew fast and then tailed off. how many of you um, di- have done any baby-sitting in the last two decades? </U>
+			<U WHO="SU-f"> oh yeah </U>
+			<U WHO="S1"> yeah okay. how fast do m- how fast do babies grow? </U>
+			<U WHO="SU-f"> ridiculously fast </U>
+			<U WHO="S1"> ridiculously fast they double their weight in? </U>
+			<U WHO="SU-f"> a year? </U>
+			<U WHO="S1"> well i can't actually remember cuz it's a long time since i've had things that size, but anyway, um, <U WHO="SU-f"> things? </U> tha- the- is- sh- babies at that age are vegetables i tell you. so the the the thing is though that, animals that are very very young grow very very fast. if you think about it, um if uh you have a baby that say, has a birth weight of, four kilograms... yeah... um... alright so it was a hard birth, hard labor, <EVENT WHO="SS" DESC="LAUGH"/> alright do three kilograms, okay ladies three kilograms </U>
+			<U WHO="SU-f"> thank you </U>
+			<U WHO="S1"> um three kilograms and it doubles in weight so you only have to add three kilograms don't you? but if you add another three kilograms it goes from six to nine kilograms and, the growth rate is obviously a lot lower instead of doubling it's only gone up fifty percent. so one of the things as you get bigger and bigger and bigger, it takes more and more and more, to grow at the same rate. oh, good heavens. um so what you're seeing here is an effect that, although the the the as it gets as they get larger it's simply harder to add on add on material but this is very very typical. fish, typically grow fast when they're young, and also they typically grow fast at the beginnings of seasons. Bluegills and Pumpkinseeds for example will put up th- on their annual growth often in ten to two uh ten days two weeks. trout, will put on their annual growth in just a few weeks in the spring. then that's it for the year. <U WHO="SS"> hm </U> it's when the food is available. so this kind of effect is uh is uh is is quite common with the minnows. and if you took the slope of that which wouldn't really be worthwhile with that number of points you could get the growth rate. okay. so that's_ oh there it is. that's one set of_ do you want to change it? alright. um... now, the other, um thing that we uh um need to look at the growth is i've put the Pumpkinseed data up here. and you can see the same kind of thing the young have grown, um very rapidly and then the uh weight is tailing off and so on. it hasn't reached a maximum. the reason we wanted to get as large a size range as possible is to try and get, um all the way up to the maximum size of the fish, because, when we look at the um growth of fish if you look in your handout, one of the popular models, could i just squidge by here? is this von Bertalanffy equation. <PAUSE DUR=":12"/> could you turn the lights off over there? and this simply looks at the size of the fish where it looks at the length at some time, and this is equal to, i'm gonna move in a little while, but uh L max_ yeah i always stand in the way and then uh you know watch the panic it's uh oh sorry. um, okay, first of all we know that this is the maximum size that it can reach this L max. uh but, it hasn't reached that size yet it's discounted with time, and this is a_ so you multiply it one minus some exponential function, for the growth rate and the time. and this is the uh basic form of what's called the von Bertalanffy growth equation, it's probably the most common equation that is used for describing, the size of a fish with time. cuz if you plot the length against time, you get one of these curves, such as uh such as here. um L max is the maximum size it's the asymptotic growth. and with modern computers, you could fit a curve to those data, so that you could actually describe the curve and um get the maximum size and the maximum size is important, as you might expect in managing many fisheries. um, </U>
+			<U WHO="SU-m"> how do y- how do you determine maximum size (xx) </U>
+			<U WHO="S1"> the maximum_ well this is this is the the point um, gimme, wh- wh- y- um, the thing is, maximum size is, i- is rather a nebulous thing and it's rather difficult to determine. yet in many of the models, you're talking about approaching say am- some asymptote. so you, you know where is the asymptote? it's important in defining these models to know where the asymptote is for the the growth models, that are used for ou- for for ou- for p- used throughout fisheries. now if the size range you have that is small, you get something like this, where this is pretty much a straight sort of line, isn't it? <U WHO="SU-f"> mhm </U> and if you did a a susti- statistics on that, what you'd probably find was, that, you'd wind up with a straight line going through those data, instead of some nice curve that would look like that. this straight line is never gonna reach an asymptote is it? it's just gonna keep going on and on. this is a very very common problem, with the age of, oh, the age, and growth of fishes. and so a, variety of devices described in your coursepack are used to try and clean that up, and one of these is called the fo- the um, Ford Walford method, and in the Ford Walford method, you, plot <EVENT DUR=":07" DESC="PAUSE WHILE CHANGING OVERHEAD TRANSPARENCIES"/> um the length, at age, T, the length at some age T against the la- age at length T plus one. now, if you reach an asymptote, so that the elder fish isn't growing any more, it never gets any bigger, then you know that the a- the length at T plus one is equal to exactly the same, the length at age T isn't it? you with me? if you go an asymptote out here, and the thing's reached some maximum age, then the length may be a hundred and forty millimeters in a ten-year Pumpkinseed, yes ten-year Pumpkinseed and the same length in an eleven-year Pumpkinseed, so that as y- they get older and older and older, you get a line of equality where the length of an age is exactly the same as it is a year older. for example, my height has been roughly five-foot-ten now for many many many years. it's still half an inch taller than Timothy. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> it's not what he would (xx) </U>
+			<U WHO="SU-m"> he's not done yet though </U>
+			<U WHO="S1"> he may not be done yet. heh heh heh heh. okay. so, if you plot, the age at so- the length at some age against the length at age T plus one what happens? well, the smaller fish is gonna start off_ the younger fish is gonna start off smaller than the older fish isn't it? so that um you're gonna find some sort of number, um, out here where this is going t- if th- you start off here at zero and this is one, then you finish up with something like this and as you go along, the fish uh the the lengths eventually cross this line. at that point you have the L Max. and this is a graphical metho- method for finding it. now, this is set up on the next page and, there's only one word to describe your data... </U>
+			<U WHO="SU-m"> rubbish? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> no, look what's happened. here if you follow this line along here it would have been beautiful it would have crossed the axis, at about a hundred and twenty millimeters, but, that, those that linear stuff down here, you know this, regular growth rate here, um it's not reaching an asymptote is it? and what you've found is, that it doesn't actually, cross the line. this is extremely common, this is very common indeed. um naturally it's entirely possible that um some of the data, made have made a little bit of a mistake you know in the ages and so on um, <U WHO="SU-m"> (not our data) </U> yeah that could have happened you know, for example this might be a four-year-old or something like that but uh, never mind this is the- these are the data we have. um this this too is quite common but at least you see the principle, you can in fact, find the point at which it crosses this line of equality, and that gives you the maximum size. will someone look up Scott and Crossman, and see what maximum size you'd expect of a Blueg- of a Pumpkinseed? </U>
+			<U WHO="SU-f"> who wants the bible? </U>
+			<U WHO="SU-f"> i got it </U>
+			<U WHO="SU-m"> twelve inches </U>
+			<U WHO="S1"> twe- what's that in? come on now. we don't use inches here. </U>
+			<U WHO="SU-m"> uh... thirty centimeters. </U>
+			<U WHO="S1"> yeah and the units we're using are millimeters. </U>
+			<U WHO="SU-m"> three hundred. </U>
+			<U WHO="SS">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> we're talking about the certified record not the ones you catch regularly okay...? it is thirty millimeters thirty-point-four-eight, centimeters to a foot. </U>
+			<U WHO="SU-f"> where would you find it? (xx) </U>
+			<U WHO="S1"> no i don't think you'd you'd find one. see how it compares? this is an_ illustrates yet another point that it's always a good idea to cross-check your data, and see whether it makes sense. now i know if you find a, thirty pound bass that it really is thirty pounds. okay, mm right? um but it's a good idea to cross-check because you might in fact find you've got a Tarpon instead. you've got a maximum size for these? </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> there you go (yes) some uh, age, eight years old and a Michigan total length a hundred and ninety-eight at eight years old i wonder what happens if we put those numbers in? </U>
+			<U WHO="SU-m"> how about Bluegill? look up Bluegill </U>
+			<U WHO="SU-f"> yes sir. </U>
+			<U WHO="SU-m"> please. </U>
+			<U WHO="S1"> what are you looking at there? </U>
+			<U WHO="SU-m"> Pumpkinseed doesn't <OVERLAP> get as big as </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> whoops </OVERLAP>
+				</U> Bluegill. but i betcha Bluegill (xx) </U>
+			<U WHO="S1"> what was the age a hundred and ninety-eight? </U>
+			<U WHO="SU-f"> mhm </U>
+			<U WHO="SS"> age was eight </U>
+			<U WHO="SU-f"> ninety-eight </U>
+			<U WHO="SU-m"> yeah a hundred and ninety-eight </U>
+			<U WHO="S1"> well that doesn't help either does it...? </U>
+			<U WHO="SU-f"> but, but uh </U>
+			<U WHO="S1"> actually i've just realized i've got these axes back to front haven't i? </U>
+			<U WHO="SU-f"> you put that on age six, does it matter? </U>
+			<U WHO="S1"> oh yes it did matter didn't it...? what was the length? </U>
+			<U WHO="SU-f"> one ninety-eight </U>
+			<U WHO="S1"> oh no s- it_ no we need to (have it) fill in the data otherwise it's not gonna work. anyway there is yet another method, to try and do these things, and that is, it's called the guessing method, and this is where your data really begins to look like hell. um, what you try and do here, um is to guess the maximum lengths. let's say that we guess uh two hundred. whoops wrong thing... put 'em up here. suppose it's two hundred. and that gives us a_ see this line here? it's a hundred and_ what the hell has happened here? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-m"> nine inches </U>
+			<U WHO="S1"> okay and uh, this gives us this line here for two hundred. and uh... what you try and trying to find a line, that's that's reasonably straight and that's working quite well but what happens if we say put in, three hundred here... that's, that's that's uh see that's a weird line that it doesn't look right at all and if we put in say </U>
+			<U WHO="SU-f"> what are the green numbers? </U>
+			<U WHO="S1"> um they're just the the numbers i'm entering </U>
+			<U WHO="SS">
+				<EVENT DESC="LAUGH"/> what do they mean? </U>
+			<U WHO="S1"> these are, guesses of the total length, these are guesses of the total length, and i can't see that can you see that? </U>
+			<U WHO="SU-f"> no </U>
+			<U WHO="SU-m"> the total length? </U>
+			<U WHO="S1"> color </U>
+			<U WHO="SS"> (xx) </U>
+			<U WHO="S1"> okay it's black that's better. see this line is sort of curving down. and what what you do is you put_ what's happening here is you're quite simply putting in an estimate of the maximum length, and you're plotting the log of the maximum length minus the actual length against the age. </U>
+			<U WHO="SU-f"> an estimate of the maximum length at a certain age or just like <OVERLAP> overall? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> just a maximum </OVERLAP> of the t- an estimate of the maximum length. just a maximum of the uh maximu- uh uh of the length. and, if you're close you get straight lines. if you're f- way out, you get curves. and what you now do is you put in numbers here, until you get the straightest possible looking line. and that gives you the maximum length and the slope will give you the growth rate. these are the kinds of things that people do, um this is the kind of thing that fisheries wars are based on, okay? um and this is these are methods to try and deal with some realities of the data, to try and find out maximum lengths now a hundred and ninety-eight was pretty close to two hundred, and you see this is quite a nice straight line. the others are curved, or wander around on all over the place. with those with no- ge- with an estimate of the maximum length and two hundred millimeters is pretty good, is pretty good even for our data, you can then plug that in to the, um von Bertalanffy equation, and you can get the slope of this line, and that will give you the value of K the growth rate and you get your, your uh growth equation. uh sorry e- this is um the K, in here. all we're trying to do, is take real-world data, and fit the models to it, such that we can make predictions about growth rate, but more important we can begin to put them into, the kinds of models that are used for managing fisheries, so that you can predict fecundity, survivorship and uh elements such as that. but what i want to show you, really as much as anything else, is that, um, there's an awful lot of guesswork involved, and we can start off with nice hard numbers, the things we measured, right? easy, no doubt, and everybody knew the ages, really accurately right? no question in reading the scales, dead easy. Matt you look skeptical. okay. the data are fairly good, the data are fairly hard, but, management, management decisions, are often made on remarkably incomplete data. okay remarkably incomplete data. and the kinds of processes that we've gone through, with uh with this, now with that incomplete data, you still have to make decisions. compared to management, compared to building policy, science is remarkably easy... science is dea- de- is dea- dealing with hard numbers in many respects um yeah sure there's always uncertainty and so on. but when you're making management decisions and you're sending people to war who's seen Private Ryan? yeah um and those kinds of things, you have incredibly uncertain information, to base ba- to base your predictions on to base your decisions. now that uncertainty, does two things for you. first of all it should keep you humble. but the second thing is it leaves plenty of wiggle room for interests who say don't want to make a change they don't want to conserve organisms and that kind of thing. the real world then of where you apply the data, which_ the hard-won data but the data that was relatively easy to get, okay? the real world of where you apply that, is extremely challenging. and yet it's absolutely vital as scientists if you want to move into the policy kinds of areas or to have an impact in those kinds of areas, that you, understand, how much you can predict and where the risks are, and ideally, you try and give, the policy people and these kinds of things, scenarios. say okay, this is my best guess. if i'm wrong by this much, these are the consequences. if i'm wrong by this much, these are the consequences. okay? so... having gone through this in uh the- these these procedures here it's gonna be the same for doctors you never have complete knowledge. you have to decide whether to treat someone with a potentially lethal drug, with incomplete data... hmm hmm. okay. so. i wanted to illustrate the process and what you can do with the data, but i also wanted to show you the limitations. and i wanted to give you_ to leave you today and we're gonna finish right now, with i hope a lot more respect for the problems that the manager has to face, and the problems that the person who is trying to design policies for a better world, has to face. and of course it comes back to your obligation, to give them the best data and the best information that's possible. alright? any questions...? </U>
+			<U WHO="SU-m"> so who makes the decisions? </U>
+			<U WHO="S1"> twenty-one-year-olds in Washington... <U WHO="SU-m"> great </U> the uh the Congressional aides in Washington are usually recent graduates and they're collecting all the information, they're increasingly though also the filter, and they will um try they will s- put the spin on the information that goes to, the c- your Congresspeople, and your Senatorpeople... it's uh, it's a very interesting world. </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> ah yes i have yes. okay. um... hwuh. as we wind down next week, next week class on Tuesday. having a review session on Wednesday evening, this time Wednesday evening. okay? um, that's Wednesday. </U>
+			<U WHO="SU-m"> do you know what time? </U>
+			<U WHO="S1"> uh it'll be at seven o'clock <U WHO="SU-m"> okay </U> i'm, fully aware again that other classes have things and there are, and it's not always possible for everybody to get to, it was on uh Thursday last time and a different bunch of people were potentially disadvantaged. um but i will stay_ uh uh have you_ you likely to be later back? </U>
+			<U WHO="SU-m"> um i don't know, i know we're going to (seine,) so </U>
+			<U WHO="S1"> (seining) again? </U>
+			<U WHO="SU-m"> no we haven't been there yet, <U WHO="S1"> oh </U> so, i don't_ but i have no idea. </U>
+			<U WHO="S1"> yeah well, i'll be around on Thursday morning as well <U WHO="SU-m"> okay </U> so uh we_ obviously the review session is to look at the whole (pieces,) and uh the review questions will be going up, and once again, Aar- uh Megan, sorry, Megan will be doing minnow magic. </U>
+			<U WHO="SU-f"> woo hoo. alright. </U>
+			<U WHO="SU-f"> (xx) i just wanna know if it's cumulative. </U>
+			<U WHO="S1"> of course it's cumulative. <EVENT DESC="LAUGH"/> sorry, a final is always cumulative, right? </U>
+			<U WHO="SU-m"> so is that the review questions, all the review questions? </U>
+			<U WHO="S1"> yeah. um however, you can rest assured, that the questions (xx) that were on the midterm will not be on the final. hmm actually, hmm, y- okay, you can rest assured that they they will not be. okay? </U>
+			<U WHO="SU-f"> are we gonna_ we're gonna have identification again? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="SU-m"> anybody wanna meet on Monday? </U>
+			<U WHO="S1"> i beg your pardon? </U>
+			<U WHO="SU-f"> yep </U>
+			<U WHO="SS"> yeah </U>
+			<U WHO="S1"> you will have okay, the exam will be in the same kind of format as uh, as as it was before, same number of pages the same kinds of material, um you will have had more time to learn your minnows those of you who were um a little shaky last time, um you will uh will be going back into to um, t- fine tune refine your keying and those kinds of things, the skills that you've acquired it should be, fairly simple, the lab exam, we may have more questions on process such as what (gear) would you choose and why and those kinds of things. but it will be very similar to the one before. </U>
+			<U WHO="SU-f"> so we're (keying out) two species we've never seen before right? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="SU-f"> wait two species we've never seen before? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="SU-f"> and how many that we have seen before do we have to key any of those out? </U>
+			<U WHO="S1"> you won't have to key out any of those but you will undoubtedly see ones that you have seen before cropping up in, plates. </U>
+			<U WHO="SU-f"> in what? </U>
+			<U WHO="S1"> in d- in dishes... <U WHO="SU-f"> dinner </U> dinner, yes. </U>
+			<U WHO="SU-m"> can we bring our (xx) </U>
+			<U WHO="S1"> um, i'd like to encourage you again. so far i mean i've invited you all the way along to suggest questions you'd like to see on the exams, and so far i have received none. </U>
+			<U WHO="SU-m"> what did (Brae) hit his head on? </U>
+			<U WHO="SU-f"> will the uni- </U>
+			<EVENT WHO="SS" ITERATED="U" DESC="LAUGH"/>
+			<U WHO="SU-f"> will the unidentified <U WHO="SU-m">
+					<OVERLAP> that's a extra credit question </OVERLAP>
+				</U>
+				<OVERLAP> fish that we have to </OVERLAP> key out, be <OVERLAP> fishes that are found in this area? are you gonna </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> how many times does Chris fall asleep in one lecture (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> will they be fishes found in this area? </U>
+			<U WHO="SU-f"> they'll be fishes that </U>
+			<U WHO="S1"> they'll be Michigan fishes. </U>
+			<U WHO="SU-f"> they'll be fi- fishes that you can use, the (Hubbs and Lagler) key for </U>
+			<U WHO="S1"> so they'll be Michigan fishes. </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/> well thank you. <U WHO="S1">
+					<OVERLAP> and they won't </OVERLAP>
+				</U>
+				<OVERLAP> i </OVERLAP> i meant in this area. in this area </U>
+			<U WHO="S1"> a- a- they they_ it will be in this area this area being defined as, <OVERLAP> Michigan. </OVERLAP>
+			</U>
+			<U WHO="SS">
+				<OVERLAP> Michigan </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> marvelous </U>
+			<U WHO="SU-f"> fine fine </U>
+			<U WHO="S1"> yeah okay? </U>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="SU-f"> do you want to save anything off there or can i enlist somebody to help me, drag (it <OVERLAP> away?) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> um </OVERLAP>
+			</U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

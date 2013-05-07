@@ -1,0 +1,2017 @@
+<!-- edited with XMLSPY v5 rel. 4 U (http://www.xmlspy.com) by Gemma Lum (University of Michigan) -->
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="svc999mx104">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Media Union Service Encounters </TITLE>
+				<TITLE> Rackham Div: NA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SVC999MX104 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="187">
+						<DATE> October 25, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones and digital video camera </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Amy Burke, Janine Ovens, Rita Simpson, Darell Tibbles </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Amy Burke, Darell Tibbles </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 1/11/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="79"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="82"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NNS" ROLE="ST, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> ARM </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Desk Clerk" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NRN" ROLE="SU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> ARM </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S5" LANG="NNS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="ST, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S17" LANG="NNS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S18" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S19" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S20" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S21" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S22" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S23" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S24" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S25" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S26" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S27" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S28" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S29" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S30" LANG="NS" ROLE="ST, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S31" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S32" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S33" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S34" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S35" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S36" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S37" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S38" LANG="NNS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S39" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S40" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S41" LANG="NS" ROLE="JF, Faculty" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S42" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S43" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S44" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S45" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S46" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S47" LANG="NNS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S48" LANG="NS" ROLE="JU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S49" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S50" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S51" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S52" LANG="NS" ROLE="SU, Desk Clerk" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S53" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S54" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S55" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S56" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S57" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S58" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S59" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S60" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S61" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S62" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S63" LANG="NS" ROLE="UN, Desk Clerk" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S64" LANG="NNS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S65" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S66" LANG="NNS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S67" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S68" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S69" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S70" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S71" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S72" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S73" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S74" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S75" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S76" LANG="NNS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="0">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S77" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S78" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S79" LANG="NNS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> UNK </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="SU, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="R2" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="R3" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Circulation Desk, Media Union </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> bring it back in two hours. kay? thank you. <OVERLAP> hello. </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> can </OVERLAP> you tell me where the color copier is located? </U>
+			<U WHO="S1"> um, color copier is over there, go straight and </U>
+			<U WHO="S4"> straight back <OVERLAP> over here? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> y- </OVERLAP> yeah </U>
+			<PAUSE DUR=":29"/>
+			<U WHO="S4"> hello </U>
+			<U WHO="S5"> (xx) this book? </U>
+			<U WHO="S1"> is it reserve? </U>
+			<U WHO="S5"> yeah, <OVERLAP> reserve </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> ok- </OVERLAP> okay. <PAUSE DUR=":07"/> kay </U>
+			<PAUSE DUR=":43"/>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> (why?) </U>
+			<U WHO="S5"> i really cannot (open the door.) </U>
+			<U WHO="S1"> really? </U>
+			<U WHO="S5"> yeah <EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"><EVENT DESC="SCANS BOOK"/> i got it here. <U WHO="SU-f"> oh </U><EVENT DESC="LAUGH"/> okay <PAUSE DUR=":10"/><EVENT DESC="SCANS BOOK"/><PAUSE DUR=":04"/> (xx) <PAUSE DUR=":07"/> due back in two hours, okay? </U>
+			<U WHO="S5"> okay, thank you. </U>
+			<U WHO="S1"> uh you're welcome. okay </U>
+			<PAUSE DUR="1:40"/>
+			<U WHO="R2"> it's just a little notice, so that people know that <OVERLAP> they might be recorded </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":43"/>
+			<U WHO="S1"> i didn't do it because <U WHO="S6"><OVERLAP> you didn- </OVERLAP></U><OVERLAP> it's a </OVERLAP> reference book we can't <OVERLAP> it's </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> is it </OVERLAP> really? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S6"> wow it was downstairs. </U>
+			<U WHO="S1"> really? <U WHO="S6"> yeah <EVENT DESC="LAUGH"/></U> yeah <EVENT DESC="LAUGH"/> when i went to do check out, somebody call me? no? <U WHO="S6"> (i don't know) </U> and it's a reference book. </U>
+			<U WHO="S6"> okay. </U>
+			<U WHO="S1"> i don't know... is it okay for you, or <U WHO="S6"> hm? </U><EVENT DESC="LAUGH"/> maybe, we can talk to reference maybe they can... <U WHO="S6"> oh... </U> see building use only? </U>
+			<U WHO="S6"> yeah i saw that and i thought well that's_ but then sometimes then you know they shelve 'em down there <U WHO="S1"><OVERLAP> yeah </OVERLAP></U><OVERLAP> after </OVERLAP> they're old, and they say you can do it, but, yeah you know what i'll go ask 'em </U>
+			<U WHO="S1"> okay <EVENT DESC="LAUGH"/><PAUSE DUR=":05"/><EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> what's up? </U>
+			<U WHO="S1"> put your cup, back there <U WHO="S2"><OVERLAP> are you having fun? </OVERLAP></U><OVERLAP> and </OVERLAP> come here. i <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> no, no you're okay. </U>
+			<U WHO="S1"> no, <EVENT DESC="LAUGH"/> they did not send you here to <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S1"><OVERLAP> yeah </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"><OVERLAP> you shouldn't </OVERLAP> be lying. <EVENT WHO="S1" DESC="LAUGH"/> i don't think so. <U WHO="S1"> wha- </U> who's next? Alina's next, right? </U>
+			<U WHO="S1"> Alina is_ yeah. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> okay, yeah i'm still next. <EVENT DESC="LAUGH"/></U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<PAUSE DUR=":28"/>
+			<U WHO="S1"> may i help you? </U>
+			<U WHO="S7"> how you doing? can i check out the Engineering Economy book? for uh, (Howard) </U>
+			<U WHO="S1"> uh, what </U>
+			<U WHO="S7"> it's on reserve </U>
+			<U WHO="S1"> do you know call number? </U>
+			<U WHO="S7"> no, uh </U>
+			<U WHO="S1"> you know c- your course number? </U>
+			<U WHO="S7"> oh, I-O-E two-oh-one </U>
+			<U WHO="S1"> uh let's see here. I-O-E <PAUSE DUR=":08"/> and what, what's your course number? </U>
+			<U WHO="S7"> two-oh-one. </U>
+			<U WHO="S1"> two-oh-one this one? <U WHO="S7"> mhm </U> P-C sixty-two? <PAUSE DUR=":07"/> P-C sixty-two... right? this one? M-card please... <EVENT DESC="SCANS BOOK"/> uh'oh. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-f"> bye. </U>
+			<U WHO="S1"> bye <PAUSE DUR=":42"/><EVENT DESC="SCANS BOOK"/></U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S7"> where do we, do you return it at? do we just give it to you? </U>
+			<U WHO="S1"> mhm. <EVENT DESC="SCANS BOOK"/><PAUSE DUR=":05"/> okay, </U>
+			<U WHO="S7"> in a hour? </U>
+			<U WHO="S1"> uh two hours. in two hours should be back. and time, let's say four twenty-three. kay? </U>
+			<U WHO="S7"> can you, staple this? </U>
+			<U WHO="S1"> mhm. </U>
+			<PAUSE DUR=":17"/>
+			<U WHO="S7"> thanks. </U>
+			<U WHO="S1"> you're welcome. </U>
+			<PAUSE DUR="1:40"/>
+			<U WHO="S8"> hi <U WHO="S1"><OVERLAP> hi </OVERLAP></U><OVERLAP> can i </OVERLAP> borrow a stapler please? </U>
+			<U WHO="S1"> we don't have here a stapler. downstairs. </U>
+			<U WHO="S8"> no <OVERLAP> okay downstairs? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> (first floor) </OVERLAP></U>
+			<U WHO="S8"> thanks. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> hello. </U>
+			<PAUSE DUR="1:24"/>
+			<U WHO="S1"> hello... </U>
+			<U WHO="S9"> hi. <U WHO="S1"><OVERLAP> hi </OVERLAP></U><OVERLAP> how </OVERLAP> are you today? </U>
+			<U WHO="S1"> i'm okay, <OVERLAP> how are you? </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> i have </OVERLAP> a camera to give back to you. </U>
+			<U WHO="S1"> okay, good... </U>
+			<U WHO="S9"> at least i hope i have a camera </U>
+			<U WHO="S1"> the number? </U>
+			<U WHO="S9"> seven </U>
+			<U WHO="S1"> seven? <EVENT DESC="LEAVES SERVICE DESK"/></U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S1"> (xx) </U>
+			<U WHO="S2"> you're working upstairs today? </U>
+			<U WHO="S1"> yeah. <EVENT DESC="LAUGH"/> you too? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S1"> this is not my key i don't know what it's <PAUSE DUR=":08"/> (must go in this one.) <U WHO="S2"><OVERLAP> sorry </OVERLAP></U><OVERLAP> whoops, </OVERLAP> excuse me. okay, seven, okay <PAUSE DUR=":14"/><EVENT DESC="RETURNS"/> okay. uh, oh <EVENT DESC="LAUGH"/> (dee dee) hm... mkay? good? mkay... uh, date and time ten twenty-five, two thirty, two thirty-two (xx) checked, in. <EVENT DESC="SCANS EQUIPMENT"/> okay. </U>
+			<U WHO="S9"> all set? </U>
+			<U WHO="S1"> yup. <OVERLAP> you're all set. </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> have a good day. </OVERLAP></U>
+			<U WHO="S1"> thank you you too. </U>
+			<U WHO="S9"> don't work too hard. </U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<PAUSE DUR=":57"/>
+			<U WHO="S1"><OVERLAP> mkay </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> how come </OVERLAP> they transferred you up here? </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/><OVERLAP> i </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> you </OVERLAP> get bored downstairs? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S2"> what is that? </U>
+			<U WHO="S1"> they, reported <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> i don't get one </U>
+			<U WHO="S1"> can i give him this? <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> i'm not special enough. </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> uh, i'm not special either. <EVENT DESC="LAUGH"/> oh oh oh <PAUSE DUR=":06"/> check in? (xx) check in hm? look inside. <PAUSE DUR=":06"/> three pieces? one, two, okay. <PAUSE DUR=":04"/> and Microsoft Windows, Two Thousand... </U>
+			<U WHO="SU-m"> (i won't) get anything done. </U>
+			<U WHO="S10"> something about this place man gives me a headache this building. <OVERLAP> i need to start bringing Tylenol with me. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> whoa, why, wait, wait </OVERLAP> uh just a minute. it's in, <OVERLAP> what number? </OVERLAP></U>
+			<U WHO="S10"><OVERLAP> Two Thousand, it's uh two </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no, copy number two, </OVERLAP> co- </U>
+			<U WHO="S10"> uh, i counted two </U>
+			<U WHO="S1"> copy number two, 'm'm. </U>
+			<U WHO="S10"> two. </U>
+			<U WHO="S1"> i know but, there should be some </U>
+			<U WHO="S10"> oh they didn't circle <OVERLAP> which </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> circle </OVERLAP> yeah which </U>
+			<U WHO="S10"> that's p- </U>
+			<U WHO="S1"> how about this one? you don't have, any two...? yeah. (fo- four) yeah, <OVERLAP> two. </OVERLAP></U>
+			<U WHO="S10"><OVERLAP> none of </OVERLAP> (them) other ones (have it) </U>
+			<U WHO="S1"> just, can you put, date returned? </U>
+			<U WHO="S10"> today's the, twenty-sixth? </U>
+			<U WHO="S1"> twenty-fifth. </U>
+			<U WHO="S10"> twenty fifth? </U>
+			<U WHO="S1"> mhm. <PAUSE DUR=":16"/> oh... (they're) in the wrong place. N-W-P, kay. </U>
+			<PAUSE DUR=":16"/>
+			<U WHO="S1"> hello, may i help you? </U>
+			<U WHO="S11"> hi. <U WHO="S1"> hi. </U> i'm looking for this book. they said to ask, reserves. </U>
+			<EVENT WHO="S1" DESC="LEAVES SERVICE DESK"/>
+			<PAUSE DUR=":57"/>
+			<U WHO="S1"> (Laith?) uh, <PAUSE DUR=":09"/> (Laith?) i don't know what's this? U-M-R, <U WHO="SU-m"><OVERLAP> oh </OVERLAP></U><OVERLAP> Media </OVERLAP> Union Book </U>
+			<U WHO="SU-m"> there, they w- there were these um, like, projects written by people here, <U WHO="S1"> mhm </U> but we don't have them here, they're all wrong. they're only digital. and the, reference librarians <U WHO="S1"><OVERLAP> okay </OVERLAP></U><OVERLAP> know </OVERLAP> how to get them. so just tell them <U WHO="S1"> o- </U> to take this to the reference library. </U>
+			<U WHO="S1"> okay <PAUSE DUR=":13"/><EVENT DESC="RETURNS"/> show this, to Lena reference desk and she'll show you how to_ it's it's a not a book. we don't have book here. <OVERLAP> it </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> okay, </OVERLAP> thanks. </U>
+			<U WHO="S1"> you're welcome. </U>
+			<PAUSE DUR=":40"/>
+			<U WHO="S2"> camera set up too? </U>
+			<U WHO="S1"> i think so, <EVENT DESC="LAUGH"/> but i am not sure. <PAUSE DUR=":05"/> (xx) </U>
+			<PAUSE DUR=":37"/>
+			<U WHO="S1"> you finished? </U>
+			<U WHO="S3"> hi there. <EVENT WHO="S1" DESC="LAUGH"/> oh my god </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> this your key... am i free? <EVENT DESC="EXCHANGING MICROPHONE"/><EVENT WHO="SS" DESC="LAUGH"/> thank you. </U>
+			<U WHO="S3"> (you gotta) put it all on me? <EVENT WHO="SS" DESC="LAUGH"/> why not on_ okay, just clip it somewhere? </U>
+			<U WHO="R1"> yeah <EVENT DUR=":10" DESC="ADJUSTING MICROPHONE"/> and then that just clips anywhere you, where- wherever it's comfortable. </U>
+			<U WHO="S3"> what_ how does that work? does it just o- oh </U>
+			<U WHO="S1"> like a <U WHO="S3"><OVERLAP> cell phone? </OVERLAP></U><OVERLAP> cell phone </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="R1"> yeah... thank you very much </U>
+			<U WHO="S1"> you're welcome. i'm leaving </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S1"> i didn't take my lunch. </U>
+			<U WHO="S3"> oh, me neither. </U>
+			<U WHO="R1"> (xx) make sure it's okay </U>
+			<U WHO="S3"> do you wanna speak? <U WHO="R1"> yeah. </U> it's okay. </U>
+			<U WHO="R1"> is that good? is it comfortable? </U>
+			<U WHO="S3"> yeah, i don't care. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S2"> how does he uh, he wants to find these journals but he just knows like, the title. </U>
+			<U WHO="S3"> title of journal? or title of article? </U>
+			<U WHO="S12"> the title of the journal. where like, the journals (xx) (are only) <OVERLAP> those months </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> just go into </OVERLAP> MIRLYN </U>
+			<U WHO="S3"> yeah do you do you know how to search for those? or do you want me to show you? </U>
+			<U WHO="S12"> i don't know how to, i don't know how to find the, journals in general, no. </U>
+			<U WHO="S3"> it's uh, <U WHO="S12"><OVERLAP> you know </OVERLAP></U><OVERLAP> same </OVERLAP> as a book. <U WHO="S12"> okay </U><EVENT DESC="TYPING"/> you know just go to, M-CAT. <U WHO="S12"> mhm </U> and then just do title, space or equal, there's an example, <U WHO="S12"> mkay </U> and, Harper's <PAUSE DUR=":07"/> probably the first one. <U WHO="S12"> (oh really?) </U> and then it's a serial, so that tells you that it is a journal, <U WHO="S12"> okay... </U> and then it's in graduate library. undergraduate does not have a call number but they also have, they also carry that journal. <U WHO="S12"> okay </U> and, it looks like it's online also, electronic access, <U WHO="S12"> mkay </U> do you want me just print it for you so you don't have to write it all or, </U>
+			<U WHO="S12"> i'm not sure that's the right thing <OVERLAP> cuz i- </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh </OVERLAP> okay. do you, do have an uh article title maybe? </U>
+			<U WHO="S12"> yeah, for this one, this is the article title... </U>
+			<U WHO="S3"> we can go to indexes, and (i'll look) back there. <PAUSE DUR=":05"/> did you go to, did you do it, did you search on indexes? </U>
+			<U WHO="S12"> um, i think i, i was doing a k- a keyword search and that's how i found all these articles but, i- from Wilson's </U>
+			<U WHO="S3"> oh Wilson's? </U>
+			<U WHO="S12"> yeah. </U>
+			<U WHO="S3"> okay so we'll go to, <EVENT DESC="TYPING THROUGHOUT INTERACTION"/><PAUSE DUR=":20"/> oh, spell... okay and then just do a T equal <PAUSE DUR=":09"/> is that how you spell it? </U>
+			<U WHO="S12"> yup. </U>
+			<U WHO="S3"> des- what is that? (despore) okay. <PAUSE DUR=":06"/> when you do sear- uh when you're searching in indexes, if it tells you type H O L like holdings <U WHO="S12"><OVERLAP> mhm </OVERLAP></U><OVERLAP> to see </OVERLAP> the library holdings, and then when you type it, it's not there, uh, you'll get the exact location and the call number and, like you know the library everything. <PAUSE DUR=":27"/> did you go, to, try to go to, general references? or </U>
+			<U WHO="S12"> uh no, <U WHO="S3"><OVERLAP> the social </OVERLAP></U><OVERLAP> i i </OVERLAP> the only thing i did was i searched on, the Wilson thing. that's where i found it at, that's that was the source. </U>
+			<U WHO="S3"> oh okay let's see what i can do here. let's do... oh </U>
+			<PAUSE DUR=":21"/>
+			<U WHO="S12"> there we go. </U>
+			<U WHO="S3"> okay. see it says H O L for holdings. so we do H O L, enter. <U WHO="S12"><OVERLAP> graduate libr- </OVERLAP></U><OVERLAP> and it's </OVERLAP> the graduate library the one w- that we just pulled. do you want me print it for you? </U>
+			<U WHO="S12"> uh sure. </U>
+			<U WHO="S3"> okay. <PAUSE DUR=":10"/> okay, it's printing so i'll just, i'll just help other person and then whenever_ i can help you up here. </U>
+			<U WHO="S13"> oh, i just need to drop this off <U WHO="S14"><OVERLAP> okay </OVERLAP></U><OVERLAP> from the </OVERLAP> Career Center. i don't <OVERLAP> know who put the center, that's for the reference, section. thank you. </OVERLAP></U>
+			<U WHO="S14"><OVERLAP> oh you're from the Career Center? okay, great. yup. sounds good. thank you </OVERLAP></U>
+			<U WHO="S3"> what is that? </U>
+			<U WHO="S14"> this gentleman is next. we just picked uh, one of 'em got returned. <U WHO="S3"> okay </U> so if you can email him <U WHO="S3"><OVERLAP> sure </OVERLAP></U><OVERLAP> and say </OVERLAP> that they're_ it's good, probably until midnight. here's your, key. </U>
+			<U WHO="S3"> thank you. </U>
+			<U WHO="S14"> okay? </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S3"> here you go. </U>
+			<U WHO="S15"> thanks. </U>
+			<U WHO="S3"> sure. </U>
+			<PAUSE DUR=":47"/>
+			<U WHO="S14"> is this something to check in (here?) </U>
+			<U WHO="S3"><OVERLAP> oh, </OVERLAP></U>
+			<U WHO="S14"><OVERLAP> (just over) </OVERLAP> on the chair? </U>
+			<U WHO="S3"> probably. <OVERLAP> let me see. </OVERLAP></U>
+			<U WHO="S14"><OVERLAP> yeah (looks like it) </OVERLAP> just check it in and then reshelve it. it's a permanent reserve. <U WHO="S3"> yup </U> yup? okay. <EVENT WHO="S3" DESC="SCANS BOOK"/> okay. </U>
+			<U WHO="S3"> take it. thank <OVERLAP> you. </OVERLAP></U>
+			<U WHO="S14"><OVERLAP> (i'll) </OVERLAP> be all set to to go to, the meeting? </U>
+			<U WHO="S3"><OVERLAP> yes </OVERLAP></U>
+			<U WHO="S14"><OVERLAP> are people </OVERLAP> (gonna be here) </U>
+			<U WHO="S3"> yes. </U>
+			<U WHO="S14"> (i'm going) (xx) </U>
+			<PAUSE DUR=":29"/>
+			<U WHO="S14"> what are you doing with that uh, phone on your back? </U>
+			<U WHO="S3"> they're recording. <EVENT WHO="S2" DESC="LAUGH"/><EVENT DESC="LAUGH"/><OVERLAP> hi. </OVERLAP></U>
+			<U WHO="S16"><OVERLAP> hi </OVERLAP> t- s- um, check out the P-C two five nine? <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> two </OVERLAP> fifty-nine? sure <PAUSE DUR=":15"/> can i see your M-card, please? </U>
+			<U WHO="S16"> mhm </U>
+			<U WHO="S2"> want me to do it Ali? </U>
+			<U WHO="S3"> i'll do it. he has to be supervisor's signature on it otherwise they won't believe you. what you know that person? </U>
+			<U WHO="S2"> no <EVENT DESC="LAUGH"/></U>
+			<U WHO="S3"> oh, <EVENT DESC="SCANS CARD"/> okay, i'll do it... it's due in two hours, so it should be today at, uh four forty-five. </U>
+			<U WHO="S16"> two forty-five? </U>
+			<U WHO="S3"> you're all set. </U>
+			<U WHO="S16"> thanks. </U>
+			<U WHO="S3"> sure. </U>
+			<PAUSE DUR="1:20"/>
+			<U WHO="S2"> i like the first floor desk better. </U>
+			<U WHO="S3"> why do you like it better? </U>
+			<U WHO="S2"> quieter. </U>
+			<U WHO="S3"> i don't like it there. <U WHO="S2"> (xx) </U> huh? </U>
+			<U WHO="S2"> not as many people (xx) </U>
+			<U WHO="S3"> yeah, that's true but, it's boring there isn't it? </U>
+			<U WHO="S2"> Dave was talking about you the other day. </U>
+			<U WHO="S3"> okay... he's quitting. </U>
+			<U WHO="S2"> he said you're a bad person. </U>
+			<U WHO="S3"> yeah, i <OVERLAP> know. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> no </OVERLAP> he didn't say that. <EVENT DESC="LAUGH"/> i'm just trying to get something started. he doesn't work here anymore. </U>
+			<U WHO="S3"> i know he quit. </U>
+			<U WHO="S17"> (xx) </U>
+			<U WHO="S2"> the what? </U>
+			<U WHO="S17"> camera </U>
+			<U WHO="S2"> oh, digital camera? can i see your I-D? </U>
+			<U WHO="S17"> (xx) (no i don't have it) </U>
+			<U WHO="S2"> (xx) borrow it on Friday instead? no because you have to get put back on the waiting list so (you'll, be) another week. can i see your keys? (are those) your keys </U>
+			<U WHO="S3"> no. </U>
+			<PAUSE DUR="1:08"/>
+			<U WHO="S3"> can i help you? hi. </U>
+			<U WHO="S18"> yes, i'm looking for room sixteen. </U>
+			<U WHO="S3"> okay, all the rooms are behind us kind of </U>
+			<U WHO="S18"> okay, <U WHO="S3"><OVERLAP> and the s- </OVERLAP></U><OVERLAP> i only </OVERLAP> found up to fifteen <EVENT DESC="LAUGH"/></U>
+			<U WHO="S3"> okay. if you'll go straight <U WHO="S18"><OVERLAP> uhuh </OVERLAP></U><OVERLAP> and </OVERLAP> make a, right around the corner <U WHO="S18"> uhuh </U> go through the double doors you'll pass the copy room, and it'll be on your right hand side, if you'll pass it, and around the corner make left. it's right next to the elevator. <U WHO="S18"> okay. </U> it's kind of, <EVENT DESC="GESTURE"/> so you're going straight <U WHO="S18"><OVERLAP> okay </OVERLAP></U><OVERLAP> you're making </OVERLAP> right, <U WHO="S18"> right </U> and then, make left around the corner. <U WHO="S18"> okay. </U> you'll get in there. </U>
+			<U WHO="S18"> okay, thank you. </U>
+			<U WHO="S3"> sure. </U>
+			<PAUSE DUR="1:07"/>
+			<U WHO="S3"> hi. </U>
+			<U WHO="S19"> (xx) </U>
+			<U WHO="S3"> okay, hold on just one second. <PAUSE DUR=":08"/> okay, you're all set. thank you. </U>
+			<U WHO="S19"> thank you. </U>
+			<EVENT WHO="S1" DESC="SCANS BOOK"/>
+			<U WHO="S2"> (xx) staff when i check it in, right? </U>
+			<U WHO="S3"> no, well that means that he has to put either his social security number, or his bar code number. </U>
+			<U WHO="S2"> oh. </U>
+			<U WHO="S3"> that's cool, do you have his record down, up there? okay. d- could you just put the, I-D number <PAUSE DUR=":21"/> thank you. </U>
+			<PAUSE DUR="1:22"/>
+			<U WHO="S14"> (xx) okay? <U WHO="S2"> okay </U> (xx) okay? (xx) </U>
+			<U WHO="S2"> check these in? </U>
+			<U WHO="S14"> yup. (xx) </U>
+			<U WHO="S3"> oh, okay. yeah we'll just check them in and then, put it in (truck.) </U>
+			<U WHO="S20"> hello </U>
+			<U WHO="S3"> hi there. </U>
+			<U WHO="S20"> i have to find a book? i am, a (exchange student here) from (another) (xx) </U>
+			<U WHO="S3"> okay. can i see your uh, M-card? do you have an M-card with you? </U>
+			<U WHO="S20"> no, actually i didn't receive anything. </U>
+			<U WHO="S3"> oh, you did- <OVERLAP> you didn't receive an email? </OVERLAP></U>
+			<U WHO="S20"><OVERLAP> well, except for_ </OVERLAP> (but) i can check back after, October <OVERLAP> second </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> okay, </OVERLAP> would you come up to this computer...? do you have your M-card with you so i can check your record? </U>
+			<U WHO="S10"> i'm sorry? </U>
+			<U WHO="S3"> do you have an M-card? </U>
+			<U WHO="S20"> uh, <OVERLAP> you mean a </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> your, </OVERLAP> your library card, do you have it with <OVERLAP> you? </OVERLAP></U>
+			<U WHO="S20"><OVERLAP> ye- </OVERLAP> yes, this one? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> thank you. <EVENT DESC="SCANS CARD"/><PAUSE DUR=":06"/> a- uh, what's the, book title? </U>
+			<U WHO="S20"> um, (Similar) (xx) Theory and (Architecture) </U>
+			<U WHO="S3"> okay... it's probably here. hold on just one second. <PAUSE DUR=":30"/> it's due on December twentieth. <OVERLAP> you're all set. </OVERLAP></U>
+			<U WHO="S20"><OVERLAP> (pardon me i have) a question </OVERLAP><U WHO="S3"><OVERLAP> i'm sorry? </OVERLAP></U><OVERLAP> actually </OVERLAP> i think last summer some time i uh, filled out a form, <U WHO="S3"> uhuh </U> and asked the library to extend (xx) by email. <U WHO="S3"> okay </U> i haven't <OVERLAP> received any email </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> okay i can check it out </OVERLAP> here also hold on. <EVENT DUR=":09" DESC="PAUSE WHILE TYPING"/> it, it is saying that, <U WHO="S20"><OVERLAP> (xx) </OVERLAP></U><OVERLAP> it's sending you an email yeah is that </OVERLAP> your email address? </U>
+			<U WHO="S20"> right, right </U>
+			<U WHO="S3"> yeah and, <OVERLAP> so it's sending you an email. </OVERLAP></U>
+			<U WHO="S20"><OVERLAP> oh, </OVERLAP> i haven't got any notice (xx) <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> do you have uh </OVERLAP> engineering account, or I-T-D? </U>
+			<U WHO="S20"> yeah. i have, a- an uh I-T-D or engin or you said <OVERLAP> i (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> it probably would send </OVERLAP> to your I-T-D account. </U>
+			<U WHO="S20"> uh, but (i for three months can't do that) it will, be forwarded to my U-C-S account. </U>
+			<U WHO="S3"> you you want it to be forwarded to engineering? </U>
+			<U WHO="S20"> uh, how 'bout maybe uh, is it okay maybe you could send it to CAEN account? </U>
+			<U WHO="S3"> sure. i'll try to do that here (and then) </U>
+			<U WHO="S20"> (you, you email?) </U>
+			<U WHO="S3"> (how your) email? </U>
+			<U WHO="S30"> (i'm sorry) (xx) (called) (xx) </U>
+			<U WHO="S3"> my doctor, or your doctor? </U>
+			<U WHO="S30"> yeah, (xx) i'm sorry </U>
+			<U WHO="S20"> oh </U>
+			<U WHO="S30"> yeah, (you can call me) </U>
+			<U WHO="S3"> okay. okay yeah it's i s- i put it on order so i put your engineering uh email address, so it should come to your engineering <U WHO="S20"><OVERLAP> okay </OVERLAP></U><OVERLAP> account. </OVERLAP> okay? </U>
+			<U WHO="S20"> thanks a lot. </U>
+			<U WHO="S3"> sure. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> see my tooth? </U>
+			<U WHO="S2"> no i didn't notice. <OVERLAP> you got a </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> can you </OVERLAP> tell? </U>
+			<U WHO="S2"> no, have you got a tooth removed? </U>
+			<U WHO="S3"> no. it, there's an infection there, somehow. i know. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"> sounds like fun. </U>
+			<U WHO="S3"> yeah right <EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S3"> have you been helped? </U>
+			<U WHO="S21"> yeah. </U>
+			<U WHO="S3"><OVERLAP> oh he's taking ca- </OVERLAP></U>
+			<U WHO="S22"><OVERLAP> i haven't </OVERLAP></U>
+			<U WHO="S3"> do you need help? </U>
+			<U WHO="S2"> i just came to return this book. </U>
+			<U WHO="S3"> okay, thank you. </U>
+			<U WHO="S2"> (do i need to pay for these?) </U>
+			<U WHO="S3"> oh, i don't_ i have to check it in and see what's <EVENT DESC="SCANS BOOK"/> yep you got dollar twenty-five charge for it. <PAUSE DUR=":20"/> be right with you. <PAUSE DUR=":36"/> this is your receipt. that's your change. thank you. </U>
+			<U WHO="S22"> thank you. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> it says cannot_ when i did it the first time, it says cannot renew renewal limit. it's reserve so it's just checking it out for the first time. </U>
+			<U WHO="S3"> well it probably wasn't checked in. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> (well that's enough) <EVENT DESC="LAUGH"/> there's nothing wrong with (xx) </U>
+			<U WHO="S23"> yeah, somebody owes like, two hundred dollars now. </U>
+			<U WHO="S2"><EVENT WHO="SS" DESC="LAUGH"/> i hope not. </U>
+			<U WHO="S3"> no, i'm taking care of it. </U>
+			<U WHO="S2"> was it checked in? did i screw up? </U>
+			<U WHO="S23"><EVENT DESC="LAUGH"/> see you later. </U>
+			<U WHO="S3"> it was cool. no it wasn't checked in, <U WHO="S2"> oh </U> but, di- they didn't get any fines so go ahead and check it out. just check it out again. <U WHO="S2"><OVERLAP> just go (xx)- </OVERLAP></U><OVERLAP> sca- no </OVERLAP> no. scan it. <EVENT WHO="S2" DESC="SCANS BOOK"/> okay. </U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S24"> can you check this out too? </U>
+			<U WHO="S3"> sure. can you come up to this computer...? okay i just need you to fill out the bottom part for me please. and i'll need to see your M-card. </U>
+			<U WHO="S2"> also, is there a (xx) like the software that's available. </U>
+			<U WHO="S3"> yup, it's right here. (for a while) <PAUSE DUR=":09"/> we have that...? i didn't know that. </U>
+			<U WHO="S2"> yeah, if you get it </U>
+			<U WHO="S3"> did we just get it like recently? </U>
+			<U WHO="S2"> um i don't know i just asked and he said yeah we have it so, </U>
+			<U WHO="S3"> wow. i didn't know that we have um, Millennium version, Two Thousand. </U>
+			<U WHO="S2"> (why do we have Two Thousand?) </U>
+			<U WHO="S3"> Millennium. we had we had Professional, i put Professional on my computer. it's terrible, <OVERLAP> horrible. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i got </OVERLAP> um (Millennium for my...) <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> see cuz it's </OVERLAP> not even listed here... </U>
+			<U WHO="S2"> (that's Millennium) </U>
+			<U WHO="S3"> this is Two Thousand right? </U>
+			<U WHO="S2"> right, no this is M-E. yeah </U>
+			<U WHO="S3"> okay, did it say here... see it's not saying (that.) nice, i'll have to check it out again. <PAUSE DUR=":08"/> can i see your M-card? </U>
+			<U WHO="S24"> sure. but this is just the Microsoft products are there any other products that you have? software? </U>
+			<U WHO="S3"> no. </U>
+			<U WHO="S2"> Alina </U>
+			<U WHO="S3"> uhuh </U>
+			<U WHO="S2"> uh, she lost her wallet and she's supposed to be checking out right now, a digital camera, <U WHO="S3"> uhuh </U> so i just (put her social security number) in </U>
+			<U WHO="S3"> you can_ yeah, put a social security number and then match the names from their picture I-D (xx) and if that's, then that's cool. </U>
+			<U WHO="S24"> here, and actually my license is my social security number so it's right there. </U>
+			<U WHO="S3"> we have Visual Studio, here. <U WHO="S2"> (that's) </U> yes, right there. </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="S3"> it's due on twenty-eight. at exactly same time three o'clock, two minutes, i'm just kidding you. and, yeah it's like dollar per hour charge if it's late <U WHO="S24"><OVERLAP> alright </OVERLAP></U><OVERLAP> so make </OVERLAP> sure it's not late. </U>
+			<U WHO="S24"> i'll try to have it (in...) </U>
+			<U WHO="S3"> i'll just take it out of there. <PAUSE DUR=":05"/> okay. </U>
+			<U WHO="S24"> thank <OVERLAP> you </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> all </OVERLAP> set sure. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> hi. </U>
+			<U WHO="S26"> where might i find a uh, Webster's Dictionary? </U>
+			<U WHO="S3"> oh dictionaries would be up <U WHO="S26"><OVERLAP> (xx) </OVERLAP></U><OVERLAP> in the </OVERLAP> at the reference yeah and in order to find them you have to search in the computer in the MIRLYN and see, <U WHO="S26"> oh yeah </U> exactly the call number and everything because they shelve by call numbers. </U>
+			<U WHO="S26"> okay so i would look in, (xx) </U>
+			<U WHO="S3"> this little section. <U WHO="S26"><OVERLAP> oh this little (xx) </OVERLAP></U><OVERLAP> she probably would know better than me, she might, </OVERLAP> even know like exactly the location. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> (A fifteen) </U>
+			<U WHO="S2"> (A twen-) </U>
+			<U WHO="S3"> (two, U) </U>
+			<PAUSE DUR=":39"/>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> kay hold on. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> can you repeat your address? </U>
+			<U WHO="S25"> um, my current one or my permanent, permanent <OVERLAP> one? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> both </OVERLAP> of them </U>
+			<U WHO="S25"> okay my permanent is six-three-oh-s- six-three-oh-four Slater Drive Ypsilanti, <U WHO="S3"> uhuh </U> four-eight-one-nine-seven, and my current one is two-eight-six-five Marine, number nine B. </U>
+			<U WHO="S3"> okay, thank you. </U>
+			<U WHO="S25"> yep </U>
+			<U WHO="S3"> all set. </U>
+			<U WHO="S2"> it just, select one </U>
+			<U WHO="S3"> select the active one </U>
+			<U WHO="S2"> uh, two </U>
+			<U WHO="S3"> two? and then, go ahead. </U>
+			<PAUSE DUR=":25"/>
+			<U WHO="S27"> hi. </U>
+			<U WHO="S3"> hi. </U>
+			<U WHO="S25"> can i get my license back? it's like, all i have right now. <EVENT DESC="LAUGH"/> thank you very much. </U>
+			<U WHO="S2"> (no problem. have a good day.) </U>
+			<U WHO="S25"> thank you. </U>
+			<PAUSE DUR=":28"/>
+			<U WHO="S3"> you know what? i want it. i'm taking it home... </U>
+			<U WHO="S2"> like, Millennium ME or something </U>
+			<U WHO="S3"> that's what, that's what it is. cuz i put the Thousand one on my computer. it's, so bad </U>
+			<U WHO="S2"> see your key? </U>
+			<U WHO="S3"> i- no. </U>
+			<U WHO="S2"> no? </U>
+			<U WHO="S3"> you have to check it out to me now... hi. </U>
+			<U WHO="S27"> um is there a, lost and found section? </U>
+			<U WHO="S3"> sure. </U>
+			<U WHO="S27"> um, i'm lo- i lost my calculator, i think it was here. </U>
+			<U WHO="S3"> okay, which one? </U>
+			<U WHO="S27"> um, it's a T-I eighty-five, <U WHO="S3"><OVERLAP> okay </OVERLAP></U><OVERLAP> with uh, </OVERLAP> orange </U>
+			<U WHO="S3"> okay hold on just one second. <PAUSE DUR=":23"/> nope, sorry. </U>
+			<U WHO="S27"> thanks. </U>
+			<U WHO="S3"> sure, sorry about that. </U>
+			<U WHO="S2"> how would i find out when uh, Christmas break? is there something around here, that's g- would say_ i know you don't know but, <U WHO="S3"> okay, good </U> is there something around here? <U WHO="S3"> uh... </U> shit, i don't know. <U WHO="S3"> i don't </U> i gotta make, a reservation. </U>
+			<U WHO="S3"> oh. i don't know. <OVERLAP> sorry </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> you should </OVERLAP> know, you work here. </U>
+			<U WHO="S3"> come on_ oh break here? l- i- like at work? </U>
+			<U WHO="S2"> like when do you have to come in_ when does work resume after Christmas? </U>
+			<U WHO="S3"> oh well you have_ i thought you're las- asking like generally, like school break. </U>
+			<U WHO="S2"> that should be like a good indication (of s- the time that we come back for) school </U>
+			<U WHO="S3"> okay i think i have it in my email hold on let me see. check it out to me </U>
+			<U WHO="S2"> check it out for you? </U>
+			<U WHO="S3"> well actually i can do it never mind. <U WHO="S2"> it's a <OVERLAP> three day </OVERLAP></U><OVERLAP> i'll have to </OVERLAP> fill a form. forgot. </U>
+			<U WHO="S2"> for three day long? </U>
+			<U WHO="S3"> well i'll have it for longer cuz i need to fix my computer first. </U>
+			<U WHO="S2"> did you make it (for the) </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> it's cool you can put like, you can like do videos and stuff, it's got like a media player </U>
+			<U WHO="S3"> i i do video on my Ninety-Eight </U>
+			<U WHO="S2"> i don't know it's just, i didn't have it on my Ninety-Eight </U>
+			<U WHO="S3"> no i do i have Net Meeting, for camera and then sounds and everything </U>
+			<U WHO="S2"> never mind, <EVENT WHO="S3" DESC="LAUGH"/> it's still better. </U>
+			<U WHO="S3"> i know it is i d- i i just need to remove uh Two Thousand Professional and then, put this one on. <PAUSE DUR=":18"/> nope, i don't think we have it. i don't have it. </U>
+			<U WHO="S2"> (but) we do </U>
+			<EVENT DESC="ALARM SOUNDS"/>
+			<U WHO="S3"> excuse me <EVENT DESC="LAUGH"/></U>
+			<U WHO="S2"><EVENT DESC="LAUGH"/> see, (they need to) you're the boss. </U>
+			<U WHO="S3"> so? <PAUSE DUR=":46"/> what time do you start school? </U>
+			<U WHO="S2"> when do i start? </U>
+			<U WHO="S3"> no i mean after your Christmas break? what time are you guys coming back t- for school? </U>
+			<U WHO="S2"> i don't know </U>
+			<U WHO="S3"> what kind of student, are you? </U>
+			<U WHO="S2"> i wish i knew. <PAUSE DUR=":04"/> are they, are they done (already?) </U>
+			<U WHO="S3"> no. oh my god. </U>
+			<U WHO="S2"> two seventy-six is not that (much) </U>
+			<PAUSE DUR="1:08"/>
+			<U WHO="S3"> for these from now it's Friday, right? </U>
+			<U WHO="S2"> i don't know </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> (i have no clue) </U>
+			<U WHO="S3"> come on. </U>
+			<U WHO="S2"><FOREIGN> no sé </FOREIGN></U>
+			<U WHO="S3"><FOREIGN> ¿por qué? ¿por qué no? </FOREIGN><EVENT DESC="LAUGH"/> is that what you say? </U>
+			<U WHO="S2"> (xx) Spanish... </U>
+			<U WHO="S3"> today is twenty-fifth. today's Wednesday? </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> it's Saturday. <PAUSE DUR=":09"/> cool... <OVERLAP> how nice </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> finding </OVERLAP> the day (is off for uh) </U>
+			<U WHO="S3"> how do you uninstall, like remove, software from your computer? </U>
+			<U WHO="S2"> huh? </U>
+			<U WHO="S3"> how do you remove software from your computer? </U>
+			<U WHO="S2"> i have no idea what the hell you're talking about. </U>
+			<U WHO="S3"> like, if i have Windows Two Thousand i have, Windows Ninety-Eight and i want to remove Two Thousand, how do i do it? </U>
+			<U WHO="S2"> you just save it on a disk. i think they like, when i installed uh, mine, they just kept it on my computer. </U>
+			<U WHO="S28"> hello </U>
+			<U WHO="S2"> hello </U>
+			<U WHO="S28"> um, i was wondering if you could direct me to this? like where i would, find this <OVERLAP> call number </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> is it (xx?) </OVERLAP></U>
+			<U WHO="S28"> yeah </U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :17"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="S2"> um, all the (xx) are in the basement. <U WHO="S28"> okay </U> so you'll just go down into the basement and you can just take the elevator, and <U WHO="S28"> okay </U> if i'm not mistaken like, A through E (xx) </U>
+			<U WHO="S2"> is there like a (xx) section, you don't know? </U>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S2"> down there? okay, thank you. </U>
+			<EVENT DESC="CONVERSATION 2"/>
+			<U WHO="S3"> hi. thank you. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> hi, how are you </U>
+			<U WHO="S29"> i'm actually doing a project on, these flat panel displays i was wondering if i could just look at it for a second. cuz <OVERLAP> like </OVERLAP><U WHO="S3"><OVERLAP> sure </OVERLAP></U> well, there's some information back here. <U WHO="S3"> oh, <OVERLAP> okay </OVERLAP></U><OVERLAP> how is </OVERLAP> it to use? is it </U>
+			<EVENT DESC="END SIMULTANEOUS CONVERSATIONS"/>
+			<U WHO="S3"> monitor's are e- i don't know. they're </U>
+			<U WHO="S29"> is it pretty normal like it's not any different than <OVERLAP> any other monitor? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah i </OVERLAP> don't see any difference but, <U WHO="S29"><OVERLAP> okay </OVERLAP></U><OVERLAP> they </OVERLAP> look nice. </U>
+			<U WHO="S29" RESTRICT="NONE"> huh? </U>
+			<U WHO="S3"> they look nice. </U>
+			<U WHO="S29"> they look nice, does it, is it like angle dependent to look at or, no not really, okay </U>
+			<U WHO="S3"> not at all <EVENT DESC="LAUGH"/></U>
+			<U WHO="S29"> (i don't know) i should've just gone back to (a computer) <EVENT WHO="S3" DESC="LAUGH"/> i think there was a, address back here or something. <PAUSE DUR=":07"/> they don't flicker or anything like that, (when you use 'em...?) </U>
+			<U WHO="SU-m"> nah, (xx) i'm assuming that they're, extremely expensive. </U>
+			<U WHO="S29"> yeah, i- no idea. </U>
+			<U WHO="SU-m"> i think they're (over) a thousand, somewhere (near) a thousand (xx) </U>
+			<U WHO="S29"> really? wow... </U>
+			<U WHO="SU-m"> they've got 'em on display at the uh, Union, the Computer Computer Showcase at the Union. </U>
+			<U WHO="S29"> oh do they? </U>
+			<U WHO="S2"> i got a, when i was looking for a computer, (xx) </U>
+			<U WHO="S29"> yeah, (xx) </U>
+			<U WHO="S2"> (you gonna drop this off or) </U>
+			<U WHO="S31"> sure, just wanna leave those for, scanning. </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> (do you have this for a certain person?) </U>
+			<U WHO="S31"> pardon? </U>
+			<U WHO="S2"> do you have to leave this for a person or just for a </U>
+			<U WHO="S31"> for uh the scanning to be uh put on to the web page. </U>
+			<U WHO="S2"> oh, okay </U>
+			<U WHO="S31"> there's a guy who does that. um, and that's uh, something we need pretty soon. but, uh i don't know where it goes. </U>
+			<U WHO="S2"> (i'll give it to somebody else who knows.) </U>
+			<U WHO="S31"><EVENT DESC="LAUGH"/> okay, good. sounds good thanks. </U>
+			<PAUSE DUR=":16"/>
+			<U WHO="S2"> oh </U>
+			<U WHO="S3"> you (watch your <OVERLAP> head) </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i don't </OVERLAP> know, (the hell that is) </U>
+			<U WHO="S3"> what <OVERLAP> is that? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> it's something </OVERLAP> for scanning. <EVENT DESC="LAUGH"/> (need to give it to you or should i) </U>
+			<U WHO="S3"> no. what if i'm not there? </U>
+			<U WHO="S2"> (you have two hours) (xx) </U>
+			<U WHO="S3"> oh, my god. here is </U>
+			<U WHO="S2"> scans </U>
+			<U WHO="S3"> says it says new scans </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S3"> just drop it there. </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> easy? <U WHO="S2"> (well) </U> come on </U>
+			<U WHO="S2"> why? </U>
+			<U WHO="S3"> it's easy </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> oh, okay. <OVERLAP> huh? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> (don't) </OVERLAP> (want any) </U>
+			<U WHO="S3"> so? </U>
+			<PAUSE DUR=":24"/>
+			<U WHO="S3"> i feel like i'm a singer here with all this <EVENT DESC="LAUGH"/> microphone stuff. </U>
+			<U WHO="S2"> two hundred and fifty dollars (for a) ticket </U>
+			<U WHO="S3"> to where? </U>
+			<U WHO="S2"> to see my parents in North Carolina. </U>
+			<U WHO="S3"> that's not too bad. </U>
+			<U WHO="S2"> i just got one the other day for two hundred. </U>
+			<U WHO="S3"> go to Priceline. </U>
+			<U WHO="S2"> yeah, but Priceline (i don't know) you like, you never know what time you're gonna leave </U>
+			<U WHO="S3"> really? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S3"> they don't tell you? </U>
+			<U WHO="S2"> they don't_ well, once they make the reservation they tell you but, <U WHO="S3"><OVERLAP> so </OVERLAP></U><OVERLAP> (and) </OVERLAP> and uh, like before you know you can leave any time during the day. see what i'm saying? so i have an exam_ i wanna leave the day a- the same day after my exam but i can't because what if they make my reservations for that morning? so i hafta make 'em for the next day but then they might make my reservations for late that night so i got a whole day wasted. </U>
+			<U WHO="S3"> oh, well why don't you try it there? </U>
+			<U WHO="S2"> i'm gonna try. </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> i'll try. <U WHO="S3"> see? </U> it's just annoying. it's cheap, annoying though. <PAUSE DUR=":08"/> cheap is not always better. </U>
+			<U WHO="S32"> hi i'm here with (Ann Ar- Arbor Library round) is it alright if i go back and get the books (copied there) </U>
+			<U WHO="S2"> (that's fine) </U>
+			<U WHO="S33"> hi </U>
+			<U WHO="S3"> hi there. </U>
+			<U WHO="S33"> it's a book. <EVENT DESC="HANDS CALL NUMBER TO S3"/></U>
+			<U WHO="S3"> okay. </U>
+			<PAUSE DUR=":19"/>
+			<U WHO="S3"> could i see your M-card...? thank you. </U>
+			<U WHO="S34"> how many hours can i take this out for? </U>
+			<U WHO="S3"> two hours. </U>
+			<U WHO="S34"> okay </U>
+			<U WHO="S3"><EVENT DESC="SCANS BOOK"/> here you go. <PAUSE DUR=":06"/> it's due at five twenty. </U>
+			<U WHO="S34"> thank you. </U>
+			<U WHO="S2"> (do they have to check 'em out before they take 'em?) <OVERLAP> (do they check) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> well, i mean </OVERLAP> i know her but, you know you have to just s- at least see the, they have a pink card, on there, you have to see that be- before <OVERLAP> you let her. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> (i mean we don't) </OVERLAP> have to check the books out? </U>
+			<U WHO="S3"> no we don't have to but before her, you know letting her in you have to see som- </U>
+			<U WHO="S2"> (not) about that </U>
+			<U WHO="S3"> yeah i know her so that's fine and you know as long as i'm here i mean that's fine but if don't know, who they are, yeah </U>
+			<U WHO="S2"> next time. </U>
+			<U WHO="S3"> next time. </U>
+			<U WHO="S2"> who wants this (xx) </U>
+			<U WHO="S3"> i do. <EVENT WHO="S2" DESC="LAUGH"/> see? </U>
+			<U WHO="S2"> Windows Two Thousand. <EVENT WHO="S3" DESC="LAUGH"/> did you check it out? </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> did you check it out again? </U>
+			<U WHO="S3"> software? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S3"> yeah i did. no i need to remove the first, the Two Thousand first and then, put this one in. my computer's just piece of crap right now it just </U>
+			<U WHO="S2"> what kind of computer is it? </U>
+			<U WHO="S3"> uh, it's Pentium three, Intel, H-P_ i was gonna say can i help you, <EVENT DESC="LAUGH"/><U WHO="S35"> oh </U> i was gonna say do you need some (help) <EVENT DESC="LAUGH"/> but, my printer won't work. </U>
+			<U WHO="S2"> printer won't work? why </U>
+			<U WHO="S3"> i don't know why i wish uh it would </U>
+			<U WHO="S2"> you shouldn'ta bought a H-P </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> well you shouldn'ta bought H-P. </U>
+			<U WHO="S3"> i thought they were good... </U>
+			<U WHO="S2"> uh, Dell or um, Gateway. </U>
+			<U WHO="S3"> really? okay next time i won't. </U>
+			<U WHO="S2"> Gateway s- i had Gateway but it sucks because they charge you like a hundred and twenty dollars for shipping. <U WHO="S3"> oh </U> cuz they only make 'em in like, Montana or something. </U>
+			<U WHO="S3"> i wouldn't mind pay l- a hundred extra dollars to_ if i will know (if it sh- they'll) work for like, two more years. </U>
+			<U WHO="S2"> i haven't had any problems with mine. </U>
+			<U WHO="S3"> really? </U>
+			<U WHO="S2"> it was cheap too. it was like, twelve ninety-nine. so that's not bad... </U>
+			<U WHO="S3"> yeah <OVERLAP> it's </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> and it came </OVERLAP> with a free upgrade to uh, Windows the Millennium thing. what else did it come with? free printer. <U WHO="S3"> really? </U> seventeen inch monitor. <U WHO="S3"> wow </U> free one year A-O-L... <U WHO="S2"> really? </U> (you know that ch-) computers are cheap these days man. </U>
+			<U WHO="S3"> i know not laptops still </U>
+			<U WHO="S2"> oh lap- that's what i wanted to get. laptops are so expensive (same thing) </U>
+			<U WHO="S3"> if you go, uh <PAUSE DUR=":04"/> Winbook or something like that, like wi- like W I N book, i think they have cheap laptops for like a thousand dollars. <U WHO="S3"> oh </U> not bad but </U>
+			<U WHO="S2"> E-bay </U>
+			<U WHO="S3"> no. they're pretty though. </U>
+			<U WHO="S2"> they're pretty? <EVENT DESC="LAUGH"/></U>
+			<U WHO="S3"> i mean the only thing i need it for is just to do my homework you know Microsoft Word Excel Access at the most PowerPoint. and it's all has in there i mean, they have_ and it's like free AOL or something for one year. <U WHO="S2"> yeah. </U> so <OVERLAP> i mean i get everything i need. </OVERLAP></U>
+			<U WHO="S35"> can i see the paper punch real quick? </U>
+			<U WHO="S2"><OVERLAP> (xx) </OVERLAP> hey, where's the hole puncher (xx) </U>
+			<U WHO="S3"> the hole puncher? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S3"> it's right there (do you want me to get it? or) </U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> i said (xx) </U>
+			<U WHO="S3"> yeah w- sure. <EVENT WHO="S2" DESC="LAUGH"/> so David's not gonna come here anymore? </U>
+			<U WHO="S2"> no. </U>
+			<U WHO="S3"> that's all? he's done? </U>
+			<U WHO="S2"> yeah he's stupid man. <U WHO="S3"> oh </U> Dave doesn't know what he wants to do. </U>
+			<U WHO="S3"> he hates me probably. </U>
+			<U WHO="S2"> i don't like (it.) i don't like working in the basement man. </U>
+			<U WHO="S3"> what do you do there? </U>
+			<U WHO="S2"> i have to work at the help desk. </U>
+			<U WHO="S3"> so? </U>
+			<U WHO="S2"> i hate it it's so quiet down there. </U>
+			<U WHO="S3"> i know. well you could do some shelving you know just make yourself busy. </U>
+			<U WHO="S35"> thanks. </U>
+			<U WHO="S2"> shelving's <U WHO="S3"><OVERLAP> sure. </OVERLAP></U><OVERLAP> even </OVERLAP> more boring. </U>
+			<U WHO="S3"> give me a break. </U>
+			<U WHO="S2"> no but, i don't mind working up here (because there's these) people walking around (and like noises, but down it's just) (xx) </U>
+			<PAUSE DUR="1:28"/>
+			<U WHO="S3"> hey. oh, thank you. <EVENT DESC="SCANS BOOK"/></U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> no here. those two_ do you know where the maili- mailing room is? </U>
+			<U WHO="S2"> no. <EVENT DESC="LAUGH"/> (i'm gonna recycle it) </U>
+			<U WHO="S3"> you do? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S2"> it's next to the like, <U WHO="S3"><OVERLAP> yes, </OVERLAP></U><OVERLAP> uh, </OVERLAP> lounge </U>
+			<U WHO="S3"> yes. thank you. </U>
+			<U WHO="S2"> (you're welcome.) </U>
+			<PAUSE DUR="1:30"/>
+			<U WHO="S3"> today's what? <U WHO="S2"> huh? </U> twenty-fifth... huh? huh? can you hear me for the first time...? huh? huh? <EVENT DESC="LAUGH"/><PAUSE DUR=":30"/> what is that? oh </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<PAUSE DUR=":16"/>
+			<U WHO="S3"> you remind me of Dave now. </U>
+			<U WHO="S2"> here, my uh <EVENT DESC="LAUGH"/> i talked to (xx) </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> i said i talked to (xx) (cuz he says it's) </U>
+			<U WHO="S3"> do you wanna show that? </U>
+			<U WHO="S2"><EVENT DESC="LAUGH"/> no i'm kidding </U>
+			<U WHO="S3"> okay. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S36"> can you like check out like, C-Ds from another library like an- like, the undergraduate library. <U WHO="S3"> i- </U> you can like check out C-Ds like you you can check out books? </U>
+			<U WHO="S3"> i believe so. </U>
+			<U WHO="S36"> do you know which, library? </U>
+			<U WHO="S2"> i know the um, do you live in the dorms? </U>
+			<U WHO="S36"> yeah i live in uh_ yeah. <U WHO="S2"> (xx) um, </U> yeah i live in Couzens yeah they have yeah yeah they have it </U>
+			<U WHO="S2"> i do- i know the uh dorm libraries have it, but as far as the uh, other libraries the only one i would think (that would do it) is the UGLI </U>
+			<U WHO="S36"> (okay) <U WHO="S2"> but </U> (alright) </U>
+			<U WHO="S2"> dorms is the only one that i know of (where you can check 'em out) </U>
+			<U WHO="S36"> alright. thank you. </U>
+			<U WHO="S2"> you're welcome </U>
+			<U WHO="S3"> wow, you actually know something. </U>
+			<U WHO="S2"> i know (more than you) (xx) </U>
+			<U WHO="S3"> really? </U>
+			<U WHO="S2"> the library system. </U>
+			<U WHO="S37"> hi. do you have any machines that_ where you can check your email? </U>
+			<U WHO="S2"> you can_ there's a computer lab over there, (with like P-Cs) </U>
+			<U WHO="S37"> oh you can use them? okay </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S37"> alright. </U>
+			<U WHO="S2"> isn't there a sign that says don't check email? <EVENT DESC="LAUGH"/> who cares </U>
+			<U WHO="S3"> oh, my, god. oh my god </U>
+			<U WHO="S2"> Marina's not here so, i <OVERLAP> gotta sit up straight </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i'm here. </OVERLAP></U>
+			<U WHO="S2"><EVENT DESC="LAUGH"/> you don't count. </U>
+			<U WHO="S3"> oh really? </U>
+			<U WHO="S2"> i gotta sit up straight. so i look inviting. (all like Marina) she's nice. </U>
+			<U WHO="S3"> who's nice? </U>
+			<U WHO="S2"> Marina. </U>
+			<U WHO="S3"> yeah, she's very nice. </U>
+			<U WHO="S2"> weren't there people on the waiting list for the one thing? </U>
+			<U WHO="S3"> for what? </U>
+			<U WHO="S2"> for the uh </U>
+			<U WHO="S3"><OVERLAP> for Millennium? </OVERLAP> nah. they didn't know that we have it. i didn't know that we have it. we probably got them like pro- i don't know, day or two ago. cuz i was waiting for that and y- and that we were we're gonna we're gonna get it. </U>
+			<U WHO="S2"> i saw it at Best Buy yesterday. it was i- yeah yesterday. </U>
+			<U WHO="S3"> how much was it? </U>
+			<U WHO="S2"> fifty bucks. </U>
+			<U WHO="S3"> that, that's all? </U>
+			<U WHO="S2"> yeah, i think cuz it's just the upgrade. </U>
+			<U WHO="S3"> yeah. i need Word. i need like, Office Two Thousand. </U>
+			<U WHO="S2"> i all i think all that shit comes on it. <U WHO="S3"> uh'uh </U> yes it does. <U WHO="S3"> uh'uh </U> it has to cuz i got like six or seven new things on it when i </U>
+			<U WHO="S3"> are you kidding me...? </U>
+			<U WHO="S2"> (that was it.) what, <U WHO="S3"> (yeah) </U> Word is so basic all you need is, you don't need a new Word. </U>
+			<U WHO="S3"> i don't even have the real like you know, <U WHO="S2"><OVERLAP> (the real) Word? </OVERLAP></U><OVERLAP> the one </OVERLAP> right now i have Works but not </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S2"> this doesn't look like my (desktop.) </U>
+			<PAUSE DUR=":29"/>
+			<U WHO="S38"> excuse me. </U>
+			<U WHO="S3"> hi. </U>
+			<U WHO="S38"> um, i got this notice from the library's help desk, but i have returned this book on that day <U WHO="S3"><OVERLAP> okay </OVERLAP></U><OVERLAP> this book </OVERLAP> was a reserved book on the second floor, (xx) </U>
+			<PAUSE DUR=":23"/>
+			<U WHO="S3"> do you know when did you return it? </U>
+			<U WHO="S38"> i'm sorry? </U>
+			<U WHO="S3"> do you know when you returned it? </U>
+			<U WHO="S38"> when? <U WHO="S3"><OVERLAP> uhuh </OVERLAP></U><OVERLAP> the time? </OVERLAP> around nine o'clock. </U>
+			<U WHO="S3"> oh, today? </U>
+			<U WHO="S38"> yes, that date. i turned it in to a guy in this desk, around nine o'clock. </U>
+			<U WHO="S3"> okay, let me check on it. hold on just one second. <EVENT DESC="LEAVES SERVICE DESK"/></U>
+			<PAUSE DUR=":23"/>
+			<U WHO="S2"> (xx) that's not it, H-two... this one? it might not be back here. is it? </U>
+			<U WHO="S3"> do you want second glasses maybe? </U>
+			<U WHO="S2"><EVENT DESC="LAUGH"/> well if you weren't in the way. </U>
+			<U WHO="S3"><EVENT DESC="LAUGH"/><EVENT DESC="RETURNS TO SERVICE DESK"/> yeah the book is right here. </U>
+			<U WHO="S38"> yes? </U>
+			<U WHO="S3"> sorry about that, i'm just taking care of fine right now let's see </U>
+			<U WHO="S2"> sure. </U>
+			<PAUSE DUR="1:20"/>
+			<U WHO="S3"> so you're all set. i'm taking care of fine. <U WHO="S38"> okay. </U> and then yeah just sor- </U>
+			<U WHO="S38"> you will cancel the fine? </U>
+			<U WHO="S3"> yeah, i'm doing that right now. <U WHO="S38"> okay. </U> okay? sorry about that. </U>
+			<U WHO="S38"> no problem. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S3"> would you stop complaining? </U>
+			<U WHO="S2"> (this is a good recording) (xx) i'm going to the bathroom i'll be back. </U>
+			<PAUSE DUR="1:35"/>
+			<U WHO="R3"> hi. we're trying to find all the right angles. </U>
+			<U WHO="S3"> okay. </U>
+			<EVENT WHO="R3" DESC="LAUGH"/>
+			<PAUSE DUR=":17"/>
+			<U WHO="S3"> hi, how are you? </U>
+			<U WHO="S39"> i'd like to make a couple returns please. what's up Amy? </U>
+			<U WHO="S3"> okay... <EVENT DESC="SCANS BOOK"/><PAUSE DUR=":20"/><EVENT DESC="SCANS BOOK"/></U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S39"> i think this one says nine optical discs on the outside but i think it actually has ten discs in it. cuz </U>
+			<U WHO="S3"> yeah, i know. <EVENT WHO="S39" DESC="LAUGH"/><PAUSE DUR=":10"/> okay, thank you. </U>
+			<U WHO="S39"> thanks. </U>
+			<U WHO="S3"> sure. </U>
+			<U WHO="S39"> oh do i owe anything for this one? i think this <OVERLAP> one might be a little bit </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh, </OVERLAP> i don't see anything yet but hold on... nope, you're cool. </U>
+			<U WHO="S39"> alright, thank you. </U>
+			<U WHO="S3"> sure. </U>
+			<U WHO="S40"> hi, do you <U WHO="S3"><OVERLAP> hi </OVERLAP></U><OVERLAP> have a </OVERLAP> stapler i can borrow? </U>
+			<U WHO="S3"> uh, there's one down at information desk. <U WHO="S40"> oh, <OVERLAP> okay </OVERLAP></U><OVERLAP> we don't </OVERLAP> have, one up here. i have a big industrial one, the huge one. </U>
+			<U WHO="S40"> oh, okay. </U>
+			<U WHO="S3"> kay? </U>
+			<U WHO="S40"> see you </U>
+			<PAUSE DUR=":39"/>
+			<U WHO="S3"> excuse me. </U>
+			<PAUSE DUR="1:04"/>
+			<U WHO="S3"> what are you looking for? </U>
+			<U WHO="S2"> this teacher said she's give a, a book to uh, a student to have, to return it and then like i guess the student returned it late. (i need something to write on) </U>
+			<U WHO="S3"> that's the personal copy? </U>
+			<U WHO="S2"> huh? </U>
+			<U WHO="S3"> that's the personal copy? i- it wasn't in the reserve was it? </U>
+			<U WHO="S2"> no, i don't know. </U>
+			<U WHO="S3"> well, <EVENT DESC="PHONE CONVERSATION NEXT 1:42"/> this is Elena can i help you? <PAUSE DUR=":14"/><U WHO="SU-m"> (xx) </U> okay, was it checked out in your name or, okay can i get your social security number please? <U WHO="SU-m"> (xx) </U> okay <U WHO="SU-m"> (xx) </U> okay <U WHO="SU-m"> (xx) </U> okay <PAUSE DUR=":07"/> and what was the, oh </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S3"> and you said you received a note? <U WHO="SU-m"> (xx) </U> for overdue, do you know how long was it overdue? <U WHO="SU-m"> (xx) </U><PAUSE DUR=":08"/> okay. <PAUSE DUR=":06"/> i_ do you know what, you didn't get any fine any, (nothing) and, there's, it's not on your record. i mean you won't get fined just because you're a faculty. so, you don't have to wo- and i can't really know, when was it checked in cuz you're not getting any fine the only, way i can see the return date is if you would get fined so i can just go back to the record and see when it was returned <U WHO="SU-m"> (xx) </U> it's been returned, i know that but w- yeah what i'm saying is i don't know the exactly date cuz you're not getting a fine, okay? </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S3"> oh, no it it got returned. </U>
+			<U WHO="SU-m"> (thank you) </U>
+			<U WHO="S3"> yup. sure, sure have a nice day. okay bye bye. </U>
+			<PAUSE DUR=":35"/>
+			<EVENT DUR=":28" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S2"> i'm gonna talk. </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> i'm gonna chat. </U>
+			<U WHO="S3"> no. don't say that ca- no, i said no. </U>
+			<EVENT WHO="S2" DESC="LAUGH"/>
+			<PAUSE DUR=":35"/>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> (i can't even do this) </U>
+			<U WHO="S3"> okay. oh it's a reserve book? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S3"> it has to stay on the shelf for fifteen minutes before you can check it out again. so you have to return it and then come back in <U WHO="S41"><OVERLAP> okay </OVERLAP></U><OVERLAP> fifteen </OVERLAP> minutes. okay? <PAUSE DUR=":04"/> we don't need your <U WHO="S41"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> card </OVERLAP> you're all set... hang on. if you go to patron, and then select the current, and then you type the name, and they'll have like all these numbers with different stuff you <U WHO="S41"><OVERLAP> mhm </OVERLAP></U><OVERLAP> can do, </OVERLAP> and for t- you_ renew is fourteen. so if you'll go to fourteen, and then just renew. but you cannot renew the reserve book, right? right? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S3"> okay. so just gonna, check it in. put it on the shelf please. </U>
+			<EVENT DUR=":30" DESC="RECORDING RELATED CONVERSATION"/>
+			<PAUSE DUR=":42"/>
+			<U WHO="S3"> ohh, you're like a little kid. </U>
+			<U WHO="S2"> ha ha </U>
+			<U WHO="S3"> ha ha ha. </U>
+			<U WHO="S2"> i tried to (xx) what's the point of (xx) </U>
+			<U WHO="S3"> yeah right whatever. <EVENT WHO="S3" DESC="LAUGH"/> Dave number two. </U>
+			<U WHO="S2"> i'm worse than Dave. </U>
+			<U WHO="S3"> yeah i can tell... </U>
+			<U WHO="S2"> who do you think Dave learned from? </U>
+			<U WHO="S3"> huh? oh my god, listen to him. </U>
+			<PAUSE DUR=":13"/>
+			<U WHO="S3"> me? <EVENT DESC="LAUGH"/> i'm good. did i say, cancel... cancel. </U>
+			<PAUSE DUR=":33"/>
+			<U WHO="S3"><EVENT DESC="LAUGH"/> yeah, you wish. hey, can i please use my computer? </U>
+			<U WHO="S2"> that's your computer </U>
+			<U WHO="S3"> no i need this one i have i'm in my attachment i need this computer. sorry. </U>
+			<PAUSE DUR=":39"/>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> you too... </U>
+			<U WHO="S2"> (yeah, but i have to use it there.) </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> McDonald's </U>
+			<U WHO="S3"> well the cafe two. </U>
+			<U WHO="S2"> what? </U>
+			<U WHO="S3"> the cafe. </U>
+			<U WHO="S2"> how much is (the cafe two?) </U>
+			<U WHO="S3"> it's not bad. i don't know, five bucks. <PAUSE DUR=":07"/> yeah he, he just doesn't like you... what, do you talk to? <PAUSE DUR=":12"/> here, this one is ready. </U>
+			<U WHO="S2"> for? </U>
+			<U WHO="S3"> for, putting back, there. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> put it in the thing? </U>
+			<U WHO="S3"> yeah hold on i'm i'm giving you the second one </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S42"> hi, the copiers in here has uh, eaten my copy card, it won't give it back. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> okay, </U>
+			<U WHO="S42"> it took it took it and won't, give it back. it sounded like it's running but it won't, give my card back. </U>
+			<U WHO="S3"> how much was in there? </U>
+			<U WHO="S42"> it's thirty cents or something... </U>
+			<U WHO="S2"> (who takes care of those problems?) </U>
+			<U WHO="S3"> um, no, graduate library... i can give you, a note, a form you have to fill out and <OVERLAP> then go to </OVERLAP></U>
+			<U WHO="S42"><OVERLAP> yeah, i mean </OVERLAP> i don't care about the money that was on the card, really i just_ i need to make some copies, and i've got ch- two dollars worth of change, but none <OVERLAP> of the copiers that take change work. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i can give you copy </OVERLAP> card, you can make a <U WHO="S2"><OVERLAP> okay, that would </OVERLAP></U><OVERLAP> copy and then, </OVERLAP> just bring it back to us. </U>
+			<U WHO="S42"> that would be good. </U>
+			<U WHO="S3"> okay? hold on just one second. </U>
+			<U WHO="S42"> ou- tha- the copy card machine just takes bills. and i don't have any bills. and i can't get my copy card back. <EVENT DESC="LAUGH"/> (yeah,) uh, if i could take this book out of here i could but it's uh, it's a journal so, </U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :20"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="S43"> (xx) yeah i got an email yesterday about uh, a digital camera that was in for me but i wasn't able to make it. can i pick it up today or is it too late? </U>
+			<U WHO="S2"> (what time?) </U>
+			<U WHO="S43"> close to six P-M. i was in my_ i was at work at the time, </U>
+			<U WHO="S2"> got your_ can i see your M-card? </U>
+			<U WHO="S43"> yeah sure. </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S43"> no problem </U>
+			<EVENT DESC="CONVERSATION 2"/>
+			<PAUSE DUR=":11"/>
+			<U WHO="S3"> and w- do you, do you know which copy machine was it? </U>
+			<U WHO="S42"> yeah it's, it's one in here in the copy room, uh </U>
+			<U WHO="S3"> do you know the number of it? <OVERLAP> or </OVERLAP></U>
+			<EVENT DESC="END SIMULTANEOUS CONVERSATIONS"/>
+			<U WHO="S42"><OVERLAP> uh, </OVERLAP> no it's the first one, when you go in, if you turn right it's on, you know there's two rows? <U WHO="S3"> uhuh </U> it's on the this row, closest to us, <U WHO="S3"><OVERLAP> closest to </OVERLAP></U><OVERLAP> on the </OVERLAP> right </U>
+			<U WHO="S3"> okay, okay cuz i wanna, i was gonna put, a <OVERLAP> note on it so people </OVERLAP></U>
+			<U WHO="S42"><OVERLAP> you can actually go in there </OVERLAP> and hear it. the <U WHO="S3"><OVERLAP> oh really? </OVERLAP></U><OVERLAP> it's it's </OVERLAP> the one where the card machine is running. <U WHO="S3"><OVERLAP> okay </OVERLAP></U><OVERLAP> it sounds </OVERLAP> like it's running. </U>
+			<U WHO="S3"> okay i'll, yeah you can use this one and then bring it back there's like only three dollars two ninety-eight on it, <U WHO="S42"> okay </U> just use it like, whatever you want <U WHO="S42"> okay </U><OVERLAP> and then just get it. </OVERLAP></U>
+			<U WHO="S42"><OVERLAP> okay, i just need </OVERLAP> to make, <OVERLAP> a couple of copies </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yup, if there's </OVERLAP> anything left. </U>
+			<U WHO="S42"> okay. </U>
+			<U WHO="S3"> kay? </U>
+			<U WHO="S42"> thank you. </U>
+			<U WHO="S3"> sure, sorry about that. </U>
+			<U WHO="S42"> mhm </U>
+			<U WHO="S3"> have you been helped sir? </U>
+			<U WHO="S43"> yeah, he's helping me. </U>
+			<U WHO="S3"> okay, can i help you? </U>
+			<U WHO="S44"> is uh, Lina Horne around? </U>
+			<U WHO="S3"> she's right behind you. </U>
+			<U WHO="S2"><OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S44"> ah. </U>
+			<U WHO="S43"> oh y- did they already? </U>
+			<U WHO="S2"> yeah. um do you want me to put you on the waiting list? </U>
+			<U WHO="S43"> yeah might as well do that. <U WHO="S2"><OVERLAP> okay </OVERLAP></U><OVERLAP> that's </OVERLAP> cool. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S2"> i didn't know they were so strict about it. </U>
+			<U WHO="S43"> yeah that was strange i- i had like two hours to get but um </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> (i didn't know they were so strict) </U>
+			<U WHO="S43"> i guess that's (xx) <U WHO="S2"> yeah </U> (xx) </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S2"> (xx) sorry about that </U>
+			<U WHO="S43"> no problem. thanks a lot man. </U>
+			<U WHO="S2"> (yep) </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S3"> hi. </U>
+			<U WHO="S45"> hi. mm, <EVENT DESC="RETURNS BOOK"/></U>
+			<PAUSE DUR=":39"/>
+			<U WHO="S2"> hey do you know, about A-S-T-N? </U>
+			<U WHO="S3"> no, what is it? </U>
+			<U WHO="S2"> he's he's trying to find it, he's been on MIRLYN and he's been using keywords and it hasn't worked. </U>
+			<U WHO="S3"> reference like like Lina, <U WHO="S2"><OVERLAP> oh </OVERLAP></U><OVERLAP> she </OVERLAP> can help him and just even show him how to do that. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> do you need help? </U>
+			<U WHO="S46"> hi i just want to, find this but all i know is the call number. <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> okay, </OVERLAP> that's cool thank you. <PAUSE DUR=":12"/> could i see your M-card? </U>
+			<U WHO="S46"> oh... </U>
+			<U WHO="S3"> is it the one, <U WHO="S46"> but </U> sixty-two? </U>
+			<U WHO="S46"> oh, yeah, um, do they have the_ what about the, exams like past exams? did i get the wrong one? </U>
+			<U WHO="S3"> it's uh, old exams folder. <U WHO="S46"> yeah. </U> and if you wanna just look up by your course number. </U>
+			<U WHO="S2"> can i borrow hole punch? </U>
+			<U WHO="S3"> sure. </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S2"> thanks. </U>
+			<U WHO="S3"> did you find it? </U>
+			<U WHO="S46"> no i thou- i remember finding it in the past but, no... </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S46"> oh </U>
+			<U WHO="S3"> i, you can just tell me i <OVERLAP> i'll remember </OVERLAP></U>
+			<U WHO="S46"><OVERLAP> oh one </OVERLAP> fourteen. <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> one </OVERLAP> fourteen? </U>
+			<U WHO="S46"> yeah. </U>
+			<U WHO="S3"> okay. <PAUSE DUR=":12"/> do you wanna look at it before checking out, or you wanna just check it out? </U>
+			<U WHO="S46"> uh, i'll go ahead and check it out. </U>
+			<U WHO="S3"> okay. just need your, M-card. <PAUSE DUR=":04"/> thank you. <EVENT DESC="SCANS BOOK"/> it's due in four hours and that'll be seven fifty-four today. </U>
+			<U WHO="S46"> okay </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> okay. you're all set. </U>
+			<U WHO="S46"> alright, thanks. </U>
+			<U WHO="S3"> sure. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S3"> excuse me? </U>
+			<U WHO="S2"> i don't know i just put them, uh, in the third, shelf over. </U>
+			<U WHO="S3"> okay, <OVERLAP> that's good. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i don't know </OVERLAP> if they (want, in the same order) specifically, within the third shelf </U>
+			<U WHO="S3"> no, that's cool. </U>
+			<U WHO="S2"> matched up the letters. </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> hi. </U>
+			<U WHO="S47"> hi i left a water bottle on the desk there yesterday, so do you know where i can go look for it, <OVERLAP> is there lost and found? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> it's probably </OVERLAP> here, what wa- what was it? </U>
+			<U WHO="S47"> it's a yellow, capped water bottle. </U>
+			<U WHO="S3"> okay, hold on just one second. <PAUSE DUR=":08"/> nope, sorry. </U>
+			<U WHO="S47"> that's alright, thank you. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> wha- till what time are you guys gonna be here? </U>
+			<U WHO="R2"> um, wa- probably sometime bet- around five. <U WHO="S3"> oh, <OVERLAP> okay </OVERLAP></U><OVERLAP> (probably leaving) </OVERLAP> why? </U>
+			<U WHO="S3"> oh just wo- just wondering like, </U>
+			<U WHO="R2"> how, how long are you here? </U>
+			<U WHO="S3"> i'm here till four only, <OVERLAP> so i'm leaving like pretty soon. </OVERLAP></U>
+			<U WHO="R2"><OVERLAP> (xx) pretty soon </OVERLAP> like two or three minutes. do you <U WHO="S3"><OVERLAP> yeah </OVERLAP></U><OVERLAP> know </OVERLAP> who's coming after you? </U>
+			<U WHO="S3"> i have no idea, but, someone will be here for sure. </U>
+			<U WHO="R2"> okay. </U>
+			<U WHO="S3"> i don't, i don't really know. i can look it up on the schedule and see. </U>
+			<EVENT DUR=":32" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S3"> look at him, he's using my chair, he's using my computer </U>
+			<PAUSE DUR=":08"/>
+			<EVENT DUR=":36" DESC="RECORDING-RELATED CONVERSATION"/>
+			<PAUSE DUR="1:56"/>
+			<U WHO="S3"> hey Laura. come on in. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> i'm up here, right? </U>
+			<U WHO="S3"> i, i guess. did you look on the schedule? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"> here you go. she has to reserve this book, i don't know. y- is it one of these? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"><OVERLAP> i don't know how to search for (those) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> no, okay. here. </OVERLAP></U>
+			<U WHO="S9"> yeah somebody already checked it out, <U WHO="S3"> okay </U> due um November fourth </U>
+			<U WHO="S3"> okay. <EVENT DESC="TYPING THROUGHOUT UTTERANCE"/> (xx) L T L <U WHO="S2"> L T L </U> find, call number, which is </U>
+			<U WHO="S2"> T-A four oh five </U>
+			<U WHO="S3"> T-A four zero five. <OVERLAP> let's see </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> dot (C-eight, four two) (xx...) </OVERLAP> nineteen ninety-nine </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S3"> i'm just checking which one is closest the due date. <PAUSE DUR=":05"/> that one's nineteen </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> what's that E in (xx) </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> put a E in </U>
+			<U WHO="S3"> item, one. like see? it has three copies, right? and then, what i'm doing is i'm checking which one that like due dates on those, and whatever's earliest i'm gonna recall that one cuz, they had it like for like you know longer than everyone so i'm gonna do, uh, item three... now go down till it says done, and then do S E L E, enter, recall, enter, then you go down i (charged) already did you get an M-card? </U>
+			<U WHO="S2"> no, (i didn't yet.) </U>
+			<U WHO="S3"> can we see your M-card please? </U>
+			<U WHO="S2"> where do i put this (xx) </U>
+			<U WHO="S3"> oh, i'll get it. is that me do i sign it? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S3"> that's that's me? you sure? </U>
+			<U WHO="S2"> i'm positive </U>
+			<U WHO="S49"> so now then is available? </U>
+			<U WHO="S3"> i'm sorry? </U>
+			<U WHO="S49"> now, this book it's available now? </U>
+			<U WHO="S3"> you'll gon- get an email or mail saying that it's available for you on the hold shelf, <U WHO="S49"> oh, okay </U> right now it's still checked out. </U>
+			<U WHO="S49"> okay. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> did you get your does_ do you have that paper with call number? </U>
+			<U WHO="S2"> i just gave it back to her. </U>
+			<U WHO="S3"> can i see the the call number again? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S49"> that one...? (that in) wait what's name is <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> no that's </OVERLAP> that's fine i'm, i got it. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S49"> i- is that Advanced, um, Material, Mechanics and Material? the name, of the book? </U>
+			<U WHO="S3"> i don't know i'll tell you <U WHO="S49"><OVERLAP> oh </OVERLAP></U><OVERLAP> let me just </OVERLAP> see up here. it's Advanced Mechanics of Materials. </U>
+			<U WHO="S49"> yes. </U>
+			<U WHO="S3"> okay. <PAUSE DUR=":22"/> okay, and you're all set. </U>
+			<U WHO="S49"> thank you. could you please check see whether you have uh, one mi- oh uh, eight five? would you mind checking because, </U>
+			<U WHO="S3"> wha- i'm sorry what is that? </U>
+			<U WHO="S49"> oh, could you please check with the same call name, but uh uh an earlier uh, year? </U>
+			<U WHO="S3"> sure. </U>
+			<U WHO="S49"> okay, thanks. </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S3"> we have nineteen eighty-five. </U>
+			<U WHO="S49"> yeah, you you do? so i'm going to, take a look now. </U>
+			<U WHO="S3"> let me see if it's available. <PAUSE DUR=":04"/> that one is missing, the one we have. </U>
+			<U WHO="S49"> oh </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> they're all missing. </U>
+			<U WHO="S49"> they're all missing? </U>
+			<U WHO="S3"> bye. </U>
+			<U WHO="S2"><EVENT DESC="LAUGH"/> why are you looking at me like that? </U>
+			<U WHO="S3"> nothing. <PAUSE DUR=":05"/> yeah, some of 'em are checked out, some of 'em are missing so i'm just trying to check like each one and see which one is available, <U WHO="S49"> okay </U> if there is any. <U WHO="S49"> okay. </U> yeah, there's one available down in the basement <U WHO="S49"> oh, <OVERLAP> okay. </OVERLAP></U><OVERLAP> with the </OVERLAP> same call number but uh nineteen eighty-five. <U WHO="S49"> nineteen eighty <OVERLAP> oh </OVERLAP></U><OVERLAP> okay? </OVERLAP></U>
+			<U WHO="S49"> but i still want to reserve <OVERLAP> the (new) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i did it </OVERLAP></U>
+			<U WHO="S49"> thank you very much. </U>
+			<U WHO="S3"> sure. </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="R2"> (xx) </U>
+			<U WHO="S3"> okay, </U>
+			<U WHO="R2"> (xx) </U>
+			<U WHO="S3"> well wha- oh, are you, <OVERLAP> do do you ha- </OVERLAP></U>
+			<U WHO="R2"><OVERLAP> (we'll have you) </OVERLAP> um, trade microphone with <OVERLAP> the woman who just (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> actually </OVERLAP> i'm waiting for a supervisor i can't leave <U WHO="R3"><OVERLAP> you can't leave yet? </OVERLAP></U><OVERLAP> until a supervisor </OVERLAP> gets here. no, like we have to have a supervisor always at the desk, and they're in a meeting so i have to stay until they get back and <OVERLAP> then, </OVERLAP><U WHO="R2"><OVERLAP> okay </OVERLAP></U><U WHO="R3"> okay </U> one of them has to take you know, has to be here, <U WHO="R2"> okay </U> even though we have a student s- we don't, supervisor has to be at the desk and so </U>
+			<PAUSE DUR=":45"/>
+			<U WHO="S3"> stop. </U>
+			<PAUSE DUR=":13"/>
+			<U WHO="S2"> are you done yet? </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S2"> are you done? </U>
+			<U WHO="S3"> i'm waiting for a supervisor to get here. </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> thank you. </U>
+			<PAUSE DUR=":57"/>
+			<U WHO="S3"> go ahead. </U>
+			<PAUSE DUR=":45"/>
+			<U WHO="S3"> sorry. </U>
+			<PAUSE DUR=":55"/>
+			<U WHO="S3"><OVERLAP> hi. </OVERLAP></U>
+			<U WHO="S50"><OVERLAP> (xx) </OVERLAP> check these out please. </U>
+			<U WHO="S3"> sure... thank you. <EVENT DESC="SCANS CARD"/> oops, is it new M-card? </U>
+			<U WHO="S50"> huh? </U>
+			<U WHO="S3"> is it a new M-card? </U>
+			<U WHO="S50"> i've not checked anything out on it before, no. </U>
+			<U WHO="S3"> okay. <PAUSE DUR=":11"/><EVENT DESC="SCANS CARD"/> there you go. </U>
+			<PAUSE DUR=":43"/>
+			<U WHO="S48"> (can he) return a book to the Michigan Dearborn library? will it get here? </U>
+			<U WHO="S3"> it'll get here later, if it's not <OVERLAP> really </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> it's got </OVERLAP> a recall on it </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S48"> it's got a recall on it, so, should he, <U WHO="S3"> yeah </U> return it here? </U>
+			<U WHO="S3"> mhm. it's due on December twentieth, and you're all set have a nice day. </U>
+			<U WHO="S50"> you too. </U>
+			<U WHO="S3"> thank you. </U>
+			<PAUSE DUR=":22"/>
+			<U WHO="S48"> wow. (he has a thick accent) </U>
+			<U WHO="S3"> what? what's was he mad? </U>
+			<U WHO="S48"> i think yeah, he sort of (xx) just sort of, like <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i mean </OVERLAP> come on if you wanna get fined yeah of course, why don't you return it, you know at Dearborn? but, you know </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="S3"> no um, are you, back up now? </U>
+			<U WHO="S52"> um, i'm not sure. i'm 'bout to go look and see. <U WHO="S3"> can you? </U> do you need a break or something? </U>
+			<U WHO="S3"> no, i'm out of here. can <U WHO="S52"><OVERLAP> really? </OVERLAP></U><OVERLAP> you go in and </OVERLAP> check? yeah. thank you. </U>
+			<U WHO="S52"> (xx) </U>
+			<U WHO="S3"> i think so. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S3"> oh <PAUSE DUR=":05"/> i don't have it here. </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="S52"> actually your mom is (back up.) do you know where she is? </U>
+			<U WHO="S3"> sh- they're in a meeting, all of them. </U>
+			<U WHO="S52"> all of them? </U>
+			<U WHO="S3"> yes. </U>
+			<U WHO="S52"> that doesn't make sense. </U>
+			<U WHO="S3"> i know. </U>
+			<U WHO="S52"> but, that's cool. you can go. (if) </U>
+			<U WHO="S3"> that's fine, i will stay. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> oh come on. these computers are so slow. </U>
+			<PAUSE DUR="1:44"/>
+			<U WHO="S52"> hey, you wanna, you wanna leave me your key, then you can go? i'll give it to your mom? or, what? <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> are you </OVERLAP> working? are <OVERLAP> you working here? </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> yeah, i'm i'm </OVERLAP> working. but i wasn't um, i'm not scheduled on back up, but since they're in a meeting, i guess i'm on back up. cuz i'm here until five thirty. <OVERLAP> (i mean) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> that's </OVERLAP> cool. <U WHO="S52"><OVERLAP> yeah, that's cool, but </OVERLAP></U><OVERLAP> perfect. </OVERLAP> here... <OVERLAP> give it to my mom, cuz i have to work. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> give it to your mom, she's here </OVERLAP> until six, right? </U>
+			<U WHO="S3"> yeah or just put it on here on her desk cuz i have to work here tomorrow <OVERLAP> at like late night. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> okay, what's </OVERLAP> tomorrow? Thursday? </U>
+			<U WHO="S3"> Thursday. </U>
+			<U WHO="S52"> alright. yeah no problem, i can just just, leave it up there. </U>
+			<EVENT DUR=":41" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S52"> it's not so hard to imagine that i'm a singer. i do actually sing. <PAUSE DUR=":04"/> so where are you going? </U>
+			<U WHO="S3"> where am i going? i have an exam today. </U>
+			<U WHO="S52"> oh, for what? </U>
+			<U WHO="S3"> business (law) </U>
+			<U WHO="S52"> what? business_ what's your major? </U>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S52"> what is it? </U>
+			<U WHO="S3"> business finance and C-I-S </U>
+			<U WHO="S52"> i didn't know that. i'm up here thinking she's, i don't know an English major or something, you know. hey, i ain't dissing you an English major? </U>
+			<U WHO="S48"> no, not yet. <EVENT DESC="LAUGH"/><EVENT WHO="S52" DESC="LAUGH"/> undecided. </U>
+			<U WHO="S52"> undecided? </U>
+			<U WHO="S48"> probably will be though. </U>
+			<U WHO="S52"> probably will be? </U>
+			<U WHO="S48"> yeah. </U>
+			<U WHO="S52"> why? </U>
+			<U WHO="S48"> (just) because. <EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S52"> (xx) </U>
+			<U WHO="S48"> runs in the family </U>
+			<U WHO="S52"> oh, you what you got parents that're </U>
+			<U WHO="S48"> my mom's an editor author writer, you know, all that stuff. </U>
+			<U WHO="S52"> editor author writer. man because </U>
+			<U WHO="S48"> she got the Hopwood and all that </U>
+			<U WHO="S52"> she got the what? </U>
+			<U WHO="S48"> Hopwood </U>
+			<U WHO="S52"> the wha- the Hopowood, <U WHO="S48"> Hopwood, award </U> Hopowood award? what's that? </U>
+			<U WHO="S48"> it's an <OVERLAP> award. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> i'm </OVERLAP> not familiar with it. <U WHO="S48"><OVERLAP> you should be. </OVERLAP></U><OVERLAP> but wha- </OVERLAP> but what is it though? </U>
+			<U WHO="S48"> Arthur Miller got a Hopwood. </U>
+			<U WHO="S52"> Arthur Miller got a Hopwood. </U>
+			<U WHO="S48"> well, she got (it) for poetry though, <U WHO="S52"><OVERLAP> for poetry? </OVERLAP></U><OVERLAP> he got it </OVERLAP> for a play, which is different. </U>
+			<U WHO="S52"> okay, who so, you know the history of the Hopwood? <U WHO="S48"><OVERLAP> no. </OVERLAP></U><OVERLAP> like </OVERLAP> who was Hopwood? like is it na- is it after a person, after a <OVERLAP> company </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> um, </OVERLAP> you can ask my mom, she probably would know. </U>
+			<U WHO="S52"> okay. </U>
+			<U WHO="S53"> do you <U WHO="S52"><OVERLAP> hi </OVERLAP></U><OVERLAP> know where </OVERLAP> there's a phone i can call out from? </U>
+			<U WHO="S52"> to, where are you trying to call? just uh campus or, <EVENT DESC="LAUGH"/> don't, don't even worry about (it.) uh, we got campus phones right here, and then off campus, are downstairs, um, right downstairs on the first floor, back on the sides of the info desk. </U>
+			<U WHO="S53"> alright, <OVERLAP> thanks </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> okay? </OVERLAP> yeah. she's like, she's like, they're taping us <EVENT DESC="LAUGH"/></U>
+			<U WHO="R3"> was she worried? </U>
+			<U WHO="S52"> no she was just like what's going on? i was like don't worry about it <EVENT DESC="LAUGH"/></U>
+			<U WHO="R3"> i mean if anybody ever says, like they're freaked out <U WHO="S52"><OVERLAP> yeah </OVERLAP></U><OVERLAP> just </OVERLAP> take the camera off. </U>
+			<U WHO="S52"> yeah, okay <EVENT DESC="LAUGH"/> yeah... </U>
+			<EVENT DUR=":13" DESC="RECORDING-RELATED CONVERSATION"/>
+			<PAUSE DUR=":07"/>
+			<U WHO="S52"> this is kinda cool. <U WHO="S48"> hm </U> i might wanna... they're gonna put it on the word- wold- the World Wide Web. </U>
+			<U WHO="S48"> yeah </U>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> perhaps... what is this another paper? </U>
+			<U WHO="S48"> yeah, the next actually it's a good paper. it's like the first really good paper i've critiqued all year. </U>
+			<U WHO="S52"> really? </U>
+			<U WHO="S48"> it's pretty good, yeah. </U>
+			<U WHO="S52"> the Is- oh is he from Israel? </U>
+			<U WHO="S48"> yeah. </U>
+			<U WHO="S52"> oh man, <OVERLAP> oh is, is it a sh- she? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> well actually i don't know </OVERLAP> that's that's the problem. <OVERLAP> because this is a (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> in the blink of an eye the Holy Land (central) </OVERLAP></U>
+			<U WHO="S48"> um, he keeps on saying like, i've always felt peaceful going to Israel and comforted and now <U WHO="S52"> mhm </U> there's all this stuff going on he keeps on like switching back and forth to <U WHO="S52"><OVERLAP> oh, i would love t- </OVERLAP></U><OVERLAP> like what it was like when he saw </OVERLAP> and what must be there now like what he's imagining is right there, <U WHO="S2"> mhm </U> like where he was, but he doesn't explain why he feels comforted, like i don't know if he's from Israel like he has family or <U WHO="S52"><OVERLAP> (i don't know) </OVERLAP></U><OVERLAP> if he's just </OVERLAP> you know Jewish and visiting the holy sites <OVERLAP> or </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> yeah </OVERLAP></U>
+			<EVENT DESC="BREAK IN RECORDING"/>
+			<PAUSE DUR=":04"/>
+			<U WHO="S48"> that could <OVERLAP> go into your </OVERLAP><U WHO="S52"><OVERLAP> pop quiz? </OVERLAP></U> yeah like he'd give you a two point pop quiz, <U WHO="S52"> uhuh </U> and some of them were really hard so i didn't get all the questions but um, the points would go straight to your midterm. like extra credit. <U WHO="S52"> mhm </U> so i got like eight points, <OVERLAP> on added on the midterm. </OVERLAP><U WHO="S52"><OVERLAP> oh sweet </OVERLAP></U> plus four-point-five out of the five points on the extra credit. <U WHO="S52"> okay </U> and i already got a ninety-five, <U WHO="S52"> oh my goodness. </U> so i didn't i didn't think i did that well i thought i maybe got a B, on that cuz i didn't know it that well, <U WHO="S52"> yeah </U> it's like you know hopefully a B. i got it back i was like, is this a percent <OVERLAP> and he's like A. </OVERLAP><U WHO="S52"><OVERLAP> you know what i'm saying, </OVERLAP> that's awesome <OVERLAP> i was just </OVERLAP></U><OVERLAP> cuz i guess </OVERLAP> most of my (well there's only) </U>
+			<U WHO="S52"> hi may i help <OVERLAP> you? </OVERLAP></U>
+			<U WHO="S54"><OVERLAP> hi, </OVERLAP> can i pay a fine here? </U>
+			<U WHO="S52"> yeah. no problem. </U>
+			<U WHO="S48"> there's only five people in the class, but <U WHO="S52"><OVERLAP> oh </OVERLAP></U><OVERLAP> everybody </OVERLAP> else got this really important thing wrong (xx) and he was like making everybody go up there (and,) <U WHO="S52"> really? </U> draw this diagram. </U>
+			<U WHO="S52"> what class is this? </U>
+			<U WHO="S48"> (xx) </U>
+			<U WHO="S52"> iso- ice <OVERLAP> what? Ice Ages? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> (xx) </OVERLAP> yeah a thing he went over like a zillion times and, they all got it wrong and he was asking to write it up there and they started writing it up i was like oh crap that doesn't look right. <OVERLAP> but </OVERLAP></U>
+			<U WHO="S52"> right here, dollar fine? </U>
+			<U WHO="S54"> yeah </U>
+			<U WHO="S52"> okay </U>
+			<U WHO="S48"> (that was) (xx) </U>
+			<U WHO="S52"> be <OVERLAP> careful </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> oh loose pages </OVERLAP> yeah i will. yeah </U>
+			<U WHO="S52"> alright. code let's see uh, <PAUSE DUR=":10"/> what you just kept something an an hour early_ extra or something? </U>
+			<U WHO="S54"> no i renewed it over the phone but i told them the wrong title or <OVERLAP> something. </OVERLAP></U>
+			<U WHO="S52"> oh, <OVERLAP> see </OVERLAP></U>
+			<U WHO="S54"><OVERLAP> so i </OVERLAP> actually even renewed it. </U>
+			<U WHO="S52"> yeah <EVENT DESC="LAUGH"/> so you tried to do it right and it still... let's see, (xx) <PAUSE DUR=":04"/> okay. just a moment. <PAUSE DUR=":24"/> okay, you can see, it's nice and clear. <U WHO="S54"> mhm </U> and there's your receipt. </U>
+			<U WHO="S54"> i'm reassured </U>
+			<U WHO="S52"> thanks. here's your card. </U>
+			<U WHO="S54"> thanks. where's the video studio? </U>
+			<U WHO="S52"> video studio, first floor? </U>
+			<U WHO="S54"> mhm </U>
+			<U WHO="S52"> um, b- in the very back. <U WHO="S54"> okay </U> and if you just go down to the info desk <OVERLAP> and just right </OVERLAP><U WHO="S54"><OVERLAP> and go straight </OVERLAP></U> straight back yeah. </U>
+			<U WHO="S54"> okay </U>
+			<U WHO="S52"> alright? hi may i help <OVERLAP> you? </OVERLAP><U WHO="S55"><OVERLAP> (xx) </OVERLAP></U> this yours? okay. all set. </U>
+			<U WHO="S55"> alright. thank you </U>
+			<U WHO="S52"> yeah </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S48"> this yours? </U>
+			<U WHO="S56"> y- uh, yes </U>
+			<U WHO="S48"> okay. </U>
+			<U WHO="S52"> he's all set. </U>
+			<U WHO="S48"> it is? </U>
+			<U WHO="S52"> yeah you cuz_ the thing is, when we check it in we just um, um we just look to see if everything is here and we put our initial, and <OVERLAP> if it's </OVERLAP><U WHO="S48"><OVERLAP> right </OVERLAP></U> not here we don't initial it, you know what i'm saying? <OVERLAP> but </OVERLAP><U WHO="S48"><OVERLAP> right </OVERLAP></U> we_ they don't have to wait or nothing like that, <OVERLAP> cuz, yeah. </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> i was just gonna, okay </OVERLAP></U>
+			<U WHO="S56"> alright thank you very much. </U>
+			<U WHO="S48"> can i have a pen. </U>
+			<U WHO="S52"> right there <PAUSE DUR=":07"/><EVENT DESC="LAUGH"/></U>
+			<EVENT DUR="1:36" DESC="RECORDING RELATED CONVERSATION"/>
+			<U WHO="S57"><OVERLAP> um </OVERLAP><U WHO="S52"><OVERLAP> yeah? </OVERLAP></U> you guys have a stapler and a, um hole punch? </U>
+			<U WHO="S52"> yeah m- yeah </U>
+			<U WHO="S57"> um actually the hole punch <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> just the hole </OVERLAP><U WHO="S57"> yeah </U> punch? okay. </U>
+			<PAUSE DUR=":17"/>
+			<U WHO="S57"> thank you. </U>
+			<U WHO="S52"> it's funny because, they took me off the uh, off the schedule. i'm not on the schedule back there. </U>
+			<U WHO="S48"> why not? </U>
+			<U WHO="S52"> well i kinda told Varina i was gonna phase, phase out, you know. <U WHO="S48"> (so she was like) </U> she sh- <U WHO="S48"> phase <OVERLAP> you out </OVERLAP></U><OVERLAP> well </OVERLAP> she took me off the schedule but like i'm still here. </U>
+			<U WHO="S48"> hi </U>
+			<U WHO="S52"> hi </U>
+			<U WHO="S58"> i wanna hand this back to you, <U WHO="S48"> okay </U> because it's interlibrary loan, <U WHO="S48"> mhm </U> so i don't wanna put in there over there. <U WHO="S52"> oh that's fine wh- </U> cuz it's special <OVERLAP> (okay) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> oh </OVERLAP> it's special? </U>
+			<U WHO="S58"> it's special. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S52"> i don't want it. <EVENT DESC="LAUGH"/> shame on you are those your books right there? </U>
+			<U WHO="S48"> yes </U>
+			<U WHO="S52"> okay. <PAUSE DUR=":04"/> (xx) </U>
+			<U WHO="S48"> first paragraph of this thing still. </U>
+			<U WHO="S52"> man, <OVERLAP> so you so </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> put this off till </OVERLAP> today since i discovered that this, transfers just like, easily now from Macs to P-Cs </U>
+			<U WHO="S52"> didn't i say that? i thought i said that. </U>
+			<U WHO="S48"> well, <OVERLAP> i'm sure y- </OVERLAP><U WHO="S52"><OVERLAP> i did say that. </OVERLAP></U><OVERLAP> okay </OVERLAP> i'm sure you're right but they're easier <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> but you </OVERLAP> but you did it though. did you do it? did you try it? remember the other day we was talking about transferring it, <U WHO="S48"> di- but it </U> and i was like, yeah. <U WHO="S48"> yeah </U> did you like try it and it d- and it worked for you? </U>
+			<U WHO="S48"> well yeah, it just switched into a like Word document, <U WHO="S52"> yeah </U> not even rich text (it was fine) </U>
+			<U WHO="S52"> right so so what did you do? did you save it as rich text and as regular or just as regular? <OVERLAP> both. you did it as both? and then tried to </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> as, both and printed it out </OVERLAP> (xx) didn't work <U WHO="S52"><EVENT DESC="LAUGH"/><OVERLAP> yeah </OVERLAP></U> it just it just switched everything was exactly the same. <U WHO="S52"> yeah </U> so, now that <OVERLAP> i know that i put this </OVERLAP><U WHO="S52"><OVERLAP> i i kind of want to read this, </OVERLAP></U> all off till today, <U WHO="S5"> but, <OVERLAP> do </OVERLAP></U> and <OVERLAP> uh (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> do you have to turn </OVERLAP> this back in? <OVERLAP> give </OVERLAP><U WHO="S48"><OVERLAP> (xx) </OVERLAP></U> this back to him? </U>
+			<U WHO="S48"> yeah staple it to that. </U>
+			<U WHO="S52"> oh staple it to that. when is this due? </U>
+			<U WHO="S48"> tomorrow </U>
+			<U WHO="S52"> oh man you done with this? <EVENT WHO="S48" DESC="LAUGH"/> oh </U>
+			<U WHO="S48"> i have to write my essay. </U>
+			<U WHO="S52"> i mean cuz i really would like to read this. </U>
+			<U WHO="S48"> (when i finish with it) </U>
+			<U WHO="S52"> okay </U>
+			<U WHO="S48"> (i have to pick out a) new topic (for Monday's English class) </U>
+			<U WHO="S52"> oh really what's that? </U>
+			<U WHO="S48"> (xx) </U>
+			<U WHO="S52"> how how great it is to work with someone name Joe Pin? </U>
+			<U WHO="S48"> oh yeah </U>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> you was like y- hardly. </U>
+			<U WHO="S48"> i don't think you would make a great essay (xx) <EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> i mean, the essay wouldn't be that long would it? </U>
+			<U WHO="S48"> it might be </U>
+			<U WHO="S52"> oh. <EVENT DESC="READING FROM EMAIL"/> for those of you who were not in class on Wednesday i want your midterm... placed in (the lab.) oh snaps... Thursday, both males and females <PAUSE DUR=":06"/> (xx) huh, i know her. (xx) <PAUSE DUR=":04"/> it's like s- it's like when i don't want emails, i get them. <U WHO="S48"> oh yeah </U> and when i want them, <U WHO="S48"> when i don't have <OVERLAP> time to check it. </OVERLAP></U><OVERLAP> i don't </OVERLAP> get them. yeah, <U WHO="S48"> (yes) </U><OVERLAP> a list. </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> everybody's </OVERLAP> like, write back, <OVERLAP> yesterday. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> and like no </OVERLAP> it's like, it's like people when uh, i do the same thing though. i respond to their email, and it takes them like, a long time to write me back. but i do the same thing so it doesn't matter. </U>
+			<U WHO="S48"> yeah i try not to write everybody back right away cuz then (xx) <U WHO="S52"> yeah </U> and i can't, can't do that. i write everybody on Christmas break, <EVENT DESC="LAUGH"/><OVERLAP> and that's, that's </OVERLAP><U WHO="S52"><OVERLAP> oh </OVERLAP></U> it. i just don't have time i mean <OVERLAP> i'd </OVERLAP><U WHO="S52"><OVERLAP> that's h- </OVERLAP></U> like to. </U>
+			<U WHO="S52"> that's horrible. </U>
+			<U WHO="S48"> i have like eighty people on my address list (like i can't write them all the time.) </U>
+			<U WHO="S52"> you can, <U WHO="S48"> yeah </U> even if it's just a uh, <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> i just do it when i'm at work. </U>
+			<U WHO="S52"> you know. cuz i think i'm leaving here i think i'll go grab my car and uh, go to this review session. and i don't know what time that's over. and then maybe i'll try to go to church tonight or something, got Bible class at church. </U>
+			<U WHO="S48"> on Wednesday? </U>
+			<U WHO="S52"> yeah? <OVERLAP> hey </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> it's nothing (xx) </OVERLAP><U WHO="S52"><OVERLAP> yeah, </OVERLAP></U> (xx) (Friday so) </U>
+			<U WHO="S52"> yeah yesterday i was thinking to- it was Wednesday and, just like in the middle of the week i confuse my days you know. yeah </U>
+			<U WHO="S48"> (xx) (i can't_) i think i'm allergic to something. </U>
+			<U WHO="S52"> you allergic to something? maybe it's work. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S48"> could be </U>
+			<U WHO="S52"> i notice you (xx) <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> maybe it's you </U>
+			<U WHO="S52"> oh it may be. i i do i do uh, cause people to have allergic reactions. </U>
+			<U WHO="S48"> really? </U>
+			<U WHO="S52"> yeah i'm just so, uh uh, cuz i i'm so infectious you know. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> what's infectious about you you think? </U>
+			<U WHO="S52"> just my personality. everybody loves me, and i <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> that's (xx) </U>
+			<U WHO="S52"> yeah that's what it is. <EVENT WHO="SS" DESC="LAUGH"/><PAUSE DUR=":04"/> i'm trying to print out some uh, reading assignments (da.) for my class this is what i got the exam in tomorrow. so i'm gonna try to print out all the lecture notes. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S48"> that's what i did (with all my anthro lectures) and you know what i found out? i only got two wrong on my anthro exam, <U WHO="S52"> cool </U> and, there_ nobody got perfect scores, <U WHO="S52"> huh </U> um some people got one wrong like five people, i got two wrong. so, he curved it two points, <U WHO="S52"> oh yeah? </U> so i have a perfect score. <EVENT DESC="LAUGH"/><U WHO="S52"> cool </U> i_ it was cool because i didn't know it was four like definitely didn't know <OVERLAP> it and i (xx) </OVERLAP><U WHO="S52"><OVERLAP> mhm </OVERLAP></U> lucky guess (or,) but, and that class was pretty pathetic i mean it's not, <U WHO="S52"> oh </U> that exciting to be ninety-eighth percentile (among) five hundred and fifty jocks (xx) </U>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> ninetieth percentile to five hundred and fifty jocks. <U WHO="S48"> (it was) such <OVERLAP> a jock class. </OVERLAP></U><OVERLAP> is th- is that a jock </OVERLAP> class? </U>
+			<U WHO="S48"> oh yeah. i didn't know until i was in it. <U WHO="S52"> until you got in <OVERLAP> it. </OVERLAP></U><OVERLAP> but </OVERLAP> yeah. but it's <OVERLAP> fun </OVERLAP><U WHO="S52"><OVERLAP> yeah </OVERLAP></U> i mean we had lots of reading to do but it's so dumb you know that the the stupidity (xx) i had a hard time <U WHO="S52"> stupidity of <OVERLAP> the class </OVERLAP></U><OVERLAP> keeping up </OVERLAP> with the work cuz i just can't make myself sit down and read it. </U>
+			<U WHO="S52"> what is it, what like is the reading like, <U WHO="S48"> it's like </U> besides being boring is it </U>
+			<U WHO="S48"> the t- the text was terrible like written really badly, it's boring and it repeats itself. <OVERLAP> and they don't even know if the stuff is true anyway (it's like i don't know) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> wait a minute, that's that book you were, you were </OVERLAP> what was that one book you were <OVERLAP> reading? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> mhm </OVERLAP> yeah, <OVERLAP> but </OVERLAP><U WHO="S52"><OVERLAP> yeah </OVERLAP></U> the two ethnographies we're reading are (a lot easier) yeah cuz they're you know like, stories. </U>
+			<U WHO="S52"> yeah. oh. Alina </U>
+			<U WHO="S48"> but after exhausting myself i'm gonna (xx) this weekend <EVENT DESC="LAUGH"/> (avoid) studying (xx) </U>
+			<U WHO="S52"> where do you live? </U>
+			<U WHO="S48"> (xx) </U>
+			<U WHO="S52"> why? </U>
+			<U WHO="S48"><EVENT DESC="LAUGH"/> i live on north side of town. </U>
+			<U WHO="S52"> on the north side of town. you still stay with you parents? </U>
+			<U WHO="S48"> yeah. <U WHO="S52"><OVERLAP> okay </OVERLAP></U><OVERLAP> just </OVERLAP> this year. cuz they're not really there. </U>
+			<U WHO="S52"> oh cuz they're not really there? </U>
+			<U WHO="S48"> yeah and i mean i was, last year, we thought my mom had cancer, <U WHO="S52"> ooh </U> so, yeah i started (xx) so i thought i should probably, stick around since i wasn't that excited about the dorms (you know.) <U WHO="S52"> yeah </U> (xx) you know (xx) it's not typical to get along with your parents at this age (you know) </U>
+			<U WHO="S52"> yeah, yeah, <U WHO="S48"> y- you know what i mean <OVERLAP> (kinda) (xx) </OVERLAP></U><OVERLAP> and you're </OVERLAP> like eighteen nineteen? </U>
+			<U WHO="S48"> eighteen. </U>
+			<U WHO="S52"> eighteen. </U>
+			<U WHO="S48"> and i really wasn't excited about staying in the dorms. and i ended up_ i just (xx) apartment next year. so (xx) </U>
+			<U WHO="S52"> oh yeah you found one? <U WHO="S48"> yeah. it's <OVERLAP> right (in front) (xx) </OVERLAP></U><OVERLAP> sweet. is it up </OVERLAP> is it up north s- also? or </U>
+			<U WHO="S48"> it's in (the Highlands) (xx) </U>
+			<U WHO="S52"> oh the Highlands? yeah i know where that is. </U>
+			<U WHO="S48"> yep </U>
+			<U WHO="S52"> how much is uh, the area he gau- gave you like a price and everything? </U>
+			<U WHO="S48"> i don't know. i don't remember the numbers because, when my sister was staying there, <OVERLAP> she was always like </OVERLAP><U WHO="S52"><OVERLAP> (xx) </OVERLAP></U> sharing a room with different amount of people you know? </U>
+			<U WHO="S52"> uhuh </U>
+			<U WHO="S52"> let me to do that. </U>
+			<U WHO="S48"> hmm? </U>
+			<U WHO="S52"> let me do it. this thing's printing (xx) <PAUSE DUR=":04"/><SEG TYPE="SINGING"> baby, </SEG> two-P-T-P <PAUSE DUR=":04"/> (xx) fifty-six. <PAUSE DUR=":11"/> you can check it out though. <EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S48"> (xx) (the worst) i don't know why. i mean i know why <OVERLAP> but (i don't know why still) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> you know why but you don't know why. </OVERLAP> just wanna <OVERLAP> see if this is printing right or not </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> pulled my back moving all my furniture, but </OVERLAP></U>
+			<U WHO="S52"> you was moving furniture? </U>
+			<U WHO="S59"> yeah </U>
+			<U WHO="S52"> in- <EVENT DESC="LAUGH"/><U WHO="S59"><OVERLAP> not asking for help </OVERLAP></U><OVERLAP> what kind of furniture you got? </OVERLAP></U>
+			<U WHO="S48"> my room's got some pimp <OVERLAP> furniture, </OVERLAP><U WHO="S52"><OVERLAP> some heavy furniture? </OVERLAP></U> oh man i don't even know why i (study.) move my desk <OVERLAP> my later </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> oh and </OVERLAP> that should be my stuff. </U>
+			<U WHO="S59"> that's great. that's wonderful. i wanted <OVERLAP> to make sure it </OVERLAP><U WHO="S52"><OVERLAP> hey </OVERLAP></U> was your stuff. </U>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> you probably s- p- printing out recipes and stuff. <U WHO="S59"> no i'm not </U> right now, wasting paper. <U WHO="S59"> no </U> stuff you're not even gonna cook. </U>
+			<U WHO="S59"> you shoulda, <EVENT WHO="S52" DESC="LAUGH"/> i've already cooked about ten of those things. </U>
+			<U WHO="S52"> oh <OVERLAP> i should've what? </OVERLAP><U WHO="S59"><OVERLAP> um </OVERLAP></U> you know i'm not on the s- on the, i thought of a uh, i could technically i could leave right now. <U WHO="S59"><OVERLAP> why? </OVERLAP></U><OVERLAP> i'm </OVERLAP> not on the schedule. </U>
+			<U WHO="S59"> you know what? talk to her because she wasn't sure how to make the schedule out. she <OVERLAP> wasn't sure what shifts you work. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> yeah i know, </OVERLAP> y- yeah_ oh <EVENT DESC="LAUGH"/><OVERLAP> she, she wasn't s- </OVERLAP></U>
+			<U WHO="S59"><OVERLAP> i mean you're like_ yeah, no because </OVERLAP> there's a couple people that are aren't on there cuz we weren't sure, i mean she couldn't remember what day they were. </U>
+			<U WHO="S52"> really? </U>
+			<U WHO="S59"> i think so <OVERLAP> so, (probably) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> i'll j- i'll just </OVERLAP> let her like, forget for a couple more weeks maybe. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S59"> (xx) <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> hey were y- </OVERLAP> were you up here already today, Isley? </U>
+			<U WHO="S59"> no i had to do this last time. <OVERLAP> (but) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> oh </OVERLAP> was it <OVERLAP> fun? </OVERLAP></U>
+			<U WHO="S59"><OVERLAP> (they didn't,) </OVERLAP> (they weren't) (xx) <U WHO="S52"> yeah, </U> (xx) </U>
+			<U WHO="S52"> you wasn't being videotaped? </U>
+			<U WHO="S59"> no (xx) </U>
+			<U WHO="S52"> oh come say hi. <EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S48"> (xx) <OVERLAP> like if </OVERLAP><U WHO="S52"><OVERLAP> do </OVERLAP></U> if i if i suggest changing by to on i have to like, s- write that out like suggested changing by to on <OVERLAP> blah blablah blablah, </OVERLAP><U WHO="S52"><OVERLAP> wait a minute what? </OVERLAP></U> it's like just little things <U WHO="S52"><OVERLAP> oh really? </OVERLAP></U><OVERLAP> i have to </OVERLAP> write them out. (takes <OVERLAP> so long) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> i mean </OVERLAP> b- even though you're turning this in? </U>
+			<U WHO="S48"> well right </U>
+			<U WHO="S52"> i mean <OVERLAP> doesn't the teacher see? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> because he, </OVERLAP> he only looks at the, the marginalia so you have to have enough, to make him happy, and then supposedly <OVERLAP> (the guy's gonna) </OVERLAP><U WHO="S52"><OVERLAP> oh </OVERLAP></U> read this. but really <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> who who reads </OVERLAP> that right there? does it_ wh- <OVERLAP> does your teacher read something? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> i think the guy, </OVERLAP> i don't know <U WHO="S52"> or sh- </U> because he says he doesn't but then he gives examples of what he thought was funny in those <OVERLAP> like in the next class so (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> oh, okay i see. </OVERLAP> so then he does read 'em then. maybe. </U>
+			<U WHO="S48"> maybe. i don't know. i don't know if he just reads (xx) <U WHO="S52"> yeah </U> or if he just sees something in the margin that he thinks is funny and, i don't know. <U WHO="S52"> yeah </U> (xx) cuz he's never gonna read it. i still have all those copies sitting (in the library that) i never read. <U WHO="S52"> oh it's a </U> i read i read his, you know, (xx) </U>
+			<U WHO="S52"> oh he did one for you? </U>
+			<U WHO="S48"> yeah, <U WHO="S52"> cool </U> it's a good thing too. (xx) </U>
+			<U WHO="S1"> hello. </U>
+			<U WHO="S52"> hello. </U>
+			<U WHO="S1"> until what time (will you) </U>
+			<U WHO="S52"> five-thirty </U>
+			<U WHO="S1"> five-thirty? </U>
+			<U WHO="S52"> mhm. so you <OVERLAP> can </OVERLAP><U WHO="S1"><OVERLAP> okay </OVERLAP></U> you can hang around and scare people until then. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S61"><OVERLAP> hi </OVERLAP><U WHO="S52"><OVERLAP> hi </OVERLAP></U> can i get this bottom book please? it's in reserve. </U>
+			<U WHO="S52"> yeah. <PAUSE DUR=":05"/> pah-pao </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S59"> no you're not_ you're from um, eight to, ten and i'm from <U WHO="SU-f"><OVERLAP> oh okay </OVERLAP></U><OVERLAP> ten to </OVERLAP> eleven Petey's there till eight. </U>
+			<U WHO="S52"> whoa Peter's working t- <U WHO="S59"> yeah </U><OVERLAP> till eight. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> oh, Peter, </OVERLAP> oh </U>
+			<U WHO="S59"> yeah </U>
+			<U WHO="SU-f"> uh she, uh changed (xx) </U>
+			<U WHO="S59"> yeah and same with this. </U>
+			<U WHO="S48"> that's right </U>
+			<U WHO="S52"> yeah i like the change. <PAUSE DUR=":07"/> make sure i don't do anything self-incriminating. <PAUSE DUR=":06"/> thanks </U>
+			<U WHO="S61"> thank you. </U>
+			<U WHO="S52"> yeah. what do you just keep that for future reference? </U>
+			<U WHO="S61"> (since i've) needed it so many times in the past few days <OVERLAP> it's just </OVERLAP><U WHO="S52"><OVERLAP> oh yeah? </OVERLAP></U> easier. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"> that's cool. </U>
+			<U WHO="S61"> why are you on film? </U>
+			<U WHO="S52"> they're uh, working on a database for like spoken English, and basically, um, it's something they did over the summer also, <U WHO="S62"><OVERLAP> do you have a stapler? </OVERLAP></U><OVERLAP> um (xx) corpus </OVERLAP> some type of database they do for like Eng- uh, some <U WHO="S48"><OVERLAP> (xx) there's one at the (xx) desk. </OVERLAP></U><OVERLAP> English society or whatever </OVERLAP> um, and basically they just chose this place and, <U WHO="S61"> uhuh </U> so be it you know. <U WHO="S61"> (xx) </U> you wanna say hi? (cuz it) </U>
+			<U WHO="S61"> nah, <EVENT WHO="S52" DESC="LAUGH"/> i'm not a big fan of, video cameras, <U WHO="S52"> oh yeah? </U> and regular ones. <U WHO="S52"><OVERLAP> why? </OVERLAP></U><OVERLAP> i won't </OVERLAP> even look at ('em) </U>
+			<U WHO="S52"> you you camera shy? </U>
+			<U WHO="S61"> no i just don't like 'em. </U>
+			<U WHO="S52"> just don't like 'em? </U>
+			<U WHO="S61"> yeah </U>
+			<U WHO="S52"> okay, this is due back at six <OVERLAP> thirty-nine. </OVERLAP><U WHO="S61"><OVERLAP> thank you </OVERLAP></U> yup. what's up man, <EVENT WHO="S63" DESC="LAUGH"/> how you doing? why you laughing? </U>
+			<U WHO="S63"> how late are you here till? </U>
+			<U WHO="S52"> uh five-thirty. your boy (Rebez) </U>
+			<U WHO="S63"> what he do to you this time? </U>
+			<U WHO="S52"> well he didn't do nothing to me it's just, my exam score isn't nice. </U>
+			<U WHO="S63"> oh i'm sorry. </U>
+			<U WHO="S52"> it's yes. </U>
+			<U WHO="S64"> um, Varina would like for <OVERLAP> you to email her, with the schedule you're supposed </OVERLAP><U WHO="S52"><OVERLAP> i i know she would i know she would b- b- b- but </OVERLAP></U> to have. </U>
+			<U WHO="S52"> because, the emails that i send her she's like oh it's just from Pin. Joe Pin i'll just <OVERLAP> delete them </OVERLAP><U WHO="S64"><OVERLAP> no i don't think that's (right) </OVERLAP></U> and tell him to send me another one that's, that's how she likes to deal with me you know. </U>
+			<U WHO="S64"> oh okay </U>
+			<U WHO="S63"> (okay so) you're here till five-thirty. </U>
+			<U WHO="S52"> yeah i am, but don't tell her that, you know i'll tell her five, <OVERLAP> five fifteen </OVERLAP></U>
+			<U WHO="S63"><OVERLAP> Petey should be back by five-thirty </OVERLAP> right? </U>
+			<U WHO="S52"><OVERLAP> is she here? </OVERLAP><U WHO="S64"><OVERLAP> he should be </OVERLAP></U> who who's he? </U>
+			<U WHO="S63"> Peter. </U>
+			<U WHO="S52"> oh he's on, gone? </U>
+			<U WHO="S63"> he's on fubar. </U>
+			<U WHO="S64"> (xx) </U>
+			<U WHO="S52"> fubar? </U>
+			<U WHO="S65"> what up Joe. </U>
+			<U WHO="S52"> what's up man how you doing? </U>
+			<U WHO="S65"> doing pretty <OVERLAP> well (thanks) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> with your </OVERLAP> with your with your travel bag. <EVENT WHO="SS" DESC="LAUGH"/> where you going? </U>
+			<U WHO="S65"> class class </U>
+			<U WHO="S52"> which class? </U>
+			<U WHO="S65"> um, <OVERLAP> I-O-E three-(ten lab) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> are you </OVERLAP> I-O-E? </U>
+			<U WHO="S65"> huh? </U>
+			<U WHO="S52"> are you I-O-E? </U>
+			<U WHO="S65"> yeah </U>
+			<U WHO="S52"> is that your major? </U>
+			<U WHO="S65"> i've always been <OVERLAP> I-O-E. since </OVERLAP><U WHO="S52"><OVERLAP> okay. okay th- </OVERLAP></U> high school. </U>
+			<U WHO="S52"> that's cool. high school? did he say that? i did_ i guess i'll pick on him later about being in I-O-E since high school. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> my dad was, <OVERLAP> (an engineer) since high school. went to Cass Tech. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> five one two three four five, </OVERLAP> one two three four five. so just because_ so if you go to Cass Tech that makes you engineering, <OVERLAP> since high school? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> no. means </OVERLAP> you have a serious major since high school. <U WHO="S52"> you have a what? </U> or you used to i don't know what it's like now but </U>
+			<U WHO="S52"> wait a minute Cass Tech? is that a like a, technical, high school? </U>
+			<U WHO="S48"> i'm not sure how it works now <OVERLAP> but it used to be they took, </OVERLAP><U WHO="S52"><OVERLAP> but it used to be? </OVERLAP></U> like the top couple of students out of every high school <OVERLAP> in Detroit, </OVERLAP><U WHO="S52"><OVERLAP> and went to Cass Tech? </OVERLAP></U> and, (xx) Cass Tech and you would have like a major, (xx) </U>
+			<U WHO="S52"> wait isn't Cass Tech big though? wasn't it big? <U WHO="S48"> yeah </U> so like, <U WHO="S48"> it was big. </U> hm. </U>
+			<U WHO="S48"> he said his locker was like on the eighth floor or something. </U>
+			<U WHO="S52"> his what? </U>
+			<U WHO="S48"> eighth fl- his locker, eighth floor. </U>
+			<U WHO="S52"> eighth floor? </U>
+			<U WHO="S48"> mhm (it was a) very tall building. <EVENT WHO="S52" DESC="LAUGH"/></U>
+			<U WHO="S52"> yeah. cancel (i want to see if i.) </U>
+			<U WHO="S48"> i don't wanna do this. <EVENT DESC="LAUGH"/> i'm so sleepy. </U>
+			<U WHO="S52"><OVERLAP> what? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> (xx) </OVERLAP> like at least eight hours, (everyday.) </U>
+			<U WHO="S52"> oh that's not bad. <OVERLAP> i mean </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> just writing </OVERLAP> out <OVERLAP> (xx) i mean (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> what's what's the, i mean </OVERLAP> that's probably the most you do for the class. do the critiques maybe do a paper. </U>
+			<U WHO="S48"> yeah but i'm doing <OVERLAP> two critiques and i </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> hi. what's up. </OVERLAP></U>
+			<U WHO="S66"> i want to check out, videotape number P-C-two-five-six. </U>
+			<U WHO="S52"> uh, can i see that? </U>
+			<U WHO="S66"> um, P-C-two-five-six. </U>
+			<U WHO="S52"> (xx) okay I-O-E. P-C, <U WHO="S66"> two-five-six </U> two-five-six? okay. at first is was like, i was confused. <PAUSE DUR=":07"/> hey stranger, how are you? yes. </U>
+			<U WHO="S60"> i forgot all about you </U>
+			<U WHO="S52"> i know you did, <U WHO="S60"><OVERLAP> (xx) you have to send me an email </OVERLAP></U><OVERLAP> and i w- i w- i w- i was </OVERLAP> telling everybody, i was like, <U WHO="S60"><OVERLAP> you have to send me an email </OVERLAP></U><OVERLAP> i was like, i was like </OVERLAP> that Varina she just wants to give me a hard time <OVERLAP> as usual. </OVERLAP></U>
+			<U WHO="S60"><OVERLAP> yeah </OVERLAP> that's what my husband says he says you know you're gone for two weeks nobody remembers <OVERLAP> who you are. uh oh who's this guy? </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> yeah you know. and we're both, we're both </OVERLAP> we're both on mic right now. </U>
+			<U WHO="S60"> who's this guy? </U>
+			<U WHO="S52"> have you been on video? you know </U>
+			<U WHO="S60"> uh oh. <OVERLAP> no. are you? </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> you you </OVERLAP> yeah let's <EVENT DESC="LAUGH"/></U>
+			<U WHO="S60"> Joe </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S52"> you know what they was doing this summer? yeah, see you forgot. you gotta say hi and stuff. <EVENT DESC="LAUGH"/> she got <PAUSE DUR=":04"/> can i see your I-D? </U>
+			<U WHO="S60"> Joe you are so, <EVENT WHO="S52" DESC="LAUGH"/> send me an email okay? </U>
+			<U WHO="S52"> okay <PAUSE DUR=":06"/> what you been eating? </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S52"> yeah? </U>
+			<U WHO="SU-m"> yeah </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S66"> how long is this resource (xx) </U>
+			<U WHO="S52"> it's uh, it's two hours a two hour checkout. <U WHO="S66"> oh </U> so it's due back at six forty-three. okay? </U>
+			<U WHO="S66"> thanks </U>
+			<U WHO="S52"> yeah. (xx) <PAUSE DUR=":10"/> (xx) <PAUSE DUR=":25"/> okay, alright, print. as long as this printer works i will be happy. </U>
+			<U WHO="S48"><EVENT DESC="LAUGH"/> i got my hair trimmed last night and it's all really curly (xx) </U>
+			<U WHO="S52"> alright. you got your hair trimmed? </U>
+			<U WHO="S48"> mhm. does it look curlier? </U>
+			<U WHO="S52"> h- h- hold on let me look. <EVENT WHO="S48" DESC="LAUGH"/> wait a minute when you trim your hair it looks curlier? </U>
+			<U WHO="S48"> well yeah. it's shorter (it doesn't) weigh it down as much. <U WHO="S52"> oh </U> but it's kind of flattening out (xx) </U>
+			<U WHO="S52"> okay. well i <OVERLAP> remember, </OVERLAP><U WHO="S48"><OVERLAP> (xx) </OVERLAP></U> when you had it like put up l- last week or, <U WHO="S48"><OVERLAP> what </OVERLAP></U><OVERLAP> i don't </OVERLAP> know you had a, maybe, maybe one of those on there and i was like, i just i was like Laura? then you took it down i was like oh. </U>
+			<U WHO="S48"> oh i had my jacket, over my <OVERLAP> hair. i just put my jacket (over my hair) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> oh is that what it was? </OVERLAP> cuz i was like man, your hair looked different. </U>
+			<U WHO="S48"> yeah it was (xx) kinda straight. </U>
+			<U WHO="S52"> kinda straight? kinda straight? yeah it was kinda straight. </U>
+			<U WHO="S48"> if i don't, <OVERLAP> take a </OVERLAP><U WHO="S52"><OVERLAP> so like </OVERLAP></U> shower in the morning and, <U WHO="S52"> uhuh </U> brush it a little bit, (xx) straight. </U>
+			<U WHO="S52"> so like, a perm to you, is curlier. is that right? <OVERLAP> when you </OVERLAP><U WHO="S48"><OVERLAP> yeah </OVERLAP></U> get a perm you get a it's like a curl <OVERLAP> curly hair? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> yeah but, (mine's) </OVERLAP> natural </U>
+			<U WHO="S52"> but i'm just saying. </U>
+			<U WHO="S48"> a perm would be a nightmare to me. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"> have you had one before? </U>
+			<U WHO="S48"> no </U>
+			<U WHO="S52"> like wh- the purpose of a perm though is to like, give you curls or something? </U>
+			<U WHO="S48"> yeah. well for me it might be either way i don't know cuz i got some pretty bad frizz (xx) </U>
+			<U WHO="S52"> you got some what frizz? </U>
+			<U WHO="S48"> oh yeah. my dad's got nap so that's how i got my curls. </U>
+			<U WHO="S52"> he got what? <OVERLAP> nap? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> my </OVERLAP> mom's got barely wavy hair, <U WHO="S52"><OVERLAP> oh yeah? </OVERLAP></U><OVERLAP> my dad's </OVERLAP> got hair like yours almost. </U>
+			<U WHO="S52"> oh does he? </U>
+			<U WHO="S48"> yeah </U>
+			<U WHO="S52"> wow. cool. </U>
+			<U WHO="S48"> he's whiter than me so i don't where he got it. </U>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> you never know. <PAUSE DUR=":20"/> twenty-four (xx) <PAUSE DUR=":10"/> does uh, he have questions about (xx...) (xx...) (xx...) you know what'd be crazy, is like, couple years down the road, i'm surfing the web and i run into, this database. <EVENT DESC="LAUGH"/> and like </U>
+			<U WHO="S48"> it's like your picture on the front. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"> yeah or yeah or, or actually recognize my voice or something. and i was like cool. </U>
+			<U WHO="S48"> you're like looking up some word and be like, <U WHO="S52"> you know </U> that's me. <EVENT WHO="SS" DESC="LAUGH"/> okay if i'm, i know like when you have a direct quote, the question mark is inside the quote, but what if you just like have a word that's in quotes, at the end of a sentence, <U WHO="S52"> s- </U> and you're (xx) by asking a question but it's not in the quote does it go outside or inside? </U>
+			<U WHO="S52"> s- say it again. </U>
+			<U WHO="S48"> i don't have a whole quote i just have a word_ hi. </U>
+			<U WHO="S67"><OVERLAP> hi. thank you </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> thanks </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> oh the you can </OVERLAP> just, what? </U>
+			<U WHO="S48"> does it go inside or outside if i'm just quoting, the word? is it like this? or is it, this? </U>
+			<U WHO="S52"> hmm. i would think it'd be in the quote, <U WHO="S4"> yeah <OVERLAP> yeah (xx) </OVERLAP></U><OVERLAP> cuz outside of </OVERLAP> the quote is ug- i mean it's ugly. <OVERLAP> i mean, </OVERLAP><U WHO="S48"><OVERLAP> is it? </OVERLAP></U> you know what i'm saying? </U>
+			<U WHO="S48"> but i mean <OVERLAP> does </OVERLAP><U WHO="S52"><OVERLAP> cuz </OVERLAP></U> the the whole sentence just this is in quotes. </U>
+			<U WHO="S52"> right cuz if you put... lemme think about that one. </U>
+			<U WHO="S48"> i usually just avoid that sort of sentence structure. <EVENT WHO="S52" DESC="LAUGH"/> (xx) </U>
+			<U WHO="S52"> you know what i'm saying. why don't you just put, <U WHO="S48"> or explain, <OVERLAP> (xx) </OVERLAP></U><OVERLAP> why don't you put look look look, </OVERLAP> look the word, tadris tadris, <U WHO="S48"> (xx) </U> comma, can you explain it? <EVENT WHO="S48" DESC="LAUGH"/> you you know what i'm <OVERLAP> saying? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> it'd </OVERLAP> be a dash actually but i think i'm gonna tell him to explain it. </U>
+			<U WHO="S52"> oh yeah explain the word (xx) not that he's really gonna explain it and then give it back to you or something you know. <U WHO="S48"> yeah i know </U> do you not know what it means? </U>
+			<U WHO="S48"> well i_ he used it in class the other day but the way he used it in here is really important for the meaning (xx) <EVENT DESC="AUDIO DISTURBANCE"/></U>
+			<U WHO="S52"> is this yours? oh that's Amy's. <PAUSE DUR=":10"/> (always always) </U>
+			<U WHO="S48"> (xx) books </U>
+			<U WHO="S52"> what? </U>
+			<U WHO="S48"> it's like everything's been today. </U>
+			<U WHO="S52"> yeah... it's probably somebody exam or something. </U>
+			<PAUSE DUR=":16"/>
+			<U WHO="S68"> yeah could i uh check out this book right here? </U>
+			<U WHO="S52"> is that P-C? <U WHO="S68"> yeah P-C <OVERLAP> sixty-one yeah </OVERLAP></U><OVERLAP> six-one? </OVERLAP><PAUSE DUR=":15"/> what class is this for? </U>
+			<U WHO="S68"> ah it's just a, <OVERLAP> what's that? </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> what class? </OVERLAP> what class is this for? </U>
+			<U WHO="S68"> personal </U>
+			<U WHO="S52"> P-C-sixty-one? <U WHO="S68"> yeah </U> P-C-six-one, for that's a intro to f- <OVERLAP> whoa (xx) </OVERLAP><U WHO="S68"><OVERLAP> (xx) </OVERLAP></U> lemme see. <U WHO="S68"> oh </U> yeah that's right. intro to physical systems, <U WHO="S68"> oh is that it? <OVERLAP> okay okay </OVERLAP></U><OVERLAP> dynamics, </OVERLAP></U>
+			<U WHO="S68"> i thought (this was a different book) i'm sorry. </U>
+			<U WHO="S52"> gonna be three-sixty </U>
+			<U WHO="S68"> okay (xx) </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S52"> so that means you haven't seen this book before huh? </U>
+			<U WHO="S68"> no i haven't. </U>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> is this_ this isn't the textbook for the class? </U>
+			<U WHO="S68"> uh i took it last semester so <OVERLAP> (they musta used a different one) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> oh, okay. </OVERLAP><PAUSE DUR=":05"/> see your card </U>
+			<U WHO="S68"> (xx) </U>
+			<U WHO="S52"> oh well look at here. <U WHO="S48"> (xx) </U> say what? <U WHO="S48"> (campus phone) </U> good, why don't you like do a little skip or something? you know. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S68"> thanks a lot. </U>
+			<U WHO="S52"> yeah </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S48"> (xx) </U>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> hey, keeps keeps keeps them interested you know what i'm saying. eighteen fifty-one, okay it's due back at six fifty-one. </U>
+			<U WHO="S68"> alright thank you very <OVERLAP> much. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> yeah </OVERLAP><PAUSE DUR=":08"/> they got investigator's signature, participant's name, i think i'll be an investigator today. </U>
+			<U WHO="S48"> called the A-A-T-A (xx) the other day, question and they said you've reached the Ann Arbor Transportation Authority, something something an information specialist will be on the line to help you shortly i was like, <U WHO="S52"> ain't that <OVERLAP> funny? </OVERLAP></U><OVERLAP> i'm in </OVERLAP> Ann Arbor. </U>
+			<U WHO="S52"> you know, i smell food. you smell food? you got food? i wanna know who got some food. <EVENT WHO="S48" DESC="LAUGH"/><U WHO="S48"> how weird, i just keep <OVERLAP> (xx) </OVERLAP></U><OVERLAP> it's like, </OVERLAP> it's like McDonald's or something, you know, it's like onions. i don't know what i smell. you know. hi. </U>
+			<U WHO="S69"> hi </U>
+			<U WHO="S52"> thanks </U>
+			<U WHO="S69"> uhuh </U>
+			<U WHO="S52"> who do you work with? </U>
+			<U WHO="S69"> um, Engineering Career Resource Center. </U>
+			<U WHO="S52"> Engineering Career Resource Center. where's <OVERLAP> that at </OVERLAP></U>
+			<U WHO="S69"><OVERLAP> E-C-R-C. </OVERLAP> right down <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> is that like in </OVERLAP> Chrysler or something? </U>
+			<U WHO="S69"> yeah it's right by the Chrysler on the left hand side of it. </U>
+			<U WHO="S52"> oh okay and so you do you all operate like, organize these uh, <U WHO="S69"> mhm </U> interviews and stuff. </U>
+			<U WHO="S69"> yep the w- through Web Walk Up. <OVERLAP> it's on the internet yeah. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> Web Walk Up? </OVERLAP> oh okay, <OVERLAP> cool. </OVERLAP></U>
+			<U WHO="S69"><OVERLAP> yep </OVERLAP></U>
+			<U WHO="S63"> (xx) </U>
+			<U WHO="S52"> what? </U>
+			<U WHO="S63"> if Peter isn't here at five-thirty, <U WHO="S52"> yeah </U> call me at Groundworks. i gotta dub something real quick but i should <OVERLAP> be back before then. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> what d- wh- what do i </OVERLAP> look like calling you? </U>
+			<U WHO="S63"> unless you don't want to go home. </U>
+			<U WHO="S52"> see that th- the lower calls the higher. you call me. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> (xx) </U>
+			<U WHO="S52"> say what? what'd you say? </U>
+			<U WHO="S48"> (you don't tell people) Laith's (stupid) </U>
+			<U WHO="S52"> Laith? yeah </U>
+			<U WHO="S48"> Laith (xx) </U>
+			<U WHO="S52"> he he kinda has. <U WHO="S48"> Laith's (xx) </U> you know he graduated from uh, music school. </U>
+			<U WHO="S48"> yeah </U>
+			<U WHO="S52"> his father, <U WHO="S48"><OVERLAP> a professor </OVERLAP><EVENT DESC="LAUGH"/></U><OVERLAP> is a professor </OVERLAP> i found that out, i was like man </U>
+			<U WHO="S70"> just wanted to return this. </U>
+			<U WHO="S48"> thanks. <OVERLAP> (xx) there's some books back there by his dad you know. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> no cuz he uh he wrote, he wrote a book. yeah. </OVERLAP> i gotta take i gotta use one of his books, for one of my classes. i was like man i was asking Laith you know any of this stuff? and he's like </U>
+			<U WHO="S48"> i gotta start reading my mom's book. <OVERLAP> she like </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> what's_ </OVERLAP> your mom wrote a book? </U>
+			<U WHO="S48"> yeah she like gave it to me at Easter i still haven't read it. i started it the other day but then i, didn't have time to read it. </U>
+			<U WHO="S52"> what it is uh, what is it about? what's it <OVERLAP> for? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> it's, </OVERLAP> hard to explain it's like a, <U WHO="S52"> MICASE, mm, </U> it's like a compiled um, women's guide to spiritual gifts. <OVERLAP> (xx) </OVERLAP><U WHO="S52"><OVERLAP> really </OVERLAP></U> like from, (xx) you know where there all listed and stuff, cuz she has all sorts of stuff, it's really cool i mean (xx) everybody (xx) helpful (xx) like specifically women but, i don't know she just uses that all women illustration stuff (xx) </U>
+			<U WHO="S52"> huh... nah. <PAUSE DUR=":13"/> region? Midwest baby. bow <PAUSE DUR=":11"/> major <PAUSE DUR=":11"/> third year bio... (type or position of employment) (xx) okay. why not, that makes sense. (xx) <PAUSE DUR=":08"/> (this side) </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S68"> what's going on <OVERLAP> (there) </OVERLAP><U WHO="S52"><OVERLAP> what's up </OVERLAP></U> uh can i try this one? <OVERLAP> uh </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> right here, </OVERLAP> uh obviously you didn't like the book huh? </U>
+			<U WHO="S68"> yeah this one didn't have what i needed. (xx) </U>
+			<U WHO="S52"> (tau) sixteen-eight, K-three-six-two-one. alright. (now) <PAUSE DUR=":11"/> okay three-six-two-one. <PAUSE DUR=":11"/> tau tau tau seventeen (xx) <PAUSE DUR=":15"/> think this is right <PAUSE DUR=":12"/> look at me look at me, okay hopefully this is right. <PAUSE DUR=":05"/> what's your name James? </U>
+			<U WHO="S68"> yeah </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S52"><EVENT WHO="S68" DESC="OFFERS CARD"/> i don't need it. </U>
+			<U WHO="S68"> okay </U>
+			<U WHO="S52"> twenty-five... kay </U>
+			<U WHO="S68"> when's that due? </U>
+			<U WHO="S52"> six fifty-seven </U>
+			<U WHO="S68"> alright <OVERLAP> thanks a lot </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> yeah </OVERLAP><PAUSE DUR=":04"/> wow. time <OVERLAP> is moving man </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> should holy c- should holy </OVERLAP> city capitalized? </U>
+			<U WHO="S52"> holy city? that's not the name of it. </U>
+			<U WHO="S48"> the holy city of Jerusalem. </U>
+			<U WHO="S52"> well Jerusalem is the name of it. </U>
+			<U WHO="S48"> (but isn't) the whole thing a title sort of? it's referred that so much. </U>
+			<U WHO="S52"> what the holy city? </U>
+			<U WHO="S48"> the holy city </U>
+			<U WHO="S52"> well you could capitalize it, the holy city. <U WHO="S48"><OVERLAP> (xx) question </OVERLAP></U><OVERLAP> but you don't have to. </OVERLAP> cuz like if you put_ does he have Jerusalem there too? </U>
+			<U WHO="S48"> yeah holy city of Jerusalem. </U>
+			<U WHO="S52"> or does he just say the holy city? </U>
+			<U WHO="S48"> well, <U WHO="S52"> what is it? </U> it kinda ch- interchanges_ the holy city of Jerusalem got (the strip) a holy city, that's not capitalized. <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> 'm'm. cuz if he says </OVERLAP> the holy city, <U WHO="S48"> that's capitalized </U> and don't say the of Jerusalem, i'd probably say yeah, you know, but if it's just </U>
+			<U WHO="S48"> it's_ having it not capitalized like, holy city of Jerusalem is sort of like describing it as that but it's, not original you know, it's not like just an adjective it's like th- sort of a title of it, but you know, so i don't know. </U>
+			<U WHO="S52"> the holy city of Ann Arbor. <EVENT WHO="S48" DESC="LAUGH"/> the holy city of, Detroit. </U>
+			<U WHO="S48"><EVENT DESC="LAUGH"/> (which) is not exactly the same. <U WHO="S52"> but </U> cuz this is like, different to that. <U WHO="S52"> as the holy city? </U> i'll just put it in as a question i'm sure he knows since he's </U>
+			<U WHO="S52"> you're just trying to f- trying to give him a hard time. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> actually most of my comments in here are not (xx) <U WHO="S52"> oh really? </U> (this is) a really good paper. <U WHO="S52"> wow </U> i was just confused as to why he felt (comforted when he's telling) the story about, going back there and seeing all this like army stuff and <OVERLAP> he felt before i was like </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> what is he? is he Palestinian, </OVERLAP> or, or Jewish? </U>
+			<U WHO="S48"> i think he's Jewish. <U WHO="S52"> oh <OVERLAP> okay </OVERLAP></U><OVERLAP> that's </OVERLAP> the impression i get but, <U WHO="S52"> so like </U> cuz he seems to sort of side with the Jewish idea here <OVERLAP> but, </OVERLAP><U WHO="S52"><OVERLAP> just </OVERLAP> a little bit. </U> i don't know. see that's (what) i need more explanation (xx) </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S52"> oh i was, i was thinking, i saw some activity going on, i was like, like th- they're getting restless. like like like like let's go let's go eat lunch now, you know. <EVENT WHO="S48" DESC="LAUGH"/> i mean <OVERLAP> dinner. </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> (xx) you just like started </OVERLAP> speaking some other language. <EVENT WHO="S52" DESC="LAUGH"/> i suppose you could learn Russian. <OVERLAP> Latin? </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"><OVERLAP> i wonder </OVERLAP> did Alina, did she do any of that kinda stuff? </U>
+			<U WHO="S48"> no but <OVERLAP> i don't know you wouldn't be able </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> but they don't want </OVERLAP> any Russian or Latin they want English. </U>
+			<U WHO="S48"> i know it's (xx) but her accent's so heavy (xx) <U WHO="S52"> yeah <OVERLAP> yeah </OVERLAP></U><OVERLAP> i mean it's </OVERLAP> not a heavy accent it's just she's sort of (xx) </U>
+			<U WHO="S52"> she's kind of lazy with her uh, <U WHO="S48"> yeah </U> i mean cuz sh- she doesn't finish sentences, <U WHO="S48"> mhm </U> you know, she just says stuff. it's funny. </U>
+			<U WHO="S48"> i don't like this (xx) complain about anybody else's <OVERLAP> (xx) </OVERLAP><U WHO="S52"><OVERLAP> you don't what? </OVERLAP></U> (xx) <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> i've nev- please, </OVERLAP><U WHO="S48"> so irritating (xx) </U> who in the world </U>
+			<U WHO="S48"> hear it on the tape (xx) </U>
+			<U WHO="S52"> b- i can't say the same, but, l- <EVENT WHO="S48" DESC="LAUGH"/> why would you, no you know what i'm saying why would you? </U>
+			<U WHO="S48"> cuz it's annoying it's just, <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> you annoy your own self? </OVERLAP></U>
+			<U WHO="S48"> yeah it sounds so dumb </U>
+			<U WHO="S52"> like people that people that talk like this, waa waa (xx) that kind of talk. you know some people got voices like those nasal voices. that would be annoying. <EVENT WHO="S48" DESC="LAUGH"/> but other than that, you know </U>
+			<U WHO="S48"> my brother always used to say i sound like Candice um, <OVERLAP> Bergen is that her name? yeah. </OVERLAP><U WHO="S52"><OVERLAP> Candice Bergen yeah </OVERLAP></U> and when i was little too like he always (xx) no, inflection in my voice. </U>
+			<U WHO="S52"> no inflection. <EVENT WHO="S48" DESC="LAUGH"/> oh so, so is that why you're, taking writing classes? <OVERLAP> so do do you </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> yeah so i can </OVERLAP> improve the t- quality of my <OVERLAP> voice. </OVERLAP><EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S52"><OVERLAP> your inflection. </OVERLAP> you was like if i can <OVERLAP> write in- </OVERLAP><U WHO="S48"><OVERLAP> sound </OVERLAP> better on paper </U> if i can write inflection, then maybe i can talk inflection. (that was) it's possible <PAUSE DUR=":04"/> like we're halfway through this semester, you know? <U WHO="S48"> mhm </U> almost, kinda. so, i need to get it together. it's like <PAUSE DUR=":04"/> i got some ch- i got some chocolate chip cookies in the, in my uh, in my uh my backpack you want some? </U>
+			<U WHO="S48"> (yes) </U>
+			<U WHO="S52"> see i'm, <U WHO="S48"> i'm very hungry </U> it's like my computer, (xx) oh they're turning off they're tearing down. <PAUSE DUR=":04"/> and i need to print this too. see now i can really just, act crazy. Varina knows she_ oh whoa <PAUSE DUR=":04"/> see Varina knows that they're actually, taping this to see how their student employees, <OVERLAP> conduct themselves. </OVERLAP><U WHO="S48"><EVENT DESC="LAUGH"/><OVERLAP> mhm this is all Varina's </OVERLAP> idea <OVERLAP> isn't it? </OVERLAP><EVENT DESC="LAUGH"/></U><OVERLAP> oh yeah. </OVERLAP> you already know. she was just so she can look at the tapes tomorrow oh he was talking about cookies? oh really? <OVERLAP> in his backpack? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> so much </OVERLAP> for that idea about you know subtle security. </U>
+			<U WHO="S52"> you know what i'm saying? cuz see if this works, pretty well, then they're gonna have 'em in each of the com- sections you know. well they got cameras over there anyway. <EVENT DESC="LAUGH"/></U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S48"> in her office she's got a whole wall full of like, <OVERLAP> monitors (for all the cameras) </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"><OVERLAP> yeah. oh </OVERLAP> that'd be cool. i'd be her friend. </U>
+			<U WHO="S48"><EVENT DESC="LAUGH"/> you better be her friend. </U>
+			<U WHO="S52"> hey you know. <PAUSE DUR=":06"/> tell you the truth, i wouldn't mind getting a nap you know. <PAUSE DUR=":04"/> (five eight...) call numbers <PAUSE DUR=":17"/> oh check it out, <EVENT DESC="LAUGH"/><EVENT WHO="S48" DESC="LAUGH"/> (this) sucker ain't working. <EVENT WHO="S48" DESC="LAUGH"/></U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S48"> maybe i should steal those, nice little </U>
+			<U WHO="S52"> the little balls? </U>
+			<U WHO="S48"> mhm </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S52"> see, i guess i w- (this) was moving around so much... oh it's still stuck. <PAUSE DUR=":07"/><OVERLAP> oh well </OVERLAP><U WHO="S48"><OVERLAP> (xx) </OVERLAP></U> you all leaving? </U>
+			<U WHO="R2"> uh, i think we're pretty close to packing up </U>
+			<U WHO="S52"> pretty close to packing up? </U>
+			<U WHO="S48"> (xx) </U>
+			<U WHO="S52"> hey i i do that. <EVENT WHO="S48" DESC="LAUGH"/> i_ do i do that to you? </U>
+			<U WHO="S48"> say, you say when am i leaving? seven. seven? <U WHO="S52"> seven? </U><EVENT WHO="SS" DESC="LAUGH"/> when are you leaving? five-thirty. five-thirty? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S52"> five-thirty? <EVENT DESC="LAUGH"/></U>
+			<U WHO="S48"> when are you leaving? when am i leaving? yeah, when are you leaving? <EVENT DESC="LAUGH"/><OVERLAP> five-thirty. five-thirty? </OVERLAP><EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"><OVERLAP> but you know, </OVERLAP> but you know what, it's not all the time, just some of the <OVERLAP> time </OVERLAP><U WHO="S48"><OVERLAP> it's not </OVERLAP> every sentence </U> yeah just on little stuff. see that's little stuff, <EVENT WHO="S48" DESC="LAUGH"/> get outta here. <EVENT DESC="LAUGH"/> you paying me too much attention. <EVENT WHO="S48" DESC="LAUGH"/> whenever you get to know me that well, i was like oh man... people are out observing, Joe Pin. </U>
+			<U WHO="S48"> i just observe, (xx) </U>
+			<U WHO="S52"> no no that's cool to observe. <PAUSE DUR=":05"/> it's like, she has </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S48"> i had to defend, getting a good grade in (xx) it was pathetic. </U>
+			<U WHO="S52"> i wanted to_ you what? </U>
+			<U WHO="S48"> (hate that) </U>
+			<U WHO="S52"> what? </U>
+			<U WHO="S48"> defend getting a good grade. </U>
+			<U WHO="S52"> what you <OVERLAP> mean? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> (xx) </OVERLAP> thing </U>
+			<U WHO="S52"> what do you mean defend? you got a good grade and you have to prove why? </U>
+			<U WHO="S48"> i just had to_ i mean people like, you know </U>
+			<U WHO="S52"> oh the other students? </U>
+			<U WHO="S48"> yeah (xx) <OVERLAP> (xx) </OVERLAP><U WHO="S52"><OVERLAP> to other students? </OVERLAP></U> yeah. </U>
+			<U WHO="S52"> that's why you don't <OVERLAP> show 'em </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> this guy who </OVERLAP> like didn't, come to class and, <U WHO="S52"> (yeah me) </U> and he got he still got like a B and he was just like oh i expected better (xx) and was like what did you do? i was like, (good.) <EVENT DESC="LAUGH"/> i didn't want to tell i got a hundred-and-seven-point-five. <U WHO="S52"><OVERLAP> out of a hundred </OVERLAP></U><OVERLAP> (i was like) good and, </OVERLAP> then he's like, <U WHO="S52"><OVERLAP> i mean how's my computer </OVERLAP></U><OVERLAP> you dork </OVERLAP> i was like thanks. <U WHO="S52"> how's my <OVERLAP> computer </OVERLAP></U><OVERLAP> i just </OVERLAP> came to class. never had (xx) </U>
+			<U WHO="S52"> oh cuz he_ cuz you came to class. and <OVERLAP> he didn't. </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> (xx) </OVERLAP> (xx) </U>
+			<U WHO="S52"> check my voice mail </U>
+			<U WHO="S48"> oh </U>
+			<U WHO="S52"> you know those are Al- yeah, those are Alina's keys... i'm not that uh <PAUSE DUR=":04"/> wow i got five new messages. ooh. and they probably <EVENT DESC="LAUGH"/> watch 'em all be the same person. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S48"> it's Varina. Joe, you needed to send me an email. </U>
+			<U WHO="S52"> i didn't hear <OVERLAP> this message. </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> hi </OVERLAP></U>
+			<U WHO="S71"> hi i was just trying to check out a book (xx) </U>
+			<U WHO="S48"> oh okay. (xx) </U>
+			<U WHO="S52"> what is it? </U>
+			<U WHO="S48"> she said her, um </U>
+			<U WHO="S52"> my computer's not working. </U>
+			<U WHO="S48"> her account is inactive she doesn't know why. </U>
+			<U WHO="S52"> okay </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="S52"> you know you could do some of this stuff. just checking to see why accounts are inactive. <OVERLAP> it could it could just be simple stuff. </OVERLAP></U>
+			<U WHO="S71"><OVERLAP> (but) what i really need to know is </OVERLAP> how i can make it active again. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"> we'll find out. let's see. which account do you use? <U WHO="S71"><OVERLAP> um </OVERLAP></U><OVERLAP> which </OVERLAP> account are you using? </U>
+			<U WHO="S71"> should be a student, a graduate student </U>
+			<U WHO="S52"> are you a uh, like a, G-E-O or something? or <OVERLAP> G-S-I? </OVERLAP></U>
+			<U WHO="S71"><OVERLAP> not right now, </OVERLAP><U WHO="S52"><OVERLAP> not right n- </OVERLAP></U> not this term. </U>
+			<U WHO="S52"> okay. cuz see both of 'em are inactive and i'm trying to figure out which one i'm supposed to be looking at. okay i'll look at the first one then... whoa. let's see. (V...) three. let me see let me see let me see. eleven, no. no. what's today's day? it looks like the only thing_ <OVERLAP> are you </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> do you want a </OVERLAP> banana Joe? </U>
+			<U WHO="S71"> twenty-fifth </U>
+			<U WHO="S52"> i don't know where's it been? are you, </U>
+			<U WHO="S48"> up on the desk i don't know </U>
+			<U WHO="S52"> are you currently taking classes? or </U>
+			<U WHO="S71"> no i don't have any classes this term. </U>
+			<U WHO="S52"> are you registered? </U>
+			<U WHO="S71"> um, no but i'm gonna be. i was registered for the summer <OVERLAP> and </OVERLAP><U WHO="S52"><OVERLAP> that </OVERLAP></U> i'm gonna be registered for the </U>
+			<U WHO="S52"> is why your account is inactive. </U>
+			<U WHO="S71"> well i am a graduate student (xx) </U>
+			<U WHO="S52"> well what are you doing right now though? </U>
+			<U WHO="S71"> right now i'm writing my dissertation (xx) </U>
+			<U WHO="S52"> that should do_ that should be something, but let's see i'm trying to think. do you have any, anything from your department with you or, <U WHO="S71"> um </U> cuz typically how it is is, um, usually if you're not like registered for a class after a certain day your ac- library account expires. </U>
+			<U WHO="S71"> i thought that they would like send me a message or something </U>
+			<U WHO="S52"> no it just does it automatically. </U>
+			<U WHO="S71"> (oh boy,) (yeah well) this is for my, so if i bring you <OVERLAP> something from my department, </OVERLAP><U WHO="S52"><OVERLAP> i hate that </OVERLAP> question. </U> if i bring you like a letter from my department that says i exist then, <U WHO="S52"> uh </U> that would do it? is that what you're saying? </U>
+			<U WHO="S52"> yeah that's fine. i guess. um, it's just policy. what i'm gonna do_ what i mean what are you d- what are you trying to do right now? </U>
+			<U WHO="S71"> i'm just trying to check a couple books out. </U>
+			<U WHO="S52"> turn 'em in? </U>
+			<U WHO="S71"> check them out. </U>
+			<U WHO="S52"> check them out. okay. i'm gonna do something i'm gonna just go ahead and, make it active for today. <U WHO="S71"> okay </U> but like you might want to grab something for the <OVERLAP> so the next time. </OVERLAP><U WHO="S71"><OVERLAP> (i will) do that. </OVERLAP></U> the reason why i say that about the, printer question, is cuz like, they all supposed to be working, you know what i'm saying? but look. where am i? </U>
+			<U WHO="S71"> (do you have my) card? </U>
+			<U WHO="S52"> i do. </U>
+			<U WHO="S71"> just checking </U>
+			<U WHO="S52"><PAUSE DUR=":04"/> i wouldn't (tell on her.) <EVENT WHO="S48" DESC="LAUGH"/> okay you can you can check out books now. <U WHO="S71"> thank you </U> for today. </U>
+			<U WHO="S71"> downstairs? </U>
+			<U WHO="S52"> downstairs up here, you know. </U>
+			<U WHO="S71"> well as long as i'm here. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S52"> yep, now what is wrong with <OVERLAP> this compu- </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> is this still on her? </OVERLAP></U>
+			<U WHO="S52"> yeah <PAUSE DUR=":08"/> (xx) <PAUSE DUR=":06"/><EVENT DESC="SINGING"/> (xx) </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S48"> um, so, that's two items instead of uh </U>
+			<U WHO="S52"> okay, so make sure you see two items. </U>
+			<U WHO="S48"> oh no (it's) not here (it) just um, <U WHO="S52"> well re- </U> took it off the </U>
+			<U WHO="S52"> what did you do? </U>
+			<U WHO="S48"> it just, beeped off <OVERLAP> of the (mousepad) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> have you checked </OVERLAP> have you checked out anything yet? </U>
+			<U WHO="S48"> no </U>
+			<U WHO="S52"> okay well just, scan it. (xx) <U WHO="S48"><OVERLAP> it says there's an incorrect </OVERLAP></U><OVERLAP> don't_ that's, that's </OVERLAP> just little stuff. i mean it does that sometimes. </U>
+			<U WHO="S48"> it doesn't usually say has two items. </U>
+			<U WHO="S52"> well you know. you got little electrons running around in the system, <OVERLAP> and an electron might, </OVERLAP><U WHO="S48"><OVERLAP> oh yeah (right) explain </OVERLAP> to me Joe <EVENT DESC="LAUGH"/></U> no really. electron might, decide hey i wanna be a, a two item, barcode today. <U WHO="S48"> mm </U> i'm telling you. most kinda interference and stuff, <U WHO="S48"> yeah it's just electrons being <OVERLAP> annoying. </OVERLAP></U><OVERLAP> just </OVERLAP> i mean that's what it is. <PAUSE DUR=":21"/> i think i'm gonna just turn my computer off and turn it back on. see what happens. <PAUSE DUR=":06"/> well hello. </U>
+			<U WHO="S72"><OVERLAP> (how are you?) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> how are you? </OVERLAP> i'm doing, great. </U>
+			<U WHO="S72"> (is) (xx) (here?) </U>
+			<U WHO="S52"> haven't seen him, i think what he said was, you know i need a longer break, i think i'll get here about ten. </U>
+			<U WHO="S72"> (xx) </U>
+			<U WHO="S52"> no <EVENT DESC="LAUGH"/></U>
+			<U WHO="S73"> no um, can you guys sign out headphones? am i allowed to do that? <U WHO="S52"><OVERLAP> yes </OVERLAP></U><OVERLAP> can </OVERLAP> i have a, set? </U>
+			<U WHO="S52"> i'm, i'm gonna shut this down. </U>
+			<U WHO="S48"> were these just in the, thing, Joe? </U>
+			<U WHO="S52"><OVERLAP> yes </OVERLAP></U>
+			<U WHO="S73"><OVERLAP> you don't </OVERLAP> you don't have to be an engineering student to log on to these computers do you? </U>
+			<U WHO="S52"> uh, no </U>
+			<U WHO="S73"> i didn't think so okay good. just making sure. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S52"> (whoa...) (where's the) barcode...? these are funky ain't they? <PAUSE DUR=":04"/> now but if you have problems, with the computers, <U WHO="S73"> yeah </U> um you wanna, go to the CAEN office. so if you like go to the computers and have a problem, you will want to go to the CAEN office, and <OVERLAP> ask, </OVERLAP><U WHO="S73"><OVERLAP> oh </OVERLAP> yeah </U> talk to them. </U>
+			<U WHO="S73"> that's what i'm worried about cuz, i think the computers here all_ you_ they don't_ you don't have to have a CAEN account though i don't think. <U WHO="S52"> uh </U> i think i heard somewhere that you might. </U>
+			<U WHO="S52"> yeah, just go try it first and see what <OVERLAP> happens. </OVERLAP><U WHO="S73"><OVERLAP> yeah </OVERLAP></U> okay, see your I-D? ba ba. hope it works. </U>
+			<U WHO="S73"> it never does this card sucks. </U>
+			<U WHO="S52"> it's probably the scanner more than the card. or a combination. </U>
+			<U WHO="S73"><EVENT WHO="S74" DESC="LAUGH"/> they said i need to go get a new one cuz the back is worn off. </U>
+			<U WHO="S52"> you want to? you know you can get it for free <OVERLAP> right? </OVERLAP></U>
+			<U WHO="S73"><OVERLAP> yeah. </OVERLAP> right. if i have one. </U>
+			<U WHO="S52"> wow, i'll do that in a minute. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S73"> no way. that's awesome. <U WHO="S52"> what? </U> i'll take one of those. </U>
+			<U WHO="S52"> take one of what? </U>
+			<U WHO="S73"> those... i didn't even know that you had the, you could do that. </U>
+			<U WHO="S52"> uh you can't. <PAUSE DUR=":07"/> yeah, if if we think, that you need another card <PAUSE DUR=":04"/> J E F, there you go. </U>
+			<U WHO="S73"> thanks a lot. </U>
+			<U WHO="S52"> and this is due, at nine-fourteen. can you remember that? </U>
+			<U WHO="S73"> i can remember that. </U>
+			<U WHO="S52"> alright </U>
+			<U WHO="S73"> thanks a lot. </U>
+			<U WHO="S52"> yup. okay. <OVERLAP> hi </OVERLAP></U>
+			<U WHO="S74"> um i need to get a book that's reserved, i don't have the call number i just know the title it's (xx) </U>
+			<U WHO="S52"> is it for a class? </U>
+			<U WHO="S74"> yeah </U>
+			<U WHO="S52"> what class? </U>
+			<U WHO="S74"> um I-O-E two-oh-one. </U>
+			<U WHO="S52"> two-oh-one? </U>
+			<U WHO="S48"> (what's the sheet when you work?) </U>
+			<U WHO="S52"> uh you tell me. come on tell me. you forgot? </U>
+			<U WHO="S48"> i know there is one. i've seen it. </U>
+			<U WHO="S52"> but you forgot. on the two-thirteen, um, in the back where it says reserve processing that sheet. I-O-E two-oh-one? <OVERLAP> what's the </OVERLAP><U WHO="S74"><OVERLAP> mhm </OVERLAP></U> name of the book? </U>
+			<U WHO="S75"> um Engineering_ it's by Sullivan. </U>
+			<U WHO="S52"> okay check it out, we have uh, all of our courses that we have reserve books, are in these binders. you know so the next time, just to make it easier on yourself. just come here, open it up, boom Engineering Economics Sullivan. <OVERLAP> okay? </OVERLAP><U WHO="S74"><OVERLAP> okay </OVERLAP></U> P-C sixty-two. <PAUSE DUR=":12"/> see your card. </U>
+			<U WHO="S48"> (oh i'm not gonna go skiing) <OVERLAP> this one? </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> we'll do something_ </OVERLAP> yeah </U>
+			<U WHO="S48"> (just that goes on the book?) </U>
+			<U WHO="S52"> wait a minute wait a minute. this is what you was asking about right? for reserves? </U>
+			<U WHO="S48"> just the information we need to put it in there. she's just <OVERLAP> giving this to, </OVERLAP><U WHO="S52"><OVERLAP> what is this? </OVERLAP></U> be put on reserve. </U>
+			<U WHO="S75"><OVERLAP> i </OVERLAP><U WHO="S52"><OVERLAP> he </OVERLAP></U> wanted to <U WHO="S52"><OVERLAP> wh- </OVERLAP></U><OVERLAP> scan </OVERLAP> it. </U>
+			<U WHO="S52"> you want it scanned <U WHO="S74"><OVERLAP> yeah </OVERLAP></U><OVERLAP> and </OVERLAP> that's it? <U WHO="S52"> yeah that's it </U> not put on_ <U WHO="S74"> no </U> okay. see see that's one thing, when they bring these ask 'em if they want it scanned or put on, P-Cs like reserve. <U WHO="S48"><OVERLAP> okay </OVERLAP></U><OVERLAP> he </OVERLAP> just wanted it scanned so just put <OVERLAP> scan </OVERLAP><U WHO="S48"><OVERLAP> so </OVERLAP></U> only and drop it in the <U WHO="S48"><OVERLAP> that's it? </OVERLAP></U><OVERLAP> back. </OVERLAP><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> okay </OVERLAP></U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S52"><EVENT DESC="LAUGH"/> you need a new card. <EVENT DESC="LAUGH"/></U>
+			<EVENT WHO="S74" DESC="LAUGH"/>
+			<U WHO="S48"> so i just put this back there with the reserve anyway? </U>
+			<U WHO="S52"> you know where the, you know where the uh, no you put 'em in the scan bin, in the back. </U>
+			<U WHO="S48"> oh s- oh okay </U>
+			<U WHO="S52"> yeah make sure both of 'em are marked to be scanned okay scan only, okay. <PAUSE DUR=":14"/> (xx) <PAUSE DUR=":06"/> (xx) okay... there you go. <PAUSE DUR=":10"/> hey can you see if this is rebooted...? hey Laura </U>
+			<U WHO="S48"><OVERLAP> what? </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> can </OVERLAP> you see if this c- computer has r- turned back on? </U>
+			<U WHO="S48"> what, <OVERLAP> just </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> um </OVERLAP> has rebooted. is it on down there? okay. it's <PAUSE DUR=":10"/> okay this is due back at n- seven seventeen. </U>
+			<U WHO="S74"> okay </U>
+			<U WHO="S52"> and here's a uh slip to get a new card, from uh, registrar down there. </U>
+			<U WHO="S74"><EVENT DESC="LAUGH"/> okay </U>
+			<U WHO="S52"> okay? <OVERLAP> you want uh, pay a fine? </OVERLAP><U WHO="S76"><OVERLAP> to pay a, to pay a </OVERLAP></U></U>
+			<U WHO="S76"> yeah <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> okay </OVERLAP><PAUSE DUR=":16"/> which account do you use right now the G-E-O account? </U>
+			<U WHO="S76"> yeah </U>
+			<U WHO="S52"> (xx?) hm... is it this fine right here? <OVERLAP> this four dollar? </OVERLAP><U WHO="S76"> yes, the_ yeah </U> okay. there you go. </U>
+			<U WHO="S76"> so <OVERLAP> i see </OVERLAP><U WHO="S52"><OVERLAP> paid </OVERLAP></U> you have to pay right? for the </U>
+			<U WHO="S52"> say what? </U>
+			<U WHO="S52"> G G-O G-E-O account? </U>
+			<U WHO="S52"> um, why did it charge? how long have you had this G-E-O account? </U>
+			<U WHO="S76"> oh, for a while. </U>
+			<U WHO="S52"> for a while? well i can look into this first, if you want me to. <PAUSE DUR=":33"/> (xx...) (why is this doing) (xx...) (xx...) (return to) <PAUSE DUR=":06"/> ten twenty forty to ten twenty forty, oh, was this a reserve book? </U>
+			<U WHO="S76"> yeah </U>
+			<U WHO="S52"> okay w- um they do get fined. <U WHO="S76"> okay </U> even on the G-E-O account. okay? </U>
+			<U WHO="S77"> i've got one of those uh, disks like you gave that girl, like stuck in my computer, and it won't come out of the A drive. </U>
+			<U WHO="S48"> is it a Mac? </U>
+			<U WHO="S77"> no </U>
+			<U WHO="S48"> it's a P-C? </U>
+			<U WHO="S77"> yeah </U>
+			<U WHO="S48"> um why don't you ask CAEN? </U>
+			<U WHO="S77"> they're closed. </U>
+			<U WHO="S48"> they're closed? </U>
+			<U WHO="S52"> oh <OVERLAP> wow </OVERLAP></U>
+			<U WHO="S77"><OVERLAP> do you </OVERLAP> have like uh, tweezers or something? i can try to pry it out of there. </U>
+			<U WHO="S52"> try giving him a uh, paperclip. </U>
+			<U WHO="S48"> paperclip? </U>
+			<U WHO="S52"> yeah. <U WHO="S48"><OVERLAP> okay </OVERLAP></U><OVERLAP> what </OVERLAP> is it on? what is it in? a P-C? </U>
+			<U WHO="S77"> yeah </U>
+			<U WHO="S48"> (that's long) if you wanna try that i don't know </U>
+			<U WHO="S52"> P-C </U>
+			<U WHO="S77"> i mean it's just gonna slip right off <OVERLAP> of there. </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> wait a minute </OVERLAP> a P-C? hm i'm not familiar. we use Macs. </U>
+			<U WHO="S77"><OVERLAP> (well Mac you you can't use it here) </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> Macs you have to trash the </OVERLAP> disk to get it out but P-Cs should have a thing. </U>
+			<U WHO="S77"> yeah <U WHO="S52"> yeah </U> it doesn't work. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S76"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S52"> ooh </U>
+			<U WHO="S77"><OVERLAP> yeah exactly. </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> so, it's </OVERLAP> really stuck. </U>
+			<U WHO="S52"> hm, i don't think we'd be able to do anything. um, </U>
+			<U WHO="S76"> you could reboot it. </U>
+			<U WHO="S52"> lemme lemme ask back there in back. </U>
+			<U WHO="S78"> excuse me <OVERLAP> you don't have a stapler like behind the desk that i could use? </OVERLAP></U>
+			<U WHO="S77"><OVERLAP> no it won't, i need the disk to get out, so i can get off the damn computer (xx) </OVERLAP></U>
+			<U WHO="S76"> when you reboot it it should go out. reboot it again. </U>
+			<U WHO="S77"> the disk'll pop out? </U>
+			<U WHO="S76"> i think, i think for the Mac it it pop out. </U>
+			<U WHO="S77"> how does it pop out by itself though? </U>
+			<U WHO="S48"> for Macs <OVERLAP> you have to </OVERLAP></U>
+			<U WHO="S75"><OVERLAP> for Macs it pop out </OVERLAP></U>
+			<U WHO="S77"> i i'm not on a Mac i'm, i'm on a P-C. </U>
+			<U WHO="S48"> yeah P-Cs always have a button. </U>
+			<U WHO="S77"> yeah, and the button doesn't work. </U>
+			<U WHO="S48"> is it like there's something wrong with the button <OVERLAP> or just like it (xx) </OVERLAP></U>
+			<U WHO="S77"><OVERLAP> yeah, yeah th- and it won't even read my </OVERLAP> A drive like the whole drive is screwed up and there wasn't a note on it that said don't use it. </U>
+			<U WHO="S48"> uhuh </U>
+			<U WHO="S77"> yeah </U>
+			<U WHO="S48"> CAEN's closed, i mean <OVERLAP> we can </OVERLAP></U>
+			<U WHO="S77"><OVERLAP> you don't have </OVERLAP> any tools or anything, that i could, use? <U WHO="S48"> not <OVERLAP> really </OVERLAP></U><OVERLAP> pliers </OVERLAP> or something? <OVERLAP> needlenose pliers? </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> here's your change and uh, your account has been cleared, okay? </OVERLAP></U>
+			<U WHO="S48"><OVERLAP> no, (xx) scissors and that's not gonna help but </OVERLAP></U>
+			<U WHO="S52"> uh, P-C P-C </U>
+			<U WHO="S77"> do you know anywhere where i could get tools? <EVENT DESC="LAUGH"/><OVERLAP> pliers...? </OVERLAP><U WHO="S52"><OVERLAP> no we don't </OVERLAP></U> needlenose? </U>
+			<U WHO="S52"> these people are all gone. we i mean we have people that like, do work around the building, but they leave at four. um, <U WHO="S77"><OVERLAP> sure </OVERLAP></U><OVERLAP> and </OVERLAP> i can't believe CAEN closed. uh, and so wait a minute you tried rebooting, the computer? </U>
+			<U WHO="S77"> no </U>
+			<U WHO="S52"> you sh- is your stuff saved? is it </U>
+			<U WHO="S77"> it's all on a disk and i was trying to read it, <U WHO="S52"> but is it saved on the </U> it won't <OVERLAP> read on the disk </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> oh you're just trying </OVERLAP> to read something off the disk? </U>
+			<U WHO="S77"> yeah, and now it's stuck in there, and it won't come out. cuz the button's broke... <EVENT DESC="LAUGH"/> if you can believe all that. </U>
+			<U WHO="S52"> man to tell you the truth i don't know what to tell you man. uh <PAUSE DUR=":06"/> who's back there? just Danielle or somebody? </U>
+			<U WHO="S48"> i don't know </U>
+			<U WHO="SU-f"> uh Lona's back there </U>
+			<U WHO="S52"> who? who? Lona? <PAUSE DUR=":12"/> hey y'all don't know, excuse me, y'all don't know any special trick to um, get a disk out of a P-C do you? like i know about the Macs but not the P- cuz the you know that the P-Cs have the little button, and like if you put a disk in there and it's just the button don't even work. so </U>
+			<U WHO="S79"> no i don't cuz, i never work with the P-Cs <U WHO="S52"> yeah </U> Zip disk (xx) CAEN, (xx) </U>
+			<U WHO="S52"> they're closed </U>
+			<U WHO="S79"> closed? </U>
+			<U WHO="S52"> he went over there maybe they're m- maybe they're closed for a business meeting i don't know. </U>
+			<U WHO="S79"> yeah but they sh- </U>
+			<U WHO="S52"> well he went over there and </U>
+			<U WHO="S79"> yeah. i don't know (xx) </U>
+			<U WHO="S52"> you think they might know something? <U WHO="S79"><OVERLAP> yep </OVERLAP></U><OVERLAP> a </OVERLAP> trick? </U>
+			<U WHO="S79"> yeah because they might uh, work on P-C <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S52"><OVERLAP> uh </OVERLAP> maybe. i'll send him over anybody any- get him away from us. <EVENT DESC="LAUGH"/></U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

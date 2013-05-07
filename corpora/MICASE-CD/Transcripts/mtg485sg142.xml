@@ -1,0 +1,418 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="mtg485sg142">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Physics Research Group Meeting </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> MTG485SG142 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="41">
+						<DATE> March 16, 2001 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Amy Burke </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Sheryl Leicher, Rita Simpson </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 1/14/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="8"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="8"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Advisor" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NNS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Conference Room, West Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> abso- abs- absolutely. <U WHO="S2"><OVERLAP> so they don't </OVERLAP></U><OVERLAP> (after all) </OVERLAP> we've got you've got some other device tha- working on this thing which is why we need the I-S-A slot to begin with <OVERLAP> and (then it wouldn't be that bad) </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> so, so the the </OVERLAP> important things (Rose) was gonna be big monitor, cuz we were gonna bring (the little) monitor upstairs, so like nineteen inch, <U WHO="S1"> okay </U> instead of fifteen, seventeen. and, a big hard drive so we don't run out. and maybe, s- Matt had mentioned putting the Zip drive on. </U>
+			<U WHO="S6"> are you replacing the one that <U WHO="S2"><OVERLAP> i don't </OVERLAP></U><OVERLAP> i think it </OVERLAP> was your computer? </U>
+			<U WHO="S2"> uh no this would be for the the second kilohertz computer. </U>
+			<U WHO="S3"> oh okay. </U>
+			<U WHO="S1"> i have a suggestion though if you_ instead of for a Zip drive, we don't have a lot of them, and which means that they're not too useful. i me- they're use- i they're they're useful if everybody has one and you can trade Zip disks uh but if you don't have_ if you only have one then what's it useful for? so uh if you wanna get one why don't you get an outboard one, that we can then, um, whi- which you know that they also sell them you can, <U WHO="S1"> sure </U> n- not expensive and and and that way, it can be hung off any anybody's computer if for some reason they need to have a Zip <OVERLAP> drive </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> actually </OVERLAP> there's a little problem that <U WHO="S1"><OVERLAP> (what,) yeah </OVERLAP></U><OVERLAP> SCSI </OVERLAP> connecting Zip drive there is also like a printer port connecting Zip drive but that printer port supporting on is really slow. </U>
+			<U WHO="S5"> so they they don't have U-S-B ones yet? </U>
+			<U WHO="SU-m"><OVERLAP> yeah yeah </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> are i thought they </OVERLAP> would all be U-S-B now. </U>
+			<U WHO="S4"> U-S-B? oh okay. then they probably </U>
+			<U WHO="S1"> or or this other <U WHO="S5"><OVERLAP> in fact they </OVERLAP></U><OVERLAP> protocol which </OVERLAP> i don't even know what it's called but there's a new I-triple-E, <U WHO="S4"><OVERLAP> yeah </OVERLAP></U><OVERLAP> th- </OVERLAP> thing too that the all computers </U>
+			<U WHO="SU-m"><OVERLAP> (probably) Firewire or U-S-B two </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> no actually, Lynne has a U-S-B </OVERLAP> so <OVERLAP> (that'll work) </OVERLAP><U WHO="S6"><OVERLAP> U-S-B (xx) </OVERLAP></U> um </U>
+			<U WHO="S6"> so i g- i guess we wanna look how many of our computers have U-S-Bs and as long as they're not (xx) </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S7"> those drives are also not very expensive either so we could, you know, <U WHO="SU-m"><OVERLAP> yeah </OVERLAP></U><OVERLAP> (almost) </OVERLAP> take up another one for the office up here, if we <OVERLAP> want (xx) </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> yeah i mean they're </OVERLAP> on- <OVERLAP> the internal ones </OVERLAP><U WHO="S1"><OVERLAP> that illustrates </OVERLAP></U> the internal ones are <OVERLAP> only a hundred (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no i i have nothing against Zip </OVERLAP> it's just that, one Zip drive just doesn't <OVERLAP> make (xx) </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> sure, yeah </OVERLAP></U>
+			<U WHO="S2"> the other thing i wondered about is Zip versus just rewritable C-Ds. <U WHO="S5"> mm </U> i mean that's </U>
+			<U WHO="S5"> that's, are those very fast? or </U>
+			<U WHO="S2"> well they're <U WHO="S1"><OVERLAP> th- </OVERLAP></U><OVERLAP> n- </OVERLAP> they're probably not as fast. </U>
+			<U WHO="S1"> no they're not very fast. s- but <OVERLAP> i don't know how </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> the one up here is </OVERLAP> eight times it's </U>
+			<U WHO="S1"> well um, cer- certainly any any machine that you get is gonna have, uh a a uh rewritable C-D, drive on it. because it's more u- more useful than <OVERLAP> D-V-D say </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> yeah i mean you </OVERLAP> you're (getting) choose what you want. </U>
+			<U WHO="S1"> you just choose what you want <OVERLAP> if you prefer, sorry </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> if you want ROM or re </OVERLAP> and it's like a hundred bucks more if you want to write </U>
+			<U WHO="S1"> right. um and they are, incredibly useful for for archiving. <U WHO="SU-m"> mhm </U> (we used to) end up using them, fairly regularly (for archiving data) <PAUSE DUR=":04"/> mkay, um <OVERLAP> (could we) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh </OVERLAP> and then, <U WHO="S1"> what, <OVERLAP> what? </OVERLAP></U><OVERLAP> sorry. </OVERLAP> the spectrometer's in the works. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S3"> so i'm, i'm he's, c- he's emailing me a price quote, and then i need to talk to the software guy on Monday, he's out of town. </U>
+			<U WHO="S1"> so we're gonna get a, so so so we're g- basically we're replacing the (OMA) but of course we'll still have the (OMA) <OVERLAP> so what are the </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> kay (well) what are, </OVERLAP> i was gonna say what are we replacing it with? i don't know (if we were getting there) </U>
+			<U WHO="S3"> uh, the s- S-M-two forty C-D-I spectrometer. so, it's n- it's external miniature spectrometer and then internal card, internal C-P-two card. um </U>
+			<U WHO="S6"> okay, so and does that come with a C-C-D <OVERLAP> (display?) </OVERLAP></U>
+			<U WHO="S3"> yeah, i- <U WHO="SU-m"><OVERLAP> yeah </OVERLAP></U> um, right sorry. <U WHO="S6"><OVERLAP> (xx) </OVERLAP></U><OVERLAP> the the external </OVERLAP> thing is, is everything you need <U WHO="S1"> if </U> for the (OMA) and then you don't need (xx) but you get to the computer cuz it has its own internal, cable </U>
+			<U WHO="S1"> okay <OVERLAP> so some some </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> right i'm not using </OVERLAP> the OMA though it's separate </U>
+			<U WHO="S1"> i- <U WHO="S3"> it's </U><U WHO="S6"><OVERLAP> yeah, okay </OVERLAP></U><OVERLAP> i-it w- it's completely would the OMA would </OVERLAP> be completely usable separately for a different experiment cuz it doesn't use any of the same parts <U WHO="S6"> yeah </U> in common not even the spectrometer. so, so then the question is, what are the capabilities of the new thing? so for example, how far out in the I-R can it go? how far out in the U-V can it go? </U>
+			<U WHO="S3"> uh the, what i told 'em we wanted, um is it's gonna be three-fifty to ten-fifty nanometers, all at once. </U>
+			<U WHO="S1"> three-fifty? is that enough for you? <U WHO="S3"> uh </U> he'd like <OVERLAP> three-twenty-three </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> w- we want </OVERLAP> three-twe- three-twenty so, <EVENT DESC="LAUGH"/><OVERLAP> probably get close to three-twenty </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> okay um </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it sounds like </OVERLAP> it sounds like it's got glass. </U>
+			<U WHO="S3"> you can't, he said you can go below three fifty, but it's gonna have to be a different grating than this one. and it would be, <OVERLAP> so, y- </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> uhh mm </OVERLAP> if it's only the grating, then i'm not worried at all because we can always replace the grating. <U WHO="S3"> okay </U> if it's the C-C-D, then we should wa- get one that really is that has broader <U WHO="SU-m"><OVERLAP> sure </OVERLAP></U><OVERLAP> spectral </OVERLAP> coverage so find out what the spectral coverage of the C-C-D is. </U>
+			<U WHO="S3"> i i, i might have to talk to somebody else. i asked him, i asked i said is the high end, because of silicon, <U WHO="S1"><OVERLAP> right </OVERLAP></U><OVERLAP> detector? </OVERLAP> and he said yes i said is the low end, be- what's the low end from? and he said well in this case he said it's from the grating and i said is there anything else? and he said he didn't know. <U WHO="S1"> okay. </U> so, he said if you wanna go below you'd have to get a different grating. </U>
+			<U WHO="S1"> right <U WHO="S3"><OVERLAP> and </OVERLAP></U><OVERLAP> but al- </OVERLAP> but if you also have to get a different C-C-D then, <U WHO="S3"> right </U> then you should just have bought that C-C-D to begin with. </U>
+			<U WHO="S3"> right, so i'll ask on that. um, and it's gonna have point-six nanometer resolution, all the way across, get C and C-plus-plus digital library drivers for it, <U WHO="S1"> very cool </U><OVERLAP> um </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> LabVIEW? </OVERLAP> what about LabVIEW? </U>
+			<U WHO="S3"> i, didn't ask for a LabVIEW. </U>
+			<U WHO="S6"> can you ask? </U>
+			<U WHO="S3"> sure. um, i know the C C-plus-plus were, they were just giving 'em free, they want, they do the libraries it's all, included. <U WHO="SU-m"> um </U> and </U>
+			<U WHO="S6"> i thought the LabVIEW stuff was pretty standard too so </U>
+			<U WHO="S3"> it's (slit) or fiber coupling, and, i need to talk to the guy on Monday about, uh the (xx) issues. so </U>
+			<U WHO="S1"> okay. anything, anything else on that? </U>
+			<U WHO="S3"> uh i'll show you the quote when i get it. i <OVERLAP> uh </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> um </OVERLAP> anything else that people have_ need to talk about that they're buying, big items? </U>
+			<U WHO="S4"> you (got) the order in? </U>
+			<U WHO="S3"> the optics (xx) </U>
+			<U WHO="S1"> optics. how much did that come to? </U>
+			<U WHO="S3"> just over five thousand. </U>
+			<U WHO="S1"> what what's in it? </U>
+			<U WHO="S3"> uh, lots of mirrors, lots of mounts, </U>
+			<U WHO="S1"> m- metal and <OVERLAP> dielectric? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> metal and </OVERLAP> dielectric. um, and then, a bunch of miscellaneous, uh items that, we need and some people requested. so </U>
+			<U WHO="S1"> okay now <OVERLAP> uh, hm? </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> yeah, i </OVERLAP> i've ordered two channel plates and, or two pairs of channel plates and, a, mirror. so that's like </U>
+			<U WHO="S1"> a mirror? </U>
+			<U WHO="S8"> the, new focusing mirror for <U WHO="S1"><OVERLAP> oh, internal mirror, okay. </OVERLAP></U><OVERLAP> inside my (chamber) cuz the old one's crap. </OVERLAP> um, it's a dielectric, focusing it's like, two fifty or so. <U WHO="S1"> okay </U> cost-wise </U>
+			<U WHO="S1"> two, two fifty millimeters? or two </U>
+			<U WHO="S8"> no, two two hundred and fifty bucks. </U>
+			<U WHO="S3"> oh. okay. <EVENT WHO="SU-m" DESC="LAUGH"/><OVERLAP> wha- and what what's the focal length? </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> in terms of (xx) </OVERLAP> uh, ten centimeters. <U WHO="S1"> okay </U> same as before and i i could change the focal length actually <OVERLAP> since um, </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> well that's </OVERLAP> what i was thinking that <OVERLAP> you know, you get get what you want. right </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> since i'm getting rid of the (view metal) i could </OVERLAP> i could, uh but it's on that swing arm inside the chamber so i'd have to like move the mirror in or change the swing arm. should i do that? </U>
+			<U WHO="S1"> you should only do that, if you're trying to solve some problem. if <OVERLAP> you're happy with </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> it would make the </OVERLAP> focal length, i mean focal size smaller. </U>
+			<U WHO="S1"> yeah but do you care? because right <OVERLAP> now you </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> cuz </OVERLAP> right now i i can't see anything so i don't necessarily want to reduce the number of, </U>
+			<U WHO="S1"> i'm i'm concerned that you'll run into some problem that you don't have now if you make the focal length too short. i mean th- you know ideally you want the focal length very short so you can make the interaction volume small. <U WHO="S8"> mhm </U> but, you don't have any problem running down, the counts right now. if you have a higher efficiency detector you, would you run into a problem? or </U>
+			<U WHO="S8"> yes, i think i have a lot of atoms in the focal volume right now. </U>
+			<U WHO="S1"> what if you filled the whole mirror, which you can't do right now but will be able to do in the new (chain) setup? if you fill the whole mirror you'll get a tighter focus even with_ <OVERLAP> you know what i mean? </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> yeah that would </OVERLAP> i s- i think that would increase, my diameter almost a factor of two. </U>
+			<U WHO="S1"> okay. so that'll cut down your area wha- so to one quarter, <U WHO="S8"> yeah </U> of what it is now. <OVERLAP> which would which would </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> s- so maybe </OVERLAP> maybe i don't have any problem. </U>
+			<U WHO="S1"> yeah. so that's what i'm a little concerned about that, because you you know you kind of limit your your range on the other end. <OVERLAP> if you have a (xx) yeah you were remember </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> if i change, right </OVERLAP> cut focal length shorter? </U>
+			<U WHO="S1"> remember when we were first doing, when we you know the first ste- thing we were doing with the high order electrons that you worked on for years remember? <EVENT DESC="LAUGH"/></U>
+			<U WHO="S8"> oh yeah those. </U>
+			<U WHO="S1"> so, the big problem there was we could, somehow never get the intensity low enough to get into the right regime, it was always too high. and that's why we couldn't use that mirror. ultimately we never did use it. <U WHO="S8"><OVERLAP> mhm </OVERLAP></U><OVERLAP> we used the </OVERLAP> external focusing. </U>
+			<U WHO="S8"> yeah and, and i guess for that, for Mark's, trying to get enough atoms to see anything, </U>
+			<U WHO="S1"> you need a larger, he needed <OVERLAP> a larger (volume) </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> he, that he </OVERLAP> needed more atoms in the focal volume. </U>
+			<U WHO="S1"> yeah. so, so there's, there's that kind of trade-off so i unless unless you're re- there's really a problem that you're up against, <OVERLAP> i'd keep it the same </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> i don't think </OVERLAP> there is. i'm i'm keeping the focal width the same. my only other question... do i need special B-N-C connectors to go inside, a high vacuum environment? </U>
+			<U WHO="S1"> mhm. </U>
+			<U WHO="S8"> and where do i get them from? </U>
+			<U WHO="S1"> B-N-C you say. <EVENT DESC="LAUGH"/> well we usually_ hm. where is this for? </U>
+			<U WHO="S8"> um, connecting, conical anodes to the outside. cuz, <OVERLAP> i ga- </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> that's done </OVERLAP> with, take a look at how it's done now. it's now done, with, a uh general radio connector. <OVERLAP> well actually there's a combination </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> see there're there're </OVERLAP> two types of cone- connectors, <U WHO="S1"><OVERLAP> but it's </OVERLAP></U><OVERLAP> there's, </OVERLAP> the conical anode the, um forty millimeter one that i'm looking at has a B-N-T coming off the back. the, thing that i took off of your chamber has that androgynous i'm not sure what type of, <OVERLAP> thing it is, a- </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> right, h- hermaphrodite </OVERLAP><EVENT DESC="LAUGH"/> no, the the uh hermaphrodite connector is a kind of general radio connector. <U WHO="S8"> okay. </U> the other kind of connector which is also called a general radio connector, uh i- which is sort of like a type N connector, if you know what that is. um, we had to change. so okay so this is what i was getting at. if you look inside that connector or inside a B-N-C connector you'll see that there's plastic cuz after all it's dielectric there's gotta be plastic somewhere. the most important thing is that that plastic has to, be able to s- withstand uh say two hundred and fifty degrees C. so that it will melt, <EVENT DESC="LAUGH"/><EVENT WHO="S8" DESC="LAUGH"/> and burn and cause a big smoke in your chamber as soon as you (xx) right? if you just take them, off the shelf they they have a kind of plastic that won't, take the high temperatures. and so what we did was we we bought the ki- those kinds of connectors, particularly that the the hermaphrodite one, <U WHO="S8"> mhm </U> that kind of connector, we specifically are using that, because we can get at the plastic and pull it out and replace it with Teflon. <U WHO="S8"> mkay. </U> and uh, you know you've got that already. so i would just use the same thing we don't have to do that twice. </U>
+			<U WHO="S8"> except that at this point, the anode has a B-N-C connector on it and there might be, one other hermaphrodite connector is buried, before the B-N-C connector but i can't get that part open so i'm not convinced that it actually does open. </U>
+			<U WHO="S1"> i really worry if you're using B-N-C that you that you have to make sure that you can bake it. it might be possible. </U>
+			<U WHO="S8"> mine, but tha- the B-N-C connector_ i think actually what's in there is okay, <U WHO="S1"><OVERLAP> yeah (is it, oh) </OVERLAP></U><OVERLAP> because that, </OVERLAP> that's what came out of the vacuum chamber, and then the other one is mounted on a (complat) flange so i think that's okay. </U>
+			<U WHO="S3"> okay it probably doesn't have B-N-C cable, on the other side right? </U>
+			<U WHO="S1"><OVERLAP> no, no, no no no it's not a cable. </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> there's no cable involved it's just a </OVERLAP> connector. <U WHO="S3"> alright. </U> but, even like you know how when you look down inside the connector there's little white plastic things surrounding the, <OVERLAP> (metal socket) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but can you take that connector </OVERLAP> off? and just put <OVERLAP> another connector on? </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> um... </OVERLAP> say again? </U>
+			<U WHO="S3"> can you just take that connector off and put a different, connector on...? </U>
+			<U WHO="S8"> i, could. <OVERLAP> i'm not </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i don't know. i haven't seen it. </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> i think i think </OVERLAP> the the (situation) which (she's now playing with) has a connector inside gene- already connected inside of the B-N-C connector <U WHO="S1"><OVERLAP> it does. </OVERLAP></U><OVERLAP> (there.) </OVERLAP> but she cannot, take them out. that's the that's the l- l- the problem and, and she wants to assemble both, <U WHO="S3"><OVERLAP> mm, mhm mhm </OVERLAP></U><OVERLAP> chambers but but </OVERLAP> i'm pretty sure that one, which is in the (C-C-M) chamber, has, has same kind of connection, and that was disassembled. </U>
+			<U WHO="S6"> so right now is the connection the <OVERLAP> B-N-C or general radio </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> B-N, uh that's B-N-C, </OVERLAP> that's B-N-C but, that is disassembled. </U>
+			<U WHO="S6"> okay. </U>
+			<U WHO="S4"> because, g- i know, the one in the (listening) chamber has, the same kind of thing disassembled, it had a ra- a general radio, connector there. </U>
+			<U WHO="S6"> okay. </U>
+			<U WHO="S1"> hm. okay. </U>
+			<U WHO="S8"> i mean among other things what i'm trying to do is to get, the total length of the connector assembly as short as possible <U WHO="S1"> right </U> cuz that's really eating into my flight tube length. </U>
+			<U WHO="S1"> right... okay, well it sounds like there's a number of possibilities. the easiest possibility would be i- if that, B-N-C connector just happens to have already been modified to be <OVERLAP> (dielectrical) anyway. </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> yeah, </OVERLAP> yeah. </U>
+			<U WHO="S1"> which you s- think might be true <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> i i </OVERLAP> think that's probably true since it was already there, <U WHO="S1"> okay </U> but i was w- sort of wondering, what i should look for to see </U>
+			<U WHO="S1"> the plastic should look an awful lot like Teflon. and if it <OVERLAP> looks like it isn't Teflon then you need to be careful. </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> well i kn- but Tef- </OVERLAP> Teflon is so- just sort of white plastic, <OVERLAP> anyways i mean how can how can i tell the difference? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it's sort of white soft white soft </OVERLAP> milky plastic i mean you know i understand that this doesn't te- really tell you for sure <EVENT WHO="SU-m" DESC="LAUGH"/> but </U>
+			<U WHO="S8"> (cuz saying) that the B-N-C <OVERLAP> connector's normally the thing inside is opaque and white </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> but, if it's, you know, if it's </OVERLAP> yeah well that's true and and uh and it might be, Teflon. but you know if it's, if it's clear then of course it isn't. so, you know </U>
+			<U WHO="SU-m"> (i don't know what you mean) </U>
+			<U WHO="S2"> what can you do to test it? </U>
+			<U WHO="SS"> bake it. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> it's not a bad idea <OVERLAP> just assemble </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> heat it up and see if it </OVERLAP> ruins </U>
+			<U WHO="S1"> asse- <U WHO="S5"><OVERLAP> no it, get a (little chamber) </OVERLAP></U><OVERLAP> well, assemble asse- </OVERLAP> assemble the chamber with no plates inside and <OVERLAP> bake it </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> right </OVERLAP> okay, that's a good thought. </U>
+			<U WHO="S1"> so it's only the plates that'd get completely baked. </U>
+			<U WHO="S8"> yeah. </U>
+			<U WHO="S3"> you could also just, you know you could </U>
+			<U WHO="S1"> and also you got the R-G-A you can <OVERLAP> look as you heat it up. </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> actually, right now </OVERLAP> what i'm waiting for is the plates anyway so i might as well just put the assembly in and </U>
+			<U WHO="S1"> and and heat it up </U>
+			<U WHO="S8"> yeah. </U>
+			<U WHO="S1"> and and you can use the R-G-A to see if you know if weird stuff starts coming out, <U WHO="S8"> okay </U> then you can </U>
+			<U WHO="S3"> and you could_ we have Teflon downstairs too you can take a look at what Teflon would look like and then just cut open a B-N-C and see <OVERLAP> what it looks like. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i think, we </OVERLAP> we she probably knows what Teflon looks like the problem is that i- lots of other stuff looks the same. </U>
+			<U WHO="S8"> yeah i mean Tef- the problem is that Teflon and the inside of a B-N-C don't look distinctly different. </U>
+			<U WHO="S3"><OVERLAP> well yeah i'm saying you could just compare 'em directly, just t- to see if you can tell the difference. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i've seen, i've seen ceramic, B-N-Cs </OVERLAP> i i <OVERLAP> i don't know if this is </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> the ceram- </OVERLAP> oh yeah and ceramic would be fine in <U WHO="S1"><OVERLAP> and ceramic would be fine. </OVERLAP></U><OVERLAP> this. okay, </OVERLAP> okay. </U>
+			<U WHO="S1"> i've seen them. </U>
+			<U WHO="S4"> and then so, you're alwa- you're not, you're not worried about the, the conic anode the B-N-C connector (a- r- or the conflict) frame, port right? </U>
+			<U WHO="S1"> no no that we're not worried about. that's all set. </U>
+			<U WHO="S4"> okay it's all set? </U>
+			<U WHO="S1"> who's o- on </U>
+			<U WHO="S3"> so all it is is just that connector sitting on the back of the anode </U>
+			<U WHO="S8"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> oh okay </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> (thirty) </OVERLAP> it it's been sitting on the back of the anode all this time so i, i'm pretty sure it's fine. <U WHO="S1"> okay </U> i should stop worrying about it. </U>
+			<U WHO="S1"> oh it's just you know it's there's a thousand there's a thousand things that can go wrong in an experiment you just have to kind of have them in the back of your mind all at once. so, i wanted to find out, uh about um other stuff to buy because there's something i wanted to bring up, and that is, uh in the ten hertz lab, we have the opportunity to replace, the oscillator, and should we do it? </U>
+			<U WHO="S4"> ten kilohertz oscillator? </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S1"> no the <OVERLAP> the, </OVERLAP><U WHO="S5"><OVERLAP> ten hertz. </OVERLAP> Clark? </U> the hundred megahertz the Clark... </U>
+			<U WHO="S3"><OVERLAP> yes. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i know </OVERLAP> you're not all happy with the Clark. </U>
+			<U WHO="S3"> yes, we should. </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S1"> so so is it a higher priority to replace the Clark? or is it a higher priority to push the (Regen) up two kilohertz? we'd still have the multi-pass at ten hertz. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> i mean... the Clark is a pain because it's it's somewhat unstable. and but the Millenia helped a lot. and the bandwidth is really small but we'd also throw away a lot of the bandwidth if we got a, <U WHO="S1"> we don't care about that stuff. </U> Margaret Henry so </U>
+			<U WHO="S5"> i guess i guess my issue on oscillators is tunability. um </U>
+			<U WHO="S1"> right so what so do you like the Clark or you don't like the Clark for tunability? </U>
+			<U WHO="S5"> the, the Clar- i've never, it's never been easy so </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S8"> but, would a Margaret Henry style be easier? </U>
+			<U WHO="S5"> i don't have enough experience with it to really say, um <U WHO="S8"> yeah </U><OVERLAP> it's got more bandwidth though so maybe you could just clip (it out from somewhere) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> well, it seems like, it seems like, the bandwidth would, the bandwidth would easily cover the entire range that we need so </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> yeah i've, yeah i kn- our our tuning </OVERLAP> we never tried tuning inside the oscillator we just, would cut out part of the bandwidth <U WHO="S1"><OVERLAP> yeah </OVERLAP></U><OVERLAP> in the </OVERLAP> stretcher. </U>
+			<U WHO="S1"> and if the bandwidth's wide enough then i guess <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> your bandwidth, you can go from </OVERLAP> like easily go from like, seven eighty to eight thirty or something right? </U>
+			<U WHO="S8"> yeah almost. <U WHO="S3"> almost </U> i mean when Mark was doing his two color experiment i think he was at seven, eighty-five and, eight ten or so. </U>
+			<U WHO="S3"> you've got like, you've got at least thirty nanometers </U>
+			<U WHO="S8"> yeah. </U>
+			<U WHO="S4"> but but <OVERLAP> oscillator </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> Mark </OVERLAP> shoulda published that two color experiment. </U>
+			<U WHO="S1"> well i know. i_ you know, these, we will not make these kinds of mistakes in the future. <EVENT WHO="SU-m" DESC="LAUGH"/> okay. <OVERLAP> what were you saying? </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> wha- </OVERLAP> but the Clark oscillator was a problem, or was a bigger problem than now, what, now it's it's kind of okay and, it'll work for the (kilo) system too. </U>
+			<U WHO="S1"> yeah well what it comes down to is the, it's this this i- it's this year end thing. i mean we have we have budgeted, uh upgrading that system. but because upgrading the system is one of those things that you have to stop working to do, somehow it never seems like it's the right time to do it. okay? but we're we're we're running into a time now where it would really be a good idea to spend this money before the end of the year. so that we don't have to carry it over. <OVERLAP> and it was budgeted okay so, should we do it? </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> would you prefer t- </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> yeah. we </OVERLAP> we've had two options either oscillator or (Regen) so </U>
+			<U WHO="S8"><OVERLAP> does (Regen) mean getting a new (xx) laser for the (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> well, it's more_ it's like buying </OVERLAP> another five twenty-seven is the o- other option. although, if we could buy a i i was just trying to do a little work this morning on finding out what would, what it would be like if we bought a positive light, diode pump kilohertz pump? instead of, a Quantronics, five twenty-seven? just, the price difference. so i i i was under the misimpression that the price difference was like twenty percent but the price difference is more like a hundred percent. it really is. they d- they want eighty-five K, <U WHO="S6"> (xx) thousand </U> for, for something that would produce as much power as what you'd pay, forty-five K for, (for Quantron.) big big difference because of diode pumping and and and the thing is, are we tha- are we unhappy with the Quantronic? well, you know it it certainly has had some down time, but i don't, really know, are we unhappy with it? </U>
+			<U WHO="S6"> wai- would you get the same um, i mean would you want the same, energy? the same power? or would you do a single (head) <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i wanna do </OVERLAP> a single head. yeah yeah yeah <OVERLAP> whatever (you need) </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> so i mean </OVERLAP> with the single head i think there's even less issues about it than <OVERLAP> i mean i know lots of people who use them all the time. </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> but i i </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> i mean the </OVERLAP> the thing that i find most irritating about the Quantronics in the kilohertz lab is that, no one at Quantronics seems to really know how to deal <OVERLAP> with it. so </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> this this </OVERLAP> will never change. this will never change. Quantronics <OVERLAP> has you know their their view of </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> like, buying a n- </OVERLAP> buying a new Quantronics that's actually a standard model, i don't think there would be a problem with at all. </U>
+			<U WHO="S4"> well i are they that bad at Quan- Quantronics? <OVERLAP> or </OVERLAP></U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"><OVERLAP> you ne- you'd be suprised </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> (xx) just the (regular, standard) (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> (xx) i think that's you know, you know (lamp) pump, Quantronics </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> no it's just that </OVERLAP> whether the you replace the lamps with dio- with a diode bar. <U WHO="S4"> uh huh </U> so it's basically like a cross between the Millennium and the Quantronics you know you've the diode bar pumping in a rod just like you have in the Millennium, but it's Q switched so it's producing kilohertz. </U>
+			<U WHO="S6"> that's the positive light one? </U>
+			<U WHO="S1"> that's the positive light one. <U WHO="S6"> oh </U> and and and you see oh that would be so wonderful that would be so wonderful but you know how much are you willing to you know how, how much is wonderfulness? you have forty thousand dollars worth of wonderfulness? i mean, does it really matter? so, that that's that's the the issue. and i think what it comes down to is that i'm not unhappy enough, with the Quantronics, it's not that bad, you know sure the company has a_ the company's view of, customer service is sort of, something they copied from manuals that were written in Eastern Europe or something you know <EVENT DESC="LAUGH"/> they don't believe in customer service. but but that's the worst of it because the machine itself is, okay. <U WHO="S6"> mhm </U> when it's, you know we the the Pockel cell_ i mean the Q switch not the Pockel the Q switch blew up. and it blew up because of something which was probably a poor engineering design. but it blew up after, five years. <U WHO="S6"> (right) </U> that's not so bad. you look unconvinced. </U>
+			<U WHO="S6"> no actually i was just thinking about these things i i was just thinking about m- moving up to the kilohertz in s- in in in the ten hertz lab and whether you know i- so i guess you y- it sounds like you'd keep the same amplifier, instead of <OVERLAP> you know changing the whole amplifier (well) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> the Regen would be the same, the Regen </OVERLAP> would be the same and the Regen would work probably just about as well as the multi-task in the kilohertz lab works. <U WHO="S6"> mhm </U> based on other people's experience. the MEEDOX, um Pockel cells in the Regen, can work at a <U WHO="S2"><OVERLAP> okay </OVERLAP></U><OVERLAP> kilohertz </OVERLAP> with not, any problem. </U>
+			<U WHO="S3"><OVERLAP> (when in y-) </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> so then an issue </OVERLAP> would be what do we call the two labs? <EVENT WHO="SS" DESC="LAUGH"/> if they're both ten kilohertz </U>
+			<U WHO="SU-m"><OVERLAP> that is </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> well </OVERLAP> one of 'em you call the opal lab right? </U>
+			<U WHO="S6"> oh </U>
+			<U WHO="S1"> ah </U>
+			<U WHO="S8"> ha ha, great </U>
+			<U WHO="S1"><OVERLAP> what </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> do you </OVERLAP> not wanna replace the oscillator? </U>
+			<U WHO="S4"> i have no, idea this is just, just wondering what, what would we do </U>
+			<U WHO="S1"> okay well i <OVERLAP> uh </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> what </OVERLAP> are we gonna do with the old old oscillator then? </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> the Clark? </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S3"> throw it in the garbage </U>
+			<U WHO="S1"> uh, i think we could maybe drop it from a very <EVENT WHO="SS" DESC="LAUGH"/> high (building.) </U>
+			<U WHO="S3"> i mean i think, i think i mean the value in the Clark is that we take out all the mounts and optics and we have those. and then all that's left is just some aluminum box <OVERLAP> right? </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> and after </OVERLAP> all they were very high quality mounts <OVERLAP> right? </OVERLAP></U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/><OVERLAP> absolutely </OVERLAP></U>
+			<U WHO="S3"> i can replace about half of 'em, anyway so, i mean i don't_ i i'm fine with doing the kilohertz option too. </U>
+			<U WHO="S4"> what what y- what years (of) time period do you think that old ten hertz system will be replaced with kilohertz system? </U>
+			<U WHO="S1"> i don't think we'll ever replace the back end, the high energy end. i don't think we'll go away from ten hertz for that. because, y- there's always gonna be some di-laser reason or or some high power reason why we'll wha- we'll need that. but if we also are running at a kilohertz for the r- out of the Regen and there's a- then there's obviously new, kinds of experiments that we could do. </U>
+			<U WHO="S8"> so so essentially you'd have part of it that could run at ten hertz and part of it at kilohertz? </U>
+			<U WHO="S1"> yeah if you only wanted to use the re- output of the Regen you could run (the kilohertz.) </U>
+			<U WHO="S8"> but, what's the difference between the Regen output, and the other output? </U>
+			<U WHO="S1"> it wouldn't be any, it wouldn't really change. <U WHO="S8"><OVERLAP> okay </OVERLAP></U><OVERLAP> cuz </OVERLAP> the the trade-off is right now you get_ well it would change a little, because instead of getting like three millijoules out which is what we can push it to now, and often do, it would be more like, when you pushed it you'd get to one millijoule (out.) </U>
+			<U WHO="S8"> mhm </U>
+			<U WHO="S4"> we get three (millijoules out?) </U>
+			<U WHO="S1"> when you see, <EVENT WHO="SS" DESC="LAUGH"/> since since since getting three millijoules out is not like really common, <OVERLAP> um </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> uh huh, </OVERLAP> yeah </U>
+			<U WHO="S3"> we get more like, a little over a millijoule right <OVERLAP> now i think </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> yeah </OVERLAP> little bit more than one millijoule. </U>
+			<U WHO="S1"> well it would be less <U WHO="S5"><OVERLAP> well </OVERLAP></U><OVERLAP> than </OVERLAP> a millijoule. <OVERLAP> you get a millijoule (at most out of it) </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> well, well also what's, you know what's </OVERLAP> the pulse shape interaction right? you still have to run that, where you can amplify it afterwards <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> that's right </OVERLAP> and that'll still be ten hertz, <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> cuz you put in_ </OVERLAP> we already put in more, we already put in more energy into the pulsator than we, can (cap.) <U WHO="S1"> mhm </U><U WHO="SU-m"><OVERLAP> right </OVERLAP></U><OVERLAP> i think </OVERLAP><OVERLAP> we already </OVERLAP> put in right at the max. so, <U WHO="S1"> mhm </U> it burned once </U>
+			<U WHO="S1"> mhm. well it hasn't burned in a while right? </U>
+			<U WHO="S3"> just that one time. </U>
+			<U WHO="S1"> yeah. so, <U WHO="S5"> yeah </U> we can we've known we've known what the limit is and we can stay below it </U>
+			<U WHO="S3"> i'm ju- i'm just trying to figure out though what, where where which experiments benefit from a kilohertz but don't use pulse shaping and can't be done in the other lab, just as easily? </U>
+			<U WHO="S1"> oh. so you're sa- you're that's that's the why bother option. <U WHO="S3"> yeah </U> i mean you've already got a kilohertz laser why do you need two? </U>
+			<U WHO="S3"> the, pulsator could run on a kilohertz right? <U WHO="S1"><OVERLAP> i </OVERLAP></U><OVERLAP> it just </OVERLAP> you'd have <OVERLAP> you'd wanna, you wouldn't have much </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> but you wouldn't have a lotta energy you'd </OVERLAP> have to do something that doesn't, need a lotta <OVERLAP> energy. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> that's right </OVERLAP></U>
+			<U WHO="S1"> that <U WHO="S5"><OVERLAP> i don't_ </OVERLAP></U><OVERLAP> that's right. </OVERLAP> but i think any any um... uh the the uh sort of gradual transition that we're making, to a kilohertz, is going to mean that a lot of our important experiments particularly the atomic beam experiments, will be sort of designed to work at a kilohertz. <U WHO="S3"> right </U> and and there's al- there's there's bound to be more than one of those that you'd really wanna do at a time. so i i don't, i'm not concerned uh about that, option. i- i i'm more looking at, just a general upgrade you really don't want laser equipment to be twenty years old in in in a in a lab. because, it becomes like the old jalopy you put a spend a lot of time putting money into something that you should just once and for all replace with something newer. <U WHO="SU-m"> mhm </U> and uh so that means that, you have to budget these things and so we're budgeting this upgrade and and and now we have to do it. and the the thing to upgrade to is is the kilohertz <OVERLAP> laser. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> right. </OVERLAP> i i guess but there's the issue of which order do you do it in? <OVERLAP> (which is_ the oscillator) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> um, based on </OVERLAP> based on this discussion i i i'm leaning towards replacing the oscillator first because it seems like everybody's had some trouble with the oscillator. and that's the easy thing to replace it's also cheaper by the way but it doesn't matter that much <EVENT WHO="SU-m" DESC="LAUGH"/> and and, uh so (maybe we'll do that.) before it gets too late, cuz we're gonna have to break up a little early because of Mike Duff's talk. everybody going to Mike Duff's talk i hope? </U>
+			<U WHO="S8"> mhm </U>
+			<U WHO="S3"> is it in Rackham or here? </U>
+			<U WHO="S1"> it's in Rackham. </U>
+			<U WHO="S6"><OVERLAP> oh </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> are </OVERLAP> there cookies? </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S1"> it's there's cookies and it's s- string theory it's good for you. <EVENT WHO="SS" DESC="LAUGH"/> um </U>
+			<U WHO="S3"> the most allowed dimensions by super strings </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> what'd you say? </U>
+			<U WHO="S3"> the most allowed dimensions by super strings. <U WHO="S1"> uh huh </U> that's my favorite line from the abstract. </U>
+			<U WHO="S1"> what is that eleven? </U>
+			<U WHO="S3"> oh <OVERLAP> i have no idea </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> eleven (yeah) </OVERLAP></U>
+			<EVENT WHO="S3" DESC="LAUGH"/>
+			<U WHO="S3"> (that's why) i just picked that up from the abstract so <EVENT DESC="LAUGH"/></U>
+			<U WHO="S5"> i just know the title which is the world in eleven dimensions. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> so so before we have to break up for that i really wanted to to have you guys describe this cost functional </U>
+			<U WHO="S3"> do you wanna do it? </U>
+			<U WHO="S2"> sure. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S2"> um, so i guess the idea is that, well we run the G-A to optimize some pulse shape, or to optimize some feedback, and, uh and we get different different shapes, you know di- different runs of the G-A you you know conversion of different shapes, and, and especially when you look at like a m- a minimization where it spreads the pulse out, and uh and the sh- the shapes that you end up with are sort of uh qualitatively, similar but you couldn't you can't really uh, tell just by looking at 'em what, what's doing what. and, and so the idea is that, well maybe there's just a few things in that pulse shape that that are actually, you know that're actually controlling the uh, the liquid but the rest of that stuff is just i- it doesn't matter. but <U WHO="S1"><OVERLAP> right </OVERLAP></U><OVERLAP> the G-A </OVERLAP> just, you know you just uh </U>
+			<U WHO="S1"> so no- non non fatal family traits. <U WHO="S2"> right </U> but they're not really, <OVERLAP> important </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> mhm. </OVERLAP> and so the deal is that, well maybe we can find a way to, to sort of filter all that stuff out, uh so that all we're left with is the important stuff. and so the cost functional uh compares the pulse shape that we have to a transform-limited pulse, and, it punishes, it punishes the pulse shapes for how much they differ, from the transform-limited, pulse shapes. so, the idea is that, you start off with a transform-limited pulse, and then you shape it. and, and uh, and the ones that you, </U>
+			<U WHO="S1"> so the ones that d- how do you <U WHO="S2"><OVERLAP> so </OVERLAP></U><OVERLAP> how do </OVERLAP> you evaluate how far you are from transform-limited? </U>
+			<U WHO="S2"> well that's, that's the trick, <U WHO="S1"> okay </U> that we've b- that's what the cost functional is. but basically if you if you have two pulse shapes, that that uh, that do the same thing, that you get the same fitness out of, and one looks like a transform-limited pulse with a few modifications and one looks completely different, the one that looks completely different will be punished, and the one that th- looks more like the transform-limited won't so, the one that looks like the transform-limited pulse will get a much better fitness, for it. and, <U WHO="S3"> i think_ <OVERLAP> that's like </OVERLAP></U><OVERLAP> yeah? </OVERLAP><U WHO="S3"> that's kind of </U> sure. and so, i guess we can, just look at_ so this is the formula that Tom sent basically, <EVENT WHO="S3" DESC="WRITING ON BOARD"/> uh what he's using, and, so what we do is, uh, we compare_ so the gene string is just the, uh just the phase at each, each pixel, and we compare pixel by pixel to what the phase would be for the transform-limited pulse, and, uh, and so we add up all those differences and that's actually squared right? that's just the, uh </U>
+			<U WHO="S3"> oh it's either squared or <U WHO="S2"><OVERLAP> yeah </OVERLAP></U><OVERLAP> magnitude of </OVERLAP> (i forget the right) </U>
+			<U WHO="S1"> oh okay <U WHO="S2"><OVERLAP> yeah </OVERLAP></U><OVERLAP> so </OVERLAP> so you so you adding up th- adding up phase differences aren't sort of uh the variance of the phase <U WHO="S2"><OVERLAP> right </OVERLAP></U><OVERLAP> basically </OVERLAP> the square of the difference, <U WHO="S2"> mhm </U> you're, you're adding that up, but the phase has a global ambiguity, <U WHO="S2"> right </U> so you're not really, adding that up, you're adding up, you have to somehow su- subtract off the linear, <OVERLAP> component. </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> sure and that's </OVERLAP> i mean we've talked about that a lot too. um </U>
+			<U WHO="S3"> i think, <U WHO="S2"> yeah </U> Tom i think To- this is what Tom uses i'm pretty sure. <U WHO="S1"><OVERLAP> really? </OVERLAP></U><OVERLAP> and </OVERLAP> i think i think their issue is, that they're just program voltages on the pixels, and they don't have these, i think, i m- i would also guess the the operators tend not to put in the linear, sweep. and, you know some of our times some of_ sometimes we get, these straight linear phases and i think, they i don't think they do and so i don't think it's much of an issue. so we asked Tom, and he's like oh it really hasn't been a problem. </U>
+			<U WHO="SU-m"> yeah </U>
+			<EVENT DESC="BACKGROUND CONVERSATION NEXT :24"/>
+			<U WHO="S4"> yeah if you if i understand tha- that your resolution was, just uh just uh extending the pulses to get some some kind of minimum minimization right? and two ways of doing it one w- way is just le- (linearly) choking it, to make the pulse longer and also, same way, the the the clipping of bandwidth is then making the same (curve-shaped) pulses plus the long pauses. </U>
+			<U WHO="S3"> this is this is for, t- only looking at the phases. o- o- this is only_ so </U>
+			<U WHO="S4"> then how would you maintain the Gaussian pulse on- only (xx) the phase <U WHO="S3"><OVERLAP> uh, n- </OVERLAP></U><OVERLAP> things </OVERLAP> without clipping out those </U>
+			<U WHO="S3"> uh, we don't look at the amplitudes at all here. <U WHO="S4"><OVERLAP> right </OVERLAP></U><OVERLAP> so this </OVERLAP> is this is phase only shaping? um i guess i don't understand, what you're asking </U>
+			<U WHO="S4"> i mean the_ how do you maintain the Gaussian shape without cl- and and and extending the pulse width <OVERLAP> without changing the frequency? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> the pul- the pulse </OVERLAP> um, the pul- the pul- it's arbitrary phase shaping so the pulse is not gonna be Gaussian any more. so th- </U>
+			<U WHO="S8"> when you_ so </U>
+			<U WHO="S1"> you're you're asking about the transform-limited pulse that you compare things to? </U>
+			<U WHO="S4"> i thought, i mean probably i misunderstood but, you wanted to maintain the transform-limited pulse Gaussian pulse? </U>
+			<U WHO="S1"> no, no they don't want to maintain it. they simply want to um, get rid of extraneous garbage and their, their hypothesis about the extraneous garbage which i guess is something you didn't state, but their hypothesis about how how to, differentiate, garbage you don't want from stuff that you might want, is, by looking at the deviation of the phase from the phase that you'd get for transform-limited pulse. so, of course the the, there there's a bunch of problems with that that all come to mind i me- in a kind of a jumble. one is, the one we just talked about, that a Gaussian pulse in a different place doesn't have zero phase and so you have to worry about that. but, uh an- another one is that, you know consider a solution which is a beautiful looking solution just from a kind of aesthetic point of view of, two Gaussian pulses displaced from one another, in time. so it's just like a pump probe thing you're driving a wave packet, and the best solution is you just drive it once, drive it again. okay? there's gonna be a heavy cost here, for that pulse even though that's a perfectly good wonderful solution so i- it seems like th- the lack of sophistication in evaluating cost functional could really be hurting you in some cases. </U>
+			<U WHO="SU-m"> oh </U>
+			<U WHO="S3"> um, yeah? </U>
+			<U WHO="S8"> w- would you run everything with cost functional or would you, like run <U WHO="S3"><OVERLAP> it was, i think </OVERLAP></U><OVERLAP> it and see what it gave </OVERLAP> you and then just like try it with cost functional </U>
+			<U WHO="S3"> it's designed to be a general tool for any of, any of the experiments in any form. so basically it, you know we can run some experiments and then we can also try 'em with the cost functional and we can try 'em with different weights on the cost functional. <U WHO="S8"> mhm </U> and you just, it just goes into the fitness like on the bottom. so the new fitness is just the original fitness times like one plus the cost. and we we adjust the weighting such that, you know, the cost is, somewhere between zero and one basically. <U WHO="S8"> yeah <OVERLAP> mkay </OVERLAP></U><OVERLAP> and </OVERLAP> uh and so you know </U>
+			<U WHO="S1"> so so thi- this is an alternative to something, that was what you guys tried sometimes in the past, which is, having a smoothing operator, that would, that you could just evaluate whether it was a good thing or not cuz of whether it increased the fitness, but the smoothing operator would get rid of extraneous high frequency stuff hi- phase noise for example mostly, <U WHO="S8"> mhm </U> mostly that's what it got rid of. </U>
+			<U WHO="S3"> that's right it gets rid of the <OVERLAP> phase noise. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so you could just </OVERLAP> damp out out phase noise by having, the children always have less phase noise than the parents, in the G-A, and, the the trouble is that i- i- i- because that doesn't that's not a cost functional approach. that isn't just_ that that's a uh, in in a sense it's um, it's not allowing, uh rapid phase variations that might be very helpful, from making their importance understood. putting it into a cost functional means that it'll cost a little more but if it makes things that much better you still do it. smoothing it means you get rid of it, whether it was good for you or not. so, <U WHO="S3"> so </U> maybe this is better. </U>
+			<U WHO="S3"> alright so the basic idea is that, you know de- depending on what the weighting is, we're gonna, tell it how strong it should punish, anything that deviates from an unshaped pulse. and if, if uh something that deviates drastically has a much better fitness, that'll outweigh the cost. um, so. </U>
+			<U WHO="S2"> and that's the trick, to adjust the weighting i guess so, um, you know you you like, you know you like the the weighting factor to be set so that, if you do have a r- a very good pulse shape but it doesn't look anything like a transform-limited pulse, that'll still be, the pulse that you, end up with i guess. </U>
+			<U WHO="S8"> unless <U WHO="S2"><OVERLAP> right? </OVERLAP></U><OVERLAP> you have </OVERLAP> really really high weighting on the cost function in which case, <OVERLAP> it's a it's a it's a different matter </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> right. well if you if you crank </OVERLAP> up W high enough then, supposedly you should always get a transform-limited pulse. <U WHO="S8"><OVERLAP> okay, yeah </OVERLAP></U><OVERLAP> right? </OVERLAP> because it'll like whatever your pul- your pulse shape is, uh that that'll just get, it'll t- totally drown it out, so, like whatever the actua- the sum of the the <OVERLAP> phases </OVERLAP></U>
+			<U WHO="S8"> yeah, <U WHO="S3"> so </U> okay </U>
+			<U WHO="S3"> so Tom has then used this um and and (Jilla) and they he's had some good success with it. basically he had a data analysis that involved looking at, um, looking at the nominator frequency spectrum basically looking at, i guess you know kinda frequency differences in these (Rotmann) experiments, and um, and whether you get these, or whether they're present in the beam or not, and, and <OVERLAP> i mean </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i'm </OVERLAP> just afraid that the f- </U>
+			<U WHO="S3"> the analysis was cleaned up. <OVERLAP> the_ basically the analysis was cleaned up a lot by using the cost functional </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah. i, i wouldn't wanna </OVERLAP> i wouldn't wanna s- say this t- because it criticizes you know uh too too uh, too strongly because it criticizes his paper. but i have a feeling that the cost functional in Tom's case, is kind of a self-fulfilling, prophecy. i mean he says is the cost functional a good thing? well the cost functional is a good thing because, it produces the solutions that your, preconception about what a good solution is, <EVENT DESC="LAUGH"/><U WHO="S2"><OVERLAP> yeah </OVERLAP></U><OVERLAP> you know </OVERLAP> what what you wanted. uh b- but it's it's not, it's it's going away from the uh real notion of the G-A as a learning machine, where it's finding for you the best solution independent of your preconceptions. cuz it's kind of introducing a preconception bias. and in this case it really came out with Tom because, his preconception bias, was that he was looking for simple spectral signatures. it was in the non linear spectrum but nonetheless he was looking for simple spectral signatures, things that could be easily wiped out by phase noise. and so he had something in there that would make all of the solutions not have much phase noise and, by golly he could see his simple spectral signatures it doesn't really mean that that's the best solution. </U>
+			<U WHO="S3"> well we've also yet to craft a G-A that that ha- eliminates nonfatal mutations too. so </U>
+			<U WHO="S1"> yeah we don't have a better way to eliminate nonfatal mutations a- apart from just going in, uh to the_ looking at a solution, and just feature by feature, modifying it, just l- you know, that's_ course that also, defeats the purpose of the G-A you're not optimizing things uh you're not letting it optimize things for you if you can do that. </U>
+			<U WHO="S2"> yeah i- i- it gets into a validation issue really and, um, and i- i've seen the same thing in medical imaging with iterative r- approaches, how much side information can you stick in the e- the image pr- process without biasing the image you end up with? <U WHO="S1"> right </U> um, and, so i mean for a particular problem i think it makes a lot of sense to, you know use a cost functional and then maybe compare it to, a non cost f- cost functional approach and make sure there's some kind of convergence, <U WHO="S1"> mhm </U> going on but, as a general rule you're not necessarily gonna be able to do that it you, if you work with a system that you don't know much about, you know and where you (said) maybe something that looks like a series of pulses might be the best solution. <U WHO="S1"> mhm </U> you know a priori there's no reason to say oh the Gaussian is the best or the transform-limited is, the model, we should use. </U>
+			<U WHO="S3"> i mean as long as we're able to run them back to back, i think we can avoid those sort of problems just because you can run it without, and you can run it with and you can compare what the pulse shapes look like <U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> and you can also </OVERLAP> compare what the best fitness was and if, if you seriously degrade the fitness in order to change, the pulse shape then you know you're you're in trouble. but </U>
+			<U WHO="S8"> the reason i i guess it seems like if you, get a pulse shape without the cost functional, that looks nothing like the Gaussian, that's, huh, <OVERLAP> so so i i if you get one </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but but there's there's always a chance </OVERLAP> that you could have just as good a fitness, with something that looks much more, uh smooth... there's always a chance that </U>
+			<U WHO="S8"> and, when you use the how much it looks like a Gaussian, is that, what's F-zero </U>
+			<U WHO="S3"> F-zero's like the original fitness. without, so the new <U WHO="S8"><OVERLAP> okay </OVERLAP></U><OVERLAP> fitness is </OVERLAP> is what what its well <U WHO="S8"><OVERLAP> so </OVERLAP></U><OVERLAP> what </OVERLAP> its fitness is, and then you add on this mathematical cost. </U>
+			<U WHO="S8"> so the more cost there is the higher fitness it has? </U>
+			<U WHO="S3"> uh i- the minus sign is, i should put plus or minus. <U WHO="S8"> yeah, <OVERLAP> okay </OVERLAP></U><OVERLAP> the minus </OVERLAP> sign depends on, on what the sign of your fitness and your cost are. so <U WHO="S8"> okay. <OVERLAP> so </OVERLAP></U><OVERLAP> but, </OVERLAP> you're right... uh, so if the fitness is positive and the cost is positive it should be a minus. </U>
+			<U WHO="S1"> i i <OVERLAP> guess it would be nice if we had a problem_ oh </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> so it seems like </OVERLAP> it seems like the absolute number of the fitness, of something with or without the cost functional would completely depend on, how much weight you put on it. <U WHO="S3"> mhm </U><U WHO="S1"><OVERLAP> mhm </OVERLAP></U><OVERLAP> so, </OVERLAP> i'm not sure how you can compare something, without. like, when you go through you get a pulse rate without the cost functional, and it has a fitness of, two-point-seven, or whatever, and i am not sure, <U WHO="S3"> i mean </U> how c- how can you compare the two numbers you get for the fitness with the cost functional, if it's not like it doesn't seem like it would be a comparable number scale so how can you say <U WHO="S3"> the </U> whether it's more or less fit? </U>
+			<U WHO="S3"> i mean the the weighting has to be, the w- the the value of W has to be has to be, examined bu- tha- <U WHO="S8"><OVERLAP> mhm </OVERLAP></U><OVERLAP> you can't </OVERLAP> just set W. and so, you know you could, you could, you know let's say you get a fitness of two-point-seven, just just the fitness let's say you evaluate the pulse and you get two-point-seven. and then, let's say you evaluate, you could evaluate another pulse shape that looks almost like a transform limit, and you also might get, two-point-six-five, or something. but of course the G-A, cuz it works so well, always finds the two-point-seven. and so that's what you see as your solution after thirty generations. <U WHO="S8"> mhm </U> and then, you might've completely lost the fact that there's one that's just a little worse, that is almost transform-limited or something like that. <U WHO="S8"><OVERLAP> okay </OVERLAP></U><OVERLAP> and then this way the </OVERLAP> cost, functional would bring bring the, the two-point-seven down to like two-point-five or something. <U WHO="S1"> mhm </U> and then not even it up with the two-point-six-five. </U>
+			<U WHO="S1"> of course if that were really true, the example that you said, then you'd have to wonder what was being added that made the fitness always better, for the noisier pulse and there might be some physics there and you'd never know that physics <U WHO="S3"> mhm </U> if you're just using the cost functional so, </U>
+			<U WHO="S3"> there's uh well, <U WHO="SU-m"> that's good. </U> like everything else with, learning algorithms, you know it's there's the <OVERLAP> we it's a learning process. </OVERLAP><EVENT WHO="SU-m" DESC="LAUGH"/><OVERLAP> it's really </OVERLAP> it's really it's really hard to make definitive statements about which procedure's better and which procedure's worse there there there's always a trade-off </U>
+			<U WHO="S2"> i- it would be nice if you if you had a problem that ha- you, had very good reason to believe that a really wacky pulse shape was indeed the best shape, and then run this into this approach and see how close to zero you have to make W to make this work. <U WHO="S2"> yeah </U><EVENT DESC="LAUGH"/> at well at least that might set a bound on how much you should weight it. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S8"><OVERLAP> uh, uh oh </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay, i don't_ oh </OVERLAP> eh? something else? </U>
+			<U WHO="S8"> no i wa- <U WHO="S1"> mkay <OVERLAP> w- </OVERLAP></U><OVERLAP> like </OVERLAP> (the only thing) when you were doing with the two modes there was the one that was d- actually was a two pulse, solution. something like that would look nothing like the Gaussian. </U>
+			<U WHO="S1"> mm well, i wanna make sure that we can, get over to_ in time to eat cookies of course that's the most important part. <EVENT WHO="SU-m" DESC="LAUGH"/> if you can't eat enough cookies then you can't <U WHO="SU-m"><OVERLAP> (sleep) </OVERLAP></U> really, fall asleep during the talk. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

@@ -1,0 +1,413 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="lel565su064">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Principles in Sociology Lecture </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LEL565SU064 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="80">
+						<DATE> September 9, 1999 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Rita Simpson, Aaron Stark </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Shannon Allen </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Final Editing, 6/19/00 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: MIX </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="50"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="16"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NRN" ROLE="JF, Instructor" SEX="M" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> HIN </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NNS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-7" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-9" LANG="NNS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="SU-10" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU" LANG="NS" ROLE="UN, Student" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Student" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, West Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> okay let's just begin with a couple of announcements of, logistical issues. um, some_ um one of you emailed me and, and asked that the readings be, uh that the questions be tagged to the reading so you know where to look for answers to the questions. and, starting next week (uh) i'll do that. uh there're some questions which sort of straddle, the reading as a whole, and so you won't always see that but to the extent that i can do it, i'll, try to tell you, the the reading to go to to answer to your questions. um, and someone else uh tried to get to the Wall Street Journal article that was, uh recommended reading for for this week uh and couldn't. uh now the problem with this is that you have to actually do this from a U-of-M machine. so i think it needs to be in, one of the computing clusters or in the residence, from from the residence hall. and the reason is that the University has sort of a site license to, to use this stuff but the host at the other end needs to know that it's a U-of-M machine. so i think if (you're) if you're trying it from home it won't work. uh unless you live in the residence hall. did anyone actually try, to get at this article? </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> yeah did you were you? </U>
+			<U WHO="SU-f"> (yeah) it said i needed a password. </U>
+			<U WHO="SS"> yeah </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> and wh- where did you try it from? </U>
+			<U WHO="SU-f"> it was from a U-of-M. it was from Angell Hall. </U>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="SU-m"> (wow) </U>
+			<U WHO="SU-f"> i did it in the dorm and i couldn't get it either. </U>
+			<U WHO="S1"> it didn't. </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S2"> um, the way i did it was, i went to the, library, website, <U WHO="S1"> yeah </U> and there's a link from there to uh, website or whatever it is, <U WHO="S1"> okay </U> i clicked that, and then i went back and clicked U-of-M and then it worked. <U WHO="S1"> ah </U> (xx) </U>
+			<U WHO="S1"> okay. then that's... that is that's one thing to figure out um but that's probably too much work it's not worth that. so what i'm gonna do is just, dump the um, the article, on (t-) in my space and then just create a link from within, my page to the article so that would solve that problem. there's a copyright issue here which, you know you're not supposed to access it if you're not, U-of-M but, that's_ we take that chance for a few days... um okay the the textbook issue, uh i've placed a copy of, the the Hughes Martin and Shallock the Understanding Classical Sociology book on reserve, and those books are on order, and and should be here by Friday. uh in any case i'll have copies, like photocopies of the readings for next week uh available on Thursday for folks who, who don't have the books. but hopefully that problem won't bother us for much longer. um, also s- a few of you uh wanted the lectures to be available online, uh, and i'll do that starting next week. uh there's a_ i'm, not quite sure what s- sort of format to to use for it so let me ask you a couple of questions. how many folks use, primarily uh the IBM machines IBM-compatibles...? okay and the rest of you use Macs? <U WHO="SS"> mhm </U> so th- and that's a fair number. uh that's part of the problem is, i i create the stuff, on an IBM-compatible machine and, if you're using Macs you may have some some difficulty. so let me let me play with that. and try to figure out some way of, of dealing with it. d- do the folks who use Macs know how to use the Emulator, machine? i mean Emulator software that allows you to open, Windows stuff on, on the PowerMacs? is this, vaguely familiar or not or...? okay uh let me ask a positive question how many folks know how to, on a Mac know how to read Windows software...? okay. not, not enough. okay so we we'll figure something out... okay there's one more issue with the readings but i think i can get to that more naturally as part of the, the discussion (xx) so let's get started. <PAUSE DUR=":05"/> let's begin with, just a quick recap of, last week, in which we collapsed, something like three or four centuries of development into, basically two two class meetings and so didn't do it nearly as much justice as, as it deserves. but here's what we saw. sort of the main points... that the Enlightenment and machine production of factories, basically dealt a mortal blow to to feudal- to the system of feudalism in in Europe. that was kind of the main, if there's one thing you remember from last week that, that ought to be it... what that meant socially was that, the old social classes... in European society, sort of, began to... be on the way out. they of course, weren't completely destroyed to this day England still has a queen for example, and so does Holland, uh to this day you know there's sir this sir that for example that guy who made the movie Gandhi is Sir Richard Attenborough. so it's not that, we have some absolutely abrupt transition from one to the other but certainly there's a big shift in who has who has power in the society... and we see two new groups of people, who again aren't completely new. uh there were folks involved in manufacturing, there were folks who were workers who weren't peasants and who were working in the cities, but really for the first time around, the eighteenth and nineteenth centuries, these become large and significant, groups of people. they actually become the main players. at least for our purposes <EVENT DUR=":06" DESC="PAUSE"/> so that's kind of a very, just a very quick look back. yeah Matt. </U>
+			<U WHO="S3"> how do you pronounce that? that word with the B? </U>
+			<U WHO="S1"> uh, bourgeoisie? </U>
+			<U WHO="S3"> bourgeoisie </U>
+			<U WHO="S1"> yeah yes uh, yeah it's uh unfortunately a French, a French word, but bourgeoisie means, originally the the term refers to someone who came from, a a burg B U R G which is, which is just a word for a town or a a city. so originally it literally meant uh someone who lived in in cities. we'll see Marx using it in quite, in quite a different sense and we'll get to that... okay now before we jump into, into Marx let's ask this question again that we pose at the beginning of the class. why should we care? this stuff happened a few hundred years ago, uh, it's not clear that it affects our lives at least day to day directly, although i think, hopefully as the course goes on you'll you'll see that it does, but, basically why should we, why should we care? now one reason is of course good old-fashioned intellectual curiosity which is why, at least some of us are here. let's put that aside and assume that's not sort of, enough. why else should we care? one way to to think about this is that maybe what's happening today around us is_ are changes which might be about as, big and as important as the changes we talked about, last week. now how do we know this? we know this because, all kind of folks are talking about, about this stuff and they use words like globalization or a new_ the information age. the information revolution. uh the decline of, the working class the industrial working class. um, you'll see this in the papers on TV, uh, and you know hopefully you know i mean even in movies. so maybe something is happening now unfortunately we won't really know till it's all over. uh people who were alive during the Industrial Revolution, some of them had, had some sense of exactly what was going on but really the Industrial Revolution gets called the Industrial Revolution once it's done. um, and so that's somewhat unfortunate that means, in in another class like this maybe in another fifty years we might be able to say for a fact that what's happening now is a big change. so maybe it is maybe it isn't. but i'm going to make the argument just for fun that maybe it is. and we_ because it's happening day to day in small steps we don't really feel it in a big way. um, but maybe there's there's something to this... think back to the steam engine which is the last thing we saw last Thursday. and here's one machine that, single-handedly is responsible for massive social changes. not just changes in how we make things but in changes in how we relate to one another. that's one machine... arguably the s- the the role that the steam engine played back then is being played by, electronic machines or or the computer. basically any digital technology. certainly this is how a lot of folks talk about it. now if that's the case, if you make an analogy with what the steam engine did, then we ought to be able to make some analogies with what the computer is doing, to people, uh to work. this is actually one of the things some of you could pick for, one of the long uh questions on on the exam because, that's kind of, part of the spirit of it is to apply this stuff, to things which are going on now... so what are some of these, these changes? let's say if you compare the way you think about, your work and your day-to-day life, compare that with how your parents talk about, when they were growing up. are there things you can point to that are, that may or may not be related to, the development of this technology that sort of, sometimes strike you as being significant? (Amin) yeah. </U>
+			<U WHO="S4"> typewriters. </U>
+			<U WHO="S1"> yeah <OVERLAP> can you_? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> well </OVERLAP> like my mom's always like when i had to write papers we always had to write 'em on typewriters and it always took us, a lot longer cuz if you made mistakes you had to_ it was harder to change and, she's always like it took us so much longer than it takes you to write a paper these days. </U>
+			<U WHO="S1"> right. so that that that's a great example just the entry of text. has speeded up a lot yeah </U>
+			<U WHO="S2"> registering for classes. and and all my friends they had to go they had to go to different tables and say, i wanna sign up for this class instead we just, go into the lab pick our class and call up </U>
+			<U WHO="S1"> that's is that's right another (xx) yeah </U>
+			<U WHO="S5"> this is a little less student-like. but um, my co-workers at work um, where it used to be, it was just people in the same building, the people i work most closely with they're in, Chicago or England or Germany or India. </U>
+			<U WHO="S1"> that's that's, another great example um, if you make a technical support call to Hewlett-Packard or Microsoft these days your call is just as likely to go to Ireland or to India as it is to, Silicon Valley or wherever Washington, uh i mean the state Washington. uh, and you wouldn't know it but that's what's that's what's happening yeah. other things? other examples...? <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> i was </OVERLAP> just thinking about like pagers and telephones now you got email Internet service, first it used to be just like the garage door opener (but) now they're smaller more compact digital you know what i mean? </U>
+			<U WHO="S1"> right. right right um, i mean take even this, the way we organize this class we aren't even making full use of this stuff. but, the whole idea of giving you, uh links to files that exist, they_ i mean you don't even have to know that, the server that you, you clicked on for the for the, for the Marx and Engels Reader's in in England. i mean, it doesn't have to_ it's_ you should be indifferent to that. um, and <PAUSE DUR=":04"/> there's there's some f- pretty serious folks who've made, the argument that what's going on now, if you think back to the steam engine, the principle there was, using heat to produce mechanical energy. i mean it's a very simple, straightforward thing. but it, sort of means there's a there's a revolution in production and social, social relations. similarly what, digital technology allows us to do, is convert every kind of information there is, whether it's, visual, or text, or audio. information. to bits. zeros and ones. so in other words all_ virtually with every sense we are capable of except the sense of smell for the moment, we are able to reduce it to the same base. of you know again whether it's your eyes or your ears, uh your hands, things that you can do are reducible to a common denominator. and once that happens, it means, the ol- some of the old distinctions we (are) used to get destroyed. now, again there are folks in, in computer science and so on who see this as, quite revolutionary and the effects haven't, played themselves up completely, but that's, it's something to think about... now one thing we have seen which we know is happening, is that the industrial_ the classical industrial working class the folks who worked, in the same factory most of their lives or if not the same factory, uh just down the road in Ypsilanti. there are entire generations of of families who've been associated with, one or two company. you know the dad or the mom goes to work at the G-M plant, so do their kids. uh and it's literally been going on for generations. um, but those folks are, sort of on the way out. and you get that feeling that, their numbers are declining, uh traditional unions have been losing their membership, uh you know it's i think it's just over ten percent of the the work force now that's, unionized in the way it used to be, maybe this is like the peasantry. sort of a class of people that's losing its means of livelihood. because of the introduction of new technology. maybe maybe not. again we'll know this only after the fact. it's something to think about... (nin did) the dissolving of national boundaries. the most, perhaps the most spectacular example of this is what's happening to Europe now. i didn't bring a map of Europe with me but if you look at one, every country in Europe has been at war with every other country at least once. in the last, three or four centuries. they've all_ i mean that's been European history. basically constant warfare. with you know changing groups but, they've almost always been at war. now for the first time, they have the same currency, they have a common parliament, they have a common set of laws. one day they might have their own government. they just decided to form a common European military because, they don't want the U-S to have, the kind of power that it does. so th- this is pretty, pretty uh i mean it's a qualitative change. or at least it might be. that all of these countries are willing to put aside national differences that in the past, have created, no end of friction. and have resulted in the deaths of, tens of millions of people. and are coming together. for the sake of, why are they doing this...? what's, what have you been reading in the papers and and so on? why should these countries come together? </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-f"> to compete (xx) </U>
+			<U WHO="S1"> s- say that </U>
+			<U WHO="SU-f"> to compete with the United States? </U>
+			<U WHO="S1"> okay, yeah. to compete economically with the U-S, among, among other countries... so that it's easier to trade, within their borders so that they don't have to pay customs duties, within, s- when goods move from one country to another, so primarily for economic reasons it seems. uh, though there are others... so maybe fifty or a hundred, or two hundred years from now, folks will look back on this period and say, you know taking a class like this and on the transparency it will say, this was a revolutionary age. maybe. and and if that's the case then we are living through it right now. and if that's the case, then maybe this stuff, might be useful. because these are the closest to us in time. these are the closest folks we have, who dealt with such big questions. in in the way that they did. so maybe what they had to say then, has something to say about us now... so that's that's something to think about, because it's fun, and also because that's the kind of thing that's, uh that i expect you to think about, for the long questions on the exam. which are not strictly about, an interpretation of the readings per se, but, your application of, the material to something that's going on now. so this this would be a good time to just, you know collect ideas in your mind. you don't have to do it formally. but, just start thinking about these examples. and this is a very partial list. there's, there's qu- i mean if you started thinking about this you'd, come up with, with quite a few, okay any questions up to this point? <PAUSE DUR=":10"/> okay. <PAUSE DUR=":10"/> oh here's a quick example actually. <PAUSE DUR=":08"/> this is the growth of the... number of servers on, on the web... <U WHO="SU-m"> there you go. </U> not much going on. oh thanks. <PAUSE DUR=":06"/> thank you. not much going on... back here... and a few years ago it suddenly starts taking off. and it's not following a straight-line path. it's it's more it's more like an exponential curve. so that's, that's kind of one example of just the proliferation of, a particular kind of machine. or or kind of technology. that may ultimately turn out to be, kind of like the steam engine. maybe more profound than that... <PAUSE DUR=":05"/> okay <PAUSE DUR=":06"/> okay so let's get to, the first person that we are going to look at. <PAUSE DUR=":09"/> and that's Karl Marx, you read a little biography of, uh of him, in one of the books... so he had an interesting life as did all the, the folks we are going to look at... now there're_ but there are particular problems associated with studying Marx. um... unlike the other folks... because... s- sort of <SIC> paradoxily_ </SIC> bu- but paradoxically because he's had, by far the biggest impact. of of the folks we are going to look at. whole you know countries have been, overturned in, in his name... wars have been fought, you know uh he's, i think i saw there's an index of how often things are cited and i think the Bible is the most cited, book at least in, uh in in the West, uh and Marx comes second. so just as an, ex- just as an example of how influential, uh Marx has been. these_ but these days there's a tendency to dismiss Marx as, obsolete or irrelevant, and i'm sure you've heard this you know, if Marx was correct, why did the Soviet Union collapse? because it did therefore Marx must have been wrong. now that may actually be correct maybe that, that does mean that Marx is wrong. but whether it's correct or not, it just makes it harder to, a little harder to to study him today <PAUSE DUR=":05"/> and, another problem is, that he's often misrepresented and simplified, by both folks who... are Marxist or claim to be Marxist and by folks who, oppose Marxism. it's a very political, subject. and so simplifications are made, accusations are traded back and forth, and all of this makes it, difficult for the introductory, sociology, class, to deal with, with him fairly... now what we're going to try to do, to the extent that we can, is put some of that aside at least for the moment, and try to deal with the material as it is. now of course, what's really interesting about it is all this other stuff. was he right was he wrong and so on. but the first step, before we get to that, must be to understand what he actually said. so that's what i'm going to ask you to do is at least for the next three weeks which is how long we'll spend, on Marx, that... while you read the stuff, for a moment, put aside the explicit political stuff, and then come back to it once you've read it... now here's how we are going to do this... we're going to do this over three weeks, in each week, i mean this, you know Marx wrote, in the Collected Works of Marx i'm not kidding there's (in the) hundreds of volumes so, and we have to do this in three weeks right? so we are going to, take just three main ideas, and we are going to h- hit upon them one in each week. and what we are going to do instead of trying to cover a whole body of stuff, is confine ourself to these. but try to come at them, in, as many different ways, as as we can... now here let me say a word about how the readings are organized, since one of you asked about this. last week it was easy to split the readings by day. you know you had the French Revolution then you had the Industrial Revolution. now for the next three weeks and probably for the rest of the course, really what we have is, one or two main ideas that permeate the whole set of readings. so what i'm going to ask you to do is, get through as much of the reading as you can for the first day of that class which is Tuesday. it's it's rarely more than thirty pages a week so in terms of volume, i think i hope it's doable, you'll have to tell me if it's not. um and come prepared on, Tuesday with the entire body of reading. because really the ideas come from the whole thing. now for practical purposes we will break it down into two class meetings. and what that means in practice is that, as you go down the list of readings, the first, few of them will be the ones we deal with on Tuesday and then, the you know, the ones below but it's h- it's actually, much harder for me to make that demarcation for these weeks than it was last week. so let me know if you have trouble with that but for the most part, see if you can get through all the stuff before, before Tuesday. uh and and we'll see how it goes. <PAUSE DUR=":05"/> okay le- okay so let's, let's consider these one at a time... now the reason we looked at the Manifesto first is that, it actually lays out all the three ideas, sort of in, you know briefly. and so we can use the Manifesto to, lay all of them out, and then go through them one by one... so, what we'll do for the next two days, so today and Thursday, is, use the Manifesto, to cover each of them, quickly. i mean, relatively quickly. and then come back to them over the next two weeks so just to give you kind of a map of of where we are going... now one of the first ideas in in the Manifesto, that we are going to deal with, is something that i hope, you are somewhat surprised by. which is, essentially Marx's praise for capitalism and the bourgeoisie. now remember this is a guy who spent his life, trying bring down a particular way of doing things. and yet he he refers to capitalism as revolutionary. and this_ the the word greatness doesn't come from the Manifesto it comes from something else but he refers to capitalism as being a great system. of of production and of organization. and we are going to spend, a a fair amount of time on that today, and then also on on Thursday. also on Thursday we'll take, a quick look at the materialist theory of history. which_ there's, one of the readings there was, for today was the speech by, by Engels. which has a very, kind of quick one-paragraph summary of, of of this idea. um, which is that how people make a living, basically it comes down to this, how people make a living is what you should look at if you want to understand everything else about the society in which they live. their art their ideas their religion their politics, all of it sits on top of the organization of their way of making a living. that's really in a nutshell. it's it's more complicated than that but that's it in a nutshell... finally we'll, we'll see this aspect of Marx's analysis, this word transience comes from the same, same piece in which he uses the word greatness. and, this is something very important a- about Marx to keep in your mind. he_ his take on capitalism is not simple. yes capitalism sucks. and that's what most people know about Marx. right? that that's what he said. at the same time, capitalism is great. and these two words are_ sort of, encapsulate these ideas. it's great, but it's transient. it's great because it does, a whole lot of things that we'll talk about, today. but it's transient. like all of the economic- economics assumes, it has a beginning and it will have an end. and he claims that he kn- he understands how it's going to end. what the mechanism is. so it's great, but it's not going to last forever. it's great but it's also oppressive. and so on so it's this very complicated, uh sort of fairly sophisticated view of capitalism. uh that's a little different from what you may have seen, or or read about Marx before. so i want you to keep that in mind. <PAUSE DUR=":05"/> okay any questions, so far...? before we get into the actual meat... okay the Mountain Dews are coming out, which means it's time to take a break, and so again what we'll do when we come back, is, touch upon all of these, using the Communist Manifesto, uh focus on the first, then we'll come back to these two on Thursday, and then cycle through them, next week and the week after okay let's uh, we're doing pretty well on time so let's take about five minutes and we'll come back. </U>
+			<U WHO="SS">
+				<EVENT DUR="1:40" DESC="UNINTELLIGIBLE CONVERSATION"/>
+			</U>
+			<U WHO="S1"> ask your question again and so that, everyone can can hear it </U>
+			<U WHO="S3"> (xx) i just asked the question that <OVERLAP> if </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> can </OVERLAP> you guys hear? </U>
+			<U WHO="SS"> no </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S3"> if uh, if you know this big revolution occurred the Industrial Revolution and the Enlightenment, i personally don't see how much, much anything has changed since before, uh these th- revolutionary Enlightenment, uh most everybody worked, for a small part of the population, and now after the revolution, most people still work for a small part of the population. <EVENT WHO="SS" DESC="LAUGH"/> and the only thing is they just have a different names. instead of being nobility they're, owners of factories or something. </U>
+			<U WHO="S1"> okay that's a great question. did you guys catch it there? </U>
+			<U WHO="SS"> yeah </U>
+			<U WHO="S1"> okay. so if you'll allow me just, rephrase it a little bit... <EVENT WHO="SS" DESC="LAUGH"/> it's a great question to ask and it's exactly what, if you go back to the, the history of the time there's a whole movement that develops almost right away, as soon as the factories start coming up. um uh y- you might have heard of workers who went around smashing machines, uh of throwing, uh some of you know the, the origins of the word sabotage. the word <FOREIGN> sabot </FOREIGN> is the French word for shoe or boot. and that's literally what workers would do is throw their shoe into the, <U WHO="SU-f"> machine? </U> the machine, you know so it would, it would uh break down. um, and a lot of folks were saying, hey, old wine in new bottles you know, got rid of the old masters, here's the new ones. um, what's changed? uh and this is one thing that distinguishes Marx from other critics of capitalism and there were many. is that Marx actually saw something else going on. uh which he pointed to. so, here's a quote from the Communist Manifesto which, sort of repeats the point, uh that Marx made, uh that Mark made here, <SEG TYPE="READING"> the bourgeoisie has esta- has but established new classes new conditions of oppression, new forms of struggle in place of the old one. </SEG> yeah, that's true... however if you read the reading, you'll know that something else is going on. and to get at this what we're going to do is, f- uh if you guys could form groups of four or at most five. to, answer this, try to take a crack at this question. why for Marx_ why does Marx say that the bourgeoisie has played a most revolutionary part? even though, he also says that what it's done is exchange, old masters and new ones. now when you guys get together i'd like you to_ all to do one logistical thing if it helps you this is optional. um is to, within the four or five of you, is create, an email mailing group amongst yourselves for that group so that you have a way to, uh just talk about this stuff as you're, as you're doing it. i find that helps, e- or that did help me when i was, back a long time ago when i was taking classes, uh it's up to you it's optional, uh i would encourage it, uh but y- and then to deal with this question, and we'll do this for a, for a few minutes, um see how much you can come up with. from, from the reading. there's no mystery about this it's all there. so, let's take a crack at this. four no more than five people in a group. and what you're trying to do is answer this question right up here. </U>
+			<EVENT DESC="BEGIN SMALL-GROUP DISCUSSION"/>
+			<U WHO="SS">
+				<EVENT DUR=":53" DESC="UNINTELLIGIBLE CONVERSATION"/>
+			</U>
+			<U WHO="S7"> i think i remember, reading that, one of these things. yeah i like underlined it... somewhere </U>
+			<U WHO="S4"> i think mostly that it was that... it takes forming classes and it (kind of) (xx) it was revolutionary because it takes two classes instead of multiple. it was more like people that owned, the factories (or) whatever and then all the workers, even the people like before, capitalism people that had_ like that were talented in their trades were given higher pay, were considered higher than ordinary (day) workers whereas after (Engels and) (xx) and (everyone else) was giving it a try and you know with capitalism everybody was on the same level, you would pay them the same amounts, you worked at the same </U>
+			<U WHO="SS"> (xx) </U>
+			<U WHO="S8"> i mean, yeah except that like between the two classes like the, like some people were paid, like they weren't really paid for their work. <U WHO="S4">
+					<OVERLAP> yeah well not necessarily payment differences </OVERLAP>
+				</U>
+				<OVERLAP> like they got the, the (abusive) upper upper class </OVERLAP> like they weren't really benefiting from the goods that they made, <U WHO="S4"> mhm </U> and even before like the Industrial Revolution they weren't paid, paid for the benefits, for the um goods that they made people_ other people were benefiting off that, they were just like okay well yeah you did your work that's fine that's good and everything like that. they weren't getting anything out of it. and most_ (the whole idea behind) (xx) capitalism ever- like the upper class pretty much benefit, because of what their resources were at the the lower_ not low class but the lower classes don't get benefit based off the work that they did. </U>
+			<U WHO="SU"> mhm </U>
+			<U WHO="SU-9"> (xx) (Industrial Revolution.) </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-f"> do you have any thoughts? </U>
+			<U WHO="S8"> i mean i just wrote up, wrote this, wrote up on this book, so um <EVENT WHO="SU-f" DESC="LAUGH"/> and it's coming apart so i'm trying to </U>
+			<U WHO="SU-f"> it's already_ oh is it used? </U>
+			<U WHO="S8"> yeah but i'm_ i did a lot of the writing in here, just trying to get the general point, i didn't know how far to read so i, i accidently read, damn near up to here. <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":05"/> yeah here it is it says like the <SEG TYPE="READING"> the idea of alienation of labor is (the) more obvious the workers produced, the theory can divest, the more involved with the domination of profits of capitalism. </SEG> yeah <SEG TYPE="READING"> workers' efforts to enrich and empower those who oppress them, the capitalists (xx) the powers themselves. </SEG> and, he also made something about private property. and he said, <SEG TYPE="READING"> it's not a part of the natural human conditions, </SEG> which means like, people owning private property, you know they do not, benefits to other people. </U>
+			<U WHO="SU-m"> man he was a true communist. <EVENT DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> so how do you think... the (uh bourg-) was, played a (roles) revolutionary part? </U>
+			<U WHO="SU-8"> (xx) </U>
+			<U WHO="SU-7"> yeah. </U>
+			<U WHO="S9"> yeah i just find where, where the sentences (xx) </U>
+			<U WHO="S4">
+				<OVERLAP> what? </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> (xx) </OVERLAP> i just find. <U WHO="SU-7"> oh </U> where (those) sentences (were.) <U WHO="SU-4"> yeah <EVENT DESC="LAUGH"/>
+				</U> and it said um </U>
+			<U WHO="S8"> well, in in a way those who are oppressed have been like inspired, pushed by the bourgeoisie to like, try harder to like want equal democr- some sort of a democracy. <U WHO="SU-7"> yeah (kind of) </U> the bourgeoisie is like like the like the up- really upper working cla- no yeah the upper working class it's pretty much like the upper class (xx) i mean here in the States anyway. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S4"> see right, right here it says, <SEG TYPE="READING"> it has converted the position of the lawyer the priest the poet the man of science into, into paid wage laborers. </SEG> it's like, <U WHO="SU-7"> yeah </U> everybody that held, that were still workers but that were like, given certain titles like a lawyer or a priest, <U WHO="S8"> right </U> they were_ all of those people were put into one clump of people. <U WHO="S8"> right </U> those were the labor workers. </U>
+			<U WHO="S9"> so it just naturally is polarization of classes? <U WHO="SU-4"> yeah. it was just </U> (xx) and the proletariat and, the bourgeoisie. </U>
+			<U WHO="S4">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah </OVERLAP> , now, i'm i'm still a little lost on what what they meant, the definition like of proletariat. (what is it?) </U>
+			<U WHO="S4"> the proletarian is one of like the working class the laborers that wanted change. </U>
+			<U WHO="S8"> (and) the proletariat (is) made up of (a) very large part, <U WHO="SU-4"> yeah, that's <OVERLAP> the m- that's, cuz the </OVERLAP>
+				</U>
+				<OVERLAP> the large- the largest part of the bourgeoisie (xx) </OVERLAP>
+			</U>
+			<U WHO="S4"> bourgeoi- is that how you say it? </U>
+			<U WHO="SU-f"> i don't know. </U>
+			<U WHO="S8"> bourgeoisie. </U>
+			<U WHO="S4"> the bourgeoisie was a very minimal amount of people. there was only, there was_ it was very small it was the minority and that's what the whole thing was was that </U>
+			<U WHO="S8"> the minorities were actually the ones, in control. </U>
+			<U WHO="S4"> exactly. </U>
+			<U WHO="S8"> that's a switch. </U>
+			<U WHO="S10"> the minority was like actually the majority too. <U WHO="S4"> yeah. </U> (xx) so (harsh.) </U>
+			<U WHO="S4"> cuz they had all the power. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S8"> i agree with some things, but i ain't agreeing with everything. <EVENT DESC="LAUGH"/> (xx) </U>
+			<U WHO="S4"> so there's probably been most revolutionary because, it caused people to_ i don't think_ you were saying how it was all <OVERLAP> (xx) change </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> i- it </OVERLAP> pretty much caused people to want to rise up and change like work work better or or something like_ because there was_ , now when we get into Weber, di- i was talking about this in my previous class just there's a reason why they set up (an) economic society, like, there's two people there's a guy named Adam Smith who said you know i think everybody should just, do as they want to in their own self-interest and the economy will be fine. but then there's this other guy who says no, we need the government to do that. to to p- to perform efficiently to stimulate the market so, in a sense you need the bourgeoisie to stimulate like, not only (just) the market but, production or the indu- industrialization. i'm just trying i'm trying to find, the thing to pinpoint what i'm trying to say. i- it's har- it's really hard to say </U>
+			<U WHO="S4"> it is (xx) (really is) </U>
+			<U WHO="S7"> well they started you know forming trade unions and everything so <U WHO="S8">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i mean, </OVERLAP> cuz that was a way for everybody to band together and say you know this isn't right that we're working fourteen-hour days and we're working in these conditions and </U>
+			<U WHO="S8"> back in the day <OVERLAP> they </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> so </OVERLAP>
+				</U> was hitting eighteen hours or <OVERLAP> more </OVERLAP>
+				<U WHO="SU-7">
+					<OVERLAP> yeah </OVERLAP>
+				</U> they had twelve-year-old kids <EVENT DESC="LAUGH"/> hitting the <OVERLAP> sledge. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> right </OVERLAP>
+			</U>
+			<U WHO="S4"> i think that's probably why it's (xx) the most revolutionary part. is that, with all the, all these people being oppressed and that's what caused the revolution (to take place.) because the bourgeoisie was oppressing all the, laborers. <U WHO="S7"> right. </U> that caused them to form trade unions and <OVERLAP> to form </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> right. </OVERLAP>
+				</U> into these groups that wanted change. </U>
+			<U WHO="S7"> and since they were the majority i mean it's always easier to, for the majority to take over <U WHO="S8">
+					<OVERLAP> to gain your vote </OVERLAP>
+				</U>
+				<OVERLAP> a minority </OVERLAP> yeah. <OVERLAP> i mean you get enough </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> like he said </OVERLAP> the bourgeoisie was taking ('em) over, <OVERLAP> so </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> right </OVERLAP>
+				</U> you know they like kept expanding, all this technology, however they weren't treating their workers well but they needed workers also for their, <OVERLAP> for themselves </OVERLAP>
+				<U WHO="SU-7">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> to run this advanced technology so it's </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> right they felt like since the machines </OVERLAP> were coming in i can pay you less <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> they didn't realize </OVERLAP> that they had to keep their workers happy. </U>
+			<U WHO="S8"> i mean that's what minimum wage is. that means i (could) pay you less if i could but it'd be illegal. <U WHO="S4"> yeah, <OVERLAP> exactly. </OVERLAP>
+				</U>
+				<OVERLAP> and minimum </OVERLAP> wage also means they don't give a shit about you. <EVENT WHO="SS" DESC="LAUGH"/> and <EVENT DESC="LAUGH"/> they were tell- they were talking to (Million Men) today about minimu- uh minimum wage in the middle class. i'll be damned if you make five fifteen at McDonalds you n- i'll be damned if you the middle class. <EVENT DESC="LAUGH"/> the managers at McDonalds ain't even middle class they will tell you that man, kids ain't got no shoes on their feet, they ain't got no good clothes to come to work, that's why they always got that damn shirt. <EVENT WHO="SU-m" DESC="LAUGH"/> i swear. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-m"> okay </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S8"> i definitely gotta start taking notes after this book </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-4"> it's just that, he he goes from, one thing to another, like he like, some of his thoughts don't coincide, to me. </U>
+			<U WHO="S8"> he just, you know he just believe everybody should <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<EVENT DESC="END SMALL GROUP DISCUSSION"/>
+			<U WHO="S1">
+				<OVERLAP> let's start with uh you folks in the, the back over there, yeah you guys. </OVERLAP> right there. </U>
+			<U WHO="SU-f"> we're two different groups. we're a group and they're a group. </U>
+			<U WHO="S1">
+				<OVERLAP> um, the one behind </OVERLAP> you. <U WHO="SU-f"> oh <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> yeah. </OVERLAP> um, someone from that group, can you say what you came up with? </U>
+			<U WHO="S11"> um, the, bourgeoisie changed family structures and the relevance of like, certain skills like before you know it was good to be a farmer and now it was good like, they would work the machines, um, it brought the concept of modern industry and a world market um more to the forefront, it put a price tag on everything, and it, sort of would change the way people looked at class structure it was now, how much money you had and not who, what your title was or who you were related to or something. </U>
+			<U WHO="S1"> okay. okay. anything, okay. yeah. that was all, part of what, what was in the Manifesto. let's collect the list and then talk about it so that was that was that was a great start. how about you folks right here? </U>
+			<U WHO="S5"> um, what the bourgeoisie did, was, they opened a path for future revolution. by breaking down the former institutions that were held up by things like divine right, which, unless you don't believe it you can't really say much against. their institutions were founded on, reason and ability. um and, Marx points out that those are the tools that the proletariat are gonna use to break down, um the bourgeoisie whole and. that's what he sees as the path of revolution. unlike previous institutions, they create, a path where they_ we are from. </U>
+			<U WHO="S1"> they they create a path? </U>
+			<U WHO="S5">
+				<OVERLAP> right </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> uh </OVERLAP>
+				</U> or or a means to overthrowing themselves. the <OVERLAP> tools </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U> are just not, their own. that they can be used by others. </U>
+			<U WHO="S1"> okay that's, that's another great point. so it, basically creates its own gravediggers <U WHO="S5"> right </U> as it says. okay. that's good stuff. um, how about, y- you folks right over here. yeah. <U WHO="SU"> (xx) </U> gum, you guys. </U>
+			<PAUSE DUR=":04"/>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S12"> okay. um... from a quote wha- what's that, quote from? was that from the Manifesto? <U WHO="SU-f"> yeah </U> from the Manifesto where he talks about, uh i don't know um, how s- si- self-interest is laid bare in capitalism, it_ whereas before like in the feudal state, there was this facade of the feudal lord taking care and watching over the people, so there is less chance for revolution, or a_ yeah. it was jus- it didn't seem as inevitable whereas, in the capitalist state it's so obvious that they're just_ the workers are being exploited, that it seems like revolution, is absolutely necessary, because they're gonna eventually, get tired of being exploited and, it's gonna be that final revolution (xx) it's the new stage of communism or whatever the communist state. </U>
+			<U WHO="S1"> mhm very good so, so it strips away the illusions of, of feudal society. (like absolutely) um okay any- anything else now? sort of let's have it as a free-for-all... why else is the bourgeoisie, revolutionary? yeah? </U>
+			<U WHO="S13"> he said that uh, it created even further social distance between, like the worker and the people with the money, and that's oftentimes what the cause of war is, it's dissatisfaction with one class group (with) another. but the whole fact of capitalism is that basically who has the money is who makes the decisions. so now you have this really wide gap between groups. <U WHO="S1"> okay. </U> and, there's one group with the money so, h- hence they have the power. and they're gonna satisfy their collective self-interest. thus ignoring, the lower class we had_ i think we saw like a lot of intermediate levels exasperated. and you just have like the workers, and the bosses. <U WHO="S1"> mhm </U> and so now it's more, there's a lot more unrest socially. because the people with the money like you said are calling the shots basically disregarding those that are working for 'em as opposed to the feudal state. </U>
+			<U WHO="S1"> okay. okay that's very good. yeah. split society up into, into these two big chunks of people. yeah? </U>
+			<U WHO="S5"> he also points out um, quoting him <SEG TYPE="READING"> the bourgeoisie cannot exist without constantly revolutionizing the instruments of production, and therefore the relations of production, within the whole relations of society. </SEG> which is, pretty marked changed from the institutions that preceded the mm sorta revolution which, relied more on things being, fixed in stone. </U>
+			<U WHO="S1"> okay okay. so compared to previous, <U WHO="S5"> right. </U> systems, it's m- it innovates more. <U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> (while) it creates more. </OVERLAP> right. exactly. okay we've_ i mean there's not much more to it than that we've sort of accumulated the the reasons here, let's just go through them systematically s- um... so that we have them all down. now again you don't have to accept, the validity of this way of looking at it. uh you may still at the end of it conclude, perhaps Mark will, will say at the end of all this that, well it still means there's some people on top and, a lot of other people who work for them and nothing's changed so, you may still conclude that. but let's see what Marx, what Marx said about this... so this is something... at least a couple of you said </U>
+			<U WHO="SU-m"> could you raise that up a little? </U>
+			<U WHO="S1"> oh yeah. <U WHO="SU-m">
+					<OVERLAP> thank you </OVERLAP>
+				</U>
+				<OVERLAP> sure. </OVERLAP> how's that? <U WHO="SU-m"> better... </U> okay so one of the one of the reasons the bourgeoisie's revolutionary is that in contrast to the, very fine distinctions of the feudal period where, not only were you a noble but you were a noble of a particular kind uh or i mean you had a particular status and there were all kinds of fine distinctions, um you know if you were a peasant you could be, one of, you know you could be a small peasant a big peasant and so on, and there's a, there's a sort of complex social hierarchy that ranks people and that dictates what they're going to be allowed to do. that's at least how Marx claims feudal society was, in the place of that... capitalism does does the following... it splits society up into what Marx calls two great hostile camps. the bourgeoisie and proletariat the capitalists and the workers. now this is a good place to talk about some definitions. for Marx the bourgeoisie is, the definition is those folks who own, the means of production. the means of production are the factories, also the big banks, um, and the folks who own this stuff are the bourgeoisie. the workers are, everyone who works for the bourgeoisie. uh or in uh in in more technical language that we'll get to next week, they're the ones who have to sell their labor power to the capitalist. so a person's skill becomes a commodity which, a person takes to the market and waits, until someone buys that skill. for some period of time. so that's the definition of a worker. someone who is selling their, their skill. or their labor power. um, now again Marx is aware of, you know that that there's also this middle class the professionals lawyers and so on who aren't the big bourgeoisie and who aren't the workers who sort of fall in-between and he has something to say about them too. that they either go up, or they go down. that the tendency for the folks in the middle is, they aspire to go to the top. that's kind of, their class interest is to try to rise to the top. but every time there's an economic crisis a whole bunch of them will fall down into the ranks of the proletariat. so he's aware that there are folks who don't, you know who aren't at th- who aren't in the bourgeoisie and who aren't in the workers, but his claim is that the rest of the folks in the middle, over time either l- land_ either get bumped up upstairs, or get dropped. um, so for the moment we'll just concentrate on the bourgeoisie and proletariat. so that's one thing revolutionary about capitalism or about the bourgeoisie it makes things simpler. okay? compared to feudal society. <PAUSE DUR=":06"/> and then this is also what some of you guys said. <SEG TYPE="READING"> the bourgeoisie wherever it has got the upper hand, has put an end to all feudal patriarchal and idyllic relations. </SEG> so again, you know what she said about stripping away the, sort of sentiments or, some of the illusions of the feudal system, wherever the bourgeoisie gets the upper hand, it replaces all of that with what Marx calls the cash nexus. now i wish i'd brought this in uh, the latest issue of Town and Country magazine, which has Giorgio Armani on the cover, has a special section on divorce. and, presumably the folks who read Town and Country are, pretty pretty well-off so, this sort of makes sense, but the section on divorce is, about how to manage a good divorce. like what's a successful divorce? <EVENT DESC="SS LAUGH"/> and, well you know given that about sixty percent of marriages end in divorce it's not, an unreasonable thing to talk about, and, the, the section begins, not with, the m- what you might have guessed is let's say, how to treat kids during, a divorce which presumably is pretty important. but the first thing is what? <U WHO="SS"> how to treat money </U> yeah. how to, how to avoid costly disputes about money and if you do have to have those disputes how to make sure that you come out on the winning side. <EVENT WHO="SS" DESC="LAUGH"/> that's the first section. um, then right after that there's how to take care of the kids. so it's not that that's not important, but really the <U WHO="SU-f">
+					<OVERLAP> right right </OVERLAP>
+				</U>
+				<OVERLAP> first thing is </OVERLAP> the money. now presumably this matters only to people who have lots of money for, other folks, you know pre- it's, it's not that big a deal. but that's sort of what Marx is talking about. is, the stripping away of sentiment and replacing it by, with th- th- sort of what he calls a cold calculation of cash. and that's revolutionary for Marx. because it makes, it sort of destroys, the basis for having, for having illusions basically about how things work it makes them transparent okay? <PAUSE DUR=":11"/> and then the bourgeoisie's, technological sort of role or development which also, you guys raised. in Marx's time it had been around for about a hundred years depending on how you count, and according to Marx, the bourgeoisie has created more massive, and more colossal productive force than all preceding generations put together. and he has that paragraph where he talks about, you know you put everything together the Great Wall and the the Egyptian Pyramids, and so on you put all of this together, and the bourgeoisie has outstripped all of this. in showing what people can accomplish. um, you might remember at the end of the film we saw, uh last, Thursday, about the Industrial Revolution where he talks about, how much stuff we extract, from the earth to make other stuff. and it's all in the_ you know a few hundred million tons of copper steel i mean n- not steel but, you know all the stuff that we get out of the ground, every year. uh it's just huge. i mean, before this, i mean who who would have dreamt that this kind of engineering was possible? and that for Marx, is a good thing. <PAUSE DUR=":11"/> okay, lemme just keep going through the list and then we'll stop and come back and go through all of it again, just to make sure that, that it's clear. <PAUSE DUR=":24"/>
+				<SEG TYPE="READING"> the bourgeoisie has created a world market. </SEG> now it's not like people weren't trading across national boundaries before remember for example Marco Polo or all all these folks who, routinely went across long distances and, exchanged things and and made profits and so on. so it's not like, the whole concept of that kind of trade is new. what's new is the scale. is that the entire market becomes_ the entire world becomes, a market for the bourgeoisie. if you're familiar with the colonial history of, uh of of Europe, you'll know that where_ i mean there were whole countries where markets did not exist and the the various European countries invaded them and made them markets. so that's what he's talking about here. is that... by force or, by means of trade one way or the other the bourgeoisie unites the world into one market. you know at huge cost of course. both to, the people in, say countries like England and also, the countries that get colonized. but it brings them together. what's good about this, is, that national one-sidedness and narrow-mindedness become more and more impossible. now of course this is_ this wasn't, strictly true back then, it's not true now we haven't gotten rid, of national narrow-mindedness. but Marx's claim is that, once you have people, living in such a way that, you know i mean the m- when you wake up tomorrow morning try to think of the sequence of_ be conscious of the sequence of steps you go through, take a look at where maybe your toothpaste is made, certainly your clothes, um... the technology you use and so on. Marx's claim is that for each person to lead, to carry on their, their day-to-day life, they're in a sense united with people, they might never see. from across the world. um, and that that's a good thing. it, it at least lays the basis for bringing people together, whatever their characteristics or their national origins. um, you know so this is again one of the things that's, that's revolutionary about the bourgeoisie. and then this last point which_ this is the most, it's actually only one, it's sort of the same, same point but this is the quote you might see most often from the Communist Manifesto, and it's kind of, it's a little bit like the Declaration of Independence that we saw, uh last week. even if you've seen it, uh you know let's um, let's sort of take a look at it just because, it's quoted so often and, it kind of encapsulates the whole whole idea. so <SEG TYPE="READING"> the bourgeoisie cannot exist, without constantly revolutionizing the instruments of production, and thereby the relations of production, and with them the whole relations of society. </SEG> please don't copy this because it's all in your books. um, <SEG TYPE="READING"> conservation of the old modes of production in unaltered form, was on the contrary the first condition of existence for all earlier industrial classes. </SEG> so, actually this industrialism, sort of a mistranslation here it should be all, rul- earlier ruling classes. so Marx's claim here is that, previous to, to capitalism... the stability of, or or the existence of, the folks on top, depended much more on things remaining the way they were, than on things changing and improving. so Marx claims that the bourgeoisie's the first class, which, in order to exist, has to change. constantly. has to improve, the means of production, as quickly as it can. now why is this? why_ i mean this is sort of, this is how we live so, why is the bourgeoisie compelled to do this? <PAUSE DUR=":07"/> if you're Microsoft, or if you're some_ s- say that? </U>
+			<U WHO="S3"> to make more money. </U>
+			<U WHO="S1"> right but why can't you just say sit still, and, continue making money (xx) </U>
+			<U WHO="S3"> cuz somebody else, <U WHO="S6">
+					<OVERLAP> cuz somebody else </OVERLAP>
+				</U>
+				<OVERLAP> somebody else'll </OVERLAP> come in and try and (pass you.) </U>
+			<U WHO="S1"> right. right. </U>
+			<U WHO="S6"> you gotta get on top of capitalism, not let you become like, capitalized by your own system, okay. you hafta keep up with the Joneses. </U>
+			<U WHO="S1"> right. right. i mean in the case of the big companies with the <U WHO="S6">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> other folks </OVERLAP> who are trying to do the same thing. </U>
+			<U WHO="S6"> you buy up all_ everybody else's companies, and make them yours that way you own everything. </U>
+			<U WHO="S1"> right. that's sort of the tendency isn't it? um... so yeah. if you don't do something better someone else will. and then they'll, they'll capture the market. um now this is unlike_ at least Marx claims this is unlike the feudal ruling classes who really didn't have to deal with, much of this stuff. for example the way that agriculture was done, remained pretty much the same for hundreds of years, though there were inventions like the plow and so on. but for the most part, kind of remained static, until the bourgeoisie came on the scene. so again, uh the bourgeoisie cannot exist without constantly innovating. <SEG TYPE="READING"> constant revolutionizing of production, uninterrupted disturbance of all social conditions, and everlasting uncertainty and agitation, distinguish the bourgeois, epoch from all earlier ones. all fixed fast frozen relations, with their train of ancient and venerable prejudices and opinions are swept away, and all new-formed ones become antiquated before they can ossify. all that is solid melts into air, all that is holy is profaned, and man is at last compelled to face with sober senses, his real condition of life, and his, re- and his relations with his kind. </SEG> with other people. okay so this is, this is what's revolutionary about the bourgeoisie. it keeps changing the world because it has to. that's the only way it can survive. in s- in so doing, it constantly destroys old ways of living, and constantly throws up, questions in people's minds, about, how they live and so on. now these are all claims. this may or may not be, in fact how it works. but this certainly what Marx is saying about it. is that, it all that is holy is profaned for example. <PAUSE DUR=":05"/> okay. so let's start over, and, that was just kind of, to get the flavor of this... let me just <PAUSE DUR=":08"/> okay. questions, about this stuff...? yeah. </U>
+			<U WHO="S13"> i have a question in the, proletarian version of this section, (in here) it says um that the movement of the proletarians was the only majority, revolution but what about the Third Estate? i'm confused. </U>
+			<U WHO="S1"> oh okay good question um... the, he's he's really talking about, by by the ti- he wrote the Communist Manifesto in eighteen forty-eight. and, the French Revolution, happened in seventeen eighty-nine. and so by the time he's writing, he's assuming that, the Third Estate which, which was the bourgeoisie, has won. and has consolidated its, its rule. and, so now he's, he's talking about, the proletariat rather than, than those guys... i don't know y- you still look puzzled... </U>
+			<U WHO="SU-m">
+				<OVERLAP> i thought tha- </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> so the Third </OVERLAP> Estate (did_) was a majority revolution? (that is an oddity, or?) </U>
+			<U WHO="S1"> oh okay. um yeah it was a majority revolution in that it represented most of the people in France, compared to the f- the First and Second Estates. but within the Third Estate it's actually, the upper middle class that really ultimately comes, to the top. uh of France and then more or less over Europe over a period of time. um and becomes the new ruling class. and so Marx chooses to call it the bourgeoisie. and so now when he's talking about, the proletariat being the movement of the great majority, he's actually talking about, basically anyone... i saw another, at least another hand, huh? <PAUSE DUR=":04"/> okay other questions, about, revolutionary character of the bourgeoisie? or about any of this stuff? (yes) yeah? </U>
+			<U WHO="S6"> uh, i kinda think of the bouja- <SIC> bouarsie? </SIC>
+				<U WHO="S1">
+					<OVERLAP> bourgeoisie </OVERLAP>
+				</U>
+				<OVERLAP> bou- bou- </OVERLAP> bou- (i can't say it.) <SIC> bourgeoigie. </SIC>
+				<EVENT WHO="SS" DESC="LAUGH"/> (got a little complicated) as the top one percent, of like, everyone and like everybody in this room to me is like the other ninety-nine percent, unless you're owning something. i kind of think of capitalism as just, it's gonna be like in a minute it's just gonna be like three or four people. that has ownership over everything, and then it's gonna be everyone else who has, who's probably working i mean, people might make seventeen dollars an hour but that's not gonna be s- status quo like during that time and i'm just wondering like, when are all these people gonna realize that they're getting crumbs that they're fighting over these crumbs right? everyone else is, making money like a million dollars it's not what it was yesterday, or Kevin Garnett wouldn't be trying to get a hundred twenty-seven of it. do you know i'm just, wondering, wha- what's all the fuss for? now. about this little bit of money that you're arguing about which is, nothing. </U>
+			<U WHO="S1"> well that's a great question and that's the kind of thing if, you want to deal with it, for you know f- f- for the part where you really tackle what this stuff means today. that's absolutely the kind of thing to look at. maybe i should bring in some numbers about this um, uh if you look at the wealth, wealth holdings in the U-S um it's pretty narrowly_ the the actual ownership of the means of production, is very narrowly concentrated. it's about, a couple of percent of the population maybe less like you said. um, so certainly, what, Marx would take that to mean is that, the rest rest of the folks are_ even if as you say_ even if they're fairly well off, in terms of standard of living, so long as you exist by having to sell your your labor power as a commodity so long as that's the condition of your existence, you belong in the proletariat even if you make, seventeen, <U WHO="S6"> (twenty) thousand </U> or twenty dollars an hour. most computer programmers make pretty good money these days so yeah? </U>
+			<U WHO="S4"> i just have a question so the, bourgeoisie was just mainly the people that owned the major factories. or the major, <U WHO="S1"> yeah </U> products. <U WHO="S1"> yeah </U> even people that owned like even like, i don't know like people that nowadays would be considered middle class were not, part of the bourgeoisie. it was just the owners of major factories. </U>
+			<U WHO="S1"> yes. yes. that's the strict Marx Marxist_ let me just say one more, <U WHO="S15"> yeah </U> thing about that and then, um he had another term for the f- for the other folks which was, the petty bourgeoisie. and petty just means small. so, uh, most middle-class folks would be, in that in that category. yeah? </U>
+			<U WHO="S15"> um, i'm just wondering how selling one's, labor is so different from the way, it had been in the past? i mean in the past you were using your labor to produce food and then you were giving the food away <U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> (as labor,) </OVERLAP> it's just a different, sort of payment system. and i'm just wondering, really how vast the change, was. </U>
+			<U WHO="S1"> okay. if you'll permit us to defer that question to the third week which is when we will look at that in great detail, but that's exactly, it's a version of Mark's question here but phrased a little more technically and we'll get to that, then. <EVENT DESC="STUDENTS BEGIN PREPARING TO LEAVE"/> yes? any others? yeah? you (i know) (xx) </U>
+			<U WHO="S8"> (i actually had my hand up) i had <OVERLAP> somewhat of a hand up. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh we we </OVERLAP> still have a few minutes go ahead speak up. </U>
+			<U WHO="S8"> no, i was gonna say, you saying, how do you pur- purchase you <OVERLAP> somebody's labor </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> can we </OVERLAP> have, can we have a little bit of quiet? yeah go ahead. </U>
+			<U WHO="S8"> ah i mean, if i understood right the question he was like how do you you know capital- capitalize on somebo- purchasing somebody else's labor, well is that the question? was that was that your question? how you capitalize on somebody else's labor? <OVERLAP> or whatnot? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> i was j- </OVERLAP> i was just wondering what the di- what the difference is, between selling your labor and, like, labor as a commodity versus, <OVERLAP> production of (s-) </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> well they were </OVERLAP> able to get a lot, <U WHO="S8"> well <OVERLAP> because </OVERLAP>
+				</U>
+				<OVERLAP> more stuff </OVERLAP> not just what they were, helping. with like you know they'd get_ if they were picking... like fruit or something they'd be able to get the fruit, they wouldn't get money to get something other than fruit. </U>
+			<U WHO="S15"> but Marx, seems to talk of it like it's such a bad, such a horrible thing to be, used <OVERLAP> solely for your labor. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> well maybe you speciali- but if you </OVERLAP> like specialize in something you say, like you know during that time they were building a lot of machines steam engines machines they needed people who could specialize, who could build the machine so y- of course you need to capitalize on somebody who's an expert at bui- like building machines. but after the machine was built, your labor was no longer needed. but say, you need somebody to run the machines. then you get somebody, who specializes in running the machines. so it just kinda goes in that cycle. i guess. </U>
+			<U WHO="S1"> okay. yeah you guys are getting at slightly different aspects of, of the question. but yeah there's the issue of, having a certain kind of labor power to be sold, and then having that become obsolete. because, of a change. or (needing) some other (kind.) i mean there's this other issue of_ Marx claims that, sort of a little_ it's closer to um uh what what Tina was just saying, is that the fact that you can, sell your labor power, uh means in a sense that you're free. uh to... i mean you can sell it to anyone. in in principle, you can sell it to anyone. um, whereas if you're a serf, you're really confined to that piece of land and, you get, you get what you, a portion of of your work. back. but yeah you don't get all this, this other stuff. i mean this is all in, in principle. um, but that's that's one, one piece of it. and you will see more from (the reading.) (xx) a couple of weeks. but it's a great, great (xx) okay. see you all, in a couple of days. </U>
+			<U WHO="SS">
+				<EVENT DUR=":56" DESC="UNINTELLIGIBLE CONVERSATION"/>
+			</U>
+			<U WHO="S8"> you see what i'm saying. like you know Kevin Garnett you see, that's, you know that's somebody gonna capitalize on his skills you know hundred seventy-seven million dollars, (xx) (Philadelphia) that's fucking ridiculous. </U>
+			<U WHO="S6"> see, my whole question is like i think that Michael Jordan is the greatest person who just shows capitalism, okay for seven years they used (xx) (over) hundred million or however much money that they make. he cries for thirty million and (ustest) people wanna know why does he want thirty million? isn't he happy with what he got? but that's the same thing we argue about at a smaller level. </U>
+			<U WHO="S8"> because he he gets paid to perform (there.) like he's giving you he's giving you a bet- like, a better show. </U>
+			<U WHO="S6"> and not even that. if you wanna make, if this a hundred if this is a hundred a hundred dollars, and i'm doing all the work and all you're doing is boosting me up, i at least want one of them dollars. i at least want ten of them dollars. (now) i'm taking that you (wanna) have a (ninety.) not in_ even though you put those rules where i have to be here at a certain time. i have to come in a certain time i i wan- you own me. you own me even though i'm doing all this i'm still the worker making thirty million or a hundred twenty-seven. if you don't come to that game, you can get put out of the league just like everybody else they got all rules for everybody who don't wanna act it </U>
+			<U WHO="S8"> yeah but some people who don't even get that you know get put out you know he could miss like two or three games, it's like no. he got a contract. that's what the contract's <OVERLAP> all about. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> it it </OVERLAP> it's all to a certain extent. you know somebody on the bourgeoisie's only gonna take so much before it looks like that you trying to overpower them. no matter how much money you make from them they can't make you look they_ you can't look better than them. then what's the point of you? just think of all of us in this classroom <U WHO="S8">
+					<OVERLAP> (i) mean see if </OVERLAP>
+				</U>
+				<OVERLAP> most of the </OVERLAP> people in this classroom doesn't_ not even thinking about capitalism. they thinking about how they gonna feed their families, and five fifteen an hour is not making it. <U WHO="S8"> nope. </U> now i live i live in Detroit Michigan and i can't afford to stay here. <U WHO="S8">
+					<OVERLAP> damn str- </OVERLAP>
+				</U>
+				<OVERLAP> and i'm struggling. </OVERLAP> i'm struggling trying to make it <OVERLAP> at this universi- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you take bus, </OVERLAP> from Detroit? </U>
+			<U WHO="S6"> yeah. i'm struggling making it at U-of-M to (save) for what? so i can go out here and work for these people, ten fifteen hours a day? but it's better than being at home selling drugs or or being in jail somewhere. </U>
+			<U WHO="S8"> ah see some people got their hedonistic way like hey i'm living for today <U WHO="S6">
+					<OVERLAP> you know i w- </OVERLAP>
+				</U>
+				<OVERLAP> i can make </OVERLAP> a thousand dollars, (xx) <OVERLAP> (xx) in one day, than you do in a week. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> or do they say, that the world gonna blow up in two </OVERLAP> thousand so everybody can tear it up again? hey i don't know what they're doing but i'm not a part of any of it. <EVENT WHO="S1" DESC="LAUGH"/> i just go home and come to school hey, that's one thing that, that they got right is see y- we're in school, and we still talking about Marx so i guess i'll just stay in school. maybe something'll come out of it. i don't know. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> (xx) i mean i wasn't just trying to ask them a question in a way that like if we were saying anything we just try and repeat that because as they said maybe we're headed on down because technological advances we have computers whereas before you know, the swis- (you know it) was like, for example switchboard operator, <U WHO="S1"> yeah </U> (xx) the phone now they actually have a computer that does that for you. <U WHO="S1"> right. </U> they still have like the operator right, that <OVERLAP> helps </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U> (y'all with) information, <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U> (xx) that but, before they u- they had switchboard operators so y- but now that's kind of like going down. so it's like making it obsolete, that was like my <OVERLAP> si- i don't know if that explains it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay. yeah. </OVERLAP> uh his his ques- no, that addresses the very important issue of, what happens once you meet, people, once you reduce people to their labor power and then, something_ some innovation occurs, and then you don't need that, that person anymore. which is a very important issue. his question i think, if i understood it correctly, was what's the difference between that, and being like a peasant who, uh or uh you know a farmer who, who <OVERLAP> you know </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> i mean li- like it was (xx) </OVERLAP> lifestyle. if you, i mean if you like a shoemaker, versus a wine-maker you both, you need you need both but you know which one is the person you bump depends on what they're asking for you see what i'm saying like but, then you got somebody does who something even better than that. unique, but h- looks like he got questions. </U>
+			<U WHO="S1"> oh no that's okay. <U WHO="S3">
+					<OVERLAP> oh no, no i'm fine go ahead. </OVERLAP>
+				</U>
+				<OVERLAP> no no no </OVERLAP> (xx) </U>
+			<U WHO="S8"> that's that that that that's, the answer to that is just like based on like we, this_ as they said specialization. if you specialize in something like you know, <U WHO="S1"> yeah </U> some people say, get Maaco or, get this other body shop but you know they want the best <U WHO="S1"> yeah </U> so, they're gonna go with the best. </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S8"> oh this thing_ oh I thought it came off </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> yeah go ahead Matt. </U>
+			<U WHO="S3"> um </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

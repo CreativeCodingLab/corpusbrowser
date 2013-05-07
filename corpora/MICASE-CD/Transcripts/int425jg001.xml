@@ -1,0 +1,420 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="int425jg001">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Graduate Student Research Interview 1 </TITLE>
+				<TITLE> Rackham Div: NA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> INT425JG001 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES: NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="34">
+						<DATE> April 25, 1997 </DATE>
+						<EQUIPMENT>
+							<P> Sony Analog Tape Recorder </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Elizabeth Axelson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Jesseca Long, Bret Lucka, Janine Ovens </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Eric Breck </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Carrie Sue Kay Sulzer </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Final Editing, 3/18/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="2"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="2"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JF, Interviewer" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JG, Interviewee" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Interviewer's Office, English Language Institute </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT DESC="FIRST 1:14 SPEECH NOT TRANSCRIBED"/>
+			<U WHO="S2"> i think he's getting more comfortable <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> talking </OVERLAP> cuz he's talking <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> more </OVERLAP> uh certainly, with our group, um... but his phrasing, before he used to say sort of, start everything with for example <U WHO="S1">
+					<EVENT DESC="LAUGH"/> uhuh <OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> and and he stopped doing that <U WHO="S1"> uhuh </U> um... <EVENT DESC="LAUGH"/> um, so, i think... his responses are, to questions are getting, um... sort of... it sounds like they're coming easier to him <U WHO="S1"> yeah </U> um he doesn't have to... um... sorta stop and think about what he has to say <U WHO="S1"> mhm </U> um it seems to flow a little bit, better <U WHO="S1"> uhuh </U> um... i'm just trying to think back i took Spanish for four years in high school <U WHO="S1"> yeah </U> and, you know i'd certainly have to sit there, and think of what i wanted to say, and then think of how to translate it <U WHO="S1"> uhuh </U> and then say it <U WHO="S1"> uhuh </U> and it seems <U WHO="S1"> right </U> like, that process for him... is easier <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> an- </OVERLAP> and faster now <U WHO="S1"> mhm... yeah </U> i mean an- an- and i don't know if he's at the point where he just talks and it just comes out... in English, but </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S1"> yeah </U>
+			<EVENT DESC="POSSIBLE STOP/RESTART IN AUDIO TAPE"/>
+			<EVENT DUR=":15" DESC="PAUSE WHILE PLAYING VIDEOTAPE"/>
+			<U WHO="S1"> okay, </U>
+			<EVENT DESC="VIDEO STOPS"/>
+			<U WHO="S2"> okay </U>
+			<U WHO="S1"> this this is the topic <U WHO="S2"> okay, <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> see, </OVERLAP> this is the first time around (xx) </U>
+			<EVENT DESC=":45 PAUSE WHILE PLAYING VIDEOTAPE"/>
+			<U WHO="S1"> sorry I didn't get the chance to grope around like <U WHO="S2">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> on my time </U>
+			<U WHO="S2"> no it's okay... it's... i know for you it's a hectic time of the year <U WHO="S2"> yeah </U>
+				<PAUSE DUR=":08"/> you had said at one point that we thought we'd take about an hour and a half? <EVENT DESC="VIDEO STARTS IN BACKGROUND"/>
+				<U WHO="S2"> mhm </U> um, that, that would be good <OVERLAP> (xx) i i </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) okay? </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah, um, but, not a- certainly not any longer <U WHO="S1"> okay </U> i've gotta, um... big project I have to turn in this afternoon (xx) a little bit more work to (go on it) <U WHO="S1"> yeah </U>
+			</U>
+			<EVENT DUR=":90" DESC="PAUSE WHILE VIEWING VIDEOTAPE"/>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<EVENT DUR=":10" DESC="PAUSE WHILE VIEWING VIDEOTAPE"/>
+			<U WHO="S2"> okay. this is a definite second time <U WHO="S1"> okay </U>
+			</U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> so, y- you wanted to make sure that he knew, that you were, seriously considering not doing it. <OVERLAP> or </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> or, </OVERLAP> or cutting it back <U WHO="S1"> mhm </U> and i just wanted to make <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> sure </OVERLAP> that he had the same sense of, scale (for their) education, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> the rest of us did <U WHO="S1"> yeah yeah okay </U> um... cuz i i... i was pretty sure that it it was important to him but i didn't know how important i- it it was to him <U WHO="S1"> yeah </U> (xx) <U WHO="S1"> yeah yeah </U>
+				<PAUSE DUR=":08"/>
+			</U>
+			<U WHO="S1"> okay <EVENT DESC="VIDEO TAPE STOPS"/> let's stop this for a minute and i'll, um, ask you some questions <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then we can, uh, w- well we can talk a little bit about your participation and, kinda role in th- in these group meetings <U WHO="S1"> mhm </U> and then maybe we could just, look at it a little bit from that point of view <U WHO="S1"> okay </U> to see what it is that you're doing <U WHO="S1"> okay </U> um, it might be kinda interesting <EVENT DESC="BREAK IN RECORDING?"/> i i have a feeling you haven't seen yourself on video tape before is that true? or, <OVERLAP> or have you? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i, </OVERLAP> not a lot <U WHO="S1"> mhm </U> um, and not recently <U WHO="S1"> yeah, <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> um </OVERLAP> so and certainly not in in this sort of setting <U WHO="S1"> yeah </U> um <U WHO="S1">
+					<EVENT DESC="LAUGH"/> okay </U>
+			</U>
+			<U WHO="S1"> um, yeah, tell me, where you're from </U>
+			<U WHO="S2"> okay um, i'm from Pennsylvania <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> outs- </OVERLAP> outside of Philadelphia... and, um, sorta, about 40 miles outside of it it's rural, relatively rural, sort of area well it's <U WHO="S1"> uhuh </U> not_ it used to be rural it's getting more, built up but um <U WHO="S2"> urbed </U> yes <EVENT WHO="S1" DESC="LAUGH"/> definitely, um <U WHO="S1"> yeah </U> and i lived there... pretty much for my whole life <U WHO="S1"> uhuh </U> um, i went to college in upstate New York <U WHO="S1"> mhm </U> um, Saint Lawrence University... </U>
+			<U WHO="S2"> and so did Jack i take it <U WHO="S1"> yes, um </U> did you guys meet each other there? </U>
+			<U WHO="S1"> yes actually it was pretty funny. um, i was a year ahead of him <U WHO="S2"> mhm </U> and we were both in the environmental studies, program, and, we took a land use planning class, um it was my senior year i guess his junior year <U WHO="S2"> mhm </U> and, we ended up working on a project, together there <U WHO="S1"> uhuh </U> um, and i didn't, there were two parts to the project and, i didn't work with Jack, directly on that part i- w- we worked on separate parts <U WHO="S1"> yeah </U> um, but, we ended up writing our paper, there was five of us on it and we wrote a paper <U WHO="S1"> mhm </U> um, and the school published it <U WHO="S1"> wow </U> um, in sort of their_ (it) was a community service report kinda thing so it wasn't <U WHO="S1"> mhm </U> like a peer-review publication but it was <U WHO="S1"> yeah </U>
+				<OVERLAP> distributed to the community. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so that's a really nice </OVERLAP> experience for (xx) under- as part of your undergraduate education <U WHO="S2"> mhm </U> that's great. </U>
+			<U WHO="S2"> yeah, so so that was really neat <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> so that was about, the extent that i knew Jack was <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> just </OVERLAP> working on on that <U WHO="S1"> right </U> and then, um i think <OVERLAP> i had a </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> when did you </OVERLAP> graduate? </U>
+			<U WHO="S2"> nineteen ninety <U WHO="S1"> uhuh </U> um, and i think i, i had a h- couple other classes with him too <U WHO="S1"> mhm </U> um... and then i didn't see him, again until i showed up, for orientation this year <U WHO="S1"> really? </U> and, i walk up to meet my advisor, and he introduces, me to, um, Jack Ariadne-Kent <U WHO="S1"> uhuh <EVENT DESC="LAUGH"/>
+				</U> and then to two other people, and, um when i knew Jack his name was Jack Kent, <U WHO="S1">
+					<OVERLAP> how? </OVERLAP>
+				</U>
+				<OVERLAP> and, </OVERLAP> he_ he's taken on his wife's name <U WHO="S1"> i see </U> and, i just, i look at him and <U WHO="S1"> mhm </U> he didn't have a beard then and i look at him i'm like <U WHO="S1">
+					<EVENT DESC="LAUGH"/>
+				</U> did you go to Saint Lawrence? and <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> he's like </OVERLAP> yes and i'm like, oh and it just hit <U WHO="S1"> yeah </U> and, we're just so, like caught up in that we just completely ignored my advisor like, um, <EVENT DESC="LAUGH" WHO="S1"/> met once or twice, um Professor Whistler <U WHO="S1"> mhm </U> and, um, it was just really funny cuz we w- just sorta like catching up on, six years right there <U WHO="S1"> yeah </U> so so that was kinda kind of a surprise. </U>
+			<U WHO="S1"> that is amazing, i w- i would have guessed that maybe you had... sort of known each other's plans... before he came here but <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> no it was just <U WHO="S1"> a surprise </U> just a coincidence and <U WHO="S1"> that's quite funny </U> um, yeah </U>
+			<U WHO="S1"> well what'd you do between <U WHO="S2"> um </U> nineteen ninety and <U WHO="S2"> i </U> starting this program. </U>
+			<U WHO="S2"> um, actually i have a resume here i didn't <U WHO="S1"> oh yeah </U> , <U WHO="S1">
+					<OVERLAP> great </OVERLAP>
+				</U>
+				<OVERLAP> bring it </OVERLAP> bring it for tha- this purpose it just happened to be in here, um <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S1"> can i have this? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> yeah? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> great </U>
+			<U WHO="S2"> um, i, worked for two different environmental consulting companies. <U WHO="S1"> uhuh </U> um one was a, contractor to the E-P-A, and we, evaluated um, hazardous waste sites. <U WHO="S1"> uhuh </U> um to see if they would be, put onto the national priorities list uh superfund list <U WHO="S1"> uhuh </U> um, and then i did that for a year and a half and then i went to this other company, um, the contract ended so i got laid off <U WHO="S1"> mhm </U> for a couple months, and then, um, i went over to this other company it was a private, small consulting company and then i was there for, three and a half years... three three and a half years <U WHO="S1"> mhm </U> and, um, did similar sorts of um chemical contamination investigations <U WHO="S1"> uhuh </U> uh property audits or real estate transactions <U WHO="S1"> mm </U> if like a company is gonna, um buy a piece of property, um lot of times the banks will have them do, just an audit to see, you know if they've buried drums <U WHO="S1"> yeah </U> out back kinda thing <U WHO="S1"> yeah </U> or you know if the company's had any, like records of, um, violation for anything <U WHO="S1"> uhuh </U> um, so i did that <U WHO="S1"> yeah </U> um, i also guided whitewater rafting trips <U WHO="S1"> mhm </U> um on weekends that was a lot of fun <U WHO="S1"> yeah </U> ... and then, i've been, actually i applied to Michigan, um... in- a year ago <U WHO="S1"> mhm </U> um, and i didn't get in so i reapplied but my fiancee, um, got in so we moved out here, and i was looking for a job, for a year so i've been here a year before <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> school started. </OVERLAP> um... </U>
+			<U WHO="S1"> so you're- you were here and she was in school? <U WHO="S2"> um <OVERLAP> i- </OVERLAP>
+				</U>
+				<OVERLAP> were </OVERLAP> you working? </U>
+			<U WHO="S2"> i was looking for a job consulting and the market was pretty bad so i didn't find anything so i ended up working in a bookstore <U WHO="S1"> uhuh, </U> um, and which was kinda fun actually it's something i've always wanted to do <U WHO="S1"> yeah, </U> um it was neat to... to look at all the books as they come in <U WHO="S1">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U>
+				<OVERLAP> and see </OVERLAP> the new ones <U WHO="S1"> oh yeah </U> and i, get a pretty good discount on stuff so </U>
+			<U WHO="S1"> well, that's great <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> yeah, it certainly helps i can, get some of my textbooks there </U>
+			<U WHO="S1"> yeah, yeah. so where did you work sh- uh </U>
+			<U WHO="S2"> um Webster's Books it's <U WHO="S1"> uhuh </U> um, up by north campus </U>
+			<U WHO="S1"> yeah yeah that's (xx) </U>
+			<U WHO="S2"> Plymouth Road </U>
+			<U WHO="S1"> Traver <U WHO="S2"> yes </U> Village (xx) </U>
+			<U WHO="S2"> yeah, so i live right behind that <U WHO="S1"> mhm hm' </U> so i could walk to work <U WHO="S1"> yeah </U> so it was great </U>
+			<U WHO="S1"> mhm good </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> well um... what uh, what prompted you to, come to graduate school? </U>
+			<U WHO="S2"> um, it's something i, i... kinda always wanted to do, um or had been thinking about and then sciences, um my degree is in biology and environmental studies <U WHO="S1"> mhm </U> and um, there's only so far you can go with a Bachelor's and <U WHO="S1"> uhuh </U> um, you know a, Master's um or a PhD is is usually... a lot, lot more... useful <U WHO="S1"> yeah </U> um, and... i didn't really want to get into the hazardous waste, area but it <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> was </OVERLAP> something i just sorta fell into, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and, </OVERLAP> so i was looking at graduate school as one s- uh, as a transition for kind of a career, cuz i, didn't have much success getting into an area that i wanted to, um... sort of aquatic biology that sort of thing um, <U WHO="S1"> mhm </U> and so i looked at it as a sort of a transition <U WHO="S1"> yeah </U> um, and and to go back for more m- more education </U>
+			<U WHO="S1"> right, right. so the project that you're_ that you guys are, embarking on now is more in line with the kinds of things you, it sounds like maybe, tha- the kind of direction you'd like to be moving in <U WHO="S2"> mhm </U> and what you were doing before? </U>
+			<U WHO="S2"> i think so um i mean i certainly, learned a lot and i think a lot of it's useful, um... (xx) what what i'd learned from consulting. <U WHO="S1"> mhm </U> um... i'd like to, not necessarily restoration but just looking at sort of big picture, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> projects, that <U WHO="S1"> yeah </U> um instead of, you know looking at this one-acre plot and seeing where, you know, butterflies move around kinda thing. <U WHO="S1"> yeah </U> um, i'm_ i mean i kinda always have had, i k- was never really interested in just one thing or <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> one </OVERLAP> area, <U WHO="S1"> mm </U> um, so i think, looking at big, picture problems i mean it involves tying a lot of different things together <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> which </OVERLAP> i really like </U>
+			<U WHO="S1"> yeah, seems like more and more modern, um, land use, questions are gonna be like that </U>
+			<U WHO="S2"> mhm, i think so </U>
+			<U WHO="S1"> already have been for a long time, and not in, other more intensely populated places but for us that feeling that, we're kinda running out of room to just <U WHO="S2"> just, <OVERLAP> yeah </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i don't know </OVERLAP> find more pristine wilderness or, <U WHO="S2"> mhm </U> th- it's more like... c- competition among uses or accommodation <U WHO="S2"> yeah </U> among uses and stuff </U>
+			<U WHO="S2"> yeah before you could (xx) things could just, grow until <U WHO="S1"> uhuh </U> just k- and just keep moving out and now <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> they </OVERLAP> sort of hit boundaries <U WHO="S1"> yeah </U> you have to look at, sort of what you've got and work with that. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> yeah, </U>
+			<U WHO="S1"> um, how do you feel about your educational experience at Michigan, um so far. uh </U>
+			<U WHO="S2"> um... i think there's there's some good things and there's some things that you know i wish were a little different. <U WHO="S1"> mhm </U> um... it's, Saint Lawrence was a really small school there's two thousand people. <U WHO="S1"> mhm </U> and their main focus was, educating people <U WHO="S1"> yeah </U> um and not_ and research and publishing took uh was secondary. <U WHO="S1"> yeah </U> um, and coming um so at Saint Lawrence um i think people_ the professors', um experience was conveying information to people. <U WHO="S1"> right </U> and on a more on a really personal pers- personal level, <U WHO="S1"> mhm </U> and um... here it just seems like, um, you know their their fo- they they do great work they're really intelligent, <U WHO="S1"> yeah </U> they're just not as polished, at presenting_ conveying <U WHO="S1"> uhuh </U> information it seemed, <U WHO="S1"> uhuh </U> and that and that was a big shock, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> and also i mean it could be that you know i was out of school for... six seven years and, you know it sort of glorified, <EVENT WHO="S1" DESC="LAUGH"/> school a little bit. <U WHO="S1"> uhuh </U> um um... the (xx) could also be that it's so expensive and, and i'm paying for it this time <EVENT WHO="SS" DESC="LAUGH"/> instead of my parents and um, that can make, make a big difference too. <U WHO="S1"> yeah </U> um so i think that's kinda the the biggest thing. <U WHO="S1"> mhm </U> um. </U>
+			<U WHO="S1"> what's been most valuable to you? </U>
+			<U WHO="S2"> um <PAUSE DUR=":11"/> uh i don't know <U WHO="S1"> mhm </U> um <PAUSE DUR=":09"/> probably, um... just, talking to different people in the program i've i mean i've <U WHO="S1"> mhm </U> feel like i've picked up a lot of information from... from people, just other students, um, but also... um one of the professors um i'm taking a class with him now um Rob Buford has started_ h- has um, been looking at a lot of stuff um and he works a lot with Bob Seyfarth <U WHO="S1"> mhm </U> um, their_ I guess their approach for looking at rivers and streams is, that, more from like a geomorphological point of view <U WHO="S1"> mhm </U> that like the geology um was here first and then th- the biology of the streams and the chemistry all came after that and so that, shapes everything <U WHO="S1"> yeah </U> um, just because it was here first and it's older and and there's some interactions that go on after that, that just looking at it from that perspective, um i think is really neat um, an- and that's and that's i think unique to the_ to the school <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> there's </OVERLAP> not very many people that look at it <U WHO="S1"> yeah </U> from that viewpoint <U WHO="S1"> right </U> um so i think, that's probably one of the more_ the good experiences i've had <U WHO="S1">
+					<OVERLAP> uhuh uhuh </OVERLAP>
+				</U>
+				<OVERLAP> here too </OVERLAP> and my fiancee um is uh, is one of Rob Buford's students <U WHO="S1"> mhm </U> and um, and she's working with Rob and Bill Redmond, and, on on, um modeling the_ all the watersheds in Michigan <U WHO="S1"> mhm </U> um based on geology and seeing how that um affects the different types of streams and and the different fish that that live here <U WHO="S1"> uhuh </U> so i_ i've picked up a lot through that too <U WHO="S1"> yeah yeah </U> um... <U WHO="S1"> neat </U> mhm. </U>
+			<U WHO="S1"> it's the kind of insight that could really affect your thinking through your whole career and <U WHO="S2"> i_ yeah </U> (things) that will, shift and perspective </U>
+			<U WHO="S2"> mhm. and i just_ i was thinking about it the other day. um, at Saint Lawrence i took a course on fluvial geology. <U WHO="S1"> uhuh </U> and it's how water moves thr- through the streams and, um, when it goes around the corner it picks up, it cuts the bank and makes a hole and then it <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> gets </OVERLAP> it's sort of how the water shapes the channel kinda thing. <U WHO="S1"> right </U> and when i took that i took all these um freshwater biology courses and i never made the connection <U WHO="S1"> mhm </U> and i don't think anyone at school made the connection <U WHO="S1"> mhm </U> and i'm like you know it's just, you think about it and it's so obvious <U WHO="S1"> yeah </U> um <U WHO="S1"> yeah </U> but if you never make the connection um, <U WHO="S1"> yeah </U> it's so_ i was kinda like wondering why you know i never did it but... but then again no one else ever made the connection too <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP>
+				<U WHO="S1"> right </U> um so that was kind of a neat realization </U>
+			<U WHO="S1"> yeah, it is, and and also how um... how inexplicable in a way it is when somebody manages to really like shift the, thinking in a whole field <U WHO="S2"> mhm </U> and then you think well of course <EVENT DESC="LAUGH"/>
+				<U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> that's been there all along but i- it wasn't just difficult for you to see it was difficult for <U WHO="S2"> yeah </U> you know difficult for everyone to actually get it in perspective or <U WHO="S2"> mhm </U> or to see that it had consequences or you know something like that </U>
+			<U WHO="S2"> yeah <U WHO="S1"> yeah </U> and um i was talking to um another student, <U WHO="S1"> mhm </U> and she said that... um you know i- it's sort of, everybody talks about it and you're like everybody thinks kind of the same way that this had some sort of contact with Rob Buford and Bill Redmond on their_ this idea and she was um she went to Notre Dame and she was down talking to some people there and you know th- she was talking to them and and they're like no one thinks this you know <U WHO="S1">
+					<EVENT DESC="LAUGH"/>
+				</U> it's only people there and <U WHO="S1"> yeah </U> just step back and realize that not everybody thinks that way <U WHO="S1"> yeah </U> you know it's just those people with this sphere of influence <U WHO="S1"> right </U> and you know so that could be expanding <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> until </OVERLAP> it sort of gets, chopped down <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> um it's kinda neat </U>
+			<U WHO="S1"> yeah then you also sort of recognize a role for yourself in your profession then, <U WHO="S2"> mhm </U> to try to, um push what seems like, a- an obvious or or a really productive sort of idea so that other people can, um get it, <U WHO="S2"> mhm </U> and that adds that other, other dimension to, to <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> work </OVERLAP> which i think is quite nice <U WHO="S2"> yes </U> sort of a a different community you find yourself belonging to. <U WHO="S2"> mhm </U> sometimes cuz of shared views and sometimes cuz of <EVENT DESC="LAUGH"/>
+				<U WHO="S2"> (xx) yes </U> you don't share views <U WHO="S2"> yeah </U> yeah. how did the Matonka river project come up? </U>
+			<U WHO="S2"> um, uh i guess um Nell my fiancee, <U WHO="S1"> mhm </U> um, was_ gave a presentation on the the Q-CON modeling_ stream segment modeling, program that she's, working on with Bill and Rob um to the American Fisheries Society, Michigan chapter meeting um, last... must have been, September or October. <U WHO="S1"> mhm </U> and and Lou um Peters was there and he was_ he graduated from Michigan S-N-R-E last year <U WHO="S1"> mhm </U> and he was there giving a presentation on, the Matonka <U WHO="S1"> mhm </U> and she heard his talk and thought hey that would be, a really good idea, um for a project and so she mentioned it to <U WHO="S1"> mhm </U> to myself and i mentioned it to Jack and um so he started talking to them and just came out <U WHO="S1"> yeah </U> about that way um <PAUSE DUR=":04"/> so that's <U WHO="S1"> mhm </U> kind of... how that came about <U WHO="S1"> yeah </U> um oh also about, the um, the proj- the master's project was one of the reasons why, i came here <U WHO="S1"> mhm </U> um, because i think it's unique it's it's practical <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> experience </OVERLAP> and i think a thesis can be good but um, i don't want to go into research, i wanna you know i wanna do something, <U WHO="S1"> mhm </U> that's more applied so <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i think </OVERLAP>
+				<U WHO="S1"> yeah </U> that was good experience <U WHO="S1"> yeah </U>
+			</U>
+			<U WHO="S1"> yeah i think it's a- i think it's really rich, <U WHO="S2"> mhm </U> i mean just as a, kind of educational opportunity looking around different, programs and stuff on campus. <U WHO="S2"> mhm </U> this getting (xx) you know get- really getting into a project, that um other people... are wanting to do <U WHO="S2"> right </U> um and you know can use your help and so there's real direct issues about um its usefulness and also the negotiating to make it useful it's <U WHO="S2"> mhm </U>
+				<OVERLAP> (i think it's really pretty neat) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> that f- yeah and the </OVERLAP> group interactions <U WHO="S1"> yeah <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> yeah </OVERLAP> i think that's_ that was a big, um... realization for this school <U WHO="S1"> mhm </U> that you know to realize that, you know we're not here to just to educate people to go_ to commun- to continue on in education research <U WHO="S1"> mhm </U> that people go out excuse me and and do other things <U WHO="S1"> mhm </U> and you know it's_ we need to support that too <U WHO="S1"> yeah </U> uh <U WHO="S1"> yeah </U> cuz i think sometimes educa- educators can get, i mean just research and just too <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> focused </OVERLAP> on on (xx) </U>
+			<U WHO="S1"> yeah yeah so you get kind of a closed loop. <U WHO="S2"> mhm </U> , so that's sounds like how you came to um be in the group was that uh Nell told you about it and you cou- you got Jack involved in it, and then how about Pedro, and, Satosh? </U>
+			<U WHO="S2"> um i think we just, just through the master's, um planning course <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> project </OVERLAP> and process, um... we... i guess we had started talking before Christmas, um we had... um... i guess i sent around s- an, an email summarizing, sort of, we were sen- people were sending back and forth potential topics, <U WHO="S1"> mhm </U> projects um we sent that around and i think we had, um... that was, kinda informal, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and that </OVERLAP> started like in November <U WHO="S1"> uhuh </U> and then, um... and i think i posted some information on it and then... i guess just in the, in the um, in the class we, Lou came in and, and gave a, talk on it and s- and, um, showed some aerial footage <U WHO="S1"> mhm </U> um of the river, and, so i just, i think through, through that whole process <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> they just seemed interested in it </U>
+			<U WHO="S1"> yeah. yeah. okay. um, a w- uh at this what do you think you can contribute to the group? </U>
+			<U WHO="S2"> um... i think... i have um, besides my, sorta biology background um, i mean i can certainly contribute that (but,) my work experience, um, <U WHO="S1"> yeah </U> i managed a lot of projects, um, <U WHO="S1"> mhm </U> i think that's, certainly, can be useful <U WHO="S1"> yeah </U> and... <U WHO="S1"> right </U> i tend t- tend to be an organizer <U WHO="S1"> yeah yeah </U>
+				<EVENT DESC="LAUGH"/> um you may have noticed <U WHO="S1"> uhuh </U> um, i think, that that can be useful um, if it doesn't get, get out of control <EVENT WHO="SS" DESC="LAUGH"/> um... </U>
+			<U WHO="S1"> so how's that working out so far? </U>
+			<U WHO="S2"> um pretty well, um... they think at at times... i don't know i mean i think it it's helping the group. i i i hope it's not frustrating people. um, i get frustrate- frustrated sometimes a little at <U WHO="S1"> mhm </U> at some of the disorganization but, but that's just sort of a group, situation. um... we decided to to have a facilitator, uh to facilitate meetings <U WHO="S1"> uhuh </U> um and i don't remember if you were there, but (i was not) </U>
+			<U WHO="S1"> um i know you... uh, y- you sent a message <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> about it, </OVERLAP> and i think at this meeting where Pedro wasn't there the one we were just looking at <U WHO="S2">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> it came up </OVERLAP> to talk about and it seemed like a good idea <U WHO="S2"> yeah </U> among the three of you, <U WHO="S2"> mhm </U> um </U>
+			<U WHO="S2"> okay, and then we talked about it with Pedro the next time we met and, <U WHO="S1"> mhm </U> that, he seemed to think that was a- that was okay. <U WHO="S1"> yeah </U> um, and then i know that he thought it was like absolutely necessary <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> but, </OVERLAP> um... so we we decided that it would be_ we'd each take a turn doing it for a month, <U WHO="S1"> mhm </U> um and i said that i'd take it for April <U WHO="S1"> mhm </U> um, and then i think, Satosh is gonna take it for May, um... i mean sorta figure out who would- <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> first four months <U WHO="S1"> yeah </U> um and then we just keep rotating <U WHO="S1"> right right </U> so but just um, sort of <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> making </OVERLAP> sure that we have a room um letting people know when we're gonna meet next that sort of thing <U WHO="S1"> mhm </U> um, trying to keep the meetings a little bit on track so we don't go off talking about, you know the hockey game or something for forty minutes if we if we've got a limited amount of time to <OVERLAP> work in. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> yeah. do you feel like the uh group so far has been uh relatively disorganized? maybe has um wasted time? </U>
+			<U WHO="S2"> um... i don't think so i mean and there's, you know every time you get people together you're gonna go off on a tangent <U WHO="S1">
+					<OVERLAP> yes yes </OVERLAP>
+				</U>
+				<OVERLAP> every once </OVERLAP> in a while and that's_ i certainly understand that and that's fine <U WHO="S1"> right </U> um... so i don't think we've wasted i mean i don't think we've <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> wasted </OVERLAP> lots of time <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> (at all) </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah, how about the burden to you because you have been, kind of the um... the_ y- you've been the <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> organizer </OVERLAP> as you say <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> you've </OVERLAP> been the person who sent the messages and, made the suggestions <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and kind of </OVERLAP> um <U WHO="S2">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> kept </OVERLAP> things going </U>
+			<U WHO="S2"> i don- it hasn't been, a burden really <U WHO="S1"> mhm </U> i mean it's, it's kind of it's my turn to have things the way i'd like them <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> to be </OVERLAP> so so i don't really see that as a burden <U WHO="S1"> yeah <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> um </OVERLAP> and and i also look at it as maybe it sets some precedents <U WHO="S1"> mhm </U> um, which <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> would </OVERLAP> be good for me i don't know <U WHO="S1"> right </U> about anyone else <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah, okay um ho- how about the uh roles of other people in the group? cuz you've been kind of the uh minder <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> in a way </OVERLAP> um keeping tabs on things and and keeping things going what do you see other people contributing? </U>
+			<U WHO="S2"> um i think, Jack and i have been sharing sort of that little <U WHO="S1"> uhuh </U> um... um i mean up until a point where we had a facilitator a- and even still i mean i'll_ <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> i think </OVERLAP> we all take turns sort of getting everybody back on track <U WHO="S1"> yeah </U> um... um... i forget the question sorry </U>
+			<U WHO="S1"> it was about the roles of the other people in the group </U>
+			<U WHO="S2"> okay <U WHO="S1"> um </U> um <PAUSE DUR=":07"/> hm' </U>
+			<U WHO="S1"> so what do you see so far what do you see their contributions as? what kinds of contributions have they been making? </U>
+			<U WHO="S2"> um, i think i think everybody's been making, good contributions <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> um </OVERLAP> i mean our proposal was due yesterday <U WHO="S1"> mhm </U> and i couldn't work on it so Pedro, um worked on it <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> turned it in <U WHO="S1"> mhm </U> uh that was good and you know Satosh um, was working with Pe- Pedro was working for Satosh a couple times <U WHO="S1"> mhm </U> um during co- the last couple meetings that we've, we've been working on the tasks for, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> our </OVERLAP> proposal and they've been working together and i think that's <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> good </OVERLAP>
+				<U WHO="S1"> yeah </U> um and and i think we'd all like to take turns, working with Satosh i think he, <U WHO="S1"> mhm </U> he doesn't_ i don't think he feels, completely comfortable to work, on his own yet <U WHO="S1"> right </U> um... and i think that's uh for a couple reasons um one maybe it's his language, skills <U WHO="S1"> mhm </U> um but two he's not familiar with the way things, work in the country <U WHO="S1"> right </U> um, and, Pedro's a little bit more comfortable i think he's, not really sure how long he's lived in the States <U WHO="S1"> mhm </U> but i get the impression it's about two years, <U WHO="S1"> mhm </U> um (xx) and i don't think he really spoke English before he came here <U WHO="S1"> right </U> um... but i think <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> Satosh </OVERLAP> has has definitely started to contribute um, um and and he's definitely going through more of a learning curve than the rest of us, um but i think, <U WHO="S1"> mhm </U> i think he's doing a good job <U WHO="S1"> yeah </U>
+			</U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> he's really thrown himself into the thick of it hasn't he? <U WHO="S2">
+					<OVERLAP> well </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> impressive <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> how </OVERLAP> much stuff he has taken on </U>
+			<U WHO="S2"> i i can't imagine he's, taking he's taking six classes this semester <U WHO="S1"> yeah </U> um i_ i'm taking four and it's <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> only </OVERLAP> ten credits <U WHO="S1"> uhuh </U> and i'm just swamped <U WHO="S1"> yeah <OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> um </OVERLAP>
+				<EVENT DESC="LAUGH" WHO="S1"/> and and and having a family too <U WHO="S1"> mhm </U> um, <U WHO="S1"> mhm </U> i don't know, i don't know how much time he spends with his family <U WHO="S1"> yeah </U> but um that's, that's amazing </U>
+			<U WHO="S1"> yeah right, it is, </U>
+			<U WHO="S2"> he does all that </U>
+			<U WHO="S1"> and um with a- kind of a, spirit of adventure, i mean he's_ he doesn't seem beleaguered you know <U WHO="S2"> mhm </U> really weighed down by all that he's um responsible for <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> i know </OVERLAP> he's nervous about it but i don't think he's um <U WHO="S2"> yeah </U> feeling like he's just a drudge i think he's having a good time <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> oh that's that's great <U WHO="S1"> yeah </U> i don't, i know that Satosh is the the first Japanese person that i've really, <U WHO="S1"> mhm </U> met and, i mean there's a lot of stereotypes out there <U WHO="S1"> yeah </U> and i don't know, if, you know, he's just used to that sort of work ethic. <U WHO="S1"> mhm </U> um... <U WHO="S1"> yeah </U> or, you know... i- it's that he needs to work that much or you know his his, <U WHO="S1"> mhm </U> the organization that he works for </U>
+			<U WHO="S1"><OVERLAP> uhuh </OVERLAP></U>
+			<U WHO="S2"> <OVERLAP> um </OVERLAP> i mean they're they're i i think they're supporting him <U WHO="S1"><OVERLAP> right </OVERLAP></U> <OVERLAP> um </OVERLAP> so he's just sort of, doing as much as he can <U WHO="S1"> mhm </U> to get as many experiences and the grades really don't matter um <U WHO="S1"> mhm </U> and then i think if if that's the case that's great <U WHO="S1"> yeah <OVERLAP> yeah </OVERLAP> </U> <OVERLAP> uh </OVERLAP> it's a fabulous experience for him and <U WHO="S1"> right </U> um and what he can bring back with him </U>
+			<U WHO="S1"> yeah, yeah it is </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

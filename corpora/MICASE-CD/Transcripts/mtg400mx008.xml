@@ -1,0 +1,908 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="mtg400mx008">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Immunology Lab Meeting </TITLE>
+				<TITLE> Rackham Div: BS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> MTG400MX008 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="60">
+						<DATE> March 27, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Marianne Carduner, John Swales </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Marianne Carduner </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Deanna Poos </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Janine Ovens </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Rita Simpson </NAME>
+							<RESP> Final Editing, 10/10/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+				<LANGUAGE ID="NSO"> Native Speaker Other English </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="7"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="7"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NNS" ROLE="JF, Second Presenter" SEX="M" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SF, Research Group Chair" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S3" LANG="NNS" ROLE="JF, Group Member" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SG, Main Presenter" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="ST, Technician" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="JG, Group Member" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="R1" LANG="NSO" ROLE="SF, MICASE Researcher" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-5" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-6" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Small Library, Medical Sciences Building II </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> do we need to fill in both forms? </U>
+			<U WHO="S2"> yeah just just_ if you just run okay all the way down unless you really object. <EVENT WHO="S3" DESC="LAUGH"/> then you don't get any cake. <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> wow </U>
+			<U WHO="S4"> thank you Chas that's really nice. </U>
+			<U WHO="S2"> ah you're a sweet gal why not. gonna miss you kiddo </U>
+			<U WHO="S4"> thank you, i'll miss you guys too but you know what the best thing is i'll see you all in about three weeks. </U>
+			<U WHO="S5"> that's a good <OVERLAP> thing </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> not me </OVERLAP>
+			</U>
+			<U WHO="S2"> not me </U>
+			<U WHO="S4"> you're gonna be out in California <OVERLAP> aren't you? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i can't </OVERLAP> go </U>
+			<U WHO="S4"> aah, you're kidding. </U>
+			<U WHO="S2"> no i'm really <OVERLAP> not </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> that's </OVERLAP> a bummer </U>
+			<U WHO="S5"> are you going <OVERLAP> too (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah it is </OVERLAP>
+			</U>
+			<U WHO="S6"> you're going <OVERLAP> though aren't you? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> teaching just, just </OVERLAP>
+			</U>
+			<U WHO="S5"> so you're just gonna <OVERLAP> see me </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i have </OVERLAP> to correct an exam you know, right afterwards, and i really objected to doing it by fax and doing it by mail. i really did. </U>
+			<EVENT WHO="SS" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S5"> this is stupid. what's that? </U>
+			<U WHO="S2"> well </U>
+			<U WHO="S6"> it's for you. </U>
+			<U WHO="S2"> i think we're all here, um, the MICASE people are here. and let me introduce the director of the English Language Institute, uh John Swales. </U>
+			<U WHO="R1">
+				<OVERLAP> hi </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> hi </OVERLAP>
+			</U>
+			<U WHO="S2"> who's, one of the brainchild if not the brainchild behind this. and who's been involved in actually teaching a lot of our, foreign students, English and written language. </U>
+			<U WHO="R1"> yes, i teach <U WHO="S2"> through your course </U> dissertation writing for non-native speakers, research paper writing, occasionally we have a student from, this part of the world. or sometimes a visiting scholar. </U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S2"> and just a follow-up from last week's, paper before, Betty gets going. remember i talked about... a mutation in, a mismatch repair gene, P-M-S-two. and that if it was_ if the mouse_ for the knockout, there was no mutation. and Sam made the comment at the end of of one of many that wouldn't it be nice to do this in a regular immune response. so the latest abstracts that just came out from FASEB, has an article has a abstract in it from Matt Hartmann's lab. and they did immunize the mouse, <U WHO="SU-f"> mhm </U> using the V-kappa-A-V system which is avalon the one that, Hoffert studied for years and years and years. the mutations are perfectly normal. there is no difference between the knockout <U WHO="S3"> oh really? </U> and the wild type. none, except, there's, tandem repeats, so instead of these scattered mutations, there, apparently there are like doublets and maybe triplets, <U WHO="S4">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> that are more </OVERLAP> common. mutations that are more common than, than they would have in their control panel. and they think that had th- that, maybe those normally occur as a part of somatic mutations, and one of those doublets, and again you're inferring from the abstracts you don't really know, gets re- normally repaired by, the mismatch repair system. but that's basically all there is that that's the only difference there really is. <U WHO="SU-f"> mhm </U> so, there's something, remember we had a major problem with the, that crazy population <U WHO="S3"> mhm </U> that was B-two-twenty, and it was not described in his previous paper when he talked about this mouse. um, plus the fact that it's a it was a crazy mouse it was that Q-M mouse that had, had a knock-in on a, light heavy chain locus on one allele and was knocked out of the other so that the only thing it could express, was one single heavy chain. so, </U>
+			<U WHO="S4"> sele- a lot of selection </U>
+			<U WHO="S2"> a lot of different kinds of selection it had an impact on, um. <U WHO="S4"> (xx) </U> so it's, it's interesting that a- an article in Science <EVENT DESC="LAUGH"/> which made the News and Views, may not be, as straightforward as one might think. <EVENT DESC="LAUGH"/> i think that's_ how embarrassing if it turns out <U WHO="SU-f"> mhm </U> to be true. oh <EVENT WHO="S3" DESC="LAUGH"/> gosh. well it's probably real it's just it's just an artifact. </U>
+			<U WHO="S4"> i know </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> Heidi? </U>
+			<U WHO="S4"> am i up? okay </U>
+			<U WHO="S2"> you can cer- you can certainly start. </U>
+			<U WHO="S4"> so, we have been trying to determine, (xx) if you remember, a lot of my work is f- focused on determining whether hypersensitive site two, in the gamma one locus is really important. okay, and i had showed you a lot of (xx) data earlier on, where we found uh (N-F-)kappa-B binding sites and stat-six binding sites etcetera etcetera. so this is the seventeen-K-B gamma one locus, it has the I-region, uh site two is located here in between the small switch region and the large switch region, and then it has the constant region. so, Pete when he was in the lab made a transgene that contained... the I-region, uh, contained this the promoter of the I-region the small bit of switch through site two, and then he put on a uh foreign splice site. and they showed that those t- uh transgenes when injected into mice, were properly regulated. it suggested to us that, maybe site two was required for regulation of germ line transcripts. so a second transcript or a second, uh transgene was created, this one has the I, region it has the small switch region, and then site two is eliminated from this transgene, but they included in uh, one of the exons from the gamma one constant region, C-H-three okay, and what we've been trying to do is, determine if this transgene is correctly regulated. and Pete studied three mice, he studied thirty-two fifty-one thirty-two sixty-two and thirty-three eighty-three, you can see their copy number here and only one of them, thirty-three eighty-three is properly regulated. and the other two were so low copy number and they just couldn't, couldn't determine it so we created five more lines with this transgene, those are listed here and i only have data today from two of them, the others will be coming out later in the week. the way, we have several ways that we analyze these transgenes for expression, um, first of all we have been looking at their endogenous locus just to make sure, that, uh we see up regulation of endogenous gamma one gene, when treated with L-P-S plus I-L-four over L-P-S alone, and to look at the endogenous locus we use a primer that's in the I-region, twelve sixty-four, and then we use a primer that's in the gamma one constant region. and we analyzed that with uh primer twelve sixty-three and that's shown here. or that probe is there. we then to look for spliced transcript products. we have two metho- well three, we either use, primer twelve sixty-four which is in the I exon, and primer eighty-four nineteen which we generated, which is a primer that spans this splice site so it's only gonna, detect properly spliced transcripts so it starts in the C-H-three and it ends, on the other side of the splice which is, uh, just this side of the switch region. okay? and we detect that with twelve sixty-three probe. another way that we've used to detect this is we'll use this primer set twelve sixty-four, and thirty-seven ninety-six which is actually in C-H-three. and then we will either probe that with twelve sixty-three, which in that case, you would it would not have to be absolutely correctly spliced to see it <U WHO="S2"> mhm </U> right because it cou- this could, be screwed up a little, or we probe it with eighty-four nineteen which would mean it has to be correctly spliced to see it. </U>
+			<U WHO="S3"> but i mean can't you tell by the size? <OVERLAP> whether it's </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S3"> no? </U>
+			<U WHO="S4"> 'm'm </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S4"> not really </U>
+			<U WHO="S5"> you're running these on agarous jells right? </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S5"> what's the size betw- what's the size of the um, the transgene, so between, eighty-four nineteen or thirty-seven ninety-six in, the I-region? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S4"> um it's like, forty or fifty base pairs max. you can't tell it when you're running on agarous and blot it, you can't tell the difference. um </U>
+			<U WHO="S2"> why is eighty-four nineteen, picking up pro- correctly spliced? </U>
+			<U WHO="S4"> because that primer was made through the splice site. </U>
+			<U WHO="S2"> so, if it's spliced it would be negative? </U>
+			<U WHO="S4"> so if it's spliced says it's positive. </U>
+			<U WHO="S2"> isn't the splice acceptor on the on the beginning of C-H-three? </U>
+			<U WHO="S4"> yes and that this pri- this primer spans that. no, it its, it spans, the splicing goes like this. i i couldn't draw this, that way but the splice <U WHO="S2">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> product </OVERLAP> goes like this, and <U WHO="S2">
+					<OVERLAP> oh i'm sorry </OVERLAP>
+				</U>
+				<OVERLAP> this primer </OVERLAP> spans, from that <OVERLAP> to the I sorry sorry. okay. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> to the okay gotcha okay okay </OVERLAP>
+			</U>
+			<U WHO="S4"> um, alright. so, when we look at thirty-three eighty-three, using, this_ Pete did this work using twelve sixty-four <U WHO="S3"> oh yeah </U> and thirty-seven ninety-six, and probing with twelve sixty-three. okay? you see properly, regulated tr- splice transcripts. properly regulated transcripts okay? so you don't see it in L-P-S but you do see it with L-P-S plus I-L-four. <PAUSE DUR=":05"/> if <PAUSE DUR=":16"/>
+				<EVENT DESC="UNINTELLIGIBLE SPEECH"/> if i take, and use, the same primers twelve sixty-four and eighty-four nineteen, and probe with twelve, i'm sorry if i okay so if i take twelve sixty-four and thirty-seven ninety-six and probe with twelve sixty-three A, you get properly regulated transcripts. if you take the same primers, twelve sixty-four and thirty-seven ninety-six and probe with this splice region product, then you see expression in both L-P-S and L-P-S plus I-L-four, to the same level. okay. this is just a new a new technique, we are completely confused with what's happening, that's why <U WHO="S3">
+					<OVERLAP> i got confused too, so </OVERLAP>
+				</U>
+				<OVERLAP> i'm starting from scratch and </OVERLAP> giving you all the data. </U>
+			<U WHO="S3"> so <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> so for thirty-three eighty-three, if i use these primers, and i use the twelve sixty-three A probe </U>
+			<U WHO="S3"> you get right regulation </U>
+			<U WHO="S4"> right regulation </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S4"> if i use the splice region <OVERLAP> probe </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> you don't </OVERLAP>
+			</U>
+			<U WHO="S4"> i don't </U>
+			<U WHO="S3"> so wha- what's the difference? wait a minute you s- </U>
+			<U WHO="S4"> exactly. </U>
+			<EVENT WHO="S3" DESC="LAUGH"/>
+			<U WHO="S4"> the only difference is this twelve sixty-three A, this splicing event doesn't have to occur, exactly correctly, <U WHO="S2"> mhm </U> does that, make sense? </U>
+			<U WHO="S2"> so you have a couple of possibilities. one is, in (it's) endogenous and you're getting this screwy splicing all the way down to C-H-three. do you have a control f- that rules that out? i don't think that's <U WHO="S4"> alright </U> likely. cuz it's it'll go to the... </U>
+			<U WHO="S3"> no wait a minute, doesn't matter whether you have splice or not you're gonna get the product, by eighty-four nineteen. if you, coming from the outside primer. i think that's why it confused. </U>
+			<U WHO="S2"> no it's not splicing, you see the eigh- that eighty-four nineteen primer is, half C-H-three and roughly a half I exon <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> it will only pick up the k- the the splicing that they're <OVERLAP> imagining happens </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but we're </OVERLAP> detecting it with that in L-P-S as well as L-P-S plus I-L-four. it's not like we're not detecting that at all, we're detecting it, as no, regulation anymore it's expressed in both L-P-S and L-P-S plus I-L-four. but there's no regulation </U>
+			<EVENT DESC="UNINTELLIGIBLE EXCHANGE"/>
+			<U WHO="S3"> no eighty-four nineteen eigh- okay so you're using the outside primer? </U>
+			<U WHO="S4"> right outside primers twelve sixty-four and thirty-seven ninety-six </U>
+			<U WHO="S3"> right <U WHO="S4"> mm </U> that will contain the fragments, either twelve sixty-three, or the eighty-four nineteen. </U>
+			<U WHO="S4"> correct. if we use twelve sixty-three A, we see proper regulation, if we use eighty-four nineteen, there's no regulation we see expression in L-P-S as well as L-P-S plus I-L-four. </U>
+			<U WHO="S5"> hence the confusion </U>
+			<U WHO="S4"> hence the confusion. this is just one of the <EVENT WHO="S3" DESC="LAUGH"/> confusions. i'm gonna get some more </U>
+			<U WHO="S2"> oh uh let me, let's fi- let's figure out the possibilities here first <PAUSE DUR=":05"/> if you're gonna have more you'd better you'd better diagram this, you'd better get these results on the board. </U>
+			<U WHO="S3"> bec- either i think either way you should've kept the product. </U>
+			<U WHO="S4"> okay. so... let's see </U>
+			<U WHO="S2"> maybe you could just do it right here Heidi just put eighty-four nineteen on one line and drop twelve sixty-three down to the next line then put the results over to the right of there. </U>
+			<U WHO="S4"> alright <EVENT DUR=":12" DESC="PAUSE WHILE WRITING ON BOARD"/>
+			</U>
+			<U WHO="S4"> so this for thirty-three eighty-three, is L-P-S positive, L-P-S plus I-L-four (xx) for thirty-three eighty-three. this is L-P-S, negative, L-P-S plus I-L-four positive <PAUSE DUR=":08"/> nevertheless we believe that this, transgene_ up to this point Wes hasn't even seen this data. but up to this point we believe that, this tr- we believe this transgene was properly regulated in this mou_ these mice up to this last piece of data which i just did with the eighty-four nineteen probe. </U>
+			<U WHO="S3"> okay i guess what's what's confusing is so, if you if you do P-C-R from twelve sixty-four with the uh thirty-seven ninety-six <U WHO="S4"> mhm </U> what's gonna be the A positive products, with or without proper um splicing? </U>
+			<U WHO="S4">
+				<OVERLAP> well </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> can you </OVERLAP> draw that on the board as well so we can see whether we are gonna have the eighty-four nineteen (medium.) they will gonna <OVERLAP> have it right? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> well the possib- </OVERLAP> i mean this is the splice donor <EVENT DESC="WRITING ON BOARD"/> this is the splice acceptor. <U WHO="S2">
+					<OVERLAP> they're (undecided) </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S3"> right, so </U>
+			<U WHO="S4"> eighty-four nineteen spans, here to here </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S4"> so, </U>
+			<U WHO="S3"> so either that's ri- s- that's why the splicing doesn't matter. you're gonna get eighty-four nineteen </U>
+			<U WHO="S4"> at least <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> part </OVERLAP> of it should hybridize </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S4"> correct. regardless of what you get, whether, you have, the splicing is weird, you shou- should still have half of this, labeled all (ago) <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> hybridizing. </OVERLAP>
+			</U>
+			<U WHO="S3"> right. </U>
+			<U WHO="S2"> right but that's not the issue, the <OVERLAP> issue is the positive L-P-S </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> the issue is not that </OVERLAP> the issue is <OVERLAP> that </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> right so </OVERLAP> that's what i'm trying to <OVERLAP> say </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3"> but if you use twelve sixty-three... you do get proper regulation. </U>
+			<U WHO="S4"> right <PAUSE DUR=":05"/> and i've seen this result now Wes thought, the first time we saw this with eighty-four nineteen, Wes thought maybe thi- i'd made C-D-N-A wrong, and i'd made an L-P-S I-L-four for L-P-S. this is the second time i've seen this result with the eighty-four nineteen probe. </U>
+			<U WHO="S2"> and actually... you can ask the question with the first pair. is there any difference in the intensity of L-P-S plus I-L? </U>
+			<U WHO="S4"> i did a, dilution analysis, <U WHO="S2"> oh </U> i don't know if you guys can see this. i'll do it up here. </U>
+			<U WHO="S3"> what happened with A? if you use the uh eighty-four nineteen as a primer? </U>
+			<U WHO="S4"> uh, sorry? </U>
+			<U WHO="S2"> in A? </U>
+			<U WHO="S4"> in A? </U>
+			<U WHO="S2"> (xx) in A </U>
+			<U WHO="S3"> for the primer set is that twelve sixty-four and eighty-four nineteen </U>
+			<U WHO="S4"> i've never done it </U>
+			<U WHO="S3"> oh you <OVERLAP> haven't </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i've </OVERLAP> not- haven't used eighty-four nineteen as a probe you mean as a probe there? or as the </U>
+			<U WHO="S3"> no if you use the twelve sixty-three as a probe do you see proper regulation? </U>
+			<U WHO="S2"> using the prior pair twelve sixty-three and <OVERLAP> eighty-four nineteen </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> this one? </OVERLAP>
+			</U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S3"> A </U>
+			<U WHO="S4"> um </U>
+			<U WHO="S3"> what do you see? </U>
+			<U WHO="S4"> we see... i think that's on a blot right now to be completely honest <U WHO="S3">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> (xx) do that? </OVERLAP>
+				</U>
+				<OVERLAP> i think it is, </OVERLAP> yeah that's on a blot right now, as we speak. i don't think i have that data for you. </U>
+			<U WHO="S3"> okay </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> so if you look, down here in this area, can everybody see that? </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S4"> okay. so, this is thirty-three eighty-three, the- these three lanes one two and three are L-P-S, one two and three are L-P-S plus I-L-four, this is dilution, same concentration of C-D-N-A pretty much to start, from I by H-P-R-T analysis, three lambdas, three quarters lambdas three sixteenth lambdas you can see that they both even out at about, i mean, L-P-S plus I-L-four might have a little bit more </U>
+			<U WHO="S2"> what's the dilution series, under </U>
+			<U WHO="S4"> sorry? </U>
+			<U WHO="S2"> three-fold dilution, four-fold? </U>
+			<U WHO="S4"> uh four-fold dilutions. </U>
+			<U WHO="S2"> so at most there might be a two-fold difference? </U>
+			<U WHO="S4"> maybe yeah and that could be accounted for like i said by I looking at H-P-R-T, you know you just, kinda guess, so, to me that's pretty_ it's there. and it's it's pretty close. <PAUSE DUR=":07"/> let me make sure that i don't have that data you're <OVERLAP> asking for. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> how come why </OVERLAP> you don't s- you don't see (xx) twelve sixty-three? </U>
+			<U WHO="S2"> with L-P-S? </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> yeah, i don't know, is it it it's </U>
+			<U WHO="S4"> oh wait i think i lied. maybe not. i have done. what you just maybe okay... if you do the twelve sixty-three i've only done this once the second one is on blot now, if you use twelve sixty-four and thirty-seven ninety-six as your primers <U WHO="S2"> mhm </U> and then you probe oh... <U WHO="S3"> no that's </U> never mind. </U>
+			<U WHO="S3"> yeah with the <OVERLAP> A not B </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> that's not </OVERLAP> what you wanted. <U WHO="S3"> right </U> okay, here's what you wanted. you wanted </U>
+			<U WHO="S3"> A </U>
+			<U WHO="S2"> condition </U>
+			<U WHO="S4"> (i have) too many jells here. but no i think that one's on_ you wanted A that one's on film now. </U>
+			<U WHO="S2"> do you know if the product in the, when probed with eighty-four nineteen is the right size? </U>
+			<U WHO="S4"> uh </U>
+			<U WHO="S2"> i mean it cou- within forty base pairs? </U>
+			<U WHO="S4"> it looks like it. </U>
+			<U WHO="S2"> really? </U>
+			<U WHO="S4"> and that's the best i can tell you is that it looks like it. </U>
+			<U WHO="SU-m"> there's gotta be some kind of (an arc there) </U>
+			<U WHO="S3"> but you don't pick it up by, i guess from the nontransgenic do you? </U>
+			<U WHO="S4"> oh yeah sorry. this is nontransgenic out here L-P-S L-P-S plus I-L-four, you don't <U WHO="S3"> okay </U> see it. </U>
+			<U WHO="S2"> it's a transgene (xx) of some kind <PAUSE DUR=":06"/> God it's weird <PAUSE DUR=":07"/> oh Heidi? </U>
+			<U WHO="S4"> yes </U>
+			<U WHO="S2"> have you amped with eighty-four nineteen at all? </U>
+			<U WHO="S4"> with thirty-three eighty-three? </U>
+			<U WHO="S2"> anything, well yes it'd have to be that one. right. or or, thirty well no yeah thir- anything. </U>
+			<U WHO="S4"> yeah absolutely. </U>
+			<U WHO="S2"> so it it functions okay as a primer? </U>
+			<U WHO="S4"> yeah. i'll show you that data in a minute </U>
+			<U WHO="S2"> i thought maybe it was sitting down someplace, you know <U WHO="S3"> i know </U> inappropriately that's not... </U>
+			<U WHO="S4"> okay, i'm gonna go on to the next line. because i don't, i think you need to see it all and then, maybe we can talk about it. um, okay. </U>
+			<U WHO="S3"> but when you do the P-C-R they are coming from the same R-N-A prep? in other words the <OVERLAP> same </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> this is </OVERLAP> exac- all this is done with the same C-D-N-A. all of these that i'll show you are (xx) with the same C-D-N-A samples... okay. so let's talk about line forty-five-oh-three i'll just show this really quick um, if you look along the bottom, oops, just so you know that the endogenous is doing what it's supposed to be doing, um... okay, so starting on this side this is L-P-S plus I-L-four for this line this is amplifying the endogenous locus so with these primers up here, this is L-P-S plus I-L-four and five-fold increase in concentrations. <U WHO="S2"> hm </U> this is L-P-S with five-fold, increase in concentrations. this one and this one are the same concentration, of C-D-N-A. </U>
+			<U WHO="S2"> so </U>
+			<U WHO="S4"> so we're looking at </U>
+			<U WHO="S2"> one two three </U>
+			<U WHO="S4"> at least </U>
+			<U WHO="S3">
+				<OVERLAP> twenty-five </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> five, </OVERLAP> a hundred a hundred <OVERLAP> and twenty-five </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> a hundred and twenty-five </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> a hundred and twenty-five, </OVERLAP> at least, okay? </U>
+			<U WHO="S2"> nice really nice </U>
+			<U WHO="S4"> so now if you take <PAUSE DUR=":09"/> forty-five oh three. okay. so now if we look, at <PAUSE DUR=":14"/> if we look at <PAUSE DUR=":05"/> using, if we look for the transgene in these, mice looking with uh twelve sixty-four and eighty-four nineteen and probing with twelve sixty-three, that's down here </U>
+			<U WHO="S2"> this is the oh-three mouse? <OVERLAP> forty-five-oh-three? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> forty-five-oh-three </OVERLAP> yeah. okay so, ach... <U WHO="S2"> oh i see why (it's gonna be completely) </U> okay, so if we look here, you got three lanes here this is L-P-S um, three concentrations with four-fold dilutions, starting highest to lowest this is L-P-S plus I-L-four, highest concentration to lowest concentration you can't see, nontransgenic controls (for) L-P-S L-P-S plus I-L-four out here. so you can see in <U WHO="SU-5"> looks nice </U>
+				<EVENT DESC="TAPS BOARD"/> this one it looks properly regulated. </U>
+			<U WHO="S2"> with a different set of primers? </U>
+			<U WHO="S4"> with, right, with those so th- i had i- i don't have thirty-three eighty-three data to show you </U>
+			<U WHO="S2"> but, with the same probe, so the probes are being consistent, for different primers </U>
+			<U WHO="S4"> right </U>
+			<U WHO="S2"> on, dif- on different mice, but there's still consistency. </U>
+			<U WHO="S3"> do you with the eighty-four nineteen? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> um, twelve sixty-four thirty okay. if i take this is the best mouse, we have, right now. if i take, this set and i do twelve sixty-four on thirty-seven ninety-six with the eighty-four nineteen, <U WHO="S3"> uhuh </U> same thing. three lines here at three lanes here with L-P-S, decreasing, four-fold <OVERLAP> concentrations </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it doesn't express </OVERLAP>
+			</U>
+			<U WHO="S4"> L-P-S plus I-L-four, four-fold increasing so here, <U WHO="SS">
+					<OVERLAP> it's fine </OVERLAP>
+				</U>
+				<OVERLAP> it's all </OVERLAP> consistent. it's beautiful for forty-five <OVERLAP> oh-three </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> so then </OVERLAP> chuck the (xx) thirty-three eighty-three? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> so, and i'll reprobe this blot with twelve sixty-three but i just, i just got this stuff off so, um. so forty-five-oh-three looks great, it's beautiful. it does everything we expect it <OVERLAP> to do. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> so maybe there's </OVERLAP> something wrong with your thirty-three eighty-three. </U>
+			<U WHO="S4"> now </U>
+			<EVENT WHO="S3" DESC="LAUGH"/>
+			<U WHO="S2"> you can say that but it still doesn't, we c- we c- that's not, an answer to the problem <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> if we look at f- </U>
+			<U WHO="S3"> (looks like) something else is coming </U>
+			<U WHO="S2">
+				<OVERLAP> yeah it is </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> forty-five </OVERLAP> oh-seven </U>
+			<U WHO="S3"> can't see it... is it from L-P-S? </U>
+			<U WHO="S4"> okay. so <U WHO="S3">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U>
+				<OVERLAP> again </OVERLAP> now we are going to look at the endogenous for forty-five-oh-seven these primers this probe. starting with the same concentrations of C-D-N-A, goin- starting with two lambdas here for L-P-S five-fold dilutions out to here. starting with the same concentrations of L-P-S plus I-L-four, which is here, five-fold dilutions out to here this blot looks crappy i know. so you can see in this one there's not, the, endogenous uh the induction did not work very well, for the endogenous here. </U>
+			<U WHO="S2"> or maybe you got (I-L probe ) that isn't there an awful lot (of) L-P-S? compared to the other mouse? </U>
+			<U WHO="S4"> yeah. okay? if line forty-f- <U WHO="S2"> yeah but (it's just doesn't look like an I-L-four probe) </U> okay, uh, if we look at now i have something else on this blot so i know that the blot worked and the probe worked, <U WHO="S2"> mhm </U> for something else. over here, this is, twelve sixty-four eighty-four nineteen probing with twelve sixty-three A. this half of the blot, is concentrations of L-P-S and L-P-S plus I-L-four. and as you can see this is the same amplification the same P-C-R for another line and it worked. i mean it... so we see absolutely nothing, for this line, and again i have to reprobe, that with twelve sixty-three A. </U>
+			<U WHO="S2"> so it's gonna be like fifty-one and sixty-two? </U>
+			<U WHO="S4"> yeah and its high copy number. i mean w- we always thought fifty-one and sixty-two were because they were one copy, but now we've got one that </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"> are are they head to tail do you know that? </U>
+			<U WHO="S4"> i don't, i think they i think they are but <OVERLAP> i can't tell </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> have you done the </OVERLAP> wraparound? </U>
+			<U WHO="S4"> tell you that for sure </U>
+			<U WHO="S2"> cuz if they're head- maybe you've got a competition head to tail here and that's what's what's... preventing, you need some more of the cop- internal copies from, expressing properly, or expressing at all </U>
+			<U WHO="S4"> or it's, completely an insertion site <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> dependent </OVERLAP> transgene or, i don't, all as as far as i can remember all of them went head to tail. <PAUSE DUR=":05"/> um, okay. also i i should show you this piece, um, using <PAUSE DUR=":06"/> oh i lied to you, this one i showed you down here was was this. with nothing, for this line, okay? the <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> one </OVERLAP> i showed you where there was nothing really it doesn't matter this one if i do it with this set here... that's up here. and these blots are God, beautiful to the eye but </U>
+			<U WHO="S2"> which pr- for below which probe did you use, your body was blocking so i didn't eighty-four nineteen or twelve <OVERLAP> sixty-four </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> eighty-four </OVERLAP> nineteen </U>
+			<U WHO="S2"> okay that's what i was trying to <OVERLAP> figure out </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> now for </OVERLAP> this one which is twelve sixty-four and eighty-four nineteen primer twelve sixty-three probe. we've got L-P_ three concentrations of L-P-S, three concentrations of L-P-S plus I-L-four. there might be something in that strongest concentration of L-P-S plus I-L-four, but </U>
+			<U WHO="S2"> but anyway, it's not it's not responding, in either... s- with either set up the primer's not being (real-) okay, so it's at least that's internally consistent (with the other) setup of mice. </U>
+			<U WHO="S4"> so that is where we stand we've got three more lines these two, we'll have data on by Monday, this one has been just a hell breeder and so it <EVENT WHO="S3" DESC="LAUGH"/> we haven't we haven't killed it yet, we now have one transgenic offspring out of, eight litters <U WHO="S3"> ugh </U> and uh so we're gonna finally kill that mother and do some work with her. but, we're kinda left wondering what's going on with this transgene and we, we wondered if you had any, suggestions, we don't seem to be able to have any consistency at all with this. our primer pairs and our_ and the data that comes out. </U>
+			<U WHO="S2"> yeah but, you have three lines that are essentially, fifty-one sixty-two and oh-seven are essentially nonresponders, so then <OVERLAP> you have to look </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> well </OVERLAP> oh-seven might have, have had a little bit <OVERLAP> in this </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay a little </OVERLAP> bit with the higher concen- the highest level okay. so, well first of all it bears repeating i'm sure </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S2"> and but, we can we can say that that those, possibly those three lines, are non- nonresponding. they're missing_ either it's an insertion side effect which is, boy that's, the way to see (what if) (xx) see this again with the higher copy numbers. </U>
+			<U WHO="S4"> well these, these two are both one copy <U WHO="S2">
+					<OVERLAP> oh jeez </OVERLAP>
+				</U> and then this guy is greater than eight </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S4"> but, <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but this this </OVERLAP> is a higher frequency of negatives than you normally would have with a with a transgene. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> so if it could be it's a critical element, but th- on the other hand, with two of the lines eighty-three and oh-three, you at least have, proper regulation. </U>
+			<U WHO="S4"> uh </U>
+			<U WHO="S2"> screw the results with one of the primers and probe but you know, let's <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> not </OVERLAP> worry about that right now <U WHO="S4"> okay </U> you do have, proper regulation. </U>
+			<U WHO="S3"> two out of, eight. </U>
+			<U WHO="S4"> well, we don't we don't know about those last three yet, but </U>
+			<U WHO="S2"> so then you hafta figure out what you make of that </U>
+			<U WHO="S3"> i know </U>
+			<U WHO="S2"> i mean it looks like it's throwing a s- it's throwing a strong dependency on where the hell it is <PAUSE DUR=":04"/> don't you think? <PAUSE DUR=":07"/> for something that normally shows copy number independence </U>
+			<U WHO="S4"> mhm... </U>
+			<U WHO="S2"> position independence </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S4"> and, yeah </U>
+			<U WHO="S2"> site two is critical. </U>
+			<U WHO="S4"> maybe <OVERLAP> i mean </OVERLAP>
+			</U>
+			<U WHO="SU-6">
+				<OVERLAP ID="S-6"> but for what? </OVERLAP>
+			</U>
+			<U WHO="S3"> should those two mice (be) one copy their, the expression level is too low, that's why you can't <OVERLAP> really see </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i didn't </OVERLAP> even work with those two mice, those were totally Kirk, um... i, you cou- they_ </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> he used the by P-C-R? </U>
+			<U WHO="S4"> he did it by P-C-R he used, but_ then the only method Kirk ever used was this one right here </U>
+			<U WHO="S3"> okay </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S4"> and you have to use P-C-R (by the) obviously, if you take out that switch region on any of our transgenes then, you (use) only the P-C-R to look at it. now the other thing i should bring up, is that, before i was in the lab a long time before i was in the lab, th- the lab made a bunch of promoter transgenes, fused to, four different reporter constructs three different reporter constructs, cat luciferase and uh <U WHO="SU-m"> three </U> three, and none of those were properly regulated. </U>
+			<U WHO="S3"> how much of promoter </U>
+			<U WHO="S4"> how mu- the whole_ as far as i know the whole promoter </U>
+			<U WHO="S2"> um </U>
+			<U WHO="S4">
+				<OVERLAP> uh, yes didn't they go </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> how big is one promoter? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> didn't they go to here? </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP> that might be easier </U> i don't remember where they went. do you know <OVERLAP> John? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> you mean </OVERLAP> from the I-region up? </U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S5"> there was like a minus fourteen something or other and minus <OVERLAP> two </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> fourteen (K?) </OVERLAP>
+			</U>
+			<U WHO="S2"> no </U>
+			<U WHO="S5"> no </U>
+			<U WHO="S4">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> fourteen </OVERLAP> hundred base pairs </U>
+			<U WHO="S3"> oh okay. </U>
+			<U WHO="S5"> um, <U WHO="S4"> they </U> minus two hundred and something <U WHO="S4"> yeah, but </U> a hundred and fifty or something like that yep </U>
+			<U WHO="S4"> they they did the whole thing that's been reported to be, required, for transcription. um, and with three differ- attached to three different reporter constructs, <U WHO="S3"> none <OVERLAP> of them (xx) </OVERLAP>
+				</U>
+				<OVERLAP> none of </OVERLAP> those worked. so the question is if this thing, isn't <PAUSE DUR=":07"/> is if this thing isn't properly regulated... <U WHO="S2"> that's critical </U> then, what was, you know, i... </U>
+			<U WHO="S5"> so you have data for five of 'em. let's just ignore the ones that have <U WHO="S2">
+					<OVERLAP> (that's really that's kind of gross) </OVERLAP>
+				</U>
+				<OVERLAP> low copy number at the moment </OVERLAP>
+			</U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S5"> and so <EVENT WHO="S3" DESC="LAUGH"/> two of the three that you have, you've seen indications that they are properly regulated even though the (worth) um the amount, of transcription you get is lower than what you would normally see, right? </U>
+			<U WHO="S4"> uh, if you're counting thirty-three eighty-three? </U>
+			<U WHO="S5"> yeah. </U>
+			<U WHO="S4"> wh- which has the one screwy result, <U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> correct </OVERLAP> yes. </U>
+			<U WHO="S5"> so that's, that's sixty-six percent two out of the three are, actually being properly regulated. <U WHO="S3"> (xx) </U> the ones the ones that Kirk did previously with a low copy number may be just low copy number and hard to detect <U WHO="S4"> right <OVERLAP> exactly </OVERLAP>
+				</U>
+				<OVERLAP> and, </OVERLAP> cuz, you've, been doing it, m- much more than he has, that you might've been able to detect that or that just maybe, that those have been um, not only have low copy, one copy, but those copies have been altered in some manner anyway. <U WHO="S4"> possible </U> so again i wouldn't, i wouldn't look at it as being as being unsuccessfully, looked at, at the moment <U WHO="S2"> mhm... that's correct </U> cuz then and also not that site two might not be important, but uh, you don't know that bec- you don't know whether it's site two that's, in conjunction with the lack of the switch region is causing lower expression on this transgene, um, or site two itself has something to do with the intensity of the of the expression... but i would look at, two out of three, for the most part of giving proper regulation at least, induction, with I-L-four, of whatever transcripts you have there. as a good sign. </U>
+			<U WHO="S2"> except if you wanted site two to be, <U WHO="S5"> well no yeah </U> important. </U>
+			<U WHO="S5"> well, it's low so it it could be important </U>
+			<U WHO="S2"> well i thought the low we had_ Wes had decided was due to the sw- the uh, </U>
+			<U WHO="S5"> lack of the switch region </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S2"> lack of switch <OVERLAP> region </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> but we don't </OVERLAP> as i said we don't know if in conjunction, <U WHO="S4"> right </U>
+				<U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> that's </OVERLAP> also causing, is this, this still has the stat- si- site that's five prime of the, <U WHO="S2"> mhm </U> the I-region which is gonna promote induction by I-L-four </U>
+			<U WHO="S4"> well another thing is with these we can't look at recombination <U WHO="S5"> right </U> you know we don't know if site two's role may be at the recombination, level and, we just, you know, we can't test that here, but, for all of you who have been asking that's what I've been doing </U>
+			<U WHO="S3"> so those, tha- that transgene had the same length of the promoter as you just said, which didn't work in (this transcription.) so why didn't you guys use the same length of promoter which <OVERLAP> you knew </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<U WHO="S2">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> (it should have) </OVERLAP>
+			</U>
+			<U WHO="S4"> no no, the, i- we we looked at, whether just the promoter alone could cause, properly regulated, <U WHO="S2"> right </U> transcription of this transgene, and they see no_ they saw when they linked that up to (recorder) constructs <U WHO="S3"> mm </U> and, <U WHO="S3"> then, okay </U> these were injected into mice, they did not see expression, of those constructs. </U>
+			<U WHO="S2"> i, think there's other, don't know that for sure but i'm pretty sure there's other, constructs which work perfectly well and pro- properly regulated high level expression for example they had the switch region and, they had the same amount of promoter, so i i don't think that </U>
+			<U WHO="S4"> this is the_ this_ the length of promoter that we've got here <U WHO="S2">
+					<OVERLAP> (xx) okay </OVERLAP>
+				</U>
+				<OVERLAP> is the same one </OVERLAP> we've used in all our transgenes that have worked <U WHO="S2"> yeah </U>
+				<U WHO="S3"> okay </U> i mean it's_ we_ nothing was truncated for this, in that region, up through the I-region for this transgene </U>
+			<U WHO="S2"> so remind us of the site two what the site two knockout, looks like, as far as, </U>
+			<U WHO="S4"> you mean the one <OVERLAP> (they're) just doing? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> does it does it have </OVERLAP> yeah, does it still have the all the switch region and the entire C-region? </U>
+			<U WHO="S4"> uh, </U>
+			<U WHO="S2"> has it been studied (for) combination, (do you know) <OVERLAP> do you know that? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (i haven't done) </OVERLAP> anything with this at all with this at all Wes did this completely. <U WHO="S2"> yeah </U> um... oh we talked about it over a year ago, how he was going to do it and we talked about it i do- i cannot remember to be completely honest </U>
+			<U WHO="S5"> i think part of the switch region's gone </U>
+			<U WHO="S4"> i believe that's true <OVERLAP> as well </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> but it still </OVERLAP> has, um </U>
+			<U WHO="S2"> intact C-region so we can look at <OVERLAP> it </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S5"> and it has a num- it has a number of base pairs of the switch region including (octomers,) i think. </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S2"> mhm </U>
+			<U WHO="S5"> but it is smaller </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S2"> hm </U>
+			<U WHO="S3"> hm </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S4"> so, that's all i have to say </U>
+			<U WHO="S2"> now John you make a good point. that is that... it does, at least in two of the con- two of the, transgene arrangements, it does have these, essential elements, for proper regulation, albeit at a low level </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> yeah and again wh- that doesn't mean site two's not important for <U WHO="S2"> mhm </U>
+				<U WHO="S3"> right </U> what's going on here <OVERLAP> it just means tha- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah no i got that, </OVERLAP> i understand that <PAUSE DUR=":08"/> though that is really confusing when you use two different <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> probes </OVERLAP> for the same, why that would happen... <U WHO="S4"> and <OVERLAP> i </OVERLAP>
+				</U>
+				<OVERLAP> you're </OVERLAP> not mak- excuse me i didn't mean to just, you're not mak- that's from the same P-C-R reaction right you're just taking it and probing it with two different probes? </U>
+			<U WHO="S4"> for this part B? </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S4"> yeah... </U>
+			<U WHO="S3"> that's really odd </U>
+			<U WHO="S4"> yeah. i st- i probe it i strip it i reprobe it. and i see it and well </U>
+			<PAUSE DUR=":14"/>
+			<U WHO="S2"> and you've seen it before so it's, with different C-D-N-A 's? </U>
+			<U WHO="S4"> with different, for thirty-three eighty-three this is the second time i've seen this. let's see if i have anything else in here that i can show you <EVENT DESC="LOOKING THROUGH TRANSPARENCIES"/>
+			</U>
+			<U WHO="S5"> are <OVERLAP> these probe </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so are different </OVERLAP> R-N-A pre- prep <U WHO="S4"> mm </U> or C-D-N-A from same R-N-A prep? </U>
+			<U WHO="S4"> it's C- all C-D-N-A from the same R-N-A we've only killed one mouse for each of these experiments </U>
+			<U WHO="S3"> so (then) is it possible maybe the L-P-S alone is not L-P-S alone L-P-S with I-L-four? </U>
+			<U WHO="S4"> the endogenous doesn't suggest that i've done endogenous <U WHO="S3">
+					<OVERLAP> oh oh oh okay, okay </OVERLAP>
+				</U>
+				<OVERLAP> analysis on all of these, </OVERLAP> endog- endogenous does not <OVERLAP> suggest that </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> plus </OVERLAP> the thirty-three eighty-three's a probe i mean uh </U>
+			<U WHO="S3"> oh yeah that's right <U WHO="S2">
+					<OVERLAP> (well) sixty-three works fine </OVERLAP>
+				</U>
+				<OVERLAP> twelve-sixty-three is is negative. </OVERLAP>
+			</U>
+			<U WHO="S2"> that is really weird </U>
+			<U WHO="S3"> so those... is it possible that the eighty-four nineteen somehow, no it doesn't make sense either never mind. </U>
+			<U WHO="S4"> and i, i don't have the data, this is being repeated, but i can tell you that when we used twelve sixty-four and eighty-four nineteen primers and twelve sixty-three A probe, <U WHO="S3"> mhm </U> for thirty-three eighty-three at a previous time, we saw expression with L-P-S and with L-P-S plus I-L-four. i haven't i haven't done that aga- that's, on film <OVERLAP> now </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay as </OVERLAP> long as yo- if you include eighty-four nineteen you do see... from L-P-S right? </U>
+			<U WHO="S4"> that's what it's_ for that line, that's what it's looking like if you've got eighty-four nineteen involved at all we're seeing it in both </U>
+			<U WHO="S3"> yeah... </U>
+			<U WHO="S2"> crossed a bridge with a troll underneath it and, you thought you'd escaped him, and you didn't... </U>
+			<U WHO="S5"> these probes are um, end labeled with, (alios) right? <OVERLAP> was </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (Judy Kerr) </OVERLAP> (kindly just) labeled all of those </U>
+			<U WHO="S5"> yeah and are the intensities equivalent? basically between um, those two probes, when you probe the same P-C-R reaction? </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S4"> um, my recollection's yes i don't think i have that data here. but my recollection is yes. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S5"> just a thought </U>
+			<U WHO="S4"> yeah... no i don't have that here with me </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S3"> eighty-four nineteen would not become endogenous though, would it? </U>
+			<U WHO="S4"> the endogenous should splice between the I-region and C-H-one. shouldn't splice with C-H-three. </U>
+			<U WHO="S2"> no reason it would pick it up if they put a little bit of it on the (five) prime end of that (polygote,) or, well (three prime end of the ) actually... hybridize it with the I-region </U>
+			<U WHO="S3"> and, i guess the uh the sequence of eighty-three (eighty-four) nineteen is not gonna be in the uh C-H-one. </U>
+			<U WHO="S5"> we went through significant pains <EVENT WHO="S3" DESC="LAUGH"/> to make sure that that was true </U>
+			<U WHO="S4"> yeah, that is true <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> i bet <OVERLAP> you guys did </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i seem to recall </OVERLAP> that </U>
+			<U WHO="S4"> yeah, that was, definitely something we, we're very careful <OVERLAP> about </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, </OVERLAP> okay <PAUSE DUR=":04"/> okay... big pauses <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> how about you guys, anything? </U>
+			<U WHO="S3"> we don't have any. </U>
+			<U WHO="S5"> before you destroyed the cake what did it say i i missed that whole </U>
+			<U WHO="S2"> it said ha- oh i'm sorry. it said happy prospecting Heidi. </U>
+			<U WHO="S5"> ah </U>
+			<U WHO="S2"> you go to g- <OVERLAP> California </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> he's so nice </OVERLAP>
+			</U>
+			<U WHO="S2"> California you'll be you uh, prospect. <U WHO="SS"> (xx) </U>
+				<OVERLAP> just remember when all the gold </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> we'll be prospecting at the wineries </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> so she gonna treat us well when we go over there </U>
+			<U WHO="SS">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3"> see? </U>
+			<U WHO="S5"> she better </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> yeah i'm gonna be living at uh Kirk's parents' house when you guys come </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> where_ they already live there in California? </U>
+			<U WHO="S4"> they live in Saratoga, which is, you know, twenty minutes from Stanford, so, we're gonna just stay with them until we find a place. they have two extra rooms </U>
+			<U WHO="S3"> it's gonna be expensive over there. </U>
+			<U WHO="S4"> yeah, it is </U>
+			<U WHO="S3"> so you have to have a job <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> well, that's the general plan is that <EVENT WHO="S5" DESC="LAUGH"/> i go and get a job... but i- it sounds like the job market is huge out there. I mean Char- look at Charlene Charlene moved out there and she's had, she got a job, within a month of moving out there and then she just applied for a better job and got it instantly and </U>
+			<U WHO="S3"> really? </U>
+			<U WHO="S4"> so there's <OVERLAP> lots. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> maybe </OVERLAP> i should think of moving too </U>
+			<U WHO="S4"> and she said that that the company that she's working at now is hiring and, so </U>
+			<U WHO="S2"> mm </U>
+			<U WHO="S4"> i think it's <OVERLAP> more </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i bet </OVERLAP> they're gonna pay more than they're paying here </U>
+			<U WHO="S2"> ho ho yeah. but you gotta pay living expenses and it's a bit higher. my sister lives out there. <EVENT DESC="LAUGH"/>
+				<OVERLAP> i know what her house is </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah it's pretty (steep) </OVERLAP>
+			</U>
+			<U WHO="S5"> it's a lot higher. </U>
+			<U WHO="S2"> hey why don't you do this, because, we have to decide whether or not we're really gonna how much more we're gonna pursue this, this... </U>
+			<U WHO="S4"> in other words you guys have no suggestions <EVENT DESC="LAUGH"/> i'm just kidding. </U>
+			<U WHO="S2"> we tried a whole bunch </U>
+			<U WHO="S4"> i know </U>
+			<U WHO="S3"> (short of) brain cells <OVERLAP> here you know </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i guess </OVERLAP> we just look at the rest of the lines and, <U WHO="S3"> yup </U> then it's uh <U WHO="S3">
+					<OVERLAP> if </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> next student in the lab's <EVENT DESC="LAUGH"/> headache </U>
+			<U WHO="S2"> oh but you know y- the cont- the controls with endogenous works see, wasn't this really a problem, potential problem in case you had a splice? that you you couldn't distinguish the uh, endogenous from the, transgene <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> at </OVERLAP> first we were worried that, the, twelve, sixty-four thirty-seven ninety-six primer combo with the twelve sixty-three A probe <U WHO="S2"> yeah </U> and that- that thirty-seven ninety-six which sits down in C-H-three, we were worried it was sitting down in C-H-one. <U WHO="S2"> right </U> and so we were worried what we were seeing was endogenous, <U WHO="S3"> right </U> and not transgene. and so eighty-four nineteen was created, s- so that it would be transgene specific and now we've got all these problems. <EVENT WHO="S3" DESC="LAUGH"/>
+				<U WHO="S2"> but but </U> because the transgene looks like it's not, being, expressed correctly now. </U>
+			<U WHO="S2"> but the endogenous you showed us isn't pr- isn't, y- is not pro- it's not positive for that thirty s- </U>
+			<U WHO="S4"> not now, at one point it was </U>
+			<U WHO="S2"> oh okay oh okay so okay </U>
+			<U WHO="S4"> yeah, these last few experiments i've been doing i- that nontransgenics have come up </U>
+			<U WHO="S3"> positive. </U>
+			<U WHO="S4"> negative. previous to that before we made eighty-four nineteen <U WHO="S3">
+					<OVERLAP> oh there was (xx) </OVERLAP>
+				</U>
+				<OVERLAP> the nontransgenics </OVERLAP> were coming up positive. of course, you know, fix one problem and <U WHO="S3">
+					<OVERLAP> sure </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> can get eight more </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"> well one of them is the <U WHO="S4">
+					<OVERLAP> (this is good) </OVERLAP>
+				</U>
+				<OVERLAP> mou- </OVERLAP> one is the mouse. </U>
+			<U WHO="S3"> hm? </U>
+			<U WHO="S2"> one of them is the mouse, you can't do anything about that. one of the transgene and and insertions you can't do anything about that, or the transgene. </U>
+			<U WHO="S4"> but i'm making new uh, for each of these lines today i'm making, setting up new cultures so we'll have, two mice, from each of the lines to look at, <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> mhm </OVERLAP>
+			</U>
+			<PAUSE DUR=":29"/>
+			<U WHO="S3"> gosh this cake is heavy. with (the) many <OVERLAP> roses on the top </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> with the with the </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> it was really good </OVERLAP>
+			</U>
+			<U WHO="S3"> like, ugh </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> you didn't have to eat the rose. you could have just scooped it <OVERLAP> right off </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> ugh it was so good </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> well you gave me </U>
+			<U WHO="S5"> plenty of sugar and fat in it... </U>
+			<U WHO="S2"> oh... yeah i forgot to ask for a fat free cake </U>
+			<U WHO="S5"> uhuh yeah right </U>
+			<U WHO="SU-f"> right </U>
+			<U WHO="S2"> i just wasn't sure you're_ that you were gonna be here next Friday. i had this feeling <U WHO="S4">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> depending how things were going i wasn't gonna take a chance, so </U>
+			<U WHO="S4"> its my my choice would be now </U>
+			<U WHO="S2"> yeah, (that's what i_) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> we're we're t- we get the truck Saturday morning, and are hoping to leave Sunday afternoon. and so, my choice would be that i have pretty much everything wrapped up in here by Wednesday or so so i can be packing, but <U WHO="S2"> yeah </U> you know we'll see <EVENT WHO="S3" DESC="LAUGH"/> how it goes </U>
+			<U WHO="S2">
+				<OVERLAP> i'm thinking that </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you may have to do </OVERLAP> the experiments on Sunday morning who knows </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> ask for John to take over </U>
+			<U WHO="S4"> yeah John'll be thrilled </U>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="S3"> he's already i can see it </U>
+			<U WHO="S5"> that'll start gathering dust quickly </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> yeah not like you don't have enough of problems of your own to <OVERLAP> work out </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah... </OVERLAP> fat free cake by the way is an oxymoron that's <U WHO="S2"> the what? </U> i said fat free cake by the way <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> is an </OVERLAP> oxymoron </U>
+			<U WHO="S4"> and this green frosting is good <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> yeah it's almost as good as the pink though </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> i think if you're gonna eat you have to eat the real stuff, <U WHO="S4"> oh yeah </U> not the fake one you know, either eat <OVERLAP> or don't eat </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> you just run, </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> run </OVERLAP> an extra three miles </U>
+			<U WHO="S3"> yeah, exactly </U>
+			<U WHO="S6"> sort of like saying Denver and Superbowl champions in the same sentence </U>
+			<EVENT WHO="S5" DESC="LAUGH"/>
+			<U WHO="S2"> okay why don't you just do this </U>
+			<U WHO="S1"> okay so the current <U WHO="S5">
+					<OVERLAP> brutal </OVERLAP>
+				</U>
+				<OVERLAP> research in </OVERLAP> our lab <U WHO="S4"> ha ha ha </U> is to looking at <U WHO="SU-f"> shh </U> the relationship between, uh (cis) elements and somatic hypermutations in, uh V-region and adjacent regions. in collaboration with Bill Garrard, of the, University of Texas, in Dallas, we are looking at, okay MAR region, and uh somat- somatic mutations. uh, basically Bill Garrard, made knockout mice, so they knockout a MAR region MAR is the matrix attachment region. it locates between the, immunoglobulin in V-region and C-region in the intron, in the, T-S-C intron. so they knockout this region, so is, four hundred and twenty B-P <PAUSE DUR=":04"/> we got the knockout mice from them, and uh we keep them in our, uh, mice colony. and uh, we, when they are five months or six months old, we use them for research here. so, basically what we did was, uh, to kill mice and we covered the (peyers) patch cells, and then we spin them spin, spin, with the B-two-twenty, and uh, P-N-A, so then we got, a population like this, here here so then we sort, the B-two-twenty positive, and the P-N-A low cells versus... B-two-twenty positive uh, P-N-A high cells. so this population of cells are low cells, in, the germinal centers. so, we are going to study both populations, but for now we just look at this P-N-A high population first. when we got a cells, we lyse them, and uh, and we use, the P-C-R to recover, the, the segment we need, so in the_ in this case we use the primer here, this is the V-kappa degenerate primer, and the one other primer is here (xx) J-kappa-five, so then we got this fragment by P-C-R, then we clone this fragment into plasmid and then, sequence them, so this, is what we've got so far. this sequencing data here. uh, for sequencing, we still use the same primer as that we use for P-C-R. uh, three segment of sequence, data are available here, so, for this segment from which you have five thousand work (in) one one sixty B-P. for the wild type, this mark, wild type mice here, out of eight clones we got, the mutation, two-point-four mutation per one hundred and sixty B-P. compared with the, the knockout here, we've got, one point zero mutation. this is out of six clones we need to do more of this, uh, see the difference is not too, not too man- n- not too much. so our hypothesis is that, this MAR region is important in regulating hy- hypermutations. with the knockout we expect to see, the mutation frequency goes down. possibly down to, near zero, here. </U>
+			<U WHO="S3"> but three H is lower though, i mean all three of them. right? </U>
+			<U WHO="S2"> wh- wh- what, yeah why <OVERLAP> don't you- </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> (xx) </OVERLAP> five to all the way. </U>
+			<U WHO="S1"> yeah. and for this <U WHO="S2">
+					<OVERLAP> (wait a minute) </OVERLAP>
+				</U>
+				<OVERLAP> segment </OVERLAP> for the (downstream,) so this segment is, closer to the MAR region here. you can see the numbering system here, going out, uh, we sequenced here thi- this work for you, one hundred sixty B-P something like that. so we got, uh, point eight A mutations for the wild type. this data is out of eight clones we sequenced so far </U>
+			<U WHO="S2"> why don't you put the number, of clones that had more than say uh, one or two mutations. </U>
+			<U WHO="S1"> okay, </U>
+			<U WHO="S2"> let's say more than two </U>
+			<U WHO="S1"> more than two mutations. so this, if it_ more than </U>
+			<U WHO="S2"> underneath each one of those columns <U WHO="S1"> okay, </U> just put, you know X out of eight, or </U>
+			<U WHO="S1"> yes we got two clones, there's two out of eight. and, here we got one. </U>
+			<U WHO="S2"> one? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S2"> for the_ i thought there were fi- three </U>
+			<U WHO="S1"> there is one. the problem is we got one with five mutations here. </U>
+			<U WHO="S2"> what were the other ones? </U>
+			<U WHO="S1"> this one </U>
+			<U WHO="S2"> two or more, sorry, i'm sorry. </U>
+			<U WHO="S1"> two or more okay now we got two... yeah, this here we got two sequences with three mutation each. </U>
+			<U WHO="S2"> then, do the other (ones too...) we we still haven't done the control yet. with this, ex- uh, (can't think of it,) what is it? </U>
+			<U WHO="S1"> five </U>
+			<U WHO="S2"> it's the N-P-R any mutation may be relevant cuz the P-C-R errors are really are much lower <U WHO="S1"> but </U> and the one down here has like what five? </U>
+			<U WHO="S1"> (here) </U>
+			<U WHO="S2"> and the one <U WHO="S3">
+					<OVERLAP> and the one </OVERLAP>
+				</U>
+				<OVERLAP> below that </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah, this guy has five mutations </U>
+			<U WHO="S3"> in one clone </U>
+			<U WHO="S1"> yea- in one clone. </U>
+			<U WHO="S3"> ooh </U>
+			<U WHO="S2"> but the one, it has not yet been sequenced for, three prima bit, and the two that have mutations </U>
+			<U WHO="S3"> does not have any mutation upstream </U>
+			<U WHO="S2"> it hasn't been sequenced yet we couldn't read the <U WHO="S3">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<OVERLAP> sequences. </OVERLAP> so he's use- he's redoing it using a different primer. <U WHO="S3"> okay </U> so it may all of a sudden that jumps up to three. we end up, with <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> three and three. </OVERLAP> and then it becomes not different <OVERLAP> at all. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> the same yeah yeah </OVERLAP> yeah yeah gotcha </U>
+			<U WHO="S2"> and then so the question is, you know he's, doing this but then how much how far do we really wanna go with this because now you're gonna talk about, since we can't, immunize and get, um... a V-H and a V-L that we know something about. these mice don't respond unless we back-cross them on appropriate... strains of mice, which i'm not sure is worth all that kind of work. so </U>
+			<U WHO="S3"> but i mean still, you know it's_ so the uh, number of clones may be, similar between, more plus plus or minus minus but overall, frequency's gonna be, less </U>
+			<U WHO="S1">
+				<OVERLAP> yeah i think </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP> it might even be a little lower </U>
+			<U WHO="S1"> in the end we may see, there are two or three (xx) okay...? between these two, in the end. so, i'm not sure whether that data is convincing. </U>
+			<U WHO="S2"> we have to treat it statistically and i suspect with (N) eight and fifteen clones that won't be the case, we won't be able to, prove that. </U>
+			<U WHO="S1"> yeah we, we can do more clones of this, we have a lot of this we can do this <OVERLAP> too </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and and </OVERLAP> fifteen is about it for the, the thirty-nine twenty-eight high? </U>
+			<U WHO="S1"> yeah we can possibly do more (negations,) get more clones. </U>
+			<U WHO="S2"> it might be better to do a different mouse though. do two additional mice. or at least uh, another w- uh knockout mouse... then you'd have it, you know, you're really repeating the experiment. </U>
+			<U WHO="S1"> mhm... yeah we, yeah we can (start) another mouse. </U>
+			<U WHO="S2"> but at least at th- at the present time it certainly does not eliminate mutations </U>
+			<U WHO="S4"> so the MAR only has an effect, five prime of it? i mean if that if that is what the hypothesis is is that the MAR is only gonna affect, five prime of where </U>
+			<U WHO="S2"> don't know that. there's a... paper that's been submitted by Milstein that he references in the paper, that he published, that that, indicates he's that he's studied this in transgene mice. which is problematic because, if you move the MAR say five prime, <U WHO="S4"> mhm </U> of this of the construct, and you have a tandem repeat, it's three prime of the one in front of it <U WHO="SS"> uhuh, yeah </U> so, i mean unless you're looking at individual copies or you got some way of doing it that you're not, that's not a particularly doable experiment in that format there's other ways of doing the experiment. and maybe he did it that way so... he's smart, if he did it, he'll he won't, make that one mistake... so that that's not known. <U WHO="SU-f"> uhuh </U> what the pos- relevant (xx) (on) the MAR is. this is really stems from the work that we we actually thought it probably would have an effect, because, um... either on transcription which could, have a dampening effect on mutation frequency distribution accessibility issue <U WHO="S3"> mhm that's a little bit </U> so (that's a little bit.) yeah at the most you can say that... but </U>
+			<U WHO="S4"> you obviously expected a greater difference than what you're seeing here. </U>
+			<U WHO="S2"> yeah Bill Garrard says the MAR is important he's he's studied the MAR for i don't know, fifteen or so years, and he's got, like i said last time we talked about this he's got a MAR that was- gave us a MAR knockout and they had looked extensively, for all kinds of effects on B cell B cell development B ce- the expression of of different genes and found nothing. so... it's_ whatever it is, it's apparently pretty solid. or else he's not asking the right question. so... we have generated, a hybridoma that i'm gonna send him, which has um... a known, V-kappa that he can study, compared to a control animal for uh transcription rates so he'll <U WHO="SU-f">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> do, </OVERLAP> um... uh nuclear run-ons, presumably <PAUSE DUR=":06"/> but i have a hunch it's gonna be one of these great big papers that's got twenty authors on it <EVENT WHO="SS" DESC="LAUGH"/> the mouse is normal <PAUSE DUR=":06"/> okay anybody else? you guys are stopped (decided to) stopped </U>
+			<U WHO="S3"> we got <U WHO="S2">
+					<OVERLAP> working </OVERLAP>
+				</U>
+				<OVERLAP> we uh we're uh we're, </OVERLAP> we had cooked something </U>
+			<U WHO="S2"> you're cooking something. my god, you guys need to, explain (what you got instead of cooking alone ) new <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> okay </U>
+			<U WHO="S2"> okay </U>
+			<U WHO="S3"> thanks for the cake Lathe </U>
+			<U WHO="S2"> yes </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

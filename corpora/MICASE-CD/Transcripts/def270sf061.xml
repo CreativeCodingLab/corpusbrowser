@@ -1,0 +1,913 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="def270sf061">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Artificial Intelligence Dissertation Defense </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> DEF270SF061 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales. (1999) The Michigan Corpus of Academic Spoken English. Ann Arbor, MI: The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES: NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="113">
+						<DATE> June 28, 1999 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Monica Takagi </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Monica Takagi </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Shannon Allen </NAME>
+							<RESP> Final Editing, 05/25/00 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: MIX </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="9"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="7"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SG, Candidate" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S3" LANG="NRN" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="4">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Conference Room, Advanced Technology Lab </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> any questions any of you want to get out right now before it, it's official? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<PAUSE DUR=":12"/>
+			<U WHO="SU-m"> (xx) to that? </U>
+			<U WHO="S1"> yes, we we <U WHO="SU-m">
+					<OVERLAP> does it </OVERLAP> work? </U>
+				<OVERLAP> first put it </OVERLAP> on the table but figured it would hit, the heads of the committee members and so we decided not to do that </U>
+			<U WHO="S2"> that's one strategy </U>
+			<U WHO="S1"> yeah. well yeah, that's true. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> it's called a defense strategy. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> hm i should have brought the plane that runs down. have it, try to take off in that direction. </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="SU-m"> take a bullet </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S1">
+				<EVENT DESC="SOUND EFFECT"/> exactly. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-m"> i'd say the key to a good defense is a good offense. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> mm, that's basically what this is for is humor so i can_ it really serves no research purpose. <PAUSE DUR=":22"/> so if you want more details on what happened to this airplane nobody, i- this is not part of the defense so i'll tell it now <U WHO="SU-m">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so, </OVERLAP> basically last Thursday we w- went out on a test and, this is our trainer plane all of us, um s- grad students and s- so forth who've been working on the project never really knew how to fly, model airplanes before this and so, we had this trainer that for the past two years we've taken it out and flown it just manually occasionally. last Thursday we lost radio c- communications with it and it flew around for a while by itself and, promptly crashed into a tree, and uh, the wing came off in the tree and the, fuselage came down and hit the ground so </U>
+			<U WHO="SU-m"> wow </U>
+			<U WHO="S1"> but we got good <OVERLAP> data on the research airplane </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> the motivation for your work. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> yeah, right... </U>
+			<U WHO="S3"> this is the what? what is this? </U>
+			<U WHO="S1"> oh this is our trainer airplane. last Thursday it uh, had an incident with a tree. </U>
+			<U WHO="S3"> so it's broken? </U>
+			<U WHO="SU-m">
+				<OVERLAP> oh yeah </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> oh yeah, this is broken this is not the research airplane <EVENT WHO="SU-m" DESC="LAUGH"/> yeah this is, structurally this is <OVERLAP> the same as the last one. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> c- can we pass you? </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> you can have part </OVERLAP> spatial constraints as well as temporal constraints. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> yeah. <EVENT DESC="LAUGH"/> he's the he's the last committee member so, he needs to fill out the form i guess </U>
+			<U WHO="R1"> yes there should be an extra stack sitting over there somewhere. </U>
+			<U WHO="S1"> mkay </U>
+			<U WHO="SU-m"> here it is. </U>
+			<U WHO="S2"> yeah i think so, yeah. </U>
+			<U WHO="SU-m"> so if you wanna fill that out um, the tradition is that before we get started, everybody else leaves and the committee meets </U>
+			<U WHO="S1"> oh it's on tape. yes, i'll be talking to you later. </U>
+			<U WHO="R1"> oh </U>
+			<EVENT DESC="BREAK IN RECORDING"/>
+			<U WHO="S1"> kind of in two parts the first part which is the major part of the research is talking about the generation and execution of, real-time plans, and then we talk about an application which i have a particular interest in, namely autonomous flight... so, the overall research problem that i have been studying is, how do you get safe autonomous operation when you really are looking at a real, system, um which re- well for for the main that requires real-time response. um, in particular when your system has, limitations such as computational resource limits which often people don't really pay attention to even though they're always there, and, when you have a complex hard real-time system where you require safety guarantees, um those two things don't always go together naturally because, w- when you have a hard real-time system you really, have to, talk about deadlines and meeting those deadlines, because if you don't meet them then you might compromise safety of your system. so uh, at this point i'll briefly mention the show-and-tell, device that i've brought here. which uh, i'm going to be talking about airplane flight and um, i'm going to claim that airplane flight is inherently dangerous. so, this is an example of an airplane flight gone wrong, which basically um, we lost communication with this airplane last Thursday when we were flying it manually so, our flight was neither safe nor autonomous, and basically what happened was, um it was equivalent to having, a very long delay without doing anything, in which case the plane had plenty of time to fly into a tree, so, if you think at the extreme limit of where you have a resource-limited system, and, you end up in some processing loop or you're doing something and not paying attention to say where your airplane is flying, this kind of thing could happen. so, anyway i won't talk about the airplane anymore don't, let it be too much of a distraction. so the final, um aspect of our problem that complicates is is that whenever you describe a problem that's, fairly complex you don't always get everything right. so, in some cases you have imprecise knowledge in other cases you may have incomplete knowledge. or both put together. so in the worst case, you have to make trade-offs. the three specific uh, types of trade-offs that we focussed on, are first of all if you have a real-time reaction set which would ideally keep you safe all the time, and it doesn't fit on the resources that you have, you have to do something you can't just say oh well we'll assume that it fits. so we study that trade-off. um basically, in order to make that trade-off sometimes you have to relax your safety guarantees from absolute, to some other, um method of guaranteeing the system. um a natural, way to look at it is to, maximize the probability that you're going to succeed. so that's what we look at is to decra- degrade, safety guarantees to probabilistic when necessary, and then, since we degraded those guarantees and since we, allow incomplete knowledge, we have to recognize and react when we, reach unhandled states. basically unhandled states are those that, have been ignored due to incomplete knowledge or, probabilistic guarantees... so, two aspects of our approach first the, an overall view of how we look at plan generation and real-time execution, is that we separate the planning process from the plan-execution process. and in doing so it allows us to use, a lot of the powerful but computationally intensive, planning algorithms, to develop the plans, and then also schedule them, so that, we know they will fit onto our limited resources when they execute. we began this work, by, considering a system that was designed specifically to do that, namely the Cooperative Intelligent Real-time Control Architecture, called CIRCA, which has, a planner and a scheduler and, to develop the plans and then uses, um what it calls a real-time subsystem basically, a special module that has carefully designed um, knowledge of its resources and how, uh worst-case properties of, the various items that might be in the plan to execute those plans. <PAUSE DUR=":06" WHO="S1"/> so given that architecture ideally, you would build perfect plans that would execute in hard real-time for all situations but as i spoke of before, you have to be able to make, trade-offs and our, um approach is to try to be as intelligent about them as possible. so the first thing we did to allow us to make probabilistic guarantees is to incorporate a stochastic planner. so our goal was not, to, get the most accurate probabilities and optimal plan, but rather, it was designed first to select actions and their deadlines that would allow us to preempt all possible catastrophic failure modes of our system. and then it was also used, um to give us these probabilistic guarantees by, basically setting a threshold and ignoring the states that were less likely than that. so, during the planning process we have to converge on a schedulable plan. what does that mean? that means that, you have a planner it says, here is what i wanna do. that may overutilize the execution resources in which case, um, the scheduler says no i can't do that, and, at that point, it, provides feedback for the planner that will help it guide its efforts toward replanning. at that point we have a plan that may not be complete, but it's the best we can do given our resources. so at that point we, um, find that it's necessary to be able to identify and react to other states as they happen. uh basically, um, we look at, classes of important, unhandled states, and respond to those by adding additional plans so that we end up having r- a, reactive system that has multiple plans, each of which react in real-time, to, um, the r- dangerous situations as they arise. <PAUSE DUR=":07"/> during this talk i'm gonna first, um describe at a very high level the, CIRCA-two architecture which is the extension of the CIRCA as it was originally developed, then i'm going to talk about the uh, stochastic planning and temporal model that we currently use um, in CIRCA-two, um, the procedures that we use to detect and react to unhandled states, and then, um how we, get our planner and scheduler to negotiate efficiently with each other tow- to trade-off um, um, basically task, to to select tasks to trade-off when, everything can't be scheduled. and then i'll talk about, automated flight, using the CIRCA-two architecture... and of course the, concl- conclusions and future work. so before i get started just so everyone knows what i mean when i say hard real-time system. a lot of times in the planning and plan-execution committee they'll think of real-time as meaning, best-effort or soft real-time. in that kind of system, you only get the maximum reward if you, meet some sort of deadline but, if you pass that deadline it's still okay to, to keep going and do those tasks. so this curve represents, um the do- dashed line represents a soft real-time task where, if you don't finish it in time the reward degrades but, it's_ your system is still okay. we're talking specifically about a system where if you don't meet the deadline, you will catastrophically fail. so, we require absolutely, to meet that deadline and say our system is not safe if it does not. so the two methods that are typically used to do this, um, one is to use, um real-time scheduling algorithms, which it, specifically put tasks on a timeline to prove that deadlines will be met. the other method is to demonstrate your system is fast enough. a lot of people use this approach, and it has been shown to be successful in a lot of applications however, it is very difficult to prove, that, all of your testing is comprehensive so you can guarantee deadlines will be met. <PAUSE DUR=":06"/> for our system, we have a specific definition of what we mean when we say plan. we mean real-time control plan. there are two parts to this plan. the first part is what we call task action pairs which specify, the set of tasks or actions that we want to do, um as part of the plan, and the tasks which basically describe, which states, you will be in when you actually do those actions. um, th- the set of, of TAPs as i will call them, is divided into a guaranteed set and a best-effort set. the guaranteed set, um is the set that's_ are, the hard real-time, um tasks and they have to be scheduled, so that they will meet their guarantees so they come with a deadline that you have to schedule them with. the best-effort tasks basically execute whenever there's time so they're the soft real-time tasks. </U>
+			<U WHO="S4"> do the um, tests overlap between different, um TAPs? </U>
+			<U WHO="S1"> uh no, the planner is set up so you can only choose one action for each state. </U>
+			<U WHO="S4"> so wait assume these tests are things like sensing. <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah so </OVERLAP> so basically if you start with a description of a plan as, a list of states, that go with an action, then we basically pass that list of states into the I-D-three decision-making algorithm and it comes up with, tests that uniquely describe that set of states, versus all of the other states that you don't do that action in... </U>
+			<U WHO="S4"> okay so y- so any kind of overlap is handled by that process <OVERLAP> not by, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U> not, when it's, not at scheduling time. </U>
+			<U WHO="S1"> right no. that, this is, so basically part one is done by the planner. and the planner also comes up with the deadlines. and then part two, the development of this TAP schedule on a timeline for, the guaranteed TAPs is done by, the scheduler. and it doesn't know anything about tests versus actions it just knows, the worst-case execution times, W-C-E-T there for each TAP which is what it assumes when it builds the schedule, but then as you see there there is this average-case execution time so, any time one of the TAPs takes less than its worst-case execution time, you can reclaim that time for all of the best-effort TAPs, plus any time that remains, once everything is scheduled. </U>
+			<U WHO="S2"> so is this a a partition of the sensors basically? </U>
+			<U WHO="S1"> no it doesn't pa- no you might use the sensors, um, in any of these tests so, say you had a feature, altitude for example, you might use it, in every test that you have. </U>
+			<U WHO="S2"> let me take all the sensors and put them together, let's call that the sensorium okay? </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S2"> is, are, do these does the un- do the union of all these tests, if you if you look at the on of all of them <U WHO="S1"> mhm </U> is that, does that recover the entire sensorium or are there parts of the sensorium which are not? </U>
+			<U WHO="S1"> if your plan does not require, knowledge of a certain sensor value then, you'll never care about it in this plan. is that what you're asking? </U>
+			<U WHO="S2"> i'm asking i guess, you've rejected, you've referred to this paper in the, in your thesis that <U WHO="S1"> uhuh </U> talks about how stupid universal plans are. <U WHO="S1"> oh yes </U> is this, if if you didn't have this scheduler if you just had this planner <U WHO="S1">
+					<OVERLAP> uh'uh </OVERLAP>
+				</U> in, is this, has this planner come up with a universal <OVERLAP> plan (for this state?) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no it has </OVERLAP> not because it only considers states starting with, you you have knowledge of your initial state. and it looks at all the state transitions and comes up with the set of actions specifically for those which it considers reachable from its initial state. so, um, if you never, think that a state is reachable then it won't put that into, into this list. </U>
+			<U WHO="S2"> i was confused i thought you didn't deal with states i thought you dealt in se- in outputs and in perception in per- and in perceptions and then you imputed, families of states to those perceptions <OVERLAP> that's right? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right. </OVERLAP> right. so it's possible that you will accidentally do one of these tests for a state that you considered unreachable, because, what you end up with when you plan is a list of states that you consider reachable, that map to, each of those fa- states map to one or zero of these actions. at that point that list of states is fed into I-D-three, so that it comes up with these tests. so you know that for all of your reachable states, only one of these actions will be done. or zero of them. but if, your system, reaches some state that you don't have one of these tests for, then, it might do one of these, actions by accident. the presumption here is that, as i'll talk about later, we worry about the unhandled states basically those that, you haven't considered reachable that reach failure, very quickly. but, the others, we don't really worry about in (delta) plan. </U>
+			<U WHO="S2"> are we, are we equating states and sensor outputs so that, there's <OVERLAP> nothing wrong </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no no, </OVERLAP> not at all. <U WHO="S2"> not at all </U> no a state is, the typical, A-I planning sort of, um set of features and values that uniquely describe the world. </U>
+			<U WHO="S4"> so, the plan execution idea you don't have, there's no_ states aren't there. <OVERLAP> you just have to </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no the plan ex- </OVERLAP> execution system doesn't know anything about states. </U>
+			<U WHO="S4"> okay. but, su- suppose TAP-one involves checking the altitude and TAP-two involves checking the altitude, <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and that </OVERLAP> takes, you know a few milliseconds or something, <U WHO="S1"> yeah, mhm </U> does the schedul- can the scheduler in some way exploit the fact that uh, <U WHO="S1">
+					<OVERLAP> well, not, not </OVERLAP>
+				</U>
+				<OVERLAP> you could, you could, get (surrounded) </OVERLAP> by doing them both, or? </U>
+			<U WHO="S1"> not as part of the architecture but, for the architecture we have, for our U-A-V, um, we separate the low-level-controlled state estimation processes from the stuff that CIRCA does, so that it actually_ the feature tests are virtually instantaneous because, the state estimator already goes out and reads all of the features and stores them in memory, at a- which time any of these tasks have access to that memory. so for that specific case, feature tests mean reading something from memory. this is not generally the case because in previous versions of CIRCA there have been, robots that really haven't had any underlying, control mechanisms where feature tests meant actively going out and looking at something in the world. so, as far as the architecture is concerned all it knows is there're some functions do feature tests. and </U>
+			<U WHO="S4"> they don't take time? i mean </U>
+			<U WHO="S1"> hm? </U>
+			<U WHO="S4"> they don't take any time? (to do the) </U>
+			<U WHO="S1"> no, well, in the U-A-V they take a very small amount of time but we still have to account for the amount of time it takes to read something from memory. um for, the, general case they could take time and, the the times that we use to schedule these TAPs, include the worst-case execution times for both the feature tests and the actions... </U>
+			<U WHO="S3"> does this uh the attack classification, stay, static or change, depending on, where your control system is in? </U>
+			<U WHO="S1"> for any particular plan it stays static. </U>
+			<U WHO="S3"> why should it be though, if you're talking about aircraft landing problem or, <OVERLAP> aircraft control problem? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well, </OVERLAP> the way we've designed, uh w- the aircraft control problem versus landing, what's <OVERLAP> the difference? </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well like the good </OVERLAP> example the uh, the altitude the sensing, <U WHO="S1"> yes </U> uh when the airplane is uh thirty-five thousand feet above above the ground <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> is </OVERLAP> not as critical as, <OVERLAP> when </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well </OVERLAP> we assume for for th- okay so, i'm hoping not to cause confusion here we have, for our unmanned aerial vehicle, specifically, designed the low-level controller tasks and state estimations and so forth so that's a unique situation for CIRCA. if you talk about that particular situation, we assume that the state estimator, is sampling the world fa- th- fast enough to maintain an accurate, state estimate. so it can, figure out if it needs to sample the world frequently, on landing versus not very frequently, at high altitude and CIRCA does not concern itself with that. in general, CIRCA, would, assume that, for any particular plan, a TAP, the TAP schedule is constant. however it can split up the space into different subgoals. meaning that you can have one plan for high-altitude flight, and one plan for landing, <U WHO="S3"> mhm </U> in which case, if it worried about, um how quickly you need to actually sense the feature to avoid failure, that would have to be, um integrated somehow into the transition model in terms of how quickly you could fail. </U>
+			<U WHO="S3"> but it seems to me, the uh, altitude-sensing and elevator-control TAP, <U WHO="S1"> mhm </U> uh, could be, classified as, a best-effort TAP, or, the guaranteed or time-critical TAP, depending on which phase of your flight it's in. </U>
+			<U WHO="S1"> well i would have a tough time seeing that elevator-control could be best-effort but, um, so pretend that you don't care about altitude when you're at high altitude although actually i would care about that too because otherwise you could end up in this dive or, severe climb, so i would s- i would argue and say that they we- they were all supposed to be guaranteed. </U>
+			<U WHO="S3"> for example you can miss deadlines for several periods <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> when </OVERLAP> you're in hi- high altitude whereas, <OVERLAP> in the </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP> i mean with our particular airplane, that's not the case to the extent that we could make our airplane unstable because, once we enter a spin our controller, is not necessarily gonna be able to recover from that because we don't have a, full-state space controller that can recover from everything. so. </U>
+			<U WHO="S3"> okay. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S1"> so anyway the CIRCA-two is what we use to generate those control plans and then to execute them. the, it's divided into two parts the planning subsystem and the plan-execution subsystem. the planning subsystem is in blue because, it's executed in soft or best-effort mode, meaning that, it takes as long as it needs to to come up with an accurate plan, that's scheduled, and the plan-execution subsystem is, the the part that, we require hard real-time response for. i'm first gonna go into the, planning subsystem algorithm, very briefly, so, when we start up the system, it first, reads in the user knowledge base which contains the state transitions the initial states goal states and so forth, and at that point, um we have a very simple algorithm right now that just, goes down through a list of subgoals and plans for them in order. so we select the first subgoal. at that point we run the planner, which basically starts with the initial state and um, develops the, the set of TAPs that it needs, um to avoid failure and achieve the goal, and it develops the deadlines for the guaranteed TAPs, which are then turned into a schedule by the scheduler. if the scheduler succeeds that plan is downloaded and everything's happy and we're all done. otherwise if the scheduler is unable to schedule all the TAPs onto the timeline that it has, it generates feedback for the planner, which then has to, make trade-offs to, alter the plan so that it can be scheduled. <PAUSE DUR=":05" WHO="S1"/> so that's what happens in the planner. um, i don't have a separate slide for the plan-execution subsystem because it's basically, a dispatcher which processes messages between, the planning subsystem and the real-time plan executor, and it also accesses the plan database, um which contains all of the plans that it needs to retrieve in real-time for failure avoidance. i'll talk a little more about that later... so this is a simple example of something that might be generated by the CIRCA, planner. um, the oval talks i- is the, what i'll use to represent the initial state. so, this has three features, um, a navigation setting, a location in space and, um, an altitude. and these are heavily discretized just for the example purposes so, don't look at this and think that somehow the airplane's gonna fly itself with just these states. so, if you start out in the state S-zero, um we have what we call temporal transitions which are things that, can occur over time and actions which are represented by the dashed lines which um the, the planning, uh uh CIRCA has control over. so in state S-zero in in fact from any of these states, we have a temporal transition to, somehow you can lose altitude. this would correspond to, hitting severe wind shear or, something like that. and if that happens then you end up with low altitude which if you do nothing you're going to crash. um, the, there is one action we have to, avoid that which is to climb and that action has to be guaranteed in all of the states where the crash could occur from. so you also see that this, represents a cyclic state space um, and uh, also you see that there are temporal transitions that occur in a sequence of states which we we'll call dependent temporal transitions. so basically the, if everything goes well, you will, tr- traverse the top five states which is to, um set the next fix and then to wait while you fly to that fix and so forth until you get to your goal. <PAUSE DUR=":08"/> so, why do we want to have some sort of probabilistic planning in CIRCA we, first of all, um, we want to pri- prioritize states by, some measure and the likelihood of them occurring is the measure that we currently use. this enables us to use best-first search which currently, maybe it's not absolutely necessary but in the future, one of the things we're going to be looking at is actually placing bounds on planning time, um, wh- at which case best-first search will become more important. the others <OVERLAP> we </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> search </OVERLAP> for what? </U>
+			<U WHO="S1"> hm? </U>
+			<U WHO="S4"> search for what? </U>
+			<U WHO="S1"> best-first search. </U>
+			<U WHO="S4"> what are you searching for? </U>
+			<U WHO="S1"> we're searching for all of the ways to avoid failure primarily, um in all of the states that are reachable from the initial state and then also, um at least one way to get to our goal state. <PAUSE DUR=":05"/>
+				<OVERLAP> so, yes </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but but </OVERLAP> all the things that you're prioritizing are things, are are the, the ways things could go wrong, right so, <OVERLAP> best-fir- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well, </OVERLAP> prioritizing here is strictly by state probability. <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> right </OVERLAP> but you don't, this this search is not, concluded when you've, found a path right because you you need to find, want to find all of the </U>
+			<U WHO="S1"> all of the paths to? </U>
+			<U WHO="S4"> to failure. </U>
+			<U WHO="S1"> well, that's what we're, when we relax our probab- guarantees from absolute to probabilistic what we say is that, we can truncate the search, and everything after we truncate the search, has some nonzero probability but, we didn't have time to think about them. </U>
+			<U WHO="S4"> okay so it's best-first search but instead of stopping, y- y- you're y- you're, proceeding until you hit some, <OVERLAP> some limit </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, some </OVERLAP> some numerical, limit for, searching. <U WHO="S4"> th- </U> well although, i mean so right now we don't, have real-time planning so, i can't just say we're gonna plan till the time expires and then truncate that search because that can leave states with a ninety percent probability. so we have to think more carefully about how to do that and not have some ridiculously low probabilistic guarantee. that's the the hard trade-off that we haven't done yet. </U>
+			<U WHO="S4"> see that's not why i'm, i'm not sure i'm not sure, there's a probability, of_ involved with how, uh much of a plan you've been able to find, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> the probabilities of the thing actually succeeding, when you execute it, and these are two, completely different things aren't they? so which which one are you, um? </U>
+			<U WHO="S1"> are you talking for the for the real-time plan or are you talking about <OVERLAP> strictly for </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> which one </OVERLAP> are you prioritizing? </U>
+			<U WHO="S1"> well, so we're prioritizing the probability of ever visiting a state. so that we end up, cons- expanding first the states that we expect to visit with the highest <OVERLAP> probability. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> okay this is </OVERLAP> this is as for priority for whether to put it in the plan, or priority whether, to be thinking about it in plan- <OVERLAP> during planning time. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well, whether </OVERLAP> to be expanding it during planning, you don't put a state in a plan you put an action in a plan. <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> so if </OVERLAP> you don't expand a state, then you don't have any action for that state. and you don't have to schedule an action for that state. so the idea is that by, setting a threshold and removing, uh basically we call it removing the states that are lower than that priority, or probability but effectively what's happening is that, we are just not expanding those states therefore we don't have any actions for them that are put into the plan. </U>
+			<U WHO="S3"> so sure to be plan time </U>
+			<U WHO="S1">
+				<OVERLAP> well, so </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> would you, </OVERLAP> would you would you come up with a different plan if you, ordered them in some other way tha- assuming you still ignored ones that fell below some threshold. </U>
+			<U WHO="S1"> no i, yeah. that's, right now you would not come up with a different plan, because, the motivation for best-first search, right now, is, not really, as as strong as it will be when we try to restrict planning time. so right now if you, had the search ordered totally differently, and as you got to states that were unlikely just threw them out instead of searching, uh i- instead of expanding them you'd come up with the same plan. so the motivation for best-first search is really for in the future, to, be able to think about having real-time planning bounds. </U>
+			<U WHO="S3"> uh actually Mark has a valid point though. what what you're doing is attaching probabilities to states, <U WHO="S1"> yes </U> and therefore you can prune state-space, with uh, thresholding these probabilities properly, <U WHO="S1"> mhm </U> uh but you know it doesn't, give, the uh, probability of uh finding right plan, </U>
+			<U WHO="S1"> well, we haven't even really def- defined what the right plan is. </U>
+			<U WHO="S4"> so, i uh just to_ so, the reason you have to prioritize at all, <U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> is somehow </OVERLAP> you can't do everything is the reason you can't do everything because you don't have time to plan for everything? </U>
+			<U WHO="S1">
+				<OVERLAP> no it's because y- you can't </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> or because you wouldn't have time </OVERLAP> to execute the plan <OVERLAP> (accurately) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> cuz you wouldn't have time </OVERLAP> to guarantee execution of the plan with the deadlines that you have. </U>
+			<U WHO="S4"> okay so, is, probability prioritization necessarily the right thing? uh, for that, <OVERLAP> purpose? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> if you </OVERLAP> want to say that you're, ignoring unli- so you have to have some prioritization and, we haven't, any, in any way proven that probability's the best measure, for deciding what to ignore and what not to ignore. but, we consider it to be, at least advantageous if, you're going to ignore things to ignore unlikely things. </U>
+			<U WHO="S4">
+				<OVERLAP> (so often) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so, so </OVERLAP> sketch a scenario ca- could you sketch a scenario where, this would be a very wr- a very wrong headed way to </U>
+			<U WHO="S1"> the, where this would be a wrong kind of way? </U>
+			<U WHO="S2"> yeah, yeah </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S1"> well, i mean one one of the things that i claim CIRCA is not useful for, is in a domain where achieving goals is just as useful as avoiding failure. so, <OVERLAP> s- that's </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> wh- what, </OVERLAP> what i, let me, let me offer something <U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U> i'll be, tell me tell me whether this is, uh uh i, y- one can imagine a situation where the, um, there are some events that are, somewhat less probable <U WHO="S1"> mhm </U> than other events. but the computational cost to extricate oneself from those events is so much less, that it might have been wiser to put your, the the ensemble of those, <U WHO="S1"> right. <OVERLAP> right, so so </OVERLAP>
+				</U>
+				<OVERLAP> tasks might </OVERLAP> be a wiser thing to to you know, you don't <U WHO="S1"> mhm </U> always want to search where the light is but sometimes it does make sense to search for your keys where the light is. <OVERLAP> so does that, is that? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right. right so a little, yeah. </OVERLAP> well so a little bit later i'm going to talk about two different mechanisms we have that the scheduler directs the planner to, backtrack. the one that i have have mostly talked about here which is the one that has been fully implemented and tested in CIRCA, is by generating this threshold for removing low-probability states. the second one that we've thought about at least from the higher level, how it works how the scheduler and planner talk to each other, is to identify a bottleneck task y- that doesn't, um that uses a lot of resources but it may not necessarily. it considers the probability but it doesn't focus only on that. so i think that kind of gets at what you're talking about, which is that maybe there's some task that's expensive and you wanna consider removing that instead of the threshold. </U>
+			<U WHO="S2"> so did you, pa- try to work up, a representation of the p- i mean, seems to me that there's a fun- there's a more fundamental problem, <U WHO="S1"> mhm </U> that, i don't hear you articulating, that we're, that, i don't, i'm not sure i know how to articulate it, <U WHO="S1"> right </U> but, i i don't believe that, i'm not sure that you've really, done your job in looking at the various ways that you could make the decision without having proof. and i think that, if not, pro- possibly not this month but <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> maybe </OVERLAP> in the next couple months as you settle into your new, <U WHO="S1"> right. </U> situation you might, you might really make it, a more fundamental contribution by, trying to work out, what the pruning dimensions are. how how do, what are some of the, what, almost formally, what are some of the dimensions along which you could prove this. <OVERLAP> you know, large expan- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well, so there's two </OVERLAP> basic dimensions, one is relaxing the deadlines for tasks and the other is removing them altogether or replacing them with a task that requires fewer resources. so the difficulty is, uh mapping that back to, a planner which thinks about states and actions to select for those states. whereas in the planner, basically the only control you have is over directing the backtracking and selecting different actions. um, we have, i- in, the dissertation i talked about two probability thresholds one is, uh, threshold where locally, you consider a transition to be preempted. which i called P-thresh or something like that. if that threshold was not, wa- you had to not exceed that threshold. so that speaks in terms of what deadline you're going to compute for an action. we haven't really come up with a principal way to vary that dynamically, so we set that originally and in fact in these tests we set it to zero, um because we have our simple, transition models for probability, but uh, in future work we hope to address changing that as well as this threshold for removing unlikely states. so that al- addresses the problem at least considering deadline, changing the deadlines in addition to, um, just ignoring states altogether... but okay so, let me move on then, since, i'm sure i'm gonna, at least approach two o'clock in finishing. okay so, i haven't said anything about uh, wait. i didn't even finish this slide let me finish this slide first, sorry. so, we have motivation. um, i think, so the requirements that we have for our planning um, model are to select actions compute their deadlines to preempt temporal transitions to failure, this threshold that i was talking about is kind of a, a line that you draw that says if the temporal transition to failure is, um, i- i- less, has less net probability of occurring then, um it's not go- you can consider it in planner, planning to be preempted, and then to account for dependent temporal transitions, which effectively state history effects how long has a transition been active, um. so, uh desired properties we want for our model is to, minimize knowledge-base size because a lot of the models, the knowledge-base models that um one has, are, uh very impossible to really think about that some expert in that domain would be able to sit down and make it. so we want to at least start to think about making it easy for them to create a knowledge base. and then also we want to uh, think about maximizing planner efficiency which we really have not come close to yet, but we wanna at least think about how to do that so when we talk about real-time planning in the future we'll at least have a start. so given that we started with CIRCA, why not just use its model. well it uses a nondeterministic model which, was very nice in terms of minimizing knowledge-base size, and uh, also in how it represented the state-space, um, with cycles and so forth, to guarantee failure avoidance. it assumed worst-case transition properties, where it had a minimum delay where, transitions to failure you had to finish any action before that and that was totally inflexible, and it had a maximum delay for, reliable temporal transitions. um, you really couldn't do any state prioritization, because, you had no, notion of what was more likely than another state or really, and you had no flexibility of those deadlines in those delays either, and for the state representation it was either reachable or it wasn't reachable. since we're focussing for a tr- in trade-offs in this work, um we thought, okay well, if we had a stochastic planner we could think about things like, relative likelihood of states, and um how they change deadlines and so forth. so in our stochastic planner that we've come up with, um we, first assign, knowledge-base temporal transitions, um what i'm calling temporally dependent unconditional probability rate functions. basically what those are are histograms, of, for discrete time steps how likely something is to occur. so here's two examples of these rate functions. in one case there's a temporal tran- uh transition to failure which, is preemptible because there's some delay before it's possible. um i'll call this hit, hit collision-course traffic, after it's detected on radar so at time zero you detect traffic on radar, at that point it's at the edge of your radar so you have some time to, get out of its way, and based on where it started you have some maximum, probability of it actually hitting you which, eventually it'll pass if it doesn't hit you. another example of a temporal transition is a reliable transition which, all else being equal if you, have a c- a course set, and you're flying towards that, particular location you'll eventually get there. </U>
+			<U WHO="S4"> what does the unconditional, mean, in the, <OVERLAP> in the (plan) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so the unconditional </OVERLAP> means that, if you have... two temporal transitions that could happen at the same time like s- in state S-one there, you have both fly to fix two and lose altitude that could happen at the same time that function that i showed you for flying to fix two, basically said, you're gonna get there. there's no question about it so it doesn't consider the fact that you might lose altitude. at, from that same state. so, we try to combine those effects to, give an overall, um, uh representation of, well if you go to state S-three then, obviously you're not gonna go to state S-four because, um, so we try to combine the unconditional, functions into conditional <OVERLAP> representations </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so you could actually, </OVERLAP> call it conditional on no other transition. </U>
+			<U WHO="S1"> right. <EVENT WHO="SS" DESC="LAUGH"/> yes, you could do that. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> okay as a r- is it also conditional on, uh, no action? </U>
+			<U WHO="S1"> uh, yes so if you put an action in then that also alters it its probability. in fact we rely on that because, like this crash, um transition will have some, function that shows that it's going to happen if you don't do anything. but beyon- you have to change that by having an action in, that says well actually, i'm gonna get out of that state, S-two and before a crash will happen so that effectively, causes the crash's conditional probability to be zero, at all time. so that's what we're trying to do with those. <PAUSE DUR=":07"/> and speaking of, how the action is specified, um we have, a very specific way that we think of a guaranteed action. now, if you remember from the plan, it was not an ordered set of actions so, um, one could show up, in a certain state at any place in that cyclic schedule and you can't predict in advance where that will be. so, worst case, you'll go all the way around the schedule and just barely meet your deadline. um that's represented by this max-delta which is the deadline. so, we represent the probability of, the guaranteed action occurring at the given time step by, this function which basically gives us, an equal probability of occurring between the current time step and when the deadline's going to happen. we don't really have a good representation for a best-effort action because, we don't really know, um, we haven't yet incorporated average-case execution time and haven't iterated between planning and scheduling to, try to guess at what the best, um function for that is. </U>
+			<U WHO="S4"> okay so this is confusing so, what does it mean to have a probability of, the action, i mean after all, you're contr- the action is what you're controlling. <OVERLAP> so what does it mean to take the? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right. well you're controlling the action </OVERLAP> but you can't control where you are in this s- cyclic schedule when you do, so yeah, (where's my plan.) so, say you need to do TAP-three. if you first reach the state, at time four, on the schedule then, you will do, this TAP immediately so it will be_ happen within the first time p- interval. however if you are at time unit five when you first enter, um the state where TAP-three needs to be done, then, you won't notice that you're in that state until you go all the way around the schedule. so that's kind of the, the <OVERLAP> unpredictability of the </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so this is, so the p- </OVERLAP> so in a way you're modelling the planner's, unpredictability about what the scheduler's gonna do, <OVERLAP> or about how the, how- uh, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> w- about how the plan is </OVERLAP> going to be, <U WHO="S4">
+					<OVERLAP> about when the, when </OVERLAP>
+				</U>
+				<OVERLAP> uh where you're going to be in the plan when you execute. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well </OVERLAP> it's the trajectory, you don't know the exact trajectory right, different trajectories are going to incur different, actions and consequence of what you have essentially a closed loop <OVERLAP> o- one second </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but essen- </OVERLAP> but essentially what the planner's controlling is just, does this thing get into the schedule. <OVERLAP> but given that </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well the planner controls </OVERLAP> whether it's in the schedule. <OVERLAP> and how </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> right but </OVERLAP> it doesn't control, <U WHO="S1"> yeah </U> anything else, about when it happens. </U>
+			<U WHO="S1"> right. <OVERLAP> because the plan-execution is gonna </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so it so in deciding </OVERLAP> whether it's gonna get approved in the schedule it's figuring out, um, you know and with and with what parameters to put it in the schedule it's it's having to make some, prediction under uncertainty about, how responsive that thing will be, in some <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> executing </OVERLAP> schedule. </U>
+			<U WHO="S1"> right. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> so the actual choice the planner's making is, should i put this on the, schedule mkay. </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S5"> should i put it in, and, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> how </OVERLAP> frequently should i <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> ask it </OVERLAP> to be scheduled, so that i <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> can </OVERLAP> guarantee that, between_ if if it just was tested and it was false and then we just entered the state, how much time could elapse before we do the tests again and take the action. </U>
+			<U WHO="S4"> okay. so why... </U>
+			<U WHO="S2"> in a situation where tests are free, <U WHO="S1"> mhm </U>
+				<U WHO="S3"> i- </U> would you even, would you do this at all. </U>
+			<U WHO="S1"> would you, instead of searching through all the states? </U>
+			<U WHO="S2"> yeah. </U>
+			<U WHO="S1"> well, the tests are almost free. but even searching through memory if you think of the exponential, worst-case set of states that you're gonna end up with they're not free anymore. so when i said they were free i meant they were free relative to going out into the world and looking at each sensor value each time you look at a feature value. so we're not willing to go back to the representation where you have, just the complete list of states because even in our simple little problems we have, uh potent- we have hundreds of states that we would have to look at. certainly in more, complicated problems we would have thousands or, more states. so </U>
+			<U WHO="S2"> but tho- a thou- a thousand, thousands of </U>
+			<U WHO="S1"> well s- it could be, i i hesitate to put a number on it because i mean this is an example that a grad student sitting, in front of a computer trying to do too many things comes up with for a model <OVERLAP> that, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well no </OVERLAP> , you actually had a motivating implication <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> i'm asking </OVERLAP> a question about that motivating <OVERLAP> implication. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but we </OVERLAP> have not finished that model yet, and it's hard to say how many, well, when we, fly our airplane and it flies autonomously, we're gonna be looking at two emergencies, engine failure and airframe icing. and i'm, nowhere close to saying that's all you need to consider. so for each new problem that you add into your system i'm, i really don't have a good handle on how much, state-space complexity that's gonna add. <PAUSE DUR=":06"/> so, um <PAUSE DUR=":07"/> so anyway those were the state transitions that we assigned which we call probability, rate functions. um, initial states, we could have more than one, all the examples that i present have one, but you could have more than one in which case, we assume they all have equal likelihood cuz we have no representation of, how you got to those initial states. um, as i said before we do best-first-state expansion which right now is not, absolutely critical but in the future it might become critical as we, move to real-time planning. um and we, update all of the reachable state probabilities during each state expansion step. i'm sure the, members of the committee have, seen most of the set of equations in the thesis so i i feel like it would take me an hour just to go through those so instead i'm going to summarize and give an example, of how we compute the probability. so for each state that we expand, we first, estimate the conditional cumulative probabilities for the outgoing transitions, temporal and, the selected action for that state. we estimate the conditional probabilities from those unconditional, um, uh transition probabilities that we start with, and then we calculate the cumative, pro- cumulative probabilities by summing those, from time zero s- time step T-zero to when they, meet the convergece, convergence criteria, basically when, they're not gonna change very much, in the future. um the, we compute the action maximum delay which you can think of as the deadline for that real-time schedule, to preempt any, temporal transitions to failure. um and, then we look at temp- dependent temporal transition effects also. <OVERLAP> second state after re, yes.- </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> okay so okay so, </OVERLAP> sorry. what i don't understand is what exactly your, is this probability you're computing. this is, from a given state, <U WHO="S1"> yes </U> uh, given that you don't do any actions? <OVERLAP> what's </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no given, </OVERLAP> given that you, if, okay so first you decide if you need an action. that's a separate algorithm before you ever, talk about probabilities. if there's temporal transition to failure from the state, then you have to select some action or else you have to show that there's a reliable temporal transition. um otherwise, um, so so, before you ever calculate the probabilities you either have one action or no actions. <U WHO="S4"> okay </U> um at that point you have, probability rate functions for all the temporal transitions as well as, any action that you've chosen. and that would be_ so let let me go into the example and <OVERLAP> then i'll_ okay, no. okay, no. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh no no no no no </OVERLAP>
+				<EVENT DESC="LAUGH"/> no i really want to understand, you know, i i think i've, been getting part of it i want to get all <OVERLAP> of it. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> alright. okay. </OVERLAP>
+				</U> so, uh you're gonna choo- given a state you've got a black box that gives you the action for that state, <U WHO="S1"> yeah </U> based on, just the local information at that <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> state temporal transitions to failure or whatever okay? </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm, mhm. </OVERLAP>
+				</U> so you can assume that, if you're executing the plan, you're gonna do that action. and you know there may be some uncertainty about, time. <U WHO="S1"> yeah. </U> of course there may also be some uncertainty about, <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> also </OVERLAP> making transition out of that state before you <OVERLAP> get to that </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes that, </OVERLAP> we don't talk about that in this particular work it was, briefly referenced in, uh the original CIRCA but, the challenges_ so so in this particular work when you get feature tests for free, uh most likely i- if you start doing the feature tests you will end up doing the action and everything will be fine. however if you never, if it's a best-effort action in particular, yes you might transition out of that state without doing that action first, which is represented by the probability rate function, in terms of, you don't know exactly what time step you're gonna do a particular action so if you don't do it then one of the other transitions will occur. </U>
+			<U WHO="S4"> okay that's in this, <OVERLAP> model too so, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's, yes that's in </OVERLAP> this model </U>
+			<U WHO="S4"> so in this model you've basically got the, probability distribution, over the possible next states, uh and their ti- and the time of the transition, <U WHO="S1"> yes </U> given that you, will have sche- you will have planned to do this particular action, <U WHO="S1"> yes </U> and, that has some probability of happening, <U WHO="S1"> right </U> various times. um, okay. </U>
+			<U WHO="S1"> okay and the probability that we're computing is very dependent on, for the guaranteed actions what we set that deadline to because that affects, where that, max-delta on that rate curve is going to end up being, so. </U>
+			<U WHO="S2"> the- um, if i i didn't understand but i i when i pretended that i understood <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> what i </OVERLAP> said to myself was this noisy-or, <U WHO="S1"> yes </U> was a way of sh- short-circuiting if if you were gonna do a Markov chain, <U WHO="S1"> right. </U> then you've got a, transition matrix, <U WHO="S1"> yes </U> and in some sense what this noisy-or is doing is it's picking up, some of the numbers in the particular row of that Markov, <OVERLAP> transition matrix. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well it may not </OVERLAP> actually pick up any of them. </U>
+			<U WHO="S2"> it may not pick up any of them, i understand <U WHO="S1">
+					<OVERLAP> yes, but it could pick up </OVERLAP>
+				</U>
+				<OVERLAP> i understand but it's it's picking them </OVERLAP> off, it's <U WHO="S1">
+					<OVERLAP> it it would </OVERLAP>
+				</U>
+				<OVERLAP> it's pruning off, </OVERLAP>
+				<U WHO="S1"> yeah. </U> for the particular s- for the particular uh, <U WHO="S1"> right. </U> uh expansion it's pruning off some of the, <U WHO="S1"> mhm </U> columns for that row <U WHO="S1"> right </U> some of the entries in the column of that row, <U WHO="S1"> mhm </U> maybe all of them. <U WHO="S1"> yes. </U> is that roughly what what's going on? </U>
+			<U WHO="S1"> yes, <OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so it's </OVERLAP> it's a heuristic way of collapsing at the, </U>
+			<U WHO="S1"> yes and n- so it's a it's a heuristic way of, approximating both the state history effects <U WHO="S2"> uhuh </U> and, looking at the deadlines dif- for the different actions, and um, combining that so that you, don't have to specify this large <OVERLAP> matrix. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP> you you could have but, chose not to, <U WHO="S1"> right. </U> look at a cartoon version of this in a make_ completely made up, <U WHO="S1"> right. </U> problem <U WHO="S1"> yeah. </U> s- to understand situations where this is a very very, poor, we- well you really lose badly that way, that you would have been better off <OVERLAP> actually </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right well, </OVERLAP> you wouldn't necessarily lose this way because it's up to the user whether they, uh want to pr- want to fake conditional probabilities, into this knowledge base they can pretend they're unconditional but they can specify extra state features effectively, that make them allow, uh uh uh that allow them to have, effectively, more than one row or column of a Mar- of a Markov, matrix. </U>
+			<U WHO="S2"> you're colle- you're aggregating states, essentially. <U WHO="S1"> yeah, mhm </U>
+				<OVERLAP> and, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well </OVERLAP> it's not aggregating states it's aggregating, uh, conditional probabilities, and then trying to get them out. </U>
+			<U WHO="S2"> okay you're aggregating transitions from and to <OVERLAP> states essentially, right? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes, mhm, right. </OVERLAP> which, the motivation for that being that it's, it would be very difficult- i- it's more easy to think in terms of, state transitions where you have preconditions and <OVERLAP> postconditions, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> w- th- i </OVERLAP> guess what i'm trying to, the- there's a lar- there's a growing literature <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> on </OVERLAP> factoring, <U WHO="S1">
+					<OVERLAP> mhm, mhm, right, yes, mhm </OVERLAP>
+				</U>
+				<OVERLAP> you know on aggregating </OVERLAP> factoring, Markov chains <U WHO="S1"> yes. </U> you turned a blind eye to that literature. </U>
+			<U WHO="S1"> i, referenced a couple of papers but then i didn't go into details of what they're doing. </U>
+			<U WHO="S2"> w- wh- why were you convinced that that was the wrong way to go? </U>
+			<U WHO="S1"> well, for several reasons one because they talk about aggregating, states in terms of, abstraction and feature extraction things like that but they they don't really consider plan execution and making that real-time at all. so they don't they don't produce step, part two of the plan, they don't think about deadlines, so in order to think about deadlines you first have to guess at which deadlines you needed, and then you'd have to consider those as separate actions. for your transition matrix. </U>
+			<U WHO="S4"> well, i i actually i don't understand that answer cuz, this particular question, this is a subproblem you've got it has nothing to do with the actions, right, it's just, </U>
+			<U WHO="S1"> what question is that? </U>
+			<U WHO="S4"> the question of what is the, uh relative probability of achieving these certain states conditional on some particular plan. </U>
+			<U WHO="S1"> well uh it's, <OVERLAP> it does have to do with deadlines. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> which is, essentially, you're essentially fixing </OVERLAP> your ch- action choice, and then saying what is the likelihood of various trajectories through state-space. <U WHO="S1"> mhm </U> okay, so, the fact that those people don't consider planning is kind of irrelevant right? because they just have machinery, <OVERLAP> for talking about, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> those people don't consider planning? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> aggregation, aggregation </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> the people who look at, </OVERLAP> aggregation and whatever <U WHO="S1"> oh okay. </U> Markov chains are <U WHO="S1"> mhm </U> because they're just answer asking questions about, how do you effectively compute, trajectories and state-space with very large state-spaces by, you know, factoring into events and (propositions) and so on. <U WHO="S1"> mhm </U> um, so you know might uh you know if someone handed you a black box that was good at that kind of thing you know, w- wouldn't it address your problem? </U>
+			<U WHO="S1"> i, would need to see the black box to be able to answer that, um i have looked at this mostly from the Markov process literature in terms of, using it for planning, not in terms of using it for, a particular domain as a black box. so, i- thi- the the stuff that i've read about Markov decision processes and, using them for planning, made it clear that you had to think about, the deadlines separately in order to generate this type of real-time plan and that it would be a problem if you didn't know what those were in advance. not to mention the fact that if you have to think in terms of state history then you have to add a lot of extra features in order to, uniquely specify the conditional probabilities. so, if there's some way that they get around all of this and still end up with real-time control plans then i'd certainly like to, be pointed to that. </U>
+			<U WHO="S4"> well, i don't think anyone would suggest that they solve your whole problem for you, <U WHO="S2"> right </U> okay, the question is whether s- you know, some of the technique, that comes out of that literature, uh, is, related enough <EVENT DESC="LAUGH"/> that, <U WHO="S1"> right. </U> that you you steal ideas from them. </U>
+			<U WHO="S1"> right. yeah, no, n- i feel like this is not done i mean if, you can ask my advisors that every other week i come into a meeting and say well, we can do this with a Markov decision process and the fact is we had to choose one particular route for this, work and i don't feel like it's done yet so i personally plan to continue to look, at <OVERLAP> this literature and see what happens. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> were you driven to </OVERLAP> make these decisions because you had an application, or were you driven, i mean w- w- why wouldn't you <U WHO="S1">
+					<OVERLAP> well, one of the reasons </OVERLAP>
+				</U>
+				<OVERLAP> wonder over this, this seems </OVERLAP> like a pretty central, issue. </U>
+			<U WHO="S1"> right. the, but one of the reasons that we made this decision was because, we were not, out to get the optimal plan we were out to get something that, was sufficient for our_ the guarantees that we wanted that was able to reach the goals. <OVERLAP> and so </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but wouldn't </OVERLAP> that vary with that domain, from domain to <OVERLAP> domain? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what's, </OVERLAP> what would vary? </U>
+			<U WHO="S2"> your decision about what, which way to go. i mean if you're not going to take a fundamental view wouldn't your decision vary from application domain to <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right so, yeah so </OVERLAP> so one, future, um un- when i talk about unhandled states which hopefully i'll get around to eventually, um, i- one of the things that it talks about from a general perspective is how do you plug in different planning models, depending on how much time you have. so the way i would see it, this would probably be the slowest, version that we would have. in terms of uh, when we start talking about real-time bounds so one of our motivations was to think in terms of something that, we could later say okay we're gonna stop here now the- i know there are, um, ways to impose time limits on, Markov planning models but, it's difficult when you start exploding the size of things in this type of way to think that it would, also be able to come up with any sort of accurate plan. so... </U>
+			<U WHO="S6"> i have a question of a quite different sort, uh <U WHO="S1"> yes </U> relating to the way you bring in the world model, the environment and and the probabilities that are somehow associated with your, <U WHO="S1"> right </U> operation within that <U WHO="S1"> mhm </U> and thinking in terms of for example the icing context. uh i mean, um do you envision that you would actually have information about weather patterns and, spatially and temporal distributions and that that would, provide you some information about the, a priori probabilities that go into the Markov <OVERLAP> decision model? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right that's, </OVERLAP> well, regardless of what kind of planning model we have, <OVERLAP> the original, but so </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> that's right this this, </OVERLAP> i'm talking about the the way you find these probabilities that set the_ that <OVERLAP> provide the data for the problem. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well the the motivation, </OVERLAP> for originally developing this kind of, um, where you'd have time intervals and probabilities within that, those time intervals was me going out and trying to find out the probability of engine failure for c- a Cessna, propeller engine tha- that's, o- over its life span cuz there has a break-i- a break-in period and then a b- some long period of time where it has about the same and then, as it approaches overhaul the probability increases again. so, the same would be the case with other transitions but, uh i mean i haven't studied meterologi- meteorology enough to know what they would be but that would be the idea is that, based on those reports you would have different, transition models. </U>
+			<U WHO="S4"> there's a particular issue here too cuz you're, i thi- weather is something that you would get, you get, uh execution-time information. <U WHO="S1"> mhm </U> about, and you're all talking about using plan-time, probabilistic. all this information you have here is plan-time probabilities. </U>
+			<U WHO="S1"> plan time? what do y- what do you mean by plan-time? </U>
+			<U WHO="S4"> in other words you have these models that use, <U WHO="S1"> mhm </U> alright planning time, <OVERLAP> okay? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this </OVERLAP> is not planning time this is the amount of time that </U>
+			<U WHO="S2">
+				<OVERLAP> y- y- y- you're using </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> you you you're using </OVERLAP> you're using this probabilistic information to make decisions on planning time. </U>
+			<U WHO="S1"> at planning time, yes. </U>
+			<U WHO="S4"> at planning time. <U WHO="S1"> uhuh </U> but whereas, weather informa- you know, weather <U WHO="S6">
+					<OVERLAP> well, you'd have both, probably </OVERLAP>
+				</U>
+				<OVERLAP> information that you would </OVERLAP> use, maybe have a planning time but <U WHO="S1"> right. </U>
+				<OVERLAP> also </OVERLAP> execution time <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> you'd </OVERLAP> find things that would change the, probabilities of different <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> temporal </OVERLAP> transitions which would change the actions you'd want </U>
+			<U WHO="S1"> right. so so right now what we would assume is that we would take a current forecast before you would ever take off and use all of the the transitions associated with that to develop your plans, and then during flight, um, this is something for future work, if any of those meteorol- meteorological events change substantially enough, that it invalidates your plan then that's when this real-time planning would be very important. to bring back in. but since we didn't do the real-time planning we also didn't focus on, what happens if these change during dynamic, execution. because we weren't ready to approach the real-time planning problem either. </U>
+			<U WHO="S6"> but there are a lot of interesting issues, uh that relate to what, for example flight-management systems, mostly now they just store data <U WHO="S1"> yes </U> so they can record it. <U WHO="S1"> right </U> and and and what, i guess one of the issues that i'm interested in is how, w- how your, attempt to incorporate some of this information in terms of planning, what that says about the kind of information that should be made available what kind of information do you really need about the <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> environment </OVERLAP> about the world, <U WHO="S1"> mhm </U> uh because i don't think people understand that very well at this point <OVERLAP> and, probably </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no actually </OVERLAP> when when uh, i went off and tried to find out what the probabilities were for engine failure we called everybody no one would tell us. </U>
+			<U WHO="S6"> that's because they don't think about <U WHO="S1"> right </U> this higher level of planning that you're <U WHO="S1"> yes </U> addressing here and so and so, uh, these issues, well they just aren't thought about. </U>
+			<U WHO="S1"> right, mhm. right. so so, i think to summarize and then move on because i'm not going to finish otherwise, um, the, regardless of what planning model we have, i mean this is our current model, we haven't discarded Markov decision processes as a possibility i think that was obvious from the pages and pages i had at least talking about it in the thesis, and, we think this sort of representation is appropriate because, the alternative is that you somehow have to, relate all of the different events that could happen to you, in order to build up, the conditional, probability representation before you ever start. so, this is our current model and, i'm certainly open to suggestions on what, <OVERLAP> (should happen to) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> uh uh Lisa c- </OVERLAP> can we do something in the middle like if you look at the cruise missile type thing where you, store some static information of terrain data right? </U>
+			<U WHO="S1"> of train data? </U>
+			<U WHO="S3"> of terrain terrain. </U>
+			<U WHO="S6"> maps of the <OVERLAP> terrain. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> maps of the terrain. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh terrain, </OVERLAP> okay. <EVENT DESC="LAUGH"/> oh i'm sorry. </U>
+			<U WHO="S3"> whereas you're dealing with a highly dynamic, you know unpredictable environment. <U WHO="S1"> right. </U> and, there, can we conceive of something in the middle...? </U>
+			<U WHO="S1"> i, can you define what you mean by in the middle? what <OVERLAP> is it in the middle of? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it would have the meaning that </OVERLAP> uh, would try to use, uh static information as much as we can, but provide the provisions, for, these unanticipated </U>
+			<U WHO="S1"> well, right now, what hel- the events would have to be modelled as state features which is not unreasonable to think of, so to handle it with our current architecture we could model, uh one of these events occurring as a state feature and have that, be something we would react to dynamically. so that's kind of the next, part that i'm gonna get to here. so, i was gonna go through an example that talked about the computations of these probabilities, um, basically, in this simple example, i start out, um, having two temporal transitions, the blue lines talk about their probabilities, um unconditional, and the red lines talk about the conditional probabilities when you consider the probability of both of them occurring, um in the same state. at that point, um, we can calculate the cumulative probabilities which is that summed, from the time step zero to see what happens, um over time until they converge, basically until the sum of them approaches one or else, there is no probability that anything'll happen later, um which gives us these cumulative probabilities of sixty-five percent and thirty-five percent. and, um that also for this very simple example since it's a tree structure, gives us the state probabilities for S-one and S-two... so at that point since it's a best-first search we would go to S-one and try to expand it but in this, extremely simple example we'll pretend there's no transitions out of S-one. in which case then we expand to S-two. so, in S-two there's a probability of failure, so, we have to select an action which is the climb action, that preempts this failure and then we have to calculate the deadline, or max-delta to avoid that failure. initially we set that to infinity because we don't know what it's supposed to be, in which case we determine that it w- it will fail. so, then we identified, what the minimum delay is, for, T-T-F-zero, um which is five as you can see from the, um probability rate function, at which case we can calculate, um that the max-delta or deadline for the action has to be five also. that gives us these state probabilities for the entire state-space. um one interesting, the table on the center shows well what if you couldn't meet that deadline at five? um what if you, fail during scheduling then, um at that point you would have to relax that deadline perhaps, or get a new action. this shows how, computing these state probabilities would, allow you to at least get a sense of what your probability of failure is so, at this point if you chose a deadline of six you would have a one percent chance of failing from that state, and if you chose a deadline of ten you'd have an eighteen-point-seven percent chance of failure. <PAUSE DUR=":08"/> so this is all very qualitative because i didn't want to run one example and say oh this is absolutely the way this curve looks, but looking at how this um stochastic model improves, um CIRCA's ability to succeed um when resources are potentially overutilized, for CIRCA it has a hundred percent chance of success and then, it can't schedule, things to preempt all variance in which case, it doesn't really know what to do next. um in CIRCA-two it has this ability to make these trade-offs which means that, its guarantees do reduce, from a hundred percent to some smaller number, but um, it still is able to have some, ability to continue and to develop a plan, however if the resource capacity really, gets restrictive till that it can't schedule anything then it will eventually fail too. so, so i mean it's, this is just acknowledging that if you don't have any resources then you obviously can't succeed... </U>
+			<U WHO="S3"> o- one more thing c- can't you handle more TAPs by using uh CIRCA-two architecture as opposed to original CIRCA? </U>
+			<U WHO="S1"> more TAPs? </U>
+			<U WHO="S3"> yeah more TAPs. <U WHO="S1"> well, </U> probabilistic i mean... </U>
+			<U WHO="S1"> if you relax their deadlines substantially you could. um it's hard to predict for any particular domain whether you'll end up with more TAPs with longer deadlines, or whether you'll end up with the same number of TAPs that just have, smaller worst-case execution times. </U>
+			<U WHO="S5"> well you do have, <U WHO="S1">
+					<OVERLAP> and have smaller deadlines </OVERLAP>
+				</U>
+				<OVERLAP> at times you have the, </OVERLAP> alternative way of getting out of a of a tight situation, <U WHO="S1"> right. </U> of letting the other transitions, take you out, <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> the old stuff if none of those was reliably going to be able to do it then you were stuck but if the <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> combination </OVERLAP> of a bunch of those now will, <U WHO="S1"> right. </U> probabilistically take you out, <U WHO="S1"> right. </U> avoid having to schedule some. </U>
+			<U WHO="S1"> right. we we certainly have that but, i, it's, that gets kind of fuzzy because now at least the people at Honeywell claim they have this reliable notion of a temporal <OVERLAP> transition so that's. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well i was i was </OVERLAP> thinking of the schedulability of, uh deterministic TAPs versus probabilistic TAPs, or the uh like the uh you know real-time tasks hard real-time and soft real-time. <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> if you </OVERLAP> allow some of the uh probabilistic, </U>
+			<U WHO="S1"> well so part of the future work that we want to do um i i did some separate work on quality-of-service negotiation, that hasn't really been put into CIRCA but the idea with that is that you would, degrade the sched- the the the the plan not only with the planner but also with the scheduler. um that hasn't been connected because we haven't drawn the line at, when do you let the scheduler trade things off versus when do you make the planner trade things off? when the planner alone is trading things off it really doesn't have any, mechanism to automatically say i want to make this a soft real-time task. um, however, in future work we hope to allow the scheduler to look at how it can degrade task execution to help it schedule things. </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S4"> let's see um in your domain, i'm wondering how you actually get down that curve, um you've uh, you stated very clearly in your thesis that, safety above all, mkay <U WHO="S1"> right. </U> that you know you guarantee safety and only when you actually can't then you, <OVERLAP> sort of relax </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> then you re-- </OVERLAP> relax, yes. </U>
+			<U WHO="S4"> so you, one of your states is i'm on the ground, <U WHO="S1"> mhm. </U> uh and if you reali- if you ever have to adopt a probability threshold, <EVENT WHO="S1" DESC="LAUGH"/> less than one why do you ever <OVERLAP> choose to take off, yeah. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> why do you ever take off? </OVERLAP> and actually that's one of the things i had trouble with when i first started working with the simulator is it said no i don't wanna do it. so i mean, uh eventually what i ended up putting into the system is it said well i'm gonna do what i have to but i'm going to fly, so it doesn't have this notion that, it gets scared when <OVERLAP> you have to relax </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so in other words it doesn't </OVERLAP> really believe you were lying about that <OVERLAP> safety deadline </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> there are some people who operate, exactly in this way, because this </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/> pe- people operate in this way they never, <EVENT WHO="S1" DESC="LAUGH"/> they never fly i mean, <U WHO="S1"> right. </U> you know, <OVERLAP> there are probabilities but they </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i'll give you i'll give you </OVERLAP>
+			</U>
+			<U WHO="S4"> no no no but there's also this, this class of people that go around saying, safety is, of <U WHO="S2">
+					<OVERLAP> is gonna defy the opposition </OVERLAP>
+				</U>
+				<OVERLAP> uh you know is is is </OVERLAP> isn't really important and then they still, get on airplanes so </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S3"> i'll i'll give you an <EVENT WHO="SU-m" DESC="LAUGH"/> example F-A-A gave <U WHO="S1"> yeah. </U> uh what the uh, the three-billion-dollar contract to I-B-M to build uh the uh next generation the uh automatic traffic, <U WHO="S1"> yeah. </U> air-traffic control, <U WHO="S1"> yeah. </U> control system? <U WHO="S1"> right. </U> and then they get the uh, halfway of the project, uh they cancelled it but legally stated restructured. the reason was the requirement was, probabilistic guarantee of safety, with uh seven nines. okay, point-nine-nine uh seven nines. and they couldn't really verify there would be this seven-nine requirement. they couldn't. and so they uh devised the requirement to six nines and five nines eventually said what the heck let's give up. </U>
+			<U WHO="S1"> okay. <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> so </OVERLAP> you know the safety is not really determinable. </U>
+			<U WHO="S1"> yeah. so so anyway i'm getting worried about finishing here so, real-time deadlines are requiring that i move on. so um, the second part, of the three parts that were the main part of CIRCA architecture, is talking about unhandled states. what happens when you ignore things or when you have an incorrect model, um well first of all as we said in no_ in great detail, you may not be able to schedule everything in one plan. in which case, um you have to be able to detect and react to important unplanned-for states as they occur. so, what we basically did was to look at all the state classes that you could have and uh selected subclasses of those that we thought were important to detect, and then, implemented algorithms to do that. so... this is this picture of world state subclasses that's been floating around for a while um at the very outside we think all the world states that could possibly occur but then we acknowledge that we might not have, the model for everything, so the modelled set is within that, that all-world state set. um if something happens that's outside our modelled set since we can't even represent it we can't hope to do anything about that. within the modelled set we have those states which we've called the reachable states, um that we've planned for um there are some of them that can reach our goal states and some of them that can't. but anything that's planned for we've thought about avoiding failure so that's all um, that's all been taken care of. the other two sets which are the focus of, really the focus for, thinking about real-time catastrophic failure avoidance, are removed states. those are the unlikely states that we've talked about, where if you have some unlikely transition then you're gonna end up in the state that's not very likely in which case, that plus all the downstream states are not, a- are basically thrown out, of consideration because we're ignoring unlikely states. however since those are something that could occur we find them, certainly important to detect and react to. the last type the imminent failure states are those that, um we acknowledge that our model, may not be completely precise, so, basically, uh... if there is a transition that has not been put into your model and you get to one of these states, then it's very important to detect because otherwise you'll fail. <PAUSE DUR=":07"/> so, to detect these states we use the same, I-D-three algorithm that we use to minimize our, TAP preconditions that i talked about earlier, to bui- to d- build TAPs to detect each of those classes of states. um the TAPs for detecting removed imminent failure states are guaranteed because, one requires hard real-time response to those and the TAP for a dead-end state detection is best-effort. so reaction to when one of these states is identified, is to notify the plan dispatcher, which pulls a contingency plan to um execute if it's available otherwise, dynamic planning happens. so, at a very high level, this talks about the transition between different plans. so, say you start in this, um planned-for-states box. then something happens that takes you out of that set of states, um if it's something we call unstable, meaning that it's uh something that can lead to failure, then we detect that as imminent-failure removed state, and currently we require there to be a cached plan, um that we c- can recall in time to react to that state. um, alternatively, um if the departure from the planned-for states, is something that is stable meaning it won't fail but you don't know what to do about it then, we do dynamic replanning for that. so, looking again at how this, trade-off curve appears, um we had the original CIRCA and then we had, the CIRCA-two was just the probability model but no, um no plan cache, um which was, we talked about after the last section, now with the plan cache we're able to extend that out so that we um can, have fewer resources and still succeed however, um ultimately we'll run out of resources anyway, even with the plan cache in which case, um, that, is represented by, it eventually degrading also. and this this region when it first starts to degrade with the plan cache is where we have the motivation for real-time planning, because one of the modes that, could require real-time planning is if the plan cache is populated enough that, just searching and retrieving a a plan, um compromises the guarantees... okay, that was a lot quicker. so, the third, um item that we really addressed was how did the planner and scheduler talk to each other, when, a p- the proposed plan is unschedulable and how does that help um make the trade-offs. so the approach that we used is to guide the planner backtracking toward the schedulable plan. so, we actually did two kind of separate projects on this the first one is we presumed, the existence of a single-processor plan-execution platform, um which meant that the only resource we were trying to schedule was one processor. um in the second part, we looked at, what if you had one more than one resources, and uh, um basically like uh communication channels or, um more than one processor or whatever, and then we also looked at, well now that we have more than one resource how can we think of fault tolerance in terms of, computational system failures. um and we also talked about uh, in the future, maybe this approach is not enough maybe we should have, the, um, uh, the trade-offs divided between planner and scheduler at which case, we look separately at, um how do you, um allow the scheduler to actually degrade the quality of service of tests, um, this work, i'm not going to discuss during this presentation because it doesn't fit into the CIRCA-two framework but uh, hopefully it will soon. so first, um we looked at the case where we have one processor and when the scheduler fails, on the uniprocessor execution platform, we first use the overall, processor utilization, which is basically the sum of the worst-case execution times for the tasks, which we represent as T-sub-I um, this is the same as TAP, um i talked about TAPs earlier, and divide that by the, separation time which is really, effecti- effectively the deadlines are max-deltas that we talked about earlier. when that number is greater than one you know that, you can't schedule, um all of the TAPs on the resources furthermore, since we have non-preemptible tasks, we also might have task pair conflicts, which occur when um basically the worst-case execution for a TAP is so big, that another TAP with a smaller deadline or separation constraint can't fit. with both of them at the same time. so based on, the probabilities of ever executing each TAP, we recommend a probability threshold for removing, um um or ignoring states (below it.) so this is, kind of algorithm one which i've referenced before in terms of, ignoring unlikely states. so this is also, so, as we moved forward in this we said well maybe, that threshold isn't really exactly what we wanna do, so especially when we, generalize and have a multi-resource um allocation and scheduling platform where we have, multiple classes and instances of the different resources, it's not so straightforward to compute one number and say well this is the number, that we want to somehow c- treat as a threshold and ignore everything. so, instead, at this point of course if you succeed then the schedule is sent to the dispatcher and everyone's happy but th- the interesting research case is when you fail. um with multiple classes instances of resources, you end up with a utilization matrix, for each class of resource, and over the set of tasks. that the scheduler can provide. <PAUSE DUR=":05"/> at which time, um we have an algorithm it's it's, to identify, the bottleneck resource, associated with each task which is basically saying, if i execute this task which resource does it use the most of? or, and and at that point, we have an algorithm to combine, task priorities which at this point are equal to probabilities but we do acknowledge that, maybe it should be more than probabilities when we assess priority, and also the, utilization for that bottleneck, resource to select the cost of the task, um that we then recommend that the planner, um, somehow change when it backtracks the next time so this is an alternative to just ignoring, states instead we now say hey planner if you can do something about this task, it will help make the plan schedulable. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S4"> i- is there any, um sort of best-effort, uh in the schedule? i mean, a- a- the scheduler uses the worst-case, <U WHO="S1"> yes </U> times for everything, <U WHO="S1"> mhm </U> so, i would think that more often, that that that quite often there's a lot of slack in the <U WHO="S1">
+					<OVERLAP> yes. </OVERLAP>
+				</U>
+				<OVERLAP> actual </OVERLAP> schedule <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> when it's </OVERLAP> executed. <U WHO="S1"> mhm. </U> uh, what does it do? <OVERLAP> during this time? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what what </OVERLAP> do you mean what does it <OVERLAP> do? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> what does </OVERLAP> the actual execution system do, <OVERLAP> during the slack time? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well so, </OVERLAP> during any of the slack-time intervals, it basically, inserts best-effort TAPs. so, there could be tw- there are two types of slack-time intervals some are, if, they're actually just holes, that result after everything else meets its deadline, then it executes those in there but then also, y- you see here there could be a difference between the worst-case and average-case execution times and it also fits those best-effort TAPs <U WHO="SU-m">
+					<OVERLAP> the actual </OVERLAP>
+				</U>
+				<OVERLAP> into there </OVERLAP> but it's not, i- i- yeah so this is actual, that's not actual, i keep saying <OVERLAP> that. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so, </OVERLAP> uh, whe- in this case when you're doing this relaxation, do y- do these, what were before the guaranteed tasks become best, treated as best-effort, <OVERLAP> TAPs? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the, </OVERLAP> what relaxation? </U>
+			<U WHO="S4"> when you decide not to, do all your tasks, <OVERLAP> because you can't fit 'em in. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh, so right now the </OVERLAP> planner all it is capable of doing is, either selecting a different task which it hopes might, facilitate scheduling cuz in many cases it'll have a choice of actions that it can do, or else it, changes the threshold that it will look at. </U>
+			<U WHO="S4"> no no right but <U WHO="S1">
+					<OVERLAP> but </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> determines, so at the end you've got this particular schedule, <U WHO="S1"> right. </U> how does it decide_ there's lo- there's lots of best-effort TAPs how does it decide <U WHO="S1"> right. </U> which ones, what priority to, to do those best-effort, <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh </OVERLAP> the the best-effort? so that hasn't really been a big, research issue for me i've kind of said well i'm looking at failure avoidance, goal achievement is looked at, separately so, we have <OVERLAP> this thing called </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> no but once you're </OVERLAP> in the r- once you're in the realm of doing this trade-off, <U WHO="S1"> right. </U> you're, you're still also, talking about failure avoidance. </U>
+			<U WHO="S1"> right. so, right now th- th- the way that we do that is to say, we're going to split the actions into two plans so that we have a contingency plan and a nominal plan, and then all we have to do is schedule this, TAP that will detect this unhandled state and will go off and pull, this other plan and that specifically, is responsible for reacting to that unhandled state. so it's it's, that's that's all we do now in in future work we might <OVERLAP> do that. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but but </OVERLAP> that only works when you just ha- fortuitously uh, detect the, <OVERLAP> (optimal plan) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well it's not </OVERLAP> fortuitous if we have, uh i mean we build a list of the states that we hope to, uh uh that, at least have been identified as reachable and, then it's not fortuitous that we actually detect it when </U>
+			<U WHO="S5"> cuz those are the detection and response are guaranteed TAPs? </U>
+			<U WHO="S1"> right. mhm. </U>
+			<U WHO="S3"> well, we looked at it i i don't think it, this will work? </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S3"> no we looked at it the the testing for TAPs <EVENT DESC="COUGH"/> excuse me. <U WHO="S1"> right. </U> the other the other idea though you didn't address and you didn't really look at this overbook. because, the worst-case execution time is quite often you know the uh hundred percent more even one order of magnitude larger than actual execution time so in reality if you have a lot of slacks so you can overbook in that case it's what's most you can guarantee it is not an absolute guarantee anymore, if, everybody takes worst-case execution time right? </U>
+			<U WHO="S1"> well, so so one of the things that i was hoping with the quality-of-service negotiation in the future, is uh to actually, provide mechanisms in the plan execution system that it will truncate execution of a TAP if you don't finish so if you degrade its quality of service, that might simply correspond to relaxing its worst-case execution time, to something that is closer to the average execution time which would allow you to schedule it and it would allow you to do it most of the time but then if you ran out of time then you would truncate its execution. </U>
+			<U WHO="S3"> then you would have a somewhat of a imprecise computation model <OVERLAP> is what you're saying right? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right. </OVERLAP> mhm, right... so, going back to the last slide so basically, we're now talking about the multiresource scheduling, and so for this system, um, we've started also thinking about, fault tolerance in terms of what happens if the com- computational resource fails. so to do this instead of having a general model that says okay as it occurs we're going to dynamically, um, decide what to do, instead we think about it in advance, by thinking about specific faults that could occur. so, fault F-zero would be everything works, fault F-one would be some resource of some sort fails, uh progressively worse through fault F-sub-N. so, the idea with this is that we improve, the response over a traditional real-time task-execution, system because we explicitly deliberate about what if this is the case what if we don't have, that many resources anymore. so we haven't implemented this in CIRCA-two so, if you ask implementation questions i'll say uh well this is how we hope to do it, but uh we're in the process of converting the plan-execution system so that it can handle multiple resources in the future. so i'll give a very simple example. um, this is an example of a s- the features uh, the uh features the uh airplane is on course, no obstacle and has normal status. uh two things can happen it can deviate from its course or it can, detect um an obstacle that it may collide with. both of these, we'll say, could result in failure by a temporal transition to failure so, we have to guarantee actions for those. so our single timeline's now exploded into multiple, timelines one for each instance of a resource the top two are for processors and one for each, class of resource the bottom one is a communication channel. we have at this point divided the TAPs into different modules which go together, to form that task this is, um more how the real-time, community thinks of tasks to split up into spe- separate parts, and fit them on the timeline so that they'll meet the deadlines... so, what if a processor fails? tha- that's the the one fault that we, think about with this particular example. well, since this, schedule, was obviously very much overutilized if you tried to map everything here onto this top timeline, you had to do something, so, at this point for this very simple example the planner determines that it actually can't do either action that it originally planned and this is, by several backtracking steps. so that it decli- decides that if it declares an emergency that, avoids the failures in all states. and at that point it's effectively trading off, um using lots of processor resource time, or using the communication channel to get air traffic control basically to tell it where to go next... okay so that example's leading into the next section which is, what we've actually done with CIRCA-two, towards autonomous flight. CIRCA-two had nothing to do with this airplane. so basically, uh the first thing we did was we, grabbed an, a simulator, shareware simulator called Aerial Combat, um and put a simple linear controller on it that allowed, gentle maneuvers take-off landing so that it was able to, fly around a pattern. so, the simulator basically looks like this it's uh, has a heads-up display and was originally designed for basically a human to play games with. but we, basically took all those inputs, sent them through C- through CIRCA to get it to control it instead... and, the simple tasks that we had it um flying was to take off, going south on the runway, fly in a rectangle and go back so, as far as goal achievement its goals were very simple, flying to the next fix, um which is kind of what you've been seeing in the examples so far. so, during these initial tests we, inserted some emergencies basically by pressing keys on the keyboard, um that allowed us to think about what happened if, we failed gear-up on approach to landing, and what happened when collision-course traffic was detected. and we, carefully engineered the worst-case execution times and so forth, yes we engineered them we didn't compute them accurately, to uh allow us to make things not schedulable, to test the ability of the system to make the trade-offs toward, basically bumping, gear-up failure detection and collision-course traffic detection off to contingency plans, and testing the response of the system that way. so that in, the next set of tests, basically at this point, um um some researchers at Honeywell who were basically, working also with uh the original version of CIRCA, um took the simulator and uh, adopted it, as an unmanned combat aerial vehicle so they, kept the flight controller basically put in a bunch of missiles and targets and things like that, so that uh, they could demonstrate, the utility of the system for that, and i know the picture turned out terribly in the dissertation but this is, the idea is that there are various targets that you want to destroy, and radar threats and infrared missile threats... that you want to avoid... so i'll talk about, the example that, illustrates how CIRCA works with that, and then i'll talk about our ongoing research to automate the uh University of Michigan, Uninhabited Aerial Vehicle. <PAUSE DUR=":05"/> so for the, unmanned combat aerial vehicle this is again a simulator, we basically had a very specific, um trajectory that we were following so we didn't even model that within CIRCA itself. um, we had a waypoint ge- trajectory generator and it, basically identified the different targets that it would encounter on the way. so for CIRCA we specifically looked at failure avoidance. so, for the first test we looked at, how would the original C- um CIRCA system work. well basically if you took the original CIRCA system as is, it wouldn't generate any plan because, infrared threats and radar threats could not be, together scheduled on the variable, uh on the on the available resources. however, if someone manually went in, and then said okay, i'm looking at the likelihood of infrared threat versus radar threat and well since the, infrared threat is more likely i'm just gonna ignore radar threats. so this is a manual, computation that s- basically throws out this transition. at which case it is able to develop a plan to handle, infrared missile threats and, schedule those actions. however if i- a radar threat then occurs then, it has no model of that so it fails. <PAUSE DUR=":05"/> so in the next, generation of plan, we said okay we're gonna put this, CIRCA-two, stochastic planner in and see what it comes up with, but we're not gonna use a plan cache we're gonna make it fit everything that it can do into one plan and see what happens. so at that point, the, stochastic planner decides that, instead of ignoring the infrared threat, instead of ignoring the radar threats it's going to ignore the infrared threats because there's a very low probability of ever reaching, a state, a low-altitude state where, the infrared missiles can find the airplane, at which case it has a higher probability of success but it still fails if those are reached. <PAUSE DUR=":05"/> so, in the final iteration_ oh those are ugly, handwritten numbers, oh well. in the final iteration um, we put the plan cache back in, in which case the planner is able to plan for both sets of states by putting, the response for the, infrared threat into the contingency plan, into a contingency plan which is stored and retrieved when necessary. so this shows the probabilities for the various states, um to illustrate that, the reason the infrared threat is, less likely is because, um there is a low probability of going into this state. <PAUSE DUR=":06"/> so to summarize the trade-offs that have happened, um CIRCA alone with someone manually saying, okay i'm gonna remove this, um radar-threat transition from consideration, has a twenty percent chance of succeeding. basically, because, there is an eighty percent chance that this radar threat will happen in which case, it will fail because it won't do anything... with a single plan, CIRCA-two has, a chance, has improved the chance uh of succeeding to seventy-six percent, because <OVERLAP> this </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> um </OVERLAP> how did the, how did you arrive at these numbers? </U>
+			<U WHO="S1"> uh basically by looking at the state diagram and looking at the probability that it'll enter, into one of these states that has, one of the threats that you wouldn't respond to... </U>
+			<U WHO="S2"> so, this is again, thi- this is not an approximation it's a s- this is the, this is a fact <OVERLAP> about the (statistics.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well, it's uh </OVERLAP> well it's an approximation, given that our stochastic model approximates the real world, but it's what our stochastic model is telling us is the guarantee, so. if, our stochastic model were, completely accurate then that would be the statistical, chance. so, and then with the plan cache since we're not ignoring anything we still have a hundred percent guarantee, and that's not approximate because we are reacting to everything... </U>
+			<U WHO="S4"> so actually, why do you even think of it as a plan cache i mean it's really just, uh the overall plan has <U WHO="S1">
+					<OVERLAP> yes. </OVERLAP>
+				</U>
+				<OVERLAP> (multiple) </OVERLAP> you know switches modes and <OVERLAP> um, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you c- </OVERLAP> you can think of it like that um, we think of it as a cache because we're actually, um, have this definition of a control plan that includes a schedule and you have to le- have to basically throw out the old schedule and put in a totally new one. </U>
+			<U WHO="S4"> right but that, that switch is actually, specified in the plan actually, <U WHO="S1">
+					<OVERLAP> yes. </OVERLAP>
+				</U>
+				<OVERLAP> pretty </OVERLAP> directly as </U>
+			<U WHO="S1"> mhm. however you could use, the same contingency plans for multiple, nominal plans. which would mean that you would be effectively having one overall plan for your whole system if you wanted to think of it that way. i mean a- at this point when we get into terminology which would be saying that like, P-R-S has one plan for the entire system, or, WRAPS has one plan or, however you want to think of it. e- effectively yes, if you think of the whole system as using one plan then that's absolutely correct. but, in our terminology we think of whenever we switch schedules, that we're switching to a new plan. and it's not just schedules we're switching, a set of actions that get done also. <PAUSE DUR=":06"/> so briefly, i've been spending a lot of time working on, the University of Michigan un- uninhabited aerial vehicle, which the purpose of it is basically to, combine a lot of different technologies, for online identification, fault detection isolation recovery, and we can figure a little flight control to, fully automate the airplane. CIRCA's role in this, um is to be for, mission planning and fault recovery... so, here's a picture of the airplane note that it's not this airplane so it's still alive... and, very briefly, it has, lots of instrumentation and that's what's really slowed us uh, down a lot is, getting all of the, thirty-odd sensors and actuators to uh, actually be calibrated and, reliably talk to the airplane and, so forth. i'm, rushing through these fast cuz, it's not really CIRCA re- research i guess. so, the software, this this gets at, how, i was before saying that the feature tests were virtually free. the software processes on our, U-A-V, consist of not only, CIRCA, but also, the other support algorithms which, i i'll call them support algorithms but, each one of these boxes, some of them can be thought of as entire research disciplines in themselves, so we have a very set, architecture but um, the airplane has two processors on it and that's not subject to expansion so we certainly have computational resource limits. one of them has, a set of processes that, do the control and state estimation and, detect the faults and then they pass that information over, to the other processor which, contains the more high va- variability processes such as model I-D, and the CIRCA-two plan-execution system. on the ground, we basically have a G-U-I and then the soft real-time planning of CIRCA... so, so i've talked about this um, the one processor in the U-A-V has a very fixed schedule, and does all of the fast real-time processes. the other processor does the slower real-time processes but they're still hard real-time processes. um, and then on the ground is the, soft processes where we really don't know the worst-case execution times. <PAUSE DUR=":05"/> so, instead of presenting res- results i am simply presenting a a test plan for the future because it became clear, several months ago that we weren't, actually going to be, um getting to the point where i could, use any high-level algorithms for quite some time because the, the low-level controllers and state estimators are still not in place and, of course CIRCA re- relies those, relies on those to do anything. so, we're in the process right now of, completing the tests to identify the dynamic-model parameters, and uh, the next step will be to verify operation of the high-altitude controller. although it didn't make it into my, thesis, um i hope to at that point, use CIRCA to think about, uh one-dimensional, trajectories and, one-dimensional emergencies to kind of get a, just uh a flight in, along the X-axis, and then an altitude to, get the con- the, airplane to react to, very, contrived emergencies in that way, and then at that point, um they will also introduce a lateral control the other researchers that are working on it. ultimately we hope to look at, engine failure and icing, and hopefully by that time, i will have a, better model of the actual, statistics, sto- for, um, the probability rate functions, for those kind of, um situations. so, to summarize, i've talked about, CIRCA-two, to generate and execute in hard real-time plans, that, hopefully will ultimately lead to safe a- lead to safe autonomous system operation. i've described a, probabilistic planning model, that has been used to prioritize states, and to, remove improbable states, um, when schedulability considerations require it. i've talked about detecting and reacting to unhandled states resulting either from these schedulability trade-offs, or from imprecisions in the model, itsel- i- in the knowledge base itself, and then talked about how, the, planner-schedule negotiation at this point feedback from scheduler to planner, can guide the schedulability trade-offs, during replanning or for backtracking during planning. then i've talked about how CIRCA-two has been used so far to, fully automate, um simulated and real uninhabited aerial vehicles... kind of a summary of contributions, um, to stochastic planning, it's not, uh of course future work, needs, remains to make it a convincing argument but, um, we believe this is an alternative to, Markov decision process, specifically for real-time plan development, um, when problem domains are so complex that, it gets difficult to think about specifying the problem for an (M-V-P.) um, we have looked at how multi-layer architectures can benefit from, thinking about detecting and responding specifically in real-time to unplanned-for states, and then we've talked about how, we could use, the ben- the capabilities of the planner and the scheduler together, to guide trade-offs and then, although we haven't really, fully automated an aircraft, we have begun to think about the problem, well, other than the simulator we began to think about the problem of, how to use such high-level reasoning mechanisms to, augment, um, the system response for emergencies where current flight-management systems would fail. <PAUSE DUR=":06"/> we have quite a bit of future work to, to look at um, in, all of the different disciplines. in planning in particular i've talked about, um, how to impose real-time planning bounds because in the worst case we can't store everything in advance and we, really have to rely on some dynamic, replanning. also although i didn't talk about this in detail, um right now we specify a list of subgoals for the planner, and we'd like to be able to dynamically develop those too. um, we also would like to continue evaluating our stochastic model, because it, at this point it's just, kind of been proposed and implemented but, we need to do further evaluations specifically to compare it to, Markov methods. so, for the planner and scheduler as i said before we'd like to, to combine the quality-of-service negotiation techniques with, the, right now the the planner backtracking to find a a schedulable plan. to look spec- at specifically the trade-offs of, when you should, degrade the task lev- Q-S level, and when you should do the backtracking, in the planner. um, for pl- plan execution we have been migrating CIRCA, toward a real-time operating system in the past it's run on UNIX which, we could get kind of, guesses at worst-case properties at best, so for the U-A-V in particular, we're running everything on the Q-N-X operating system, and a- in parallel work we've been migrating the entire, um CIRCA-two architecture over to that platform. at the same time we will have things like thread support, and, that will allow us to be able to do better, um, multi-resource platform consideration within the plan-execution part of CIRCA. and then of course with autonomous flight we have, all kinds of things to do to think about, really, what features and what values do we want and how do they interact with the, flight dynamics and also how, can we look at, specifically the engine failure and airframe icing emergencies. that's everything. okay, that's it. </U>
+			<EVENT DUR=":04" WHO="SS" DESC="APPLAUSE"/>
+			<U WHO="S1"> any <OVERLAP> questions? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> questions </OVERLAP>
+				<EVENT WHO="S1" DESC="LAUGH"/> from the committee? </U>
+			<U WHO="S6"> just a, personal question, <U WHO="S1"> yes, </U> i know you plan to, have some continuing contact with the, U-A-V activities here but, <U WHO="S1"> yes. </U> have you identified a successor from the A-I Lab who might uh, be interested in, <OVERLAP> continuing this? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no i haven't, </OVERLAP> and i don't plan to because i plan to work, on it myself and i don't wanna be replaced. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S6"> ah, okay okay, okay. </U>
+			<U WHO="S3"> that's a good answer. </U>
+			<U WHO="S1"> so we, we've talked about it a lot, and uh, they're gonna of course keep the airplane here because our expert pilot is here but, since my role is in large part doing software, and we are close to having MATLAB simulations of what we believe are the dynamics for the airplanes we can do a lot of the, uh software testing remotely. and then if there are major flights i hope to come back and, go out to the field and test it. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S2"> did, did any of your implementations work? um, <OVERLAP> a- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what </OVERLAP> do you mean did they work? </U>
+			<U WHO="S2"> well how would i know, ho- <OVERLAP> i, what i'd like to s- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well i can bring you the </OVERLAP> video. </U>
+			<U WHO="S2"> well no, <U WHO="S1">
+					<OVERLAP> well it's </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> i don't </OVERLAP> mean, i mean i, y- had, not not with the, i- i- not with any hardware but you had two different simulation <U WHO="S1">
+					<OVERLAP> right, mhm. </OVERLAP>
+				</U>
+				<OVERLAP> requirements and, </OVERLAP> the only, quantitative, i didn't see any quantitative measures of, performance or, or capabilities at all, <U WHO="S1"> right. </U> i saw a few numbers that you scratched on your, transparencies but i have no idea whether, these are good ideas bad ideas, can you help me? </U>
+			<U WHO="S1"> right well, that's something that i've been struggling with for a while and, the problem is, what do i plot what do i what do i, what do i show because, it doesn't really tell anything to show_ so you saw in the Q-S negotiation section i had controller response which made sense for that because we were varying worst-case execution times, for things like the controller and seeing what happened eventually became unstable. for, thinking about, whether CIRCA succeeds or fails, uh, these are such high-level responses that, plotting the trajectory of the aircraft really doesn't seem to make a lot of sense. and, since these are, high-level discrete values, the most i have been able to do is to come up with, here's the plan and, i could give a video on <OVERLAP> showing it flying. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but you could stress, </OVERLAP> you could stress your plan in a variety of ways many many different ways i presume, <OVERLAP> i i mean what you </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well i can change, </OVERLAP> i, so that was the idea by uh, <U WHO="S2">
+					<OVERLAP> you have three </OVERLAP>
+				</U>
+				<OVERLAP> changing the </OVERLAP> deadlines <U WHO="S2">
+					<OVERLAP> you had three </OVERLAP>
+				</U>
+				<OVERLAP> and so forth </OVERLAP>
+			</U>
+			<U WHO="S2"> you had three different scenarios i think <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, </OVERLAP> mhm... </U>
+			<U WHO="S2">
+				<OVERLAP> uh uh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so, </OVERLAP>
+			</U>
+			<U WHO="S2"> so, wha- what would it, suppo- you know suppose you're running the F-A-A, in ten, twenty years let's suppose you know, </U>
+			<U WHO="S1"> well they don't like, <EVENT WHO="SS" DESC="LAUGH"/> yeah they would want more numbers than that before they would give me a shot at running the <U WHO="S2">
+					<OVERLAP> um, </OVERLAP>
+				</U>
+				<OVERLAP> F-A-A but </OVERLAP> yeah, </U>
+			<U WHO="S2"> what are you gonna say to, people, are you gonna, you know next year you're gonna be writing, grant proposals. <U WHO="S1"> mhm. </U> um... how do you, how do you convince people that these ideas are, at least worth trying out some more? </U>
+			<U WHO="S1"> so, there are two, separate, ways that i am looking at this i mean one, avenue of me getting more plucks is to put this in with say the simple longitudinal controller, for, not only model identification but overall, what happens when you, uh detect this problem and do some, so so... <OVERLAP> i'm not </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> are you </OVERLAP> saying you need a truth model somehow i mean a- to to really make, performance comparisons in some way. i mean you've got to have, something to compare with, <U WHO="S1"> right. s- so </U> and </U>
+			<U WHO="S1"> so far i've been, doing this kind of high-level comparison of CIRCA to CIRCA-two and, in the future i hope to_ the reason i keep talking about these Markov decision process models is that at least for that part i want to compare, <OVERLAP> the accuracy of that </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well i guess that's what i'm asking is </OVERLAP> what's, i'd like to understand how, i- in one particular application <U WHO="S1"> mhm. </U> if it's more rudimentary than your <U WHO="S1">
+					<OVERLAP> yeah. </OVERLAP>
+				</U>
+				<OVERLAP> most </OVERLAP> rudimentary one, <U WHO="S1"> mhm. </U> how we can assess the goodness or the badness of the design decisions that you've made and i don't see <OVERLAP> that you've </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right, so... </OVERLAP> in terms of, calculating probability accuracy i think that the answer to that is to actually, implement the, Markov decision process planner in CIRCA and let it run and see what happens with all the complexity that it has. our current probability model is recent enough that we just barely have it working which is why the numbers were scribbled onto that slide, and it's not all that trivial to think of taking Markov decision software off the shelf and putting it into CIRCA because we have to customize it to compute all the things we want. so, and we don't really have, <OVERLAP> we're not really </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> is it possible that you </OVERLAP> could articulate a tiny tiny tiny, scenario, and actually give (xx) some sort of (xx) </U>
+			<U WHO="S1"> well, i hesitate to draw these trade-off curves for a tiny scenario because i think that what we would end up with is two data points and we wouldn't be able to say anything about what they would look at_ look look like in a more general case because we're not, our goal is not to prove one, particular example works it's to show that the system somehow improves on previous results so, i have purposely hesitated to come up with a simple example and say look here is how it degrades because... the curve would basically have a very limited step-function appearance and would not be representative. </U>
+			<U WHO="S6"> l- let me add i mean the curves you have there of, <U WHO="S1"> mhm. </U> i guess uh, perform, the vertical axis performance versus </U>
+			<U WHO="S1"> yeah, resource capacity. </U>
+			<U WHO="S6"> uh yeah resource capacity. i mean, presumably if you actually had this implemented in some system for example the U-A-V, <U WHO="S1"> yeah. </U> one could do a whole variety, a whole scenario of test flights with a whole, grou- i mean you'd have to do, almost something like a Monte Carlo simulation, <U WHO="S1"> mhm. </U> to really build up, <U WHO="S1"> yeah. </U> the real cur- you know, to to get an experimental, <U WHO="S1"> right. </U> or a, simulation of the, <U WHO="S1"> mhm. </U> of that cur- that that rook or i i mean i i'm not, i think Don was asking something, more broad than just that measure but but it, i mean that's a measure but, <U WHO="S1"> right. </U> what you have is only an inkling of what those curves look like. </U>
+			<U WHO="S1"> right. yes, <U WHO="S6">
+					<OVERLAP> not </OVERLAP>
+				</U>
+				<OVERLAP> i </OVERLAP> i hope that came across, i- that, this is what i, would expect the shape to roughly look like but that it's not something that i am able to compute. because of the complexity of actually computing the the points on the curve and, the, how they would differ between different examples. so, i- i am not ignoring this problem, but i was, i've been thinking about that problem for quite some time and have not yet come up with a good way to quantitatively, measure, what's going on in terms of, making these trade-offs except to say well look here's the probability that we have in this case and here's the probability that we have in this case. and, here's how the schedule changes and so forth so with a simple example i can show different schedules but, i- the the jump that i have not made is in, getting some sort of, trend, or defining a simulation that even makes sense, to vary these parameters in because, when we have a simple domain that has two or three actions, and, two or three transitions, it's not going to give you a smooth curve and neat resource capacity it's going to give you jumps. because you remove one task, a- or you, change the deadline for that task, and it's gonna suddenly jump, along that curve. and so if i do one simple example that gives me a couple of jumps and then i present that that's not representative of what we're gonna get for another example. </U>
+			<U WHO="S4"> but i think, you know you've got that overall curve but that's actually a composition of two separate things which themselves might be, analyzable, <U WHO="S1"> mhm. </U> individually, uh, (missing) so one of them is the probability estimation part, <U WHO="S1">
+					<OVERLAP> mhm. </OVERLAP>
+				</U>
+				<OVERLAP> which </OVERLAP> is separate. <U WHO="S1"> right. </U> mkay simulate, <EVENT WHO="SU-m" DESC="LEAVES"/> you know, <U WHO="S1"> mhm. </U> uh, <OVERLAP> the transitions and then simulate and then your </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right and in fact the, the person who just left, </OVERLAP> is actually that's part of his research is he's, uh has a stochastic simulation where he actually, uh estimates, the probability errors of our model relative to the stochastic simulation where he, puts the rate functions into that simulation. </U>
+			<U WHO="S4"> okay so that's one piece <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> other piece is, um, <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> models </OVERLAP> of resource availability and how that trades off with value for different thresholds that we need. and, presumably e- even that is up to the simulation (properties) is coming up with some parameters that we can vary. and i think that the overall result is just the composition of those two things, um, we </U>
+			<U WHO="S1"> okay... uh i'm not quite sure how to get that second part the first part i i can get for specific examples but again i'm not sure how that generalizes and </U>
+			<U WHO="S4"> see but the second part it doesn't matter actually what the states are you know it's it's really, <U WHO="S1"> mhm. </U> um </U>
+			<U WHO="S1"> it matters, <U WHO="S4">
+					<OVERLAP> it's </OVERLAP>
+				</U>
+				<OVERLAP> what's, </OVERLAP> s- the problem is <U WHO="S4">
+					<OVERLAP> you need you need </OVERLAP>
+				</U>
+				<OVERLAP> th- th- the </OVERLAP> variables here are the shape of the probability rate functions, i mean we've presented bell distributions and, reliable transitions and so forth but what is the generic shape we've had constant values, um we can do a generic shape for an action because we know how we model that but, for a temporal transition, should we use a coin flip or should we use something that, looks like an action that's reliable or should we use a, bell curve and <U WHO="S4">
+					<OVERLAP> so i w- </OVERLAP>
+				</U>
+				<OVERLAP> and then </OVERLAP> wha- what do you do? </U>
+			<U WHO="S4"> so i would take the results you know suppose you had a hundred actions they were all coin flips, <U WHO="S1"> right, <EVENT DESC="LAUGH"/>
+				</U> you know and these are, the distribution of the, of the parameters and, <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but </OVERLAP> it makes a big difference like, we have this model of dependent temporal transitions, how does that fit in and what does that, how does that benefit us? </U>
+			<U WHO="S4"> okay but <OVERLAP> then start from start from (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but you kn- but you know nothing </OVERLAP> you know nothing apparently right now, <OVERLAP> is that true? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> which we, </OVERLAP> know what? </U>
+			<U WHO="S2"> you know nothing right now really about the performance of your, unless you're here you are, w- uh, um working on these very very, <U WHO="S1"> yes. </U> demanding, difficult, physical, <U WHO="S1"> mhm. </U> limitations, <U WHO="S1"> mhm. </U> without, much idea about how your, framework is gonna, perform in, some, over some variety of, settings. </U>
+			<U WHO="S4"> so i mean we wanted_ showing that it works well under favorable, assumptions all across the board, <U WHO="S1"> mhm. </U> when there's no, <U WHO="S1">
+					<OVERLAP> okay, mhm. </OVERLAP>
+				</U>
+				<OVERLAP> complicated temporal </OVERLAP> dependency (fulfilled.) <U WHO="S1">
+					<OVERLAP> yes. </OVERLAP>
+				</U>
+				<OVERLAP> that's a </OVERLAP> that's a starting point. <U WHO="S1"> mhm. </U> and that's sort of all the evidence okay now let's, you know <OVERLAP> investigate further (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so this is talking about, </OVERLAP> using a stochastic simulation to compare the accuracy of the results, as one part and then the other part is to, show that it actually, i- i mean <OVERLAP> what am i trying to show, that it's (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so so that's, so that these so that these </OVERLAP> trade-offs are relevant over a broad range of parameters, um </U>
+			<U WHO="S2"> that you got the right, that you that you got the right, levers here, you know? <U WHO="S1">
+					<OVERLAP> yeah. </OVERLAP>
+				</U>
+				<OVERLAP> i ha- </OVERLAP> i don't understand reading the thesis, thi- things are complicated enough that i, just don't have, a- an idea about, <U WHO="S1"> okay. </U> whether the choices were right or wrong, and in what context the choices would be right or wrong, <U WHO="S1"> mhm. </U> and, i think for future, for future, articles for future <U WHO="S1"> oh sure. </U> funding, <U WHO="S1"> no i agree. </U> for your own, you know to prevent you from, um going down, a costly, road, uh, in in the in the (applicat-) real application, which is even more painful than software i think, you know, um, i, it seems like it would be really critical to think through, <U WHO="S1"> yes, mhm. </U> what, what the system wants to do and whether it's doing that... </U>
+			<U WHO="S1"> so, i, thought i presented what the system wants to do, </U>
+			<U WHO="S2"> no i don't think <U WHO="S1">
+					<OVERLAP> but </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> have, if you can't, <U WHO="S1"> okay. </U> if you can't, if you can't state test scenarios, if you can't provide s- s- test scenarios, or even, <U WHO="S1">
+					<OVERLAP> so, </OVERLAP>
+				</U>
+				<OVERLAP> come </OVERLAP> up with a range of Monte Carlo simulations where you <OVERLAP> stress i think </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the test scenarios </OVERLAP> were, intended to be, uh, the planner coming up with the plans and, showing that they meet the deadlines effectively, proving that given that particular, set of constraints that it can satisfy them and will work </U>
+			<U WHO="S2"> but we didn't see, we, you didn't you didn't have, y- you didn't parametrize those, stresses, you came up with one stress or another stress and what you, would want, i think what you would want to do <U WHO="S1"> mhm. </U> is you wanna study, the ways in which your decisions are wrong or right the decisions about what to prove and how to prove, are wrong and right, depending on the way your environment changes. you're <U WHO="S1">
+					<OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> trying </OVERLAP> to understand whether the_ you made some choices right you <U WHO="S1">
+					<OVERLAP> yeah, mhm. </OVERLAP>
+				</U>
+				<OVERLAP> deci- </OVERLAP> you took, you took something which you p- arguably model in a in a Markov, fashion. and you said i don't have time, i don't have the, i don't have the the the the, computational power and the time, to, to compute, uh uh in the, controlled Markov chain, style, <U WHO="S1">
+					<OVERLAP> mhm. </OVERLAP>
+				</U> much less to analyze what would happen, <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> what i'm going to do is i'm going to, i'm going to do a kind of aggregation, i think of it as <U WHO="S1">
+					<OVERLAP> okay, mhm, sure. </OVERLAP>
+				</U>
+				<OVERLAP> aggregation but i'm really not </OVERLAP> sure what you did. <U WHO="S1"> mhm. </U> um, the aggregations that you perform, have the effect of... i- y- you know the- they're right for some kinds of, <U WHO="S1"> mhm. </U> environments and wrong for other <OVERLAP> kinds of environments. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay so right now </OVERLAP> you're talking about the, <U WHO="S2"> the planner. </U> testing the abilities of the planner <U WHO="S2"> yeah </U> to come up with the correct, <U WHO="S2"> yeah </U> stochastic <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> process </OVERLAP> uh, </U>
+			<U WHO="S2"> or or in situations where the, time rou- if you, revise the time cost, of processes, <U WHO="S1"> mhm. </U> um, whether the, planner, whether the, whether the, heu- heuristics that you're (introduced in) the planner could keep up with or could could track, um, those sorts of, changes in in resource capability. <U WHO="S1"> mhm. </U> i i don't know how to do <U WHO="S6">
+					<OVERLAP> but but </OVERLAP>
+				</U>
+				<OVERLAP> it, but </OVERLAP> i think it would be worth your while to put a a fair bit of time into <OVERLAP> this. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> but but </OVERLAP> there are so many levels of, of uh i mean there <U WHO="S2">
+					<OVERLAP> but </OVERLAP>
+				</U>
+				<OVERLAP> are </OVERLAP> so many factors here that, i mean that's a, certainly a key one but there are others such as, how well does your knowledge uh really, your, probability knowledge really map the real environment within which the system's <OVERLAP> operating, it's kind of a robust issue there, </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but the claim, but there's a claim, </OVERLAP> there's a claim for a contribution, </U>
+			<U WHO="S6"> uh so so so so, but but, but so so in some sense to average all that out, to do some <OVERLAP> test, the </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but that's not the claim </OVERLAP> that's not where the, <U WHO="S6">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> we've got </OVERLAP> the value-added is, the claim is not that we're coming up with better models, that's not what you're claiming to do what <U WHO="S1">
+					<OVERLAP> no, </OVERLAP>
+				</U>
+				<OVERLAP> you're </OVERLAP> claiming to do is come up with better <OVERLAP> approximations. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> no but there is a </OVERLAP> there is a question about how sensitive, the plans you come up with are to the data upon which they're based and that's one which, only by sufficient testing we might be able to get a handle on. and the hope is that, yours are not too sensitive but, who knows... </U>
+			<U WHO="S1"> i mean one of the challenges with me somehow running, uh a whole group of simulations, on, the aircraft simulator that i have is... uh quite frankly we haven't even been able to accurately characterize worst-case execution times because the simulators run on UNIX. and they have since i've had them, and so if someone else logs in then, the models suddenly become totally inaccurate. and, <EVENT WHO="S6" DESC="LAUGH"/> so, i... to fight that situation, i and everyone before me who has ever used CIRCA, has basically, padded the worst-case execution time enough that, on a good day you won't get that behavior. um, so, the thought of, somehow trying to, uh span, uh that, that sort of actually varying, resource capacity and things like that on that kind of platform is, not something that i find to be straightforward. now my hope is that by moving to the real-time operating system, and, which you can characterize a lot more accurately, that we can even do more dummy sort of, nonsensical, feature tests and have random number generators for tasks and things like that that sit there and wait for, varying periods of time that would show us when we met our deadlines and when we didn't without actually having a domain, to work in, but that requires, that CIRCA first be fully implemented on, the real-time operating system. an- which is very close but not quite there so i certainly have intentions to do those kind of tests once we're there, um but that will not be, with respect to the aircraft. so, um, hopefully that answers your question a bit better, um, it's not all that trivial to totally migrate, the CIRCA plan-execution software to the real-time operating system. um, we have kind of a special-purpose version that works with our U-A-V given that it has one processor and no more, um, and given that it has a specific set of tasks not a general set. um, <OVERLAP> but </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> you've </OVERLAP> just identified your own limited resources. </U>
+			<U WHO="S1"> right. <EVENT WHO="S6" DESC="LAUGH"/> yeah. but <U WHO="S6">
+					<OVERLAP> trying to meet deadlines </OVERLAP>
+				</U>
+				<OVERLAP> we haven't been able to test them </OVERLAP> much because we don't even have model <OVERLAP> identification </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so let me ask you </OVERLAP> something cuz you know cuz the- all these answers seem to c- always be coming back to well i can't do it all, <U WHO="S1">
+					<OVERLAP> right, yeah, </OVERLAP>
+				</U>
+				<OVERLAP> together, there's </OVERLAP> always going to be something, well that's <U WHO="S1">
+					<OVERLAP> yeah, mhm. </OVERLAP>
+				</U>
+				<OVERLAP> going to be </OVERLAP> true forever, actually, not just the, it's not just the limits of the dissertation. <U WHO="S1"> right. </U> and, i guess what the committee keeps pushing, pushing back on is, well it's still possible to provide, pieces of evidence, <U WHO="S1"> right. </U> her- you know, about aspects, that will be, <U WHO="S1"> right. </U> admissible evidence even though, they don't capture some aspect <U WHO="S1">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> that's </OVERLAP> in your grand <OVERLAP> vision. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> well </OVERLAP> so </U> and you've got to sort of embrace that i think to </U>
+			<U WHO="S1"> right so the, f- the idea with the the n- the next generation of CIRCA student that's working here in the lab is that he's comparing, our current stochastic model with, um, uh the, stochastic simulations that he's running based on the actual probabilities and that should be able to yield some comparative results of what, you would actually see, versus what our model's predicting and he's, beginning to characterize that error but then, that's not my work. and, hopefully i can reference that work in the future, um, b- but i don't necessarily see myself repeating that work because he's using exactly the same model. um, i do see myself, i mean i hope before i wo- leave here, to have, CIRCA running on this airplane. which, would give me a specific set of limited computational resources to work with, and a specific set of software to work with it on, but, i didn't see myself spending the next two years waiting for all those processes to be available, so that's why, i want to leave now, <EVENT DESC="LAUGH"/> so, um, i i agree, and, i certainly plan to work on it. that's, probably the best i can say now. </U>
+			<U WHO="S5"> right. </U>
+			<U WHO="S6"> i've got to leave shortly so </U>
+			<U WHO="S5"> okay, we've got all the important, at least questions asked? correct? (xx) </U>
+			<U WHO="S1"> so if any of you want to talk to me, later, i'll certainly be around... <U WHO="S5"> okay </U> so </U>
+			<U WHO="S5"> thanks a lot </U>
+			<U WHO="S3"> thank you </U>
+			<EVENT DUR=":02" WHO="SS" DESC="APPLAUSE"/>
+			<U WHO="S5"> and i'm afraid we have to, (xx) </U>
+			<U WHO="S6"> (xx) </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

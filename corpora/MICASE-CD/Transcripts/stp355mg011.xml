@@ -1,0 +1,518 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="stp355mg011">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Bilingualism Student Presentations </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> STP355MG011 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  WARNING -- Citation of examples is restricted for one or more speakers in this transcript.  Permission to cite examples from this transcript in any presentation or publication must be obtained from the English Language Institute. </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="99">
+						<DATE> April 16, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones, video recorder </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Jesseca Long, Janine Ovens </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Matt Murphy, Janine Ovens </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> John Swales </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Janine Ovens </NAME>
+							<RESP> Final Editing, 3/12/99 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: PNL </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+				<LANGUAGE ID="NSO"> Native Speaker Other English </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="6"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="7"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JG, Student/First Presenter, (Helen)" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NSO" ROLE="SF, Instructor" SEX="F" RESTRICT="NONE" AGE="4">
+					<FIRSTLANG> UKE </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="CITE" AGE="2">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S5" LANG="NRN" ROLE="SG, Second presenter" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S6" LANG="NNS" ROLE="SG, Third presenter" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SG, Student (Mary)" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-5" LANG="NRN" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-6" LANG="NNS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, Frieze Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> okay, now basically this is uh, a study on um, i wanted to look at um, the bilingual population here at the University of Michigan, and i started out thinking i would just look at, whatever people i could find who were bilingual, and then i realized that it would be difficult to kind of, find anything out about it if i was just looking at whatever languages i came up with. so i ended up concentrating on two different languages, and um, i also concentrated on the easiest samples i could find, so i have a Spanish um, English bilingual sample, taken from a class actually of self identifying U-S Latinos. so that's something to consider, and then i have um, a sample from, a Hindi class, uh two Hindi classes actually here, which are mostly bilingual um heritage speakers of Hindi, or another Indian language. um, and, uh basically, no one other language is highly represented besides Hindi but i'll talk about the littl- that a little bit in a minute. um the things that i was really looking for were, uh, had to do with, theoretical affiliation, with um a language community, which might serve as a community using these uh measures, basically, </U>
+			<U WHO="S2"> Helen </U>
+			<U WHO="S1"> yeah? </U>
+			<U WHO="S2"> can you put the window, down? </U>
+			<U WHO="S1"> the which? </U>
+			<U WHO="S2"> the window, down? </U>
+			<U WHO="S1"> the window down? <EVENT DESC="NOISE DISRUPTION"/> see if i can get those um... <EVENT DESC="NOISE DISRUPTION"/>
+				<EVENT DESC="LAUGH" WHO="SS"/> um, that helps a little <U WHO="SU-f"> (xx) </U> okay, um okay the first thing i was looking at is theoretical affiliation like do you think that you will be basically affiliated with this language community in this way in the future (that's what) (xx) um so first i ask, i just sort of_ these are just theoretical right though they have nothing to do with what we are doing now and i'll, talk a little bit about one other thing they ask that's about right now, in a minute but these're basically, the main things i was looking at. and i also looked at the importance of maintaining or increasing their proficiency in language A, um, for the vari- these various reasons. and, what i ended up doing in terms of figuring out what these meant and how they correlated was, looking at um, basically what i did for these scores or these answers, is i gave them two, points if they, said yes one point if they say maybe and zero points if they say no so i have an aggregate score for that, and i have um an average, score for this one. um, depending on various things and i also i'll show you a little bit about how those broke down, um... there's a lot of different things you can consider in terms of what will influence, you know how someone, perceives their own identity and how important it is for them to maintain their other language. um basically with students at the U-of-M, we're looking at people who, um, are basically social- socially mobile, so um, i sort of went in assuming that i would find people who would be more tending to be agents of language shift, rather than language retention, um in the sense that they, most of the students um, like in the in the Spanish, bilingual, Spanish English bilingual sample, three out of eleven, had grown up in a Latino neighborhood or, i_ whatever, i i measured that just by saying, you know, do you h- did you have neighbors who were spoke Spanish did you have um classmates who spoke Spanish? and only three of them answered yes to either of those. so basically most of them did not grow up in a bilingual community, except for that of their parents, and i've done qualitative interviews i haven't, finished evaluating all of that yet but basically, for the qualitative, work it seems like most of the students, did indeed grow up in um an integrated community, and they often say well i spoke Spanish or Hindi with my parents friends or their childre- their par- my parent's friends' children, but i didn't, you know have friends at school who spoke it or whatever. um another thing to consider of course is the different language groups, um, Hindi obviously, uh, is not, as widespread in the United States as Spanish is, um so in terms of usefulness or, accessibility in the United States it's a little different. so i'm just gonna look at some differences between the two groups, for a moment here, um, this is the, answer to th- the second question which is about the importance of, um, th- these various reasons for maintaining or increasing, fluency in language A (alright,) um, and i've got this little, graph at the bottom, which basically tells you that, i- i've sort of labeled this so, um, basically for the Hindi class, seventy-five percent answered_ had an average of this or higher, the seventy-fifth percentile, half of them had this or higher, twenty-five percent, so you can see that the Hindi class has a much, um, lower range basically, of answers okay, and you can basically, see that that's from these two, numbers here, i circled them here, um, okay, um so for professional and academic reasons, Hindis, were rated not that much more- much lower than the Hindi speakers- than the Spanish speakers. um, and that was pretty much across the board, and, we can think of some obviously um reasons for that, uh... another interesting thing you can see there's some variability um i don't think that the rest of it's very significant though, um, the variability in the different ranges, um there is some variability though there is still like, this is relatively low compared to the other scores, for Spanish speakers, to the academics but it's still relatively high, this was just- a rating of four just means important, anyway so, and then, just to look at the other, thing i was interested in measuring, this is the questions on theoretical affiliation, and i broke these down into proportions so this is like basically like thirty-six percent, (xx) fifty-five percent. um, so for this- for the Spanish um, the Spanish English bilingual sample, or the Spanish class i should just say um, basically, there's a lot more, um, higher ratings in the in the yes category like, a lot more people who said yes to um, to everything, and there's also very few people who said no to anything. you'll see here most people said at least maybe, you know, or yes. um and that again might have something to do with the also the sample is taken from a U-S Latino_ self-identifying U-S Latino class, and so students who are in this class presumably are already relatively invested in being a U-S Latino in the sense that they self-identify um, but at the same time, um the Hindi speakers, um, no one said no for example, no they would not marry a Hindi speaker, but um, you know two people i believe that represents two people who said they would never marry someone who was a Spanish English bilingual. basically. okay. um, and you can see again there's, a higher distribution for the Spanish speakers than the Hindi speakers for the aggregate score, like all these together, um, (let's) see and the other interesting things, th- only one person i think said yes they would live in a country where Hindi was spoken basically India right, um, whereas, um several people said yes they would, (live, in) live in a Spanish speaking country, definitely and um, let's see, the other interesting thing is that hardly anybody said that, they would not raise their children bilingually, (okay) in any of the samples there's two people total, in both samples that said that they, would would not raise their children bilingually. or maybe actually they didn't say would not they said maybe i won't. you know <EVENT DESC="LAUGH"/> and one of them like even wrote a comment in like i'm not sure if i'm proficient enough to bring my children up bilingually <EVENT DESC="LAUGH"/> like i want to but, so basically you can see by just, looking at that that, basically for all of the students sampled they are all pretty invested in, thinking that bilingualism is a good thing, you know, over all, something they want to pass on to their children, in the interviews that comes out as well... um, so i was interested also in how these correlate i was sayi- thinking you know m- well maybe some people are interested in being part of this community the bilingual community, but they're not really interested in, um, having, uh, high, their (own,) high proficiency (in the) language, so there is a high, (um,) there is a high correlation between these two things so, this is the average, this is the average score of like the five point rating thing and this is the aggregate score of like yes maybe no, do you want to do this do you want to do that, um, and there's like a high correlation i think it's point, seven two </U>
+			<U WHO="S3"> sorry could you just be clearer on what's correlated with what </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S1"> okay um, this is the average interest so this is like, um rate, the following um, how important is it for you to maintain or increase language A and you can just put this up, uh, rate that on a scale of one through five basically for the following reasons. (xx) right there, that's the bottom one. (aggregate interest,) and then i just averaged their scores okay, and that's the scale , this is the aggregate score so they get two points for every yes and one point for every maybe, so somebody who has twelve answered yes to everything, okay, somebody who has a three probably only answered yes to one thing maybe, to another representative of that so, and there's, you know there's definitely variability you know there's, people who, it's really important to them to, to maintain language A and yet they have a pretty low theoretical affiliation but there is a correlation of um, uh, this is th- this- these are the questions (xx) um... i was interested in the marrying someone who speaks language A thing for the Hindi speakers and i actually ended up asking, some people in the qualitative interview whether they were interested in arranged marriages, and i only had one person say they were intr- they were considering it still so, but um since that's, a big thing for recent immigrants (of course) especially... um okay... now another thing that, um, i realized when i started looking at this is i asked a question, are you involved in any religious organizations student organizations, classes, whatever in in- th- where people speak language A, and um just correlating with the religion thing, got actually a really pretty high, correlation, so this is just like yes or no d- do you participate in a religious organization (xx) (people) (xx) okay, um, and you see this is the average of the five so this is the, you know how important it is for you maintain the language, and you can see that, um, this is, these are both for the Spanish sample. so for the Spanish sample i mean these are pretty low numbers so it's kind of weird to see it in this form but this just basically means that, we are (xx) (black) (line) (notes) fifty percent, whatever answered higher than that, so you can see that everybody, who's yes involved in their religious organization they did all fives, for all of the treatments, so, um, and, here again you see that, like ha- half of, all this, like two of these students are all, gave almost all yesses basically for all those (added) questions um, this_ it's kind of weird to see this and these low numbers i tried to this like that </U>
+			<U WHO="S3"> have you got a misprint there? is one of them empty? </U>
+			<U WHO="S1"> no these are all Spanish classes these are, for religion or yes or no. </U>
+			<U WHO="S3"> aah <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and th- the in </OVERLAP> and this is oh this is the aggregate score for like, <U WHO="S3"> i see </U> do you imagine yourself imagine- marrying somebody who speaks language A. so this is just for the Spanish one, and they say a, a little different, uh, distribution with the, Hindi class, but, with similar overall results except for the, um this is reversed so let me just do it one at a time, this is the aggregate score, so you see again there's a higher, (like) median, um, this is like for yes no maybe do you wanna marry somebody (you wanna,) do you- do you think you'll marry someone who speaks language A or whatever. um, that's definitely still higher for people who are involved in religious organizations now, but it's a little more spread out, (and i) (xx) the- the Spanish sample seemed pretty_ more polarized there's also fewer people in the Spanish sample who are involved in a religion, here there's, the opposite there's nine, uh students involved in a religion and four are not, so, but then these this is kind of, bizarre I don't know what to make of this but i'll just show it to you, um this is for the, uh, this is for the average grading of (reasons) and, there's this huge spread for the people who said yes, and then there's this really small spread of people who said no, and so that's- maybe this says that maybe religion doesn't correlate with um the importance of speaking Hindi as much for these students okay um, that's- i mean it's a small sample so it's hard to make these kind of conclusions but, it does seem like, it could be different than the Spanish sample where, there was a high correlation in both cases with being involved in religion. okay... so um basically, what i came up with i guess is that there is um, that language is really important, to these students in terms of their affiliation with this community bilingual community or their cultural community maybe in a a larger sense to say that because, the other thing about this is, they are taking this class and language which means that they are investing time and energy in learning this language but it also means that they don't_ they're not already super proficient in this language right, so they're not like, um, the ideal bilingual and we all know that that doesn't happen very often but, but they you know they're not like um, going from being already you know totally maybe a part of this community and then taking this class of course cuz they're wanting to improve it, um, especially for the Spanish speakers i would say that i guess just because when you talk about Hindi speakers i just imagine it being more, i mean, if you're not even learning those char- that character set in school you know, um and a lot of the_ from the qualitative interviews um a lot of what i got was that people, um rejected their their home language as a child, they'd often say oh i you know i told my parents to stop speaking Spanish to me you know all this stuff when they were a kid, um and but now i want to. you know so there's this kind of change in heart sort of coming with, age and um, the other thing is that, it's interesting to see why it is that students want to revive their other language in a sense, okay, and basically what i n- uh, what i decided is that they are basically interested in it because of um, they want to use it as a way to, be part of this um cultural identity these are (the same) quotes as i had before so people who've seen this already, it's boring but, um basically these are two interviews um where basically students said right out the reason i want to speak Spanish is because, i um, i want, i want to be considered Latino and i feel like this is, like, validates me in some way basically what they're saying so they, he says, because i don't look like a Latino person, since i'm not brown, uh let's see, are they wha- are your kids gonna be you know Hispanic, and so i wanna know you know i wanna speak Spanish basically. is kinda what it's coming down to and this student has the same basic idea she says, um, it's part of myself i really wanted to get back, that back, that back you know and then she says, basically i look African-American, and most of my friends have been Afro-American so i really haven't had that much, in, you know so she's basically getting this, idea that she wants to um be part of a Latino community, in some way, that she hasn't been so far and she feels like Spanish is gonna come- some how, help her, um her overall identity with that. so that's kind of what's going on with the qualitative data i haven't finished analyzing the rest of my qualitative data so that's all of, that for now. um, i'm trying to think, how am i doing on time? </U>
+			<U WHO="S3"> okay, we didn't really talk about timing how how much more have you got? </U>
+			<U WHO="S1"> how much more have i got? i, that's that's most of it i could say a couple more things but </U>
+			<U WHO="S3"> well </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S3"> do you want to briefly, a couple of minutes perhaps, <U WHO="S1"> okay </U> and i think we have twenty minutes for questions. </U>
+			<U WHO="S1"> get my </U>
+			<U WHO="S3"> i think we made it twenty minutes a piece, didn't we? </U>
+			<U WHO="S1"> yeah, i think and then time for questions, and then there's uh... (i don't) (have this) it's in my bag... um, the one other interesting thing is and i already talked about this in my other presentation but um there was this distribution lemme just find that, <EVENT DESC="LOOKS IN BAG"/> there was this distribution in terms of who asked people who they spoke Spanish or English with or who they spoke (xx) language A who do you speak language A with, and um... there was this thing that is typical of the bilingual population (at first) but it's interesting to see it, um, where you get the, speaking both with their parents fourteen out of this is for both language groups. fourteen out of uh, i guess twenty-four total spoke, speak both with their parents okay, six speak only language A with their parents, um, but with siblings you see a much higher rate of speaking only English okay so a lot of students told me this in interviews too they said i only speak English with my with my brother or whatever, um some speak both very few speak only language A. only one person only speaks language A with his friends uh i think that was a he, um, uh and eight only speak English, which is um, less in fact than people who only speak English with their um <EVENT WHO="S1" DESC="LAUGH"/> with their siblings but the thing about the friends thing i should just say that this- this whole friends line is kind of strange because, this um fifteen this the lines here this fifteen's kind of like we really don't know what that is it could be like i have one friend who speaks English and everyone else speaks language A, or it could be like i have fifteen friends who speak English and one friend who speaks language A so that's that doesn't really tell us much but there are eight people who only have friends basically who speak English so that's that's a pretty large number. who are just not involved basically in a language A community at this point. in terms of their own peers um so. um, okay, my transparencies... <EVENT WHO="S1" DESC="FLIPPING THROUGH TRANSPARENCIES"/> okay. so basically my conclusions were that students who are more involved in a bilingual community or who see themselves becoming more involved in it in the future with these kind of imaginary questions, are are also more concerned with maintaining language A, be that Hindi or Spanish or Gujarati or there's um, i guess probably no one in here does Indian languages but i can mention that the different languages i was asked this before so the different languages that they spoke besides Hindi were Marathi Urdu two Gujarati and one Oriya. so there's kind of a wide range of other languages, and Arabic one other spoke Arabic. um, okay so basically there is this high correlation between seeing themselves being involved in this community and wanting to maintain language A. so that sort of says to me there's the language is an important part of their cultural identity and often students when i asked them that i said what is_ what d- does your culture mean to you um outside of the language you know they would kind of say well, there's food and you know there's, you know the religious customs they would often say but beyond that that was kind of it um, there were some other interesting things that came up. um, but in language A the the the language seemed to play a more important part in it. um let's see, and, let's see <PAUSE DUR=":07"/> and i'm sort of wondering and i don't know if i'll be able to answer that in this but i'm i'm sort of wondering what in what way the students hope to retain language A if they're not gonna be involved in the community and then you get into this more symbolic, orientation towards this community. where it's like i want to be whatever an- an Indian American, but um, maybe i'm just tend to spend more time with you know English speaking Americans or, whatever, so that's an interesting question i don't know if i'll get around to that but, it's just a thought for the future. okay, so </U>
+			<U WHO="S3"> thank you </U>
+			<U WHO="S4">
+				<OVERLAP> question </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> any questions? </OVERLAP> yeah </U>
+			<U WHO="S4"> (xx) question <OVERLAP> um </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U> actually, i have a question i have two little questions, one um, i know we've talked about going through the process of making a questionnaire how you go through drafts and a pilot and that sort of thing and i was thinking maybe if i don't know if you're going to do this again or if you're gonna rework the questionnaire at all but i was noticing that there was a really low number for, both groups with regard their um plans to use the language in an academic context. <U WHO="S1"> mhm </U> and uh that- that really struck me and i <U WHO="S1"> okay </U> i can only speak for the case of Spanish speakers but i was wondering maybe if you would also in the future wanna look at what their perceptions of Spanish were. <U WHO="S1"> oh okay </U> i mean there's a really, there's a- there's a real perception that i catch from students, that Spanish is not an academic language it's not a language in which you function intellectually <U WHO="S1">
+					<OVERLAP> hm </OVERLAP>
+				</U>
+				<OVERLAP> which </OVERLAP> is of course untrue but i wonder how <OVERLAP> many </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U> are going to perceive it that way, they've been <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> conditioned </OVERLAP> to perceive that. </U>
+			<U WHO="S1"> i don't know how much um, i think that's a really interesting point i don't know how much um this question's gonna get to that because a lot of that <U WHO="S4"> yeah </U> was like will you use it for that i mean, <U WHO="S4"> yeah </U> is that a reason for you to keep it up. okay, and in that sense, i guess that's true though because if they say no or they say it's not really important then <U WHO="S4"> for an academic (cause) </U> for an academic right then that means that they're probably not planning on i dunno studying in it or using it just to <OVERLAP> do papers </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> could i just </OVERLAP> do an accuracy check on this my memory is that Spanish that the responses were much higher for Spanish than Hindi <OVERLAP> in that (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> they're, they're higher than Hindi, (xx) lemme put it up </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> it was (three) point one but it was still lower relatively (xx) anything else </OVERLAP> (xx) </U>
+			<U WHO="S1"> yeah, here i'll put up this one this is actually, i thought this was harder to read so i changed it to being a, a frequency table but, basically you can see here there's, uh, <OVERLAP> (wait cuz this is the wrong one) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh well that's not the one </OVERLAP> is it </U>
+			<U WHO="S1"> okay, this is the one down here... um, for the Spanish sample it's it's still four <U WHO="S4"> right </U> point one which means it's important, <U WHO="SU-f"> yeah </U> but that does mean i mean there's there was definitely several people in the Spanish sample who just circled five five five five five you know, so you know it does mean that more people were circling four or whatever but not, yeah </U>
+			<U WHO="S5"> well, it might be subject to that because um, one of my best friends is actually taking this class. <U WHO="S1"> oh okay <EVENT DESC="LAUGH"/>
+				</U> and she was interviewed. <U WHO="S1"> yes </U> and i spend a lot of time with her, <U WHO="S1"> uhuh </U> and all the stuff that you were talking about you know it's this whole, pressure to want to become one who belongs in the community, and to actually, feel that at times because she's not as- she doesn't think she's as proficient <U WHO="S1"> mhm </U> (then) she might just end up just having this symbolic, baggage (thing.) taking you know (xx) her life that she (xx) become a Sp- Spanish speaker. <U WHO="S1"> mhm </U> but in terms of the academic stuff, it would seem to me that the class actually encour- encourages the students to look at Spanish in a new domain. <U WHO="S1"> right </U> encourages very academically based <U WHO="S1"> right </U> so it would be interesting to actually, perhaps, in another time another <U WHO="S1"> mhm </U> place, <U WHO="S3"> a new world </U>
+				<EVENT DESC="LAUGH" WHO="SS"/> to actually see you know these um language attitudes before the class begins. <U WHO="S1">
+					<OVERLAP> right, that would, that would be helpful yeah Jenny mentions </OVERLAP>
+				</U>
+				<OVERLAP> for classes like that </OVERLAP> and then, see what happens (with it) because um i do know some people who are just totally amazed that, that they can actually feel like they (can) (xx) (their own) Spanish. <U WHO="S1"> mhm </U> and that they feel validated <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U> in that domain. </U>
+			<U WHO="S1"> okay <U WHO="SU-f"> mhm </U> so maybe there's some- maybe that has something to do with this difference too because i don't think that that's an emphasis in the <U WHO="SU-f">
+					<OVERLAP> (right no it isn't) (xx) emphasis (xx) </OVERLAP>
+				</U>
+				<OVERLAP> Hindi class and when i asked, </OVERLAP> and when i asked students about that in the interviews um there were m- there were more people i don't_ people didn't mention that they wanted to use it for academics necessarily but but sort of people mentioned for the Spanish that they wanted to use that for work, um when i asked about Hindi i got kind of different answers you know some people would say oh no you don't even need Hindi in in India you can just speak English, um one person said well it'd be nice maybe if i can do business in India which i'm thinking maybe i'll speak Hindi. but that was like one of the (xx) people i um interviewed so maybe that has something to do with the class i'm not sure, um it would be nice to find that out before sample time but um but it's basically, i think it's true though that Spanish is seen as more useful in this country though. <U WHO="S5"> mhm <OVERLAP> right. yeah right </OVERLAP>
+				</U>
+				<OVERLAP> at least </OVERLAP> professionally i mean i think that's definitely even <OVERLAP> without the class </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but there is </OVERLAP> there is no sign of (a) sharp split on those figures (that were found) in the literature I made this comment before between, domestic functions <U WHO="S1"> yeah </U> and professional functions. you know (xx) right four five and four one are lower than four eight </U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3"> and four six but not that much lower. </U>
+			<U WHO="S4"> yeah but i think that also is very colored by the fact that this is a self selected group i think if you did the whole (xx) </U>
+			<U WHO="S1"> right i've been trying to find some unmotivated Spanish speakers, but, i have to contact one but but (xx) <EVENT DESC="AUDIO DISTURBANCE"/>
+				<EVENT DESC="LAUGH"/> who aren't organized <OVERLAP> (then who are organized) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> a deadbeat uninterested </OVERLAP> Spanish speaker? </U>
+			<U WHO="SU-f"> if there <OVERLAP> are any </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> we refer to her in one of my classes </U>
+			<U WHO="S1"> yeah <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah, i should get some more people from my class cuz i have people in my class who, um, i this_ my original sample is actually my class my (xx) kind of test sample for my questionnaire, um, and i got some, unmotivated people but, </U>
+			<U WHO="S2"> are these all people who are planning on living and working in the United States for the rest of their existence? </U>
+			<U WHO="S1"> all the people? well i asked them that and <EVENT DESC="LAUGH"/> what they said was let's see, live and work okay so most of these people are um, U-S born maybe that's helpful to answer that first, um, of all these students i think, five are not U-S born and most of those are, naturalized. so i think there was only one actual like on a visa person in the entire, um group that i got from these two classes. so, most of these students are U-S born, American students, um, and let's see three say that they might that they they will definitely work this is the Spanish sample seven say maybe only one says no for the Hindi, working language A is like three, three and seven more people say definitely no. um and living in a different country only one said yes. someone said maybe, (xx) </U>
+			<U WHO="S2"> did anyone mention travel? </U>
+			<U WHO="S1"> i didn't ask them about traveling i did ask them in the interviews how often do you go? you know um, the Hindi speakers that i spoke to in interviews i mean it's hard to know with that cuz then i i just picked whoever was willing to do an interview with me, um but they said uh, they, seemed to have gone more often actually than the Spanish speakers which surprised me cuz i thought well Puerto Rico is a lot closer and Mexico is a lot closer why not go there? (xx) the Indian <EVENT DESC="LAUGH"/> speakers, seemed to have a, closer, relationship one of them, goes like every two years and the other one's been several times and </U>
+			<U WHO="S2"> what about maintenance in order to keep relations with family members who live outside the U-S? </U>
+			<U WHO="S1"> who live outside the U-S? that was what a lot of people said in the interviews they said either their grandparents or whatever their relatives they wanted to be able to speak with them. but i didn't really, i mean i said you know do you speak, language A with your other rel- relatives but i didn't really handle that. (xx) </U>
+			<U WHO="S3"> i think we should begin to wrap up at this point and move on to the next one. otherwise we'll run out of time that's interesting (xx) did you want to, </U>
+			<U WHO="S4"> yeah well it's_ <U WHO="S3"> get a quickie in </U> yeah it's a real quick question um, <U WHO="S1"> okay </U> uh you know (i've had) a lot of, there were people saying that the- very few people obviously saying that they weren't interested, pretty much weren't interested, or that it's highly likely that they won't marry a speaker of you know <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> this language </OVERLAP> i was wondering when they were saying that they were talking about not wishing to marry someone who was dominant in Spanish or Hindi, <U WHO="S1"> yeah </U> or whatever that language was or somebody who was a bilingual. <U WHO="S1">
+					<OVERLAP> (let me just) (xx) really, briefly about that because </OVERLAP>
+				</U>
+				<OVERLAP> cuz i think those are two very different things </OVERLAP> somebody who grew up on this country </U>
+			<U WHO="S1"> right um, that was something that um, Holly asked about before here did you ask about it or maybe someone else did but sometimes when i wrote these things i said i don't really know if people think this means you know and that's kinda one of the weird things about doing a questionnaire lke this you know, but it's sort of for the feeling cuz i put no English, uh, i thought maybe that would clarify like that means they do not speak language A at all okay? so that means that it's somebody who's not bilingual, so i sort of hoped that that would clear that up but, (xx) i mean i also don't know what people think about what do i mean by personal you know i mean? <EVENT DESC="LAUGH"/> so i mean i guess people can imagine the other thing i put on here for the_ actually for the Spanish questionnaire is is cultural and what do people mean by cultural, (xx) </U>
+			<U WHO="S6"> the first question is this speaks language A only or speaks also English (like) being bilingual </U>
+			<U WHO="S1"> i see i didn't say that, i just thought_ i just imagined people would say does this person speak it at all, and, <OVERLAP> what_ to whatever degree. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> because i think, </OVERLAP> could make a difference, <OVERLAP> (if you) (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> if you say they're </OVERLAP> bilingual? </U>
+			<U WHO="S6"> if they only speak that one language and you need to communicate with them in that language. </U>
+			<U WHO="S1"> right </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S1"> (xx) so maybe (xx) to ask instead of that </U>
+			<U WHO="S3"> that's the second time that you say that's come up. so, <OVERLAP> (xx) make it more explicit. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) </OVERLAP> yeah make it like do you imagine yourself marrying somebody who's bilingual or only language A or... both or or, English or, i could make that two separate questions i guess </U>
+			<U WHO="S3"> we really need to move on <U WHO="S1"> okay </U> cuz (xx) run into the next i'm sorry Helen </U>
+			<U WHO="S1"> that's okay </U>
+			<U WHO="S3"> i know you were, </U>
+			<U WHO="S6"> my presentation i can, i can give it in a faster or short way depending on the time that is left <EVENT DESC="LAUGH"/> i mean it, because it's </U>
+			<U WHO="S3"> well i guess we have to, y- i i guess we'll have to make it twenty minutes. </U>
+			<U WHO="S6"> uh, doesn't matter to me <U WHO="S3"> is that okay? </U> (xx) i can make it twenty i can make it thirty i can make it fifteen. it's it's it's just the article. <U WHO="SU-f"> (xx) data </U> what? </U>
+			<U WHO="SU-f"> (xx) data </U>
+			<U WHO="SU-f"> (up or down?) <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> oh i do i do (have data) </U>
+			<U WHO="S3"> well do you want to resolve this by going first? is this_ would that help or what? what's the best way to do this? </U>
+			<U WHO="S6"> you can keep the time that you need and then i fill the rest, because i can change the style </U>
+			<U WHO="S5"> yeah that's fine, it's just that um, i'm not gonna go the whole time so that's fine. </U>
+			<U WHO="S3">
+				<OVERLAP> that's fine (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> it's fine because i can do it. </OVERLAP>
+			</U>
+			<U WHO="S3"> so you want an interactive, uh response </U>
+			<EVENT DUR=":06" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S3"> can we manage to open (door) just a little (xx) it's pretty stuffy or will it just be too noisy </U>
+			<U WHO="S7"> it's okay. can you open it up a little (xx) </U>
+			<U WHO="S3"> just just follow a couple of inches. so i (xx) can get some oxygen. <EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> i'm not gonna use the projector. </U>
+			<U WHO="S7"> okay </U>
+			<U WHO="S1"> sorry it's still (xx) </U>
+			<PAUSE DUR=":27"/>
+			<U WHO="S3"> do you need this uh thing? <U WHO="S5"> oh no i don't </U> raised? </U>
+			<U WHO="S5"> i actually need that yes i mean i would like to (just,) write on the blackboard. <U WHO="S3"> right </U> if possible </U>
+			<U WHO="S5"> it's so funny i have no problems in front of my students... <U WHO="S1">
+					<OVERLAP> just think of us as your students </OVERLAP>
+				</U>
+				<OVERLAP> (xx) in front of </OVERLAP> my colleagues. </U>
+			<U WHO="S3"> (xx) </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S5"> okay </U>
+			<U WHO="S3"> well this matters less less is at stake </U>
+			<U WHO="S5"> i'm sorry? </U>
+			<U WHO="S3"> less is at stake than teaching a class. </U>
+			<U WHO="S5"> oh yes. <EVENT WHO="SU-f" DESC="LAUGH"/> especially when (xx) an exam. okay i think i need to um sign this really quickly right? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> you can sign 'em after (xx) </U>
+			<U WHO="S5"> (okay i can sign it after) (i guess) (xx) <EVENT WHO="S5" DESC="WRITING ON BOARD NEXT 1:40"/> hm. okay that's, one thing here (and then there's) (xx) <EVENT WHO="S5" DESC="WRITING ON BOARD NEXT :41 "/> (the borderline for me,) Native American languages with Spanish (xx) </U>
+			<U WHO="S3"> areas where they're in contact you mean? </U>
+			<U WHO="S5"> yes </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S5"> and that would include um i'm (merely.) concentrated on bilingualism and other language contact phenomena. um, how should i start this um <PAUSE DUR=":05"/> let me just give you a little bit as to why i'm interested in this um, first thing um, let's see i um, did a lot of the course work at U-C-L-A on uh American Indian studies. so that's kind of one is my my specialties, um North American Indian studies. and um, i also_ my dissertation interest is in the Andean, um, Andean studies, and um one of the things I wanted to find out was um, what happens in borderland situations in terms of language and culture. and i felt that um, i really had not done a lot of research in this particular area. i was thinking about doing, my r- my my my um presentation on on Andean bilingualism but i said, i have a lot of time to do (that if i want,) so um what i'm concentrating on is um uh the Pueblo um cultures of the Southwest. and i'm including the Navajos um, separately because actually they're not from from the Southwest they actually came from the north. um and they've been around for like, um... thousands of years some people say um and it's extremely controversial uh in terms of that but they- they're they know themselves (xx) and others know them as not being from there. in terms of the Pueblos, they've been they've been there in terms of their archeological records since um, i would say fifteen hundred years. and um, they've been in (in,) and they and in terms of the contemp- contemporary geogr- geographic locations of these people, you would have to look at, um Arizona New Mexico, Utah, um, i would say what else is the Southwest? <U WHO="SU-f"> Colorado? </U> i'm sorry? </U>
+			<U WHO="SU-f"> Colorado? </U>
+			<U WHO="S5"> Colorado. yes but mainly uh Arizona and New Mexico. and um... these people have been in contact actually um, with, the Spaniards since the sixteenth century. and that happened because of Hernando DeSoto's um, conquest of Florida um, going you know um, under th- under the um, supervision and tutelage of uh the the Spanish <EVENT DESC="AUDIO DISTURBANCE"/> (xx) um after that you have, um when Mexico is reestablished, as a, colony of Spain, you have a lot of conquistadores going up north. so, they- that's when you actually have, the first, contacts of um Spanish speakers, with um, with Native American speakers. let's see... and you have the situation where, these conquistadores actually um get a lot of slaves from these_ from the- from these communities, and they actually, teach these people Spanish so they can serve as interpreters. so you have a whole line of families, involved in this, and from this um, y- um you have the spread of um, of, translators and also you have the spread of missionaries because, along the with the conquistadores came the missionaries. so, the medium, as is in the case of the Americas, the medium for, um proselytization is, um, Spanish. in terms of um, the s- the um the Jesuits and other um Spanish uh missionary people... you have um, you have the English speakers coming in in this century which is really interesting you have them coming in for mainly commerce with the Pueblos and also for expropriation of their lands so you have a whole, a whole historical struggle, of um, of um Pueblo, peoples and Navajos being transplanted, from dif- different parts of the Southwest kind of being transplanted from one neighborhood to the other and this happens, and by neighborhood i don't mean like you know small, localities but actually wide regions. um this happens actually, um, throughout this century um even now in the Seventies you still have conflicts over land. between um the Spanish speakers um the mainstream, um political authorities, Congress, and um Pueblos and Navajos. um, you also have a situation, where, because of all this, linguistic and cultural contact, um you have a lot of loss in terms of both peoples and languages. and the three major languages of this area are um, Navajo, Pima-Papago and Apache. which i was surprised because i wasn't_ i wa- i i didn't think that Apache was uh, actually, the d- the dominant language because i felt that_ i thought from the history that i know that Apache speakers were actually decimated. in um, in the late eighteen hundreds. where you still have um, mu- monolinguals and bilinguals especially. um for instance you have the U-S-A Bureau of Indian Affairs citing um um, a- an approximate number of speakers for each of these um languages you have about, a hundred thirty thousand Navajo speakers, you have, fifteen hundred, Pima-Papago speakers and you have nine thousand, Apache speakers. they really don't delineate exactly, who these speakers are you know in terms of the bilingual continuum. but um i guess y- you can imagine that a lot of them are bilinguals. um within the Navajo nation, which is a nation which is a which is amazing nation i think, it actually covers four states that's why it's called the four corners. right? s- and and that (happened) as a result of all this trans- transplantation. as a resort_ as as a as a result of them moving, as soon as you have, um, Anglo speakers and also other Native American communities you have Navajos being transplanted, both forcibly and also in terms of you know in terms of their own desire (xx) wanting that, those um, (dislocations.) um... and and when it and when it come to dealing with Native American languages and Native American speakers in the Southwest, one also has to deal with Chicanos because both of them, Native Americans Chicanos are actually what you consider territorial minorities. they're actually people who if you have to say who were there first. and within those two communities there's a lot of controversy as to who was there first. but we don't want to get into that. we just need to know that um, let me see <PAUSE DUR=":06"/> you have another situation going on is interesting. you have the situation of the Southwe- e- uh Southwest and Mexico. um, several researchers uh researchers including Jane Hill, have uh conducted studies in loan words. and they've found e- that um, you have, you have a considerable degree of um borrowing, um in some Native American languages, um, they've found Nahuatl borrowings. which come from, as early as, you know, i would say even before the conquest. and you still have those remnants which is really interesting, um... what's interesting about the Southwest too in terms of the populations there is that, you don- you don't only have bilingualism you also have trilingualism, which becomes much more, complex in terms of studying, um, those linguistic um, repertoires. um, you have situations where, um usually in terms, there's certain typologies of language contact in native North America but, n- in focusing s- the southwest, you have speakers, who, speakers who are um beyond thirty, usually are bilingual. in both, n- n- bilingual trilingual, um in their Native American language, um Spanish and English and you have speakers who are younger of course usually are much more English dominant. and in this situation you have a situation of um, um this phenomenon called, Indian English. which is uh which is very it's been categorized very similarly to Black English, or Puerto Rican English where you have um certain um phonological um intonational, s- semantic um, similarities from the, from the native language. um, you have this this scholar by the name of William (Leap.) who's actually spent_ he's actually um devoted his his life to um this type of um, of study, and he usually has done it um, he usually has looked at um... Navajos <OVERLAP> Navajos </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> this is </OVERLAP> specifically uh Navajo English <U WHO="S5">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> he's interested in </OVERLAP> or is it the whole uh repertoire </U>
+			<U WHO="S5"> the whole repertoire what's interesting about it he he he, that's a really good point, he does he does adm- um, he does state that, as there are different types of Englishes you also have different types of Indian English so you have Navajo Indian English you have Hopi Indian English you have Cherokee Indian English. so, one has to also get to know the native language in order to figure what are the similarities and whether they diverge. so i i would say the same thing with Spanish. you have Puerto Rican English and you probably have Colombian English. although, uh depending on the on the contact situation you could have, you could have dialect leveling in that sense too. um, the history about this Indian English is interesting because, by the turn of the century and this was like a, widespread um, um policy for Native Americans, by the turn of the century you have, you had in- um Indian children being forced out of their homes into boarding schools. so you actually have, um kids coming from different s- uh reservations, different places around native America, who actually had a had to deal with each other, and um, and understand each other so English became like a lingua franca. so within that you have that situation going on you also have, in the nineteen fifties the termination policy which actually, um, expelled a lot of the native peoples into the cities and that was another, governmental policy, where you have people also coming from different, um linguistic backgrounds different languages, um, coming together and using English as a lang- lingua franca. but then you have the situation where people become, dominant and people actually, just, using this Indian English. so um there's been some research there's research on that but still it's ongoing <U WHO="S3"> mhm </U> because it's still you still have, so many different languages you still, the typology's still not there but uh it's it's a a field that is very very um popular right now. <PAUSE DUR=":06"/> and what's interesting about it, i- in the situation is that (this i- this i didn't) find in the literature, if one has Indian English you want s- (you want suppose they have Indian Spanish) but that is not, that really has not been seen in the literature, i mean i think it's to do, you have a question yes </U>
+			<U WHO="S2"> do you get cases, where there're Native Americans who speak Spanish but not English? </U>
+			<U WHO="S5"> yes you do you actually have the older f- uh the older people, in certain par- in certain parts of the Southwest. there're some older uh generation Navajos that that are actually, bilingual only in Navajo and Spanish. (xx) depending on the closeness of the interaction with other Spanish speakers especially Mexican, speakers, you have the much more Spanish dominant. but within that you know you can still talk about Indian Spanish, just the same way you can talk about, you know, the Spanish that Indian Spanish that's influenced by Quechua or you know, other languages Native American languages. so that's that's interesting i guess it's because we are in an English dominant, society academic world so, i'm sure other p- i'm sure people are studying that too. um... let's see what else i can, tell you guys. there's there's been one, interesting study and it's it's finally, we probably will be very appreciative of it. has to do with um, with uh Susan Phillip's study in nineteen seventy-two, of this um war- Warm Springs um Indian um classroom, where she actually um, studies the interactio- the interactional dynamics of um Indian children. and how they use they use silence, how they use, how they use, uh the notion of uh of group solidarity, to actually both both um, create a solidarity and also separate themselves from others. so you have you that and i believe that she, um used a little bit of the (xx) approach but not, the way that we've been doing it much more (xx) and this is kind of like a a a very um, good field to get into because um, one of the one of the biggest biggest urgencies in terms of this research is educational educational um um, stuff. um we have in terms of Indian English you have, the same old thing about the literature by semil- semiling- lingual speakers, the same things is appro- is is attributed to um Indian English speakers. um, and you also have the whole situation not just linguistic and this is interesting too it's like not just, y- you, the the um, the person, specially the academic child is not just a a linguistic person in terms of um speaking. (actor.) but also you have the, the situation of gestures. how gestures are read. are read by the people, in authority and how gestures can vary, cross-culturally. </U>
+			<U WHO="S3"> well this is real ethnography of speaking <U WHO="S5">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> stuff </OVERLAP> that we've already looked at i think in this class </U>
+			<U WHO="S5"> exactly and <U WHO="S3"> s- </U> that that is something <OVERLAP> you know </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> it's (the Dell) </OVERLAP> Hymes line </U> mhm, s- and with a little bit of C-A stuff there. so, and that's actually the only research that actually has been done, i'm, i'm sure people have done more of this type of research in terms of uh um educational typology perhaps, but in terms of actually being a research that goes beyond the educational classroom, that actually piques the interest of other scholars this is, this is a classic one. and that's and that's going to, um... you have let me read you have some some sit- some um, some language attitudes from different people in... among the Pueblos. let's see if i have them here. </U>
+			<U WHO="S3"> you'll need to wind up very soon, (xx) <U WHO="S5"> mkay this will be my <OVERLAP> last thing </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> we'd a slight screw-up (xx) </U>
+			<U WHO="S5"> this is something that um... is very very interesting. and i hope i can find it. <PAUSE DUR=":04"/> maybe it's here <PAUSE DUR=":16"/> that's too bad i didn't bring that (xx) um if you guys have any questions, feel fr- feel free to ask, (as i look around...) mhm? </U>
+			<U WHO="S4"> actually i don't know if you got to this but i i wondered if there was any evidence like um, do you_ you've, you've talked to me a- and Jenny also as well about like, in spaces like in New York City where Spanish because there are so many different kinds of, so many different immigrant groups coming in or you know second third generation and they're all coming in with different kinds of Spanish, and then there's almost like a leveling. and there becomes one Spanish, that's used across. you know, and i <U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> wonder </OVERLAP> is that happening with Native American languages? i don't know if you </U>
+			<U WHO="S5"> in some places it is i would say in some urban se- sec- sectors, this happened because some, some urban, community places have a longer history than others. </U>
+			<EVENT DESC="AUDIO DISTURBANCE"/>
+			<U WHO="S4"> besides English </U>
+			<U WHO="S5"> besides English is (xx) and Spanish in some places but usually s- Spanish comes secondary to English yeah English is totally taking over the linguistic repertoires of (Black) communities </U>
+			<U WHO="S4"> okay but then there's there's no <EVENT DESC="AUDIO DISTURBANCE"/> seem like Apache and everybody speaks like a form of Apache and and it kind of kind of like, you might add it to your repertoire even though that might not be your first, you know language <U WHO="S5"> right </U> in terms of </U>
+			<U WHO="S5"> well i don't know i mean tha- that's, <EVENT DESC="LAUGH"/> empirical question again </U>
+			<U WHO="S4"> (xx) there's so little research </U>
+			<U WHO="S5"> yeah yes it's so little research actually, and i think it's i- it's just because of the complexity of the linguistic and cultural situation, um, one really_ okay this is one thing i would like to end with which i thought was (xx) really interesting there's this article by (Michael Silverstein.) um, and let me, tell you a little bit of this article, if i can find it here. okay this article is in um Journal of Linguistic Anthropology and he has an article Encountering Language and Language (of Encounter,) in North American ethnohistory. and one of the things he does says is that if you're gonna look at a language contact, phenomenon in native North America or the Americas when dealing with n- with uh Indian languages, um one really has to look at the histories because, there's so much history of transplantation of removal. so the people who you at this point think are, the, native speakers of that region might not be at all. and this could just be, fifty years, you know, down the line, doesn't have to be like hundreds of years down the line. and that's one of the things i think when you know that's one thing at times that we might forget to do to actually do our research and not that our research will will necessarily um um, give us a one-to-one correspondence in terms of, how language, is being either bor- borrowed or not borrowed or uh code-switched, but it will definitely make our_ the complexity much more realistic. </U>
+			<U WHO="S3"> thank you it's very very interesting </U>
+			<U WHO="SU-5"> thank you for (xx) </U>
+			<U WHO="S3"> thanks very much (xx) <EVENT DESC="AUDIO DISTURBANCE"/> okay so just just take your time. </U>
+			<U WHO="S6"> okay, what i'm... what i'm doing today presenting today, it's n- nothing, more or less than the article that we had from this book that we talked about in class we started to talk about in class, and, we_ i promised to finish. and the title is Code-Switching in Bilingual First Language Acquisition. and i'm going to be following your handout so you_ if you get lost or something just stop me. </U>
+			<U WHO="S3"> would you like people to ask questions as you go through it? </U>
+			<U WHO="S6"> please do </U>
+			<U WHO="S3"> okay mhm, this is an important article so take advantage of her superior, knowledge (xx) in your syntax class </U>
+			<U WHO="S6">
+				<EVENT DESC="LAUGH"/> well, i tried to, to concentrate maybe more in the parts that we'd been doing in class and less in the syntax, <U WHO="S3"> mhm </U> but let's see if we, we_ we can, make it together. okay, first thing to start with is talking about the, terminology, because when we talk about bilingual first language acquisition, uh Koeppe and Meisel, these authors that are by the way German working at the University of Hamburg, they refer to children as opposed to, an acquiring two, or more languages simultaneously before age three and this is very important because, we've seen the differences before. so (there's) simultaneously, both languages at the same time, before the age three. and these children could have lived in one or the other country, by th- until the a- age three comes. um, what they talk about is bilingual code-switching, which is governed by grammatical and pragmatic constraints which means that code-switchers, are required to have pragmatic and grammatic, and grammatic competence, grammatical competence in both languages. um, but what happens with infants is that sometimes bilingual children use both languages, in the same utterance or a conversation, and they violate syntactic or grammatic constraints of code-switching, this is what they call code-mixing. and, it can be accounted, for by the failure in separating the two linguistic systems, that's what is called fusion, due either to the lack of lang- of knowledge of syntactic and pras- pragmatic constraints, or also could be to the lack of, the necessary elements to which the constraints applies, or maybe both. so there's, one thing they're gonna have a look into. um, important point is to determine from what age children organize language by grammatical means. and also, um the distinction between different categories of words and having these two elements, um, counting for their, study, helps them to distinguish code-mixing code-mixing from code-switching, in early child language. so it depends really, on, from what age onward children organize language and when are they really, using their syntactic knowledge or not so that's that's really important for this distinction between code-switching and code-mixing. and what Koeppe and Meisel do is um, comprehensive literature review about code-switching acquisition, and they, they say that these studies are mainly referred to longitudinal studies on bilingual language acquisition which typically, concern a linguistic environment, where each person speaks one language. so in all these situations so one parent one language, or child_ children speaking one language in the home and then one language outside of the home, they said that most studies, they referred to this. which is true i've seen that here in class. um, they divide their, their studies in two, um main (tracks) like we've seen before one is the pragmatic functions of code-switching and the other one is the syntactic aspects of language mixing. and, starting with the pragmatic functions we've seen two, two types in class do you remember which one they were? do you_ can you, just more or less a rough idea wha- which two aspects big aspects talking about the pragmatic functions of code-switching that we've seen in class? </U>
+			<U WHO="S1"> to change the situation, somehow, to indicate change of situation or in, context <U WHO="S6"> mhm <OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> formal informal </U>
+			<U WHO="S6"> exactly one was situational switching, and remember the other one? one was a situation and the wu- other was one, was the </U>
+			<U WHO="S4"> topic? topic? </U>
+			<U WHO="S6"> the topic situation and the other one was the speaker. mhm you know Gumperz and <OVERLAP> everything we've (been through) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> (xx) analysis </OVERLAP>
+			</U>
+			<U WHO="S6"> okay, well, really this_ about situational switching, language choice is, the ability to select the appropriate language, as base language for the conversation, according to the interlocutor, which is uh (oh) the topic, of the conversation, or the situational context. and from around age of two, the child switches ad- adequately languages according to the interlocutor. most children raised bilingual in a monolingual environment could experience <EVENT DESC="AUDIO DISTURBANCE"/> that's why, it calls their attention of Koeppe and Meisel. that means this language factor that means that the fact that most people talk in these children, um, most people who talk to them only understand one of the languages, um, these children start to develop a a certain awareness like, i'm talking, to this person and this person doesn't understand me, so it means, they talk something else but i understand them maybe i talk two things. i mean this is like, the way ch- children could think. and this, to that they become more aware that there's a language separation that there's two languages going on. this factor interlocutor becomes complex especially with bilingual interlocutors because children need to decide, which language, they're going to speak with this person and, which language do they prefer or they_ if they prefer to use both codes at the same time. um, the other function of code-switching we talked about is, um... the_ apart from situational switching we have also conversational switching. which is the other, main um type of, of switching, and in case of bilingual hearers, only, code-switching may be used to convey specific social or pragmatic information, such as metalinguistic awareness. metalinguistic_ sorry excuse me metalinguistic comments that refle- flect their awareness. this is called like i said conversational switching, in contrast to, language choice as situational switching. do you remember all those cases in which, in the middle of a conversation, people will switch from one language to the other we've seen it, (a lot of them?) </U>
+			<U WHO="S3"> we also had it modeled according to Auer's definition <U WHO="S6">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> if you </OVERLAP> recall between participant uh oriented switching, <U WHO="S6"> mhm </U> and discourse <U WHO="S4">
+					<OVERLAP> discourse oriented might </OVERLAP>
+				</U>
+				<U WHO="S6">
+					<OVERLAP> oriented </OVERLAP>
+				</U>
+				<OVERLAP> oriented </OVERLAP> you know these, <U WHO="S6"> mhm </U> and tha- that's the most recent version of that <U WHO="S6">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> binary </OVERLAP> category you're talking about </U>
+			<U WHO="S6"> mhm, which is is basically the same, with a different terminology, yeah this this binary, category. well what is being reported is that from age two onwards children begin to repeat their own utterances, in both languages in order to call for instance the parents' attention, or to ensure that they're being understood. from the age three onwards they start to comment on their own language and to ask for translations, and this is really a sign of separation of languages. and from age four onwards some children are reported to use marked language choice, as a means of amusing the hearer or incl- exclude a third person from the conversation <U WHO="S3"> mhm </U> we've seen this as well, before <U WHO="S3"> mhm </U> and we'll see some examples for that. um, with respect to the syntactic aspects of language mi- mixing, uh Koeppe and Meisel they gathered the, the literature, about, the studies that they, they're concerned with language mixing and language separation, the problem is, most of the studies find out that the mixings are very low, we've seen this in class as well. this is m- mainly repetition of many things that we've seen so far it's a bit of, um, sum- summarizing. what is necessary is to relate mixing rates to polititive aspects, of language for instance which categories are mixed, the structure of condition for switching how developed is the child, is the child's grammatical competence etcetera. and also to pragmatic functional considerations, are these mixes conscious? do they respect social rules of language use? is the addressee bilingual...? the distinction between different categories of word mix, helps to distinguish code-mixing from code-switching in early child language so we need to distinguish which categories have been mixed, to start with, and empirical studies have shown that in early stages children mix function words, what are function words? do you all know? can somebody explain that? </U>
+			<U WHO="S4"> they're content words (xx) nouns </U>
+			<U WHO="S6"> mhm mhm well yeah, all categories except nouns, adjectives and verbs. which means they're, they're more like function words, tha- words the words that have a function but not really a content (xx) they're not in the dictionary. </U>
+			<U WHO="S5"> (xx) differ from content <U WHO="S6"> mhm </U> versus function </U>
+			<U WHO="S6"> content versus function or lexical words versus functional words f- in the fourth page you have here, uh the distinction, in the f- last column, of the mixing, tables, there's single words mixed German and French and they distinguish between function words and lexical words. and the percentages that we're gonna talk about later. okay, um, was an author called Wieman who talk about, these function words being mixed in early um, stages of of children bilingualism, the problem is this is very, um, problematic, for the terminology and also, because there are many contradictory studies about this, so people keep um, finding, contradictions and, Koeppe and Meisel said this is what has been found so far but they found, they found, pretty much the same tendency, but some studies like for instance Lanza's study Elizabeth Lanza who was, um, published the last review in ninety-seven, she found contradictory findings about this it's not exactly, um, that children start with function words but that's a tendency, so far, it's been observed, and later on, nouns are predominant, it's been found that seventy-five percent, of the switch words are nouns in both, adults and children. now this coincides as well with borrowings most borrowings are also nouns. </U>
+			<U WHO="S3"> did we ever discuss why nouns seem so, you know there are id- people have ideas about why nouns, uh are so liable to be shifted about okay? Mary you're nodding do you know why? </U>
+			<U WHO="S7"> um, one of the things i read was that there were more nouns, <U WHO="S3">
+					<OVERLAP> even </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP>
+				<U WHO="S3"> even <OVERLAP> just </OVERLAP>
+				</U>
+				<OVERLAP> in the </OVERLAP> corpus for example i think Poplack <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> mentioned, nouns are switched more (xx) oh okay </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> even allowing for that though i think there's more </OVERLAP> more nouns are transferred <U WHO="S7">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> than in </OVERLAP> the language as a whole <U WHO="S7">
+					<OVERLAP> yeah it's not </OVERLAP>
+				</U>
+				<OVERLAP> there're </OVERLAP> there are syntactic re- well. i mean basically the argument is they don't drag a lot of syntax around with them <EVENT DESC="LAUGH" WHO="SS"/> you know if you have a verb for example some verbs are transitive some intransitive, <U WHO="S4"> mhm </U>
+				<U WHO="S1"> yeah </U> if you take a verb like um, eat, eat, need not take an object but if you take a verb like devour, you can't say John devoured you've gotta say John devoured something, and so if you transfer that item to another language you have to know, uh this a- you have to have this abstract knowledge, about how to use it, and that's uh that's it's, well, i call it subcategorization you might have another way of putting it </U>
+			<U WHO="S6"> subcategorization <EVENT DESC="LAUGH"/>
+				<U WHO="S3"> okay </U> exactly </U>
+			<U WHO="S3"> but you see nouns don't do this, nouns are relatively easy to move about they just don't drag the syntactic complexity, it's to do with the verb being the head of the sentence effectively really isn't it? <U WHO="S6"> mhm </U> just having this central role, in the organization of the clause? </U>
+			<U WHO="S1"> (well) </U>
+			<U WHO="S5"> and that would be cross languages? </U>
+			<U WHO="S3"> apparently yes. uh s- i ha- Twaila Tardiff was giving a paper in Chinese and suggesting it didn't happen with Chinese, but i'd've liked to look at her <U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> methodology </OVERLAP> because Chinese um, has strange rules for anaphora <U WHO="S5"> mhm </U> you know you can actually cut all kinds of things out of, Chinese utterances and connected speech but it's it's a pretty solid finding, it's coming up again and again. </U>
+			<U WHO="S5"> maybe something about Chinese also </U>
+			<U WHO="S3"> yeah, well, it's just that we we know very well, that people don't like violating syntactic rules of languages whether you mix and it's quite easy, not to do this with ba- with nouns but if you m- move verbs about and some other things like prepositions <U WHO="S5"> right </U> it's much harder </U>
+			<U WHO="S6"> mhm, it's true. um, that's, i'm gonna retake up the idea in a minute, um generative grammar tried to explain formal regularities in code-switching by means of universal principles. that's really Chomskyan studies, try to find universal, principles under, linguistics under every language, although there are contradicti- contradictory findings it is agreed that mixing seems not to occur between constituents that are contained, in the INFL phrase. um, i don't know if you know what the INFL phrase is. inflection? um it's for instance um well, in a verb, we have inflections m- the ending of the verbs, in Spanish for instance the verb <FOREIGN> hablo </FOREIGN>
+				<EVENT DESC="WRITING ON BOARD"/> i speak, we have, um, this O, tells us that it's first person singular, um, and tells us as well, that's it's a present tense, that's inflection, in the verb. so y- wou- wouldn't find things of the type <EVENT DESC="WRITING ON BOARD"/> i don't <FOREIGN> hablo </FOREIGN> you wouldn't find these kind of mixings because, in the INFL, f- phrase, and also, like things like <FOREIGN> no quiero </FOREIGN>
+				<EVENT DESC="WRITING ON BOARD"/> to talk, we wouldn't find this at all as well, um because it's between um for instance nega- uh, yeah, a <SIC> finis </SIC> a non-finite verb, you wouldn't find this <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> mixture, </OVERLAP> you wouldn't find it between a subject clitic, and a fin- and, and a finite verb, i wouldn't find_ i don't <FOREIGN> hab- </FOREIGN> oh sorry i <FOREIGN> hablo </FOREIGN>
+				<EVENT DESC="WRITING ON BOARD"/> and also between, when, a negation and a finite verb, you wouldn't, either find this switch </U>
+			<U WHO="S4"> i've seen that third one <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> i <FOREIGN> hablo? </FOREIGN>
+			</U>
+			<U WHO="S4"> seen it and heard it many times and done it myself. </U>
+			<U WHO="S3"> this is the whole problem with this, <U WHO="SU-6"> exactly </U> i was just waiting for (xx) <EVENT DESC="LAUGH" WHO="SS"/>
+			</U>
+			<U WHO="S5"> the first the first one's kind of like, the first one's kind of like mock Spanish, to me </U>
+			<U WHO="S6"> yeah i don't <U WHO="S1"> (xx) </U>
+				<FOREIGN> hablo </FOREIGN>
+				<U WHO="S5"> yeah </U>
+				<FOREIGN> espanol </FOREIGN>
+				<EVENT DESC="LAUGH"/> something like that </U>
+			<U WHO="S1">
+				<OVERLAP> alright i don't know </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> it's true </OVERLAP> , it sounds like mock Spanish, well what they found is in the data they_ these shouldn't appear these, words, m- judge as speakers as non- not, nongrammatical. </U>
+			<U WHO="SS"> mhm </U>
+			<U WHO="S6">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> judgments </OVERLAP> are one thing what they actually do are another as you know <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> exactly. i recently gave a presentation like i said about this topic, and it was also (auto) code-switching, and all the authors, they were based on data, and, judgment, and they got always contradictory, findings, from one or the other, and they, they weren't sure they just guessed, distribute this way and, there're too many contradictions </U>
+			<U WHO="S3"> i think there's no pro- you see we did discuss this whole sort of whether these constraints were variable or categorical <U WHO="SS"> mhm </U> if you accept there's a tendency, <U WHO="SS"> mm yeah right </U> to (avoid) that i think you're not in trouble, <U WHO="S6"> mhm </U> but if you try to say it's categorical <U WHO="SU-6"> (xx) yeah </U> then you probably are </U>
+			<U WHO="S5"> i think it's true when you mentioned that in that meeting with um with um, the woman who does the language contact stuff? </U>
+			<U WHO="S3"> ah Sally Thomason </U>
+			<U WHO="S5"> yes </U>
+			<U WHO="S3"> yes </U>
+			<U WHO="S5"> it was very good that you said that because i think, she also accepted it i mean most people would accept that because that would be common sense to actually say that, instead of saying that it's categorical because then you have <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> well as you know </OVERLAP> theoretical linguistics tends to work categorically <U WHO="S5"> yeah </U> it doesn't like operating <U WHO="S5">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> varia- </OVERLAP> you know with these <OVERLAP> variable constraints </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> (it doesn't like) </OVERLAP> sociolinguistic tendencies <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> mm well, w- what we have said about the INFL phrase so inflection is, what i- it's what they call functional head, and specially the f- well this functional category inflection, is what it seems to constrain code-switching. </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S6"> and l- we said, uh noun phrases nouns they don't present any any constraints they are freely moved. um, research concerned with acquisition of code-switching, and syntactic constraint has to consider, for children the gene- general development of syntax in both languages that's really <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> important... </OVERLAP> um, <EVENT DESC="REFERENCING HANDOUT"/> the study that Koeppe and Meisel carried out is called a <FOREIGN> DUFDE </FOREIGN> study i guess <FOREIGN> DUFDE </FOREIGN> because it's German <EVENT DESC="LAUGH"/> um le- it's a longitudinal study of simultaneous acquisition of German and French by, thirteen pre-school children. they ve- videotaped the children, every two weeks for (thirty) minutes in each language, and then they transcribed both linguistic and non-linguistic interaction, with their context. and i think that's very interesting because most people do just, audiotaping, and they just get the speech but they also did the interactions, the non-linguistic interactions, in the context to, really to catch, the situation especially for, um, conversational switching was important. the results presented concern pragmatic and syntactic aspects of the of the (mixed) speech of two children, Annika and Ivar, both first born growing up in middle class families in Hamburg, both mothers are French and both fathers German, and each parents uses her or his respective language to talk to the child. Annika's parents, talk to each other in German where, Ivar's parents talk in French. French is initially the dominant input language for both children because of their mothers, but after age two, two w- two six two six means two years and six months, um Annika's German was stronger, whereas for Ivar both languages were always in balance, and that was due t- can you imagine, what was due to? what was depending on that one had German very strong and the other one both in balance? </U>
+			<U WHO="S1"> (was it) in the homes, which one was spoken in the home i can't remember now </U>
+			<U WHO="S6"> mhm Annika <U WHO="S1"> which one? </U> Annika was speaking German in the home </U>
+			<U WHO="S1"> German in the home <U WHO="S6"> mhm mhm </U> okay </U>
+			<U WHO="S6"> yeah so because of the social interactions travelling to, travelling to, to France and coming back and visiting friends, uh one developed higher, stronger German and the other one was more balanced. and during the recordings the interviewers were supposed to keep the languages separated, it's all this issue with, yes? </U>
+			<U WHO="S2"> do they mention anything about the development of their accent, mm at all? <U WHO="S3"> mm </U> i guess they're young enough so <U WHO="S6"> yeah </U> it wouldn't make any difference never mind </U>
+			<U WHO="S6"> mhm no they didn't say <OVERLAP> anything </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> actually </OVERLAP> there was question on the list on the on this dreadful lingui- uh bilingual list on <EVENT DESC="LAUGH" WHO="SS"/> email that we're all getting it's seventy messages a day (xx) somebody was pointing out there was a paucity of studies of phonology, of bilingual children i think hardly <U WHO="S5">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> anything </OVERLAP> is known about it </U>
+			<U WHO="S6"> mhm it's true </U>
+			<U WHO="S5"> i saw that, and it did say that. </U>
+			<U WHO="S3"> uh, i can't think of a single one actually </U>
+			<U WHO="S6"> what is, is amazing is children have such capacity of reproducing sounds even though they don't know what they're saying, i think </U>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="S1"> the only thing i was gonna say is all those students that i talked to in interviews i asked them like, they've often said like um, they_ like the Hindi speakers they said like my Hindi is horrible but i can say all the words exactly right <U WHO="S3"> right </U> (xx) have a good accent. and the same thing as the Spanish speakers they said well i have a really good accent, cuz they would always take Spanish in high school, and they they'd all talk about how they weren't that good but, they could get by cuz of the accent and stuff like that so it seemed like even though their Spanish their language wasn't that good the phonology was there </U>
+			<U WHO="S5"> well it seems yeah </U>
+			<U WHO="S3"> sorry, go on </U>
+			<U WHO="S5"> oh okay i was gonna say that um, i asked when i was taking phonetics i asked Pam Beddor, <U WHO="S3"> mhm </U> about, if she knew of anyb- uh research in bilingualism and phonology and she said that <OVERLAP> there's really it's, yes </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> no i think there's, there's very little, </OVERLAP> but that's a good point you raise because it's very salient to speakers um i (xx) a very similar experience i used to speak German reasonably fluently but it, went away because of lack of practice over about twenty years, then i went to Austria, and i was in um the Tyrol where they speak a very very stigmatized dialect very non-standard, and i, staggered a few sentences together in German, and the chambermaid said <FOREIGN> ah klassisches Deutsch </FOREIGN>
+				<EVENT DESC="LAUGH" WHO="SS"/> wonderful German, and that was my accent i'd been taught to speak standard German. and, they were ashamed of their, accent and she was prepared to ignore, the awful things i was doing to the syntax. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> just like, you know a bit similar i think to your Hindi speakers, but it's a it's a very very interesting, area i don't think anyone's looked at it. so, more research ideas. </U>
+			<U WHO="S4"> actually i had a had a question you're saying you know Annika's German is stronger and then for Ivan, there was more of a balance and, i don't know maybe you're gonna get to it later but i'm always curious how they measure, like how are they measuring what's <OVERLAP> balanced and (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> oh that's that's </OVERLAP> really the, the um, la- the last table in the last <U WHO="S4">
+					<OVERLAP> okay well </OVERLAP>
+				</U>
+				<OVERLAP> page </OVERLAP>
+				<U WHO="S4"> i guess </U> because they they mention their utterances, <U WHO="S4"> uhuh </U> um, they don't really explain it that much, how they measure, but uh because it's just an article i think you should need to, you need a more, a better <U WHO="S4">
+					<OVERLAP> more thorough </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> thorough help. and i think they made sure in the total of utterances when they recorded, <U WHO="S3"> right </U> one of the other, they measured, and also error i (xx) suppose </U>
+			<U WHO="S3"> yeah predominance they do explain i think what they mean it's okay to use terms like balanced if you say you mean by it <EVENT DESC="LAUGH"/>
+				<U WHO="S4"> yeah yeah yeah <OVERLAP> just curious how they </OVERLAP>
+				</U>
+				<OVERLAP> and i think they do say </OVERLAP> basically that they use, the languages more equally, just in terms of quantity, <U WHO="S4">
+					<OVERLAP> oh okay so they do mean (xx) </OVERLAP>
+				</U>
+				<OVERLAP> i think it's that more than </OVERLAP> error in fact </U>
+			<U WHO="S6"> mhm </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="S6"> okay... we continue, um <PAUSE DUR=":04"/> it is important to separate both languages, for one reason because um, the communication will be determined by the automonolingual, that means that, code-switching is expected to occur less often in a situation that is pure monolingual, than in a bilingual situation, but it's interesting because the use of two codes will be motivated by situational, uh, factors like language choice according to the interlocutor. so if you have a monolingual pure monolingual context, and mi- mixes occur as well, it will be interesting to see why th- why do these mixes occur there, uh as o- opposed to if you have a bilingual situation when you have speakers of both languages, it would be more logical that children mix because they're talking they're code-switching they're talking to both, um speakers but if just now pure monolingual, and they mix this is, this is really, um a chance to observe the motivations, and the external factors that children may have to mix these languages in this situation that should be monolingual. the empirical results of the study, um, they said that's at an early_ starting with the pragmatic functions at an early stage of development if the child's utterances do not correspond to the regularities, um in use, in its linguistic requirements, we may conclude that the child has not acquired those rules, but this may not be true, because it could also be that the child has developed his own rules, and, of language choice and then they don't cor- coincide with the ones of his environment. so this is the two possibilities they're playing with. in, in the data both children they select the appropriate language with each interlocutor from age one four, for, um Annika and one five for, for Ivar onwards. and the first code-switching appear when the children were addressed by another person and answered to the respective language, we have here in, on the third page you have in the handout, you have an example, (i'm gonna try) with my French, <FOREIGN>
+					<SEG TYPE="READING"> et comment est-ce qu'il va partir a Paris </SEG>
+				</FOREIGN> um says the French, um, interviewer <FOREIGN> avec le avec le </FOREIGN> and then, and Ivar directs himself to the German interviewer and said <FOREIGN>
+					<SEG TYPE="READING"> will weggehen, </SEG>
+				</FOREIGN> i mean so he's switching, uh languages according to the interlocutor. um, su- switches occur fr- like we can see here from, two ele- he is at two eleven but it start to occur from two five, onwards and even two years old, sharp for Annika. <U WHO="S3"> mhm </U> um, </U>
+			<U WHO="S3"> it's amazing actually </U>
+			<U WHO="S6"> mhm it's <OVERLAP> amaz- </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> a lot of </OVERLAP> people claim that bilingual children have much better developed metalinguistic awareness than monolinguals <U WHO="S6"> mhm </U> (this) kind of <U WHO="SU-f"> mhm </U> rings a bell </U>
+			<U WHO="S6"> also self-initiated switches are really interesting is when the child addresses someone without being asked, and started to appear from age two point, two eight, for Ivar and two, for Annika Annika seems to be pretty, uh advanced for some things but we'll see later, that, there's some contradictions in her as well, and there's an example here, example number two when I- Ivar interacts with both interviewers switching between languages and translating wi- and also few errors occurred. uh s- the German interviewer says <EVENT DESC="READING FROM HANDOUT; ALTERNATING SPEAKERS"/>
+				<FOREIGN> frag sie doch mal "was isst du denn gern?" eh brot du pain, de pain hein quoi? nee non de pain comme manger. </FOREIGN> he corrects himself he says no no no, no, uh bread no no e- what i mean is like, what you ea- to eat, so he corrects himself, so he's aware, of the switch in languages of the the person he's talking to... and they're self-initiated switches he, um, it came from from himself. there's an example number three with Annika when she corrects her errors and adopts different strategies to avoid errors, or when she uses the incorrect language. um, the German, mm interviewer says <EVENT DESC="READING FROM HANDOUT"/>
+				<FOREIGN> Annika hat uns gerade erzahlt das sie selber der osterhase ist, </FOREIGN> and, the m- the mother says <FOREIGN> c'est quoi? </FOREIGN> and Annika says to <FOREIGN> parce que </FOREIGN> eh and then, she, hesitates and, turns to the German interviewer and says <FOREIGN> wir machen die eier. </FOREIGN> so she, um, she realized and and corrected herself. um, from age four, four onwards, Ivar uses marked language choice this is something more elaborated, e- in order to exclude a person from the conversation, and this situation is um, she was, talking to his mother in German, and switches back, to French, u- to sw- to let the French assistant know he doesn't care that she underst- if she understands what he's saying, in German. which is really curious because, we know that Ivar talks in, French <U WHO="S3">
+					<OVERLAP> ahah </OVERLAP>
+				</U>
+				<OVERLAP> to his </OVERLAP> mother, so he run- he really wants to enx- exclude this person as he's using German consciously. <EVENT DESC="READING FROM HANDOUT"/>
+				<FOREIGN> boese kleine maennchen und dann sie m- ham sie aber bestimmt angst. non je ne comprends pas, oui mais ca c'est de l'allemand dis donc, elle comprend pas Marie Claude tu sais oh ca fais rien </FOREIGN>
+				<EVENT DESC="LAUGH"/> it's it's just really rude saying that i don't, i don't care really, <EVENT DESC="LAUGH"/> so he's being rude on purpose but, he is als- al- he is already four years four and four months (xx) he's older, now he he, he went over those three years of first, hesitations as some of us call them, and now he knows exactly what he's saying and his choice is exact for the situation. um, talking about the syntactic constraints in code-switching, um it was observed a high mixing rate, from the beginning of the records, onwards, which at the ages of, two five and two zero for for Annika, in- decreased. uh with respect to the frequency of specific syntactic categories like we said nouns and noun phrases are mixed throughout the whole period of the investigation but function words decreased, constantly from age two fou- two five and two, respectively, which this coincide with st- previous studies, and concerning, the sentential position of switches, um after two four most mixes concerned sentences with a mix of elements and can occur between all kinds of constituents, as we see in example five, <FOREIGN> das bateau, </FOREIGN> is_ <EVENT DESC="LAUGH"/> we have it between the, uh the determiner and the noun, <FOREIGN> nounours sand </FOREIGN> we have two nouns and <FOREIGN> tombe berg </FOREIGN> we have a verb and a noun... and, this preference cannot be accounted for in terms of syntactic constraints, um, because, well we h- they assume that they don't have syntactic constraints at this age yet. because they_ the category, INFL hasn't appeared yet. </U>
+			<U WHO="S3">
+				<OVERLAP> right </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> from age </OVERLAP> two five onwards, violations of Poplack's free morpheme constraint, were of_ not observing Ivar's speech. um, i don't know if, you remember, um, Poplack's free morpheme constraint i can remind you if you want to, it says that no switching can occur between a bound morpheme and a lexical form, unless that phonological form is, phonologically integrated in tha- into the language, mm to the bound morpheme, for instance you remember, we have an example it was <FOREIGN> catche- catcheando </FOREIGN>
+				<EVENT DESC="WRITING ON BOARD"/> (xx) from like catching and, the <FOREIGN> ando </FOREIGN> is the, the continuous gerund form in Spanish <U WHO="S4"> mhm </U> you you have like <EVENT DESC="WRITING ON BOARD"/>
+				<FOREIGN> flippeando... </FOREIGN> like flipping <FOREIGN> flippeando </FOREIGN> that's okay because it's integrated, but you can't have <FOREIGN> catcheando </FOREIGN>
+				<U WHO="SU-f"> mkay, </U> although, we've s- <EVENT DESC="LAUGH" WHO="SS"/> heard them before right? yeah that was my argument too my other presentation i said, this is what Poplack, Poplack says, this is what i have heard, i'm wha- this is what i've heard, from speakers. so it's, again... one thing is reality and the other thing is what, depending on the data you get, um, an example example six reflects these violations of constraints in Annika actually. um... because um, well she has a few contradictions with respect to, to Ivar. and, is, it says <FOREIGN> nounours </FOREIGN> oh, excuse me, no no, yes f- no this this is, this is in Ivar's but it's it's earlier and later on he does it from two five he doesn't do it anymore, this is what he used to do it <FOREIGN> nounours il a reite </FOREIGN> and <FOREIGN> deddy resucht </FOREIGN> so it's it's a mixture between, French and and German, like <FOREIGN> reite </FOREIGN> is from <FOREIGN> reiten </FOREIGN> in German, but with the ending of French. <U WHO="S3"> right </U> mhm, and <FOREIGN> reis- sucht sucht </FOREIGN> is German for, for seek for look for, and this <FOREIGN> re </FOREIGN> is the French, uh, (part,) um... after the age of two five again with Ivar, um, Ivar's (xx) (missing) was reduced to insertion of single nouns or switching between determiners and nouns, in the object noun phrase. we have that, we can see that in example seven, <FOREIGN> moi je va a la kuche, </FOREIGN> so it's uh, just the word <FOREIGN> kuche </FOREIGN> kitchen inserted there, uh, and like i said before Annika's data is con- contradicting Ivar's data she uses the switch within sentences with omitted elements at a later er- age. when she was already four years old like we can see in example eight she's saying <FOREIGN> il a gewonnen </FOREIGN> and also <FOREIGN> ca c'est Daniels </FOREIGN> we talked about this in class she's, given the word_ what do we call uh, gen- what the genitive in German she's attaching that to a French in a French sentence. and i've s- observed that in Spanish speakers s- Spanish English bilinguals they do that, i've -served that at age of two two. and, at the age of three seven it's supposed to be, eradicated but, Annika said it. <EVENT DESC="LAUGH" WHO="SS"/> so... Koeppe and Meisel attributed that probably to performant errors because this type of data was infrequent they said. <EVENT DESC="LAUGH" WHO="SS"/> the problems they said well if our theory, is consistent, then it's impossible that at this age she has not acquired syntactic regularities that means it must be performant errors and then we wash our hands and save ourselves </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> well a lot of people think that code-mixing is a performance phenomenon, <U WHO="S6"> mhm </U> you know i- i don't know if you've discussed this with San, <U WHO="S6"> um </U> or with <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> anybody, </OVERLAP> but, uh this is the huge problem and this is why, if you use variable constraints in fact it at least accounts for the data but it still, doesn't tell you what's happening underlyingly. </U>
+			<U WHO="S6"> mhm. yeah that's the most difficult thing <U WHO="S3"> mhm </U> to see, um, well continuing, almost finished, um on the basis of quan- qualitative and quantitative changes it seems to be two stages of syntactical development in children according to all this data and, um, and one will be characterized by the absence of the functional category infi- INFL the infla- inflection, which doesn't appear to be syntactically, constrained the the utterances that that means this co- code-mixing we talked about, and around the age of two and half, children stop mixing function words and rarely violate syntactic constraints on code-switching of the type Poplack, uh presented and this coincides with the emergence of the functional category INFL. which seems to account for qualitative ch- changes in the child's speech by the transition from mixing function words to lexical categories nouns and the ability to respect grammatical constraints in code-switching. in Annika's data, from age two six onwards most of her mix- mixes seems to concern single nouns inserted and the switch, um, at the switch point dertermina- determiner noun like the ones we've seen, before. and if we see this um, um, tables, we can see the tendency the the utterances in German what he says, um, total mix_ we can say we can go for the percentages maybe it's the easiest percentages of mix for German utterances and for French utterances, we can see that, there, tend to disappear towards age three, and we compare, mm Ivar and Annika Annika is, two eleven she's practically also three. and if we take the very last two columns in both um, tables, we can see the function and lexical percentages <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> for the </OVERLAP> switches, and they're, they're going, the functional they're disappearing, whereas the lexical are present. there so hundred percent, from age, three five, approximately for one child and, yeah two six for the other, there's a clear separation. and we can see that all switches are lexical and function switc- functional, switches functional word switches are are gone. which this uh, corroborates, with the first assumption and other, other authors' um hypothesis too. uh the conclusion, is that changes in formal properties of the mixed speech of bilingual children are related to grammatical developments. <U WHO="SU-f"> mhm </U> the the completion. the appearance of the functional category INFL again accounts for changes in code-switching. the development of pragmatic function however the the the doesn't seem to observe grammatical constraints, they're separate things after all, although they're inter-related, but we're talking about different things, pragmatic (aspects of) code-switching are influenced by several factors of language use in the family the parents expectations, about language choice and also the reactions to code-switching. um, which may contribute to the separation of languages and the development of specific strategies to help (avoiding) mixing like with Annika, (xx) points for further investigation, uh will be, to have a look at the causes of early mixing, are they pragmatic motivations for mixing of function words or does this kind of mixing indicate fusion of both language systems, this eternal conflict between, are they two separate systems from the beginning or only one? and i think this is still under debate. and also correlations between grammatical developments and formal aspects of language mixing, are they really universal? and that's why, Koeppe and Meisel suggest that, it would be interesting to analyze the the speech of more children acquiring different languages with respect to these questions. and that's where, this study i've talked about before Elizabeth Lanza, she she does thi- this kind of study with Norwegian and English, and she said that it doesn't hold out this, k- this Koeppe and Meisel what, they, they found out it doesn't hold up, their in her, uh informants, there're changes there're different, um, well results, with respect to this analysis. and, she found out that that her informants mixed function words until the age of two seven. so it's a lot later than than (xx) </U>
+			<U WHO="S3"> well they did actually stop doing it? </U>
+			<U WHO="S6"> pardon? </U>
+			<U WHO="S3"> they did eventually stop doing it? </U>
+			<U WHO="S6"> um, nn, not really </U>
+			<U WHO="S3"> no uhuh, <OVERLAP> because the </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> i i haven't </OVERLAP> read any further </U>
+			<U WHO="S3"> because the actual, time they do it doesn't matter, it's it's whether there's an actual stage they come to and that's a very important principle of child language </U>
+			<U WHO="S6"> i haven't reached that point </U>
+			<U WHO="S3"> that it's the sequences that are important not actual, chronological age </U>
+			<U WHO="S6"> i haven't reached that part i'm still reading it, but i think she says well, they they still until at this age they mix and, i didn't continue, but, i_ here i would like just to finish to to talk about my own study that i intend to do exactly that, and, will analyze the speech of, English Spanish bilingual speakers and also have a look at these aspects to see if it's really, universal it's cross-linguistic or not, and for me this is what's interesting for that. i i'm g- gonna try to replicate Lanza's um, um study and see... mainly in these two (axes) um, um pragmatic and syntactic um </U>
+			<U WHO="S3"> have you have you read Andrew Radford's account of language acquisition, of English because he <U WHO="S6"> yes </U> talks about INFL the emergence of INFL <U WHO="S6"> uhuh </U> that's the basic </U>
+			<U WHO="S6"> yeah Radford, was, my very first contact with <U WHO="S3"> right </U> uh <U WHO="S3"> okay, </U> with, with, Chomsky's theories <U WHO="S3"> right </U> (with_ through) Radford and that's what we </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

@@ -1,0 +1,1212 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="mtg425jg004">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Natural Resources Research Group Meeting </TITLE>
+				<TITLE> Rackham Div: BS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> MTG425JG004 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="83">
+						<DATE> March 21, 1997 </DATE>
+						<EQUIPMENT>
+							<P> Sony Analog Tape Recorder </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Elizabeth Axelson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Bret Lucka, Jesseca Long, Janine Ovens </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Janine Ovens, Rita Simpson, Amanda Jones </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 2/3/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="4"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="5"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JG, Geoff, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S2" LANG="NNS" ROLE="JG, Julio, Student" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JG, Martin, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S4" LANG="NNS" ROLE="JG, Hiro, Student" SEX="M" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> JAP </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JF, Unknown" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="JG, Students" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> SNRE Small Seminar Room </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> well, is everyone happy with if i_ you can look at what i've already started, to write up for the problem statement, <U WHO="SU-m"> mhm </U> it's on, the copy that Hiro has. </U>
+			<U WHO="S2"> we can always add, and <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> so yeah i think </U>
+			<U WHO="S3"> (xx) </U>
+			<U WHO="S1"> it's right there </U>
+			<U WHO="S2"> i think one person, in, in this case you, <OVERLAP> you, </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> you you, have a good idea <U WHO="S1"> okay </U> of what the, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> situation </OVERLAP> is, what we want (it to sound like) </U>
+			<U WHO="S3"> and it's only a draft (so you know) if, <U WHO="S1"> sure </U> somebody really <U WHO="S2"> and </U> disagrees with <OVERLAP> (me) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i just </OVERLAP> don't_ yeah i just don't wanna, <OVERLAP> make </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and the </OVERLAP> more we the more we say about it the better </U>
+			<U WHO="S1"> mhm... <U WHO="S3">
+					<OVERLAP> (i think) (xx) </OVERLAP>
+				</U> i mean please, whatever i write, you know please comment on anything that you don't agree with i think should be be <U WHO="SU-m">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> in </OVERLAP> there... cuz i'll be putting words in_ i don't wanna, put words into people's mouths that they don't agree with... <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> um, </OVERLAP> okay </U>
+			<U WHO="S1"> um, we hafta work on our goal, too and maybe we should do that as a group because Glenda had, the good point that it seems to presume, um, presumes that restoration, is... is a definite outcome. <PAUSE DUR=":05"/> and i tried, working on it last night and i was getting nowhere. </U>
+			<U WHO="S2"> it's just the first sentence she doesn't like. </U>
+			<U WHO="S1"> yeah, i- but i mean, a- she_ it's not that she doesn't a- it's not that she doesn't like what we're saying it's just how we're saying it... we've got to, sort of um... put a spin on it that is more open-ended. <U WHO="S3"> okay </U> um... and it's kinda hard or i was having trouble without losing the integrity of what we were saying or sounding, you know </U>
+			<U WHO="S2"> mhm, yeah but (isn't it...) G- Glenda really has a problem with it? </U>
+			<U WHO="S1"> i was um let's see, what i so what i tried to do was to work from our from the problem sorta the problem statement, into a goal. and, we have a sentence in the problem statement now that says, that identifies MEANDRS' goal, <SEG TYPE="READING"> as to improve the diversity and quality of fisheries and wildlife habitat as well as the aesthetic and recreational quality of the river, while minimizing the impacts to the riparian land noter- owners and agricultural interests. </SEG> and then we say in our, our objective is sort of to provide, oh, material_ you know provide stuff, to MEANDRS, <U WHO="SU-m"> mhm </U> and, that MEANDRS doesn't have the resources to undertake it. <U WHO="SU-m"> mhm </U> and so i was trying to sort of combine those three things, into our goal, that we are sorta serving as, um, you know that we're gonna, you know provide this information, um, you know, to assist MEANDRS, you know in their sort of in their goal to improve, this that and, the other thing. um i don't know h- what you guys think about that, that approach. </U>
+			<U WHO="S2"> (i mean) i think it doesn't, it doesn't a- address that, that, Glenda's concerns. <U WHO="S1"> yeah </U> i think, <U WHO="SU-m"> mhm </U> i think what she wants uh i- is to, to more specifically say something like, in g- in nice words, that, we will be be presenting them with, a package of information, and that they could do... with it, as they please. basically. <U WHO="S1"> mhm </U> and they can in- they can_ yeah basically i- tha- that, so, that way we're objective we're, unbiased we're, detached from the, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<U WHO="S3">
+					<OVERLAP> yeah, </OVERLAP> that's good </U> whole thing we don't, say con- uh restoration is good restoration is <OVERLAP> bad </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U> nothing </U>
+			<U WHO="S1"> mhm, i can't find something </U>
+			<U WHO="S3"> what are you looking for? </U>
+			<U WHO="S1"> something that i wrote. </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S2"> why don't we just, why don't we just define, as our goal </U>
+			<U WHO="S3"> well, i think one way to m- maybe make it easier is, in the, problem statement we defined, MEANDRS' objectives, and i and i think that's good. and i don't think we need to really rehash those in our goal. <U WHO="S1"> okay </U> um, so you know maybe we can just say, given MEANDRS' goals, as stated in the, or as described in the problem, or in section, one-point-one or whatever (of) the problem statement, um... you know our, the purpose of this project is to, um <PAUSE DUR=":05"/> to to explore, the option of restoring MEANDRS, <U WHO="S3"> mhm </U> or restore, the watershed, um... something like that. </U>
+			<U WHO="S2"> i- i- if we just eliminate, the part of the goal, of the <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> MEANDRS, </OVERLAP> from here, you know...? the part of of of <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> what </OVERLAP> they do, you know? i think we, we we we, have (removed) (xx.) </U>
+			<U WHO="S1"> okay. <OVERLAP> so you would just </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> removed (the) b- </OVERLAP> the bad, part. </U>
+			<U WHO="S1"> so you would just say m- </U>
+			<U WHO="S2"> instead of, you know to assist them. <U WHO="S1"> yep </U>
+				<U WHO="S3"> mhm </U> let's not assist them let's just, give them the thing. </U>
+			<U WHO="S1"> okay <U WHO="S2">
+					<OVERLAP> (you know) </OVERLAP>
+				</U>
+				<OVERLAP> so just, </OVERLAP> provide <PAUSE DUR=":05"/> well </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S2"> that doesn't, look good </U>
+			<U WHO="S1"> see that was the problem i was having. when i would just try to take it out, then you would sort of lose the <PAUSE DUR=":19"/> how <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> 'bout if we just </OVERLAP> took a whole different slant and said, something like the goal of this project is to evaluate, the ex- you know is to evaluate the existing conditions, of the watershed, predict, possible change i- predict changes, that reha- rehab- changes from rehabilitation, or, predict changes that, that ma- that could occur, from rehabilitation, and th- and the, a- pros and cons, of those changes, on, the economy, ecology, and social, structure. <U WHO="SU-m"> yeah </U> and then to provide this information, <U WHO="S2"> to the <OVERLAP> MEANDRS </OVERLAP>
+				</U>
+				<OVERLAP> u- </OVERLAP> to the MEANDRS in the form of a, feasibility, evaluation or feasibility assessment. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"> sounds good. i like it. </U>
+			<U WHO="S1"> does that sound, <U WHO="S3"> mhm </U> better? </U>
+			<U WHO="SU-m">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (yeah) </OVERLAP> just, just no way around, trying to work this out </U>
+			<U WHO="S1"> let me just </U>
+			<U WHO="S2"> rephrase this </U>
+			<U WHO="S1"> let's just write it up here or something so we can, take (note of it) so </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S3"> what is it? to evaluate existing conditions or, <U WHO="S1"> yeah </U> (we) can change it </U>
+			<U WHO="S2"> or assess </U>
+			<U WHO="S3"> or, yeah, i think assess. <PAUSE DUR=":04"/> or identify </U>
+			<U WHO="S1"> you want identify? </U>
+			<U WHO="S3"> i don't know... assess kinda sounds like you're gonna, judge it </U>
+			<U WHO="S1"> yep <EVENT DUR="1:16" DESC="PAUSE WHILE WRITING ON BOARD"/>
+			</U>
+			<U WHO="S3"> (from future) rehabilitation effort? <U WHO="S1"> um </U> maybe? </U>
+			<U WHO="S1"> n- well then that's getting into the presumption, (you know) if you say <U WHO="S2">
+					<OVERLAP> that rehabilitation's (not important) </OVERLAP>
+				</U>
+				<OVERLAP> future rehabilitation, yeah, that's why i did_ </OVERLAP> just ended it there, <U WHO="S3"> okay </U> i thought that was more <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> open-ended </OVERLAP>
+				<EVENT DUR="2:48" DESC="PAUSE WHILE WRITING ON BOARD"/> (anybody can...) any wordings that people_ i mean <U WHO="S3"> um </U> i p- i put in parentheses these words <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i wasn't </OVERLAP> sure i just, those are the things that came in my head i don't know if (xx) thought </U>
+			<U WHO="S3"> i came across um, i know we had problems with pros and cons before <U WHO="S1"> yeah </U> what about practical possibilities and limitations? </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S3"> i don't know, it was just another </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> practical opportunities? </U>
+			<U WHO="S3"> possibilities. </U>
+			<U WHO="S1"> two Ss? </U>
+			<U WHO="S3"> uh yes </U>
+			<U WHO="S1"> (okay) <EVENT DUR=":12" DESC="PAUSE WHILE WRITING ON BOARD"/>
+			</U>
+			<U WHO="S3"> so_ or maybe you know even just possibilities and limitations or, something i don't know. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S1"> um <PAUSE DUR=":44"/> what do you guys think? does that, does that, get away from the presumptiveness of... </U>
+			<U WHO="S2"> yeah we're not biased now. <PAUSE DUR=":05"/> i just think to go on and on and on </U>
+			<U WHO="S1"> yeah <EVENT DUR=":09" DESC="PAUSE WHILE WRITING ON BOARD"/>
+			</U>
+			<U WHO="S2"> what is a feasibility study? </U>
+			<U WHO="S1"> it's... i mean i i think you can- i don't think there's any set, definition of a feasibility study but essentially you're just identifying, the limitations and, constraints, of a of a proposed, um, a you know proposed project, to determine whether or not, it_ you know and then, depending on what your_ you consider your your ultimate constraint, is it financial? is it, public acceptance? i think it's, y- you know based on your constraints, can can this project be done? </U>
+			<PAUSE DUR=":21"/>
+			<U WHO="S3"> i was thinking we could even maybe just cut the middle sentence out. <U WHO="S1"> okay </U> because, that's kinda all within predict potential changes. <U WHO="S2"> mhm </U> maybe we could just predict potential changes, to <PAUSE DUR=":04"/> the ecology economy and c- communities, um they m- that may result from rehabilitation. </U>
+			<U WHO="S1"> or you know we could, we could essentially leave, leave this out. <U WHO="S3"> yeah cuz <OVERLAP> we're </OVERLAP>
+				</U>
+				<OVERLAP> for </OVERLAP> the objec- and leave that as part of our objectives. </U>
+			<U WHO="S3"> yeah, i think, <U WHO="S1">
+					<OVERLAP> and then, </OVERLAP>
+				</U>
+				<OVERLAP> i think </OVERLAP> that's good. just broaden </U>
+			<U WHO="S1"> what if we put in here to predict, potential changes, you know, limitations, and possibilities? </U>
+			<U WHO="S3"> i, i think, like if we're gonna do the whole like start narrow and and, and expand as we go out if we just leave it as, potential changes, um... because i think the limitations and possibilities <U WHO="S1">
+					<OVERLAP> or constraints </OVERLAP>
+				</U>
+				<OVERLAP> are enough to like, </OVERLAP> or constraints, um, um i think that's sort of if we leave in the, the last sentence in the form of a <U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> feasibility </OVERLAP> assessment, <U WHO="S1">
+					<OVERLAP> th- that's </OVERLAP>
+				</U>
+				<OVERLAP> (that) </OVERLAP> kind of i- implies </U>
+			<U WHO="S1"> that's including, this? </U>
+			<U WHO="S3"> yeah. i mean that's just my take on it. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S2"> yeah that's what i </U>
+			<U WHO="S1"> that's valid. </U>
+			<U WHO="S2"> what i think, i- is that feasibility encompasses, most of what is there you know </U>
+			<U WHO="S1"> mkay </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3"> cuz i mean, the first sentence </U>
+			<U WHO="S1"> so we say the <OVERLAP> goal is t- </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> (the) goal </OVERLAP>
+			</U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S3"> i mean the first sentence is basically our goal is to like, <U WHO="S1">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> predict </OVERLAP> potential changes. <U WHO="S1"> right </U> and then give it to a_ give 'em a report and, educational material. </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S2"> identify, i don't like the word identify <OVERLAP> there. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay, </OVERLAP> okay </U> ident- cuz i see like, i- i- identify as like... like pinpoint a couple, pinpoint a few, aspects of the thing. do you see what i'm saying? </U>
+			<U WHO="S4"> (xx) </U>
+			<U WHO="S2"> uh... oh usually my English is, not, <EVENT DESC="LAUGH"/> so good because i <EVENT WHO="S4" DESC="LAUGH"/> i think the perfect word that i, pictured there was assessment. <U WHO="S1"> okay </U> and, but then, Martin says that assessment implies, a judgment, component </U>
+			<U WHO="S1"> the problem is is that, when you get into syntax, it becomes, whoever's reading it is gonna interpret <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> things. </OVERLAP> it's just exactly you and Martin, interpret assessment differently, um and an- int- in- and um, interpret identify differently. so, it's gonna be hard when you get into those words like that, it's sorta hard, to make sure that you know that, that that word is gonna mean the same thing to everyone, who reads it. um... consider? that sounds a little fluffy. </U>
+			<U WHO="S3"> (is to) describe, or, <OVERLAP> research? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah i think </OVERLAP> describe is better. <OVERLAP> (write that down.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> research, </OVERLAP> describe </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S2"> but describe also also implies, mm, basically that all the information is all the things that, are laid out right, and we could come up and, describe them. what about determine? no </U>
+			<U WHO="S1"> determine's very, rigid. <U WHO="S3"> yeah </U> we may not determine it you know, but we may come up with a lot of </U>
+			<U WHO="S3"> hm examine. </U>
+			<U WHO="S1"> examine? </U>
+			<U WHO="S3"> that's kind of like <PAUSE DUR=":09"/> i kinda like examine though. </U>
+			<U WHO="S1"> it is a little bit better i would agree. <PAUSE DUR=":06"/> okay. you like examine? what does it mean wha- what does it mean to you, examine? </U>
+			<U WHO="S2"> more like explore </U>
+			<U WHO="S1"> how 'bout explore? </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S2"> what about analyze? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> that's very </U>
+			<U WHO="S3"> yeah that's </U>
+			<U WHO="S2"> uh </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> explore's kinda neat. explore to me is more of a journey, it's kinda like, you're, uh, you don't know what you're gonna find, you don't know, you know and there's like sort of no defined end point to exploring it's just... examine when i think of examine i think of, someone looking under a microscope. <U WHO="S3"> okay </U>
+				<U WHO="S2"> okay </U> alright? so almost that's sorta like the thir- or a doctor examines <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> you. </OVERLAP> um, describe i think of sort of, being more literary, that is, the verbiage that you use is is is descriptive, um is is conveying your senses into, into language. </U>
+			<U WHO="S3"> yeah, i don't like the last two. <U WHO="S1">
+					<OVERLAP> wha- describe and research? </OVERLAP>
+				</U>
+				<OVERLAP> wha- describe and research? </OVERLAP> yeah i'm, (kinda) like... um </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"> you know we can also we can digest this for a little while <U WHO="S3"> right </U> put a word in there, for now, <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then if we think of something better, <U WHO="S3"> yeah </U> or change our mind </U>
+			<U WHO="S3"> let's just put explore in there </U>
+			<U WHO="S2">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> you </OVERLAP> guys have a preference, right now? </U>
+			<U WHO="S2"> yeah <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> explore (xx.) yeah, i think explore is <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Hiro, do you have this_ </OVERLAP> you like <OVERLAP> explore? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i th- </OVERLAP> i think, al- all the w- all the words, are uh (xx) (for me.) but uh, um, i u- i, i understand the difference of meaning, so, but uh, so... the choice of words, choice of words, um, i- pretty exchangeable, <U WHO="S1"> mm </U> so </U>
+			<U WHO="S1"> yeah, um <U WHO="S4"> so </U> of these two do you have a preference? </U>
+			<U WHO="S4"> uh, um... yeah, of course i have uh, my favorite word, but uh, um, i don't know, my choices are (appro-) more appropriate <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> what </OVERLAP> is your choice? </U>
+			<U WHO="S4"> okay. <EVENT WHO="SS" DESC="LAUGH"/> (xx) so, uh, i prefer, uh uh, explore. </U>
+			<U WHO="S1"> okay. <U WHO="S3"> yeah okay. </U> okay </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S4"> so, uh, becau- not why. um the current and historical conditions, are not so clear, i think. so, um, we must, we must, search, uh what i- what, what are the current and historical conditions, so explore is more appropriate. </U>
+			<U WHO="S1"> okay, yeah </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S2"> historical conditions? <OVERLAP> or characteristics </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well condi- i- </OVERLAP> that's, i left that open, that that would be a word that we, characteristics? </U>
+			<U WHO="S2"> i don't know. <EVENT DESC="LAUGH"/> i don't like this. </U>
+			<U WHO="S3"> this charac- or status, state? <PAUSE DUR=":07"/> i think characteristics is good cuz we're looking at the whole system. um... yeah. um </U>
+			<U WHO="S1"> how 'bout oh the other thing i had written down, um <EVENT DUR=":13" DESC="PAUSE WHILE WRITING ON BOARD"/>
+			</U>
+			<U WHO="S3"> yeah, that's good </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> yeah. (xx) to use (a) watershed approach to </U>
+			<U WHO="S3"> do you hafta go? </U>
+			<U WHO="S2"> yeah. (um) yeah. (xx) </U>
+			<U WHO="S1"> okay so you'll work on the literature review stuff, <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then fill in the objectives for the economics? </U>
+			<U WHO="S2"> yeah, all my stuff and (then) </U>
+			<U WHO="S1"> do you need Glenda's comments? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> cuz i think those are more_ most um applicable <U WHO="S3">
+					<OVERLAP> oh yeah </OVERLAP>
+				</U>
+				<OVERLAP> t- to </OVERLAP> you and these ones we couldn't copy. i have some stuff written on here. um </U>
+			<U WHO="S2"> i wanna s- </U>
+			<U WHO="S1"> what? d- do you guys wanna, meet, meet the three of us at all over the weekend or just wait until Monday? </U>
+			<U WHO="S2"> um i want i want to meet. <U WHO="S1"> okay </U> i want to meet but i want to meet when we have something </U>
+			<U WHO="S1"> okay, Sunday afternoon? </U>
+			<U WHO="S2"> Sunday </U>
+			<U WHO="S1"> Sunday evening? </U>
+			<U WHO="S2"> yeah Sunday, ab- Sunday at about five? </U>
+			<U WHO="S1"> what, what's your schedule on Sunday? </U>
+			<U WHO="S4"> um, Sunday, <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> you </OVERLAP> have seven meetings? </U>
+			<U WHO="S4"> yeah i, <EVENT WHO="SS" DESC="LAUGH"/> no </U>
+			<U WHO="S1"> like last week </U>
+			<U WHO="S4"> uh i i w- i will have a r- a meeting, uh at eleven A-M. <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> only this </U>
+			<U WHO="S1"> is five o'clock good? </U>
+			<U WHO="S4"> okay no problem </U>
+			<U WHO="S2"> cuz i have a meeting at eight P-M, (xx) <U WHO="S1"> okay </U> so, i want to have, like, three hours is good, for me to work on this, <U WHO="S1"> okay </U> and then go straight to the other thing, <U WHO="S1"> okay </U>
+				<U WHO="S4"> uhuh </U> without having to, you know, <U WHO="S1"> mhm </U> i'm thinking, <OVERLAP> selfishly </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so Sun- </OVERLAP> Sunday, five P-M? </U>
+			<U WHO="S1"> yeah <U WHO="S2"> yeah </U>
+				<U WHO="S4"> um </U> out- outside, O-A-P? </U>
+			<U WHO="S4"> okay </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S4"> five P-M </U>
+			<U WHO="S2"> then, yeah. um <PAUSE DUR=":06"/> i haven't seen Pat's comments </U>
+			<U WHO="S3"> want a copy of 'em? there. </U>
+			<U WHO="S2"> (i s that Glenda's stuff?) </U>
+			<U WHO="S3"> um, actually, <U WHO="S1">
+					<OVERLAP> (xx) those are Glenda's (co-) </OVERLAP>
+				</U>
+				<OVERLAP> it's Glenda's cover </OVERLAP> letter, kinda thing, but these are, Pat's comments. </U>
+			<U WHO="S2"> oh yeah, please. </U>
+			<U WHO="S3"> do you want to just give him this one? </U>
+			<U WHO="S1"> sure </U>
+			<U WHO="S3"> okay, yeah his are um, kinda this handwriting, and Geoff's are, in there too. </U>
+			<U WHO="S1"> mine's, his are the more blocky, <U WHO="S3"> yeah </U> mine's more curly. </U>
+			<U WHO="S2"> yeah, (xx,) (these are the ones, in capitals) </U>
+			<U WHO="S1"> yeah... mine are the ones that have a lot of scribbles through them and stuff. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S2"> so i'll see you guys on Sunday </U>
+			<U WHO="S4"> see you </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S2"> did you do well, last night? </U>
+			<U WHO="S1"> uh, who else won? i only know that Minnesota won and that um, </U>
+			<U WHO="S2"> a- all the favorites won </U>
+			<U WHO="S1"> okay, then i did, <U WHO="S2"> one two </U> Utah didn't matter cuz i didn't have_ i had Wake instead of Utah, <OVERLAP> but then </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> one versus two one versus two. </OVERLAP> three of the four games went to overtime. </U>
+			<U WHO="S1"> yeah. <U WHO="S2">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> and i watched the end of the </OVERLAP> Minnesota </U>
+			<U WHO="S2"> Kentucky was the only </U>
+			<U WHO="S1"> they, yeah i fell asleep lis- Kentucky's just boring they were, they were like, winning too, easily. </U>
+			<U WHO="S2"> Kentucky was the only one (that,) U-C-L-A was losing by sixteen, at one point. they came back </U>
+			<U WHO="S1"> but they came back. so i_ that wasn't g- i picked i had, o- on one of mine i had um, i had Iowa State, (xx) one i had U-C-L-A </U>
+			<U WHO="S2"> they came back, and (xx,) it was, like to the last second </U>
+			<U WHO="S1"> did you watch that game? </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> what time did it get over? </U>
+			<U WHO="S2"> like at nine. it was so, weird. they were up by, they were up by, by, two, right? </U>
+			<U WHO="S1"> U-C-L-A? </U>
+			<U WHO="S2"> U-C-L-A. yeah with, like, four seconds left, (xx) and then, um, they fouled somebody th- Iowa State (just like) fouled somebody, so they went, they went (xx) missed one </U>
+			<EVENT DESC="BREAK IN RECORDING"/>
+			<U WHO="S2"> two U-C-L-A guys, got the rebound, and they were fighting for the ball, <U WHO="S1">
+					<OVERLAP> two, yeah </OVERLAP>
+				</U>
+				<OVERLAP> (two, same.) </OVERLAP> and, so the guy who had the ball_ it was a very questionable call, like was called for a walk <EVENT WHO="S1" DESC="LAUGH"/> so, the ball was given back </U>
+			<U WHO="S1"> to Iowa? </U>
+			<U WHO="S2"> to Iowa State with four seconds down one. so they inbound from, from the </U>
+			<EVENT DESC="BREAK IN RECORDING"/>
+			<U WHO="S3"> um, okay, i think so we'll talk ab- we can talk about it. okay? <U WHO="S4"> okay </U> i don't think we've decided yet but i think that's that's a good place to start. </U>
+			<U WHO="S4"> yeah um, physical tasks, are missing. </U>
+			<U WHO="S3"> mhm um, well let's, let's work on getting the the methods, <U WHO="S4"> mhm </U> the objectives and the methods down, <U WHO="S4"> mhm </U> and then we can worry about the tasks <U WHO="S4">
+					<OVERLAP> okay, okay, okay </OVERLAP>
+				</U>
+				<OVERLAP> later, okay? </OVERLAP> i think we're gonna go, you know as the whole idea <OVERLAP> progresses </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> uhuh </OVERLAP> uhuh </U> um </U>
+			<PAUSE DUR=":31"/>
+			<U WHO="S4">
+				<EVENT DESC="LOOKING AT NOTES"/> Gl- Glenda gave us, (great) information </U>
+			<U WHO="S3"> mhm. this is actually this was Pat. </U>
+			<U WHO="S4"> uhuh... green, green writing is? </U>
+			<U WHO="S3"> is Geoff. </U>
+			<U WHO="S4"> Geoff, okay </U>
+			<U WHO="S3"> i had an idea, for this, <EVENT DESC="POINTS TO BOARD"/> um, the goal is to use a watershed approach, to explore the current and historical characteristics, of the Dowagiac river system and to predict pi- potential changes. </U>
+			<EVENT DUR=":07 " WHO="S1" DESC="WRITING ON BOARD"/>
+			<U WHO="S1"> um <EVENT DESC="TRIPS OVER CORD"/>
+			</U>
+			<EVENT DESC="AUDIO DISTURBANCE"/>
+			<U WHO="S5"> that (cord's) kind of a hazard. </U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<U WHO="S3"> does it come out? <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> oh, </OVERLAP> it's still working. <OVERLAP> oh i think that's probably (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) </OVERLAP> it's just the... (xx) okay </U>
+			<U WHO="S3">
+				<OVERLAP> no, no, Hiro, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> i think that's </OVERLAP>
+				</U> i think that's okay </U>
+			<U WHO="S4"> i i can </U>
+			<U WHO="S1"> there's one behind you there. <U WHO="S5"> oh </U> uh, yeah Hiro? </U>
+			<U WHO="S5"> Hiro? <U WHO="S4"> hm? okay </U> let's plug it in over here and then Geoff won't have to trip over it. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S5"> this_ now Martin can trip over it. </U>
+			<EVENT DESC="AUDIO DISTURBANCE"/>
+			<U WHO="S1"> (xx) Martin </U>
+			<U WHO="S3"> um... to predict, potential changes that may result from rehabilitation... </U>
+			<U WHO="S1"> or that could, <OVERLAP> result </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that, yeah, </OVERLAP> that could. yeah that's that's good cuz then it's m- (a lot) </U>
+			<PAUSE DUR=":19"/>
+			<U WHO="S1"> to or and? </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S3"> i think and </U>
+			<U WHO="S1"> (xx) (entities) <PAUSE DUR=":15"/> okay, and then, go, directly into this <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> (whole) </OVERLAP> information will be, provided to MEANDRS in the form of a feasibility assessment, <U WHO="S3">
+					<OVERLAP> that's what i was thinking </OVERLAP>
+				</U>
+				<OVERLAP> (and) </OVERLAP> educational materials. </U>
+			<U WHO="S3"> yeah. does that sound good? </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S3"> Hiro, do you like that? </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S3"> okay <PAUSE DUR=":06"/> okay </U>
+			<U WHO="S1"> is that written down somewhere <OVERLAP> that i </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1"> (could put) it in </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> i can put th- i'll put that in... actually </U>
+			<U WHO="S1"> should <PAUSE DUR=":33"/> how 'bout, the goal is to, explore the current and historical characteristics, of the Dowagiac system using a watershed approach? </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S3">
+				<OVERLAP> i like it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (yeah) i like it </OVERLAP> like that better. </U>
+			<U WHO="S3"> yeah i like the beginning, <U WHO="S1"> yeah </U> you wanna say watershed approach or watershed-based? </U>
+			<U WHO="S1"> what put watershed-based, <OVERLAP> approach? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> approach? </OVERLAP> yeah, i don't know </U>
+			<U WHO="S1"> i've heard it like so many different ways, </U>
+			<U WHO="S3"> i think it's <OVERLAP> fine (the way it is) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i don't </OVERLAP> think it really, i think <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> just adding a word in <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> there </OVERLAP> i don't think we really need. </U>
+			<U WHO="S3"> yeah </U>
+			<U WHO="S1"> i mean i've heard it used, watershed-based watershed approach, <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> i've heard a couple other different, <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> different ways. </OVERLAP>
+			</U>
+			<U WHO="S3"> do you wanna get together y- just like you and i, on, Monday morning and, sorta, like we did last week and just sort of put everything together? </U>
+			<U WHO="S1"> yeah we could do that um, <U WHO="S3">
+					<OVERLAP> (or) </OVERLAP>
+				</U>
+				<OVERLAP> you </OVERLAP> have class Monday morning right? </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S3"> yeah, i think you are th- you and i are the only ones <OVERLAP> that </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay </OVERLAP>
+				</U> can meet Monday. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> that sounds good. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> pull it together, and then any extra time we have we can, <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> maybe </OVERLAP> play around with </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S4"> Geoff? </U>
+			<U WHO="S1"> yes? </U>
+			<U WHO="S4"> um, before pre- predict <U WHO="S1"> yeah </U> to, and to is is necessary or not...? </U>
+			<U WHO="S1"> no i don't think it is necessary, because we're not, to would mean, um, well </U>
+			<U WHO="S3"> i was, having <OVERLAP> problems </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i- </OVERLAP> i- it could i mean yeah, c- </U>
+			<U WHO="S3"> i was trying to get rid of some of the tos </U>
+			<U WHO="S1"> yeah, <U WHO="S3">
+					<OVERLAP> (i think) </OVERLAP>
+				</U>
+				<OVERLAP> but how </OVERLAP> you read it might (impact) <OVERLAP> it </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> if you, </OVERLAP> shorten out, some of the phrases, the goal is to identify and predict, potential <OVERLAP> changes </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, </OVERLAP>
+				<U WHO="SU-m"> mhm </U> that's sorta the way i was looking at it. <U WHO="S3"> yeah </U> so it's like two these are two, this is not, necessarily contingent on this. <U WHO="S4"> uhuh okay. </U> this is like step one, <U WHO="S4"> uhuh <OVERLAP> (xx) and, pr- predict </OVERLAP>
+				</U>
+				<OVERLAP> and step two. </OVERLAP> yeah. <U WHO="S4"> okay. </U> which is why the- w- with <U WHO="S4">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> the comma there, </OVERLAP> you would sorta read it as <U WHO="S4">
+					<OVERLAP> okay i see </OVERLAP>
+				</U>
+				<OVERLAP> two separate, </OVERLAP>
+			</U>
+			<U WHO="S3"> Hiro, it's one of the finer points, of grammar </U>
+			<U WHO="S4">
+				<OVERLAP> uhuh uhuh, okay </OVERLAP>
+			</U>
+			<U WHO="SS">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> it's, it's <OVERLAP> difficult </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's very </OVERLAP> stylistic, also. <U WHO="S4"> okay </U> and i, at least that's (what i i-) <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> i <OVERLAP> don't really know why </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> and uh, </OVERLAP> um, the goal is, to use a watershed approach. i think, uh the goal is, uh, using a watershed approach, uh to explore, the... no? <OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> uh </OVERLAP> it </U>
+			<U WHO="S1"> i think that would be it is by, <U WHO="S4"> by </U> the goal is by, </U>
+			<U WHO="S4"> by using <OVERLAP> a watershed approach </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> by using a watershed approach, </OVERLAP> explore </U>
+			<U WHO="S4"> yeah, to explore </U>
+			<U WHO="S1"> the goal is by, <OVERLAP> or through (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i i don't think, </OVERLAP> the goal is, to use a watershed approach. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S1"> well that's one rea- that's_ you could put it here and then, say, a goal, the goal is to explore the current and <U WHO="S4">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> historical </OVERLAP> characteristics of the Dowagiac river system. <U WHO="S4"> oh </U> um, and predict potential changes that could result, from the ef- <U WHO="S4">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> no, </OVERLAP> see, <U WHO="S4"> yeah </U> the problem is is that if you put either here or here, <U WHO="S4"> uhuh </U> then you sorta lose that it goes to both, because of the way we have it separated. um, i know what you're saying though </U>
+			<U WHO="S4"> mhm </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S1"> i think with you have this to here, and this to here, i think that, makes it okay. <U WHO="S4"> okay </U> that the goal the goal isn't, the watershed approach, <U WHO="S4"> uhuh, yeah </U> the goal is to use a watershed approach to, do these other <OVERLAP> things </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> mhm </OVERLAP> okay, i see </U>
+			<U WHO="S1"> do you understand? <U WHO="S4"> yeah </U> does that make <U WHO="S4">
+					<OVERLAP> yeah, yeah, yeah </OVERLAP>
+				</U>
+				<OVERLAP> sense to your question? </OVERLAP>
+				<PAUSE DUR=":04"/> but we can take a, further look at that as we move along. </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S3"> okay... yeah i've_ actually, i need to, get some stuff so i've got about half an hour left, <U WHO="S1"> okay </U> that i can stay. <U WHO="S1"> okay </U> um, should we work on the objectives? or... <PAUSE DUR=":05"/> or just sorta figure out who's gonna work, on what? or i guess we kinda already did, that. <PAUSE DUR=":46"/> okay </U>
+			<U WHO="S1"> what was that Martin? </U>
+			<U WHO="S3"> um, do we wanna, go over the objectives? um, or figure out who's gonna work on, which part, or we kinda work on our own parts i guess but... um <PAUSE DUR=":13"/> cuz Pat's gotta come and (use, the, this disk) <U WHO="S1">
+					<OVERLAP> huh? oh, well </OVERLAP>
+				</U>
+				<OVERLAP> (does this include,) </OVERLAP> a repairing component it should but if we look at the watershed approach it sh- </U>
+			<U WHO="S1"> and we also say the Dowagiac river <U WHO="S3">
+					<OVERLAP> system. yeah, okay. </OVERLAP>
+				</U>
+				<OVERLAP> system. i think that, we, </OVERLAP> see i started to work on that <OVERLAP> here, </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U> and i think maybe we can bring that into our objectives. </U>
+			<U WHO="S3"> okay </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S1"> because, you know we took out um <EVENT DUR=":06" DESC="WRITING"/> see we took out, restoring MEANDRS, <U WHO="S3"> okay </U> which is what he was, <U WHO="S3"> yeah </U> commenting to. </U>
+			<U WHO="S3"> okay </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S1"> i think we can b- we can bring this into our problem statement and our objectives and (like,) and just make it clear up front and also wa- we wanted to also bring in water, water, quality, cuz Glenda po- pi- <U WHO="S3"> mhm </U> mentioned that. </U>
+			<U WHO="S1"> water, i think, can i put it there? (oh yeah) </U>
+			<U WHO="S3"> (on the) water quality yeah, okay, so, i guess our objectives are still to... determine how, rehabilitation <PAUSE DUR=":07"/> will change the physical, attributes, of the river </U>
+			<U WHO="S1"> okay you wanna w- ca- let's work off <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> that </OVERLAP> copy. </U>
+			<U WHO="S3"> yeah. there's a... <U WHO="S1"> yeah </U> um, actually i've got a different color </U>
+			<U WHO="S4"> okay (xx) </U>
+			<U WHO="S1"> i'm using green. we should all (like) pick a color. </U>
+			<EVENT WHO="S4" DESC="LAUGH"/>
+			<U WHO="S3"> that, sorta stands out </U>
+			<U WHO="S4"> oh okay </U>
+			<U WHO="S1"> um, you can use blue. </U>
+			<U WHO="S3"> um, so, with this goal in mind... do we wanna add in a an objective to, explore to explore, the current and historical characteristics, and then... um, and have that as a goal, or an objective, and then, to lead on from that, <U WHO="S1"> okay </U> um, <U WHO="S1"> okay </U> i don't know. <EVENT DUR=":08" DESC="PAUSE WHILE WRITING"/> explore current <PAUSE DUR=":12"/> um... and then this would be to. </U>
+			<U WHO="S1"> mhm, (xx) okay </U>
+			<U WHO="S3"> um, </U>
+			<U WHO="S1"> determine how </U>
+			<U WHO="S3"> determine <OVERLAP> how, restoration </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (you wanna fix that) </OVERLAP> restor- rehabilitation </U>
+			<U WHO="S3"> yeah. <EVENT DUR=":08" DESC="PAUSE WHILE WRITING"/> will change the physical attributes of the river </U>
+			<U WHO="S1"> now, i- Pat was concerned that objective two and j- objective three, <U WHO="S3"> three </U> need to be more clearly defined. </U>
+			<U WHO="S3"> mhm, right or the, why don't we, since they are_ they_ i mean there's a fine point between, sort of identifying things, and judging them. <U WHO="S1"> yeah </U> do we just wanna combine them? </U>
+			<U WHO="S1"> we could either combine 'em or i just simply put in, you know we could say instead of identify quanta- you know i- quantifying, it's kinda hard, it kinda depends how, you define, <U WHO="S3"> mhm </U> or um <PAUSE DUR=":04"/> i mean o- i- one sort of um, y- you know Pat knew what we were talking about, <U WHO="S3"> right </U> which is that one is sort of more, you know, what are the effects? and the other one's more okay now that we know, what they are, what does it mean? </U>
+			<U WHO="S3"> in the big picture, (or,) </U>
+			<U WHO="S1"> you know, that's <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> that's </OVERLAP> that's sort of like, this is sort of more of a, trade-off or cost benefit, <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> you know, </OVERLAP> all these, <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> words </OVERLAP> that we threw in there. and this is more, okay, you know, this is, thi- i- and i think the reason why we wanted to keep 'em separate was, that, you know we wanna know first just, say what they are without any judgment on them, <U WHO="S3"> right, okay </U> and then to <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> provide </OVERLAP> some, some, sense of judgment, <U WHO="S3"> right </U> here. </U>
+			<U WHO="S3"> okay. to, maybe, um <PAUSE DUR=":11"/> um, </U>
+			<U WHO="S1"> establish? <OVERLAP> no um </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> (it's,) </OVERLAP> like assign or, dec- decide whether they're, basically we're gonna, decide whether they're... </U>
+			<U WHO="S1"> uh, e- evaluate? <U WHO="S3"> evaluate </U> the strengths and weaknesses, or evaluate the practical resp- possibilities and... pros and cons. identify or, evaluate. i mean i_ evaluate, i think, doesn't d- say whether or not you're gonna quantitative- uh quantitatively or, qualitatively, <U WHO="S3"> right </U> determine, it just says that you're gonna, make some sort of an assessment on it, </U>
+			<U WHO="S3"> i uh, i uh think that's what we wanna say. <U WHO="S1"> yeah, so </U> so evaluate? </U>
+			<U WHO="S1"> let's try evaluate there. and, let's just leave it really, really simple (it) <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> evaluate the, <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> trade-offs, or the costs and benefits. and then this one will be... <U WHO="SU-m"> (xx) </U> go back to this one, for a second </U>
+			<U WHO="S3"> this is, <U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> identify. </OVERLAP> this says identifying. </U>
+			<U WHO="S1"> okay, identify, we can change that again, to change it to explore, or um, <U WHO="S3"> identify </U> examine... exam- examine possible effects </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S3"> okay... examine possible, effects of restoration... cuz that's, examine's like, <U WHO="S1"> okay, <OVERLAP> not examine </OVERLAP>
+				</U>
+				<OVERLAP> you're looking, </OVERLAP> you're sort of judging them, <U WHO="S1"> okay </U> i think. </U>
+			<U WHO="S1"> okay, well okay take </U>
+			<U WHO="S3"> take it out. <U WHO="S1"> okay </U> um... </U>
+			<U WHO="S1"> this is the same it's the same thing we were just doing. </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S1"> i don't think explore quite works there though. </U>
+			<U WHO="S3"> no. mm, maybe list? <PAUSE DUR=":06"/> uh </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> (xx) </U>
+			<U WHO="S3"> mhm </U>
+			<PAUSE DUR=":25"/>
+			<U WHO="S4"> um, isn't, evaluate appropriate? </U>
+			<U WHO="S3"> um, <OVERLAP> examine? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we're, </OVERLAP> we're sort of um, trying to dis- trying to distinguish, <U WHO="S4"> mhm </U> between this, <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> objective, </OVERLAP> and this, objective, <U WHO="S4"> mhm </U> so we used evaluate <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> here </OVERLAP> as being more of a, more of a systematic look at it, <U WHO="S4"> uhuh </U> where this is more of just, okay what, what's out there based on, our research, and our, knowledge of the watershed? <U WHO="S4"> okay </U> can you_ put that in there? or just, write it, <OVERLAP> like research? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i'm sorry </OVERLAP> what was that? </U>
+			<U WHO="S1"> like ba- just, so i remember those words based on our research and, knowledge (xx...) and </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> (xx) of the system, (xx?) </U>
+			<U WHO="S1"> yeah, just, leave it there in case we wanna stick something like that in there. </U>
+			<U WHO="S3"> okay. um... can you predict, possible effects of restoration? </U>
+			<U WHO="S1"> that's more, see that's more the next, <U WHO="S3"> right </U> that's more the next one. that's more predicting. </U>
+			<U WHO="S3"> this is, or, this is <OVERLAP> predicting? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this is </OVERLAP> more, predicting. </U>
+			<U WHO="S3"> yeah, so i was thinking here predict possible effects. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S3"> i don't know i just took it from down there. </U>
+			<U WHO="S1"> yeah, okay, no that's sounds good predict... is that what we used up there? </U>
+			<U WHO="S3"> yeah... </U>
+			<U WHO="S1"> predict, p- or potential, possible? </U>
+			<U WHO="S3"> predict possible effects of restoration on the social, socioeconomic </U>
+			<U WHO="S1"> well, okay predict possible, let's just put it in there predict possible changes that could, result from rehabilitation, that's where we'll put, that's where we'll put, <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> our, </OVERLAP> box there. see this box? this is this is what it is... <U WHO="S3">
+					<OVERLAP> okay yeah </OVERLAP>
+				</U>
+				<OVERLAP> okay, </OVERLAP> predict here <U WHO="S3"> yeah </U> okay? that's objective three. <U WHO="S3"> yeah </U> and then objective four is here. <U WHO="S3"> okay, yeah </U> you see what i'm saying? </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S3"> okay <PAUSE DUR=":05"/> okay. that sounds good. and then, for this one then for objective four is to evaluate (xx) practical possibilities </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> hm? no no no, this is, this is, this is pros and cons. </U>
+			<U WHO="S3"> yeah, but so is this one this is_ i just changed the (page.) <U WHO="S1"> (xx) </U> this is, this is evaluate pros and cons </U>
+			<U WHO="S1"> right. isn't practical <OVERLAP> possibilities </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> possibilities </OVERLAP>
+				</U> this one? </U>
+			<U WHO="S3"> uh i was thinking of using that as a, a synonym for pros and cons. possibilities and limitations. </U>
+			<U WHO="S1"> oh okay. </U>
+			<U WHO="S3"> but... now what were you saying? </U>
+			<U WHO="S1"> that's fine. no i see what you're saying. <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay. </OVERLAP> maybe maybe not practical, but possibilities and limitations instead of pro and con </U>
+			<U WHO="S1"> sh- b- yeah just just throw it in there with our other words, <U WHO="S3"> yeah </U> we'll, (xx) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> i like limitations but i don't like possibilities <PAUSE DUR=":04"/> okay so that's evaluate pros and cons... of the changes identified in objective... three. okay. um, and objective_ in five... is to identify, changes impacts to agriculture, resulting from the rehabilitation of <U WHO="S1">
+					<OVERLAP> yeah. </OVERLAP>
+				</U>
+				<OVERLAP> the river. </OVERLAP> maybe we_ <U WHO="S1">
+					<OVERLAP> we should </OVERLAP>
+				</U> should we just do including agriculture, <OVERLAP> (xx) </OVERLAP> up here? </U>
+			<U WHO="S1">
+				<OVERLAP> well, </OVERLAP> i sort of a- i i sort of agree more with Pat on that than Glenda that um... i think we want to sort of identify um, agriculture, <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U> on its own right because of the fact that it is <U WHO="S3">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> is, so critical i think it's sort of politically, um, <U WHO="S3"> correct </U> a good move, <U WHO="S3"> yeah </U> to make. that we're not just looking at_ that agriculture's not just part of the ecology equation but <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> its own, it's sort of its own <OVERLAP> factor. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> right. </OVERLAP>
+			</U>
+			<U WHO="S3"> it's sort of_ it's got a cross over between ecology and social, <OVERLAP> and economics yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah and it just crosses sort of </OVERLAP> almost everything. <U WHO="S3"> yeah </U> and so you could either look at the_ Glenda's idea was she was looking at it, okay agriculture, economics are gonna affect agriculture. <U WHO="S3"> right. </U> and what we wanna look at is just the whole potential for agriculture. <U WHO="S3"> mhm </U> not just, you know how is this gonna, um how is rehabilitation gonna affect agriculture? but just sort of, what are the poten- what is the agricultural potential, in general? <U WHO="S3">
+					<OVERLAP> mhm, yeah </OVERLAP>
+				</U>
+				<OVERLAP> and think if we </OVERLAP> explain if_ i think if we explained this if we don't just leave it as a sentence <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> they were saying to sort of fill these in you know? <U WHO="S3"> yeah. </U> but if we fill it in and say you know we can we could we could put a qualifying statement there that this has been identified as it's own... you know as a separate objective because of the importance... you know what i mean? <U WHO="S3"> mhm </U> because of the <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> importance </OVERLAP> to MEANDRS, the MEANDRS group and the watershed as the whole to consider the agricultural potential in the region and, and the relationship to rehabilitation. <U WHO="S3"> mhm </U> something like that </U>
+			<U WHO="S3"> yeah. that sounds good... so </U>
+			<U WHO="S1"> i think Glenda just saw it sort of floating out there, <U WHO="S3"> yeah </U> and didn't really know <U WHO="S3">
+					<OVERLAP> especial- </OVERLAP>
+				</U>
+				<OVERLAP> why </OVERLAP> it was on its own. </U>
+			<U WHO="S3"> especially since there wasn't anything underneath it. </U>
+			<U WHO="S1"> right. <PAUSE DUR=":10"/> is this_ i guess its sort of a vision based on the fact that neither of them had a lotta lotta comments that this is more of the style that they would_ they tend to be they tended to be receptive to as being sort of a filled in paragraph, um <U WHO="S3">
+					<OVERLAP> i i </OVERLAP>
+				</U>
+				<OVERLAP> objective </OVERLAP> form. </U>
+			<U WHO="S3"> i think so as opposed to bullets. <U WHO="S1"> yeah. </U> um, yeah cuz they_ and they were saying something about bullets before maybe if we can just_ some of these </U>
+			<U WHO="S1"> bullets_ they kind of said task circle which <U WHO="S3">
+					<OVERLAP> bullets </OVERLAP>
+				</U>
+				<OVERLAP> they didn't_ </OVERLAP> and <U WHO="S3"> yeah </U> objectives should be more of a paragraph. </U>
+			<U WHO="S3"> right... okay. </U>
+			<U WHO="S1"> oh i i guess we should a- maybe we should fill in Hiro a little bit on, <U WHO="SU-m"> mhm </U> what we talked about yesterday before you came. <U WHO="S4"> uhuh... </U> one of their, one of their concerns that you <U WHO="S4">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> might </OVERLAP> have seen, in reading was differentiating between the objectives, <U WHO="S4"> uhuh </U> the methods and the tasks. and that the way it reads now they sort of, it's not clear the distinction even though we have them sort of in different sections they all sound the same. <U WHO="S4"> mhm </U> our objectives <OVERLAP> sound the same as our methods </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah yeah, as </OVERLAP> Glenda mentioned. <U WHO="S1"> right. </U> yeah. </U>
+			<U WHO="S1"> so, the way that they_ we sort of all of us, decided that the methods are more conceptual, <U WHO="S4"> mhm </U> i mean the ob- sorry the objectives are more conceptual, <U WHO="S4"> okay. </U> sort of like in a paragraph, <U WHO="S4"> uhuh </U> explaining you know why you wanna do this, and um, the methods are more sort of the applied process. we we to ab- to achieve this objective we will do X Y and Z. <U WHO="S4"> okay. </U> and then the tasks they said sort of we'll sort of leave that loose for now, they're more like it will take us, this amount of time, and these sorts of things, in order to to, fulfill this method <U WHO="S4"> mhm </U> so method, method one might be to collect historical <U WHO="S4">
+					<OVERLAP> okay okay </OVERLAP>
+				</U>
+				<OVERLAP> information. </OVERLAP> okay so that might be a method. <U WHO="S4"> mhm </U> then the task will be go to the town halls, <U WHO="S4">
+					<OVERLAP> okay, i see </OVERLAP>
+				</U>
+				<OVERLAP> get </OVERLAP> maps, uh you know research <OVERLAP> history of the town </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> more s- more </OVERLAP> specific <OVERLAP> activities </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. </OVERLAP> right. <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> you get more_ you go from being general to more specific. </U>
+			<U WHO="S4"> okay, <OVERLAP> (xx) good </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> and, </OVERLAP> that's the the scope of the whole, the whole thing is um, is you go through, <U WHO="S4"> uhuh </U> the, actually from the project approach, goals is, sort of general, like <U WHO="S4">
+					<OVERLAP> okay more conceptual </OVERLAP>
+				</U>
+				<OVERLAP> th- this is pretty general, </OVERLAP> yes. and then, as you go down each level, <U WHO="S4"> mhm </U> expand, get <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> more </OVERLAP> specific. until you get down to your tasks, <U WHO="S4"> uhuh </U> which is, exactly what you're <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> gonna </OVERLAP> do where you're <U WHO="S4">
+					<OVERLAP> okay, okay </OVERLAP>
+				</U>
+				<OVERLAP> gonna_ who you're gonna talk to, </OVERLAP> what information you're gonna gather, that sort of thing. </U>
+			<U WHO="S4"> okay. </U>
+			<U WHO="S1"> and what we were gonna_ we're gonna focus on, objectives, predominantly objectives, and then methods, and we'll worry about tasks, <U WHO="S4"> mhm </U> a <OVERLAP> little bit later </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U> on. </U>
+			<U WHO="S4"> okay, okay, i see. </U>
+			<U WHO="S3"> and then time line and budget, after we've done the tasks... </U>
+			<U WHO="S4"> okay thanks. </U>
+			<U WHO="S3"> yeah. sorry i forgot to </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S4"> no uh'uh. yeah um, i i am uh i can_ i could imagine uh from Glenda's comment. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S4"> mhm. </U>
+			<U WHO="S3"> okay. <PAUSE DUR=":05"/> um <PAUSE DUR=":08"/> did we talk about yesterday, um... let me backtrack here. i can see a problem, coming up between, um, Pat's style of writing, and he he wanted the um, <U WHO="SU-m">
+					<OVERLAP> yeah- </OVERLAP>
+				</U>
+				<OVERLAP> show the </OVERLAP> to- the, the findings of the first, in the beginning of the paragraph, where Glenda maybe used a more, um a norm- a normal, type of writing whereas sort of he put_ i don't know. but i don't know if she would agree with that or not did <U WHO="S1">
+					<OVERLAP> i </OVERLAP>
+				</U>
+				<OVERLAP> we </OVERLAP> talk about that? </U>
+			<U WHO="S1"> we didn't get into that and <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> i think, </OVERLAP> that_ i think they're gonna haf- that's something that they're gonna hafta decide amongst our- themselves, <U WHO="S3"> right. </U> and then as far as what what they want it to look like, <U WHO="S3"> mhm </U> um... i i i understand where Pat's coming from, but then at the same time you think about what this is being used for it's not gonna be used by, a- in a journal or <U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> to a </OVERLAP> state agency it's it's going to a bunch of just citizens. <U WHO="S3"> right </U> um, so, i think we're gonna have to talk about that, <U WHO="S3">
+					<OVERLAP> okay. yeah </OVERLAP>
+				</U>
+				<OVERLAP> a little bit (xx) the writing </OVERLAP> style, um Pat wanted_ Pat was suggesting a a much more scientific, <U WHO="S4"> mhm </U> writing format, <U WHO="S4"> okay </U> and uh, we just don't know, whether that fits in with k- with what Glenda how she envisions it, the writing style, so (we do) have to talk about that. <U WHO="S3"> mhm. </U>
+				<U WHO="S4"> okay... </U> um </U>
+			<U WHO="S4"> and uh, Glenda m- m- mentioned, our li- our literature re- review, <U WHO="SU-m"> mhm </U> um, she said um, she said um, our our literature review, it's not so interesting, <U WHO="S3"> mhm </U> she she mentioned. </U>
+			<U WHO="S3"> right. <EVENT WHO="SS" DESC="LAUGH"/> Ju- Julio <U WHO="S4">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> is gonna </OVERLAP> take care of that. <U WHO="S4"> uhuh </U> um <EVENT DESC="LAUGH"/> we liked, her comments here, where she, um where is it? </U>
+			<U WHO="S1"> about halfway down <OVERLAP> i think </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> about halfway down this this, this part that she wrote, <U WHO="S1"> in quotes </U>
+				<U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> in quotes, </OVERLAP> we we liked that. um, and Julio was gonna try to write up part of the literature review <U WHO="S4">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> in </OVERLAP> that that format. <U WHO="S4"> okay. </U> and then if, if you can come, just come up with a list of areas that we want to research, um, </U>
+			<U WHO="S1"> not so much specific articles, <U WHO="S4"> mhm, </U> but <OVERLAP> but </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but </OVERLAP> topics, <U WHO="S1"> yeah. </U> um, like um, river flow, um, um, transport of s- or sediments, <U WHO="S4"> mhm </U> um, </U>
+			<U WHO="S1"> the effects of agricultural runoff, <U WHO="S3"> yeah </U>
+				<U WHO="S4">
+					<OVERLAP> okay, okay, </OVERLAP>
+				</U>
+				<OVERLAP> on water quality </OVERLAP>
+			</U>
+			<U WHO="S3"> um, <U WHO="S4"> so </U> broa- <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> broad, </OVERLAP> broad topics. <U WHO="S4"> mhm </U> so if you could come up with a list of broad topics <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> that we </OVERLAP> can, look into. <U WHO="S4"> okay. </U> that_ for this. <U WHO="S4"> okay. </U> that would be good. <U WHO="S4"> mm </U> and we can help out too. </U>
+			<U WHO="S4"> so she told us uh to choose uh our interest topic? <U WHO="S3">
+					<OVERLAP> i'm sorry a what topic? </OVERLAP>
+				</U>
+				<OVERLAP> ou- ou- ou- our, </OVERLAP> our um, our, our... oh okay sh- she told us, uh to choose some topic uh, which, w- we we have interest in. </U>
+			<U WHO="S3"> okay. um, she, i think what she said was, we just had, a list, <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> of </OVERLAP> different, <U WHO="S4"> mhm </U> sources, and this doesn't tell you much. <U WHO="S4"> okay i (see.) </U> um, and you know you start reading and you get to the second one and you don't want to read anymore <U WHO="S4"> mhm </U> because it <U WHO="S1">
+					<OVERLAP> she wants </OVERLAP>
+				</U>
+				<OVERLAP> doesn't </OVERLAP> tell you anything. </U>
+			<U WHO="S1"> she wants to know where we're going with the literature, <U WHO="S4"> okay. </U> not what literature we <U WHO="S4">
+					<OVERLAP> mhm, mhm </OVERLAP>
+				</U>
+				<OVERLAP> have. </OVERLAP> so she's not so concerned with, a bibliography, as she is as what what topics are relevant to our study, <U WHO="S3"> mhm </U>
+				<U WHO="S4">
+					<OVERLAP> mhm so </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> that we will be researching those, <OVERLAP> (xx.) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so she she </OVERLAP> wanted, she wants she wants to know, uh based on such literatures, um, what we want to know. <U WHO="S3"> mhm </U> that stuff </U>
+			<U WHO="S3"> yes. </U>
+			<U WHO="S4"> okay. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> it's like what information we intend to get out of <U WHO="S4">
+					<OVERLAP> okay, okay. </OVERLAP>
+				</U>
+				<OVERLAP> the literature review... </OVERLAP>
+			</U>
+			<U WHO="S4"> i see. (easy.) </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> um, okay so that was objective six was was pretty good <SEG TYPE="READING"> prepare materials and programs that will, infor- inform communities about and involve them in the rehabilitation process. develop approaches for informing sharing community education. </SEG> okay. that sounds good. the research questions and hypotheses, <U WHO="S1"> mm </U> did, </U>
+			<U WHO="S1"> (you have to go?) </U>
+			<U WHO="S3"> uh couple_ i could_ like, ten minutes. <U WHO="S1"> okay... </U> um, </U>
+			<U WHO="S1"> why don't we um... what was your ins- it's kinda hard_ i still think like in a sense maybe just Pat doesn't know yet, how he feels about it, but that, you don't really have to have, a a scientific hypothesis, <U WHO="S3"> right </U> and and to test it... he was saying on one hand that that's the way things are done, but that on the other hand, it doesn't always fit. <U WHO="S3"> mhm </U> you following? what i'm_ <U WHO="S4"> yeah </U> okay. um, but he didn't really give us an answer to how to, to do it. <U WHO="S3"> and then </U> i tend to think that because we're doing a feasibility study and we're not saying that we're gonna come up with any divini- definitive answer, that we don't necessarily have to test anything, <U WHO="S3"> mhm right. </U> in hy- doing it in a scientific hypothesis testing approach, and we should just frame it as research <U WHO="S3">
+					<OVERLAP> questions </OVERLAP>
+				</U>
+				<OVERLAP> questions, </OVERLAP> and just take out the hypothesis, <U WHO="S4"> yes. </U> and, i think sorta just leave leave it the way it is, <U WHO="S4"> okay. </U> and if um, you know someone has a question about that, then we can work on it later. </U>
+			<U WHO="S3"> you know maybe would restoring MEANDRS to the Dowagiac system be a feasible method for rehabilitating? ins- as opposed to will restoring? </U>
+			<U WHO="S1"> yeah. okay... yeah ye- yes. </U>
+			<U WHO="S3"> and then that's not as, definite that it's gonna happen. <PAUSE DUR=":05"/> restoring </U>
+			<U WHO="S1"> or reha- we gotta get rehabilitation <U WHO="S3">
+					<OVERLAP> yeah, right, yeah </OVERLAP>
+				</U>
+				<OVERLAP> get MEANDRS out of there and change to </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<EVENT DESC="WRITING"/> would... <OVERLAP> rehabilitation </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> would rehabilitation... </OVERLAP> to achieving, MEANDRS' goals. </U>
+			<U WHO="S3"> of the Dowagiac, <U WHO="S1"> river system, </U> of the Dowagiac river system </U>
+			<U WHO="S1"> be a feasible, <U WHO="S3">
+					<OVERLAP> method </OVERLAP>
+				</U>
+				<OVERLAP> endeavor </OVERLAP> or feasible... approach </U>
+			<U WHO="S3"> approach... (xx,) for... </U>
+			<U WHO="S1"> for MEANDRS. cuz we're we're just, you know we're trying to answer_ their question is, is... is rehabilitation, the way to go? </U>
+			<U WHO="S3"> yeah... for MEANDRS, to, <U WHO="S1"> pursue. </U> take or pursue... <OVERLAP> pursue, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> their goal... </OVERLAP> their goal of um, enhancing, protecting and enhancing, </U>
+			<U WHO="S3"> to reach their goal? </U>
+			<U WHO="S1"> i don't think that necessarily to reach it just to <U WHO="S3">
+					<OVERLAP> to pursue, </OVERLAP>
+				</U> pursue it. reaching is... </U>
+			<U WHO="S3"> goal of, </U>
+			<U WHO="S1"> and then go back to our problem statement. </U>
+			<U WHO="S3"> rehabilitating and preserving the integrity of the watershed? </U>
+			<U WHO="S1"> how about improving or how about um, enhancing, protecting, improving, </U>
+			<U WHO="S3"> of <PAUSE DUR=":10"/> and improving, <U WHO="S1"> yeah... </U>
+				<OVERLAP> the (improvements) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (xx) and then </OVERLAP> let's go to the E and the A the ecological and agricultural... <U WHO="S3"> (xx) </U> needs of the <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> economic, agricultural, um </U>
+			<U WHO="S1"> isn't it needs isn't that the end? </U>
+			<U WHO="S3"> needs... of the <U WHO="S1">
+					<OVERLAP> Dowagiac river system. </OVERLAP>
+				</U>
+				<OVERLAP> Dowagiac river system. </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> (xx.) alright let's... </U>
+			<U WHO="S3"> um, changes resulting from, rehabilitation... <PAUSE DUR=":05"/>
+				<SEG TYPE="READING"> where the potential cost benefits (xx) within the watershed (xx) are (xx) if, </SEG>
+			</U>
+			<U WHO="S1"> Glenda had a comment on that one. <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> where's her_ </OVERLAP> oh Julio took it. i think he took it. </U>
+			<U WHO="S3"> i think he took it but i've got a copy. (xx) </U>
+			<U WHO="S1"> no i think it was just a specific comment <U WHO="S3">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> that she'd </OVERLAP> written in the margins, <U WHO="S3"> oh. okay. </U> about that i, commented on it, i think on the copy that Julio has. <U WHO="S3"> okay. </U> she was just saying something along the lines that um, this is assum- that this assumes that, that this statement assumes that, MEANDRS would be restored or whatever. <U WHO="S3"> mm </U> and i think i ph- i think i rephrased it. </U>
+			<U WHO="S3"> okay... </U>
+			<U WHO="S1"> and then i think this one's okay </U>
+			<U WHO="S3"> okay </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S1"> okay, um, methods <PAUSE DUR=":05"/> so i think... i think these are tasks. <U WHO="S4"> yeah. </U>
+				<U WHO="S1"> yes. </U> so this i- this is a method though... <U WHO="SU-m"> yeah </U> um <PAUSE DUR=":05"/> i think we can_ we're not doing options right? we're_ what did we come up with? </U>
+			<U WHO="S1"> for what? </U>
+			<U WHO="S3"> restoration options scenarios type </U>
+			<U WHO="S1"> oh um... <U WHO="S4"> um </U> yeah i i think i just wrote in options as a <U WHO="S3">
+					<OVERLAP> okay, okay </OVERLAP>
+				</U>
+				<OVERLAP> option. </OVERLAP>
+				<EVENT DESC="LAUGH"/> we came up with um... </U>
+			<U WHO="S4"> now, um, Glenda indicate indicates you don't discuss possible alternatives, <U WHO="SU-m"> mhm </U> so </U>
+			<U WHO="S1"> we talked about that. </U>
+			<U WHO="S3"> yeah <U WHO="S4"> uhuh </U> that was what we were talking about last night. <U WHO="S4">
+					<OVERLAP> okay, so </OVERLAP>
+				</U>
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1"> what what we decided Hiro, um... Pa- Pat seemed to think it was really important to look at it as a system, <U WHO="S4"> mhm </U> and to almost look at the most, um the most extreme thing which would be the the entire, you know restoration along the entire, river, and to comment on what those changes will be, rather than narrow it down to one, one meander, <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> on </OVERLAP> say that park that we visited, because what might happen is that for example we look at just that park, <U WHO="S4"> mhm </U> then there's a lotta issues that we might not be considering. <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U> cuz it's on public land, <U WHO="S4"> mhm </U> it's not you_ there's not a lot of farm land <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> nearby </OVERLAP> so it may be really easy to do it there, <U WHO="S4"> mhm </U> it may be very hard to do it anywhere else. <U WHO="S4"> okay </U> so he seemed to think it was more important to look at it from a broader perspective. <U WHO="S4"> mhm </U> and, we also then talked about that, because it's a feasibility study we don't really need to have to suggesh suggest alternatives, <U WHO="S4"> yeah, </U> and that <U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> is one way to_ by looking at the broad <U WHO="S4">
+					<OVERLAP> mhm, mhm </OVERLAP>
+				</U>
+				<OVERLAP> picture, </OVERLAP> it's one way to sort of cover all the alternatives, <U WHO="S4"> mhm, </U> in the sense that anything less than that would be a plausible alternative that may have less impact. and what we'll do is in the end of our study in our conclusions, <U WHO="S4"> mhm </U> we'll sort of make recommendations, that, there may be other approaches that you could take, that would be less, have less of an impact. <U WHO="S4"> okay. </U> and that would sorta be our discussion <U WHO="S4">
+					<OVERLAP> mhm, mhm, okay. </OVERLAP>
+				</U>
+				<OVERLAP> of alternatives. </OVERLAP> just in a very sorta general, um, sense. <U WHO="S4"> okay... </U> and and Glenda so- sh- m- <U WHO="S4"> mhm </U> that covered it don't you think that's <OVERLAP> sort of what </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, </OVERLAP> i think so </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S3"> does that make sense? okay... um... so i think with these, we need to, save all of this, and we can use that in a in the task <U WHO="S4"> (yep) </U> section. but, for the methods i think we need to also sort of do this in paragraph form. </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> well yeah <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i- uh </OVERLAP> but i don't know, i mean what can_ more can you say about collect baseline information, <OVERLAP> than </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> say what </OVERLAP> it is say what the baseline information is. </U>
+			<U WHO="S3"> like baseline information on river flow, and, um, </U>
+			<U WHO="S1"> it it's sort of it's sorta the same stuff but without um <PAUSE DUR=":10"/>
+				<U WHO="S3"> (xx) </U> i guess it would be like okay review, um, review, information sources such as aerial photog- ai- aerial photographs, um <U WHO="S3">
+					<OVERLAP> okay, information, okay </OVERLAP>
+				</U>
+				<OVERLAP> historical records, um </OVERLAP> you know and just and just, you know suggest, what material is out there that you'll be looking at, where the task would be, okay look at a aerial phota- photograph and identify, try and identify <OVERLAP> a historic channel, or something like that. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> right. okay. yeah, maybe </OVERLAP> what baseline information would be um, review of historical documents, um, collect flow information, um, </U>
+			<U WHO="S1"> review maps, </U>
+			<U WHO="S3"> review maps, um, talk to people look at photographs, <U WHO="S1"> yep. </U> just very general. </U>
+			<U WHO="S1"> yeah. again sort of, what we um, how we attend how we intend to uh, to, to meet our objectives... <U WHO="S4"> okay </U> would be, <U WHO="S3"> mhm </U> so, one of the ways that we're gonna meet our objective for the physical, would be to get some background information, or baseline information. <U WHO="S3"> mhm </U> but then say what that baseline information is, but not necessarily, how exactly, you know, we are we're gonna get that information. <U WHO="SU-m"> (xx) </U> and the task would be more... <EVENT DESC="KNOCKING ON DESK"/> so that's one thing that that's one thing that we'll each work on, <U WHO="S4"> mhm </U> is the area_ the stuff that we wrote up in methods. <U WHO="S4">
+					<OVERLAP> mhm, </OVERLAP>
+				</U>
+				<OVERLAP> so you did </OVERLAP> the physical, <U WHO="S4"> mhm </U> is to sort of sort this out, <U WHO="S4"> mhm... </U> sort these things out, <U WHO="S4"> okay </U>
+				<U WHO="S3">
+					<OVERLAP> is this </OVERLAP>
+				</U>
+				<OVERLAP> into sort of </OVERLAP> um, you know how we're gonna answer our objectives and our research questions. <U WHO="S4"> um </U> versus what, </U>
+			<U WHO="S4"> a question. how </U>
+			<U WHO="S1"> uh ho- how we will, how will we_ how will we, um answer our research questions? <PAUSE DUR=":05"/>
+				<U WHO="S3">
+					<OVERLAP> if we have an extra </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> objectives. </U>
+			<U WHO="S3"> we have an extra, objective in here too. <U WHO="S1">
+					<OVERLAP> (xx?) </OVERLAP>
+				</U>
+				<OVERLAP> because we </OVERLAP> we did, we created a new one, the, <OVERLAP> was it </OVERLAP> the gather <U WHO="S1">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> baseline </OVERLAP> information? <U WHO="S4"> okay </U> so, so this is, so we should move this up... an- and i sort of envision that as being baseline information on all of the <OVERLAP> different areas. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay yeah, </OVERLAP> you wanna explain? </U>
+			<U WHO="S3"> um, we, created a new objective <U WHO="S4"> mhm </U>
+				<PAUSE DUR=":05"/> um... objective one, um, explore current and historical river system, <U WHO="S4"> mhm </U> so </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S4">
+				<EVENT DESC="WRITING"/> current? <U WHO="S3"> um </U> (did you say) current? </U>
+			<U WHO="S3"> yes current and historical, characteristics <PAUSE DUR=":05"/> um of the river system. <U WHO="S4"> okay... </U> um, i, see that, having, information, on, um... the physical, a little bit of all four of the areas, information, on all four of the areas so like the physical, and this would be, that would be gathering your information, um, and then, and then the second one was, this one, um... determine how, rehabilitation will change, the physical system so, the one was, get background information on it, and then two would be then, predict, the changes that would ha- occur, in the future. <PAUSE DUR=":05"/> um... so, <PAUSE DUR=":10"/> (xx...) one, and this is... two, (xx) </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S1"> the_ i i was just going through what we talked about yesterday. <U WHO="S3"> mhm </U> i guess i do want a little bit more of a paragraph form for the methods. <U WHO="S3"> okay. </U> um, i- they said sort of, that we need to un- under methods we need to fill in the blank, a little bit fill in, you know connect all these things together, <U WHO="S3"> okay. </U> and explain how it_ how we're gonna get from here to there. sort of a sort of a view, <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> of the methods. </OVERLAP> you know it's how we're gonna get from, um, you know whatever our objective is, how we are gonna how we're gonna get from, our question that we're, we wanna answer, to the to the answer or how we're gonna get from, the objective we wanna reach. <PAUSE DUR=":05"/> (and it's like) </U>
+			<U WHO="S3"> okay. so, what we're gonna do </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> okay and ano- Hiro, and the other way that it was phrased was, a conceptual discussion of the approach, that you'll take. </U>
+			<U WHO="S4"> mhm okay... <U WHO="S3"> okay... </U> conceptual discussion... <U WHO="S1"> yeah. </U> of approach. <U WHO="S1"> yeah. </U>
+				<EVENT DUR=":10" DESC="PAUSE WHILE WRITING" TEIFORM=""/> okay. </U>
+			<U WHO="S3"> okay, that helps... um... okay actually i'm gonna hafta go, <U WHO="S1"> okay </U> pretty soon. um, okay, so, if we'll just work on the, objectives and methods. is that </U>
+			<U WHO="S1"> uhuh. </U>
+			<U WHO="S3"> okay. lemme just write down... objectives (that we need) let me just (xx) (fix up) <PAUSE DUR=":05"/> um <PAUSE DUR=":30"/> um, mkay so these might even be shorter. i don't know. <U WHO="S1">
+					<OVERLAP> (well) </OVERLAP>
+				</U>
+				<OVERLAP> cuz this </OVERLAP> this one doesn't even say much so... okay. so, i can sort of expand... um <PAUSE DUR=":15"/> and... okay, then the methods. okay. then i can work on the methods... okay so i'll, do you want me to do anything else? um other than like the just the objectives and methods? then i can find out what you guys have, done </U>
+			<U WHO="S1"> i think that's okay cuz, <U WHO="S3"> okay </U> we'll have, Hiro work on his stuff, <U WHO="S3"> okay </U> and, yeah i think that's the best thing. <U WHO="S3"> okay. </U> i think we're almost done </U>
+			<U WHO="S3"> okay. um, do you wanna meet at like eight thirty on Monday? <U WHO="S1"> yeah. </U> is that okay? okay. </U>
+			<U WHO="S1"> or i- what's the_ when do you usually get in? and i'll just </U>
+			<U WHO="S3"> it, depends eight thirty's, <U WHO="SU-m"> okay </U> easy enough to get in </U>
+			<U WHO="S1"> i didn't know whether you were there actually earlier </U>
+			<U WHO="S3"> um, i mean sh- i can be, probably not then. </U>
+			<U WHO="S1"> okay. that's okay. <U WHO="S3">
+					<OVERLAP> okay... and </OVERLAP>
+				</U>
+				<OVERLAP> that's for </OVERLAP> Monday morning. <U WHO="S4"> Monday morning </U> but you can't make it Monday morning. </U>
+			<U WHO="S4"> okay. </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="SU-m"> (cool) </U>
+			<U WHO="S3"> (can i) meet you at NUBS again? </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="SU-m"> okay... </U>
+			<U WHO="S4"> and uh, um, for Monday, uh, when w- will we meet uh for (later) class? four o'clock? </U>
+			<U WHO="S3"> four thirty. <OVERLAP> oh. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> four </OVERLAP> thirty is class. </U>
+			<U WHO="S3"> we have class on Monday at four thirty. </U>
+			<U WHO="S4"> oh it's a master's (xx) <U WHO="S1">
+					<OVERLAP> yes. </OVERLAP>
+				</U>
+				<U WHO="S3">
+					<OVERLAP> yes. </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> (the book?) </U>
+			<U WHO="S1"> they're gonna talk about presentations </U>
+			<U WHO="S4"> uhuh okay. okay... </U>
+			<U WHO="S5"> do you guys know yet when you'll be presenting? </U>
+			<U WHO="S3"> um i sent <OVERLAP> email </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the thirty-first </OVERLAP> i think. </U>
+			<U WHO="S3"> yeah on the thirty-first. <U WHO="S5"> (xx) </U> between four thirty and six thirty i guess. </U>
+			<U WHO="S1"> mhm... but that hasn't been confirmed yet. if that's when we, i'm just thinking more people probably want to go later than early. i don't think we'll have a problem </U>
+			<U WHO="S3"> yeah... okay... </U>
+			<U WHO="S4"> um, Geoff um mor- um sorry. Ma- Martin? </U>
+			<U WHO="S3"> yes. </U>
+			<U WHO="S4"> may i keep this? </U>
+			<U WHO="S1"> yeah i need to make a copy of that. <U WHO="S4"> okay okay </U> so i can go, <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> do that </OVERLAP> right now. </U>
+			<U WHO="S4"> okay. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S3"> okay... okay well thanks a lot for, working on this, this weekend too. <U WHO="S4"> mhm </U>
+				<PAUSE DUR=":05"/> i heard there's like two feet of snow up in the U-P or up, <U WHO="S1">
+					<OVERLAP> think it's (Clio?) </OVERLAP>
+				</U>
+				<OVERLAP> north </OVERLAP> yeah. </U>
+			<U WHO="S1"> wanna take my snowshoes? </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> no. i've got so many warm clothes. </U>
+			<U WHO="S1"> got your waders? </U>
+			<U WHO="S3"> yep those too. </U>
+			<U WHO="SU-m"> okay. </U>
+			<U WHO="S3"> (excuse me) (xx) (your way,) okay i'll see you <OVERLAP> later </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> see you </OVERLAP> later Martin </U>
+			<U WHO="S4">
+				<OVERLAP> see you </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> have a </OVERLAP> good weekend. </U>
+			<U WHO="S1"> yeah you too. </U>
+			<U WHO="S3"> bye <EVENT DESC="LEAVES"/>
+			</U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S1"> so do you want to come over with me while i make a copy of that and then i'll give it to you or do you want me to leave it in your <OVERLAP> mail folder? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> oh okay </OVERLAP> okay </U>
+			<U WHO="S1"> which is easier? </U>
+			<U WHO="S4"> oh, thanks. </U>
+			<U WHO="S1"> which is would you wanna_ me to leave it in your mail folder or do you wanna just come with me? </U>
+			<U WHO="S4"> um yeah i wi- i will go with <OVERLAP> you. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay. </OVERLAP>
+			</U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

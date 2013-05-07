@@ -1,0 +1,906 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="les335jg065">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Graduate Online Search and Database Lecture </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LES335JG065 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="147">
+						<DATE> September 30, 1999 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Bonnie Malczewski, Janine Ovens </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Rodney Pratt </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Aaron Stark, Amanda Jones </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Shannon Allen, Amanda Jones </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amanda Jones </NAME>
+							<RESP> Final Editing, 02/18/02 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="23"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="26"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="VO, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="JG, Students" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="JG, Students" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S17" LANG="NNS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> RUS </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S18" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S19" LANG="NS" ROLE="JG, Students" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S20" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S21" LANG="NNS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S22" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S23" LANG="NNS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S24" LANG="NS" ROLE="JG, Student" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="R2" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, West Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> alright we have about a m- a minute before we get started and you're probably wondering what the hell is going on i told you i'd swear and i tried not to. <EVENT WHO="SU-f" DESC="LAUGH"/> you're probably wondering what the hell is going on. well first of all, first of all, chairs and seats are in different position and i believe some of the students came up to me and said i can't see a thing, so can we change it? and i don't care what you do, i don't see that much of anything in here believe it or not. i mean i do look at you, <EVENT WHO="SS" DESC="LAUGH"/> but i'm not really interested in what the seats look like so i never noticed it. so it's up to you as to how you wanna put it. i have no strong feelings but i definitely do think that this is a lot better, <U WHO="S2"> i like it a lot better. </U> than uh, last week. we have one faculty member who, can_ only likes it in one of those, s- squares or, and like </U>
+			<U WHO="S2"> doesn't it work in this room? </U>
+			<U WHO="S1"> no it doesn't it, the room's just too small. so, that's, number one, okay so i like it better like this so if you guys wanna, i get the feeling you're gonna hafta always come in here and redo it. cuz i know, there may be that one person who loves it in the other position and, okay? and i have no control over that person believe me i have no control. <EVENT WHO="SS" DESC="LAUGH"/> so anyway, um now this looks really strange, one day i was walking across campus, and uh professor John Swales came up to me and i know John Swales is sort of, the great birder John Swales. uh came up to me and said, uh gee we need to come to your class and tape you and i said why? he says well we're working on this great research project. i said well, okay and i also i, forgot to mention that he owes me about thirty-six hours of the best birding in the world after this, uh for having his research team come here and i forgot to mention in our haste last week, that uh, uh the research team from MICASE is that how you pronounce it? <U WHO="R1"> mhm </U> MICASE would be here but they're they are from the University's uh Linguistics Department and this is Janine this is Bonnie and someone will probably wanna say something about it. </U>
+			<EVENT WHO="R1" DESC="MICASE-RELATED SPEECH NEXT 1:53"/>
+			<U WHO="S1"> that Photoshop book is bothering me because i'm thinking that i'm in i'm in six-forty <EVENT WHO="SU-f" DESC="LAUGH"/> so, i am in Online Searching okay. when last we met, i believe, we, learned about_ more about controlled vocabulary searching, and i gave you, some searches to do this past week. so what i'm gonna first do, is handout, an example of a search, which i did quite awhile ago, on the effect of television violence on children. and if we aren't all sick of this, i i guess that there's s- something wrong with us but, <EVENT WHO="SU-m" DESC="LAUGH"/> i mean we've sort of beat this search to death. however it's a good example and, i'm sending this around to you to show you how, one online search can pretty much be done entirely using the online thesaurus. that looks good what is it? </U>
+			<U WHO="S2"> it's just spaghetti. </U>
+			<U WHO="S1"> spaghetti? <OVERLAP> mm </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it's a can of sauce. </OVERLAP>
+			</U>
+			<U WHO="S1"> is it cold or warm? </U>
+			<U WHO="S2"> no i he- i heated it up. </U>
+			<U WHO="S1"> heated up, mm looks good </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3"> are you hungry? </U>
+			<U WHO="S1"> pardon me? </U>
+			<U WHO="S3"> are you hungry? </U>
+			<U WHO="S1"> no i i just went over to the sandwich shop oh, right. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> i am hungry. you wanna pass that around. </U>
+			<U WHO="S1">  i i think i tall- told you the story that i used to teach class from five to seven and i had this one guy come in once with, an entire meal of stewed, green, peppers, <EVENT WHO="SS" DESC="LAUGH"/> stuffed peppers, and they like smelled up the whole class and, you know, you could just tell that everyone was was, sorta, they were hungry. <EVENT WHO="SS" DESC="LAUGH"/> they were hungry. okay if you take a look at this search, you notice that i expand directly into the online thesaurus using the word violence. how do i know to expand directly or double-expand? well i've already looked through the thesaurus to determine, whether violence is a term i wanna use. and i look through those terms and i page to the second list of terms, and i select the ones online are one, violence are four to five, antisocial behavior and aggression, and lines R-eight to R-nine. i guess i did not, uh include any terms from the second, um screen of terms. okay if you turn the page, then i expand into the online tharus thesaurus using the word television, so i preface that with the, E expand abbreviation followed by television, in parenthesis... and again i get the display of the online thesaurus. and there's lots of, words bearing the word television so i select out of the first list the word television, the word broadcast television cable television children's television closed circuit television commercial television, then i page, and i guess i didn't want any terms from the next list and i paged again and then i- i went out and selected, line thirty-two and line thirty-six for television commercials and television research, and then i paged again... selected television viewing, and then i or-ed the three previously created sets for all those terms created using the, television browse or the television expand display. into set eighteen which represents my facet for television. then i expanded on children pretty much did the same and then i said hm there's lots of children terms, instead of, selecting from, the online thesaurus, what i did was the shortcut, select, children... slash D E and what did that give me? what did that give me? what did i retrieve? <U WHO="S9">
+					<OVERLAP> reduces </OVERLAP>
+				</U>
+				<OVERLAP> what am </OVERLAP> i trying to accomplish there? yeah? </U>
+			<U WHO="S4"> any, um, descriptor term that has the word children in in it somewhere. </U>
+			<U WHO="S1"> any descriptor, that contains the word children. whether it's a first word or the last word or if, the word children is embedded in the descriptor, that's exactly right, and so it gives me a shortcut, and then i combine all the previously created sets, for children violence and television. and i retrieve a hundred eighty-seven things which is about right. type out a few, and this whole thing took me a whole two-tenths of an hour which isn't very much. okay? so do you want any of these handouts or you already have one good. <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="R1">
+				<OVERLAP> i alr- </OVERLAP> thanks. </U>
+			<U WHO="S1"> so that's all it took me, it didn't actually take much thinking time. i just sort of expanded from the online thesaurus and then finally did that shortcut of a s- s- s- selecting the descriptor word. if you look at the last page, of this handout. you'll notice, that i... put a big box around... uh all the children descriptors. now of course the use-for terms are not selected but any of those valid descriptors listed in that list, those are the ones i retrieved, by entering the term children, slash D E. and some of you may think that some of these ch- these children descriptors may not necessarily relevant but i got all of 'em. and i was willing to take that risk. so, here's an example of how to do the search using the online thesaurus and an easy shortcut. there are several of you who did this search this past week, and, without going into extreme speci- specifics, about every term you entered um did anyone have a similar experience? anyone use the online thesaurus for that search? okay, and? </U>
+			<U WHO="S5"> um i thought it was really pretty easy. um i used it for the term instruction, when i was doing teaching methods for teaching support staff, word processing, and i'd known from the thesaurus i wanted pretty much everything that was, with instruction, in the thesaurus. um, but there was more on the online thesaurus so i did end up having to choose, the terms once i saw it but it saved me typing 'em all in </U>
+			<U WHO="S1"> so using the online thesaurus can be a good shortcut. okay let's talk about the search generally there are several people in this class who did the search. does anyone want to relate their experiences good or bad? <U WHO="SU-f">
+					<EVENT DESC="LAUGH"/>
+					<OVERLAP> (neither one.) </OVERLAP>
+				</U>
+				<OVERLAP> whe- </OVERLAP> you've now done three searches on this by the way. <EVENT WHO="SU-m" DESC="LAUGH"/> so you should've had it right, the third time hopefully no? anyone wanna share their experiences? yeah. </U>
+			<U WHO="S3"> oh, i'll share, um, g- DIALOG was extremely slow, so you type along. </U>
+			<U WHO="S1"> what time did you, use it? </U>
+			<U WHO="S3"> um, <U WHO="SU-m">
+					<OVERLAP> two o'clock </OVERLAP>
+				</U>
+				<OVERLAP> two o'clock </OVERLAP>
+			</U>
+			<U WHO="S1"> on? </U>
+			<U WHO="S3"> Thur- Wednesday. <U WHO="S1"> hm </U>
+				<U WHO="SU-m"> yes </U> and so you'd type (tap tap tap) so you'd wait and it'd all pop up and then backspace backspace backspace once you realize you typed an error and then <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S1"> okay </U> but um </U>
+			<U WHO="S1"> that's actually more typical of like Friday afternoons, although, you know people say like around here on campus, that um, the busiest day is always Wednesday. for example people take off Monday and they'll take off Friday but Wednesday, everyone seems to be at work and everyone's working on Wednesday so maybe what happened was, you know you're just getting that, high load period. </U>
+			<U WHO="S3"> um, i had, i had the um, preventing, pregnant teeche- teenagers from dropping out. and i, i had three boo-boos in my, search that i found out. i, had the word, dropouts but it's, one word and i, entered it in as two. so, error number one. so <EVENT WHO="S1" DESC="SOUND EFFECT"/> then i included <EVENT WHO="SS" DESC="LAUGH"/> and then, so, then i had withdraw, parenthesis education. and i didn't know, is that considered one word so you can use slash D-F to search in a descriptor field? </U>
+			<U WHO="S1"> if you're ever in doubt what do you do? </U>
+			<U WHO="S3"> do it </U>
+			<U WHO="S1"> do it. </U>
+			<U WHO="S3"> so i did it both ways but, they still hit a, zero so, </U>
+			<U WHO="S1"> with <U WHO="S3">
+					<OVERLAP> with that, zero </OVERLAP>
+				</U>
+				<OVERLAP> that particular construction? </OVERLAP> okay i- i have to take a look at it </U>
+			<U WHO="S3"> okay and then, then, after it was all done, i realized when i had, retyped in dropout as one word i forgot the slash D-F so i en- ended up, <EVENT DESC="SOUND EFFECT"/> yep. <EVENT WHO="SS" DESC="LAUGH"/> so, it didn't search just the descriptor field as one word cuz i had it in my brain as two words. </U>
+			<U WHO="S1"> okay, well, but it's also important to know, oh no, i did it wrong next time i'll catch myself and i'll know how to do that and that's important too. okay any, experiences you wanna share on the first search, the television violence and children, i know there's at least five of you who did that search here and i know you're all very reluctant to speak because you know that eventually your speech, in this class will be up on the web, and you feel so, nervous and concerned about that, you know, you're afraid that you know it says, Wendy Halloway said at such and such a date and so on but they aren't gonna, they aren't gonna identify you so tell me what happened in your search. yeah? </U>
+			<U WHO="S6"> i went ahead and did it and, i got about two hundred and fifty hits and, i took each term and did a single set, as i went along, and then combined them, after i was done with each facet. so, it took me a, little longer but uh, i was pretty happy with the results i got. </U>
+			<U WHO="S1"> okay, that's fine. that's fine i mean if, if you feel right now, comfortable just, typing in a word, getting Dialog to respond with the set, and typing in the next that's fine. i mean sooner or later i think you'll feel comfortable. stringing several words along, and then combining them. let me just show you some constructions that are possible. <PAUSE DUR=":20"/> for example you could say select children, slash D-F. hit return <PAUSE DUR=":05"/> get Dialog to put the results in the first set, and then enter the next one, which may be, select adopted children.... hit the return, and then get set two. and then go on, (in a vigilant) very deliberate, paced manner that's fine. okay? but you may find, as you feel more comfortable <PAUSE DUR=":04"/> that it's easy, to just do something like, select children, or adopted children, or, foster children... or grandchildren, and just get in the habit of doing this, close it off with the parenthesis and say slash D-F to limit your retrieval to full descriptors. okay? yeah? </U>
+			<U WHO="S6"> quick question does Dialog cut it off at some point? how many can you string along? </U>
+			<U WHO="S1"> good question. anyone wanna take a guess? yeah. </U>
+			<U WHO="S7"> about eight? </U>
+			<U WHO="S1"> about eight terms? <U WHO="S7"> mhm </U> no. </U>
+			<U WHO="S7"> no? </U>
+			<U WHO="S1"> depends how long the eight terms are. if those eigh- eight terms, are two hundred forty characters, <U WHO="SU-f"> two hundred forty characters </U> you're in business. so, for those of you have used eighty-column punch cards do you remember those? <EVENT WHO="SU-f" DESC="LAUGH"/> they were sorta funny looking for those of us who were very old and they sort of looked like this and, had a little side and they had little... okay those were, for the, i know some of you are looking at me saying what the heck's that? <EVENT WHO="SS" DESC="LAUGH"/> you probably don't even know what the catalog card is, <EVENT WHO="SS" DESC="LAUGH"/> but anyway these are eighty-column punch cards, where you had eighty spaces in which to say it actually it's less than this because this was identifying data, at least mine were there were thirty-three characters which are identifying data, and then you had the rest of the characters, what's eighty minus, fifty-seven? </U>
+			<U WHO="S6"> forty-seven. </U>
+			<U WHO="S1"> forty-seven. you had forty- s- seven characters for data. okay but for those of us old people that used to work in this environment that's what it was like and it wasn't that long ago. so basically you get a, two hundred forty, which is three cards. <EVENT WHO="SS" DESC="LAUGH"/> and the way we used to know, how this happened i think it may be the same on Telnet it really allows you to go, eighty across, i believe, hit return another eighty down, and then hit return another eighty down it should. but if it doesn't, uh it's basically, three lines. yep? </U>
+			<U WHO="S8"> that includes the blanks that you put in between <OVERLAP> the </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes sir, </OVERLAP> a blank is a character. </U>
+			<U WHO="SU-f"> really? </U>
+			<U WHO="S9"> you have to hit return. </U>
+			<U WHO="S1"> if you hit return after you have typed, two hundred forty characters Dialog will respond with what? <PAUSE DUR=":05"/> just a question mark. sorta saying it's still ready. <EVENT WHO="SS" DESC="LAUGH"/> okay. it may say something like too many characters or whatever, okay? but </U>
+			<U WHO="S10"> says command is too long. </U>
+			<U WHO="S1"> command is too long that's what it says. okay? i should've, covered that earlier but it's just, one of those many little details that, i, just don't necessarily get to. okay another way you could've, entered this okay is like this, or what was this grandchildren? <U WHO="S4"> mhm </U> okay. and then, it would be set one for children, set two for adopted children set, three for foster children set four for, grandchildren set five for the ordered set of all those. then, because you still want that result, and you're still building your facet for children, you could say select S-five or, hospitalize children... or latch-key children <PAUSE DUR=":04"/> or migrant children <PAUSE DUR=":06"/> or minority, group, children. i'm not writing everything else, out because i just don't, have enough, time, to write everything out. and so on and so forth okay? now if you still wanna enter in, i don't know maybe this is gonna, be what set six set seven set set eight, i don't know where it's gonna end, but let's say it ends at set thirteen? and here you say set thirteen or and more children descriptors, alright? okay? so you know that when you've entered your last set you've got your children facet, done. you don't have to look back necessarily and combine, maybe set eight and set, twenty, set eight or set twenty or set twenty-five or set thirty, to make your children facet. you're carrying it with you. by starting with, by starting with, the last, fa- combined, set here. yeah? </U>
+			<U WHO="S11"> where would you put the parenthesis in the second line? </U>
+			<U WHO="S1"> oh it's the same thing. oh, right here. </U>
+			<U WHO="S11"> okay. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> that's all. <PAUSE DUR=":04"/> okay...? alright? any questions about that? okay anything else you want to, um, share with me with this children search? yeah? </U>
+			<U WHO="S12"> um, in uh, uh, in, trying to figure out which uh, descriptors to use uh, i was thinking about antisocial behavior and trying to think to myself, you know would this be a good descriptor for this? and there are no scope notes on it. um, uh so i, i looked at the, i looked at the list of, narrower terms, essentially what they considered subsets, of antisocial behavior. </U>
+			<U WHO="S1"> excellent way to do it. </U>
+			<U WHO="S12"> uh, okay then, basically it all looked like, it virtually all looked like adult behavior the narrower terms are are, child abuse, uh driving while intoxicated, sexual abuse terrorism there are, a- a lot of others that imply adult rather than child activity and so on that basis, i, <OVERLAP> decided not to use it. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> didn't use it </OVERLAP> um, </U>
+			<U WHO="S12"> in the absence <OVERLAP> of scope notes this is uh this an an okay </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's, that's a good approach </OVERLAP> to doing it that's what i do. another thing you can do is check the printed volumes if you have them nearby, to see, just like you did the first week, remember when you, used, ERIC? to see what citations are actually um, assigned to that descriptor. um, i think, here experience comes to bear. i think after awhile, you start to see certain descriptors, become familiar with them, see them more and more, and find, ah this will probably work. <U WHO="S12"> mhm </U> um... in this particular case antisocial behavior, in my experience and again i'm speaking more from experience, it won't harm you here, using it in this particular search, <U WHO="S12"> uhuh </U> and i think it'll actually buy you something. so i would include it. and last week when we went through the search antisocial behavior was one of the descriptors we chose, okay? </U>
+			<U WHO="S12"> that was why i was real careful before i threw it out. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay. alright. any other questions about the search? yeah? </U>
+			<U WHO="S13"> um, one of mine actually e- one of my descriptors was uh television behavior, <U WHO="S1"> mhm </U> which i found in the printed thesaurus, but, when i entered it in here, actually i made sure the, it's spelled correctly and i just ended up with a big fat egg. </U>
+			<U WHO="S1"> you got zero? </U>
+			<U WHO="S13"> yeah. </U>
+			<U WHO="S1"> and it was in the thesaurus? </U>
+			<U WHO="S13"> in the printed thesaurus yeah. </U>
+			<U WHO="S1"> television behavior? </U>
+			<U WHO="S13"> uhuh </U>
+			<U WHO="S1"> you sure? </U>
+			<U WHO="S13"> i'm <OVERLAP> pretty sure, yeah </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> how do televisions behave? </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah i don't know how televisions can behave either. um, </U>
+			<U WHO="S13"> i thought it was just (xx.) <U WHO="SU-f"> maybe it was a (xx) </U> (weird) combination of things. </U>
+			<U WHO="S9"> did it have a parenthesis around it? </U>
+			<U WHO="S1"> the only thing i can do is go online to take a look to see what happened here. do i wanna save what's cha- (xx?) i don't think so. <EVENT WHO="SS" DESC="LAUGH"/>
+				<PAUSE DUR=":04"/> okay let's just take a real quick look. <PAUSE DUR=":06"/> television behavior? </U>
+			<U WHO="S13"> yeah. </U>
+			<U WHO="S1"> were you on something that day or? <EVENT WHO="SS" DESC="LAUGH"/>
+				<EVENT DUR=":06" DESC="PAUSE WHILE TYPING"/> yeah i'm, sure, <EVENT DUR=":15" DESC="PAUSE WHILE TYPING"/> okay, in order to find out whether that was a descriptor, ho- what would i do? </U>
+			<U WHO="SU-m"> can you make that <OVERLAP> bigger? </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> double expand </OVERLAP>
+			</U>
+			<U WHO="S1"> oh yeah but what would i do to find out whether he used a valid descriptor? come on somebody help me out. </U>
+			<U WHO="S12"> expand on television. </U>
+			<U WHO="S13"> expand? </U>
+			<U WHO="S1"> expand what? </U>
+			<U WHO="SS"> television </U>
+			<U WHO="S1"> would i do a single or double expand? </U>
+			<U WHO="S13"> double. </U>
+			<U WHO="S9"> double. </U>
+			<U WHO="S1"> okay, why? </U>
+			<U WHO="SU-m">
+				<OVERLAP> because </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> you want the </OVERLAP> thesaurus term. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="S14"> because that will give you all the descriptors with the word television in 'em. </U>
+			<U WHO="S1"> okay and if it isn't used as a descriptor what will happen? will it give me an error message? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S9"> it just wouldn't show up <OVERLAP> on there. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> if you're expanding </OVERLAP> television it just wouldn't show up on the list. </U>
+			<U WHO="S1"> mkay let's take a look at it. i'm gonna go expand, television behavior. so, all i can think of is the television like, getting up on two legs and, <EVENT WHO="SS" DESC="LAUGH"/> marching around has those two little, you know, aerials up there, it must, <U WHO="S14"> teletubbies </U> i don't quite know what television behavior is but we're gonna find out are you ready? okay, here it goes... no related terms which means, </U>
+			<U WHO="SS"> it's not a descriptor. </U>
+			<U WHO="S1"> probably isn't used as a descriptor i'm gonna single expand, i would single expand because, if the R-T columns show up, with a posted number, in them that usually tells me this is a descriptor. <PAUSE DUR=":16"/> zero. okay well it's zero because it isn't used. i'm just going to say select television behavior. maybe, maybe, since so many televisions have been known to stand up and dance, <EVENT WHO="SS" DESC="LAUGH"/> that ERIC-indexers have decided that, you know they're gonna use it as an identifier for awhile so this may be an i- you know an identifier right now. it's a descriptor in waiting. <EVENT DUR=":07" DESC="PAUSE WHILE TYPING"/>
+				<EVENT WHO="SU-f" DESC="LAUGH"/> zero. uh, what do you think he was using? when he looked in the thesaurus? we're just kidding, okay </U>
+			<U WHO="S14">
+				<OVERLAP> cocaine? or uh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we're just kidding. </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/> it's not used as a descriptor i'm sorry to say so, whatever. i'll actually see, whether television, and behavior have ever been used, adjacent to one another, anywhere in the text, an- this will also be interesting because uh, i'd like to see, what television behavior is. <PAUSE DUR=":04"/> oh there's sixteen of 'em. so let's look at their title see if it's about dancing televisions or, oops <PAUSE DUR=":11"/> yeah i don't see it there but it's pretty, pretty uninteresting stuff. let's just look at the um, it's probably in the abstract. </U>
+			<U WHO="SU-f"> it was in the first one </U>
+			<U WHO="S1">
+				<PAUSE DUR=":05"/> okay someone find me television behavior in here. <PAUSE DUR=":09"/> television <U WHO="SU-m">
+					<OVERLAP> there </OVERLAP>
+				</U>
+				<OVERLAP> behavior </OVERLAP> there it is. <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<SEG TYPE="READING"> findings suggest that television behavior is not a singular behavior </SEG> it's multiple right? <EVENT WHO="SS" DESC="LAUGH"/>
+				<SEG TYPE="READING"> television is watched so many different ways it appears however that television is on the whole a social activity for college students </SEG> see you guys are not doi- you were probably not doing your work you were watching television when you chose this word. <EVENT WHO="SS" DESC="LAUGH"/> right? </U>
+			<U WHO="SU-f"> that's what you were doing, watching T-V. </U>
+			<U WHO="S1"> let's see about the other one. where's television behavior anyone see? <U WHO="SU-f"> it's in the title. </U> ah <SEG TYPE="READING"> i- in the search of television behavior pretest measure </SEG> whew boy there's something to make you fall asleep. <EVENT WHO="SS" DESC="LAUGH"/> okay well, we made our point, sorry, it's not used. <EVENT DESC="SOUND EFFECT"/> i'm gonna really enjoy that one. would you highlight it so i, <EVENT WHO="SS" DESC="LAUGH"/> can find it? d- do you know what i mean when i say <EVENT DESC="SOUND EFFECT"/>
+				<EVENT WHO="SU-f" DESC="LAUGH"/>
+			</U>
+			<U WHO="R1"> i don't think so. </U>
+			<U WHO="S1"> okay well i'm gonna grade their searches, <U WHO="R1"> okay </U> and <EVENT DESC="SOUND EFFECT"/> means i get to take off points okay? <OVERLAP> so it was a little </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> how are you </OVERLAP> going to record that, when you're, writing this down, how do you spell <EVENT DESC="SOUND EFFECT"/>
+			</U>
+			<U WHO="R1"> that's a good question, <EVENT WHO="SS" DESC="LAUGH"/> we'll figure that out, <U WHO="R2"> sound <OVERLAP> effect. </OVERLAP>
+				</U>
+				<OVERLAP> when we </OVERLAP> get to it </U>
+			<U WHO="S1"> okay um, am i not supposed to notice that you are here and all that? </U>
+			<U WHO="R1"> it really doesn't make any difference. </U>
+			<U WHO="S1"> okay, yeah? </U>
+			<U WHO="S4"> um, someone was, showing me a website that had ERIC descriptors on it, and i wanted to make sure that it's, it's a, source that we could use. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S4"> um, it was, do you have the web up? </U>
+			<U WHO="S1"> would you like to just type it in here, while we're sitting here? okay anything else about television violence and children? you have five seconds to respond if you do not we're moving on to the next search... it's gone. okay, the next one i wanna talk about, is the pregnant teenagers. and i have another example of a search for tha- this one, which i almost handed out last week and gave you the answers, now i'd hate to do that. <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<EVENT DUR=":15" DESC="PAUSE"/> and there's nothing fancy about it. i had three facets in here, um... dropouts, pregnancy, and adolescence. and you can see the descriptors i used here... ERICAE? </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="SU-f"> this is an online error. and then when you're inside it gives you this wh- outline and all the descriptors and then you check 'em off. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S1"> okay so what does this do? </U>
+			<U WHO="S4"> it, it seems to have the um, the, thesaurus online with broader terms narrower terms relation terms and </U>
+			<U WHO="S9"> and can you get it off the library homepage electronic resources, ERIC, databases. </U>
+			<U WHO="S1"> yeah the ERIC system now has lots and lots of resources out there for you to use on the web. may actually have the ERIC database i haven't checked recently, is the ERIC database available on the web to s- search now? it may be. </U>
+			<U WHO="S9"> this, this kind of is their database. </U>
+			<U WHO="S1"> this is their database? okay <U WHO="SU-f"> yeah </U> can i take a quick look? </U>
+			<U WHO="S4"> sure. </U>
+			<U WHO="S1"> is this the homepage for it? </U>
+			<U WHO="S4"> i, i'm not sure actually. </U>
+			<U WHO="S9"> you can get to that <U WHO="S1"> okay </U> to it through the Michigan, the library's homepage, through Electronic Resources it's listed there. </U>
+			<U WHO="S1"> it was under search ERIC? </U>
+			<U WHO="S9"> yeah </U>
+			<U WHO="S1"> did you get through it from searching ERIC saying search ERIC? is that how you got to it? </U>
+			<U WHO="S4"> no i g- i, wrote in a real long U-R-L. </U>
+			<U WHO="S1"> oh okay. </U>
+			<U WHO="S9"> search ERIC is just a straight search and then they have this search wizard which is where they show you the thesaurus on the right. </U>
+			<U WHO="S1"> yeah this looks to be, from, one of the clearinghouses, uh, of the ERIC system. the, ERIC Clearinghouse on Assessment and Evaluation. and i would say, that this is probably just fine to use. okay? <U WHO="S4"> okay </U> little bit out-dated in its design but, <EVENT WHO="S4" DESC="LAUGH"/> i mean it's, it's okay i mean some of these are, i mean it's nice that they roll over, <EVENT WHO="SS" DESC="LAUGH"/> but, </U>
+			<U WHO="S4"> cuz i looked_ i found some terms that weren't in the, in the book and i ended up not using them just cuz i was <U WHO="S1"> oh really? </U> nervous about it. i i wasn't sure. like there's bullying for for violence which i thought would have been a good term but, </U>
+			<U WHO="S1"> do i do it using search ERIC? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S4"> there you go uh in the box down at th- further down that way. </U>
+			<U WHO="S1"> right here? </U>
+			<U WHO="S4"> yeah so if you type </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> um, i wish they had put in, when they started to use this. </U>
+			<U WHO="S4"> can you click on the, term? will it let you go any further in? no i guess not. </U>
+			<U WHO="S1"> it's blue. very ba- very poor design to have it in blue why? </U>
+			<U WHO="SS"> looks like a thing you can open </U>
+			<U WHO="S1"> you think that you can select it. these others you can't cuz they have an underline but, this is not a search on, web design, search i don't know it's not a uh, class in web design. okay, um let's do pregnant teenagers students whatever it is. so where are we on the search? how about your experiences doing the search? i don't like my search i think i would leave off adolescence, because adolescence is almost implied by, the pregnant students facet, because they are students and a dropout facet, i mean what else would they be? again the only dropouts that there could be is from Lamaze classes it's the only thing, that's possible that they're dropping out of i- unless they're dropping out of society or life or whatever. okay your experiences doing the search. anyone wanna share them? </U>
+			<U WHO="S15"> it was okay. </U>
+			<U WHO="S1"> good </U>
+			<U WHO="S15"> and i felt very good about it, <EVENT WHO="SS" DESC="LAUGH"/> i followed my script, um </U>
+			<U WHO="S1"> how many did you get? </U>
+			<U WHO="S15"> sixty </U>
+			<U WHO="S1"> that's about right. </U>
+			<U WHO="S15"> and i, um tested using like forty to fifty i, typed those records to see, what kind of records i'd get towards the end of my search, um </U>
+			<U WHO="S1"> why would those be any different get than the ones that you got first? </U>
+			<U WHO="S15"> i don't know i just, my experience in searching in general in other systems has been that, usually, people don't wanna wave through to the end. they're gonna look at the first ten depending on, you know what their needs are. </U>
+			<U WHO="S1"> this is actually a re- real important point. why should it not matter in this case-searching Dialog? </U>
+			<U WHO="S15"> cuz everything, should be, as good, as the beginning searches. </U>
+			<U WHO="S1"> right. there is no ranking, using Dialog. at least, this classic, Dialog or Dialog Classic that we're using. a Dialog does have another system called i believe, Freestyle. which does do some ranking. okay? but i think it only gives you the first fifty or, whatever. oh we may get to that or you may wanna do that for one of you s- uh search reports. yeah? </U>
+			<U WHO="S15"> so <OVERLAP> is that okay? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's it? okay, good </OVERLAP> what facets did you have? </U>
+			<U WHO="S15"> i had three facets, i did pregnancy, um, teenagers and dropping out. <U WHO="S1"> okay </U> and then i expanded under each of those and i didn't, have as many under pregnancy, um, i limited it to, pregnancy slash D F and pregnant students. um <OVERLAP> may </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, </OVERLAP> i i would suggest to you, that there are some more <U WHO="S15"> okay </U> like unwed mothers, and early childhood or early parenthood or whatever it was, that there some others to use. <U WHO="S15"> okay </U> and, since there are so few, i would add more. <U WHO="S15"> okay </U> on the other hand you got sixty citations so it didn't necessarily hurt but if you wanna be more comprehensive, you wanna add more descriptors. any other experiences on the search...? yeah </U>
+			<U WHO="S16"> i used, the precoordinated, facet of pregnant teenagers as well as pregnancy, in teenagers and dropping out, <U WHO="S1"> okay </U> and ended up with two hundred and twenty-four, results. </U>
+			<U WHO="S1"> okay. i'll take a look, it sounds like, there may be, there may be the chance of a logic error, you should be getting around, the sixty seventy how many did this search? how many did you come up with? </U>
+			<U WHO="S10"> well, i got a hundred and twenty but i didn't use the slash D F on dropouts </U>
+			<U WHO="S1"> sixty? </U>
+			<U WHO="S15"> sixty </U>
+			<U WHO="S17"> one hundred forty-three. </U>
+			<U WHO="S1"> one forty-three. i'll take a look <U WHO="S15"> okay </U> okay. but what you may have done was expanded your search, in such a way, </U>
+			<U WHO="S16"> it's too wide <EVENT DESC="LAUGH"/> maybe </U>
+			<U WHO="S1"> well you have an or in there maybe it's like the way we discussed last week, i'll take a look, you know it may have worked, you know. let's take a look. did you use all your D-Fs and limit it to descriptors? </U>
+			<U WHO="S16"> yes. </U>
+			<U WHO="S1"> okay good. cuz you may have had the same problem as the person who didn't, okay any other last thoughts about this search...? you're all so strangely quiet. <EVENT WHO="SU-f" DESC="LAUGH"/> okay what was the next search? let's do the support staff one, which ever one, that one was. i don't have a handout for that cuz, we're, like eating up trees and then we're having problems with the Xerox machine and so on. so we recall what facets there were, there was a facet for what? </U>
+			<U WHO="S11"> support staff. </U>
+			<U WHO="S1"> and a facet for </U>
+			<U WHO="S11"> word processing. </U>
+			<U WHO="S1"> okay were there any others? </U>
+			<U WHO="S12"> teaching <OVERLAP> methods </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> teaching methods </OVERLAP>
+			</U>
+			<U WHO="S1"> teaching methods? okay. anyone wanna relate their experiences on this search? you can even say if something went wrong you know i won't get angry at you now, <U WHO="S5"> well </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> yeah? </U>
+			<U WHO="S5"> i had, i forgot to put the slash D F in at the end of my, or-ing and um, i came up with eighty-five which wasn't huge, but i got a lot of help-wanted ads which, i probably would've gotten rid of, if i would've put in the D F? </U>
+			<U WHO="S1"> you got help-wanted ads? </U>
+			<U WHO="S5"> yeah i got like, three help-wanted ads in my first six. </U>
+			<U WHO="S1"> no, were you searching ERIC? </U>
+			<U WHO="S5"> yeah. </U>
+			<U WHO="S1"> no, <EVENT WHO="SS" DESC="LAUGH"/> we gotta see this. </U>
+			<U WHO="S5"> oh i guess it was a survey, a help-wanted ads survey kept popping up that wasn't good. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> there must be some, descriptor combination, with those that's, resulting, in retrieving that <U WHO="S5"> yeah </U> okay? if you got many many, help ads wanted survey where you really didn't want that i may not out the term ads, A D S <U WHO="S5"> mhm </U> i don't know what you'd be losing, </U>
+			<U WHO="S5"> not much i don't think </U>
+			<U WHO="S1"> i don't think so. <EVENT WHO="SU-f" DESC="LAUGH"/> i mean that's if you get like, you know thirty or forty and you think, you know that this is, getting you off-track. that's interesting. also i would actually look at a few of those. just to see why i'm getting 'em. <U WHO="S5"> mhm </U> s- and i would say gee, did i say something wrong that i'm getting all these? or, are they just using the terms, word processing, secretaries and, some particular, teaching approach, you musta used surveys, that's what it was. <OVERLAP> did you use? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> oh maybe </OVERLAP> yeah, um... no. no surveys. <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S1"> okay. <U WHO="S5"> no. </U> well, again i would type those out just to find that_ they're bothersome enough, to just w- want me, to, print a few out just to see what's going on. okay any other experiences with the search? that you wanna share? with everyone? <EVENT WHO="SS" DESC="LAUGH"/> even though you may not know who they are. yeah? </U>
+			<U WHO="S24"> i went ahead and for um, the support staff facet i ordered all my terms together but i didn't do the parentheses, slash D F i just put D F after, the two terms that needed it. </U>
+			<U WHO="S1"> that's fine </U>
+			<U WHO="S24"> okay so there's no really no </U>
+			<U WHO="S1"> that's fine, you did fine. so she just wants to, basically whenever she entered a v- one word, descriptor she put the D F as opposed to putting a parenthesis, in in the D F at the end. th- a- that is parenthesis around everything and the D F at the end... any other questions? comments about this particular search? <PAUSE DUR=":05"/> no? none? <PAUSE DUR=":20"/> did you all change your mind and do a different search? <EVENT WHO="SS" DESC="LAUGH"/> okay let's go on and do the next one what was the next one what one? haven't we covered? </U>
+			<U WHO="SU-m"> (we didn't, did we do this?) </U>
+			<U WHO="S18"> we didn't do library service to physically handicapped that was five </U>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="S1"> okay, library services to phy- physically handicap. d- yes? </U>
+			<U WHO="S14"> um, i completely screwed mine up. <EVENT WHO="SS" DESC="LAUGH"/> and, and, when i did the search for my first facet i was doing two at a time with the descriptors. and then when i combined 'em, to make, at the end i ha- i think i had four groupings. i used and instead of or. and then when i finally combined all three facets i got a big fat zero. </U>
+			<U WHO="S1"> and you know why. </U>
+			<U WHO="S14"> yes. and i, don't know why i did it but <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay. did you have it right on your, <OVERLAP> script? </OVERLAP>
+			</U>
+			<U WHO="S14">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S1"> or your, okay. well i'll take a look at e- you know, it's good_ did you realize then when you were online when you did that or after you signed off and you, stewed about it for awhile? </U>
+			<U WHO="S14"> after i stewed a little while. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay, and, this is sometimes typical, when you're first learning how to search. that's why i try to say don't revise online, because sometimes it does take you a little while to sort of figure out, what exactly did i go wrong, where i wound up with, zero or i wound up with, thirty thousand, you know sometimes, when you're online it's just too hard to assess that. <U WHO="S14"> yeah unfortunately </U> yeah i sort of like the old days, i guess maybe i'm just one of those, analog print people, when we had these long printouts. and you could look through that long printout while you were online. now with this awful, Telnet, animal, you can only really look back a few screens. and i just find it very, disconcerting. i i wish i could look back, all the way to when i began. and D S is really the only thing we have, to accommodate, that browsing backwards, in your search. <PAUSE DUR=":04"/> yeah? </U>
+			<U WHO="S9"> i also messed mine up i think all of us who did number five <EVENT DESC="LAUGH"/> we got really frustrated i don't know why, bad luck. um, and i was looking over it trying to figure it, i ended up with a way high number at the end s- some eight thousand, results. um, what i had done was, i started out by expanding my first facet which was library services, and then or-ing those together expanded the second, facet, physically handi- or whatever i was using, physical disabilities, or those guys together, and them, and those two and then i thought i would just not out, the mental retardation stuff but, when i, and-ed together the first ones i already had a huge number which i hadn't expected i had expected that and-ing them together would, reduce the number quite a bit and i couldn't find enough nots, to reduce the number. um, looking back on it i see i made a couple of mistakes um, o- o- o- one of them was that i- in my library service facet i used the term outreach or the phrase outreach programs, which isn't actually a library, thing at all, could be also to other li- outreach programs and it's possible that that one, did, uh, i made some also just some, stupid mistakes which shouldn't have affected the number though just stupid mistak- so i'm, i'm puzzled by the huge number at the other end </U>
+			<U WHO="SU-m"> uh </U>
+			<U WHO="S1"> i would have to take a look at your search to actually tell you exactly what went on... my guess is, and i'm i'm this is just my hunch, um, that again you may have used an or, instead of an and. that's a possibility. or you may have used, an and, but perhaps on the wrong set. <EVENT WHO="S9" DESC="LAUGH"/> okay? but i have to look through your entire search to find out exactly when that happened. now what i would suggest if you're using the not capability, is, and i think in in this case we have search <PAUSE DUR=":04"/> it was library services, </U>
+			<U WHO="S9"> physical disabilities, and then not-ing out mental retardation <OVERLAP> (discussing it back) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay so we have a </OVERLAP> library services facet, <U WHO="S9"> mhm </U> and then we had a, </U>
+			<U WHO="S9"> physical disabilities </U>
+			<U WHO="S1"> physical disabilities, </U>
+			<U WHO="S9"> uhuh </U>
+			<U WHO="S1">
+				<PAUSE DUR=":05"/> what i would do, is i would build the set, for library services. so you're gonna have, you know i don't know if the descriptors were, what were they? library services </U>
+			<U WHO="S9"> bookmobiles libraries library acquisition library extension, li- library surveys public libraries reference services, it goes on and on. </U>
+			<U WHO="S1"> okay. build that. then i'd create your second set, for your physical disabilities. <U WHO="S9"> yep </U> and again, listing all the terms, or synonyms, and then combining them with a word. <U WHO="S9"> right </U> this would be the same. my next step, would be to and, this set, for library services with this set, for physical disabilities. <U WHO="S9"> that's what i did. </U> okay? then i'd say to myself oh, i have, mm so many. do i need to reduce it? now at that point you may decide you don't wanna reduce it. you don't always have to reduce it. okay? so i build each one, and then, make a decision after looking at those whether to reduce it. on the other hand, you could go out and build that third set for all the other disabilities... so we have a, third set out here. <PAUSE DUR=":04"/> for other disabilities <PAUSE DUR=":04"/> and we list all the descriptors whatever those disabilities are... and what we could do... is combine together, library services and, physical di- disabilities not, the other disabilities. now what we've done by doing this in one fell swoop is, we've never found out what the combination of these two is. okay? never found out the combination. you could combine these two together, and maybe get thirty-three, hits. now the not, condition, with the not Boolean operator is always going to reduce, your number of hits. if you do that one operation, library services and physical disabilities not other disabilities, then you haven't evaluated, this first condition here. okay? so that's how i would pr- proceed. now it sounds like, this was a complex search i mean it required, three sets with lots of descriptors in 'em. cuz there were lots of descriptors out there, and i think perhaps, in the process of, adding all those, you know typing all those terms in, uh trying to keep, uh... uh keep in mind what all your, facets were and what all your sets were, it sounds like you might have, incorrectly combined, combined, um, some terms that should have been, in this facet in that facet, and vice versa. okay? and this sometimes happens when we do a search but until i take a look at it i won't know. okay? alright any other experiences for this particular search? yeah? </U>
+			<U WHO="S7"> i um, got a reasonable number of sets, two ninety-six, for the results, but the way i did it, i think i really, uh screwed up the um, uh the wha- what's the Cutter's law. um, library services, i generated by, y- there're a lot of specific descriptors with not many man- many narrower terms simply used anything, uh that you know looked appropriate, from the scope notes. uh, and then we go to physically handicapped and other handicap was just my shorthand and um, then something like developmental disabilities it'll be four or five under it. um, i used developmental disabilities instead of listing all those under it. uh i got a dozen terms there, and about uh, and eleven nots. <U WHO="S1"> hm </U> um, but the results that i see on the printout, all look_ they're almost all bang-on <EVENT DESC="SOUND EFFECT"/> but i'm sure i'm, sure this is gonna get me into trouble if i keep doing it this way from <OVERLAP> from what i'm (noticing) here. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> let me take a look, </OVERLAP> let me take a look, to see what happened okay? i don't have the benefit of seeing what you did. and what i'll do is i'll i'll take your searches, go through them and correct them and then, what i try to do is, write, some little notes to, myself and eventually to you to tell you what i found, mostly happening in those searches, that, was, not necessarily positive. although i do say some things that are positive i mu- i much more looking for negative things because, i- i enjoy that process so much more. <EVENT WHO="SS" DESC="LAUGH"/> okay so i- i'll tak- let me take a look to, to, find out what may've, gone on right or wrong okay? um was there one more search here? are we done? <U WHO="SU-m"> (looking good.) </U> did we do 'em all? </U>
+			<U WHO="S9"> i think there's one more. </U>
+			<U WHO="SU-f"> no there was one more </U>
+			<U WHO="S19"> there was the eating disorders <OVERLAP> one </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh yes </OVERLAP> my favorite one. okay, anyone wanna talk about this one? </U>
+			<U WHO="S19"> not much to say i did it sort of the, very simple way just listed out all the descriptors and, put them into or-ed sets and then and-ed them together and i got ni- nine results. </U>
+			<U WHO="S1"> she got nine results. were you, were you concerned that you only got nine? </U>
+			<U WHO="S19"> not especially <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> guess she leads an e- easy life. any of any the rest of you get, nine or more or fewer? </U>
+			<U WHO="S20"> i got nine exactly too. </U>
+			<U WHO="S1"> did you, use each other's papers and look? </U>
+			<U WHO="S20"> no. </U>
+			<U WHO="S1"> you're sure you didn't do it together? </U>
+			<U WHO="S20"> i'm sure </U>
+			<U WHO="S3"> i can vouch she's in my session </U>
+			<U WHO="S20"> yeah i'm in her session i'm not in her session. </U>
+			<U WHO="S1"> okay but you could've gotten together beforehand. <EVENT WHO="SS" DESC="LAUGH"/> anyone else do this search? </U>
+			<U WHO="S21"> i did yeah um, i probably, i screwed up royally. <EVENT WHO="SS" DESC="LAUGH"/> but if, there was a prize for, the most thorough screw-up yesterday that was mine. eh, i did my search, i got the and i got, four hits, which i found, surprising, got the printout reviewed, my search and found out that i had left one facet out of the, search. </U>
+			<U WHO="S1"> but you got four hits? </U>
+			<U WHO="S21"> yep </U>
+			<U WHO="S1"> oh. well i'll i'll take a look at it see see what it, what facet did you leave out? </U>
+			<U WHO="S21"> teenagers. </U>
+			<U WHO="S1"> actually that was the least important facet why? why? </U>
+			<U WHO="SS"> because eating disorders occur in teenagers, mostly. </U>
+			<U WHO="S1"> i heard it. </U>
+			<U WHO="S20"> eating disorders occur in teenagers, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> eating disorders </OVERLAP> are, more likely, to occur in teens, particularly female teens although they're finding more men are concerned about it. </U>
+			<U WHO="S4"> in broken homes they're of- more often talking about kids from broken homes now </U>
+			<U WHO="S1"> yeah. you know this search does not have a lot of citations attached to it. there just is not, a lot of literature out there about this particular hypothesis. i'm waiting for someone to do their dissertations on it by the way. guess the linguists won't do it, we'll worry about the psychology people. <EVENT WHO="SU-f" DESC="LAUGH"/> um, there's just not a whole lot out there and so in my previous classes i always had all this fretting and, gnashing of teeth and tearing of hair or, however the expression goes, of people who only got two citations and i think, this sort of grows as one citation a year, no matter how anyone does this search it grows by one a year. and we even now have, the um, the descriptor eating disorders to use we didn't used to have that. uh, that was new a few years ago, so um, it's interesting to see how that literature has not necessarily grown, about this particular topic. however the facet you left out was the least likely to, adversely affect your search. </U>
+			<U WHO="S21"> that's good to know. </U>
+			<U WHO="S1"> okay. now had he left out the broken homes facet i would've worried. because he'd've gotten a lotta citations on, teenage, eating disordered, kids. okay? which is not nece- i mean that's nice, but we wanna know a little bit more we wanna know, if their eating disorder, uh i'm sorry if they came from a broken home and that had played a role, in their having an eating disorder. okay? any, last-minute thoughts on this particular search? <PAUSE DUR=":08"/> no? you're so quiet. what am i gonna do with you guys? okay well it's time, it's time to pass it in for a grade. okay? <EVENT WHO="SS" DESC="SOUND EFFECT"/> everyone knows what that means. </U>
+			<U WHO="S11"> there's gonna be a lotta <EVENT DESC="SOUND EFFECT"/> on my paper </U>
+			<EVENT DUR=":32" WHO="SS" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S3"> i couldn't help myself </U>
+			<U WHO="S1"> okay let's have 'em. </U>
+			<U WHO="S3"> and then you're like, shit, i forgot, you're like, you can't go back, i have to, i just have to </U>
+			<U WHO="S5"> my key was to do 'em quickly </U>
+			<U WHO="S1"> okay we have a few minutes until we break and i wanna get started on Freetext searching. cuz i know a lot of you, have been saying but i wanna do this. okay? and, you've been playing my game up to now now we're gonna play a different game. we've been for the most part only searching controlled vocabulary. this is the, vocabulary, that an indexer, some human being, has decided, is relevant, to a particular document and assigned that terminology to the document to represent that document's intellectual contents. <PAUSE DUR=":05"/> now, some of you have probably been saying to yourself well, you know there's a lot of other terminology, up there in that document, and why can't i search that? i mean there's the abstract there's a title, why won't this lady let me search it? well because i wanted you to learn how to do controlled vocabulary first. okay? that's the major reason. and plus, and the ERIC dataspace spends a lotta time, and a lotta money, maintaining the vocabulary, and also assigning, those index terms to those documents. i mean they provide you a hell of a lot of help. imagine, if controlled vocabulary terms were assigned to every document that was on the web, how easy it would be to search the web. and to feel, that you had done, a satisfactory search. but instead you aren't you're searching all those text words or whatever text words some search engine has decided you will search, using a particular engine. but now it's time, now it's time, to learn how to search all those other words, that were in the document and not necessarily in the identifier and descriptor fields in fact this week we aren't even gonna search those fields. well we are to some extent but we aren't gonna search, those fields as individual text strings, okay? so, we're gonna do something called, contro- i'm sorry Freetext searching. Freetext searching. some people have called this full-text searching. full-text searching... i really dislike this this, that, screen up there but i don't know how to get rid of it anyone know how to get rid of it? </U>
+			<U WHO="S8"> yeah you can set your screen saver to go_ wait twenty minutes or something (so it won't go) </U>
+			<U WHO="S1"> it's just so, disgusting. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S21"> let me, let me try it cuz i did it to my computer last night i hate it <U WHO="S1"> huh? </U> just let me try i did it last night (xx) </U>
+			<U WHO="S1"> yeah i i just, everyone's looking up there looking at it wondering, what the heck it is. <EVENT WHO="SS" DESC="LAUGH"/> if you could just sorta get rid of it, that'd be great. <U WHO="S21"> let's see. </U> okay, okay. Freetext searching or full-text searching, those are the terminologies we use. now, when these information retrieval systems Dialog </U>
+			<U WHO="S21"> do you want me to, enable the screen saver get rid of it? </U>
+			<U WHO="S1"> yeah. would you enable it? </U>
+			<U WHO="S21"> you can, by clicking <OVERLAP> (over here) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh is that the screen saver? </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah that's what it is. you can just set it at like (ten) minutes </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh okay. that's the screen saver. isn't there any </OVERLAP> flying toasters anymore? what happened to those? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S21"> want me, just get rid of the whole entire application? </U>
+			<U WHO="S1"> no no no i, i think he wants it, <U WHO="S21"> it's </U> so just say, okay </U>
+			<U WHO="S21"> ena- disable the screen saver? </U>
+			<U WHO="S1"> yeah disable the screen saver, yes sir. </U>
+			<U WHO="S21"> there you go. </U>
+			<U WHO="S1"> okay, why don't you put on this ERIC wizard that's a lot more pleasant to look at. <EVENT WHO="SS" DESC="LAUGH"/> i jus- i just find that so, disconcerting don't you? it's sort of ugly? or is it just my imagination? </U>
+			<U WHO="S21"> sh- sh- should i leave it just like that? </U>
+			<U WHO="S1"> that's great. thank you. </U>
+			<U WHO="S21"> you're welcome. </U>
+			<U WHO="S1"> we'll probably get in trouble for doing that but, anyway. okay when these search retrieval systems were first built, for the most part they only searched the descriptor field. cuz it was sort of cheaper to do it that way. in fact years and years ago, before there were online systems, you used to actually, go to a search analyst, tell them what you wanted, and a programer would actually write out your search, using those little eighty-column punch cards, put it into the, computer, come up with a list of accession numbers and you'd have to go, to the books, called (era) to, look up the citations that it retrieved. but through the years, through the years, computers became a lot more powerful, and also became a lot cheaper for them to actually store, the text, of the bibliographic, records, in, an electronic database. so, the online searching of the entire text of a document, whether it be a full-length journal article, or whether it be a citation, to a journal article, became possible. that's not to say that one of the first, demonstrations of online searching way back in the late sixties, okay, when you guys were born, or maybe some of you weren't even born then? <EVENT WHO="SU-f" DESC="LAUGH"/> was a uh search in a full-text database otherwise known as the Golden, Book Encyclopedia. that was actually one of the first experiments with online searching was with the entire text. okay so now, we have the capabilities of not only searching in the <EVENT DUR=":02" DESC="SOUND FAILURE"/> restrictor field and the identifier field, for, records, we have the capabilities for searching the entire bibliographic citation. alright? we can search title, we can search the abstract and so on so forth in fact take out the blue sheet that i gave you last week, take it out. <PAUSE DUR=":11"/> look at the top of page five <PAUSE DUR=":05"/> you see where it says BASIC Index? BASIC Index field? should be page five. BASIC Index? those are the searches you can f- you can s- s- search in fact it's a title abstract no descriptor identifier fields and what are those otherwise known as? </U>
+			<U WHO="SS"> tandy </U>
+			<U WHO="S1"> the tandy fields <EVENT DESC="LAUGH"/> okay? that's a BASIC Index. so we can search any of those fields. for any word, for any phrase. any word or any phrase. now it's important to understand, how Dialog, processes, the text in the BASIC Index fields, it's important to know how it does that because that will make you a better Freetext searcher. okay? so i'm gonna give out a handout to you, to show you how Dialog constructs an index for, indexing and eventually searching, Freetext or full-text... and if at all possible i want you to all follow along with me, because you're gonna ask some things and it's gonna be obvious from your outline, or from your handout whether it's there or whether it's not. <PAUSE DUR=":07"/> okay i have two documents here. document number three-oh-two-four-nine and document three-oh-one-five-six everyone have that little handout...? got it? <PAUSE DUR=":10"/> okay, Dialog gets a bunch of records, from a clearinghouse. and what it's going to do it's to prepare, the records for indexing, in, the Dialog system. the first thing it does, it assigns consecutive accession numbers, its number not the ERIC, clearinghouse number but it assigns accession to those documents. and then starts, numbering, each individual word in the tandy fields. don't worry about the nontandy fields and what would be an example of a nontandy field? </U>
+			<U WHO="SU-f"> author? </U>
+			<U WHO="S1"> author, publisher what else? </U>
+			<U WHO="S13"> language </U>
+			<U WHO="S1"> language. name of the journal, number of pages, publication information all that sort of stuff okay? we're only talking about, title abstract no descriptor identifier. alright? so the first field it encounters if it's is its own accession number that's not a tandy field so let's skip that. the next field it en- it encounters is the title field. and so what it does, and the system is doing this not a human being a computer system. and the computer can do this very quickly and very efficiently. computer system starts to number, each word in the field and preface, the n- word, position information or the word position number, by the name of the field so in this case we have T-I, word number one is post-purchase. word number two is consumer word number three is evaluation. word number four in the title is complaint word number five in the title is actions. oop, what happened there? </U>
+			<U WHO="SS"> stop word </U>
+			<U WHO="S1"> it's a, called a stop word and what is a stop word? anyone know? </U>
+			<U WHO="SU-m">
+				<OVERLAP> word </OVERLAP>
+			</U>
+			<U WHO="S22">
+				<OVERLAP> it's words </OVERLAP> that aren't used if you use aren't listed in the index, or in, conjunctions generally, that don't get used and can't be searched. </U>
+			<U WHO="S1"> they're pretty common words. they can't be searched, because they aren't indexed. so they aren't indexed so you can't search 'em. okay? now what i want you to notice, that the word and, the sixth word in the title, it's not indexed, but notice how, its number is six. but six is not there so there's really no title word six, the next word is seven. repurchase, and then, the last word in the title number eight is behavior. now this, this becomes very important because if you have a phrase that you wanna search... if one of the words in your phrase is a stop word, you're gonna have to account for that particular word. problem is it isn't indexed in the system, but it's still numbered, there's still a number, left over from it in the text. so there's a title word six it's never indexed. but it's still was there it existed. okay? sort of like a tree falling in the forest. the word is there, you saw it you heard it... computer saw it it heard it, and it, numbered it but it just didn't index it. it's a stop word. and there's a whole mess of stop words, for a lot of computer systems in fact if you turn over, on the back of this little hy- handout. you will find that the stop words right at the bottom, for the ERIC, f- for i'm sorry for, well in particular the ERIC database but, also, Dialog in general, are <SEG TYPE="READING"> on for the and from to by of with. </SEG> , that's all you have to memorize, that's it that's all there are. how come A isn't on there? </U>
+			<U WHO="SU-f"> cuz it's not on there </U>
+			<U WHO="S1"> cuz it's not on there? yeah that's a good answer. <EVENT WHO="SS" DESC="LAUGH"/> how come A isn't in there? how would you ever search for vitamin A? or vitamin B? or vitamin C? so no it does not, get rid of, single, word, single-letter words? <U WHO="S8">
+					<OVERLAP> single-letter words </OVERLAP>
+				</U>
+				<OVERLAP> is that the right word? </OVERLAP> single-letter words? right. because they have the potential, maybe not necessarily in the ERIC database, but maybe in a medical database or in a, biology database or a health database, of being useful. so, you need to take note of the stop words. and there's only nine to memorize. this is sort of like ERIC, i'm sorry Dialog-type format you just have to remember them. yeah? </U>
+			<U WHO="S2"> is the first one an or on? </U>
+			<U WHO="S1"> on i believe... cuz a isn't on there i would doubt it. <U WHO="SS">
+					<OVERLAP> it's a common word. </OVERLAP>
+				</U>
+				<OVERLAP> yeah in </OVERLAP> alphabetical order, you know i can't tell, if but if we can find an in there, i don't know i'd have to double check in the, in the_ my manual. </U>
+			<U WHO="S4"> um, it's an i i have <U WHO="SU-m">
+					<OVERLAP> walker says </OVERLAP>
+				</U>
+				<U WHO="S1">
+					<OVERLAP> it is an? </OVERLAP>
+				</U> copy of the certain parts of the manual. </U>
+			<U WHO="S1"> okay an it's not on it's an. it would make sense because they're in alphabetical order <U WHO="S2"> mhm </U> so it is an. i'm sorry for what this looks like it's just gone through, many many, uses and, i really like this handout. okay. the next field that's indexed, is that we encounter is the abstract and notice how, each individual word, in the abstract, is listed, and numbered. stop words, there's a line through them, but they're still, numbered. the number is never used it's never assigned and you'll never find it. but those stop words were always numbered they were still given some credit for being there. and later on you'll find out that that actually does make sense. if you turn ov- oh i'm sorry don't turn over. notice that that we go down to the descriptor field, and notice each descriptor, is numbered, whether it makes sense that it's the fourth descriptor word or the third descriptor word or the first descriptor word. so consumer, is descriptor number one word, attitudes is number two word, consumer is number three word and, behavior is number four word. so each individual, descriptor, they do not renumber them and start at one. okay? so if you're the twentieth descriptor you may be the, the forty-fourth word in a descriptor. okay? so the only fields here, that are shown, as the tandy fields are the title, the abstract and the descriptor. we don't have an example of a note we don't have an example of an identifier field here okay? </U>
+			<U WHO="S9"> what are the numbers in parenthesis in the D-C </U>
+			<U WHO="S1"> in the what? </U>
+			<U WHO="S9"> the numbers in the parenthesis in the descriptiv- descriptor field? </U>
+			<U WHO="S1"> that is a descriptor code. i really don't wanna deal with that. that is a um, a prefix-coded field, should be, descriptor code, this is for a different database it's not for the ERIC database so <U WHO="S9"> mhm </U> there's probably a descriptor code, which is indexed in that particular system, and you can search by that code number. that's probably a prefix code as opposed to a suffix code. and, descriptors are considered suffixes, i'm sorry tandy fields, are considered suffixes because if you wanna search for a word in the title, you wanna search for the word farm in the title, you put on the suffix, slash T I. or if you wanna search for... the word children in the descriptor field as a full descriptor, it's a suffix that you add on to the descriptor. prefix-coded fields for example if you wanted to search for the magazine Online, you'd say, i think it's J N for journal, equals Online. but, that's getting way ahead of ourselves so let's not worry about that right now, okay? we're only gonna learn how to do full-text Freetext searching, in, title and abstract note descriptor or identifier f- fields otherwise known as the BASIC Index fields. if you turn and look at the back of this handout... this is the next step that Dialog takes. Dialog lists, each, individual word. in the, title abstract descriptor note identifier field that is in all those BASIC Index fields it alphabetizes it, and then, it adds on, in what field it occurred, and what number, the word was occurred in the f- particular field what was the word position number of that particular word in that field. you follow me? okay? y'all sitting at the end of your seats? <EVENT WHO="SS" DESC="LAUGH"/> hardly. <EVENT WHO="SS" DESC="LAUGH"/> why don't we take a twenty-minute break? </U>
+			<EVENT DUR=":18" DESC="UNINTELLIGIBLE SPEECH"/>
+			<EVENT DESC="BREAK IN RECORDING FROM 72:33 TO 72:38"/>
+			<EVENT DUR="1:22" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> okay, let's go. do you have everything Bonnie? </U>
+			<U WHO="R2"> i can finish collecting it when class is over. </U>
+			<U WHO="S1"> okay if you just finish those sheets i'm sure that, the MICASE project would appreciate it and, i appreciate it and, maybe John Swales will take me out for a, good birding trip, if he doesn't i'll be on his tail... actually i believe, i once you know encountered him along the river, and uh, like six, horn grebe came by, i can't i can't remember it's the first ones i'd seen i thought, just because John, the great John Swales <EVENT WHO="SS" DESC="LAUGH"/> was there that these grebes came by and said hi how are you and they sort of appeared just as, quickly as they disappeared so, it was sort of rea- real treat. okay. let us move back to our boring database of two records. don't you wish they were all this easy to search? okay, after Dialog, makes, an index, of all the individual words, and phrases, in this document, the next step really is for it to apply its searching program, searching algorithms, to the retrieval, of individual words and phrases. </U>
+			<U WHO="S15"> how does it index phrases? like how does it recognize a phrase as it's going through? </U>
+			<U WHO="S1"> i'm on my way. </U>
+			<U WHO="S15"> okay. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay? on my way. now, if you wanna search for a single word, it's real easy. alright? if i'm just interested in the word farm... i'm gonna look at my database index in the back, by the way, this, silly little black thing is dying okay? do you know where i could get another one real quick? <U WHO="S3"> mhm </U> could you get one? <U WHO="S3"> yep </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> it's so, wonderful having someone from, S-I computing even though i don't know what they have to do with these silly little black markers but, in any case... we'll leave it to them. if i am interested in the word farm, that's all i have to do, is, say, find me the word farm and it ref- it retrieves, documents, number three-oh-five-six, and that's all it retrieves because it's the only document, in our two, record database that bear that word. now i didn't say find me farm as a title word, i just said find me the word farm. and it's in the BASIC Index con- it's just gonna retrieve that one record. now i could be specific, and i could say, find me, the word farm, whenever... thank you so much. <U WHO="S3"> mhm. </U> find me the word farm, whenever, the word farm occurs, in the title. and what would it do? the system would look at its index, look for the word farm, and look, to see, whether the word farm was used in the title and is it? </U>
+			<U WHO="SS"> yes </U>
+			<U WHO="S1"> okay of what document? </U>
+			<U WHO="SS"> three-oh-one-six </U>
+			<U WHO="S1"> and that's the document we would retrieve. and it's just as simple as that. <PAUSE DUR=":05"/> now if i say, i want the document, farm, any document bearing the word farm, and any document bearing the word w- women, or, women i guess is here... the system is gonna first look to see whether it contains the word farm, in any tandy field cuz i wasn't specific about it. i just said find me the word farm, i didn't say show me in the title or show me in the abstract just get it from any tandy field. and it retrieves document number three-oh-one-f- -five-six, and it looks to see, if it has anything under women. and lo and behold they happen to be in the same document. and the algorithm, that it uses for and, is, find me, numbers, accession document accession numbers that are common, to this set number one and common to this set number two. and what document number is common? </U>
+			<U WHO="SS"> three-oh-five-six </U>
+			<U WHO="S1"> three-oh-five-six... we're almost there. <EVENT WHO="SS" DESC="LAUGH"/> now the next thing i wanna do, is say well, if the document contains the word farm and the document contains the word woman, or women whatever... well it's maybe about farm women, i'm not sure, but if i, sort of tighten up my restrictions and say find me the word farm, preceding the word women... and the way with which you specify that is with a W, so find me the f- word farm adjacent the word women. now what you are specifying, is find it for me in the the same, document, so document numbers need to be the same, find it to me in the same field... okay? so the fields have to be the same, and now the field position numbers have to be, within, one, position, number of each other. plus because i said adjacent, farm must precede women <PAUSE DUR=":04"/> the number, for the word preceding, i'm sorry, let me let me, if i get the same i- document... the same field <PAUSE DUR=":05"/> i can't have the same position number but what i want is the position number, plus one. okay? plus one. and i'll have it word adjacency. so this could be, title, i don't can't remember what's farm wha- it would be title, i've got three possibilities. i've got, document three-oh-one-five-six, i've got in the abstract, word number eleven, in the title, word number, eight, and, i- actually i only have two possibilities so here it has to be in the same document, and it has to be abstract word number what? </U>
+			<U WHO="SS"> twelve </U>
+			<U WHO="S1"> word number, twelve or title, word number nine. is it? </U>
+			<U WHO="S11"> yeah </U>
+			<U WHO="SU-m"> yes </U>
+			<U WHO="S1"> well it's for both so it, we don't necessary retrieve it once, or twice we just if it, satisfies any one of those conditions just find it once, we've got it, so we retrieve that record. and that's how Dialog does the simple case, of finding, a phrase in text. that's exactly the way it does it. i couldna put it any easier. so basically what it does, is it, numbers all the words in the tandy fields, including stop words, although it may assign the number, it never indexes the word. and then, it does this fancy little, checking in its algorithm to find out, if it's the, same document, same field, and the words are with one word of each other plus, the first word, has one, the document nu- the document, i'm sorry the word position number is one less, than the word following. okay? <PAUSE DUR=":04"/> that's all. so if you wanna specify adjacency, that's all you have to do, is say farm... parenthesis, W, parenthesis. </U>
+			<U WHO="S4"> there any spaces in there at all? </U>
+			<U WHO="S1"> there can be if you want but it doesn't matter i wouldn't put spaces it's easier to read without 'em. there's another way s- to say it, you can also say farm, parenthesis parenthesis women. now let me stress, one, more, time. farm must always precede the word women. okay? that's all. that's what word adjacency is in this case. yeah? </U>
+			<U WHO="S20"> can you do this with more than one word? like <OVERLAP> if i wanted to do </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> let's hold on </OVERLAP> we're getting there... we're getting there. is everyone following me? now, there are cases when, i may be interested in, i mean there may be a text, some where out there it isn't it isn't these two documents but when i add more documents to here, to this, i may say to myself well, it's possible, that the construction in text, that the particular construction in text that i'm interested in, may be something like, <WRITING> farm, and... rural, women, work hard. </WRITING> okay? it's entirely possible. right? now this construction won't retrieve it right? why not? </U>
+			<U WHO="S9"> it's not adjacent. </U>
+			<U WHO="S1"> it's not adjacent. those words are not right next to each other. so what we wanna do it loosen that construction a little, okay? so we have, two words, intervening. okay? any two words, intervening.... so the way in which, i express this, is to say, two-W. and i'll retrieve that. <PAUSE DUR=":04"/> however, it's entirely possible that the construction may be <WRITING> farm, urban, and, rural, women, work hard. </WRITING>
+				<PAUSE DUR=":04"/> okay? how many words are in between there? </U>
+			<U WHO="SS"> three </U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="SS"> three </U>
+			<U WHO="S1"> come on guys, you should all say in unison, three. <EVENT WHO="SS" DESC="LAUGH"/> i hope so. one two three why did i number this word even though it's a stop word? </U>
+			<U WHO="SS"> it's numbered. </U>
+			<U WHO="S1"> it still counts. i'm sorry someone sa- was saying? i heard you say it. hello? </U>
+			<U WHO="S8"> the same thing they said. it gives it as the_ it leaves space for and even though and's not really, <U WHO="S1"> right </U> indexed. </U>
+			<U WHO="S1"> great, so what do i wanna change this number to? </U>
+			<U WHO="S20"> three. </U>
+			<U WHO="SU-m"> three. </U>
+			<U WHO="S1"> three-W. i could probably make it five-W or seven-W or ten-W or eighteen-W, and i'm sure there's an upper limit i think the upper limit was twenty-two or something i- i never can remember. but, you know it's a sort of rule of thumb. if you want it adjacent it's W. if you want it sort of, nearby three-W. and if... you know you're willing to sorta maybe make it, maybe in adjacent sentences i may say something like nine-W. but i rarely use that. okay...? is everyone clear, up to this point? </U>
+			<U WHO="S2"> i have one question. </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S2"> um on the first example you gave i thought it said farm, comma urban, was it farm comma urban women? </U>
+			<U WHO="S11"> no <OVERLAP> i think it was rural </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no it was farm </OVERLAP> comma rural women. </U>
+			<U WHO="S2"> oh rural women? okay. </U>
+			<U WHO="S1"> there's one intervening word <U WHO="S2"> okay </U> so i say one-W, <U WHO="S2"> okay </U> but how many, the number is put in there, whether it's, W <U WHO="S2">
+					<OVERLAP> so that was two-W </OVERLAP>
+				</U>
+				<OVERLAP> or one-W, </OVERLAP> or two-W, or three-W is sort of, it's subjective, <U WHO="S2"> right okay </U> okay? i can't give you any, strong and fast rules you're gonna have to say to yourself, what would be typical of a text? you're have to second-guess a text, to guess, how those words, would be, in close proximity. yes you had a question first. </U>
+			<U WHO="S7"> um, one-W two-W three-W means precisely precisely two precisely three it doesn't mean three or less? </U>
+			<U WHO="S1"> yes it does </U>
+			<U WHO="S7"> oh it does? </U>
+			<U WHO="S1"> this means, i will retrieve, two words adjacent to each other. this means i'm gonna retrieve, this one-W, means, i'm gonna retrieve farm women, <U WHO="S9"> oh </U> or, farm, comma rural women. okay? but i'm not gonna get, which i would get from, <WRITING> two-W, farm, urban, and rural, women. </WRITING> okay? i'm not gonna get that. <U WHO="S9"> that's three. </U> cuz how many words are there? </U>
+			<U WHO="SS"> three </U>
+			<U WHO="S1"> there are three words so that would only come under the three-W. but the three-W would get this this and this, <U WHO="S7"> ah </U> okay? so it's up to three intervening words can you, read it as that? up to three intervening words yeah? </U>
+			<U WHO="S17"> if for example we, are willing to get uh, one two three four five-W but not twenty, is there a way to put it say, one through three-W? </U>
+			<U WHO="S1"> you're essentially saying that. okay? if you say three-W, you're also saying two-W, one-W and W. <U WHO="S17"> okay </U> okay? so, twenty-W says nineteen-W eighteen-W seventeen-W, sixteen-W fifteen-W fourteen-W, get it? okay? any other questions? yeah? </U>
+			<U WHO="S23"> what about do searching farm women working in farm? how can we do that? </U>
+			<U WHO="S1"> i'm sorry say that again. </U>
+			<U WHO="S23"> farm woman, working in, farm. <U WHO="S1"> yeah? </U> how can we do that? </U>
+			<U WHO="S1"> well you got it with farm women working in farm. i think i, know what you're saying. let's say your construction is more like... <EVENT DESC="WRITING"/> women, on the farm, work hard. okay? now, will, farm W women farm one-W women farm two-W women farm eighteen-W women retrieve that why not? </U>
+			<U WHO="SU-m"> order word order </U>
+			<U WHO="S1"> it's the word order... there's a solution. we're gonna lose it, u- lose. yeah we're gonna lose. <EVENT WHO="SS" DESC="LAUGH"/> we're gonna use, a new operator... i do women... what'd we say? on the farm, two intervening words. two-N farm. so instead of using, W i use N. in fact most of the constructions that you see out there, that use, a W, could often be turned around to be a, two-N. so you may wanna use two-N instead of three-W. for example, well, let's say you're interested in farm animals. farm, animals. you could say farm and, carnival animals. <EVENT WHO="SU-f" DESC="LAUGH"/> okay? farm and, c'mon help me out guys. </U>
+			<U WHO="S21"> hairy animals </U>
+			<U WHO="S1"> hairy animals. <EVENT WHO="SS" DESC="LAUGH"/> but you could also say animals, on the farm, down on the farm... animals, who, live on farms on the farm live on the farm, whatever. so, we're looking at this as maybe, this makes sense maybe as a two-W, but here it makes sense as a one two one two three, one two, three four, so it may make sense with this one to say, farm, two-N animals. just like with farm women it may make sense to say three-N... okay? </U>
+			<U WHO="S12"> what's the difference </U>
+			<U WHO="S1"> what's <OVERLAP> the difference? the word order doesn't make any difference? </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> between N and W </OVERLAP> but what's the difference between N and W? if W's word then what's N? for instance. </U>
+			<U WHO="S1"> W, is word adjacency. the word in the first position that you give, farm, W women, must precede the word women. <PAUSE DUR=":16"/>
+				<WRITING> farm, must, precede... women. </WRITING> for retrieval to take place. <PAUSE DUR=":05"/>
+				<WRITING> farm, may, precede, or follow, women... </WRITING> for retrieval to take place. do you understand now? <U WHO="S12"> yeah </U> write that down. <PAUSE DUR=":05"/> okay? <PAUSE DUR=":10"/> some of you, wanna live dangerously. i don't know why. <EVENT WHO="SU-f" DESC="LAUGH"/> but you do. it's really difficult, for me, to anticipate, any sort of speech, that may come out of your mouth. okay? that's why we in fact have people here, for some reason who, are interested in studying speech. i guess. about the only thing i can predict is when i see you in the hall, i might say hi and you may say oh hi how are you? okay? that's about all i can predict out of some of you. yeah even my husband i'm never quite sure if he even, utters anything or grunts <EVENT WHO="SU-f" DESC="LAUGH"/> or whatever husbands usually do when you come home... so some of you want to put, more than two words together, living dangerously. cuz now you're trying to predict these words, not two words together but three words. now sometimes, it may make sense, to put, three words together. (shoot) i knew this wasn't gonna happ- help work sooner or later. <WRITING> junior, high, school. </WRITING> okay? makes sense. really makes sense. really makes sense. junior high school. i know i'm gonna find that construction. senior high school. give me some others that come together. and if you can't find any, then i know, that they're hard to find. c'mon, give me some, give some a- common phrases </U>
+			<U WHO="S12"> peanut butter and jelly. </U>
+			<U WHO="S1"> oh now there's a good one. <EVENT WHO="SS" DESC="LAUGH"/>
+				<WRITING> peanut, butter, and, </WRITING>
+				<U WHO="SU-f"> it's four </U> jelly. how would you search it give it to me. c'mon, who said it? <U WHO="S12"> um, </U>
+				<EVENT WHO="SS" DESC="LAUGH"/> you do it. <OVERLAP> this is a real good one, i love it. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> uh okay, S-S </OVERLAP> uh, space peanut butter uh peanut uh, open parenthesis closed parenthesis butter. um... uh open parenthesis, N? one-N? closed parenthesis, jelly? </U>
+			<U WHO="S9">
+				<OVERLAP> how about W two? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what did you do to the and? </OVERLAP> where's the and? </U>
+			<U WHO="SU-m"> i thought the and was </U>
+			<U WHO="S9"> two-W </U>
+			<U WHO="S8"> you have to give space for that so </U>
+			<U WHO="S1"> how do i give space for it? </U>
+			<U WHO="S8"> two-N? <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> one-N? </U>
+			<U WHO="S1"> what am i am i gonna i gonna keep it in there? </U>
+			<U WHO="S2"> no get rid of it. </U>
+			<U WHO="S1"> how do i get rid of it? </U>
+			<U WHO="SU-f">
+				<OVERLAP> eraser </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> parenthesis, </OVERLAP> one e- <U WHO="SU-f">
+					<OVERLAP> erase it. </OVERLAP>
+				</U>
+				<OVERLAP> one-W, erase it. </OVERLAP>
+			</U>
+			<U WHO="S1"> i erase it? <EVENT WHO="SS" DESC="LAUGH"/> now what? now what? </U>
+			<U WHO="SS"> two-W. </U>
+			<U WHO="SS"> one-W </U>
+			<U WHO="S1"> it doesn't matter one or two it's gonna, maybe i get peanut butter banana and jelly. <EVENT WHO="SS" DESC="LAUGH"/> okay? peanut butter honey and jelly. well people like bananas with it i think it's the most disgusting thing i've ever heard of. <EVENT WHO="SS" DESC="LAUGH"/> okay? that's how you search that. that's a real good one. and why don't we have the and there? why isn't the and the- why didn't i keep the and there c'mon give me a good reason it's a <OVERLAP> really great construction. </OVERLAP>
+			</U>
+			<U WHO="SS">
+				<OVERLAP> stop word </OVERLAP>
+			</U>
+			<U WHO="S1"> it's a stop word. and it existed, but, we never, and we numbered it, but we never indexed it. okay? so we still have to account for it. another one, good one is slip of the tongue. <WRITING> slip, of the tongue. </WRITING> what are the stop words in here? is of a stop word? </U>
+			<U WHO="SS"> yes </U>
+			<U WHO="S1"> is the a stop word? </U>
+			<U WHO="SS"> yes </U>
+			<U WHO="S1"> so what do i put down? </U>
+			<U WHO="S7"> two-W. </U>
+			<U WHO="S2"> two-W tongue </U>
+			<U WHO="S1"> yep. got it. give me another, but, we had peanut butter and jelly now someone give me another one. </U>
+			<U WHO="S3"> knee-jerk reaction. </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S3"> knee-jerk reaction. </U>
+			<U WHO="S1"> that's, even better for another reason... okay help me out you said it Wendy. <PAUSE DUR=":07"/> tell me what it is. knee. </U>
+			<U WHO="S3"> parenthesis parenthesis </U>
+			<U WHO="S1"> jerk. </U>
+			<U WHO="S3"> jerk, parenthesis parenthesis <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> that's all. that's all that's to it. <PAUSE DUR=":04"/> real easy one. on the other hand, on the other hand, this is a real good illustration of what i'm not sure of. knee-jerk, could also be spelled as one word. <U WHO="SS"> mm </U> and i would put it in both ways. we could actually search this in Dialog this would be an excellent one to search. cuz i'm not quite sure, of, how it is done. <EVENT DUR=":29" DESC="PAUSE WHILE TYPING"/> mkay you ready? i put in with, with the, W in the parenthesis it doesn't matter. <PAUSE DUR=":05"/> there are none. interesting. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S4"> what if it were hyphenated? would it would it make a difference. </U>
+			<U WHO="S9">
+				<OVERLAP> (just leave) space </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> just a minute </OVERLAP> i'm just, trying to find out whether it's in their, nope not in their trunc- i'm gonna get it to truncation. <EVENT WHO="SS" DESC="LAUGH"/> which means i can search, knee-jerk reaction, or knee-jerk reactions. okay? </U>
+			<U WHO="S9"> what about knee-jerk reactionary? <EVENT WHO="SS" DESC="LAUGH"/> you never know. </U>
+			<U WHO="S1"> nope. let me think of a file it might be in, um <EVENT DUR=":10" DESC="PAUSE WHILE TYPING"/>
+			</U>
+			<U WHO="SU-f"> this is silly </U>
+			<U WHO="S1"> aw shoot. <U WHO="SU-m"> (xx) <EVENT WHO="SS" DESC="LAUGH"/>
+				</U> yeah <SIC> reactoin </SIC> is in there </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> we found one reactoin </U>
+			<EVENT WHO="S8" DESC="SOUND EFFECT"/>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> yep. <PAUSE DUR=":08"/> yep got it. </U>
+			<U WHO="S2"> wow </U>
+			<PAUSE DUR=":12"/>
+			<U WHO="S6"> what database are you in? </U>
+			<U WHO="SU-f">
+				<OVERLAP> (Gambler) magazine </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what the hell? </OVERLAP>
+				<EVENT DUR=":06" DESC="PAUSE WHILE TYPING"/> i can't believe that, that won't accept that. a relational operator? i didn't see a relational operator there, dumb system. <EVENT WHO="SS" DESC="LAUGH"/> okay so it's in both ways, now, Dialog does not keep the hyphens to my knowledge what it does, is it takes the hyphenated words and collapses 'em down to one word. read the search manual to make sure i am correct. </U>
+			<U WHO="S6"> it happened with anti-social. i did, on my search, with the hyphen and it collapsed it to one. </U>
+			<U WHO="S1"> it did collapse it. </U>
+			<U WHO="S6"> it didn't do it for me. i did anti, hyphen social, <U WHO="S1"> yeah </U> and it gave me a zero, and then i, put it as one word and it gave me results. </U>
+			<U WHO="S1"> okay. alright? so are you convinced? you have to put in both ways. but there are no hyphens in Dialog so it won't nec- if i say knee, hyphen jerk. it won't get anything. it shouldn't. cuz it's never indexed hyphens. so it takes those two words, which are hyphenated, drops the hyphen and concatenates the the two words together to make one word. okay? <PAUSE DUR=":04"/> convinced? these are all very good, examples the only thing is you're giving me examples that are exceptions to the rules guys. <EVENT WHO="SS" DESC="LAUGH"/> okay. it is my_ to my knowledge, Dialog has always had trouble, if you mix, and match, Ns and Ws together. so either stick to all Ns or stick to all Ws. in a single construction. and single construction means in a single phrase. plus it only allows, to my knowledge, only one N within a phrase. so you can only take two words and N them. but, when you think about it, what if what if i did say <WRITING> knee, N, jerk, N, reaction. </WRITING> what does that tell me? i mean, aren't there some illogical constructions in here? there's some things you can never get, because some of these words will never necessarily be next to each other, withi- within the logic and i i i'm not quite putting it the right way but... if you mix these up, and tell reaction to be here and jerk to here well it can't be there while it's there and so on and so forth. so, only one N, per construction, that's it. if you wanna do more than one you'll have to use W. <PAUSE DUR=":07"/> i don't think this is a good example, but you have to use W. you can string as many Ws along as you want. you can string them aga- ad nauseam. however, however we online searchers who have been around for awhile. and i've been around, and i've been around the block. find that if you, try to use, more than, four words, even three. with a W construction, you aren't gonna get anything. i would be very careful combining, more than three words, with a W. i would say that basically <PAUSE DUR=":04"/>
+				<WRITING> two words, is the limit... for, N... three words, is the limit, for W. </WRITING> okay? <PAUSE DUR=":05"/> any questions? <PAUSE DUR=":19"/> Wendy you brought it in but you didn't set it up. <EVENT WHO="SS" DESC="LAUGH"/> i guess she didn't want me to use it. okay are there any, questions at this point? <PAUSE DUR=":05"/>
+			</U>
+			<U WHO="S7"> uh, yeah, </U>
+			<U WHO="S1"> yeah? </U>
+			<U WHO="S7"> i'm sorry. i can see why you wouldn't want to exceed those limits, you were just, looking for nonsense. you get the, you get, uh, the word, that you were looking for though wouldn't you, i mean it's, it's silly and it's not elegant and you might get into a lotta garbage in there, but would it exc-? that's essentially it. </U>
+			<U WHO="S1"> if i'm looking, if i know the title of a document. okay? in fact, let's say i wanted to retrieve, the first document here, <PAUSE DUR=":04"/> to be honest with you, this is the way i would search it. and oftentimes we do wanna search, for titles of documents when someone has given us a title. what i would do, is i would choose the most specific and when i say specific, the words that are least posted or have the likelihood of being least posted in that database and string 'em together. i would say post, purchase... consumer <PAUSE DUR=":04"/> within two words of complaint. if i really wanted to be fancy i'd put a slash T-I. that's how i would search for that. i wouldn't have to enter the whole title. why would i ever wanna do this? post, purchase <PAUSE DUR=":08"/> how much time is it taking me to do this? to say nothing of, the likelihood, of my making... an error. <PAUSE DUR=":09"/> it's just, a waste. i'll get the same thing from this. okay? i'll just get the same thing. <PAUSE DUR=":06"/> if you know a word is used as a descriptor, you may have three words in there. that's fine for example, let's look at some of the words you used last week. <PAUSE DUR=":10"/> oh there's television behavior isn't that cute? <EVENT WHO="SS" DESC="LAUGH"/>
+				<PAUSE DUR=":06"/> some of these aren't really good examples. <PAUSE DUR=":06"/> i can't find a good one. teaching methods. well that's only two words. i can't find a good three-letter word, that i could use. <PAUSE DUR=":05"/> well let me go on, let me go on for now. some things i wanted to, catch. <PAUSE DUR=":15"/> a few things i have here that i can share with you, that i could go online to get but it would take me longer so i'll just show it to you as overheads. i think before that i have to go over truncation. okay. <PAUSE DUR=":04"/> i have not touched on truncation yet, because it is somewhat complex, and it's e- confusing, in Dialog. but it's confusing, because Dialog, only gives you, one truncation symbol, and most symb- systems give you several. my hands are just so dirty right now that, i don't wanna touch it see? look ma no hands. peanut butter and jelly. <EVENT WHO="SS" DESC="LAUGH"/> okay. truncation. now some of you probably would have said and wanted to but you were so afraid to say anything in class today that you probably didn't say it. wanted to say well... not only do i wanna get farm women, i wanna get a farm woman. <EVENT WHO="SS" DESC="LAUGH"/> okay? and there's a way to do that using truncation. now the easiest way i think, for learning truncation, is to look to see, how it affects, individual words. if i want the word color, with any number of characters following, no let me do it the other way. char- color, or colors. that's it, any one character. any, one, character... and i think the only one i can get is colors. can anyone think of another one? </U>
+			<U WHO="S2"> colorization <OVERLAP> oh just one </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i need one character. </OVERLAP> that's fifteen. <EVENT WHO="SS" DESC="LAUGH"/> any one character, i can't think of anything, okay? i put a question mark, then i hit the space bar, and i put another question mark and this is the most confusing thing about Dialog. so if you want the word, reaction... or reactions... you put reaction question mark, hit the space bar and then another question mark. just trust me this is what works and memorize it okay? if you want any two characters it's real easy. it's color, question mark question mark no space and that will get me colors, colored, </U>
+			<U WHO="S5"> coloring? </U>
+			<U WHO="S1"> no that's three </U>
+			<U WHO="SU-f"> oh </U>
+			<U WHO="S1"> we're saying any, two characters. colored, c'mon guys. </U>
+			<U WHO="S9">
+				<FOREIGN> colores </FOREIGN>
+			</U>
+			<U WHO="S1">
+				<FOREIGN> colores? </FOREIGN> never heard of it </U>
+			<U WHO="S9"> it's Spanish </U>
+			<U WHO="S1"> it is? <FOREIGN> colore </FOREIGN>
+			</U>
+			<U WHO="S5">
+				<FOREIGN> colores </FOREIGN>
+			</U>
+			<U WHO="S1"> well why don't you say an E there? is that just <FOREIGN> col- </FOREIGN> ? </U>
+			<U WHO="S21"> no E S </U>
+			<U WHO="S1"> oh </U>
+			<U WHO="S21"> a- <FOREIGN> colores </FOREIGN> is plural. </U>
+			<U WHO="S1"> how about singular? </U>
+			<U WHO="S21">
+				<FOREIGN> color </FOREIGN> . same <OVERLAP> same word. </OVERLAP>
+			</U>
+			<U WHO="S1"> C O L O R? </U>
+			<U WHO="S21"> yep. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S21">
+				<OVERLAP> how about the English </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so for those </OVERLAP> of you who speak a different language, i'm sorry spell it for me E S? </U>
+			<U WHO="S5"> yep </U>
+			<U WHO="S21"> yep </U>
+			<U WHO="S1"> that's the Spanish. okay? </U>
+			<U WHO="S21"> and how about, the English spelling with O U R? </U>
+			<U WHO="S1"> no, because our stem is C O L O R <U WHO="S21"> right </U> okay? no the, O U. if i want any three characters, any, three characters, can anyone guess what i'm gonna do? </U>
+			<U WHO="S9"> three question marks? </U>
+			<U WHO="S1"> question mark question mark, question mark. and that then gets me, everything before, colors, colored <FOREIGN> colores, </FOREIGN> and coloring. and the next most obvious one, is, <WRITING> unlimited... truncation, </WRITING> can anyone guess, what that looks like? </U>
+			<U WHO="S8"> asterisk? </U>
+			<U WHO="S1"> C O L O R question mark and that's it. that's why one character is in C L s- c- just a single question mark. the question mark que- space question mark. <U WHO="SU-f"> okay </U> so for those of you, who have not, followed me... does anyone see my black little marker? there it is, let me do this one more time. <PAUSE DUR=":09"/>
+				<WRITING> </WRITING> one, question mark space question mark. two and that's gonna get me farm, or farms. <EVENT DUR=":06" DESC="PAUSE WHILE WRITING"/> question mark question mark it's gonna give me farms, farm, or farmed... or? farmer... three, <EVENT DUR=":06" DESC="PAUSE WHILE WRITING"/> farm, question mark question mark question mark, it's gonna give me <WRITING> farm, farms, farmer, farmers, farming... </WRITING> and then, you can keep adding question marks for every character so if you have four question marks give me any four characters, i think that's dumb at that point. <EVENT WHO="SS" DESC="LAUGH"/> and i think at that point you just want unlimited, truncation, so it'd be farm, question mark. and that would give you all of the above plus like Farmingdale, and Farmington, anything else? farm, what...? farmerization? i don't know. <EVENT WHO="SS" DESC="LAUGH"/> just make something up. okay? now, don't use, truncation indiscriminately. don't just, take like, any three letter, um, stem and say well you know i'm just gonna hang it up right there. throw on my truncation sig- signal on, the end of the first three characters and, let the computer do the work. <EVENT WHO="SS" DESC="LAUGH"/> real good example, is let's say you're interested in, communities. and you just say C O M M. what are you gonna get? </U>
+			<U WHO="SS"> communist </U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="SS"> communication </U>
+			<U WHO="S1"> communist communication </U>
+			<U WHO="S14"> committees </U>
+			<U WHO="S1"> committees yuck. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="SS"> commuter </U>
+			<U WHO="S1"> commuters, communism, commercialism, you know just to- two topics that are real similar commercialism and communism. <EVENT WHO="SS" DESC="LAUGH"/> okay, you get it? let me show you another example. let's say you're interested in public libraries ah heck (if we,) just put in P-U-B. <EVENT WHO="SS" DESC="LAUGH"/> you don't have to think, what're you gonna get? public, </U>
+			<U WHO="S12"> publicity </U>
+			<U WHO="S4"> pubic </U>
+			<U WHO="S1"> well i'd heard it. <EVENT WHO="SS" DESC="LAUGH"/> i'm really sorry. publicity. </U>
+			<U WHO="S4"> i'm gonna be on tape <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> puberty, okay and the list goes on. so you get the message. if you enter in something like that, what happens? </U>
+			<EVENT WHO="SS" DESC="SOUND EFFECT"/>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> okay? <EVENT DUR=":13" DESC="PAUSE WHILE WRITING"/> oh </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> a- </U>
+			<U WHO="S1"> was, what does that give me? </U>
+			<U WHO="S12"> women woman and the variant womyn with a Y </U>
+			<U WHO="S1"> you're right. very good. i forgot about this. women woman, and, the much more P-C-oriented womyn... i never thought of that thank you. what a sensitive man girls. <EVENT WHO="SS" DESC="LAUGH"/> check him out. <PAUSE DUR=":09"/> what's that gonna give me? </U>
+			<U WHO="S11"> um, color </U>
+			<U WHO="S4"> and <OVERLAP> colored but </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> spell it </OVERLAP> color. </U>
+			<U WHO="S11"> O R or maybe </U>
+			<U WHO="S4"> or O U R </U>
+			<U WHO="S11">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no, it doesn't. </OVERLAP> it just says give me any one character. <U WHO="S11"> yeah, <OVERLAP> you'd have to say O question mark. </OVERLAP>
+				</U>
+				<OVERLAP> how would you have to do the other? </OVERLAP> you'd have to put both in, i would just search that as select color, or <SEG TYPE="PRON" SUBTYPE="colour"> color. </SEG> there is no, truncation in DIALOG that would get any number of characters within, a, particular, search string. however here's one that makes more sense, <EVENT DUR=":09" DESC="PAUSE WHILE WRITING"/> you get fiber board or fiberboard, okay? that makes more sense. so if the spellings change the number of characters you're gonna have to type each one in individually. </U>
+			<U WHO="S9"> so, i mean if you really wanted to use your question marks you could say C O L question mark question mark R and get both kinds. </U>
+			<U WHO="S1"> no you aren't because the word that you're gonna get has one two three four five six characters in it. and the word you want C O L O R only has five characters. </U>
+			<U WHO="S9"> so it's not two or less in this case. </U>
+			<U WHO="S1"> no ma'am. every, question mark means any character. <U WHO="S9"> mhm </U> you get a card, okay? you get a card. <PAUSE DUR=":05"/> now, i can't say everything about truncation. and since my hands are so dirty, i just, wiped them off on this nice sheet. uh, pass these back, i know i'm really bad aren't i? it's really bad. <EVENT WHO="SS" DESC="LAUGH"/> she didn't want it. <EVENT WHO="SS" DESC="LAUGH"/> um, here is a little handy di- dandy guide that i think DIALOG made on truncation. read it, and attend to it. i do not just, hand these out, willy-nilly. okay? willy-nilly they'll get a, big kick out of that word. <EVENT WHO="SS" DESC="LAUGH"/> haven't heard that one for awhile, man where'd she come from? and then they'll look (at us) oh man we know. thank you. <U WHO="SU-m"> yep. </U> but what i really need is, to_ sort of like those ball players do you know i spit on it. then they rub it somewhere and <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m"> go ahead. </U>
+			<U WHO="S1"> no way <EVENT DESC="LAUGH"/> okay moving along, um, do take a look at that handout, on truncation, i think it's very good. and uh, God this looks, as bad as the Shroud of Turin. after i got done with it. in any case, uh take a look at that handout and uh, it tells you everything you need to know about truncation okay? i can't cover it all. are ya- are you sure it wouldn't? cuz i have this nice messed-up one, if you need one. <EVENT WHO="SU-m" DESC="LAUGH"/> okay. enough about truncation. okay, i have a few overheads i wanna show <PAUSE DUR=":15"/> here's just a few, uh rather interesting, truncation, possibilities. <PAUSE DUR=":18"/> Hawaii, and cost one-W living. see it? right at the top? the one-W why one-W instead of W? </U>
+			<U WHO="SU-f"> for cost of living? </U>
+			<U WHO="S1"> cost of living. and why don't we have the of in there? </U>
+			<U WHO="SS"> it's a stop word </U>
+			<U WHO="S1"> it's a stop word and it's never in the database so if they put, cost, parenthesis end parenthesis of parenthesis end parenthesis, living you get a big fat, goose egg. zero, cuz of isn't in there. on the system we went through and did it so a logical combination gets zero. next one is slip, two-W tongue. to accommodate for the of the, which are two, stop words. <PAUSE DUR=":05"/> here's some interesting constructions, flexible, adjacent work, truncated, or flexible adjacent schedule. here's another way you could say that. much more efficient, flexible adjacent work or schedule, and that i'll get me o- that will get me, this particular construction. write that one down, that's well worth it just think about it. write that one down. so i can be very deliberate, and say flexible, W work or flexible W schedule. or the much more efficient, flexible W work or schedule. and put work or schedule in parenthesis. now, this is advanced stuff i don't expect you to know this for next week but i thought i'd show you some interesting constructions. just so you can get used to looking at those... so that's gonna retrieve for me flexible work schedules or just, flexible schedules. okay? does everyone wri- write it down? or are you half-asleep now? how are you doing? did you write it down? </U>
+			<U WHO="SU-m"> yep </U>
+			<U WHO="S11"> we actually have th- it on the handout. </U>
+			<U WHO="S1"> you do? </U>
+			<U WHO="S3"> yes </U>
+			<U WHO="S1"> oh. well why didn't you tell me? i wouldn'ta spent so much time standing here. <EVENT WHO="SS" DESC="LAUGH"/>
+				<PAUSE DUR=":14"/> here's one fuel, W alcohol and truck... and the reason why i retrieved this was because fuel, was adjacent the word alcohol. <PAUSE DUR=":08"/> if i said fuel and alcohol i'd get the same document... because too of this particular construction. <PAUSE DUR=":10"/> here's some interesting way to enter in computer terms, C P, W M, W-eighty-six. there's one i guess that musta been some sort of a, operating system or something? i don't know. the next one was A H Robins. okay i used to take a certain medicine by A H Robins they're a pharmaceutical aren't they? it was great on diarrhea. <EVENT WHO="SS" DESC="LAUGH"/>
+				<PAUSE DUR=":04"/> here's a real good example, down at the bottom, this is the same thing as knee-jerk. anti-inflammatory as a single word, versus as two words, and those two words, retrieve, using, the W connector. or the W proximity operators. in fact all these things that i've been teaching you today the, W and the N? those are called proximity operators, i should've said that about an hour ago. some people also call them connectors. proximity operators i think, is much more specific because it implies, that the operator, requires some closeness. word position or whatever... so whenever you have a word that you think may be hyphenated, in DIALOG at least, enter it as a single word, and enter it, as, two separate words connected, by the W. <PAUSE DUR=":11"/> here's one. guess they're interested in the, market share of dishwashers. why'd they say market, three-N share instead of market W share? why'd they do that? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S16"> cuz it's share of the market </U>
+			<U WHO="SS"> share of the market </U>
+			<U WHO="S1"> excellent. say it louder and clearer. </U>
+			<U WHO="S20"> share of the market? </U>
+			<U WHO="S1"> share of the market. so you can take market share, turn it around to say share of the market. in one it's an adjectival phrase what's_ in the other it's a what...? share of the market. </U>
+			<U WHO="SU-m"> preposition? </U>
+			<U WHO="S1"> yeah. there's a prepositional phrase in there. and i'm not real good on my English it was fourth grade and boy it was boring, and i remember those days. i do i even remember the book sort of bluish and white and everything. everyone hated it so- i didn't mind it. and, i guess i learned to hate it cuz everyone else didn't like it. you know how it sorta the peer group t- telling you that English was not your thing. in any case um, you'll find a lotta the constructions that, you, try to go use, i mean, it's the same thing as farm women, women on a farm women, of the farm, women who farm, take those constructions that you're gonna find and think of this particular week for your Freetext search that is also graded... and take those constructions turn them around, try to take an adjectival phrase and make it into a prepositional phrase. okay? so take something that makes, logical sense as a, W and turn into an N. you can do that with descriptors, you can't enter the descriptors but you sure can enter the descriptors as Freetext term. if you're looking for junior high school students i would be, damn sure i'd say junior W high W school truncated. <PAUSE DUR=":04"/> even though it's a thesaurus term i know it's gonna be in the database i better get in there. cuz that's where my postings are gonna be. <PAUSE DUR=":07"/> okay and i just can't say enough, about how not to apply truncation those are my two really great examples. you interested on stuff, on communism and you enter comm you're gonna get commerce and commercial and commodity and, all those things you don't want. <PAUSE DUR=":06"/> would you just pass that around? <PAUSE DUR=":05"/> okay. <PAUSE DUR=":05"/> i've never done this before, this can't be i must have something else to say? i've gotta find something. what could i say next? </U>
+			<U WHO="S9"> i have a distracting question. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> i have some handouts. <EVENT WHO="SS" DESC="LAUGH"/> oh you're going up and down in your seat i must ask you what is your question? </U>
+			<U WHO="S9"> well it goes back to_ somebody over there asked it before and you said we'd get to it but we didn't which was how does the, machine automatically find the phrases when it's creating this little index? </U>
+			<U WHO="S1"> the same way it found the phrases before, i mean, the way in which i'm telling you. </U>
+			<U WHO="S9"> but i mean here, it's created phrases with some words not others right so, presumably it's me, go ahead. </U>
+			<U WHO="S2"> those are phrases from a descriptor field. </U>
+			<U WHO="S9"> so it's matched them. </U>
+			<U WHO="S2"> yeah well it ha- somehow knows, within the descriptor field that it, beco- it has to look for phrases as well as, a whole bunch of other stuff. </U>
+			<U WHO="S1"> remember two weeks ago when we talked about how it indexes for descriptor fields? </U>
+			<U WHO="S9"> mhm </U>
+			<U WHO="S1"> it's just, including, in the BASIC Index, the descriptors, as phrases. so every phrase in there, is a descriptor. <U WHO="S9"> got it. </U> so if you look back at your handout. all the phrases come from the descriptor field. </U>
+			<U WHO="S9"> thank you </U>
+			<U WHO="S1"> okay, thanks <U WHO="S9">
+					<OVERLAP> thanks Mary </OVERLAP>
+				</U>
+				<OVERLAP> i misunderstood what, </OVERLAP> was wanted. okay, here's a nice example, of a Freetext search. sort of a silly little search, i would hope you'd look into the thesaurus but i just wanted to show you how quick and dirty it can be. <PAUSE DUR=":08"/> mkay didn't use ERIC for this one cuz i was tired of ERIC for a change. so i went to the AGRICOLA database which is file ten. been around for a long time, compiled by the National Agricultural Library in Washington... and when i set there say begin, ten, to go into, the database. did you get one? <U WHO="SU-f"> got one. </U> want one? any extras? c'mon pass 'em up guys. excuse me. did you get one? </U>
+			<U WHO="SU-m"> yep </U>
+			<U WHO="S1"> did you get one? good. alright, have another one. okay. i entered forced, or tree or pine or fruit. truncated. then i entered seed, within three words, on either side of, seed dispersal, or dispersing of seeds, or dispersing of many seeds, seed within three-N of scatter, of replant or plant. so i'm gonna get seed replanting replanting of seeds, planting of seeds, planting of many seeds, okay? many constructions i could make out of that, and then squirrel or squirrels, squirrel truncated there's probably nothing else i can get but squirrels or squirrelly. <EVENT WHO="SU-f" DESC="LAUGH"/> and then i combine them with the and, operator, i get six citations, and then you get wonderful articles like on the impact, of tree squirrels, and seed dispersal by birds and squirrels in the deciduous forests of the United States. by the way for those of you who don't know, if you've been wondering how that nice, nice um, poison ivy got in your backyard? did you ever guess? there's some birds that love poison ivy seeds, but they can't quite digest them all. so do you know how it got there? <EVENT WHO="SS" DESC="LAUGH"/> by seedy replanting, or dispersal or whatever, guess i didn't use that word. okay. nice quick and dirty little Freetext search let's loo- take a look at another one. <PAUSE DUR=":08"/> this is a search whose topic is very complex and, very scholarly and intellectual... i'm sure you're dying to know what this search is about. <U WHO="SU-m"> actually </U>
+				<PAUSE DUR=":05"/>
+				<EVENT WHO="SS" DESC="LAUGH"/> does this look familiar? <U WHO="SS"> kinda </U> sick of it? </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S4"> i'm ready to hit somebody <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> mkay, children violence and so on <PAUSE DUR=":04"/> and i showed you, uh displaying in various DIALOG formats let's go to page two <PAUSE DUR=":04"/> enter T-V or television or televise... i did set two are violent what was set two? well look back and look for it. don't be so lazy at a quarter to four in the afternoon. </U>
+			<U WHO="SS"> violence </U>
+			<U WHO="S1"> why didn't i just, type violence in again? </U>
+			<U WHO="S5"> S-two is shorter </U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="S5"> S-two is easier. </U>
+			<U WHO="S1"> yeah S-two it's already created and furthermore, DIALOG has to search, and it has to make its engines drive its engines in order to search and if you search it twice you have to pay for it twice. <EVENT DESC="SOUND EFFECT"/>
+				<EVENT WHO="SS" DESC="LAUGH"/> okay so if you already entered it, use it a second time. but use it using its set nothe- number rather than retyping, then i put in child or youngster or ka- toddler or kid, and believe it or not for this entire search i got four hundred fifty-four things. see how Freetext can really expand the search? how many were in your uh, your controlled vocabulary search? </U>
+			<U WHO="S5"> four-oh-two </U>
+			<U WHO="S8"> i have </U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="S5"> four-oh-two. </U>
+			<U WHO="S1"> oh really? yeah? </U>
+			<U WHO="S8"> four thirty-one. </U>
+			<U WHO="S1"> really? you sure you used D-F? </U>
+			<U WHO="S5"> that was the first one sorry. </U>
+			<U WHO="S1"> oh okay. how about for your controlled vocabulary search? last week, how many did you get, for this one? </U>
+			<U WHO="S12"> uh, one one thirty-nine. </U>
+			<U WHO="S1"> one thirty-nine. okay we've used the same words that we used before but we've truncated their stems and we've used a few synonyms. and look how many we've already, now i don't know if you wanna read, four hundred fifty-four things, i don't know if i wanna read 'em. but you can see how, we can increase, the amount, by using Freetext because now we are searching all tandy fields. okay? any questions about this? </U>
+			<U WHO="S8"> yeah can you, do anything to save machine time for the next time you log in to go get a sear- try to get a search that you were using previously? or do they just disappear as soon as you log off? </U>
+			<U WHO="S1"> how long you wanna be here? <EVENT WHO="S8" DESC="LAUGH"/> uh, the short answer is yes. uh first of all there are some ways to, save your search for a week, or save it for longer. if you save it for longer than a week you're charged. it's not a, whole big charge, but when you see that nasty little, ten cents coming in each week, and you've saved, five hundred searches that week and each one costs ten cents, then it starts to mount up, and then you have to keep track of, what all these searches are, and we'll talk about that in a few weeks. but, it's not real important. if you're very interested in that, uh do something on save searches, for your project. okay but saving searches is the logical way of doing it. what i would be more prone to do, is there are probably, in your work situations wherever you go, and i don't know where you guys are ended up uh ending up in some, cases i don't even wanna know. <EVENT WHO="SS" DESC="LAUGH"/> but, you may end up at a certain institution that has, certain facets always occur children facets, uh, men facets animal facets, age-group facets, uh you know if you're working, especially in medicine, um, you know you can imagine, you know English language or whatever. there's certain facets which are always going to occur. what you may wanna do is keep around searches that are just of a facet, just of a children's facet and every time you call on that facet, okay just out there and you know you're in may even memorize the number or you have a little cheat sheet in front of you listing, all your facets, and where those are saved. under what numbers. cuz DIALOG does not, save, searches under mnemonic names that you assign it just gives 'em a number. okay? alright? yeah? </U>
+			<U WHO="S2"> yeah just one thing if you save them too long then you lose, updated, articles wouldn't you? </U>
+			<U WHO="S1"> no it re-executes the </U>
+			<U WHO="S2">
+				<OVERLAP> oh it does. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> search at that day. </OVERLAP>
+			</U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S1"> okay? i'm sorry if i'm not_ was not clear. so you have this saved search, but when you, call it up it executes it right there at that moment. </U>
+			<U WHO="S12"> so what it's doing is saving your, essentially your command string. </U>
+			<U WHO="S2">
+				<OVERLAP> your command. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> thank you. </OVERLAP> your it's saving your, search statements. yeah. any more questions, about that? i mean we have like ten minutes and all this extra time i know you're just, dying to sit here and listen to me instead of going out to that nice cool air. and reading and thinking about, you know the game and, i'm just gonna stand here for ten minutes and make you sit <EVENT WHO="SS" DESC="LAUGH"/> just kidding. i wouldn't waste anyone's time like that. okay last thing here. </U>
+			<EVENT DUR=":13" WHO="SS" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> okay, last thing i'm gonna talk about. gonna give you a search to do, you're all gonna do the same one. </U>
+			<U WHO="SU-f"> oh no </U>
+			<U WHO="S1"> aw and it's not children violence television, <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="SU-f"> aw </U> gonna be a Freetext search. i want you to only use Freetext. got it? no descriptors. which i- when i say no descriptors i just mean no phrases, phrases are those things that have spaces in them like job space satisfaction. okay? flexible space work space schedule. however you're still gonna look in the thesaurus. the difference is when you find the search term, that's valuable, you're not gonna express it in descriptors you're gonna think about it. you're gonna say to yourself, how can i express that search term... u- using Freetext and all the wonderful things i learned in sch- in, in school today? <EVENT WHO="SS" DESC="LAUGH"/> so <PAUSE DUR=":04"/> if one of your search terms, excuse me. if you find, the descriptor, consumer attitudes, in the thesaurus and you think it's really great and you wanna use it, you are not gonna enter it as consumer atti- attitudes how are you gonna enter it as? </U>
+			<U WHO="SS"> consumer parenthesis </U>
+			<U WHO="S1"> at the very least, at the very least, you're gonna enter it as consumer, <EVENT DUR=":08" DESC="PAUSE WHILE WRITING"/>
+			</U>
+			<U WHO="S8"> right </U>
+			<U WHO="SS"> question mark </U>
+			<U WHO="S1"> so i get consumer, adjacent attitude, or attitudes. at the very least. okay? go to thesaurus, pick out your terms. now, how else could i express this? think about this. you have consumer attitudes but don't consumers also have attitudes? <U WHO="SU-f">
+					<OVERLAP> attitude of consumers </OVERLAP>
+				</U>
+				<OVERLAP> consumers </OVERLAP> have attitudes. attitudes of consumers? so what does this now look like. </U>
+			<U WHO="SU-f"> N </U>
+			<U WHO="S1"> how many N? </U>
+			<U WHO="SU-f"> one </U>
+			<U WHO="S9"> at least two </U>
+			<U WHO="S1"> at least two, and one N doesn't buy much at least put two N i never use one N. </U>
+			<U WHO="S9"> and you might wanna truncate, consumer because it could be <OVERLAP> attitudes of consumers </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> attitudes of consumers </OVERLAP> thank you. excellent. i had to say excellent at least once. did you hear it tape? <EVENT WHO="SS" DESC="LAUGH"/> i don't say it enough. okay. so here's a good one. this is how i would enter this descriptor. it's still gonna retrieve the descriptor consumer attitudes, but it's also gonna get documents which contain, the phrase consumer attitude. attitudes, of consumers, attitude, of, angry consumers, h- i won't get attitude, of an angry consumer so y- y- y- well you know maybe i could make this a three. okay? attitudes of co- satisfied consumers. <PAUSE DUR=":08"/> here's another descriptor, urban environments <EVENT DUR=":04" DESC="PAUSE WHILE WRITING"/> this is my descriptor right out of the source how would i wanna express it? urban... the quicker you tell me the quicker we get the hell out of here. <EVENT WHO="SS" DESC="LAUGH"/> what is it? </U>
+			<U WHO="S19"> parentheses </U>
+			<U WHO="S9"> parenthesis two-N, question mark. </U>
+			<U WHO="S1"> what does two-N buy you? give me some constructions that this gives you? help them so we can get out of here. </U>
+			<U WHO="S9"> environments of urban communities. </U>
+			<U WHO="S1"> great, environments of urban communities what else? </U>
+			<U WHO="S8"> environment influencing urban youth. </U>
+			<U WHO="SU-f"> good </U>
+			<U WHO="S1"> great. in fact, environments, influencing, urban delinquent youth. <EVENT WHO="SS" DESC="LAUGH"/> because this week we're gonna, have a search... <U WHO="SU-f"> oh no </U> about juvenile delinquents. only Freetext. let me tell you this a thousand times you're gonna search Freetext, no descriptors however you can use descriptors. please do use descriptors please look in the thesaurus because there are descriptors for this. and you still don't wanna miss out on those. the difference is you wanna be real comprehensive, think about getting everything in the database, on this topic. this is your chance, okay? be as comprehensive as possible. and with five minutes to spare does anyone have a question? <PAUSE DUR=":04"/> it's your last chance to get on tape be immortal. <EVENT WHO="SS" DESC="LAUGH"/> have people talking about you for years. remember the day that changed your life. c'mon any questions? okay we're out of here. </U>
+			<U WHO="R2"> mkay before you go, uh </U>
+			<U WHO="S1"> you knew you weren't out of here </U>
+			<U WHO="R2"> Meredith i don't know who you are, or where you were sitting. </U>
+			<U WHO="S24"> i'm Meredith. </U>
+			<U WHO="R2"> uh let me see, </U>
+			<U WHO="S1">
+				<OVERLAP> thank you for all taking part in this study </OVERLAP>
+			</U>
+			<U WHO="R2">
+				<OVERLAP> and there are two more people that i need </OVERLAP> information from. </U>
+			<EVENT DUR="3:14" WHO="SS" DESC="UNINTELLIGIBLE SPEECH"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

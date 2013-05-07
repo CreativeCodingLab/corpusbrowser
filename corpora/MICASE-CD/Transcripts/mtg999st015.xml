@@ -1,0 +1,1273 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="mtg999st015">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Forum for International Educators Meeting </TITLE>
+				<TITLE> Rackham Div: NA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> MTG999ST015 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="102">
+						<DATE> May 6, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Eric Breck, Marianne Carduner, Janine Ovens, Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Eric Breck </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Carrie Sue Sulzer, Rodney Pratt </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> John Swales </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Final Editing, 4/29/00 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="11"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="11"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="ST, Facilitator, (Amy)" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="ST, Participant, (Frank)" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S4" LANG="NRN" ROLE="ST, Participant, (Naomi)" SEX="F" RESTRICT="NONE" AGE="4">
+					<FIRSTLANG> TAG </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="ST, Participant, (Martha)" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="ST, Participant, (Diane)" SEX="F" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="ST, Participant, (Scott)" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="ST, Participant, (Kathleen)" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="ST, Participant, (Patricia)" SEX="F" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="ST, Participant" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="RE, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-1" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-2" LANG="NS" ROLE="ST, Facilitator, (Amy)" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-3" LANG="NS" ROLE="ST, Participant, (Frank)" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-4" LANG="NRN" ROLE="ST, Participant, (Naomi)" SEX="F" RESTRICT="NONE" AGE="4">
+					<FIRSTLANG> TAG </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="SU-5" LANG="NS" ROLE="ST, Participant, (Martha)" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-6" LANG="NS" ROLE="ST, Participant, (Diane)" SEX="F" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-7" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-8" LANG="NS" ROLE="ST, Participant, (Scott)" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-9" LANG="NS" ROLE="ST, Participant, (Kathleen)" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-10" LANG="NS" ROLE="ST, Participant, (Patricia)" SEX="F" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-11" LANG="NS" ROLE="ST, Participant" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="ST, Participant" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU" LANG="NS" ROLE="ST, Participant" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="ST, Participant" SEX="U" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Small Seminar Room, North University Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> (xx) bounced back to me. <EVENT DESC="LAUGH"/> this is my group at, at um, in advising <U WHO="S4">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> (people) </OVERLAP> who were interested in coming to these meetings <U WHO="S4"> right </U> and i don't know why, it came back, but nobody, got the, the message. but Frank's here at least so. and Martha (has come,) so. </U>
+			<U WHO="S2"> she got it by telepathy not email right? </U>
+			<U WHO="S1"> yes yeah. </U>
+			<U WHO="S3"> you (xx) yesterday </U>
+			<U WHO="S1"> right i know, and that's but </U>
+			<U WHO="S3"> but i didn't know if you were <U WHO="S1"> yeah, i i i just wish- </U> that Frank is (showing over here) </U>
+			<U WHO="S1"> that's right. it was a nice little (xx) </U>
+			<U WHO="S5"> hi how are you? </U>
+			<U WHO="S4"> okay, i just talked to Johanna last night </U>
+			<U WHO="S5"> oh did you? </U>
+			<U WHO="S4"> she thought_ she had said that she thought you had left Ann Arbor or som- </U>
+			<U WHO="S5"> well i am leaving Ann Arbor <EVENT DESC="LAUGH"/> actually pretty soon </U>
+			<U WHO="S4"> when are_ yeah? when are you going? </U>
+			<U WHO="S5"> this summer, actually i'm leaving, so. so how's she doing? </U>
+			<U WHO="S4"> she is doing well. <U WHO="S5">
+					<OVERLAP> she has uh tenure there now? </OVERLAP>
+				</U>
+				<OVERLAP> she's_ she was on </OVERLAP> sabbatical this past year. she's going back to teaching in August. </U>
+			<U WHO="S5"> oh okay </U>
+			<U WHO="S4"> yeah <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> wow gosh (it's) been so many years </U>
+			<U WHO="S4"> so like when are you, leaving? like August? </U>
+			<U WHO="S5"> um, (probably in s-) July </U>
+			<U WHO="S4"> but she may come before August </U>
+			<U WHO="S5"> yeah well tell her to email me </U>
+			<U WHO="S4"> yeah yeah (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-7"> you taking any teaching time this summer Diane? </U>
+			<U WHO="S6"> um... yes uh, we've got a business trip coming up uh week after next um, Susan Williams and i are going to Greece, <U WHO="SU-7"> oh </U>
+			</U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT 1:20"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="S6"> and then, the tail end of that will be, pleasure, <U WHO="SU-7"> mhm </U> and, um um my daughter's joining me in Greece at the end of that, um <U WHO="SU-7"> mhm </U> (xx) somehow and somewhere. <EVENT DESC="LAUGH"/> and uh, then, at the end of the, toward the end of the summer (around) July or August, um, early August, um, we all, spend s- about (xx) or five days, or so in, Stratford <EVENT DUR=":09" DESC="UNINTELLIGIBLE SPEECH"/> join us, so that's fine, (xx) family (xx) </U>
+			<U WHO="SU-7"> it's a nice little town, too. <U WHO="S6"> yeah </U> there's more to do than, in between places (xx) </U>
+			<U WHO="S6"> yeah, before, we've always stayed in London because, it's a it's a real city you know, and Stratford is sort of, <EVENT DESC="LAUGH"/> corny, whatever <U WHO="SU-f"> mhm </U> but um, you know this little country town that had things happen to it but this time we're gonna stay, you know some, a few days in Stratford and see (xx) if we can, take it or not <EVENT DESC="LAUGH"/> (xx) </U>
+			<U WHO="SU-7"> (xx) (last summer,) two summers ago i was up there, we only stayed for like (xx) (he's got a little) bed and breakfast place, you know? and it worked out just fine, it was kind of outside of the downtown area, very beautiful (xx) </U>
+			<EVENT DESC="END CONVERSATION 1"/>
+			<EVENT DESC="CONVERSATION 2"/>
+			<U WHO="S5"> so her brother lives here right? </U>
+			<U WHO="S4"> yeah. you met you met her brother right? yeah. he's still around. <U WHO="S5"> right </U> he bought a house over on (xx) <U WHO="S5"> he did? </U> yeah. <U WHO="S5"> wow. </U> so oh got mar- got married too. <U WHO="S5"> he got married? wow </U> and got two kid- he's got two kids now </U>
+			<U WHO="S5"> he has two kids? <EVENT DESC="LAUGH"/> well, i guess he was a pretty young guy (when i,) when i met him. </U>
+			<U WHO="S4"> yeah <U WHO="S5"> yeah </U> he was only like in his twenties <OVERLAP> when he first came like </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> right right </OVERLAP> (he was) just starting as an engineer? </U>
+			<U WHO="S4"> mhm. yeah he's now. <EVENT DESC="LAUGH"/> family man. </U>
+			<U WHO="S5"> Johanna's an aunt huh? </U>
+			<U WHO="S4"> mhm. yeah. i'm trying to convince her to come. she said she will but, she's i mean, she was in uh Japan <U WHO="S5"> Japan? </U> she presented a paper in Japan. <U WHO="S5"> oh wow. </U> and then, i think she presented a paper too in, in Boston, at an international conference <U WHO="S5"> yeah. </U> and then she's been, you know busy </U>
+			<U WHO="S5"> yeah sounds like it </U>
+			<U WHO="S4"> (of course) she's got tenure now too </U>
+			<U WHO="S5"> i know </U>
+			<U WHO="S4"> this um, oh you don't know, remember her boyfriend, Patrick </U>
+			<U WHO="S5"> oh Pat? Pat Klein? </U>
+			<U WHO="S4"> what's his last name? </U>
+			<U WHO="S5"> Pat Klein-Stark Doertier. <U WHO="S4">
+					<OVERLAP> oh God </OVERLAP>
+				</U>
+				<OVERLAP> can't believe </OVERLAP> i remember that, he has a really long name. </U>
+			<U WHO="R1"> how do you know Pat? </U>
+			<U WHO="S4"> you know Pat? </U>
+			<U WHO="R1"> yeah he lives in my co-op </U>
+			<U WHO="S4"> i think he's still there </U>
+			<EVENT DESC="END SIMULTANEOUS CONVERSATIONS"/>
+			<U WHO="R1"> yeah oh, he's there </U>
+			<U WHO="S4"> oh, are you still in the co-op Rita? <U WHO="R1"> yeah </U> oh </U>
+			<U WHO="S5"> (i used to) live there for years that's why i know </U>
+			<U WHO="R1"> oh really? that's how you know Pat? </U>
+			<U WHO="S5"> Pat Klein was there, from eighty, <U WHO="R1"> he's like the longest </U> (oh,) eighty-five <U WHO="S4"> oh </U> he's been there, he's been there </U>
+			<U WHO="S4"> oh my Lord </U>
+			<U WHO="S5"> no no no, i take it back eighty-six, i think eighty-six or, eighty-five. <U WHO="S4">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> he's been </OVERLAP> there he's been there <OVERLAP> the long- </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> he's still </OVERLAP> there i think, cuz <OVERLAP> when she comes, </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> why? </OVERLAP> i don't understand him <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> cuz when she comes, um, they see, each other, i think. um, but i think he's still there, as far as i know </U>
+			<U WHO="S5"> yeah that is amazing, that he still lives here </U>
+			<U WHO="S4"> exactly <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> something's gotta be wrong with that man </U>
+			<U WHO="S4"> mhm. i know don't you think he would outgrow, you know, <U WHO="S5"> yeah </U>
+				<OVERLAP> but he must live </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> he's like the, </OVERLAP> perpetual teenager. he must be like in his forties now </U>
+			<U WHO="S4"> yeah. probably. no no no. </U>
+			<U WHO="S5"> and he has a good job, isn't he an engineer? </U>
+			<U WHO="S4"> yeah. for the car company. i think he's in his late thirties, <OVERLAP> isn't he? </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> and his </OVERLAP> parents are </U> and he's still there right? Pat? </U>
+			<U WHO="R1"> yeah. yeah. </U>
+			<U WHO="S4"> oh i'm gonna have to tell Johanna. </U>
+			<U WHO="R1"> how does Johanna know him? </U>
+			<U WHO="S4"> uh he think they had_ she would_ <U WHO="SU-f">
+					<OVERLAP> they were dating each other </OVERLAP>
+				</U>
+				<OVERLAP> he he was her ex-boy- </OVERLAP> were yeah we_ boyfriend_ he was her boyfriend. i think no more right? <OVERLAP> no longer i think </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> (last i talked to her) </OVERLAP> was a while ago. <OVERLAP> uh, i don't think so </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> uhuh, they weren't any, </OVERLAP> yeah yeah they're just friends, so when she comes here, they sort of, get together. can't believe </U>
+			<U WHO="S5"> i just can't believe he's still there <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="R1"> yeah, <OVERLAP> he's still there </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> but he was </OVERLAP> really getting into Scientology and </U>
+			<U WHO="S4"> yes, exactly, he is </U>
+			<U WHO="R1"> oh yeah he gets those mails <U WHO="S4"> right </U> i see them every now and then they come to the wrong door. </U>
+			<U WHO="SU-f"> what is this connection? how do <OVERLAP> you guys know each other? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> oh you see we </OVERLAP> we yeah we have a mutual friend </U>
+			<U WHO="S4"> a mutual friend. isn't that amazing? Johanna lived there too. did you know her from there? </U>
+			<U WHO="R1"> no, cuz i <U WHO="S4"> oh </U> didn't live there until ninety-four (ninety-five) </U>
+			<U WHO="S4"> oh okay. she was there in the eighties with Martha. right <U WHO="S5">
+					<OVERLAP> the eighties </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> Martha? </OVERLAP> oh was it eighties <U WHO="SU-f"> (xx) eighties <EVENT DESC="LAUGH"/>
+				</U> yes right? yeah cuz Johanna graduated in eighty-nine. right. </U>
+			<U WHO="S5"> i was there that time, yeah. <EVENT WHO="SS" DESC="LAUGH"/> it was the first place i lived when i came to Ann Arbor </U>
+			<U WHO="S4"> yeah and, b- Betsy lived there too right? Betsy Mullen? </U>
+			<U WHO="S5"> yup Betsy lived there </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S5"> and she's in Amherst </U>
+			<U WHO="S4"> Betsy? oh no no <U WHO="S5"> no sh- no (xx) </U> North uh <U WHO="S5"> North Carolina </U> Carolina right. </U>
+			<U WHO="S5"> cuz i used_ i w- i saw her actually (well not) recently, <OVERLAP> like a year ago </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> at a conference. </OVERLAP> Betsy? oh she was here? </U>
+			<U WHO="S5"> no she's a friend of another friend of ours, <U WHO="S4">
+					<OVERLAP> oh really? oh </OVERLAP>
+				</U>
+				<OVERLAP> (Anthony) </OVERLAP> so when she comes she (always gets to see) to see him and then i don't see her. (xx) </U>
+			<U WHO="S4"> all these mutual friends </U>
+			<U WHO="SU-f"> a lot of traffic over there, these days? </U>
+			<U WHO="S2"> um, well we have a lot of traffic the last couple weeks because of all the students leaving, and, getting signatures and graduating and all that, so forms, certifications, advice. <EVENT DESC="LAUGH"/> but um, it's i don't know just to in- in- well i think you know that we're, spread out, um, over two offices it's now (we have a couple) (people) up at the North Campus office, the staff was really stretched <U WHO="SU-m"> yeah </U> i mean (it's) great to have that office but at the same time, we're kind of doing more than i think we really have the staff to do. </U>
+			<U WHO="SU-f"> any chances they <U WHO="SU-f"> well </U> they'll add a position? or, no. </U>
+			<U WHO="S2"> but, well, it would be great i mean i don't (see any,) i mean the, impetus all seems to be towards trying to, cut rather than (xx) </U>
+			<EVENT DUR=":43" DESC="UNINTELLIGIBLE SPEECH "/>
+			<U WHO="S6"> Naomi? do you wa- do you wanna run the meeting or do you want me to do it? um, i guess we better um, start now um, there might be a few more people, straggling in um, hav- i- since, </U>
+			<EVENT DUR="4:25" DESC="MICASE-RELATED SPEECH"/>
+			<U WHO="S6"> um, i guess we could start by, introducing ourselves um, i'm uh Diane Parker and i work in the uh Testing Division, here at the English Language Institute, and i will, pass around a, list, of names, so, here we go... um... let's see, </U>
+			<U WHO="S2"> maybe we should just go around and <OVERLAP> let everybody, introduce themselves before we start, yeah </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> we, just sort of go around, we introduce ourselves before we start, </OVERLAP>
+				<U WHO="S2"> there might be <OVERLAP> some people who don't know </OVERLAP>
+				</U>
+				<OVERLAP> saying what we're talking about </OVERLAP> okay </U>
+			<U WHO="S7"> uh Rachel Ray Highte Biology um office Graduate Program Coordinator </U>
+			<U WHO="S2"> Amy Spencer International Center </U>
+			<U WHO="S3"> Frank Jones Academic Advis- L-S-A Academic Advising </U>
+			<U WHO="S8"> uh Scott Laing Office of International Programs </U>
+			<U WHO="S1"> Liz Gamine L-S-and-A Academic Advising </U>
+			<U WHO="S5"> Martha Lee Brennan L-S-and-A Academic Advising </U>
+			<U WHO="S9"> Kathleen Taylor Center for International Business Education or, just shorthand C-I-B-E in the Business School </U>
+			<U WHO="S10"> Patricia Easton Housing </U>
+			<U WHO="S4"> Naomi Rey E-L-I </U>
+			<U WHO="SU-6"> okay, um, um, um, i guess usual- usually what we do at these meetings is just sort of go around and uh talk about what we've been doing, um, <U WHO="SU-f"> um </U> i have oops what? <U WHO="SU-f"> um </U> did i? oh (it) um, i have a um notice here that you may have already seen and um, that i'll pass around, um our, MELAB uh testing program is undergoing some changes, um, first of all i should tell you what is not changing, um we will continue to administer individual and group MELABs in the United States and Canada. however after June thirtieth um we will not have any, um MELABs administered overseas uh there is one exception which might not affect, people here at the University of Michigan very much and that's um, Iran, we have been testing in Iran, and um actually most of those, students end up going to Canadian universities. um, the, the reason for this uh was that it was becoming more and more cost ineffective um to have these, make complicated arrangements for individual, tests uh overseas and it just wasn't worth the, the the time we were putting into it. and um, the other the other thing is the, the TOEFL test as you may know uh has, uh changed um, to a uh computer-delivered uh test i- in, uh most places in, i think with the exception of some, Asian countries the far east, um, the TOEFL uh will be, will be given um, uh via computer-delivered tests and uh people can take, those TOEFL tests uh, pretty much on demand they don't have to, the tests are not given like every six weeks, um i think initially they're having a few problems with uh, a waiting list of people signing up to take the test but that probably should eventually, that logjam should eventually um, break down. so that's, about, all i have to say. so um </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S4"> do we go this way or that way? </U>
+			<U WHO="S6"> um </U>
+			<U WHO="S7"> i have a question for <U WHO="S6"> mhm mhm </U> you um somebody from E-L-I actually involved in the, um I-G-S-I, participants in the August workshop <U WHO="S6"> mm <OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> um, </OVERLAP> do you, facilitate the students finding housing for that, during the course throughout their course or are they expected to arrive <U WHO="SU-6"> on <OVERLAP> their own </OVERLAP>
+				</U>
+				<OVERLAP> a few days </OVERLAP> early, find their own housing <U WHO="S6"> right </U> yeah, okay. </U>
+			<U WHO="S2"> (now the) early arrival housing will be, open during the whole, period of the course right Patricia? </U>
+			<U WHO="S4"> in the <U WHO="SU-11"> no </U> month of August? </U>
+			<U WHO="SU-f"> it's </U>
+			<U WHO="S10"> yeah </U>
+			<U WHO="SU-f"> starts July thirtieth <U WHO="SU-f">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> goes till </OVERLAP> August twenty-seventh so it's not the full month of August </U>
+			<U WHO="S4"> okay </U>
+			<U WHO="SU-11"> if anyone needs a flier i have it <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> right </OVERLAP> here </U>
+			<U WHO="S4"> oh i think i will need <OVERLAP> right </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> it goes </OVERLAP> until what time? do you know? (Patricia) </U>
+			<U WHO="SU-11"> August twenty-seventh </U>
+			<U WHO="SU-f"> August twenty-seventh </U>
+			<U WHO="SU-11"> noon </U>
+			<U WHO="SU-f"> how long's the I- I- the I-G-S-I will be over by then uh, won't it? </U>
+			<U WHO="S4"> the August workshop is for uh three weeks <U WHO="SU-f"> okay. </U> so it would be like first week of August to like third week of August. <U WHO="SU-f"> mhm </U> oh wait a minute, isn't it end <OVERLAP> of July? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> isn't it </OVERLAP> the third to the twenty-first or <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> something? </OVERLAP>
+			</U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="SU-6"> so, uh do most of these, IGSIs Naomi then um come to the, in, <OVERLAP> (Ann Arbor or) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> no they're sort </OVERLAP> of like um, these people have <U WHO="S6"> they find apartments? </U> yeah <U WHO="S6"> or </U> they find it on their own <U WHO="S6"> mhm </U> and they've been here like a year so they're_ a lot of them are coming to_ from other universities, so, they've been here for at least a year so they are not like... i mean <U WHO="S6">
+					<OVERLAP> they they </OVERLAP>
+				</U>
+				<OVERLAP> some some </OVERLAP> are coming from, you know </U>
+			<U WHO="S6"> i thought i thought the August workshop people were not, <U WHO="S4"> no but some of <OVERLAP> them </OVERLAP>
+				</U>
+				<OVERLAP> coming from </OVERLAP> within the U-S i thought <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> some of them some of them </OVERLAP> not all. </U>
+			<U WHO="S2"> but some of them are going to be brand new aren't they? </U>
+			<U WHO="S4"> right right some are brand new <U WHO="S6"> yeah </U> but we don't do any unless C-R-L-T, but E-L-I does not as far as i know, </U>
+			<U WHO="S2"> no i don't i don't think so i mean some of them come to the International Center <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> (first) </OVERLAP> too but um </U>
+			<U WHO="S4"> but you're saying in terms of housing we <U WHO="SU-2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> don't, (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> no i don't </OVERLAP> think it's, facilitated but th- those um, i i i mean i think housing always makes sure that, early arrival housing is open early enough so that <U WHO="S4"> right </U> they can stay there if they wanted to. </U>
+			<U WHO="S10"> mhm right. and um, i have had a couple inquiries from people, like that <U WHO="S4"> mhm yeah right </U> that're going to move in really early, </U>
+			<U WHO="S4"> i'm just_ i'm gonna forward this to the coordinator of the IGSI program Michele Ruffe, <U WHO="SU-f"> okay </U> and uh, Sara Lonsway who is the coordinator, overall coordinator, of the IGSI workshop, but Michele Ruffe is the one who'll coordinate this summer, so i will get <OVERLAP> this to her. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> have they sent out the </OVERLAP> information packets? </U>
+			<U WHO="S4"> yes <U WHO="S7">
+					<OVERLAP> they have? </OVERLAP>
+				</U>
+				<OVERLAP> oh yeah. </OVERLAP> yeah quite early i think, they sent that. </U>
+			<U WHO="S7"> cuz, they <OVERLAP> just requested us </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> now i don't know if they </OVERLAP> have sent this i don't <U WHO="S7"> well </U> know </U>
+			<U WHO="S10"> they just requested that we have by May eighth turned <U WHO="S4"> mhm </U> in the names and addresses, and <U WHO="S4"> mm </U> it's only May sixth today, so i'm thinking they may not have sent the information packages yet </U>
+			<U WHO="S4"> oh, that i don't <OVERLAP> know </OVERLAP>
+			</U>
+			<U WHO="S10">
+				<OVERLAP> in which </OVERLAP> case you could slip these in, <U WHO="S4"> mhm </U> to to <OVERLAP> ma </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i'll </OVERLAP> ask uh Sara </U>
+			<U WHO="S10"> well we sent these uh um fliers out to many departments, uh that do have, <U WHO="S4"> mhm </U> early graduate students, and, <U WHO="S4"> mhm </U> early students coming, <U WHO="SU-f"> right </U> so that they could uh <U WHO="S4"> forward </U> send this to the right </U>
+			<U WHO="S4"> this is good information. </U>
+			<EVENT DUR=":13" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-f"> this is, this booklet is, is new it's the new um undergraduate, <U WHO="SU-f">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> residence </OVERLAP> hall booklet. the other one we_ has been passed out it's for graduate housing we have passed that a couple times, so and then there's the uh, rate sheet for uh this, academic year </U>
+			<U WHO="SU-f"> okay, great. thanks </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-f"> any more, E-L-I stuff, or is that </U>
+			<U WHO="S4"> mm </U>
+			<U WHO="S4"> i don't really have much to tell except that i have already distributed every, last month the uh E-L-I summer programs <U WHO="SU-f"> okay </U> so, you know? we are slowly admitting, students, <U WHO="SU-f"> mhm </U> and um, as usual we have the three, programs English for Business English for Academic Purposes and English for Legal Studies, starting June thirtieth, and ending August fourteenth. so, if any of you have not received the brochures i can get some, but, i think that's it. </U>
+			<U WHO="S2"> okay uh, w- i think most of you know Arthur Ward who's also from the International Student he's one of our foreign student advisors and, because we're a little bit um, short of advisors today he's probably gonna just stay for part of the meeting <U WHO="S4"> alright </U> so if we could just um, jump in if anybody had any particular, immigration, related questions, issues, <EVENT DESC="LAUGH"/> (um) okay i think Liz? we can depend on you. uh, ask now or if you ask me i'm just gonna make it up as i go along. so, if <U WHO="S1"> well that'll work too </U> you want actual reliable information um, go ahead </U>
+			<U WHO="S1"> first of all the burning question has I-N-S come out yet with any statement about, students from the five countries in crisis? nothing has come yet, okay. and still there's no other, word about what the University is going to be doing to, <U WHO="S11">
+					<OVERLAP> not to my knowledge </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> help them Omar hasn't, okay. </U>
+			<U WHO="S2"> well that's not exactly um, an um, an immigration question but you <U WHO="S1">
+					<OVERLAP> right right </OVERLAP>
+				</U>
+				<OVERLAP> can ask it anyway </OVERLAP> um but uh, so let me um, uh uh jump in quickly um, my understanding is that it's still being discussed there are, some possible um, scholarships um which'd require the University to match funds <U WHO="S1"> right </U> um i think that's tied up with the um Office of the General Counsel over the whole, issue of preferential dealings <U WHO="S1"> yes right </U> with um, you know for students from particular countries or ethnicities. <U WHO="S1"> right </U> um and i think um, you know that's_ i haven't heard anything <OVERLAP> beyond that </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay so it's </OVERLAP> stuck there probably for a while? </U>
+			<U WHO="S2"> probably until the affirmative action s- case is settled. <U WHO="S1"> right </U>
+				<EVENT DESC="LAUGH"/> so </U>
+			<U WHO="S1"> okay, um, but another another more direct um immigration issue uh for students who are, um, who are here now for the, they're doing half-term work, if they've done <U WHO="S11"> in the spring </U> in the spring right. and they've done a fall term? is the the, combination of a full-time, f- uh sorry winter, full-time winter and f- and full-time spring half is that enough for the, f- for the, okay for them to come back in with the I-twenties is that? </U>
+			<U WHO="S11"> okay. when you say okay for them to <OVERLAP> come back in with with </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> will will it it be signed </OVERLAP> if they go out? </U>
+			<U WHO="S11"> with yeah okay let me, just make a comment. normally F-one students, are expected to attend school full-time, for the equivalent of an academic year, <U WHO="S1"> right </U> in order to be eligible to take, a vacation term <U WHO="S1"> right </U> however. spring-summer is an exception. <U WHO="S1"> right </U> if a student came in, to start the program in January <U WHO="S1"> right </U> and they attended full-time, in the winter term. they would still be eligible to take off the spring-summer if they <U WHO="S1">
+					<OVERLAP> oh wou- would </OVERLAP>
+				</U>
+				<OVERLAP> wanted, </OVERLAP> if they wanted to have their, spring-summer vacation, <U WHO="S1"> okay </U> time be the traditional time. but, if such a student, who came in the winter, also attended school full-time during the entire spring-summer <U WHO="S1"> okay <OVERLAP> entire </OVERLAP>
+				</U>
+				<OVERLAP> okay, </OVERLAP>
+				<U WHO="S1"> spring-summer not <OVERLAP> a half-term, okay </OVERLAP>
+				</U>
+				<OVERLAP> the entire </OVERLAP> spring-summer, then they would qualify to take off the fall term <U WHO="S1"> okay </U>
+				<U WHO="SU-f"> oh <OVERLAP> i see </OVERLAP>
+				</U>
+				<OVERLAP> if they </OVERLAP> wanted to <U WHO="S1"> okay </U> okay? or if they came, if they came in the summer, and attended full-time during the entire spring-summer and then attended in the fall, <U WHO="SU-f">
+					<OVERLAP> the fall they could take off winter </OVERLAP>
+				</U>
+				<OVERLAP> they could then take off </OVERLAP> the winter term. </U>
+			<U WHO="S1"> okay. but if if she has done just a, f- winter term </U>
+			<U WHO="S11"> she's fine </U>
+			<U WHO="S1"> she could be <OVERLAP> she'll, be alright it's_ okay. </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> she's fine </OVERLAP> we would sign the <U WHO="S1">
+					<OVERLAP> okay, alright that's fine that's what i wasn't quite sure </OVERLAP>
+				</U>
+				<OVERLAP> I-twenty and she could go home and come back </OVERLAP>
+			</U>
+			<U WHO="S1"> (when) i did, i tried calling in last week and i know you were, swamped so i, i held my question. <U WHO="S11"> yeah <OVERLAP> (well i) </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> hoping that i'd get an answer here but that's great. okay. good. </U>
+			<U WHO="S4"> for F-one questions it's still Arthur? and um, who's the other one (xx) </U>
+			<U WHO="S11"> well i- i- actually we are all, <U WHO="S4"> you are all, handling </U> there at the uh, out on the North Campus <U WHO="S4"> uhuh </U> there are two people, only one can sign I-twenties but uh that's Mary Coppler and Terri Mancini. Terri signs the I-twenties and Mary signs the I-A-P-sixty-sixes. now uh, <U WHO="S4"> on </U> in the <U WHO="S4">
+					<OVERLAP> Central Campus </OVERLAP>
+				</U>
+				<OVERLAP> uh </OVERLAP> Central Campus, we've got three people advising, <U WHO="S4"> mhm </U> uh, w- i, uh i'm still there and, uh, Tori, and uh Feng, is signing I-twenties, and, Holly Cokigo, <U WHO="S4"> mhm </U> is signing I-A-P-sixty-sixes but we all talk to, uh, to everybody, so they're actually, uh <U WHO="S4"> oh <OVERLAP> so (we we can ask) </OVERLAP>
+				</U>
+				<OVERLAP> a variety, </OVERLAP>
+				<U WHO="S4"> (anyone) </U> right...? </U>
+			<U WHO="S3"> are there any restrictions or, anything of that sort for, internationals looking to do an internship? </U>
+			<U WHO="S11"> oh yeah, <U WHO="S3"> okay </U> lots. but there're lots of possibilities too. there are a variety of ways to get, permission, to uh, to be employed. uh, it it's different, for the F-one student, compared to the, to the J-one student. uh basically there are two ways, um, the_ if, if a if an F-one student, has an offer of a specific internship, and, if, if they can, can document and we usually use a letter from their academic advisor or one of their professors, if they can document that this internship constitutes an integral part of, their established program if it's closely related to their research, then we can give them the permission on the spot. to, to take the, uh, to take the job. that's the fastest way. uh, uh to do it. if they have a specific internship lined up in advance, if they don't have something specific lined up in advance, or if they can't show, somehow, that it's an integral part of, uh, of their curriculum, they can still apply, f- for a carte blanche permit to go out and work anywhere they want in their field, without having a specific job lined up in advance, but, in order to get that kind of permit, they have to send an application and pay a small fee, to the immigration office, and, it takes a month or six weeks, uh to get the uh to get the permit um these two programs are, referred to as practical training programs <U WHO="SU-f"> mm </U> and the one, the one that has to be based on a, on a specific uh, internship, is called curricular practical training, and the one that's just carte blanche, is called optional practical training. but we, w- we, we're constantly involved, in, uh in (xx) so we have, we have workshops throughout the, throughout the semester and, we have handouts and we use to, uh, mostly the students are, generally aware that... </U>
+			<U WHO="S4"> uhuh </U>
+			<U WHO="S3"> do they have to be enrolled at the time that they take the internship? </U>
+			<U WHO="S11"> i'm sorry? </U>
+			<U WHO="S3"> do they have to be enrolled at the time that they're doing? </U>
+			<U WHO="S11"> no. no. </U>
+			<U WHO="S7"> uh do they still have two, types of internships where there's the kind of, pre, bachelor's degree, and then there's the practical training which which is_ they're eligible for after receiving their <OVERLAP> degree </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> okay they </OVERLAP> uh... the f- the first, kind, of internship that's based on a specific, uh uh job related to the to the field, the one that's called curricular practical training, can only be given, prior to graduation, okay? and can be given on a part-time basis or a full-time basis. if it's given on a f- if it's given on a part-time basis during the academic year, then the student must continue to be registered as a full-time student. okay? if it's given, on a full-time basis, during the academic year, then the student doesn't have to be registered at all, while they are doing the job, full-time. if it's given, for during the vacation term, then the student doesn't need to be registered, uh anyway, but they can be if they, uh if they if they wish. the other program called the optional practical training, oh i_ and i should say that the first one, the curricular practical training, is unlimited, there's no time limit, on how, many months a person could actually do this. theoretically over a, five year period, or a six year period a person might, s- spend two or three years, at different times, doing, curricular practical training. however, the other practical training program the optional practical training program, is restricted to a total of twelve months, you can borrow part of this before you graduate, or you can save up and wait and use it all, after you graduate. however, if a student, participates in, twelve months, or more, of the curricular practical training, if they participate on a full-time basis, then after they graduate they, they forfeit, using the optional practical training. however, if they sign up for curricular practical training on a part-time basis, before they graduate, then they don't lose anything, no matter how long they worked, on a part-time basis. now, a person who wants to get optional practical training, has a choice of borrowing before they graduate. and you can borrow on either part-time basis, or a full-time basis. if you borrow on a part-time basis, before you graduate, then you lose one month, of your, postcompletion practical training, for every two months that you work prior to completion on a part-time basis. if you borrow on a full-time basis, before you graduate then for every month that you work before you graduate, one month would be deducted from the twelve month total after you graduate. so, you know tha- i've i_ probably spent too much time on that you don't usually, uh </U>
+			<U WHO="S1"> we've got your name and number. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S9"> can we deal with it on a case by case basis? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S11"> keeping you know, keeping track of it, and uh </U>
+			<U WHO="S9"> seems everything can be an exception </U>
+			<U WHO="S11"> oh sure </U>
+			<U WHO="SU-10"> mm yeah </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"> well it's so nice though to hear it uh spelled out <U WHO="SU-f">
+					<OVERLAP> it is </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> clearly and unambiguously <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S11"> (a little change) see (it'll be) </U>
+			<U WHO="S8"> even if it does change, is there any other, domain of immigration and naturalization business that's so clear-cut i mean <EVENT DESC="LAUGH"/> and do we know whether it is or not? </U>
+			<U WHO="S9"> no it's nice to know that there's someone, who knows all this, information it's really, it's, yeah. it's amazing. </U>
+			<U WHO="S2"> and we do give um all through the um the academic year we give, workshops during the winter term we we give them like, every every week or every other week so that, students can come and and hear all of this um, at even greater length so um, that's um you know that's probably what you should refer students to <U WHO="SU-f">
+					<OVERLAP> oh okay that's good </OVERLAP>
+				</U>
+				<OVERLAP> also if they just wanna get an overview </OVERLAP> of what's um, um of what's going on anything else in the, in the immigration domain? </U>
+			<U WHO="S4"> not right now <EVENT WHO="SS" DESC="LAUGH"/> maybe in June </U>
+			<U WHO="S11"> be tax time at the end of June </U>
+			<U WHO="S2"> oh God. we just barely made it through tax season this year but, <EVENT DESC="SIGH OF RELIEF"/> but we made it through... okay then um, i guess we could continue i don't know what direction we're we're going in well actually should w- </U>
+			<U WHO="S11"> listen i'm gonna go back i <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (happen to) have </OVERLAP> some people <U WHO="S2">
+					<OVERLAP> (us lots of people) </OVERLAP>
+				</U>
+				<OVERLAP> waiting for </OVERLAP> practical training </U>
+			<U WHO="S2"> alright okay thanks a lot for coming Arthur. <U WHO="SU-f"> okay </U>
+				<U WHO="SU-f"> okay </U>
+				<U WHO="SU-f"> thank you </U>
+			</U>
+			<U WHO="S11"> yeah good to see you... </U>
+			<U WHO="S2"> there are no <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay well you wanna go over and g- </OVERLAP> Patricia do you wanna do housing then? </U>
+			<U WHO="S10"> okay, well i, just passed out the, booklets that, you might be interested in, um i just wanna update you on, reapplication in the residence halls, uh, you probably heard we were having a crunch, and that crunch didn't turn out to be s- such a crunch we we had less sign- um, returning students sign leases for next year, so that makes more spaces for new students hooray hooray, and um, also, this is the first year that students can uh fax back their, leases <U WHO="S4">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> as </OVERLAP> well as their applications, and we don't want to see the original. <EVENT DESC="LAUGH"/> it just gets too complicated. and um, uh i- i- i'll uh entertain any questions. </U>
+			<U WHO="S4"> so ca- oh can they apply too by fax? </U>
+			<U WHO="S10"> well we- we're not online, <U WHO="S4"> mm, <OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> so we do </OVERLAP> have to s- mail, the information </U>
+			<U WHO="S4"> oh so the application <OVERLAP> form (does not) fit </OVERLAP>
+				<U WHO="S10">
+					<OVERLAP> once they </OVERLAP> receive it, </U>
+				<U WHO="SU-f"> oh okay </U> then they fax back <U WHO="S10"> mhm </U> oh okay, but applications, w- l- do you think that w- will come? <U WHO="S10">
+					<OVERLAP> yes. we're working on it </OVERLAP>
+				</U>
+				<OVERLAP> the time will come when the </OVERLAP> applications will be online? </U>
+			<U WHO="S10"> we're working on it </U>
+			<U WHO="S4"> yeah, cuz like for summer students are very very anxious </U>
+			<U WHO="S10"> sure, sure </U>
+			<U WHO="S8"> are there availabilities in most, uh buildings now or, (is it uh) </U>
+			<U WHO="S10"> uh yes there will be, there's_ there were uh, you know certain halls that are reapplied for rather heavily, which been a custom for several years, Mosher-Jordan, and um, West Quad, and, and South a fair amount but_ and we're also um, by the way we're we're, placing um, transfer, sophomore students uh, before, i i mean they're kind of like, guaranteed housing if they get their application in, by a certain date, which was, the the uh drawing, March sixteenth i mean April sixteenth or something. which we've never done before we've turned um, we've had to turn sophomores away, and so many people complained because they're like, still freshmen, and um, so we are housing them, this year too and they'll probably, uh mostly be placed in those halls where, uh, there are still spaces, and the reapp, was high. </U>
+			<U WHO="S4"> mhm </U>
+			<U WHO="S2"> um, i have a couple questions um, what is the um, what is happening as far as short-term housing both this summer and then <U WHO="S4">
+					<OVERLAP> yeah (that's) </OVERLAP>
+				</U>
+				<OVERLAP> in the fall </OVERLAP> is any Baits gonna back to <U WHO="S10">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> Mosher </OVERLAP> no okay. </U>
+			<U WHO="S10"> Baits will not. we do have a freshman hall at Baits only one instead of two as, <U WHO="S2"> okay </U> we told you earlier, <U WHO="S2"> right </U> we don't have any short-term housing summer, yes call Conference Services </U>
+			<U WHO="S2"> so it's basically like Oxford and and that </U>
+			<U WHO="S10"> well it's it's also- i think they have uh, spaces in a residence hall for the summer like they last year they had Bursley, (think) they do this year. by the way spring-summer this year, for students is at Alice Lloyd, <U WHO="S4"> mhm </U> cuz there's too much noise down at Markley. </U>
+			<U WHO="S2"> right </U>
+			<U WHO="S4"> (do you f-) cuz of construction. um do you foresee any crunch in the summer, housing? </U>
+			<U WHO="S10"> oh, uh- </U>
+			<U WHO="S4"> no <U WHO="S10"> not really </U> not it- i- it's in the past there's never <U WHO="S10"> right </U> been a problem </U>
+			<U WHO="S10"> right cuz there's so many sublets <U WHO="S4"> okay </U> out there that are really cheap. <U WHO="S4"> yeah </U> for off-campus housing. </U>
+			<U WHO="SU-2"> who is um, who's doing the mediation services, <U WHO="S10"> oh </U> now? </U>
+			<U WHO="S10"> one time i'll i'll bring her along <U WHO="S2"> okay </U> some time. and uh her name is Renee Star. <U WHO="S2"> Renee Star okay. </U> she has had uh so this is mediation, and off- also off-campus housing advisor, she's new Rob went to another area in our office, which is um, our our computers, and online things <U WHO="S2"> oh </U> so um, Renee just started but, she doesn't have to learn a whole lot because she's been, she had years and years of media- uh mediation oh i don't want her to sound old but, she's <EVENT WHO="SS" DESC="LAUGH"/> (esp-) cuz she's not <EVENT DESC="LAUGH"/> not, uh, but uh she even taught mediation in California to to groups <U WHO="S2"> oh <OVERLAP> great </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> um, she should be fabulous </U>
+			<U WHO="S1"> that's sounds wonderful </U>
+			<U WHO="SU-f"> what did you say her last name was? </U>
+			<U WHO="S10"> Star </U>
+			<U WHO="SU-f"> Star </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> just like </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> S T A R R </U>
+			<U WHO="S10"> uh-oh </U>
+			<U WHO="S4"> oh-oh <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> so um, i have a question though </U>
+			<U WHO="S10"> mhm? </U>
+			<U WHO="S4"> is it possible let's say for our students that have been admitted to our summer program, it is possible that you mail them um, leases applications? or? </U>
+			<U WHO="S10"> yes um, i- if they're online are they oh we don't put 'em <OVERLAP> online do we? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> no not yet </OVERLAP> yeah </U>
+			<U WHO="S10"> you can you can send that stuff to me, <U WHO="S4">
+					<OVERLAP> and then we'll </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> we'll send that out but they're students that are, intending to be here in the fall is that correct? </U>
+			<U WHO="S4"> some of them are. <U WHO="SU-11"> oh well the- </U> this is just for the summer. </U>
+			<U WHO="S10"> okay <U WHO="S4"> no? </U> i think what we need to do is just ask 'em to come into the office <U WHO="S4"> yeah that's what i've been doing because <OVERLAP> (because some of them) </OVERLAP>
+				</U>
+				<OVERLAP> won't </OVERLAP> have an I-D number either <U WHO="S4"> yeah </U> until um... (xx) put 'em online, yeah. </U>
+			<U WHO="S4"> no most of them have I-Ds already cuz the Rackham students, the I-Ds are already in <U WHO="S10">
+					<OVERLAP> (would they be) </OVERLAP>
+				</U>
+				<OVERLAP> their letters, and for undergraduate </OVERLAP> admissions their I-Ds are already </U>
+			<U WHO="S10"> will they be online? </U>
+			<U WHO="S4"> that i don't know? </U>
+			<U WHO="S10"> S-E-D-B? </U>
+			<U WHO="S4"> yeah. most likely though. </U>
+			<U WHO="SU-f"> well <U WHO="SU-f">
+					<OVERLAP> for Rackham? </OVERLAP>
+				</U>
+				<OVERLAP> if that's the case </OVERLAP> we'll automatically send 'em out. </U>
+			<U WHO="S4"> mm, so i don't even need to send you </U>
+			<U WHO="S10"> not really. um, you know send me, faculty members, and staff members and people that aren't caught by <U WHO="S4"> right </U> S-E-D-B. </U>
+			<U WHO="S4"> yeah </U>
+			<U WHO="S8"> will you accept uh fax leases from, overseas exchange students? </U>
+			<U WHO="S10"> sure </U>
+			<U WHO="S8"> that's okay too? good </U>
+			<U WHO="S4"> so when do you think those application forms will be online are you working towards that? </U>
+			<U WHO="S10"> oh yeah not this year. uh </U>
+			<U WHO="S4"> mkay, that would be (really help) </U>
+			<U WHO="S10"> yeah. i think Rackham, has their application online who else does? </U>
+			<U WHO="SU-f"> um </U>
+			<U WHO="S2"> Undergraduate Admissions </U>
+			<U WHO="S10"> they they do... </U>
+			<U WHO="S2"> i think so </U>
+			<U WHO="SU-f"> yeah yeah. </U>
+			<U WHO="S10"> i think we're ahead of that right? everybody is... </U>
+			<U WHO="S2"> but you've got all your off-campus housing those things on the web so </U>
+			<U WHO="S10">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="SU-f"> well not all not all tha- a- really what is out there is um, uh, off-campus housing, that's um available through independent landlords. we do not have the uh management company listings on the web <U WHO="S4"> oh, okay </U> and they're, still, on fliers in our office. and that's the majority, of off-campus housing. <U WHO="S4"> mm </U> so, you know </U>
+			<U WHO="S8"> but you do have the management company contact information on the web i've noticed so, so, yeah </U>
+			<U WHO="SU-11"> absolutely it's it's there a- yes we have um, a flier that we sent out with our off-campus packets telling all the management companies, names phone numbers dadada yeah. </U>
+			<U WHO="S2"> okay. alright. </U>
+			<U WHO="S9"> uh, i'd just like a few things about the center and uh (we've) just gotten through with our internship funding, and we see an interesting trend in that we_ i think in the Business School there are fewer and fewer people applying for international internship funding, which is interesting <U WHO="S2">
+					<OVERLAP> hm' </OVERLAP>
+				</U>
+				<OVERLAP> so we've </OVERLAP> uh, we've been funding a lot of uh students from the School of Natural Resources, which is <U WHO="S4"> oh that's interesting </U> yeah yeah yeah and they're they're working on these fascinating projects and most of them are (in) Eastern Europe and they're working (on, pollution) and what to do with it and so some of their, their internships sound, sound really fascinating we've also funded a number of people from the Law School, a number of undergraduates a lot of them from the uh, German Department, there's a woman there who's been really active, in finding internships for their students there <U WHO="SU-f"> hm </U> so depends you know if there's a good contact, in any given department, trying to find internships we find that we get a lot, of of (wind-) uh applicants, and also we funded a number of students who've applied both to the International Institute and also applied to our center, for funding. the other thing we're offering right now is uh funding to obtain summer language programs <U WHO="S2"> mhm </U> and uh, so <U WHO="S4">
+					<OVERLAP> oh mhm </OVERLAP>
+				</U>
+				<OVERLAP> this </OVERLAP> yeah and a lot of them is for our_ for the joint M-B-A and area studies uh students. but we'll consider anybody for instance in the M-B-A program who would be, taking a language at the expense of a very uh you know i mean (the) opportunity (cost is) an internship (paying) a lot of money so, uh we consider students who, you know prefer a language over their internships so we will consider funding it to study a language. uh currently we have, uh a study tour going on to uh, Japan, uh Singapore, and there are eighteen people on that trip a combination of PhD students, faculty and uh M-B-As. and, that's about it. </U>
+			<U WHO="S2"> okay, thanks </U>
+			<U WHO="S10"> will you have any groups coming, to the University of Michigan, in the fall <OVERLAP> or </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> yes, </OVERLAP> yes at a matter of_ good question <EVENT DESC="LAUGH"/> we have (we're s- we're having the) third iteration of the uh, <U WHO="S4"> mhm </U> Hong Kong program for the civil servants from, the Hong Kong government. <U WHO="S10"> mhm </U> but i think that, uh your question probably is related to housing <EVENT WHO="S10" DESC="LAUGH"/> and uh they'll still be at Oxford. <U WHO="S10"> great </U> yeah <U WHO="S10"> great. </U> and that works out really well, uh i think for the Oxford <U WHO="S10">
+					<OVERLAP> and for everybody else </OVERLAP>
+				</U>
+				<OVERLAP> people. (xx) </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> (good) </OVERLAP> for everybody </U> and they often felt_ well this is an interesting thing uh they feel that, the people who come to this program although they like Oxford, they feel that they're really not integrated <U WHO="SU-f">
+					<OVERLAP> mhm, yeah </OVERLAP>
+				</U>
+				<OVERLAP> into (the) campus life. </OVERLAP>
+				<U WHO="S4"> mhm </U> and but, they're only here for four months, <U WHO="S2">
+					<OVERLAP> how integrated are they gonna get </OVERLAP>
+				</U>
+				<OVERLAP> that's an interesting pro- </OVERLAP> how integrated, can they get? <U WHO="S2"> mhm </U> we tried to uh offer to um, give them all the programs that_ in which <U WHO="S2"> mhm </U> they can integrate themselves <U WHO="S2"> mhm </U> and and seminars <U WHO="S2"> mhm </U> and all this, and uh_ but they don't take advantage of them <U WHO="S4">
+					<OVERLAP> oh, i see </OVERLAP>
+				</U> so i think it's a <U WHO="SU-11">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> moot </OVERLAP> issue when they <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> complain </OVERLAP> about uh being off-site at Oxford, because they really are <OVERLAP> not making any effort </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> how many, </OVERLAP> of them are there? </U>
+			<U WHO="S9"> it's it varies between sixteen and twenty, i think we'll have twenty <U WHO="S4"> mhm </U> this year </U>
+			<U WHO="S4"> okay so they're here for four months from what countries are they? </U>
+			<U WHO="S9"> they're all from Hong Kong <U WHO="S4">
+					<OVERLAP> all from Hong Kong </OVERLAP>
+				</U>
+				<OVERLAP> they're civil servants </OVERLAP> from the Hong Kong government. </U>
+			<U WHO="S4"> cuz there is i don't know, i may sound like an advertising, but there is a <EVENT DESC="LAUGH"/>
+				<U WHO="SU-f"> go for it <OVERLAP> Naomi </OVERLAP>
+				</U>
+				<OVERLAP> there </OVERLAP> is a um an apartment uh, apartment building Ecumenical Campus Center, (where in um upstate) there is a student <U WHO="S9"> mhm </U> and our visiting scholar stayed there for, a period of two to four months. they always have available space, you know. and, it's it's a very good uh community because it's because there's an exchange of culture, because they have programs, you know it's really international they have students from all over the world, and i think they have like two buildings, so they may be able to <U WHO="SU-f"> (i know where those buildings are) </U> right. mhm, and it's really a lot of r- visiting scholars and students, have really enjoyed that program. so, so they are really you know you_ immersed into cam- they're just there on Church Street. it's right behind the Business School. <U WHO="SU-f"> yeah </U> i've stayed there so, one time we had like, people from forty countries. <U WHO="SU-f"> (xx) </U>
+				<EVENT DESC="LAUGH"/> well my husband is also, my husband's from Hong Kong <U WHO="SU-f"> we don't (xx) </U> and so he also stayed there. <U WHO="SU-f"> yeah, okay </U>
+			</U>
+			<U WHO="S2"> (they all fit, they're) usually full for fall term though so that's something <OVERLAP> (you might wanna look) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (xx) (other is that the) </OVERLAP>
+			</U>
+			<U WHO="S4"> well, well you know um, you could really try </U>
+			<U WHO="S2"> i mean if you if you're gonna follow <U WHO="S4"> yeah </U> up on something like that you probably need to <U WHO="S4"> right. </U> check fairly early. </U>
+			<U WHO="S4"> right i know the director there. her name is Sherry Martin. but i think this is her last year. <U WHO="SU-f">
+					<OVERLAP> yeah i was gonna sa- </OVERLAP>
+				</U>
+				<U WHO="SU-f">
+					<OVERLAP> yeah she's been here for </OVERLAP>
+				</U>
+				<OVERLAP> it's two-six-eight_ </OVERLAP> she was there when i was a student. <U WHO="SU-f"> really? </U>
+				<EVENT DESC="LAUGH"/> she was (already) associate director and she's like Arthur was already there when i was a student. and how old i am. </U>
+			<U WHO="SU-f"> how many peop- peop- uh, how many, <U WHO="S4"> two-six um </U> students, can they s- house? </U>
+			<U WHO="S4"> two-six-eight seven-one-one-three i think. it's Ecumenical Campus <U WHO="SU-10">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> Center </OVERLAP> but again they have to remember that this is shared, shared apartments <U WHO="SU-10"> yeah yeah </U> it's not like having their own bathroom, stuff <U WHO="S9"> mhm </U> but i think the important thing there is that, they are on campus, and there is an exchange of different cultures, and they also have different programs going on. they take field trips, they're brought to uh you know like, shopping, they are, taken to the grocery, they organize activities for them. they even have trips like to Washington D-C, stuff like that, so. going shopping to Birch Run </U>
+			<U WHO="S9"> sounds like the (xx) <EVENT DESC="LAUGH"/>
+				<U WHO="S4">
+					<OVERLAP> exactly yes, right right </OVERLAP>
+				</U>
+				<U WHO="S10">
+					<OVERLAP> (xx) they're the same ones that are popular, (or) </OVERLAP>
+				</U>
+				well as a matter of fact the first question <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> they asked </OVERLAP> once they get here is uh when_ how can we get to Birch Run <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> oh, see </U>
+			<U WHO="S8"> and not Meijer's huh? </U>
+			<U WHO="SU-f"> it's world-famous </U>
+			<U WHO="S4"> yes </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S2"> well i can i can sell, you know tickets on the, (and run over again on that van <OVERLAP> to Birch Run xx) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> it's just amazing </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (they're having a) Birch Run passover (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah right right </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> (xx) reside around here </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah see yeah. </OVERLAP> do they all have to be together th- the_ let's say the sixteen or twenty people </U>
+			<U WHO="S9"> not necessarily </U>
+			<U WHO="S4"> so see some of them could be there and maybe some of them could be (up) it's really you know i recommend, and our, you know what's what's his name Madison? the Brazilian, he just stayed there recently yeah he was there for two months, he w- he really, only had nothing but good things to say about it. <U WHO="S2">
+					<OVERLAP> yeah yeah everybody i've known who's stayed there has (xx) too </OVERLAP>
+				</U>
+				<U WHO="S9">
+					<OVERLAP> so it might (xx) </OVERLAP>
+				</U>
+				<OVERLAP> right. well i i was there </OVERLAP> too for almost two years so, i can attest for that. </U>
+			<U WHO="S9"> even for short term it would be <OVERLAP> (good for some people) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> oh yeah </OVERLAP>
+			</U>
+			<U WHO="S4"> yes (sometimes) they really do have available so, you need to talk_ just talk to Sherry </U>
+			<U WHO="S9"> cuz i have someone coming in for a month in September <U WHO="S4"> yeah </U> so i might (xx) September </U>
+			<U WHO="S2"> well, again they're probably not for a month </U>
+			<U WHO="SS"> yeah </U>
+			<U WHO="S2"> they're not gonna wanna do it <U WHO="SU-f"> right </U> because they like to, um, rent for at least at term and actually preferably the whole academic year for <U WHO="SU-f"> right </U> the same reasons everybody else wants to do it </U>
+			<U WHO="SU-f"> if (you work) for the summer </U>
+			<U WHO="S2"> i- in this_ in the winter sometimes, because sometimes <U WHO="SS"> yeah right </U> the scholar's just there for the <U WHO="S4">
+					<OVERLAP> right right </OVERLAP>
+				</U>
+				<OVERLAP> fall, (stay) </OVERLAP> in the winter and they might cut a deal with you or the summer, um fall is, fall is hard there as well </U>
+			<U WHO="S10"> anywhere </U>
+			<U WHO="S4"> uh yeah </U>
+			<U WHO="SU-f"> see that's why i come to these meetings i find out <EVENT DESC="LAUGH"/> something every time i come that's really (useful) for me </U>
+			<U WHO="S4"> you know i always used to think that way. and then, just one time i just gave it a try, and like this person was <U WHO="SU-f">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> there, </OVERLAP> she_ he came like in uh March, <U WHO="SU-f"> mhm </U> uh n- n- no February. so he stayed there from February on to </U>
+			<U WHO="S2"> oh yeah. yeah well especially winter term i think it's fall that's the tightest <U WHO="SU-f"> oh yeah </U> it's always worth trying Sherry's very nice <U WHO="SS"> (xx) yeah </U> so she'll <U WHO="SU-4"> yeah </U> you know she'll let you know what's what's available </U>
+			<U WHO="SU-10"> and how many spaces are there? </U>
+			<U WHO="S4"> i really don't know but there's like two buildings. <U WHO="S10"> two build- </U> you know i'm i'm sure it_ there the shared housing, so. and the people are really international like with Madison he had a Braz- he had a Portuguese, roommate and he had a, uh Tur- uh Turkish roommate. and what we did too is, uh i kind of describe to her to how old these people were gonna be, and you know, then she kind of matches them up. not mixing an eighteen-year-old <OVERLAP> with </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> are </OVERLAP> they mostly graduate students? <OVERLAP> or (is there a) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah. there's a lotta graduate students </OVERLAP> right </U>
+			<U WHO="SU-f"> and scholars </U>
+			<U WHO="S4"> yeah and scholars visiting scholars </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S7"> could you just repeat your institution and your name cuz i, i don't </U>
+			<U WHO="S9"> it's Kathleen Taylor, and i'm with the Center for International Business Education in the Business School. </U>
+			<U WHO="S7"> thank you... </U>
+			<U WHO="SU-4"> are you with Ali- Alicia's not in the same <OVERLAP> office? </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> no </OVERLAP> Alicia is in admissions and so is John Cooper who usually, they're usually <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP> usually here </U>
+			<U WHO="S2"> yeah they emailed me to say that they were kind of swamped <U WHO="SU-f"> yeah </U> so </U>
+			<U WHO="SU-f"> seems we all are </U>
+			<U WHO="SU-f"> yeah... </U>
+			<U WHO="SU-f"> do you want to (xx) </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> Martha. oh yes Martha you can talk about the co-ops, Martha you can talk about the co-op </U>
+			<U WHO="S1"> much to my dismay Martha is, leaving us which is why she's going to remain silent at this <EVENT DESC="LAUGH"/> but she's_ her husband got a job in Texas and so they're off to Texas, in a few months but she'll be leaving advising in the next, couple of weeks so. <U WHO="SU-f"> hm </U> makes me very sad and then_ and she's getting out just at the right time <EVENT WHO="S10" DESC="LAUGH"/> because we are starting onto summer orientation um, and that's, at the the beginning of the summer we have, less to do with international students because they do tend to come in (for,) either the summer term or the, the fall and so, our big, big thing is gonna be, the uh week of, the end of of August. but we do get a handful in periodically and, and sometimes we even, have interesting, situations where they're here for E-L-I courses and they're also <EVENT DESC="LAUGH"/> supposed to be taking, L-S-and-A courses or something (else,) and so, we, talked with E-L-I about that but i_ really there's not a whole lot we we've been waiting to hear, um about the financial situation for, for uh some of these students from the five countries that've been hit financially, and, as, Amy has said it's, it's there somewhere this decision but i- or i- or the decision may not even be there, th- the issue is stuck somewhere so i'd thought that there was a, an a May eleventh deadline, do y- do you know <OVERLAP> about that? </OVERLAP>
+			</U>
+			<U WHO="S2"> for those um </U>
+			<U WHO="S1"> the matching things? </U>
+			<U WHO="S2"> yeah but um, i've_ um i believe there is now i don't know how much flexibility, there would um, there would be with that but i just um, um i asked about that at the beginning of this week and that's what i was told <U WHO="SU-f"> yeah </U> that legal counsel was still not um, <OVERLAP> (willing) to- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and i can </OVERLAP> imagine that because it's it's quite an interesting issue when you look at what, um i don't know how many of you, have have seen the details of this but NAFSA, put out um the the guidelines for this, this matching um, funding and, they were very clear about it was, the- what was the business council? which business council? I </U>
+			<U WHO="S2"> I uh um was it <OVERLAP> I-E-E </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> I-E-E </OVERLAP> business council and NAFSA <U WHO="S2"> yeah </U> working on this. and and they, very clearly said, these students, are eligible for this so, we have a real problem people studying, poli sci or or econ are eliminated from it it's computer science engineering business and, and hard sciences well you know, that just doesn't, <U WHO="S4"> yeah </U> cut it for L-S-and-A anyway and i think um_ and then of course there's the issue of how many graduate students there are s- an- and and uh and undergraduates and, the whole pot needs to be looked at and it was very hard to coordinate (and) get all this information gathered, um so that they can figure out how, <U WHO="S2"> right </U> they're gonna allocate funds </U>
+			<U WHO="S2"> and and the other thing is that um, these um, it's it's not a huge amount of um, uh of money although of course every every bit helps um <U WHO="S1"> right </U> and it's a limited number of <U WHO="S1"> right </U> grants that each school <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> could get </OVERLAP> so, um but as i- wh- what i um_ i mean there's the uh, the the field of study thing but i guess the main the main thing is just that it's um it's only for students from those countries and if, if <U WHO="SU-f"> right </U> they used university funds to match it as opposed to some of the, <U WHO="S1"> right </U> endowed scholarships <U WHO="S1"> right </U> some_ there's that one for Swiss students and Guatemalan <U WHO="S1"> right </U> students so <U WHO="SU-f"> right </U> uh, that's <U WHO="S1"> (xx) </U> yeah </U>
+			<U WHO="S1"> yeah, well we_ so we're_ you know if we get in- inquiries, regular inquiries from students about the <U WHO="SU-2"> oh <OVERLAP> so do we </OVERLAP>
+				</U>
+				<OVERLAP> (this thing) </OVERLAP> s- yeah oh, i know you guys do. one thing that we did do, uh with_ for some of our students was um, we were able to, let them go ahead and, preregister for for fall even spring-summer even if they had a financial hold, <U WHO="S4"> oh </U> and they must pay up though by August. <U WHO="S4"> oh </U> so, but, some of them may then be able to squeak in another term or two, if they're really not gonna be able to to afford to come back in the fall at least they can, and the- they've_ one group that's been very vocal, is the Indonesian group, they_ then they've really rallied and have been canvassing, for, for funds and, but we, it's all up in the air at the moment so, besides that um, we're also, waiting to find out whether we get bounced out of <EVENT DESC="LAUGH"/> Angell Hall or not </U>
+			<U WHO="S4"> oh really? </U>
+			<U WHO="SU-f"> oh really (xx) know about that </U>
+			<U WHO="SU-f"> where would you go? </U>
+			<U WHO="S1"> well there's been talk about Elgin taking over, you know, so </U>
+			<U WHO="S2"> oh if Elgin moves in, oh right of course </U>
+			<U WHO="SU-f">
+				<OVERLAP> oh </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> (nothing what) </OVERLAP>
+			</U>
+			<U WHO="S1"> they said about that, <U WHO="SU-f"> mm, ah </U> a little you know not no not a whole lot </U>
+			<U WHO="S4"> you mean you'll be transferring from Fleming Building to <OVERLAP> </OVERLAP>
+			</U>
+			<U WHO="SU-f"> yeah, <OVERLAP> well </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well he </OVERLAP> wants to be or has said that he wants to be somewhere, <U WHO="S4">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> more towards the </OVERLAP> heart of campus <U WHO="S1"> right </U> so more access </U>
+			<U WHO="SU-f"> (that is a nice location.) i think that was important for him, to be, building that was more appealing. </U>
+			<U WHO="S4"> so then you probably move to the Fleming Building </U>
+			<U WHO="SU-f"> yeah </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> where we're nice and accessible <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> to all </OVERLAP> the students. that's been an issue, but in any event those were the, hot, items that're going on, now. </U>
+			<U WHO="S9"> i have a question how is, the that issue related to the affirmative action, you know the uh <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-2">
+				<OVERLAP> oh uh the reason that i </OVERLAP> made that comment was that um, i um, and this is just just my assumption um, i'm assuming that um the Office of the General Counsel may be being especially um, careful about anything to do with preferences to a particular group because of the pending lawsuit that that's kind of brought all of that into focus </U>
+			<U WHO="S9"> okay </U>
+			<U WHO="S8"> but you're just guessing <U WHO="SU-2"> oh i'm just </U> that there's a connection, you weren't told that specifically </U>
+			<U WHO="SU-2"> oh no. no i'm sorry i didn't mean to (xx) i didn't mean to give that impression no i was just <U WHO="S8"> for the record </U> yes for for the record. <EVENT DESC="LAUGH"/> this was just in my head, you know, so. but no i mean i i'm assuming that then they're kind of looking twice at anything that <U WHO="SU-f"> sure </U> could be interpreted as a preference. </U>
+			<U WHO="S3"> with this funding for internships <U WHO="S9"> uhuh </U> um, it's something that, uh isn't available at all to undergraduates? </U>
+			<U WHO="S9"> uh, we have funded some undergraduates but mostly we have to fund graduate students. so, mostly, and it has to be a business <U WHO="S3">
+					<OVERLAP> related </OVERLAP>
+				</U>
+				<OVERLAP> internship </OVERLAP>
+				<U WHO="S3"> right </U> so uh, but if there's, uh if the application is good and you know we will consider every applic- applicant <U WHO="S5">
+					<OVERLAP> even L-S-and-A undergraduates </OVERLAP>
+				</U>
+				<OVERLAP> that we receive </OVERLAP>
+			</U>
+			<U WHO="S1"> mhm yeah, actually i had a student who, <U WHO="SU-f"> yeah </U> who did receive the money from </U>
+			<U WHO="S9"> but it has to be a <U WHO="S3">
+					<OVERLAP> business (xx) </OVERLAP>
+				</U>
+				<OVERLAP> business </OVERLAP> internship and and you actually have to submit the letter from the uh future employer, <U WHO="S3"> okay </U> along with it, so. no we look at every application we receive... </U>
+			<U WHO="S1"> one other thing that i, just wanted to (quickly) mention um, is that, we are trying, we will, continue to try to get particularly the Korean, group together, um in the fall, the, undergraduate students who have_ seem to have, <U WHO="SU-f"> mhm </U> a lot of trouble, um getting through their their first couple of years of, undergraduate college, and so uh, i will i'll keep you posted but i would also um, ask for some help probably in the fall that the, the undergraduate, association, of Korean students wants to do a series of, programs early in the fall i haven't even had a chance to talk to you about this cuz it, it just came to (xx) um, so peo- it'll be very helpful um, to, to get some of you involved in some of these presentations to help them, understand what the resources are around campus. and, i just thought i'd mention that cuz we've talked about the Korean student issue <U WHO="S4"> mhm </U> many times before, and we haven't been able to </U>
+			<U WHO="S2"> well i think that's nice that the student association is um, is getting involved and doing that and whatever we can do to <U WHO="S1"> right </U> support them <U WHO="S1"> right </U> i think would be good </U>
+			<U WHO="S1"> and the and the reason this is happening and i j- it just, so happened that i saw the the newly elected vice president who happens to be the uh, roommate of the fellow who, who committed suicide, <U WHO="SU-2"> oh </U> um, in December and and <U WHO="SU-f"> oh </U> so he and he's, he will finally i think do something to pull this group together whereas i- in the past, we've not gotten any response from that group's leaders. so i think that there's much more potential this time around. with especially with what happened <U WHO="SU-f"> yeah </U> in the fall with the suicide i think and and as well the uh the numbers of s- Korean students who were, um asked not to register again were stopped, <U WHO="S4"> oh </U> after fall term because of of very poor academic performance, there's there's motivation to, actually do some of these programs in the fall so, i'm looking forward to, to doing that </U>
+			<U WHO="S2"> yeah and i know that um, that Counseling and Psychological Services is, um interested in reaching out more to the international student community um, you know making students more aware of what those services are and that might be something that <OVERLAP> could be fitted in you know i don't know </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah. it that </OVERLAP> that's a good thing i wanted to ask this before is there anybody from that group who gets these F-I-E, <OVERLAP> announcements </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> um </OVERLAP> there is not at this point_ what_ um the reason that kind of came right to my mind is um, i just_ they're they're interviewing now for a couple of new staff members and um, they've asked um, ah people from the International Center and then also from, SAPAC and Services for Students with Disabilities to ah, to spend about an hour talking with each of the candidates <U WHO="SU-4">
+					<OVERLAP> great </OVERLAP>
+				</U>
+				<OVERLAP> and um, </OVERLAP> which is great </U>
+			<U WHO="S4"> wow </U>
+			<U WHO="SU-f"> this is a this is a first </U>
+			<U WHO="S2"> yeah this is the, this is the first so in fact i've just come, from asking um, the person that was uh, in the hot seat today um, what what suggestion she, she would have for doing more outreach and um so that's kind of in the front of my mind <U WHO="SU">
+					<OVERLAP> great </OVERLAP>
+				</U>
+				<OVERLAP> but uh, </OVERLAP> but no but i think that once that person is hired i think that i'll um ask them if they'd like to come to these meetings </U>
+			<U WHO="SU-4"> yeah </U>
+			<U WHO="SU-m"> good </U>
+			<U WHO="SU-9"> great </U>
+			<U WHO="SU-f"> oh that would be great </U>
+			<U WHO="SU-m"> mhm </U>
+			<U WHO="SU-f"> good </U>
+			<U WHO="SU-f"> that's it </U>
+			<U WHO="SU-9"> okay, my turn. um, i i don't really have anything momentous to share with you. in part because i didn't really have any time to prepare and that was because uh, i h- i had jury duty this week <EVENT WHO="SS" DESC="LAUGH"/> wasn't (even) sure i could get here today. um, but a funny thing <OVERLAP> happened </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> but it </OVERLAP> was the rush to justice after all huh? </U>
+			<U WHO="SS">
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-9"> well it was it was a uh, deferral of justice <U WHO="S2"> uh oh okay <EVENT DESC="LAUGH"/>
+				</U> they they'd selected the jury, and uh, th- the judge had called all the lawyers up to the bench for a private conversation <U WHO="SU-f"> uhuh </U> but he forgot to turn the mike off so we heard this conversation so <U WHO="SS"> oh <EVENT DESC="LAUGH"/>
+				</U> and so he had to call he had to declare a mistrial so <U WHO="S4"> God </U> yeah </U>
+			<U WHO="S4"> that's funny </U>
+			<U WHO="SU-5"> (happened in mine and i was there for a whole week) </U>
+			<U WHO="SU-f"> well next time, you can... pay off the clerk not to do her job <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-9">
+				<OVERLAP> but after, </OVERLAP> after a, a rather uh, hectic uh, last couple of months things are finally quieting down with the, International International Programs Office, uh, the one thing about working with students is that they, mostly clear out <EVENT DESC="LAUGH"/> by that last day of exams. and uh we can now catch up on a on a lot of things </U>
+			<U WHO="SU-f"> not the ones that are in our halls </U>
+			<U WHO="SU-f"> right </U>
+			<U WHO="S1"> at least, the ones that we deal with. but many of them of course leave before they've, come to see you and pick up their orientation materials and so we'll we'll be playing a a game of chase uh, with quite a few of them, to make sure that uh, they get their payment schedules and, and other things. but uh things are a little quieter, uh... just a couple of things, uh, we've we had uh, a change in grading policy that might be of some interest um historically uh most grades that, students earn overseas come through and are posted to their academic record and the grades calculated into their grade point averages um, but um, the new the new rule is that the students who directly enroll in uh exchange partner universities, uh, will not have their grades, uh figured into their grade point averages and that's that's a decision by the_ made by the curriculum committee in, uh response to, the issue of grade, uh equivalency um, some some places of course will use different grading systems and some will, uh grade according to a different standard and, so it's just it's just real messy, uh, one nice uh bit of news, uh, we've had a very successful year with a, a scholarship that students apply for called the N-S-E-P the (xx) National Security Education Program Scholarship, which provides up to eight thousand dollars a semester in support (xx) we had fourteen applicants, which is uh, very high in comparison to what other universities will send in and of the fourteen, uh we had seven official winners, of the scholarship <U WHO="SU-f"> wow </U> and another four, sitting very high on their respective waitlists so we potentially have eleven out of fourteen, recipients uh and this is uh, a a really remarkable uh performance um, so we're real pleased with that. </U>
+			<U WHO="S4"> um. </U>
+			<U WHO="S2"> that's great cuz those are fairly competitive </U>
+			<U WHO="S8"> they're they're, they're very competitive, and uh the amount of money is is sizeable, it often makes the difference between whether a student is on study abroad or not. </U>
+			<U WHO="S6"> what_ why is this called National Security <U WHO="S8">
+					<OVERLAP> Education Program, it's it's a </OVERLAP>
+				</U>
+				<OVERLAP> Education Program is it the C- </OVERLAP> is it the C-I-A or something like that? </U>
+			<U WHO="S8"> yeah well </U>
+			<U WHO="S5">
+				<OVERLAP> it does </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> the name sort of gives it away </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> there's a little work requirement afterwards </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> it's a controversial scholarship, <U WHO="SU"> yeah </U> but i think decreasingly so, because uh, over time the the the kinds of problems that, people feared might happen, had not happened, um, it's money that originates with the Department of Defense <U WHO="S4"> mm </U> and um, the money supports students who want to study in, countries uh, where, the U-S government feels we are lacking expertise, and f- and familiarity um and and it also uh s- particularly targets the study of, languages, languages which are not commonly studied, in American universities or not commonly taught, uh, so students who want to go to Russia <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> or China, </OVERLAP> uh, or um to various countries in in South America or Africa uh, are eligible and tend to win awards. the uh, one of the problems with the um, the whole uh uh scholarship program is that uh, it might compromise the student, when the student's in the field if uh, somebody finds out the student has, Department of Defense support uh the student might be, perceived as an agent of the government it it's_ <U WHO="S4"> oh <EVENT DESC="LAUGH"/>
+				</U> the argument in itself is very problematic, and there are some universities which have refused to participate in the scholarship program Michigan takes a very neutral stance cuz it's, public money has to be made available um, uh, uh, there has not been a single incident, that i'm aware of, in which a student, uh <U WHO="S4"> mhm </U> got into some kind of trouble, and was mistreated, <U WHO="S4"> right </U> because of N-S-E-P, uh support, in this past year however there has been a slight change in uh the scholarship arrangements, and, this almost actually was the uh s- uh, killed the scholarship program because uh, Congress imposed it and uh it was, uh, very uh, distasteful to a lot of people who have thrown their weight behind N-S-E-P, there is a, service obligation, uh <U WHO="S4">
+					<OVERLAP> that's what i was going to ask </OVERLAP>
+				</U>
+				<OVERLAP> which a_ the recipient has </OVERLAP> to meet after uh graduation and within an eight-year period following graduation, for a length of time equivalent to the time supported while on study abroad, uh </U>
+			<U WHO="S4"> they have to serve you said? </U>
+			<U WHO="S8"> yeah, it's it it has to be an internship within a, government, uh office uh <U WHO="S4"> oh, okay, do they choose <OVERLAP> or </OVERLAP>
+				</U>
+				<OVERLAP> that has </OVERLAP> some, some uh linkage to uh national security <U WHO="S4"> i see </U> but it's very broadly defined, <U WHO="S4"> mhm </U> students, thi- this is the first year that students will have to fulfill this particular requirement so, uh, it's a uh, an arrangement, in process and uh, we don't know how, smoothly it will go. <U WHO="S4"> mm </U> uh it's scared away i think a small number of students uh, but um, i think it's attractive <U WHO="SU-f"> (while) there's money </U>
+				<U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> to an </OVERLAP> even greater number of students who see the interns- see the service as a kind of f- as a foot in the door for <OVERLAP> possible future (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> yeah well i can see if someone's </OVERLAP> interested in diplomatic services, right? <U WHO="S4"> right oh that would be </U> you know it would be perfect for them </U>
+			<U WHO="SU-m"> what are the countries that the seven are going to? </U>
+			<U WHO="S8"> mm, uh, th- Russia, uh, Brazil Argentina South Africa, uh <U WHO="S4"> China (xx) </U> nobody from China this year. <U WHO="S4"> mm </U> we have one, one in China, this current uh academic year, not for next year. uh we have a couple of students going to uh Hungary, <U WHO="S4"> oh </U> uh some going to the Czech Republic, i think that probably covers it. so </U>
+			<U WHO="SU-2"> and how much is the uh, what amount is the <OVERLAP> scholarship? </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> up to </OVERLAP> eight thousand dollars a semester </U>
+			<U WHO="S4"> and how long do they go to_ let's say if they are in Russia how long do they spend that time in Russia? </U>
+			<U WHO="S8"> the program is more likely to award you money if you're uh proposing to study a year an academic year <U WHO="SU-6"> yeah okay </U> it's no longer than a than a, calendar year <U WHO="SU-4"> right </U> the awardees are mostly academic year. there are a few who get awards for for a semester, and only freshman, and sophomore applicants, uh, are ever awarded summer, study abroad support if you're an upperclass person they want you, going for a longer period of time because they they want it to pay off. students have to take a language, level, exam. uh, before they go and then they have to take an exam once they've finished, um their stay abroad. uh, it won't go into the student's record it's purely for uh, the purpose of observing the success of the N-S-E-P program the Congress wants to see so- some some language, progress <U WHO="S4"> oh </U> students have to write occasional reports during the course of their stay, uh </U>
+			<U WHO="SU-6"> do they get full credit for this? </U>
+			<U WHO="S8"> if they yeah, uh assuming they go on a program that is accredited. <U WHO="S6"> mhm </U> uh they can, take their N-S-E-P money on a U-of-M sponsored program or a non-U-of-M sponsored program. </U>
+			<U WHO="S4"> yeah that's kind of interesting </U>
+			<U WHO="S8"> there's there's really so little money to support study abroad <U WHO="S4"> right </U> that this was a welcome addition to uh, the choices that that students have. it's unfortunate that that it had such a controversial growth in its uh infancy. but it's now uh, into its fifth year, and it seems to have stabilized so... <U WHO="S2"> okay </U> that's about it. </U>
+			<U WHO="S2"> okay well other um nonimmigration international sort of things. uh we're still um we still have our North Campus office of course what's probably going to um, to happen with that is during the summer it's probably going to go to half-time and will just be um, open from eight to twelve and our assistant director Mary Coppler, will be up up there and then um the second advisor Terri Mancini will be, down on central campus um, in part helping with um, our overseas opportunities office because um, all the students that um are still around and that aren't haunting um, Scott's hallways are over um in the, International Center, finding out more information about, well this is the big travel season of course <U WHO="SU-f">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> traveling </OVERLAP> overseas um, or thinking ahead to um, to to work a possible future studies so that office tends to be um, tends to be quite busy and um </U>
+			<U WHO="S3"> so is she getting paid to work down there? for the summer? </U>
+			<U WHO="S2"> um, well yes she'll be um, well she'll get a regular salary <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> instead of um, </OVERLAP> she just will not, <U WHO="S3"> okay </U> we're just shifting her location. so </U>
+			<U WHO="S3"> well that's, well Dan must be very happy. </U>
+			<U WHO="S2"> um, oh yeah Dan is well Dan is uh, he looks increasingly stressed every time i go by there because uh, he's really just got students stacked up um, stacked up too so she'll be um, she'll be spending her um, at least her afternoons doing that and then her um, her mornings probably doing some work with international students um but on Central Campus because um, we'll have some people going away on vacation and etcetera so we're um we're trying to kind of even, even the staffing um up a little bit, but North Campus will stay open um all summer just um, just on, uh half-time basis and, instead of a full-time basis. the um i'm in the process of um, finalizing the renewal for the international student health insurance now i haven't um, well it's actually purchasing that signs on the dotted line um, um and we're, we're almost um, at the signing on the dotted line, point uh, so you i- i- nothing is definite until we actually finalize that but um, but (at that) at this point it's clear that um, that the cost of the insurance will not go up it'll stay at the thirty dollars a month for the single students and, we um, we've had pretty good um, experience with the insurance plan which means that um, the students have, the students have not had catastrophic illnesses thank goodness um, so um, we are able to um to actually add to the benefits a little bit and, again not final but some of the things that i think we're going to um, we're going to do uh up until now that insurance hasn't um, hasn't had any provision for um preventive care and, that's not so much of an issue for the students because enrolled students of course can get all of that at Health Service um, but for families it's more of an issue, we're we're going to be able to add a little bit for um for children and be able to cover um, well childcare and um, standard childhood immunizations for children up to age three and then, if we can um which is actually going to be because um of course children at that age have to um have quite a few checkups and so, that's actually going to be i think a help, to the international student families and then, if um you know that works alright and we still, you know have pretty good experience with the plan then, we'll slowly try and add, a few more things. the other things, we're um we're trying to improve are the, um the outpatient mental health coverage and um, since counseling again for people like visiting scholars or nonenrolled students they um, sometimes use that coverage and of course some uh, Counseling and Psychological Services is um, very committed to making sure that students don't have to wait a long period of time in order to be seen, but that means that, they're also doing more you know, brief work with students so if a student needs to be in in counseling for a longer period of time they sometimes need to be referred out and then again they, the mental health coverage is um, is is helpful, um, and then there are um, there are a couple of other um of other things we may, be able to do as well just to um, reduce the um, the amount that the student potentially would have to pay in a, in a serious illness um, and the um, the c- coverage for the medical evacuation and repatriation is also going to um, going to go up unfortunately we had to use that coverage several times um, last year and fortunately um, it um, no student went above the, the cap on that um, but you know it, could happen so, so we're we're kind of um you know, slowly, slowly improving it which is um, which is good i should have the final word on that um, you know probably by the end of this week or early next week and then um, i'll let you know and as usual we will as soon as we get the text of the um, of the brochure for next year we'll put it up on our website as well so that people can access it, um from our website, orientation um, we're still working with the Office of New Student Programs to um, get a final schedule for the international undergraduate orientation they're, <U WHO="S4"> mm </U> i don't know that always seems to take a lot longer than <EVENT DESC="LAUGH"/> i think it will but um, we're still trying to get all the pieces in place, i mean the days that are going to um, it's going to be held are are still the same, they're going to move in um, on that Wednesday the, twenty-sixth <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> i believe </OVERLAP> and it's going to be Thursday Friday Saturday Sunday. <U WHO="S4"> right </U> uh from there but just as far as within those days exactly what's going happen when, now the A-E is still (fixed to) but the other <U WHO="S6">
+					<OVERLAP> yeah, i was going to say when do you th- do you think you'll have it </OVERLAP>
+				</U>
+				<OVERLAP> thing, we're we're yeah no no no no, no no we're </OVERLAP> no- not shuffling you around but the other things we're trying to um, we're trying to move around a little bit uh, our three-week orientation which is, primarily for graduate students and visiting scholars although early arriving undergraduate students sometimes, attend as well we do have a final schedule for that i was, hoping to bring you copies of that, but our Xerox machine was kind of in pieces on the floor with a, <EVENT DESC="LAUGH"/> a Xerox repairman in crouching over it so i couldn't um, i couldn't run those copies uh, it is up on our website now though so you who can look at it on the web, um and i will um, have copies available if anybody, particularly wants one before the next meeting um, just give me a call and i'll, i'll do that. i also um, at our, last meeting, or the meeting before? um i did pass out the um, our our statistical information finally came out um, and i don't know if um, if people who weren't at that meeting didn't get one again, let me know and i'll, i'll give that to you. so, just trying to think, oh um, one other um, one other thing, our um, our insurance advisor, the person who helps people, <U WHO="SU-f"> mhm </U> uh sign up for insurance </U>
+			<U WHO="S4"> what's her name? </U>
+			<U WHO="S2"> Fumi Ishado, um, but she's um, don't write her name down too fast, um she'll be, she'll be leaving <U WHO="S4">
+					<OVERLAP> oh dear </OVERLAP>
+				</U>
+				<OVERLAP> um at the uh at the end of June </OVERLAP>
+				<U WHO="S4">
+					<EVENT DESC="LAUGH"/> forget it </U>
+				<EVENT DESC="LAUGH"/> so i am, the other the other thing that i'm i'm hoping to do eventually is, is to, convert that job, uh right now it's a, university temporary, position <U WHO="S4"> oh i see </U> um and convert that to into a permanent job so that, the person will actually, get benefits. um, and i i may be able to do that right now, that's still kind of in the works, but anyway she'll be leaving uh at the end of June so i will be looking for somebody else um </U>
+			<U WHO="S4"> so for (our) summer program who can i refer to, for the health <OVERLAP> insurance to sign up </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> well you should still </OVERLAP> um, refer <OVERLAP> them- </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> go to Fumi? </OVERLAP>
+			</U>
+			<U WHO="S2"> well no i mean, um for the people that would be coming, um... your summer program will be coming at the end of June? </U>
+			<U WHO="S4"> June 30th <U WHO="S2"> okay </U> is our first day that's usually the time that we want them to sign up for the health insurance <U WHO="S2"> mhm, <OVERLAP> mhm, well </OVERLAP>
+				</U>
+				<OVERLAP> so that </OVERLAP> would still be Fumi? </U>
+			<U WHO="S2"> no Fumi will be, will be on her way on out um, by then, but um, well you should just um uh, well wha- what we usually do is uh, is we usually have somebody come to um, to the first meeting of that class and have them <U WHO="S4">
+					<OVERLAP> alright </OVERLAP>
+				</U>
+				<OVERLAP> sign up </OVERLAP> there yeah that's what we've done for the past, <U WHO="S4"> yeah </U> two or three years, and if nobody, i mean i certainly hope someone will be in place <U WHO="S4"> yes </U> if they're not i'll come myself <U WHO="S4">
+					<OVERLAP> alright, okay </OVERLAP>
+				</U>
+				<OVERLAP> so, somebody will </OVERLAP> somebody will come </U>
+			<U WHO="S4"> just for a point of clarification. this health insurance program does not include office visits, does it? </U>
+			<U WHO="S2"> oh sure </U>
+			<U WHO="S4"> it includes office <OVERLAP> visits? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah yeah, </OVERLAP> the way that it, um, the way that it works is um, if um, uh, u- there are three, there are three, gatekeepers um, University Health Service, Family Health Services up <U WHO="S4">
+					<OVERLAP> mhm, mhm </OVERLAP>
+				</U>
+				<OVERLAP> on North Campus </OVERLAP> and for children um, the pediatric (part) <U WHO="S4">
+					<OVERLAP> mhm, mhm, right </OVERLAP>
+				</U>
+				<OVERLAP> of east Ann Arbor, um health </OVERLAP> center <U WHO="S4"> right </U> and if um, if students, visit um one of those, three places <U WHO="S4"> uhuh </U> for um, for health service there's there's no deductible for the other two places, there's just a, a ten-dollar deductible and that's <U WHO="S4">
+					<OVERLAP> so o- o- okay </OVERLAP>
+				</U>
+				<OVERLAP> per cause, </OVERLAP> so it it covers, it covers that now if, if they're referred to someplace else and they've gone to one of the gatekeepers first then again, no deductible if they're referred from health service, um, ten dollars <U WHO="S4">
+					<OVERLAP> so is this M-Care? </OVERLAP>
+				</U>
+				<OVERLAP> if they're referred from the other places. </OVERLAP>
+			</U>
+			<U WHO="S4"> can i ask, is this M-Care, this health insurance? </U>
+			<U WHO="S2"> no no, no no no no <U WHO="S4">
+					<OVERLAP> okay, okay </OVERLAP>
+				</U>
+				<OVERLAP> no </OVERLAP> no, no, </U>
+			<U WHO="S4"> so, i just want to clarify <U WHO="S2"> okay </U> so if y- they have this health insurance then, i would say there's no need for the health service, a separate (xx) </U>
+			<U WHO="S2"> well you're going to um, what you're, um, what you're going to do is, is you're going to <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> because </OVERLAP> this, this insurance will allow them to go to the health service <OVERLAP> right? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> it will </OVERLAP> it will allow them to go to health <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> service </OVERLAP> you'll lose um, the two things that might be different um, is <U WHO="S4"> uhuh </U> is you'll lose any kind of um, any kind of preventive care, i mean except for the, the well child care, well actually that won't even start until <U WHO="S4">
+					<OVERLAP> no, right </OVERLAP>
+				</U>
+				<OVERLAP> September if we do </OVERLAP> it. you'll lose any kind of preventive care and um, this insurance does have a limitation on preexisting conditions. so if somebody um there's a waiting period for that so if somebody, comes um and again this is something that we're going to um, probably be able to change a little bit, starting in September but for this year, if somebody comes um, with some kind of condition that um, that they've had before some time <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> within the past </OVERLAP> twelve months, um there's going to be a twelve-month waiting period before that condition is covered so there are some there are some caps i mean for the most um, um, for the most complete coverage if i mean for the students we <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> kind of </OVERLAP> assume that, they're going to have the the <U WHO="S4">
+					<OVERLAP> health service, okay </OVERLAP>
+				</U>
+				<OVERLAP> health service and then </OVERLAP> this insurance is going to be, um, you know mainly if it's, if it's something health service cannot deal with </U>
+			<U WHO="S4"> okay, so hospitalization stuff like (xx) </U>
+			<U WHO="S2"> hospitalization um, the need for special referral out for more specialized <OVERLAP> tests </OVERLAP>
+			</U>
+			<U WHO="S4"> cuz i was just thinking <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> if, </OVERLAP> if it, has the same coverage as the um, health service then i would discontinue the health service fee that <OVERLAP> i charge the students </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay, well i think if </OVERLAP> you're really going to, i think it would be um, better for the students if <U WHO="S4">
+					<OVERLAP> okay. alright </OVERLAP>
+				</U>
+				<OVERLAP> you ha- still continue to have </OVERLAP> both, that's going to give them the most complete coverage <U WHO="S4"> okay good </U> no if we had um, i mean it would be great to have something with um, as many benefits as, M-Care or Gradcare but the cost would be, prohibitive for the students. so </U>
+			<U WHO="S4"> thank you </U>
+			<U WHO="S2"> okay anything else um? <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="SU">
+				<OVERLAP> i wanted </OVERLAP> to ask Scott um when do you whe- when will your students be accepted </U>
+			<U WHO="S8"> yeah. Carrie, i talked to Carrie Platt about this just last <U WHO="S10">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> week and </OVERLAP> um, she thinks possibly by the end of this week. </U>
+			<U WHO="S10"> oh wow, that's <OVERLAP> good (xx) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> they they've been so </OVERLAP> backed up over there, because they're all going through M-Pathways training. and uh, they of course had, uh staffing turnover and rehiring uh problems so, she said most of last week there was only one, full-time, professional admissions counselor on duty, at any one time </U>
+			<U WHO="S4"> oh you mean they've all left? </U>
+			<U WHO="S8"> no well some some have left but they're_ or or they're in training <U WHO="S4"> right </U> for M-Pathways and Carrie's initial by the way uh, review of M-Pathways is that it's, <EVENT WHO="SU-f" DESC="LAUGH"/> it's not so good <EVENT DESC="LAUGH"/>
+				<OVERLAP> uh, (xx) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah </OVERLAP> i know we've- we've started already. yeah, L-S- L-S-and-A already has started, you know the Pathway's like we have had already the space module, then, the, we'll be, gradually. so we will also be on training for the accounts this July. and then we have so many modules, <U WHO="SS"> yeah, yeah </U> to study, for people in administration you know, more, more modules to </U>
+			<U WHO="S8"> Carrie's initial complaint was that uh, she had to flip back and forth between a lot of <U WHO="S4">
+					<OVERLAP> yeah. it's not gonna be as good, as they </OVERLAP>
+				</U>
+				<OVERLAP> different screens </OVERLAP>
+				<U WHO="S4"> think it will be </U> (xx) yeah, so, we'll have that, list for you </U>
+			<U WHO="S4"> oh </U>
+			<U WHO="SU"> (xx) so they should be going out probably at least applications for housing from these people should probably go out, (xx) end of May? or <OVERLAP> earlier? </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> oh yeah </OVERLAP> Carrie did promise me it would be before NAFSA, before the the end of the last week of May, uh, and it's good news to hear that they can fax their, leases back <U WHO="S4"> yeah </U> yeah cuz that'll that'll cut a few days off of the pr- <U WHO="S4"> and their apps </U> and their apps, so, that's great. </U>
+			<U WHO="S7"> Amy are you recommending the um, participants that come for the, international graduate student instructor workshop, get this um <U WHO="S2"> health insurance? </U> health insurance for that t- time period <U WHO="S2"> yeah </U> for the month of August? </U>
+			<U WHO="S4"> yeah i have my students go </U>
+			<U WHO="S2"> well, we we they really should, i mean they're here um, the- they've entered on our student visa and they're here in this country <U WHO="S7"> right </U> you know as, students so </U>
+			<U WHO="S7"> when do you expect to have your, new brochures printed up, do you think? </U>
+			<U WHO="S2"> oh sometime in the mid summer but, for people um, um th- the insurance contract year runs from September one through August thirty-one so your um, um, your I-G-S-Is will actually be falling under the current contract so, you can have a bunch of brochures now, if if you want </U>
+			<U WHO="S7"> okay </U>
+			<U WHO="S8"> so. even though it runs for that length of time, you have split payments of the premium, right? </U>
+			<U WHO="S2"> well from the student's point of view it just runs continuously um, what we do um, is um, is we bill um, we bill the students for every term or part of a term uh, so, and we just, you know so they g- every term they're going to get a, a bill </U>
+			<U WHO="S8"> so it's (one twentieth) terms <U WHO="S2"> right, mhm </U> some some of the exchange students have gotten these thirty-dollar charges, which we can't explain, could you </U>
+			<U WHO="S2"> probably well they may have gotten them if they've um, if they're in the country into May, they would have had to pay for May, as well which would've been a thirty-dollar charge or if they started in August. so it's thirty dollars for the number of calen- thirty dollars a month, for the number of calendar months that you are in the country. </U>
+			<U WHO="S8"> um okay, so if you, if you're starting in August <U WHO="S2"> right </U> you </U>
+			<U WHO="S2"> you'd have thirty dollars for August, and a hundred and twenty dollars. and if it's falling_ if part of it, if part of it fell into the um, the spring-summer term, then they might have been billed, um, that for a summer term, thirty dollars for a summer term bill then a hundred and twenty for the fall term, a hundred and twenty for the winter </U>
+			<U WHO="S8"> thirty would cover the entire, uh, summer? </U>
+			<U WHO="S2"> no, it's </U>
+			<U WHO="SU"> just that one month </U>
+			<U WHO="S2"> just that one month </U>
+			<U WHO="S2"> yeah, yeah, just from the billing perspective um, what we do is um the person that that sends over those bills, just does the billing once a term um, i mean the- they, they actually are constantly sending things over because there are always corrections but, um, but what they're doing is they're looking at when the um, cuz there're always students saying no no, i'm not really staying that long, i'm staying longer blah blah blah, um but what they're doing is they're looking at how long the student is enrolled within that particular term, and if they're just enrolled for one month within a particular term then they're, then for that term's billing there'll just be that one month. </U>
+			<U WHO="S8"> just the one month, okay </U>
+			<U WHO="S9"> yeah we did run into a problem with our Hong Kong program <U WHO="S2"> mhm </U> and they're here for four months but <U WHO="S2"> right </U> the uh, the bill came after they left </U>
+			<U WHO="S2"> yeah that shouldn't um, that_ that happened </U>
+			<U WHO="S9"> so we had to cover their cost </U>
+			<U WHO="S4">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah that shouldn't happen again um, </OVERLAP> yeah, that happened because Financial Operations um, switched the person that was dealing with our health insurance charges, and what um, what that person did_ what happens with some of these scholars and again, i don't think that's going to happen again because we've we've changed the way we do the I-D numbers but um, what happened was he couldn't, those um didn't really spit out automatically out of the system which the scholars never have, for the past um you know four years that we've had the insurance, and he kind of didn't know what to do with those charges so he just piled them in a corner of his office, um, so when we finally um <EVENT WHO="SS" DESC="LAUGH"/> um when we finally were reconciling, um our computer records with their accounts, we realized that this had fallen through so you know i- i'm sorry about that but it shouldn't, it should not happen again. now we know every week what we're goin- we're having that person, um confirm by email that he's loaded a charge and the dollar amount of the charge in to the system and we check that off and if, if we don't get that email then we say, huh, excuse me, is there anything in the corner <OVERLAP> of your office? you know </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> i think this </OVERLAP> might've triggered, this program might have triggered that what you're doing right now because </U>
+			<U WHO="S2"> yeah i think so, i think so and yeah i think yours were probably a... (a bunch of them that) </U>
+			<U WHO="S8"> we had some, thirty dollar charges (xx) </U>
+			<U WHO="S2"> yeah, yeah well all of yeah, um i, i'm knocking on on wood right now but uh, i think we have finally (xx) this, yeah. no i always say that i saw nowhere in my job description that a knowledge of Excel was going to <EVENT WHO="SU" DESC="LAUGH"/>
+				<EVENT DESC="LAUGH"/> be needed or necessary (by now) </U>
+			<U WHO="S1"> how long ago was that job description written? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> well. actually i think when i was originally hired they were thinking more of um, setting up for programs because one line is be able to lift fifty pounds <U WHO="SS">
+					<OVERLAP> </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> and so (xx)  </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> really? </OVERLAP>
+			</U>
+			<U WHO="S2"> really i'll show it to you <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> oh my gosh <EVENT DESC="LAUGH"/> oh </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S9"> i mean how long ago was that? </U>
+			<U WHO="S2"> that was in ninety-one </U>
+			<U WHO="S4"> yeah, be able to lift, so did they really test whether you_ oh my gosh </U>
+			<U WHO="S2"> so don't give me any excuses about not being able to set up the folding tables i guess was the </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> right right right </U>
+			<U WHO="S9"> oh well </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> they definitely will be changing that, right </U>
+			<U WHO="S2"> exactly </U>
+			<U WHO="S6"> i've noticed that, a number of you have said, have mentioned um, a lot of office tur- staff turnover and we're experiencing the same thing and i know, at Rackham right now there's like a massive turnover, uh has anybody, uh, have any- anything to share about how to replace our valuable staff with, <U WHO="SU"> yeah of course </U> finding new people because there are, very few applicants for, the jobs we have. this is support staff we have, um like, three full-time, jobs available and we had something like what was it did we say five applicants <U WHO="S4"> well also y- yeah </U> it's just a very poor, uh, response </U>
+			<U WHO="S4"> well Ann Arbor is a, has a very low <OVERLAP> unemployment rate. yeah </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> i know, i know, </OVERLAP> i know this is, you know, this is all through the United States actually, and Michigan you know, that there is, <U WHO="S8"> although you would </U> this low unemployment and </U>
+			<U WHO="S8"> you would probably attract if you, if you advertised outside of Michigan, did you? </U>
+			<U WHO="S6"> uh, no we just went through the uh, staff <OVERLAP> personnel office </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> cuz i imagine </OVERLAP> you would attract a, a fairly large, uh pool of applications from outside (xx) </U>
+			<U WHO="S4"> oh if we advertise through, the you mean through the web? and um </U>
+			<U WHO="S6"> have you <OVERLAP> advertised through newspapers </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> well it is on, in the web now. </OVERLAP> it's in the web. yeah. our postings are on the web. mhm, mhm excuse me...? no </U>
+			<EVENT DUR=":06" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S4"> oh, right. no but our ours, but we're talking more here of secretarial support <OVERLAP> staff </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> secretarial support </OVERLAP> staff, yeah, academic services secretary three, or something <U WHO="S2"> no, yeah </U> and the salaries here are <U WHO="S2">
+					<OVERLAP> yeah, well that's that's the problem. yeah </OVERLAP>
+				</U>
+				<OVERLAP> so bad, it's difficult to retain people, yeah, yeah, to get them </OVERLAP>
+			</U>
+			<U WHO="S8"> i was talking to somebody wh- a nurse uh, who says now they've got a- a lot of nursing jobs open at the hospital <U WHO="S6">
+					<OVERLAP> oh. yeah, yeah. i've heard that too </OVERLAP>
+				</U>
+				<OVERLAP> they can't attract applicants because cuz in that that case </OVERLAP> there's no uh, job uh security no <OVERLAP> predictability </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> or last year </OVERLAP> they had uh <OVERLAP> there were no jobs, and then now there are many jobs so </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> (xx) having to lay people off </OVERLAP>
+			</U>
+			<U WHO="S2"> in general i don't, um we just um, we recently fairly recently hired a new, a new receptionist and a person um, in October i got the person who was, who's doing the insurance billing and um, and finding all of these, little problems uh, but um, but in both cases, i mean i think i think we just lucked out i can't really suggest any particular, strategy to, i mean our, our new receptionist had just, moved to town, and we kind of snapped him up before <EVENT DESC="LAUGH"/> he would realize that there were better-paying things that he's he's just doing an excellent job and i just um, <U WHO="SU"> he is, he's really, yes. </U> isn't Joe nice? <OVERLAP> he's so nice. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> yeah, he is. </OVERLAP> he's the guy that answers the phone? <OVERLAP> yeah, he is </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> he's so, </OVERLAP> he's so helpful, to the students um and he really, he really tries to make sure that somebody <OVERLAP> gets the information they need </OVERLAP>
+				<U WHO="S6">
+					<OVERLAP> oh, that's good </OVERLAP>
+				</U>
+				<U WHO="S4">
+					<OVERLAP> mhm, yeah. yeah i like i like </OVERLAP> the service (xx) </U> which is something we because we had, our our other, two previous ones were, were terrible </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> oh oop sorry <EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="SU-2"> oop i'm sorry </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> well that's_ actually (i...) i'm not sure i care. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<EVENT DESC="UNINTELLIGIBLE BACKGROUND CONVERSATION NEXT 3:46"/>
+			<U WHO="NRN"> now Naomi's passing notes. </U>
+			<U WHO="S8"> right. oh Diane i had a question for you. you you mentioned that the TOEFL, <U WHO="S6">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> can </OVERLAP> be taken online, now, <OVERLAP> (it's in s- some places?) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> uh no, it's not it's not online, </OVERLAP> it's um, it's a computer-delivered, <U WHO="S8"> ah delivered </U> um test, and it's also a computer-adaptive test which means, you know what test you get depends on your responses to, the computer's questions. um, and it i- but it's not online, um, the students, to take it they have to go, they um, TOEFL has contracted with Sylvan Language Centers, or Sylvan Learning Centers or whatever it is Sylvan anyway, and um, they're setting up, test sites with, half a dozen a dozen computers where, people will, register for the test and then go take it. and they've done this with the G-R-E, also the G-R-E is also, computerized now </U>
+			<U WHO="S8"> so you wouldn't, you wouldn't download it into your, your own private desktop <OVERLAP> you would ha- okay, okay, i misunderstood. ('Cause I - )</OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> no, you cannot do that, no you cannot do that, yeah. </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> you still have to be at a site, right? </OVERLAP>
+				</U> you have to go <U WHO="S8">
+					<OVERLAP> you still have to go to a site. and, and this is - </OVERLAP>
+				</U>
+				<OVERLAP> to a site, yeah. it is </OVERLAP> quite expensive it's like a hundred and twenty-five dollars. </U>
+			<U WHO="S8"> as compared to </U>
+			<U WHO="S6"> uh, i think it used to be forty or fifty dollars for the paper and pencil test </U>
+			<U WHO="S2"> it's a quantum leap <OVERLAP> whatever it is </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> it is it is, yeah, </OVERLAP> they've just about doubled their, their price </U>
+			<U WHO="S8"> are they doing this in parallel with the uh, older way of doing it? </U>
+			<U WHO="S6"> um, they are, for a time um, they they are keeping the paper and pencil test in, uh certain_ the far east primarily it's um, Bangladesh Japan, Taiwan Korea, where actually, most of their tests are given, there, the largest number. um and the reason they're doing that, they said is because um, they, needed they need to prepare more forms, of these this item bank they need to enlarge their item bank for this computer-adaptive test, because th- just this_ sheer volume of people taking the tests there, mean that they couldn't really um, you know guarantee, that you know there might be so much change (of test) people might, become wise to all the item bank, a sh- relatively short period of time, so </U>
+			<U WHO="S8"> yeah, yeah. do you have any literature on this, uh this setup <U WHO="S2">
+					<OVERLAP> uh, we do </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> because we typically have students in Japan who have to retake the exam and, um, <OVERLAP> we we- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> there will be </OVERLAP> a session at NAFSA called no more pencils um, and <EVENT DESC="LAUGH"/> you can_ um and i imagine you could you know s- go by and pick up the hand-outs if if nothing else </U>
+			<U WHO="S6"> yeah. if you want to stop by my office i can, or i can give you the, TOEFL web_ i have to look it up. or i can <U WHO="S8">
+					<OVERLAP> yeah or if you could just email it to me, that'd be great </OVERLAP>
+				</U>
+				<OVERLAP> email </OVERLAP> you okay and it's R </U>
+			<U WHO="S8"> R-H-C-P-T </U>
+			<U WHO="S6"> R-H-C-P-T, okay at U-MICH okay </U>
+			<U WHO="S8"> thanks </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S6"> okay (sent...) </U>
+			<U WHO="SU-1"> the score reports are probably available much, more quickly as a result of the computerized testing, which is probably <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> one </OVERLAP> of the reasons <OVERLAP> they're trying to be more </OVERLAP>
+			</U>
+			<U WHO="S6"> yeah, <U WHO="S8">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> yeah so they can get </OVERLAP> like it- yeah, <U WHO="S9">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> the G-R-E um, they give you results, </OVERLAP> immediately </U>
+			<U WHO="SU-5"> they don't, with the G-R-E you don't get your percentage, but you get your raw score, and i'm <U WHO="SU"> yeah </U> sure the, TOEFL will be <U WHO="S6">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> much faster </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> and some of </OVERLAP> those computer tests will stop after a while if you've answered, it won't be as long, if you've answered so many correct your test may be shorter than the next person's test </U>
+			<U WHO="SU-m">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> they um_ th- there's a </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> that's very, </OVERLAP> interesting, how can they compare scores then? </U>
+			<U WHO="S8">
+				<OVERLAP> there there was a big article about it in the New York Times (xx) computerized tests it's interesting </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> what they, it's it's, the item like they have, they, supposedly know the item difficulty of each, problem in the test, and so they </OVERLAP> start you out, say at the middle level and if you answer those midlevel questions, correctly than they give you a more difficult question, and if you answer them incorrectly they give you an easier question and then they, gradually go, you know to whatever your level is narrowing and narrowing and narrowing it down until they sort of pinpoint you, and there is a time limit to it and i guess at the bottom of the screen you can see how much time you have left, um <OVERLAP> so you </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> but the </OVERLAP> number scores just then don't make the same sense as <OVERLAP> if you've, completed the whole test </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> uh, yeah th- well they're, they're not </OVERLAP> they're not going to be, reporting, i don't know the number correct, i, they are, actually on this_ um, information what they have there's going to be s- there's some sort of concordancing information they're changing their sco- their scale too <U WHO="S8">
+					<OVERLAP> efficiency scale rather than a grade </OVERLAP>
+				</U>
+				<OVERLAP> it's from like, zero to three hundred, </OVERLAP> instead of, whatever it was. the theoretical two hundred to eight hundred that it was... <EVENT DESC="LAUGH"/> no one ever scored two hundred no one ever scored eight hundred <EVENT DESC="LAUGH"/> theoretically </U>
+			<U WHO="SU"> but those were the boundaries anyway </U>
+			<U WHO="S6"> yeah </U>
+			<U WHO="S2"> but um. (well) we're back on the personnel issue if anyone knows someone who would like to be an insurance advisor <EVENT DESC="LAUGH"/> i'll um, actually <OVERLAP> i may cir- </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> is that </OVERLAP> part-time? </U>
+			<U WHO="S2"> it would be part-time, it would be part-time, um, the people that we've had um, in the um, in the past we've sometimes had um, had spouses of students we've had graduate students <OVERLAP> at the um, disserta- </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> yeah i was going to say if it's half-time </OVERLAP> you could have a student <OVERLAP> yeah, yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and that would be fine um, </OVERLAP> yeah, we've had graduate students at the dissertation stage who want something um, you that they could just, do uh for um, for some support, and, n- it- it's basically half-time week during um, during the very busy times which would be, practically the entire month of August, and um early September we add hours to that position but that could we've done it both ways we've um, for the person who's had some flexibility and just wanted to get extra money, we've had that person add time or, we've hired a supplementary person who um, then we kind of divide things up and the supplementary person, simply helps the students to fill out the forms and doesn't deal with um, and the things you don't really i mean it would be great if somebody had some kind of um, prior knowledge of health insurance but uh, i- it's not required what i want is <OVERLAP> somebody </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> there'll be a </OVERLAP> training period, right? </U>
+			<U WHO="S2"> yeah well no i would um, and um and i- you know i'm there as a resource too and certainly there'd be a training period um, i want somebody who um, who does uh pay- pay good attention to t- d- de- uh bluh, i'm stuttering here, to detail but um and i- is also, kind of responsible enough to realize you have to be, a little bit careful what you say to students particularly when you're <U WHO="SU-4">
+					<OVERLAP> oh right </OVERLAP>
+				</U>
+				<OVERLAP> talking about </OVERLAP> coverage if you're not sure of something, obviously you don't want to tell somebody that oh yeah that'll be covered no problem <EVENT DESC="LAUGH"/> um, and that um, s- somebody who's just good at communicating with people from other countries and is willing to, you know, take the time to, explain a little bit about how to use the insurance and all of those <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so </OVERLAP> we'll just forward them to you, should we know of someone </U>
+			<U WHO="S2"> yeah that would be great, that would be great... but for the support staff issue i've no, <EVENT DESC="LAUGH"/> suggestions i guess prayer was, was my <EVENT DESC="LAUGH"/> um, only method </U>
+			<U WHO="S7"> the next meeting uh i- </U>
+			<U WHO="S2"> is Dearborn i think </U>
+			<U WHO="S7"> Dearborn </U>
+			<U WHO="S2"> yeah yeah, i'll send out the (xx) i believe so </U>
+			<U WHO="SS"> thanks, okay. </U>
+			<U WHO="SU"> thank you for the goodies </U>
+			<U WHO="S4"> oh you're welcome </U>
+			<U WHO="S6"> thank you all for coming </U>
+			<U WHO="S2"> well we made a good dent in (xx) it's getting hot isn't it? </U>
+			<U WHO="S8"> it's starting to feel like summer </U>
+			<U WHO="S2"> it is starting to feel like summer </U>
+			<U WHO="SU"> it sure does </U>
+			<U WHO="S4"> Kathleen? </U>
+			<U WHO="S9"> mhm </U>
+			<U WHO="S2"> i need to, get some stuff to her, you can tell her that she's, definitely on my mind, and i have to mail the package to her (xx) okay, i'm sure she is. is Peggy still there? </U>
+			<U WHO="SU"> uh sh- Peggy just came back </U>
+			<U WHO="S6"> oh wait (xx) </U>
+			<U WHO="S2"> okay, she had surgery? </U>
+			<U WHO="SU"> no no she was working down in another position temporarily </U>
+			<EVENT DUR=":10" DESC="UNINTELLIGIBLE SPEECH"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

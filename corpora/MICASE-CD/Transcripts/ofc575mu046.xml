@@ -1,0 +1,818 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="ofc575mu046">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Statistics Office Hours </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> OFC575MU046 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor,  MI: The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  WARNING -- Citation of examples is restricted for one or more speakers in this transcript.  Permission to cite examples from this transcript in any presentation or publication must be obtained from the English Language Institute. </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="52">
+						<DATE> November 11, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Rita Simpson, Aaron Stark </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Brooke Mays </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Shannon Allen </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Shannon Allen </NAME>
+							<RESP> Final Editing, 05/10/00 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="11"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="12"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="ALL" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="RE, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Student" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Instructor's Office, Mason Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> numerical value or your cutoff value the point that indicates where you should reject and where you should accept H-naught, depending on which side you fall. </U>
+			<U WHO="S2"> and then so that would_ like, assuming that these are the right numbers, <U WHO="S1"> right. </U> that would be <OVERLAP> the number </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> compared </OVERLAP>
+				</U> that i get and i would compare that to, the, value on the chart. </U>
+			<U WHO="S1"> right. <OVERLAP> exactly. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and if </OVERLAP> the value on the chart is smaller or larger? </U>
+			<U WHO="S1"> well it depends on what your H-one and H-naught look like you need to set up your hypotheses so there's really some good, you know there's some good practice to start, identifying and doing with each problem, alright? set up H-naught and H-one, and write that down even if it's in the text already, you know telling you to test these hypotheses write it out so you visually see it each time. so you identify in particular H-one which tells you what direction, cuz that direction will tell you whether you reject if it's small, large or what way you go. okay? </U>
+			<U WHO="R1"> do you have a little piece of tape? </U>
+			<U WHO="S1"> mhm. </U>
+			<U WHO="R1"> thanks... </U>
+			<U WHO="S1"> so an- setting up H-naught and H-one. in this example, four-eleven, you're trying to see there is a significant difference in the effectiveness. when you hear the phrase is there a difference or not, you're not looking for A being better than B or B being better than A you're just looking for a difference. so, if the differences are all about zero on average there's really no difference between the two methods. if the difference on average is not zero, then you say there is a significant difference. so i'm looking for a two-sided test. okay? </U>
+			<U WHO="S2">
+				<OVERLAP> so </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> this is </OVERLAP>
+				</U> any difference as long as it doesn't turn out to be the exact same thing? </U>
+			<U WHO="S1"> mm i mean what what you're gonna be doing then is you're gonna seeing the differences were what? five negative-one two, there's some negatives some positives and you're trying to say whether they on average are about zero, or whether on average they are different from zero. mkay and you're gonna ches- tecks, check that with some significance, level mkay? so you wanna set up hypotheses, and H-one is the one that will gear what your region looks like, overall okay? </U>
+			<U WHO="S2"> mm um when is it appropriate to use a T-test and when isn't it? </U>
+			<U WHO="S1"> well you have a couple different T-tests. all the T-tests so far though are really geared at what type of assumption that your sample sizes are, <OVERLAP> small </OVERLAP>
+			</U>
+			<U WHO="SS">
+				<OVERLAP> small </OVERLAP>
+			</U>
+			<U WHO="S1"> mhm you do the Z-test versions where we have them, if your sample sizes are large cuz really what you're doing is falling off that T-table, and going to the Z-percentiles anyway. you're basically doing it as if it's a normal distribution overall. </U>
+			<U WHO="S2"> mkay when is a good point to decide whether it's larger or small though? </U>
+			<U WHO="S1"> what was the cutoff we mentioned? </U>
+			<U WHO="SS">
+				<OVERLAP> thirty. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> thirty </OVERLAP> thirty observations is the rule of thumb the book uses and so that's the rule of thumb we'll use too. you guys can pull up a table top, you can sit on the floor over here, maybe we can move this case possibly... is that alright? just <U WHO="R1">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> so it's </OVERLAP> out of the way <U WHO="R1"> yes. </U> we can get more people here. </U>
+			<U WHO="S3"> i have a question about four-point-nine, just <U WHO="S1"> mhm. </U> a small part of it um, i figured_ i did the whole problem and figured out D-bar, <U WHO="S1"> mhm. </U> and, S-sub-D but that i think is where i had the problem i didn't_ <U WHO="S1"> mhm </U> i got eighty-one for that and </U>
+			<U WHO="S1"> mm you <OVERLAP> should have a </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> you had </OVERLAP>
+				</U> whole range of values that you square here. <OVERLAP> this is </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> how do you mean? </OVERLAP>
+			</U>
+			<U WHO="S1"> see that's a sum that means y- </U>
+			<U WHO="S3"> right. </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S3"> but the sum of D-I is thirty i added all those. </U>
+			<U WHO="S1"> nope that's not the sum of D-I it's the sum of these differences, squared across each difference you do it for each difference you take two minus three squared, <OVERLAP> eight minus three, squared </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> ah oh </OVERLAP> oh i see. </U>
+			<U WHO="S1"> ten minus three negative-eight minus three and square all those. </U>
+			<U WHO="S3"> oh that's so long. </U>
+			<U WHO="S1"> yeah it is long but you have a cal_ is this yours? </U>
+			<U WHO="S3"> um yeah. </U>
+			<U WHO="S1"> you have the ability to do it right in there. <U WHO="S3"> i know. </U> yeah. okay? <U WHO="S3"> okay. </U> and if you can_ you know all it means is entering these differences in a list <U WHO="S3"> okay. </U> and doing your one variable summary measures. <U WHO="S3"> okay. </U> okay? <U WHO="S3"> mhm </U> and get it that way. <U WHO="S3"> okay. </U> and in general that number, is easy to be calculated or it will be so easy that the differences will come, very nicely. </U>
+			<U WHO="S7">
+				<OVERLAP> i have_ i </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> how do you do stuff on the </OVERLAP>
+				<U WHO="S1"> mhm </U> on a calculator. </U>
+			<U WHO="S1"> what calculator do you have? </U>
+			<U WHO="S2"> T-I eighty-five. </U>
+			<U WHO="S1"> mkay eighty-five i'm not as familiar with overall, what i might wanna suggest is maybe at the end of the session i can show you a couple things. okay? mhm? </U>
+			<U WHO="S7"> uh as far as four-point-nine, <U WHO="S1"> mhm </U> um for the ninety-eight percent confidence interval, <U WHO="S1"> right. </U> without an alpha </U>
+			<U WHO="S1"> you alr- you have a alpha. </U>
+			<U WHO="S7"> we do? </U>
+			<U WHO="S1"> what's the ninety-eight percent giving you really? </U>
+			<U WHO="S7"> oh true we already have <U WHO="S1"> yeah. </U> oh never mind. </U>
+			<U WHO="S1"> okay. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> okay <U WHO="S1"> yep. </U> alright. </U>
+			<U WHO="S10"> um i wanted to ask about what number was that? two-point-five. </U>
+			<U WHO="S1"> two-point-five? </U>
+			<U WHO="S10"> yeah the answer in the book was not what i got and i wanted to make sure_ i wanted to see <OVERLAP> if it was wrong. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> answer in the </OVERLAP> book is not guaranteed to be right. <EVENT WHO="S10" DESC="LAUGH"/> mhm. with that many questions that they're giving answers for they may get some wrong. <U WHO="S10"> yeah. </U> two-point-five is doing the test on the previous exercise data, that there is a higher mean response for treatment one, and these are l- definitely large sample sizes seventy-nine and sixty-two, so what did we, do for our your your test statistic in particular is that what you're looking at? </U>
+			<U WHO="S10"> yeah. <U WHO="S1"> mhm. </U> mhm. </U>
+			<U WHO="S1"> we are looking for a direction here it's going to be a Z-statistic. what did you get for your Z-statistic value? </U>
+			<U WHO="S10"> i got negative-two-point-nine-four. </U>
+			<U WHO="S1"> uh i have negative-two-point-two-two, but i'm </U>
+			<U WHO="S10"> that's what it said <OVERLAP> in the back of the book. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> that's what i got. </OVERLAP>
+			</U>
+			<U WHO="S1"> no that may be that's all they typed up then. </U>
+			<U WHO="S3"> it's negative-two-point-two-two cuz that's what i got. </U>
+			<U WHO="S4"> that's what i got. </U>
+			<U WHO="S1"> yep okay, so you might need to check whether you plugged in your sample variances correctly or your sample s- standard deviations? </U>
+			<U WHO="S10"> is the um_ i- is it the top </U>
+			<U WHO="S1"> what did you get for the numerator? </U>
+			<U WHO="S10"> for the numerator i got negative-nineteen. </U>
+			<U WHO="S1"> correct. </U>
+			<U WHO="S10"> and then for the bottom i got six-point-four-seven. </U>
+			<U WHO="S1"> that should be about eight and a half. </U>
+			<U WHO="S10"> okay. </U>
+			<U WHO="S1"> so check the calculation on the bottom. mhm? </U>
+			<U WHO="S4"> i have a question on those like it_ does it matter what order you put when it says like the grou- the different groups like the X, <OVERLAP> and </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> this </OVERLAP>
+				</U> the Y you have to mi- which ones you have to minus like the tr- </U>
+			<U WHO="S1"> in general we_ if it has a one and a two label to it we'll call one group one and call that X-bar. <U WHO="S4"> okay. </U> and two group two and call it Y-bar just for consistency purposes. but and it_ you just need to know_ and it really truly doesn't matter which way you do it cuz if you did your confidence interval switching 'em around, instead of getting a confidence interval and going from two to eight you've got it going from negative-eight to negative-two. </U>
+			<U WHO="S6"> so that doesn't matter. </U>
+			<U WHO="S1"> it doesn't matter <U WHO="S6"> okay. </U> you make the same decision it's just that keep it in mind which direction then you're going if it's a direction you're headed. if you're trying to say one's better than the other then you should have certain types of numbers positive or negative. so it truly does not matter. but if it d- is set up, you know the X data is this here's group one then keep it that way. mhm. <OVERLAP> alright. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> uh </OVERLAP> for two-point-two-three i- i really don't think there's an alpha for that one. </U>
+			<U WHO="S1"> okay well you're sure about that huh? </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> i don't know now i'm not so sure but </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S7"> there really isn't but </U>
+			<U WHO="S1">
+				<OVERLAP> two-point </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> don't you just </OVERLAP> assume point-O-five is alpha? </U>
+			<U WHO="S1"> well there's a couple ways to go. take the assumptions, and test... true they don't give you an alpha what do you get though let's see what the result is <PAUSE DUR=":05"/> oh they don't okay, um what do you get overall for your test statistic... in two-point-two-three? </U>
+			<U WHO="S7"> um i didn't i didn't do it cuz i didn't know. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S6"> negative-two-point-five-seven. </U>
+			<U WHO="S1"> mkay negative-two-point-five-seven, is good? <U WHO="S3"> how do yo- </U> mhm, negative-two-point-five-seven, is your test statistic. <U WHO="S7"> mhm </U> you wanna still find the P-values you normally would, and then, point-O-five is a good rule of thumb to use in general. what i would do though is check the answer with both one five and ten percent all three, because then you might say well if i make the decision that it's the same for all three of those then i pretty much know what my decision should be, okay? if your P-value turns out to be so small that you'd reject for all those levels then go ahead and say so. if it's in between, for some alphas you'd reject for some you wouldn't, then say you know for alpha point-O-five we would reject H-naught however, if alpha were one percent we would not quite reject H-naught, and then you're recording your results you're telling me you know how to do a test if alpha were given, <U WHO="S7"> mhm. </U> in an exam we generally will give you the specified alpha cuz in any clinical study or anything there is a determined alpha that is set ahead of time. so you will have that given. </U>
+			<U WHO="S3"> could i see the answer for four-point-nine? </U>
+			<U WHO="S1"> okay these i have not checked so i'm just looking 'em over <U WHO="S3"> oh okay </U> and i'll be checking t- over in general. </U>
+			<U WHO="S3"> um </U>
+			<U WHO="S1"> four-point-nine <U WHO="S3"> yeah. </U> is a confidence interval. </U>
+			<U WHO="S3"> yeah for S-D i got two-point-seven-five </U>
+			<U WHO="S1"> nope, S-D, i have five-point-eight now again i don't_ haven't checked these myself. </U>
+			<U WHO="S6"> i have five-point-eight too. </U>
+			<U WHO="S1"> five-point-eight also. okay did you enter 'em in L-one? try entering these numbers into L-one do you know how to do that <OVERLAP> on your </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> no </OVERLAP>
+				</U> calculator? alright we need a little calculator session at the end of of time today okay? cuz it is nice and easy to do it that way. </U>
+			<U WHO="S3"> okay. do i square each one separately? <U WHO="S1"> yep. </U> two minus three squared <U WHO="S1"> yep. </U> plus eight minus three squared? </U>
+			<U WHO="S1"> yep yep. and your degree_ you had ten observations? </U>
+			<U WHO="S3"> mhm. yeah. <U WHO="S1"> yep </U> and then square root of that. </U>
+			<U WHO="S1"> yep that is the right approach okay? </U>
+			<U WHO="S3"> mhm. </U>
+			<U WHO="S1"> so it may be that maybe <OVERLAP> minusing a negative you did </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> okay i just did it wrong. </OVERLAP>
+				</U> something wrong. <U WHO="S3"> okay. </U> okay. good. </U>
+			<U WHO="S4"> um i don't know how to do this like in two-point-one-three i couldn't i can't figure out how to do, this kind of, part B </U>
+			<U WHO="S1"> two-point-one-three? </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S1"> okay that's the one that's a little different, i mentioned in a lecture a little bit. most of the time our hypotheses in this chapter chapter ten are looking for a hypothesized value of being zero, right, <U WHO="S4"> mhm </U> cuz you're looking for whether the two are equivalent or that they're not and maybe they're not in a certain way here's one where they actually wanted you to test something that wasn't zero. <U WHO="S4"> yeah. </U> but it's still the easiest thing to do, alright? you made your confidence interval in part A? </U>
+			<U WHO="S4"> uhuh. </U>
+			<U WHO="S1"> what did you get for a confidence interval in part A? </U>
+			<U WHO="S4"> um ten-point-two-eight and thirteen-point-six-four. </U>
+			<U WHO="S1"> okay. ten to about thirteen and a half right? <U WHO="S4"> yeah. </U> alright there's a range of what i would consider, plausible potential values, for, mu-one minus mu-two, hm? values that i think are likely to be mu-one minus mu-two at a ninety-five percent confidence level... and what they're asking for is t- for you to test the hypotheses, just looking at that does it indicate to you there that it might be ten as a possible value just as_ to get a feel for what the answer might be? </U>
+			<U WHO="S4"> um yeah. </U>
+			<U WHO="S1"> is ten reasonable? take a look at ten the value ten? </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S1"> is ten inside that interval? </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S1"> take a look. </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S4"> w- well yeah it is ten-point-two-eight. </U>
+			<U WHO="S1"> ten'd be </U>
+			<U WHO="S4"> oh ten oh no. </U>
+			<U WHO="S1"> that's alright <OVERLAP> that's alright </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S1"> ten is not a reasonable value according to the interval <OVERLAP> right? </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> okay. </OVERLAP>
+				</U> okay so we probably are going to what end up rejecting or accepting? what do we think? </U>
+			<U WHO="SS"> rejecting. </U>
+			<U WHO="S1"> probably rejecting. </U>
+			<U WHO="SS"> rejecting. </U>
+			<U WHO="S1"> all it requires us to is to adjust our test statistic a little bit. you're gonna calculate, or you already have calculated X-bar and Y-bar, but you wanna now see whether that, difference in the sample means is significantly different from ten, okay? significantly higher than ten so you're gonna subtract off ten instead of subtracting off zero. <U WHO="S4"> oh. </U> and then still divide by that standard error, that's your test statistic now. and you do the test the same way you would with any other two observed test statistics. its degrees of freedom will be the thirteen degrees of freedom, and you've done the test so you just adjust what you subtract off as the hypothesized value. </U>
+			<U WHO="S2"> so to just say that, because ten's not in the ninety-nine percent confidence interval, that's not enough to say that <OVERLAP> it's not? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> not quite. </OVERLAP> yeah i wanted to look at our interval just to get a feel. the thing is there's two things that are not quite right here to be able to do that and be our answer alone. that is that the confidence interval when mu made was ninety-five percent, and they want you to do the test at a one percent. so those are different right there, and your ai- your part B test is not a two-sided test. your H-one your alternative is trying to say whether mu-one minus mu-two is more than ten, so you're looking for a direction and you can't test a confidence interval confidence intervals are two-sided. there are such things as one-sided confidence intervals but we don't go through those, in this class anyway. so you really do need to perform the test. the test is performed though by just adjusting your test statistic and subtracting off ten, when you compute it, and then still doing it as a T-test that is upper-tailed, with an alpha level of point-O-one. </U>
+			<U WHO="S2"> for the_ for that T-one you would have to have the standard deviation divided by N minus one, with that one? </U>
+			<U WHO="S1"> the standard deviations will always have an N minus one in them. when you_ but you are given the standard deviations already computed for you. take a look at page four-twenty <U WHO="S2"> mhm. </U> you don't have to do anything with N minus one, as far as calculating cuz the Ss are given to you. </U>
+			<U WHO="S4"> so you just square 'em and add 'em? </U>
+			<U WHO="S1"> so yep you wanna do the same thing for how you do a T-test here you have to get your S-P... you have to get your S-P, and then have one over N-one plus one over N-two. so you have to get S-P from your two Ss, for that formula for combining the two. </U>
+			<U WHO="S2"> the S-P would be the S-one minus S-two? </U>
+			<U WHO="S1"> nope S-P has the formula and, it's a pretty complicated one but it's about, averaging or pooling, we wanna take a look at page... </U>
+			<U WHO="S9"> you have to take the square of <OVERLAP> that? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes </OVERLAP> you have to square each of them you weight 'em by the degrees of freedom, the formula's on the top of page four-fifty. for the actual formula for finding your pooled, weighted average estimate... page five_ four-fifty four-fifty. </U>
+			<U WHO="S2"> oh four fifty </U>
+			<U WHO="S1"> yep. that's your formula and you know what i really_ as i mentioned in the lecture, pull out your formula sheet start working with your homework with a formula sheet then you don't have to flip pages you've got it right next to you, and you start really feeling comfortable with the way the formulas are presented there, for your exam for next week. they're all all the formulas are there you're not gonna have to memorize any formulas, all we don't do is we don't put a scenario in there and calculate the T for you and then write out the conclusion and everything. so that's why i want you to understand the process but then have the ability to use the formulas that they've provided. </U>
+			<U WHO="S2"> and so this one at the top S_ is your S-P and then you've gotta, multiply that by the square root of </U>
+			<U WHO="S1"> one over <OVERLAP> N-one. </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> one over </OVERLAP> okay. </U>
+			<U WHO="S1"> that's the small sample T, two-sample T-test the two independent samples the only adjustment we had to do in two-thirteen, is that we had to subtract off the ten instead of really subtracting off just zero. cuz <U WHO="S2"> okay </U> we were looking for a difference of ten or more. mhm. </U>
+			<U WHO="S10"> i just wanted to ask um i'm_ i still get confused between um, independent (in B) and paired </U>
+			<U WHO="S1"> paired? </U>
+			<U WHO="S5">
+				<OVERLAP> yeah me too. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S10"> yeah like for two-nineteen, <U WHO="S1"> mhm </U> it gives us um_ it says, that they did a comparative study on measurements of <SIC> absorbic </SIC> um capacities and recorded for a group of twenty, natives whatever and ten U-S <U WHO="S1"> mhm </U> (bolanders.) so how do we like differentiate i don't know? </U>
+			<U WHO="S1"> oh there's a couple give- giveaways that will tell you what to do without even thinking hardly at all, right? basically every study is trying to compare two groups, and yes they're trying to make the groups somewhat comparable with the ex- exception of a difference in, you know s- one aspect and seeing whether that aspect is significant or not. the thing is did they directly match and pair one-to-one one from this group and one from this group and put 'em together or are they really just two separate groups. when your sample sizes which are here ten and twenty. twenty um Peruvian, natives and twe- ten U-S subjects you can't have pairing. there's no way you could have paired twenty over here with ten over here. </U>
+			<U WHO="S10"> okay. </U>
+			<U WHO="S1"> so there is a ten group of ten and an independent group of twenty, that i'm comparing overall. okay...? <OVERLAP> versus_ </OVERLAP>
+				<U WHO="S10">
+					<OVERLAP> so </OVERLAP>
+				</U> lemme and_ versus... even if your sample size is the same for example two-point-two-three, on page four-twenty-three, is about six rats an- that received a growth hormone and six control rats. there's six and six. could there be pairing there? not because of the way they gave you the summary data, the only way you can do a paired design, a paired T-test would be that you have the ability to either calculate the differences, or you have the differences to work from. so you can get D-bar, and you can get the standard deviation for the differences. when you just have, not the six observations for each group but the summary of X-bar Y-bar, those two standard deviations you can't get differences from there you can't get S-D from there you couldn't do it as a paired test. with this setup. and these are the two classic ways of giving data. summarizing by giving the mean and standard deviation already for you, or, in the case when it is, paired as in section four, setting it up so you have person or pair or household or farm number one. and there are the two responses for it. they always add another row, to tell you what pairing number it is. they make them link together. if you have data laid out and you say, look at those first two is there something they have in common? do they have to go together? they both came from person number one they have to be compared to each other. they have to be a paired observation. versus if i had ten people here and ten people here in two different teaching methods, that first person over here doesn't have to necessarily be paired up with this first person over here they just were two separate groups taught with two different methods that i'm comparing as a whole. overall. i didn't match them by gender or by pretest score or anything else i just_ i'm looking at the two test s- scores for the two teaching methods overall. but a lot of times the way the data's presented should indicate the idea along with a description of course of the problem. okay? if the sample sizes are not equal it can't be paired. if all you have are just two means and two standard deviations for these two groups, whether they're the same sample size or not it can't be paired. you can't analyze it as a paired situation. if you have the actual data, as in even two-point-two-one and it's listed out there and they look like they're the same number of observations, it doesn't guarantee it's gonna be paired. you have to still take a look at the description. </U>
+			<U WHO="S10"> so in that example that would be independent. </U>
+			<U WHO="S1"> yep what it_ basically they'd said, twenty workers were included in the experiment of these ten were selected at random and trained with method one. the remaining ten were trained with method two. <U WHO="S10"> okay. </U> that at random means that those two groups are independent. </U>
+			<U WHO="S4"> so that's how you can kind of pick 'em out if they're both laid out like that you can pick it out cuz w- that it'll always specifies that at random if it's not paired. <OVERLAP> and it'll always say paired. </OVERLAP>
+			</U>
+			<U WHO="S1"> i mean that- <OVERLAP> that's how that independence </OVERLAP> assumption is usually meant by saying that i took the people and randomly allocated them into two groups. okay that's typically how it's done. or at least i went to this population of U-S citizens and picked a sample at random of twenty and i went to this population of Peruvian people and, picked s- ten at random though they're still supposedly independent samples then. okay that's how you distinguish between the two. </U>
+			<U WHO="S5"> um on two-point-two-three they ask for an explanation like in a sentence <U WHO="S1"> mhm </U> how would you want it like_ wh- what really was it looking for? </U>
+			<U WHO="S1"> two-point-two-three? <U WHO="S5"> yeah. </U> do a test, state the assumptions, so the- i mean there's </U>
+			<U WHO="S5"> and the assumptions are what? </U>
+			<U WHO="S1"> the assumptions the assumptions are, going to be usually in the summary also. the two basic components of any_ of all tests so far is that you've got random sample or samples. and you've got normal distributions. or you've got, the large sample sizes so you get the normality. but those are all the ideas but you still need to be able to say them correctly. rather_ you can't just say what are the assumptions random sample normal, no that's not enough you have to tell me what's a random sample, what's normally distributed what are you talking about there so you need to be able to say it in a sentence. alright? in terms of the actual, assumptions, section four page four-thirty-one, paired design, there's the assumptions right in that blue box. so maybe when you're practicing for the exam and you get your f- you have your formula sheet to study from maybe you write that out next to that on the formula sheet so every time you go to that to look at and do you remember that assumption with it. but you have small sample inferences about the mean difference assume that the differences are a random sample from a normal distribution. that's what you have as an underlying assumption for the paired T-test for the confidence interval. every confidence interval along with its test that go hand in hand have the same assumptions underlying them. </U>
+			<U WHO="S4"> what's assumption again? </U>
+			<U WHO="S1"> assumption is what does the data have to be in order for this inference procedure to work? you know we we talk about this ninety-five percent confident, and we say that means if you were to repeat it over and over ninety-five percent of these intervals are gonna contain the right quantity, well that only works if you really are taking random samples. and you have normality to begin with cuz you're_ what are you doing in your, you're using a T-distribution which comes from the fact that that's what you should get when you sample from normal curves. T-curves for the test statistic. so those assumptions only can help to some degree. there's a little robustness. </U>
+			<U WHO="S5"> for normal curve_ normal distribution you just say zero it was zero-one? </U>
+			<U WHO="S1"> no it is actually normal with some mean difference, and some standard deviation but you don't even have to write that notation you can just say from a normal distribution. <U WHO="S5"> okay. </U> and that's adequate. it's not_ your differences and your data's not gonna come from a normal zero-one, that would mean all your observations have to be around zero. no they come from some normal distribution that might be normal, zero-one. </U>
+			<U WHO="S7"> so so the confidence interval again what you said was um, if you're doing it over and over again say it's ninety-five percent ninety-five percent of the time, this will be included in the interval or <OVERLAP> what's </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> not the </OVERLAP> inter- don't interpret your confidence interval level, with just one interval. you should interpret it as being looking at many intervals. it's wrong to say ninety-five percent of the time the mean mu will be in this interval. that is not correct. <U WHO="S7"> okay. </U> cuz mu is either in that one interval or it's not. <U WHO="S7"> mhm </U> ninety-five percent of the intervals, made with this method if it were repeated, are expected to contain mu. i'm emphasizing the plural intervals... i can talk about the collection of possible intervals and what i expect for that collection. i can't talk about every one interval cuz either it does or doesn't. mkay they did have a pretty good picture back in chapter eight, when they first introduced confidence intervals to kind of remind you of that idea, and i knew we kinda sketched the idea but it's page three-twenty. back three-twenty... and, the example six on page three-twenty-two are both good ones to maybe recap that idea again. but see how every one interval either does contain the parameter, <U WHO="S7"> mhm </U> or it misses it. <U WHO="S7"> mhm </U> you're talking about the collection of intervals if you were to repeat it many times, and we'd expect ninety-five percent of them to be yes to be good ones. the one that i got i don't have no idea which one it is. mu which one it measures up to. i don't know whether mu's in it or not, but i know that the procedure is such that ninety-five percent of the intervals... made with this method in repeated samples, are expected to contain mu. that's why i have confidence in the one i have. that's how i can say it. <U WHO="S7"> mkay. </U> alright? </U>
+			<U WHO="S3"> um, i have sort of a general question i- what_ if you have a sma- in the matching in the matched pair comparisons <U WHO="S1"> mhm </U> if you have a small number then, they give us all the formulas for the T-test <U WHO="S1"> right. </U>
+				<OVERLAP> for everything. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right. right </OVERLAP>
+				</U> if you have a large number they only give us, the um </U>
+			<U WHO="S1"> the T-formula right? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> yeah. </U>
+			<U WHO="S1"> you can always do it as a T-test. </U>
+			<U WHO="S3"> or no that would be a Z. wouldn't <OVERLAP> that be? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but you </OVERLAP> could_ and you can still call it a T-statistic if your sample size is large though you're just gonna be farther down on that T-table. <OVERLAP> in terms of percent </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> and you're using it </OVERLAP> and you're using it <OVERLAP> different. the Z </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you're using the Z </OVERLAP> basically anyway. so you can call it a Z if you wish but you don't even have to keep it a T do it with the sixty degrees of freedom and it really is a T-test <U WHO="S3">
+					<OVERLAP> but what i- </OVERLAP>
+				</U>
+				<OVERLAP> but it's </OVERLAP> it's so close to n- a normal zero-one that you're, basically doing the same thing. </U>
+			<U WHO="S3"> what if you wanted to find a confidence interval though for something large? </U>
+			<U WHO="S1"> well again you would basically can use the Z-alpha over two number in there instead of the T one. </U>
+			<U WHO="S3"> so it's all the same formulas. </U>
+			<U WHO="S1"> mhm it's the same formulas though just T versus E. mhm. if you always do it as a T-test which is by the way the pair design is presented. it doesn't present a Z version of it really you will always be correct. it's just that when you get to degrees of freedom on your T-table, <U WHO="S3"> mhm </U> where are you gonna be? way down at the bottom. possibly even at the very end <U WHO="S3"> mhm </U> which is your Z-percentiles anyway I-E you're doing it as a Z-test. <U WHO="S3"> mhm </U> okay? </U>
+			<U WHO="S3"> so it's_ everything's_ it_ this this is not how it was for the, <OVERLAP> independent of A </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right they give you both versions. </OVERLAP>
+				</U> so if it's large we do the um, the T-test <U WHO="S1"> mhm </U> only when we_ it it comes onto alpha we're looking it up on the Z-table. </U>
+			<U WHO="S1"> yeah or you can look it up on the T-table the very last <OVERLAP> column or row </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U> with the alph- uh infinity degrees of freedom, is your Z-percentiles. that is what that is there your computer output doesn't say T versus Z. it just does it always as a T-test. no matter what the sample sizes are. and it has ability to have actually T-distributions with a hundred degrees of freedom or three hundred degrees of freedom cuz it can do it that way so it's very precise. <U WHO="S3"> okay. </U> it's just that if you were doing it by yourself, and it was three-hundred degrees of freedom, your answer as a Z-test wouldn't be hardly any different from their answer calling it a T. and doing it that way. okay? over here. </U>
+			<U WHO="S8"> yeah um on two-dash-two_ two-point-two-three? </U>
+			<U WHO="S1"> mhm. </U>
+			<U WHO="S8"> i like, set everything up like i set up the uh T? <U WHO="S1"> mhm. </U> like tested X-bar over Y-bar, over square root, it's two-one through N-one plus <OVERLAP> S-U two over N-two is that </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> did we do that one? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> this one </OVERLAP>
+			</U>
+			<U WHO="S8"> you you_ do i need i- is_ okay, <U WHO="S1"> yep, mhm. </U> what do i compare that to then? what's statistic test like </U>
+			<U WHO="S1"> what's your degrees of freedom here going to be? </U>
+			<U WHO="S8"> is it five? </U>
+			<U WHO="S1"> it's gonna be five degrees? okay which one </U>
+			<U WHO="S5"> i didn't do the T-test. </U>
+			<U WHO="SU-f">
+				<OVERLAP> there's two T here </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> uh you sh- do you no- do you </OVERLAP> not need to do one or you just </U>
+			<U WHO="S1">
+				<OVERLAP> well- </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i did </OVERLAP> the other formulas um </U>
+			<U WHO="S1"> right you want_ i'm looking at the solution here and the solution here has it doing it with that T-star that we did not cover. why are they doing it with this T-star version? <U WHO="S8"> right y- y- y- yeah. </U> okay because look at those two sample standard deviations there two-point-two-three. fifty-seven and sixteen, right are your two sample standard deviations? </U>
+			<U WHO="S8"> wait </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S1">
+				<OVERLAP> is that what you got? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> no they're not. </OVERLAP>
+			</U>
+			<U WHO="S8"> seven-point-six? </U>
+			<U WHO="S1"> two-point-two-three? </U>
+			<U WHO="SU-f"> seven <OVERLAP> point </OVERLAP> six. </U>
+			<U WHO="SU-f">
+				<OVERLAP> seven </OVERLAP>
+			</U>
+			<U WHO="S8"> sixteen-point-four. </U>
+			<U WHO="S1"> you got sixt- what did i say? fifty-seven, and sixteen? is what i have written down here now and again i haven't checked these answers, <PAUSE DUR=":04"/> two-point-two-three, yeah oh seven duh that's wrong. alright, but anyway, wh- there are some informal tests that you could say are these two sample standard deviations comparable enough? <U WHO="S8"> mm. </U> the thing is here we are not doing the T-star version we're not going further and going through that cuz the degrees of freedom do get to be a little strange or you take the minimum of the two <U WHO="S8"> right. </U> and so on, so you can just treat this as a regular T-problem. however you're still going to pool, those two now d- does it say </U>
+			<U WHO="S4"> will you <U WHO="S1"> yep. </U> will you like go through that and do this one i couldn't </U>
+			<U WHO="S1"> it's gonna be done just like you have, two-nine- just like you did two-nineteen. or just like you did two-twenty. in terms of what test statistic you should use here... two-nineteen and two-twenty have the, the one that we just wrote out a a minute ago too, so i'm gonna, advocate that you should still take the forty-one and the sixty and subtract it, and the denominator should have the one over six and one over six with the S-P. down there. so you wanna pool the two Ss, and get an S-P, and use that to get your test statistic and your degrees of freedom here would be, ten degrees of freedom. six plus six minus two. </U>
+			<U WHO="S8"> then what do you compare that to like what is entered like </U>
+			<U WHO="S1"> and then you're gonna go to, ten degrees of freedom for your T-distribution and find its P-value, or find a cutoff value depending on_ it's a lower-tailed test <U WHO="S8"> mm. </U> so i would find its P-value and compare that to, this is one that doesn't have an alpha it doesn't have the alpha. </U>
+			<U WHO="S6"> if we did it the other way already on that i mean will you count that as pass? </U>
+			<U WHO="S1"> yeah i'm gonna make a note to the G-S-Is <U WHO="S6"> alright. </U> cuz i'd i_ had i saw seen that that one was assigned cuz i didn't assign these questions i might not have had that in there. </U>
+			<U WHO="S8"> what's what's the alpha like what do you take on the alpha? </U>
+			<U WHO="S1"> take an alpha of point-O-five if it's not given, and make your decision that way that way i know you can make the decision if alpha were given at any particular level and that would be fine. </U>
+			<U WHO="S2"> when is it appropriate to use, S-pooled and when is it not? </U>
+			<U WHO="S1"> the only two cases we have here is when you you have large samples you don't have to pool and you do it as a Z-test. if your sample sizes are small, then we're gonna add the assumption of common, population variants and pool. and do it as a T-test. those are the two, main roads that we're try- taking here. </U>
+			<U WHO="S2"> so it should_ if it's not a large sample it always needs to be S-pooled. </U>
+			<U WHO="S1"> yep mhm. </U>
+			<U WHO="S4"> and then if it is a <OVERLAP> large </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> but what if </OVERLAP>
+				</U> population then it's just the S- the <OVERLAP> standard deviation </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> squared </OVERLAP>
+				</U> over <OVERLAP> the ends. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> over </OVERLAP> the ends mhm. </U>
+			<U WHO="S5"> so, small is pooled? </U>
+			<U WHO="S1"> small is <OVERLAP> pooled </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> what exactly </OVERLAP> do you do wi_ don't understand really what you said what you do with the pooled, <OVERLAP> what? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the pooling </OVERLAP> is just saying_ see you_ if you don't pool and you have small sample sizes, then that T that you're really computing is not gonna have exactly a T-distribution. its distribution is not a T-distribution but you can approximate it being conservative and it goes through this whole, technique with this T-star. which works and you can still do a good test that way, but rather than going through all that subtlety we have just said let's still assume common variants, y- your test is pretty robust against that assumption meaning even if the variances weren't that cl- real good you'd still be okay to do it as a T-test, so we're just gonna be saying let's assume that the two variabilities in the two populations are the same, for the responses and so our two Ss are both estimating that we pool 'em together to get a good estimate overall. </U>
+			<U WHO="S5"> so that's like how we just did six plus six is twelve minus two? </U>
+			<U WHO="S1"> yep <OVERLAP> mhm. </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> alright. </OVERLAP>
+				</U> mhm... for the degrees of freedom. </U>
+			<U WHO="S4"> for two-point-two-three was the um alternative hypothesis, what was the alternative hypothesis? </U>
+			<U WHO="S1"> can you say that again three-point what? </U>
+			<U WHO="S4"> the one we just did two-point-two-three </U>
+			<U WHO="S1"> two-point-two-three, <OVERLAP> was the </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> is that an </OVERLAP> upper-tailed? </U>
+			<U WHO="S1"> it depen- no lower-tailed, <U WHO="S4"> oh, okay </U> one-sided lower-tailed it depends though again what you call control and ho- hormone, group one or group two typically the rule is to use the first one listed there as being group one. and the second one being group two but if you identify it differently just say so. so that we know how you're calculating your quantities. <U WHO="S4"> okay. </U> and you want to say that the weight gain is higher if they received the hormone, so i'd want the group two to be higher, group one to be lower. <U WHO="S4"> mhm. </U> so one minus two should be low negative. <U WHO="S4"> right </U> that's why it's a lower-tailed test in thinking that through. </U>
+			<U WHO="S6"> for four-point-thirteen, <U WHO="S1"> mhm. </U> can you um, explain part B? </U>
+			<U WHO="S4"> mhm i was gonna ask that too. </U>
+			<U WHO="S1"> four-thirteen? </U>
+			<U WHO="S6"> yeah. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> okay mhm... there's the little bit about, making your design even a little better by making sure you do some randomization. this is a paired design right? cuz we're pairing up these plots by farm... but even in a paired design there should be some randomization perhaps. if it's possible. especially when you have two items th- that are paired and one of 'em is supposed to get one treatment and the other is supposed to get the other but they're gonna be compared as a pair, which of those two items gets which treatment should be randomized. that's the idea. so that you won't always have_ you know if if your f- farm was always set up to have a top plot and a small_ and a lower plot a north and a south one, don't always give the north plot strain, A and all the south strain B cuz you might have that be confounding. that might be something that says the water all drained from north to south so, the south ones didn't do well because of the drainage problem. and then that would_ you wouldn't know whether or not strain B didn't do well because of drainage or whether they didn't do well because of being strain B. so you randomize. so that's the idea we want you to get in there. how can you randomize? here's farm or farm number one here are the two plots, s- plot one plot two, flip a coin. if it's a heads plot one gets A if it's a tails plot two gets A. and that's how you can make the assignment. <PAUSE DUR=":04"/> that's one way doing it anyway, and there's a couple other questions like that right where you have to kind of think through? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> can yo- can you tell me the answer for four-point-eleven? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> okay did you get your standard deviation? what did you get for your <OVERLAP> S-D? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> um </OVERLAP> two-point-six-one. </U>
+			<U WHO="S1"> that's much better. and what did you get for your T-statistic? </U>
+			<U WHO="S3"> four-point-five-nine. </U>
+			<U WHO="S1"> that's a little better too mhm. </U>
+			<U WHO="S3"> so i reject. </U>
+			<U WHO="S1"> and you reject. </U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S1"> uh, what did you get for your T-statistic? </U>
+			<U WHO="S3"> four-point-five-nine. </U>
+			<U WHO="S1"> four-point-five_ no no no no no. not quite. </U>
+			<U WHO="S3"> i had_ my D-bar was one-point-three-three... </U>
+			<U WHO="S1"> what's o- what should be on the bottom here? </U>
+			<U WHO="S3"> oh square root of N. thanks. </U>
+			<U WHO="S1"> yep. </U>
+			<U WHO="S7"> um i was confused about how to do four-point-one-four, <U WHO="S5"> yeah me too </U> um, first i was confused about whether or not, it was paired cuz they made it seem like <U WHO="S1"> right. </U> i- i <OVERLAP> don't know. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> if you read </OVERLAP> the whole problem or actually get to part C, and read that part C also it tells you that what they're doing here is they're taking the same data, and it really was paired, <U WHO="S7"> mhm. </U> and they're saying let's pretend that data came from a situation where it was not paired. so you're not using the information of putting this one with this one and comparing it directly. <U WHO="S7"> mhm. </U> you're just comparing the two groups completely as a whole independently. and it turns out that in four-thirteen, you say you would reject H-naught. strain A is significantly higher than strain B. <U WHO="S7"> mhm. </U> yet when you do it as an independent samples design not using that pairing aspect... you end up accepting H-naught. if you analyze it with the S-P, and the T-statistic for, independent samples you're doing the T-test for independent samples here. </U>
+			<U WHO="S5"> what did you get to be the rejection, zone in <U WHO="S1"> in wh- </U> four-point-one-three? </U>
+			<U WHO="S1"> in one-three? <U WHO="S5"> yeah </U> mm they have one-point-eight-nine-five, reject if it's more than that, seven degrees of freedom, upper five percent... and so, the idea here that they're getting at, is that the calculations_ the data were the same. however the standard errors get to be different because you didn't use the pairing aspect you didn't work with differences. the reduction, in variability, helps to make the pair design better. i've got a bunch of observations over here and they vary. and here's another bunch of observations and they vary too. now part of the reason why they vary is because they came from different farms. but these came from the same set of farms so i should put them together so that i compare an apple to an apple and look at that difference due to the treatment alone, the same two plots from the same farm. and i'm using that extra information. so that if this_ if this farm_ if one farm was unusually high, it would probably unusually high for both strain A and strain B. but the difference then the gain in the difference of those two strains would be masked coming out directly. versus if you just kept 'em as two independent sets a very large observation here does not get directly compared with a very large one here. and even though_ and that_ you aren't using that aspect you're not reducing variability due to_ from farm to farm by pairing 'em. reducing variability is usually always good. cuz that means you're then_ you're gonna able to compare things more accurately, and see if there's a difference or not. so by pairing you reduce the variability from farm to farm, by comparing directly, and you were able to see the significant difference, in these two strains. whereas that variability, among the farms, not comparing them with pairs, masked out the actual increase in strain A over ba- strain B. and so you didn't see it, when you did- treated it as independent samples. okay one of the pros and cons section they mentioned about pairing helps to reduce variability, in responses cuz you're comparing one item that is very like to the other the only difference is the treatment so you're getting a better idea of what the treatment effect really is. whereas it's harder to measure it if you've got independent samples because there's other things that are affecting those things. over there. </U>
+			<U WHO="S4"> what what's the T-value for two-point-one-five? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> two-point-one-five...? two-point-one-five was assigned? </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S4"> no. what did i do? </U>
+			<U WHO="S1"> two-point-one-three? and two-point, one-nine... alright. </U>
+			<U WHO="S3"> how did you_ i don't know if you just said this um, for four-point-one-three, <U WHO="S1"> mhm. </U> to set up your um, null hypothesis and alternate hypothenis hypothesis, <U WHO="S1"> mhm. </U> um, and it's a one-tailed test but it_ would you still set it up as, S equal to zero and then S greater than, <OVERLAP> zero? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> zero </OVERLAP>
+			</U>
+			<U WHO="S1"> mhm mhm <OVERLAP> that's if </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> you wouldn't </OVERLAP> do like S plus_ S minu- S-one minus_ <OVERLAP> you know what i'm saying? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that delta </OVERLAP> when you're saying S you mean that delta thing. <OVERLAP> right? </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> uhuh </OVERLAP>
+				</U> okay? and that is really the difference in the means. <U WHO="S3"> oh. </U> okay? the mean of the differences is the difference in the means. what i mean there is, <U WHO="S3"> oh i see. </U> if you had taken, and calculated the <OVERLAP> differences </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> mhm. </OVERLAP>
+				</U> for each farm and averaged those, <U WHO="S3"> mhm. </U> that's called D-bar. <OVERLAP> right? </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> right. </OVERLAP>
+				</U> that's representing, what you think is the mean of the differences. <U WHO="S3"> mhm. </U> if you calculated the average of the first group, X-bar and calculated the average of the second group, Y-bar. those are the, means <OVERLAP> separately </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> mhm. </OVERLAP>
+				</U> and if you take the difference of those means, you get back D-bar. <U WHO="S3"> okay. </U> okay? so this symbol is reserved to represent that we're in a paired situation <OVERLAP> and </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> mhm. </OVERLAP>
+				</U> it represents the mean difference. </U>
+			<U WHO="S3"> okay. so how do you know whether you wanna put greater than or less than zero? </U>
+			<U WHO="S1"> depends on how you calculate your differences... in general you're gonna calculate just going down. <U WHO="S3"> mhm. </U> A minus B <U WHO="S3"> right. </U> if difference is defined to be A minus <OVERLAP> B </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> mhm. </OVERLAP>
+				</U> then the mean of my difference is i generally want to see, them being positive <OVERLAP> to show </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> okay. </OVERLAP>
+				</U> that A's bigger than B <OVERLAP> on average. </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> okay. </OVERLAP>
+				</U> so just <OVERLAP> think that </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> got it. </OVERLAP>
+				</U> through mhm. </U>
+			<U WHO="S6"> for seven-point-two-three, um <OVERLAP> can i just go over that one </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> seven-two- </OVERLAP> three </U>
+			<U WHO="S6"> for A you would test A as being independent right? and then </U>
+			<U WHO="S7"> yeah i couldn't <OVERLAP> tell for this </OVERLAP> . </U>
+			<U WHO="S6">
+				<OVERLAP> B is just </OVERLAP>
+			</U>
+			<U WHO="S1"> right, well take a look again. <U WHO="S6"> okay. </U> you have_ you're looking at two different routes, i- five drivers were randomly selected from a group of ten, and assigned to route A. and then the other five were given B so is that way of selecting or assignment gonna indicate paired or independent? </U>
+			<U WHO="S6"> independent. </U>
+			<U WHO="S1"> independent mhm i had ten altogether, i just randomly picked five i didn't take the ten drivers and kind of analyze their driving habits and try to put two together as a pair, to say these guys are both are a little a little fast on the throttle or whatever you know they didn't try to match 'em they just picked five, and assigned them to one group. so that's how they're doing it they're doing it as an independent samples design. small sample sizes so we'll have to get S-P, and calculate the test statistic that way, an alternative design for the study would be though, to make the comparison more equivalent by doing some kind of pairing. <U WHO="S6"> okay. </U> how would you compa- pair 'em, maybe by driving habits how many accidents they had that might indicate whether they're a reckless driver or not and you put 'em together by, whether they're reckless or not reckless something like that. whenever you can make the drivers, that's one way what would be another way, <OVERLAP> that would even be better? </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> couldn't you take </OVERLAP> um the ten drivers and you have H-one driver A H-one driver, <OVERLAP> B? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> perfect </OVERLAP> exactly. mhm. if you have the same person driving both routes, then you have that same characteristics in the driver affecting both answers and the differences would be due to the routes perhaps more. than just the driver differences. very good. </U>
+			<U WHO="S4"> um... on two-point-one-nine the T-value would that be twenty-point-one? </U>
+			<U WHO="S1"> mhm... two-point-one-nine is um you're not calculating a test statistic here but you're doing a confidence interval. </U>
+			<U WHO="S4"> yeah well don't you have to calculate the st- test statistics to get the confidence interval? </U>
+			<U WHO="S1"> no not_ but y- the confidence interval can be constructed by taking, this difference plus or minus a couple of these, and you forgot to put your S-P on here, okay? </U>
+			<U WHO="S4"> mhm. </U>
+			<U WHO="S1"> so look at_ again start getting your formula sheet out so you can </U>
+			<U WHO="S4"> i don't know where is that formula sheet when did you give it to us? </U>
+			<U WHO="S1"> do you have your packet from your exa- old exams and the confidence intervals? no excuse me the computer modules? <OVERLAP> it's in the back </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> is it in the </OVERLAP> back of that big packet we have? <OVERLAP> i keep mixing it in with my papers </OVERLAP>
+			</U>
+			<U WHO="S1"> the gold packet. mhm it is back there and it's also on the web if you wanna go on there and <U WHO="S4">
+					<OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> print it </OVERLAP> from there you can. </U>
+			<U WHO="S4"> okay it's on the web <U WHO="S1"> mhm. </U> and it's just called the </U>
+			<U WHO="S1"> um it's under, all the course info and i think it says formula sheets. </U>
+			<U WHO="S4"> okay. </U>
+			<U WHO="S1"> mhm you <OVERLAP> can print out a </OVERLAP> copy. </U>
+			<U WHO="S4">
+				<OVERLAP> that's probably </OVERLAP> a lot more helpful. </U>
+			<U WHO="S1"> mhm mhm okay. </U>
+			<U WHO="S4"> how do you put into the calculator what would be </U>
+			<U WHO="S1"> okay how_ i mean for calculators... you have the ability to enter data. does anyone else have a T-I that they maybe want a little more review of at all? do you have a T-I? </U>
+			<U WHO="S5"> i have an eighty-two. </U>
+			<U WHO="S1"> you have an eighty-two? </U>
+			<U WHO="S8"> yeah. </U>
+			<U WHO="S1"> yep have you_ do you know how to put data in, an- </U>
+			<U WHO="S8"> in a list? </U>
+			<U WHO="S1"> in a list <OVERLAP> and </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> yeah </OVERLAP>
+				</U> do all that? were you in one hundred, or not? no that's where we did it all too... in the eighty-five you also have the ability and it's all under the, stat button. <U WHO="S4"> okay </U> mkay? and under stat you have calculating things and editing things. <U WHO="S4"> uhuh. </U> so under edit, it says okay you're gonna edit two possible lists, or just one all you do is just keep those names and hit enter enter, and you've already got some data there. <U WHO="S4">
+					<OVERLAP> mhm. </OVERLAP>
+				</U>
+				<OVERLAP> okay </OVERLAP> you can enter your listing of, your differences, and put them in under all the Xs. </U>
+			<U WHO="S4"> wait listing of i- </U>
+			<U WHO="S1"> let's suppose you had, your differences like these... um suppose you wanted to get the average of these five numbers. <U WHO="S4"> okay. </U> okay so you can type in your eighteen, your twenty-four, i'm putting them in as Xs i'm putting on the thirty </U>
+			<U WHO="S4"> you're skipping are you skipping <OVERLAP> the Y? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> skipping the Ys </OVERLAP> for now, <U WHO="S4"> okay. </U> mhm twenty-one, and then a thirty-two. </U>
+			<U WHO="S4"> how do you skip do you just push P-M? </U>
+			<U WHO="S1"> yeah just down. <OVERLAP> okay? </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> okay. </OVERLAP>
+				</U> once they're entered (and if i) go further i'll see that there's nothing left after that so i've just got those numbers. <U WHO="S4"> okay. </U> then i can go back out you can go back to calculate so i'm gonna go back to stat, calculate, and there's_ there i'm getting the same two names those are the ones i wanna work with one-bar. i push one-bar, there's your X-bar, and there's your standard deviation. <U WHO="S4">
+					<OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> okay? </OVERLAP>
+			</U>
+			<U WHO="S1"> pretty nice right? </U>
+			<U WHO="S4"> yeah. </U>
+			<U WHO="S1"> when you go back to stat, um, hm hm hm hm hm... there is... there's insert sort there's clear. see the clear <OVERLAP> X and Y? </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> mhm. </OVERLAP>
+				</U> that's how you wanna press to get 'em all back to nothing there so you can enter data at the start. </U>
+			<U WHO="S4"> wait can i write <U WHO="S1"> mhm </U> i'll write this down. </U>
+			<U WHO="S1"> basically it's under stat and edit and stat and calc. </U>
+			<U WHO="S4"> okay. thanks </U>
+			<U WHO="S1">
+				<OVERLAP> so i'm looking at those two </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> can you show me real quick </OVERLAP>
+			</U>
+			<U WHO="S1"> mhm. when you guys have it the same eighty-twos, you wanna go under stat, and also do it under edit, so press edit, under stat, and you should have a listings there. L-one <OVERLAP> L-two L-three. </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> mhm mhm. </OVERLAP>
+				</U> pick one of those doesn't matter which one you wanna do and put your numbers in them. </U>
+			<U WHO="S7"> uh like just for the Xs? </U>
+			<U WHO="S1"> just for the Xs or if you have two sets put one in one and one in the other and you can analyze both of 'em but one at a time. <U WHO="S7"> okay. </U> okay? so you put in some data maybe you wanna put in your strain As or your differences if that's what_ if you've calculated your differences. </U>
+			<U WHO="S7"> i already_ <U WHO="S1"> okay </U> w- what am i trying to find out here? </U>
+			<U WHO="S1"> this is a pair design if it's a pair design you can enter your differences. <U WHO="S7"> mhm. </U> and if you put those in one of your lists, you can have the list do, your X-bar and your </U>
+			<U WHO="S4"> wait it's under stat i- i- we- i went to okay. here's stat. </U>
+			<U WHO="S1"> mhm then you always have to hit enter enter to just say yes those are the two variable names. <U WHO="S4"> oh </U> or just down down yeah there you go and now you can enter data. </U>
+			<U WHO="S3"> then what do you do? if you just fill in L- <OVERLAP> L </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> if </OVERLAP> you fill in your numbers, <U WHO="S3"> mhm. </U> then you wanna go back to stat, and go over to calculate and say i wanna calculate some things. <U WHO="S3"> mhm. </U> the main thing that you wanna do is one-bar, so go over to calculate </U>
+			<U WHO="S3"> how do i </U>
+			<U WHO="S1"> the ef- left and right arrows will get you moving back and forth, and there's one variable statistics, and then you specify at the end of that either L-one or whatever column it's in, it will automatically do it on L-one if you don't tell it, <U WHO="S3"> mhm. </U> otherwise you have to have one-bar and then put second function. <U WHO="S3"> mhm. </U> and put in that one </U>
+			<U WHO="S4"> how do you make it skip? like i can't make it skip. </U>
+			<U WHO="S1"> just go down. </U>
+			<U WHO="S4"> it doesn't. </U>
+			<U WHO="S1"> oh because you cleared out the one already it it only_ always just needs to be the one there, to hold a place but it doesn't have to be a number. that's part of your data. you wanna always enter Xs. </U>
+			<U WHO="S4"> i- if if i'm doing one list i'll always enter the Xs and then <U WHO="S1"> just yep mhm. </U> and then i go </U>
+			<U WHO="S1"> mhm <OVERLAP> then down. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> then just down. </OVERLAP>
+			</U>
+			<U WHO="S1"> yep there you go. </U>
+			<U WHO="S4"> oh <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> so </OVERLAP>
+				<U WHO="S1"> mhm. </U> what is this doing here? </U>
+			<U WHO="S1"> now what that says is that you're gonna call up to do s- summary measures, <U WHO="S7"> mhm. </U> if you want it on L-one, you can just hit enter. <U WHO="S7"> mhm. </U> if you want it on L-two or something else you have to do second function and specify L-two behind it. <U WHO="S7"> oh. </U> you can put in L-one just to show you what that looks like and that's what it should look like depending on which column you have. </U>
+			<U WHO="S7"> okay <OVERLAP> then just hit enter? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> hit enter, </OVERLAP> and it will give you X-bar and give you S. <U WHO="S7"> wow. </U> right there for you. <OVERLAP> okay? </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> neat. okay. </OVERLAP>
+				</U>
+				<OVERLAP> you don't have to do all that calculation by hand. </OVERLAP>
+			</U>
+			<U WHO="S4"> wait i i just_ i lost it again. </U>
+			<U WHO="S1">
+				<OVERLAP> mhm. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> like </OVERLAP> okay i don't even know where i am anymore. okay there stat enter enter, </U>
+			<U WHO="S1"> okay, if you need to just do quit. and quit out and try it again okay? edit, just go down down, you've got some numbers in there, okay you put three numbers in so far. <U WHO="S4"> yeah. </U> okay and you put one more once you've entered the last number, go back, you can either, just start out again at stat, and then you want calc </U>
+			<U WHO="S4"> mkay, calc. </U>
+			<U WHO="S1"> and whenever you get to this screen, <U WHO="S4">
+					<OVERLAP> yeah. </OVERLAP>
+				</U>
+				<OVERLAP> you want this thing </OVERLAP> cuz you can give different names to variables and you can keep 'em saved, just go down two with the down arrow key. </U>
+			<U WHO="S4"> one two </U>
+			<U WHO="S1"> mhm... and then you want to specify number one F-one. one variable summary measures... which is calc. <U WHO="S4"> oh okay </U> mhm <U WHO="S4"> okay </U> put one-bar mhm. </U>
+			<EVENT DUR="46:23" DESC="START SIMULTANEOUS CONVERSATION ONE"/>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S4"> thank you. </U>
+			<U WHO="S1"> and again we're_ you know we're not_ with homework you have the time to be able to calculate these things. <U WHO="S4"> mhm. </U> on an exam i'm not gonna have, a list of twenty numbers so that someone who doesn't have the ability to do it with a calculator is gonna hafta sit there and do, <U WHO="S4"> right. </U> all these squared things. </U>
+			<U WHO="S8"> which on- which one is standard deviation? </U>
+			<U WHO="S1"> you wanna use S cuz it's <U WHO="S8">
+					<OVERLAP> just </OVERLAP>
+				</U>
+				<OVERLAP> always </OVERLAP> gonna be a set of data. </U>
+			<U WHO="S8"> like S-X? </U>
+			<U WHO="S1"> yes <OVERLAP> mhm. </OVERLAP>
+				<U WHO="S8">
+					<OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> mhm. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> matched </OVERLAP> pair for these matched pair um... when we have_ it says we have sixteen different plots but there's eight pairs so we use eight as the number right? </U>
+			<EVENT DUR="46:49" DESC="END SIMULTANEOUS CONVERSATION ONE"/>
+			<EVENT DUR="46:20" DESC="START SIMULTANEOUS CONVERSATION TWO"/>
+			<U WHO="S9"> so do you know like for your um, large samples, when you use like the Z-test and then you have table three, </U>
+			<U WHO="S7"> table, what do you mean like with the, Z chart? </U>
+			<U WHO="S9"> yeah. </U>
+			<U WHO="S7"> yeah. </U>
+			<U WHO="S9"> like this thing. and then for the small ones, you can use the T and then do you use this one. </U>
+			<U WHO="S7"> right the T table </U>
+			<U WHO="S9"> okay and, okay.  </U>
+			<U WHO="S7"> and then, and small is supposed to be under thirty. and you just use this. </U>
+			<EVENT DUR="46:45" DESC="END SIMULTANEOUS CONVERSATION TWO"/>
+			<U WHO="S1"> correct good and that's a common, error that's done. in pair design, you always have pairing right? and even though i had eight farms with sixteen plots, eight is still the number i use as my N. </U>
+			<U WHO="S4"> as your N? </U>
+			<U WHO="S1"> because you're now really not looking at sixteen numbers you're gonna look at eight differences only. so those are the number of observations you have. </U>
+			<U WHO="S9"> so like how many pairs <OVERLAP> we have. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> how many </OVERLAP> pairs exactly correct <OVERLAP> correct. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> um, </OVERLAP> a question i don't know how_ where to go look like if i wanna get a tutor like is there any way <OVERLAP> or is it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well i saw </OVERLAP> a card out there with a sign right outside my door <U WHO="S4">
+					<OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> you might </OVERLAP> take a look at that otherwise some people advertise and if you_ i- my head G-S-I has some names and i've been forwarding people who ask about a tutor to her and she, gets them in contact and </U>
+			<U WHO="S4"> who's your head G-S-I? </U>
+			<U WHO="S1"> her name is Kim-Oanh, but you can email me and i'll forward it to her too. </U>
+			<U WHO="S4"> oh thank you so much. </U>
+			<U WHO="S1"> mhm. </U>
+			<U WHO="S7"> um i'm gonna go home and try and get this done <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP> where_ do you have the top one though so i can just, make a note have you let your your G-S-I know at all what happened yet or not? </U>
+			<U WHO="S7"> i haven't cuz i was hoping i would just <OVERLAP> be able to get it done </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> get it done </OVERLAP>
+				</U> get it done <OVERLAP> but </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm. </OVERLAP>
+				</U> i still might, i have, a few hours before my next class. </U>
+			<U WHO="S1"> you have a funny story don't you? </U>
+			<U WHO="S7"> oh God </U>
+			<U WHO="S1"> share it with them so they know what it is. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i have many bad stories about my stat homework. </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> so ridiculous. </OVERLAP> no no no no this is so funny i went to visit my dad in Pennsylvania which is like a six hour drive away, brought all_ first of all i'm the biggest nerd anyway <EVENT WHO="S1" DESC="LAUGH"/> because i brought all of my stuff right? so i had my backpack full with like all the stuff that i need all of my stat stuff all the stuff for these tests that i had this week, i get about halfway home about three hours into the drive and i'm like oh my god i left <OVERLAP> my entire backpack </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> on top of the car </OVERLAP>
+			</U>
+			<U WHO="S7"> th- no i left it at my dad's. <OVERLAP> i'm like </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> oh. </OVERLAP>
+				</U> oh my god, <U WHO="SU-f">
+					<EVENT DESC="LAUGH"/>
+				</U> so i stopped i got off at an exit_ i didn't tell you this part i got off at an exit called him from a pay phone and he was laughing at me he's like i can't believe you left this here you must be freaking out. i'm like mhm. <EVENT WHO="S8" DESC="LAUGH"/> so he he airmailed my backpack to me, i got it yesterday afternoon but like, i was already way behind in this and in uh, all my other classes that i have tests in so, <U WHO="SU-f"> oh </U> whatever </U>
+			<U WHO="SU-f">
+				<OVERLAP> jee- </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> listen </OVERLAP> to my story i'm still <OVERLAP> behind i </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> so funny </OVERLAP>
+			</U>
+			<U WHO="S4"> got this stomach infection i had to go to the ho- emergency room, like this was like three weeks ago. i'm still trying to catch up i missed an exam and i had a paper due and i got behind in stats i'm still like behind on my <OVERLAP> stats like trying to catch up </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh life. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but my G-S-I's like really nice </OVERLAP>
+			</U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> then i still have to do this make up <OVERLAP> test it's just one thing it's just one thing after another. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we're never prepared are we? </OVERLAP>
+			</U>
+			<U WHO="SU-f"> college'll do it to you. </U>
+			<U WHO="S7"> thank you. </U>
+			<U WHO="S1"> i gotta go teach eleven but thank you. </U>
+			<U WHO="SS"> thank you. </U>
+			<U WHO="S1"> mhm. </U>
+			<U WHO="S7">
+				<OVERLAP> should i </OVERLAP>
+			</U>
+			<U WHO="S4"> oh <OVERLAP> i have </OVERLAP> a question. </U>
+			<U WHO="S1"> yes. </U>
+			<EVENT DUR="49:11" DESC="START SIMULTANEOUS CONVERSATION ONE"/>
+			<U WHO="S4"> um i have to_ and then i have to go away this weekend what should i do? i have to leave tomorrow morning so what should i do? i wanna_ i'm going on a plane and i wanna do a bunch of practice for stats <U WHO="S1">
+					<OVERLAP> mhm. </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> what sh- what would you recommend? </U>
+			<U WHO="S1"> well i would look at the exam two that's in the back <U WHO="S4"> okay. </U> of your book a- an- <OVERLAP> of the packet </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> of that model? </OVERLAP>
+			</U>
+			<U WHO="S1"> exactly um we are going through tentatively section six of chapter eleven, okay? in terms of homework and so i'll be finishing that, topic on Friday. <U WHO="S4"> okay </U> mhm. <U WHO="S4"> sections </U> se- eleven_ se- chapter eleven one through six. <U WHO="S4"> okay. </U> mhm. </U>
+			<U WHO="S4"> is that gonna be on the exam? </U>
+			<U WHO="S1"> yep mhm mhm... okay what do i need to sign so i can go teach? </U>
+			<EVENT DUR="49:49" DESC="END SIMULTANEOUS CONVERSATION ONE"/>
+			<EVENT DUR="49:28" DESC="START SIMULTANEOUS CONVERSATION TWO"/>
+			<U WHO="S3"> to find like the P-value on that, do we just use this? </U>
+			<U WHO="S7"> you use your observed value that you got from the test statistic <U WHO="S3"> right. </U> and then you look that up in the, in the table. </U>
+			<U WHO="S3"> the T-table or </U>
+			<U WHO="S7"> it depends on which test you did <OVERLAP> if you did the </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> okay. </OVERLAP>
+				</U> the <OVERLAP> T-test </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> T-test use the </OVERLAP>
+				</U> then you look it up in the T-table. <U WHO="S3"> okay </U> the observed value that you got. </U>
+			<U WHO="S3"> alright. </U>
+			<EVENT DUR="49:49" DESC="END SIMULTANEOUS CONVERSATION TWO"/>
+			<U WHO="S3"> so X-bar is our D-bar? oops sorry. so if </U>
+			<U WHO="S1"> X-bar is D-bar if there were differences correct. good. </U>
+			<U WHO="S3"> okay S-X equals </U>
+			<EVENT DUR=":23" DESC="RECORDING-RELATED CONVERSATION"/>
+			<U WHO="S7"> um, so if i for some reason can't turn it sh- should i still email her or just </U>
+			<U WHO="S1"> well i wrote on the top but i would email her and let her know anyway just so it's a- aware hi Kim. </U>
+			<U WHO="S11"> this one's eight nine and twelve and i- i actually_ but i'm doing chapters three and eleven this time <U WHO="S1"> mhm </U> and it- it doesn't even have the same chapters that i'm doing </U>
+			<U WHO="S1"> okay, i i wrote you an email back and when it says homework eight it doesn't mean chapter eight. </U>
+			<U WHO="S11"> uh i understand i- <OVERLAP> i looked into this edition and it doesn't have </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> okay okay okay okay. </OVERLAP>
+				</U> the same chapters. </U>
+			<U WHO="S1"> well you can look on my computer cuz basically you just have to get into the server from last, semester and i still don't_ will not guarantee that all the problems are there cuz <OVERLAP> you know </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> i-i think </OVERLAP> i looked_ though_ but i- i was working here yesterday but i couldn't_ somehow there's n- not homework solutions ten, in the server... or where they might be? i couldn't find the <OVERLAP> solutions </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> can i check one answer? </OVERLAP>
+				<U WHO="S1"> mhm. </U> when_ do you have time to check </U>
+			<U WHO="S1"> i have to go teach at eleven and i'm <OVERLAP> already a little late i'm sorry. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay never mind. </OVERLAP>
+			</U>
+			<U WHO="S1"> um </U>
+			<U WHO="S11"> could i find you sometime later at maybe t- around uh_ between two-thirty and three? </U>
+			<U WHO="S1"> i'm here two-thirty to three. okay? <U WHO="S11"> alright. </U> and see if you can find it here, or look on a different, disk that maybe i have and if you_ but um you know i only have what i have and otherwise you'll have to type up some solutions, okay? <U WHO="S11"> okay </U> okay alrighty i'll leave this here in case you wanna come back but i'll be back between two and three. <U WHO="S11"> okay <OVERLAP> thank you. </OVERLAP>
+				</U>
+				<OVERLAP> okay. </OVERLAP> yep. </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

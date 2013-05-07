@@ -1,0 +1,2040 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="ofc150mu042">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Astronomy Peer Tutorial </TITLE>
+				<TITLE> Rackham Div: PS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> OFC150MU042 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="102">
+						<DATE> October 26, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Matt Murphy </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Joanne Morgan </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Brooke Mays, Rodney Pratt </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Aaron Stark </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Amy Burke, Rita Simpson </NAME>
+							<RESP> Final Editing, 7/26/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="12"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="12"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SU, Tutor" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NRN" ROLE="SU, Tutor" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> MAC </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Tutor" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Tutor" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Tutor" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Tutor" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Tutor" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-3" LANG="NS" ROLE="SU, Tutor" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-5" LANG="NS" ROLE="SU, Tutor" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-7" LANG="NS" ROLE="SU, Tutor" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-8" LANG="NS" ROLE="SU, Tutor" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Student Office, Dennison Building </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT DESC="BACKGROUND CONVERSATIONS THROUGHOUT TRANSCRIPT"/>
+			<U WHO="S1"> so is this Kelvin? <OVERLAP> is that right? </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> um, John, </OVERLAP>
+				</U> oh John Munt. </U>
+			<U WHO="S2"> yeah, (xx) <U WHO="S1"> oh wow </U> so i have to (xx) yeah, (xx) </U>
+			<U WHO="S1"> okay mkay </U>
+			<U WHO="S1"> yeah, (xx) <OVERLAP> so, you? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> can i have, that back for a second? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> sure </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay, yes, </OVERLAP>
+				<U WHO="S1"> alright </U> i was working on this forever and i was getting all confused so i just had to stop, cuz </U>
+			<U WHO="S1"> okay, Wien's Law which is uh what is it like one over lambda-max equals, or actually it's like zero-point-two-nine isn't that what it is? something. do you have your book? </U>
+			<U WHO="S2"> yes. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S2"> see i understand the concept, but i don't understand (xx) </U>
+			<U WHO="S1"> okay. <EVENT DUR=":17" DESC="PAUSE WHILE READING"/> here's your book, do you want, it? <U WHO="SU-m"> oh yeah </U> (xx) i'll leave it here </U>
+			<U WHO="SU-m"> see the real reason (xx) they're recording us, sometimes you get a little abusive of the tutors <U WHO="S2"> oh wow </U> (just) smack 'em around if they don't know the answers </U>
+			<U WHO="S2"> maybe i should step outside, cuz i don't you know (xx) </U>
+			<U WHO="SU-m"> so you know </U>
+			<U WHO="S1"> it's actually_ they're actually uh very uh, blatantly bugging the office, so <EVENT DESC="LAUGH"/> um, okay so, so Wien's Law <PAUSE DUR=":04"/> so, <SEG TYPE="READING"> the second radiation law's related (xx) so hot stars look blue and cool stars look red, Wien's Law tells us that things like wavelength (xx) s- star </SEG> (it says that, three thousand over T of N) so <SEG TYPE="READING"> what is the wavelength based on radiation? </SEG> um, <SEG TYPE="READING"> for example (Log, Hayes) how do stars create, these two laws (xx) </SEG> okay so now um, so what does it ask? what </U>
+			<U WHO="S2"> okay the continuous structure <U WHO="S1"> mhm </U> emission (xx) and i was thinking, first i was thinking that (continuous) yes <U WHO="S1"> mhm </U> because, (xx) quasar extended, <U WHO="S1"> mhm </U> it's easier to do than (xx) <EVENT DESC="LAUGH"/> um, and i was also thinking, that, there's a line in the book, that says, (xx) recognize (xx) stars. <U WHO="S1"> right </U> but then, it would also apply to, this is where i get confused. </U>
+			<U WHO="S1"> the emission? </U>
+			<U WHO="S2"> yeah because it seems like it would be all of 'em if it's, continuous (emission spectra) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i don't think that </OVERLAP> ma- might make sense. okay what causes an emission spectra? </U>
+			<U WHO="S2"> it's, the, the spectrum's going through a, fairly dense heat. </U>
+			<U WHO="S1"> okay. so it's going, like, the um... lambda-max that's, the, that's the wavelength of the maximum, on it, that's our radius (xx) T, as far as temperature. so, well let's think though, okay so, what causes absorption again? </U>
+			<U WHO="S2"> we're in a continuous spectrum, and it's going through, some kinda gas i can't remember </U>
+			<U WHO="S1"> okay like, hot dense gas <U WHO="S2">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> or something? </OVERLAP> alright so we actually know these. where are they back here somewhere? radio (xx) <EVENT DUR=":09 PAUSE WHILE READING"/> mm, there's something there, light and pulse strokes? <EVENT DUR=":09 PAUSE WHILE READING"/> it think it's the, okay blah blah blah </U>
+			<U WHO="S2"> so, okay </U>
+			<U WHO="S1"> the (original) is emitted by the gas, okay? so, is the absorption, is, emitted, by </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> it's still emitted by the source, <OVERLAP> it's going through </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so you're still seeing the, source </OVERLAP> but the, whatever the um, gas is is taking out a couple lines. </U>
+			<U WHO="S2"> okay and that's, the, that's how you can tell which, element it is? </U>
+			<U WHO="S1"> yeah yes. </U>
+			<U WHO="S2"> because, certain elements will absorb certain, photons <U WHO="S1"> right </U> or whatever lines (xx) <U WHO="S1"> mhm </U> it's the same for like <OVERLAP> emission though </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so that's_ </OVERLAP> but for emission you're actually viewing, the um, i think you're actually (given something that comes out) <U WHO="S2"> (xx) the gas, </U> right so um, i'm, let's, make sure, understand page fifty, let me show you, one-thirty-one, (xx) <PAUSE DUR=":05"/> here's absorption, okay um, these bond (with that) <SEG TYPE="READING"> (especially with neon sign,) (xx) </SEG>
+				<U WHO="S2"> this is where i get confused. </U> so the pinkish-purple, color, (wait, doesn't it question) something about the, mercury vapor (xx) </U>
+			<U WHO="S2"> yeah that's where i got it from, (xx) they're both emission, lines. (xx) piece, um, for spectrum. um, i was saying, i wanted to say yes, <U WHO="S1"> mhm </U> because, that would be hotter than, <U WHO="S1"> (right) </U> um, i don't know and, this law with that law (xx) </U>
+			<U WHO="S1"> mhm, um <SEG TYPE="READING"> by (studying) the spectral lines we can identify the elements </SEG> uh-huh-huh-huh-huh, i wanna say that it is all, three of them. </U>
+			<U WHO="S2"> okay do these (xx) right here, these two, um, <SEG TYPE="READING"> emission spectra, solaria, gas will be excited (xx) </SEG> so that means it's hot, <U WHO="S1"> mhm </U> but if it's hot, it's not gonna be red, is it? </U>
+			<U WHO="S1"> um, it depends how hot it is you know there's like, different degrees of hot (xx) </U>
+			<U WHO="S2"> (you see, i was confused) (xx) (red so then) </U>
+			<U WHO="S1"> okay so you said_ okay so, the neon tube is red so it's cooler than, the mercury tube, </U>
+			<U WHO="S2"> but there'd still be an emission, line so (xx) </U>
+			<U WHO="S1"> yeah (it's) just different, degrees of the emission. and so i mean if you're_ okay so if this is emission, and you're saying that even if you can say, that this bright red is cooler than that, and you're using Wien's Law. </U>
+			<U WHO="S2"> you can, tell the relative temperature. </U>
+			<U WHO="S1"> yeah yeah </U>
+			<U WHO="S2"> which is (xx) okay. (i wanna deal with that first.) </U>
+			<U WHO="S1"> mkay... why don't_ lemme just, lemme just consult, Charlie? wanna um okay if you've got, <SIC> threes </SIC> types of absorption you got continuous or, three types of emissions, <U WHO="S3"> mm </U> spectrum, <EVENT WHO="S1" DESC="LAUGH"/>
+				<U WHO="S3"> yeah </U> continuous absorption and emission <U WHO="S3"> uhuh </U> and you've got Wien's Law, Wien's Law <U WHO="S3"> uhuh </U> does that apply to all of them, or only a, couple of 'em? </U>
+			<U WHO="S3"> um, Wien's Law only applies to continuous <U WHO="S1"> (does it?) </U> spectra alright? <U WHO="S2"> okay </U> um, well, that's not no no i'm sorry, <U WHO="S1">
+					<OVERLAP> (xx) </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> i'm wrong. </OVERLAP> Wien's Law only applies to black bodies, alright? <U WHO="S2"> okay <EVENT DESC="LAUGH"/>
+				</U> lemme, lemme lemme give you this alright? let me say it like this, a black body, ba- <U WHO="S1"> i had to get up </U> yes that's cool. a black body is is is in a sense a perfect emitter okay? any energy that comes in it absorbs, and any abs- energy absorbs within the mass, so basically, um, the_ i mean it's it's the perfect emitter okay? you can't, you can't get uh, more, you can't get, more protons from anything than a black body at a given, at a given uh, at a given (time) the the, um, so, wha- what happens is, Wien's Law applies to a black body and it describes a black body. now, the thing about, the only bad thing about a black body is there's no such thing physically, you know. however, there are a lot of things that are very very close. um, they yeah it does give off a continuous spectra, however things like um, there's other types of thi- there's uh things you haven't dealt with like (xx) <U WHO="S1"> by (xx) </U> yeah <EVENT WHO="S2" DESC="LAUGH"/> but, they give off continuous spectra too but it's just not, uh, i- i- it's uh, a different kind, yeah, so uh, Wien's Law applies to a bla- and where's our Wien's Law in here? it's a, sigma-T over four. </U>
+			<U WHO="S2"> (xx) one twenty-six, okay </U>
+			<U WHO="S3"> one twenty-six? <U WHO="S2"> yeah </U> yeah, so this says, the energy, is equal, the energy given off, is equal, yeah, oh, yeah, okay this is the uh, Wien's Law is the, the maximum this is, they're, they're similar in the sense that this, the energy of (xx) is equal to, the temperature to the fourth power. so that means you increase something in temperature by, two, increase it, two, increase it two times two times two times two. so uh, you can see we're just giving off energy, from uh uh with a black body, in- increased temperature increased energy (xx) that's why (xx) Wien's Law, gives you the, the maximum, the wavelength the, if you look at a s- if you look at spectra, basically what a spectra is, is they say at this wavelength i got, a hundred photons, at this wavelength i got two hundred photons, this is what it's saying right here. <U WHO="S2"> oh, okay </U> so this is the sh- this is a sh- uh a longer wavelength, so it's saying i have less photons here, than i'm dealing with here. so you know basically, there's a little crou- counter here it's going click, every time a photon (going) click click click click, and right here you're know (you'll) say i'll just say, a hundred thousand photons right here at the, at a blue wavelength which is you know about what is this, four hundred fifty nanometers, and you're getting say, five thousand right here, uh seven hundred nanometers, and that's all a spectrum is. it just gives you, the amount of photons (xx) </U>
+			<U WHO="S1"> i think it's only uh, continuous. <U WHO="S3"> hm </U> because uh, Wien's Law, only applies to black body, <U WHO="SU-m"> right </U> which is continuous. </U>
+			<U WHO="S3"> right, yeah but, yeah that's that's true but see Wien's Law doesn't apply to all types of continuous spectra. yeah but for (no-) </U>
+			<U WHO="S1"> well, but for her, for her purposes, it'd probably be fine. um, let me just see. </U>
+			<U WHO="S2"> but then i don't understand why it couldn't be applied to absorption and emission, </U>
+			<U WHO="S3"> because, the reason is is because </U>
+			<U WHO="S1"> it's not continu- it's not continual? </U>
+			<U WHO="S3"> well, what happens is, you know what causes an emission law right? </U>
+			<U WHO="S2"> yeah, it's, through gas </U>
+			<U WHO="S3"> yeah so you have a a cloud of gas, what happens is there's a star behind this cloud of gas right? lets off radiation, this radiation and what happens in the gas actually, y- you have a little atom, what causes an atom to emit radiation? </U>
+			<U WHO="S2"> it can't absorb it? </U>
+			<U WHO="S3"> it absorbs it first sure, but after that <PAUSE DUR=":04"/> mkay, <U WHO="S2"> (xx) </U> yeah, what happens is um, you know atoms right? you have a, you have a nucleus at the center you have electron <U WHO="S2"> mhm </U> what happens as a photon comes in, hits the electrons, the electron just basically, it jum- it gets more, energy, okay? and, just because of nature it gets pulled to the small center it just has all this energy, and a little while later you get a few seconds, at the most, it jumps back down (xx) </U>
+			<U WHO="S1"> maybe you, it doesn't apply to the other ones. cuz you're not getting the entire spectrum. <U WHO="S3"> well if <OVERLAP> thi- if this (xx) </OVERLAP>
+				</U>
+				<OVERLAP> there's no way that you could, </OVERLAP> determine the max wavelength just cuz you don't have it, it's not complete </U>
+			<U WHO="S3"> well y- the thing is is in absorption and emission, is uh, comes in at one wavelength, and that's why. like, like for instance here let me tell you, this is a this is an emission line, this is um absorb- or emission spectrum absorption ste- spectrum. i can't i can't apply this, here because when i, when the, the photon comes out from within the individual atoms, there's no temperature associated with it. there's just it just is, it's pure energy </U>
+			<U WHO="S2"> those could just be used to show what element it is? </U>
+			<U WHO="S3"> right exactly </U>
+			<U WHO="S2"> that's not, for temperature </U>
+			<U WHO="S3"> right i mean this, these, you can give off an emission spectrum at, you know two degrees you know uh, twenty-three degrees Fahrenheit or a million degrees Fahrenheit. you can have the same emission. you know <U WHO="S2"> but it wouldn't be, </U> i mean, well you, yeah i mean you can give 'em off in different temperatures, like at you know, five thousand, degrees Fahrenheit or, a million degrees Fahrenheit, <OVERLAP> you can, give give em off </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> so, the reason why </OVERLAP> it kinda attracted this one, is because, it has all of the colors, and, whatever, it tends to be, like if it's a higher intensity t could be (considered) higher, so you can kinda tell? </U>
+			<U WHO="S3"> right but yeah yeah because, the reason is just, when you look at this spectrum, what y- what you're gonna see is thing you're gonna see this curve this is like this is called a black body, it's like you look at the sun this is what it, the spectra looks like, okay? um, but see the emission, emission, uh, emission lines, if you looked at a spectra of just emission lines what you see, is, you'd see something like this <EVENT DUR=":04" DESC="PAUSE WHILE WRITING"/> straight... and this would be different wavelengths, and that's all you'd see if it was just emission lines, okay. <U WHO="S2"> right </U> and, you can't associate a maximum wavelength to it, because, all, all that's all that all an emission line tells you, is, it says hey there's hydrogen, and something's making it, kick out photons. <U WHO="S2"> okay </U> all absorption's, spectra tells you is, hey there's hydrogen there blocking, uh, there's a star behind that, cloud of hydrogen, and i can tell because i see these absorption lines. <U WHO="S2"> okay </U> do you understand that? </U>
+			<U WHO="S2"> okay... hm, here, okay let me just get this real quick so i can (xx) um, so that means, can't use it to tell the relative temperature, because these are emissions lines, <U WHO="S3"> mhm </U> and this just shows what kind, of element it is and the temperature of, whatever. <U WHO="S3"> right </U> alright, okay i got that now so i'll leave that_ oh yeah. this, i don't get this, calculating stuff. i'm not good at calculating anything. i don't (don't even have a calculator.) i forgot about that part <U WHO="S3"> mkay </U> (so) </U>
+			<U WHO="S3"> mkay well, what do i wanna do first? we'll look at this and we say, <SEG TYPE="READING"> calculate lambda-max for the following stars and estimate which color dominates the visual spectrum </SEG> okay, so, what what do we wanna do here? </U>
+			<U WHO="S2"> compute? </U>
+			<U WHO="S3"> well, wanna calculate the maximum wavelength, at a given temperature, okay and this is, this kind of ties into the last problem now what kinds of spectra do you think these guys give off? in between the (xx) and (xx) </U>
+			<U WHO="S2"> hm, okay. <PAUSE DUR=":04"/> we just talked about this today too. i have no idea </U>
+			<U WHO="S3"> okay, um, let me ask you this </U>
+			<U WHO="S2"> if it, well it depends on the lithium string on it right? if you're looking right at it it's gonna be absorption and if you're looking, not directly at it it's gonna be emission? </U>
+			<U WHO="S3"> not really um, if, if you, lemme lemme put it like this, you have a s- you have the sun, okay? <U WHO="S2"> mhm </U> or sort some sort of star. and, you uh, you have_ i mean you know how a star works right? fusion on <U WHO="S2">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> (the inside) </OVERLAP>
+				<U WHO="S2"> mhm </U> okay, what you have is uh, you start out, with a star and it starts with you know hydrogen (xx) you know hydrogen helium, and all the sudden starts fusion, fusion i- these different elements you know fuses you hi- put <EVENT DESC="SOUND EFFECT"/> two hydrogens together you get helium you put <EVENT DESC="SOUND EFFECT"/> two heliums together you get carbon <EVENT DESC="SOUND EFFECT"/> two carbons you get oxygen and on and on and on. alright. well you get all these different elements, so, what happened is you just see uh, what you're gonna see, is, you're gonna see, some sort of_ you're gonna see a spectrum, that's, going to be, <OVERLAP> associated </OVERLAP>
+				<U WHO="S2">
+					<OVERLAP> but can, </OVERLAP> can you see them? (can you associate) (xx) because, um, (xx) more elements you can have? </U> yeah um, o- okay well, alright. let me explain this to you, you know okay you know i i i'm trying to think. i've never i've never been asked a question like this so that's why i'm kinda struggling i'm trying to get through here, um, what happened? let me put it like this, inside a star, at the center is like fifteen million times alright? it's really hot, and uh in that center you know, you know atoms how they each have their electron's outer shell? you know what ionization is? </U>
+			<U WHO="S2"> (when) you're using electrons? </U>
+			<U WHO="S3"> exactly. exactly so you have a hydrogen atom, if it gets ionized what is the photon comes in, kicks that electron out so hard, it just goes away, it doesn't come back to the, um, so what happens is, you can you can imagine can do that with hydrogen, well you can do that with helium too, all you gotta do is kick out two electrons, and then you go on and on and on, you know you can keep doing any element you want. all you gotta do is basically, kick you know, kick out all the electrons in the, the shell, and absorb it. so, what happens is inside the sun, there really isn't any elements, okay? what this, what you see in there is just, you know a bunch of particles you know, and this is why it kinda causes it, and these particles are very hot cuz of the fusion (xx) and what happens is is uh </U>
+			<U WHO="S1"> does anybody remember how to derive, Wien's Law? </U>
+			<U WHO="SU-f"> Wien's Law? <U WHO="S1"> yeah </U> is from </U>
+			<U WHO="SU-f"> oh, isn't that in the thermo book? </U>
+			<U WHO="S1"> is it in the thermo book? oh, probably is, okay. can i borrow your thermo book <OVERLAP> Charlie? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S1"> i sent a nice letter to uh, the publisher </U>
+			<U WHO="S3"> oh yeah i did too </U>
+			<U WHO="SU-f"> i need to too because my book <EVENT WHO="SU-f" DESC="LAUGH"/>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> i i actually sent it to the </OVERLAP> sales <OVERLAP> (representative) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> i y- i </OVERLAP> no i should because, i bought it years ago and the same problem, <OVERLAP> happened </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm. </OVERLAP> you should just take this one and go <EVENT DESC="SOUND EFFECT"/> (when you're in there and just see if it would work) <U WHO="S3"> yeah </U> you could, i won't do that though. </U>
+			<U WHO="S3"> yeah i got a new one but um, so what happens is, let me put it this way, okay absorption spectra and emission spectra can only happen when you have, atoms around, and whole atoms okay? not, <U WHO="S2">
+					<OVERLAP> not p- (xx) </OVERLAP>
+				</U>
+				<OVERLAP> not (xx) </OVERLAP> continuous spectra happen, when, your temperatures uh, are, very hot, and you have uh, just, you, instead of having atoms you have like electrons and, protons and neutrons all going around the, in general what you have is electrons going around, and these protons are just, the the sh- the nucleus, are just sitting there cuz i mean, electrons are very light you know it's just like, you know the the nucleus is like, a big rock, these, electrons are little ping-pong balls like, no matter how hard those Ping-Pong balls against this big old rock like the rock, it's not gonna move, that's what it's like, okay but these electrons (xx) kick off, they're bouncing around, all this heat's being created, and what's this, what this is giving off, is the continuous spectrum, okay? and then, what happens is you're gonn seeing in a, a spectrum of the sun. </U>
+			<U WHO="S2"> did we (xx) this is that's, oh you said (xx) is that, <OVERLAP> that's probably (data) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah um, the what what </OVERLAP> you'll see is, what basically happens in like, (xx) what it is is you get you get some sort of continuum spectra, continuous spectra, and then on top of that you have, like an emission line and maybe an absorption line </U>
+			<U WHO="S2"> then you get a fluorescent, (xx) <U WHO="S3"> a bulb? yeah well you saw </U> (you get the) continuous emission </U>
+			<U WHO="S3"> yeah you w- oh oh oh well it's yeah yeah, right, and then you looked, did you look at like a helium lamp did you see the pattern <U WHO="S2"> okay i really did not <OVERLAP> understand </OVERLAP>
+				</U>
+				<OVERLAP> yeah wha- what </OVERLAP> you get is something like this, right? but what you'll get in uh, yeah (in this one) what you'll get is like uh, basically if you look at it like this say this is a continuous spectrum, you'll see like right here this'll be really bright. and this here will be really dark something like this, and that's, that's because of the emission and absorption, <U WHO="S2"> mhm </U> and that's usually due to some cloud or something around it, well, so what, am i_ are you following me here? </U>
+			<U WHO="S2"> yeah, it's just it takes me a while to get it <U WHO="S3">
+					<OVERLAP> that's okay </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> um i still don't understand (that) </U>
+			<U WHO="S3"> so what what we're looking for here, we're looking for something like s- s- these are all stars, okay? and these stars are red hot and these are these are, this is the surface temperature of the star, this isn't the (xx) so what we have to look at here is you know well, (these are things that are pretty well known...) pretty well missed um, </U>
+			<U WHO="S2"> how do you calculate </U>
+			<U WHO="S3"> hm? </U>
+			<U WHO="S2"> wait, just a sec </U>
+			<U WHO="S3"> well what kind of, spectrum, does a star give off? </U>
+			<U WHO="S1"> one-point-one-four (xx) i think that's... cuz, they say what is the Wein's Law applied to, continuous emission (xx) </U>
+			<U WHO="S7"> (it would) be continuous, wouldn't it? </U>
+			<U WHO="S1"> yeah i don't know if it applies to particles <U WHO="S7"> no </U> i don't think it does. <OVERLAP> but i was trying to find (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> yeah they're supposed to </OVERLAP> i think it comes from the the black body (xx) </U>
+			<U WHO="S1"> yeah cuz it comes from, the just the relation... okay. </U>
+			<U WHO="SU-f"> that makes sense. </U>
+			<U WHO="S1"> yeah, okay, i'm almost positive did you, get beyond that? yeah, because the relation itself, comes from relating um, lambda-max and temperature, of a black body. so this, relationship, is just like if you take, you know if you get a spectrum for a black body, <U WHO="SU-f"> mhm </U> and you find, measure lambda-max divided by the temperature then multiply by temperature you're always gonna get this one. so i think it's only, continuous. that make sense? </U>
+			<U WHO="S2"> vaguely, yeah. </U>
+			<U WHO="S1"> i mean it's like, just, i mean, are you confused about? </U>
+			<U WHO="S2"> no, i kinda got it. <OVERLAP> kind, kinda, kinda's better than none. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> where's where's the where's </OVERLAP> the kinda now? okay. </U>
+			<U WHO="S3"> mkay </U>
+			<U WHO="S2"> so that's just trying to figure out how to calculate the <U WHO="S3"> yeah so </U> (xx) </U>
+			<U WHO="S3"> yeah, alright, s- stars give off, what kind of uh, this would be uh? </U>
+			<U WHO="S2"> they give off what kind of emission? </U>
+			<U WHO="S3"> yeah, you've probably found (xx) there? what kind of radiation was i talking about earlier? <U WHO="S2"> black body </U> yeah, starts to give off black body <U WHO="S2">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> radiation. </OVERLAP> and in fact most ob- uh objects do like uh if have one of those uh the coil you see on the old stoves the electric stoves you have the coils? okay? same thing except lower temperature. so you know (xx) </U>
+			<U WHO="S1"> are you just trying to calculate </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="S1"> see it's just using that equation in the back. what is it three (xx) equation, <U WHO="S2"> yeah </U> plug in your temperature </U>
+			<U WHO="S2"> (xx) i didn't bring my calculator i forgot about this part, <U WHO="S3"> what's this? </U> okay. <SEG TYPE="READING"> one (xx) </SEG> um, okay </U>
+			<U WHO="S1"> it's go- it's in scientific notation, so you'll have to change it. <U WHO="S2"> (it's in scientific nota-) </U> it might be good? <U WHO="S2"> yeah </U> okay now </U>
+			<U WHO="S2"> yeah, yeah there's, alright so </U>
+			<U WHO="S1"> you're whoa, alright (xx) oh my gosh they had this awesome laser pointer at um, Costco <EVENT DESC="LAUGH"/> it um, </U>
+			<U WHO="S3"> does it have a little arrow? </U>
+			<U WHO="S1"> it has arrows, and ha- like it has a dot with two arrows. it has a galaxy, a circle with a dot in it, it's really cool. </U>
+			<U WHO="S3"> (are you gonna switch) <U WHO="S1"> mhm </U> wow, how much is it? </U>
+			<U WHO="S1"> twenty bucks. </U>
+			<U WHO="S3"> really? <EVENT DESC="LAUGH"/> ooh </U>
+			<U WHO="S3"> do you have to have a membership to work there? or to go there? </U>
+			<U WHO="S1"> or have a, boyfriend that has, a, dad who has a membership, <EVENT DESC="LAUGH"/> yeah </U>
+			<U WHO="SU-m"> that's pretty cool, i didn't think about it, like, twenty bucks really? </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="SU-m"> does it like (columnate it) or is it like, like when you go to the walls is it like (a big) blur? </U>
+			<U WHO="S1"> i don't know. </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1"> and that's gonna give you that, that's like three hundred nanometers. </U>
+			<EVENT DUR=":11" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S2"> wait no, there's three thousand nanometers? </U>
+			<U WHO="S1"> this is this is A-H yeah three that's yeah, that's three hundred <OVERLAP> distance </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1"> that's good, that's in the visibl- almost in the vi- visible range. </U>
+			<U WHO="S2"> okay. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S2"> oops, i should have, how do you know that, you need to (xx) </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> i just inhaled like, air sorry (xx) </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> you just inhaled, air um, hey, m- i just get hit on the head. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> i'm like oh, (xx) </U>
+			<U WHO="S7"> (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> you can't tell, <U WHO="S7"> (xx) </U> he'll be like, i don't, he used to be really silly and i was like, (just enjoy it) </U>
+			<U WHO="S7"> you get, after everyone leaves, we can, pretend like we got into a fight. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> okay well, let's think about this, <U WHO="S2"> mhm </U> well was that, okay what do we got in here? <SEG TYPE="READING"> three times ten-to-the-two, (xx) </SEG> doesn't look too good. </U>
+			<U WHO="S2"> i just put that and divided it <U WHO="SU-m"> mkay </U> cuz that's the temperature right? so this, divided by (that) </U>
+			<U WHO="S3"> it looks about right. so what's the (xx) over there? </U>
+			<U WHO="S1"> (xx) over there </U>
+			<U WHO="S3"> oh the nanometers okay, this isn't <OVERLAP> nanometers </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> i know </OVERLAP> (xx) </U> yeah. </U>
+			<U WHO="S2"> (xx) so the uh (xx) </U>
+			<U WHO="S3"> so what's this, this is three times ten-to-the-two, that's about three, that's what, so, how many nanometers, in scientific notation. </U>
+			<U WHO="S2"> not, i can't, see it in my head </U>
+			<U WHO="S3"> okay, well it won't be (written down) let's just, you know <OVERLAP> so th- </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> um, </OVERLAP> six hundred? </U>
+			<U WHO="S3"> uhuh right. and </U>
+			<U WHO="S2"> and this would be, five hundred and seventeen? </U>
+			<U WHO="S3"> yup, <OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> and </OVERLAP> a thousand? </U>
+			<U WHO="S3"> yup, mkay, so what we wanna do we wanna look through okay and say what, this is the (P quadrent) this is where the m- most photons will be emitted, emitted by these stars. and uh, that's gonna tell us something pretty important, okay? so we say you know, well let's just look uh, let's look here. alright so </U>
+			<U WHO="S2"> okay, that's what i was looking for (xx) </U>
+			<U WHO="S3"> yeah, so what does it look like? this first one where does it look like it'd fit? </U>
+			<U WHO="S2"> three hundred millime- millimeters from there <U WHO="S3"> okay </U> that would be right in here </U>
+			<U WHO="S3"> right and yeah i mean </U>
+			<U WHO="S2"> ultraviolet? </U>
+			<U WHO="S3"> yep, right, exactly </U>
+			<U WHO="S2"> hm, i knew it said zero </U>
+			<U WHO="S3"> so yeah i- um, color, it's U- it won't be U-V, um but what color is the closest to that, like in this right here? </U>
+			<U WHO="S2"> there? </U>
+			<U WHO="S3"> yeah, i mean yo- ultraviolet's correct for that, <U WHO="S2"> uh, okay </U> i mean ultraviolet's the closest quote unquote color cuz it's, <U WHO="S2"> okay </U> we can't really give color to violet, you know </U>
+			<U WHO="S2"> okay, (xx) and seventeen, <U WHO="S3"> okay </U> five hundred </U>
+			<U WHO="S3"> five hundred so, what's, what is it, five hundred and seventeen? so uhh, you know it's </U>
+			<U WHO="S2"> i know it's part of the other one </U>
+			<U WHO="S3"> yeah so let's see there's about f- (xx) ruler or a pen actually if you see, yeah so what would happen here we have uh, okay, so here's the distance, and this is about halfway, you <U WHO="S2">
+					<OVERLAP> this would be the green </OVERLAP>
+				</U>
+				<OVERLAP> know it's a little less than half </OVERLAP> it's yeah, it's right in the green, (xx) <U WHO="S2"> okay </U> so </U>
+			<U WHO="S2"> i'm still i still (wanna make sense) (xx) i know it so i can see it <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh no </OVERLAP> okay, well yeah but this is telling you it's in the green, now, but see you better, put that in the green, and i'll explain in a second. </U>
+			<U WHO="S2"> okay. </U>
+			<U WHO="S3"> let's uh yeah i- it's crazy, yeah, you know, laws of physics are wrong, <EVENT WHO="S2" DESC="LAUGH"/> it's crazy, alright okay, a thousand where's a thousand right here. </U>
+			<U WHO="S2"> it's gonna be infrared, <OVERLAP> probably </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> right </OVERLAP> exactly </U> you know, okay, (xx...) yeah that's (sort of interesting) (xx) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> mm, yeah, yeah. okay so let's let's think about this for a second. while we're (changing) the sun's supposed to be green? that's crazy. what's uh, what's going on here. well, it's different for this, so wha- what's the temperature? fifty-eight hundred. mkay, this is, here we are, that's that's cool. this is about six thou- it's about the temperature of the sun we'll move this over a little (xx) well, if you take a look at this, okay? this is mini- green at the maximum but, look at how much the yellow, red blue, a big conglomeration you know i mean it's i mean if it if it was like, if it went like this, and if_ i'm not gonna write in your book but you know if you know it went like, if if the spectrum actually went like this and went straight up here and was a real sharp peak, you'd see a green sun. but because it's, emitting all these colors they mix together i mean just like you know you, you've done that and like you've seen a red blue a red and blue light made <U WHO="S2"> (pink?) </U> yeah, or whatever color i <U WHO="S2"> yeah </U> you know green and blue make yellow, and that's why, <U WHO="S2"> okay </U> and see i mean, and see it like you know green greens and yellows are the three mo- colors that are most given off, mid orange and red gives it a little, </U>
+			<U WHO="S2"> oh, (i thought this was what you were talking about.) alright, thank you </U>
+			<U WHO="S3"> no problem. </U>
+			<U WHO="S2"> (xx) </U>
+			<U WHO="S3"> yeah yeah and, only one thing i want to point out to you, this, this is technically right, you just, you just probably wanna_ y- who's your T-A? </U>
+			<U WHO="S2"> John Spar. </U>
+			<U WHO="S3"> John yeah, tell John. yeah just tell John (xx) a- and he's not gonna, you know. you might wanna just mention to him just put, this really didn't have a color so i just put the closest color there (was) </U>
+			<EVENT DESC="2 SEPARATE CONVERSATIONS FOLLOW; TIMES NOTED"/>
+			<EVENT DESC="CONVERSATION IIA: 30:17 - 64:05"/>
+			<U WHO="S1"> yeah, like i think i'm gonna fail, the test, <OVERLAP> i don't care </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> you're gonna </OVERLAP> fail? </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S9"> what are you gonna fail? </U>
+			<U WHO="S1"> the G-R-E. <U WHO="S5">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> but i don't care, </OVERLAP> i'll just find a job <U WHO="S5"> okay </U> it'll be okay. </U>
+			<U WHO="S9"> i'll fail with you. </U>
+			<U WHO="S1"> (people are) allowed to fail, it'll be fine... i don't care. if i fail it's okay. i'm okay with that. </U>
+			<U WHO="S7">
+				<EVENT DESC="LAUGH"/> you talk like that it ma- it makes me think that, i can't watch the Simpsons after s- you know <EVENT WHO="SS" DESC="LAUGH"/> i need to go home, and study. </U>
+			<U WHO="S1"> here i'll make you, i'm not gonna do any G-R-E studying tonight so don't worry about it. </U>
+			<U WHO="S7"> tonight <U WHO="S1"> yeah </U> tomorrow </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> you'll be okay. </U>
+			<U WHO="S7"> you know it really sucks that (i think) what's his name's test is this week. i mean but i really want to do a lot of studying <OVERLAP> and then, like </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i know i can't believe anybody_ </OVERLAP> we were like uh <U WHO="SU-m">
+					<OVERLAP> G-R-E okay, (i'm quitting) </OVERLAP>
+				</U>
+				<OVERLAP> (uh, your) test is now </OVERLAP> and wha- what does this say? derive this this is like (xx) </U>
+			<U WHO="S7"> really sucks, you know you really think about it, we have a test, right after and right before the G-R-E. (really sucks) </U>
+			<U WHO="S1"> very (xx) </U>
+			<U WHO="S7"> yeah the, one that's this Friday this Friday </U>
+			<U WHO="S3"> and what's what's the one after it? </U>
+			<U WHO="S3"> Christmas <U WHO="S3"> oh </U> (you know) (xx) thanks, thanks Professor Kent... </U>
+			<U WHO="S7"> you tell her that. <U WHO="SU-m"> yeah. </U> (xx) increase the percentage by us failing it is gonna help you. </U>
+			<U WHO="S8"> i know i should go in there and say hey you know what, by by you having the test on the the last (Christmas) day, you know it's gonna make you the better grad student cuz everyone else is gonna do worse <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> yeah, <OVERLAP> better </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (who is this?) </OVERLAP>
+				</U> huh </U>
+			<U WHO="S1"> who? </U>
+			<U WHO="S8"> you jus- you should go thank Kent <U WHO="S1"> oh <EVENT DESC="LAUGH"/>
+				</U> because you know <U WHO="S7"> exactly </U> (xx) help him out </U>
+			<U WHO="S1"> yeah, grad school what's that? <EVENT DESC="LAUGH"/>
+				<OVERLAP> i am so dumb, i'm just kidding </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> ohh </OVERLAP> i'm so afraid. </U>
+			<U WHO="S1"> you've you've been studying, you're okay you're you're okay, you're way ahead of me. </U>
+			<U WHO="S8"> why are you afraid? </U>
+			<U WHO="S7"> fear dude. </U>
+			<U WHO="S8"> fear of what? </U>
+			<U WHO="S7">
+				<OVERLAP> fear. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you </OVERLAP>
+				<EVENT DESC="LAUGH"/> you'll beat me out. i'll make your percentage higher. </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> i'm a, you gotta (can't) worry about it too much. i mean if you go if you go double A-S and you just meet seriously if you meet people at these institutions, and you know you tell 'em what you're doing i i i honestly believe that, i honestly believe like, if i met someone, from a institution and i knew like, i knew their capabilities, or like someone i knew knew their capabilities and told me and i trusted that person, i would take that a heck of a lot more (xx) </U>
+			<U WHO="S1"> i wonder if i like applied to like really a, good graduate schools with like really crappy <EVENT DESC="LAUGH"/> G-R-E scores if they would even, <U WHO="S4"> Harvard </U> still consider me, <EVENT DESC="LAUGH"/> they're like um she's had, like she just had three bad days. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S9"> three bad days <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> remember, remember those uh, those, top places uh what was it like, throu- Cal Tech and Harvard, and stuff they said that, <U WHO="S1"> like, ninetieth <OVERLAP> percentile </OVERLAP>
+				</U>
+				<OVERLAP> sometimes, </OVERLAP> sometimes they lower their standards into the eighties <U WHO="S1"> to like, eighties </U> from the nineties yeah, so remember, y- y- you might have a chance. </U>
+			<U WHO="S1">
+				<OVERLAP> i don't wanna go to Harvard. </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> you wanna be, what i think is hilarious </OVERLAP> is that most students get like forty percent on the physics G-R-E, like who? the only people who are getting eighties and nineties are super freaks and they're like, <EVENT WHO="S1" DESC="LAUGH"/> are like, foreign. because foreign students <U WHO="SU-m"> mhm </U>
+				<U WHO="SU-m"> yeah </U> and i've been told that foreign students like study for the G-R-E a lot <U WHO="S7">
+					<OVERLAP> for like a year, yeah </OVERLAP>
+				</U>
+				<OVERLAP> more than we </OVERLAP> are, yeah </U>
+			<U WHO="S1"> yeah, i think that they_ oh, i mean i don't know, i'm not really sure but i think that they maybe have classes that are more oriented towards the G-R-E too. </U>
+			<U WHO="S9"> yeah, solving their <OVERLAP> problems </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> this </OVERLAP> is on the G-R-E's (about.) <U WHO="SU-f"> i don't know </U> (Greenhills studied it.) </U>
+			<U WHO="S3"> (well then) Grand Rapids. <U WHO="SU-m">
+					<OVERLAP> the the guy goes to Aquinas </OVERLAP>
+				</U>
+				<U WHO="SU-f">
+					<OVERLAP> ooh </OVERLAP>
+				</U>
+				<OVERLAP> the the guy that uh </OVERLAP> what do you think of that? </U>
+			<U WHO="S3"> yeah, i'm from Battle Creek so, that's cool </U>
+			<U WHO="SU-f"> Grand Rapids? </U>
+			<U WHO="S3"> yeah. </U>
+			<U WHO="SU-f"> i lived there all my life. </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> and so you think <EVENT DESC="LAUGH"/> (that's cool) </U>
+			<U WHO="SU-f"> i love Grand Rapids. </U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<PAUSE DUR=":09"/>
+			<U WHO="S4"> it's all quiet now you can </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> i'd be like, (xx) </U>
+			<U WHO="S4"> huh? </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> don't give me that look. <U WHO="S3"> go ahead, no </U> never mind it's just, stupid never mind, alright, </U>
+			<U WHO="S8"> you know i could see you as like <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> you could, oh you se- oh you could (xx) </U>
+			<U WHO="S8"> i was like trying to listen i was like, oh </U>
+			<U WHO="S3"> where are my glasses (xx) </U>
+			<U WHO="S8"> um, hold on... </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> i didn't say anything it's like (don't worry) </U>
+			<U WHO="S8"> (xx) oh... oh <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> o- okay, i'm sure it's not that (overwhelming) </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S8"> i didn't even think about that. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> nothing w- i don't understand, this is like (done, so obviously) </U>
+			<U WHO="SU-5"> what are you doing? </U>
+			<U WHO="S1"> i was trying to start the, ten problems <EVENT DESC="LAUGH"/> that are due next week <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> oh </OVERLAP>
+			</U>
+			<U WHO="S9"> do we have ten problems really? </U>
+			<U WHO="S1"> eleven </U>
+			<U WHO="S9"> eleven problems? </U>
+			<U WHO="S1">
+				<OVERLAP> nine? </OVERLAP>
+			</U>
+			<U WHO="S3"> no it's nine </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> i was like i don't know, ten <U WHO="S5">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> plus or minus </OVERLAP> one </U>
+			<U WHO="S4"> some large number </U>
+			<U WHO="S8"> nine problems </U>
+			<U WHO="S7"> hey guess what? </U>
+			<U WHO="S1"> what? none? </U>
+			<U WHO="S8"> oh no... </U>
+			<U WHO="S1"> you guys didn't do sh- chapter eight? </U>
+			<U WHO="S7"> wha- what is it called? </U>
+			<U WHO="S8"> you didn't do chapter eight did you? </U>
+			<U WHO="S7"> what is it on? </U>
+			<U WHO="S8"> heat engines. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> was i- w- my </U>
+			<U WHO="S3"> don't you understand Charlie's telling you you didn't do chapter eight. </U>
+			<U WHO="S7"> i didn't do chapter eight. </U>
+			<U WHO="S8"> oh i know i wanna... huh, what was that...? </U>
+			<U WHO="S9"> four-oh-six i took it with C-J </U>
+			<U WHO="S7"> oh wha- why was it your class? </U>
+			<U WHO="S8"> in mine yeah </U>
+			<U WHO="S9"> if you were in my in four-oh-six with C-J you were in my class. </U>
+			<U WHO="S7"> oh no no no <EVENT WHO="SS" DESC="LAUGH"/> i just know, i know that they didn't do </U>
+			<U WHO="S3"> and and you didn't, <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay, looks like i'll be starting (them) right now. <EVENT DESC="LAUGH"/> but this is (done) in like, in the book, <OVERLAP> (like i don't understand) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> no i i'm </OVERLAP> okay i don't know if i can do that or not <U WHO="S1"> you didn't do it. </U> i was just saying </U>
+			<U WHO="S8"> Charlie just wants to get the upper hand </U>
+			<U WHO="S3"> Charlie's just (xx) </U>
+			<U WHO="SU-8"> you didn't do it? </U>
+			<U WHO="S1"> no </U>
+			<U WHO="S3"> Charlie's a cutthroat. </U>
+			<U WHO="S1"> we have nine this week </U>
+			<U WHO="S3"> i know dude </U>
+			<U WHO="SU-m"> don't let Charlie get up from behind you. </U>
+			<U WHO="S3"> dude what about that one dude today like, </U>
+			<U WHO="S1"> what dude? </U>
+			<U WHO="S3"> the dude, i i asked Professor Mott the question the dude just broke in like ah ah or something </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> yeah i was like, <OVERLAP> what the he- </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh my god </OVERLAP>
+			</U>
+			<U WHO="S1"> that was annoying </U>
+			<U WHO="S3"> that pisses <OVERLAP> me </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it wasn't </OVERLAP> like, it's one thing when like the you p- the professor makes absolutely no sense kin- and someone tries to clarify it and i'm only saying that cuz i've done it <EVENT DESC="LAUGH"/> but when someone actually like just starts answering a question and you're like, what the hell <OVERLAP> are you saying? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> right right </OVERLAP> i mean the guy was like on my left i just, s- s- ste- kept looking at Professor Mott, like i didn't even recognize h- <EVENT WHO="S1" DESC="LAUGH"/> and it pisses me off. i'm like, you know and i and i understand, <U WHO="SU-m">
+					<OVERLAP> was it (xx) </OVERLAP>
+				</U>
+				<OVERLAP> you need to </OVERLAP>
+				<EVENT DESC="LAUGH"/> you know show everyone how cool <U WHO="S1">
+					<OVERLAP> no, no. just the other crappy </OVERLAP>
+				</U>
+				<OVERLAP> you are in some way, </OVERLAP> please don't do it in class and waste my time. <U WHO="SU-m"> oh </U> you know yeah </U>
+			<U WHO="S1"> i didn't even know what he was saying he was like molecules do this and not <EVENT WHO="S3" DESC="GROWLING"/> in that (xx) </U>
+			<U WHO="S8"> tha- no that seriously (xx) they're like (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> obviously </OVERLAP>
+				<U WHO="S1"> well you were mad at (xx) </U> the hexagonal <OVERLAP> (xx) lattice (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-8">
+				<OVERLAP> (xx) </OVERLAP> the <U WHO="S3">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> people </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well you were mad at_ what? the cart? (xx) </OVERLAP> oh yeah. </U>
+			<U WHO="SU-m"> what? </U>
+			<U WHO="S1"> you know what? <EVENT WHO="SS" DESC="LAUGH"/> so we gotta go buy the, G-R-E software. </U>
+			<U WHO="SU-m"> yeah the, well why don't we, i'll do it right now i'll get on the net and i'll <U WHO="S1"> mkay </U> order <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S3"> no don't order it we gotta go to a store or something cuz that'll take forever </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S8"> software <OVERLAP> how do you get the software? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> can we say Fed Ex that </OVERLAP> we want it tomorrow. we should go tomorrow. <U WHO="S3">
+					<OVERLAP> you know what? </OVERLAP>
+				</U>
+				<OVERLAP> maybe </OVERLAP> Meijer will have it </U>
+			<U WHO="S3"> we should buy that with S-A-S's money. </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="SU-5"> what? </U>
+			<U WHO="S7">
+				<OVERLAP> seriously </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> because it's for everybody </OVERLAP>
+			</U>
+			<U WHO="SS"> buy what? </U>
+			<U WHO="S7"> it's only twenty bucks (xx) </U>
+			<U WHO="S3">
+				<OVERLAP> G-R-E </OVERLAP> software. cuz everyone <OVERLAP> has </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> because y- what </OVERLAP> are you gonna do with it afterwards like, </U>
+			<U WHO="S3"> exactly, you know </U>
+			<U WHO="S1"> yeah we should <OVERLAP> just pass it on </OVERLAP>
+			</U>
+			<U WHO="SU-7">
+				<OVERLAP> but it is </OVERLAP> for everybody, <U WHO="S3"> yeah i- </U> will be for everybody and we'll burn the C-D's. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> yeah yeah yeah yeah </U>
+			<U WHO="S4"> so you pirate software? </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> no </U>
+			<U WHO="S3"> maybe. </U>
+			<U WHO="SU-m"> we- we- we'll pirate it. we'll sell it on the (Priceline) <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4" RESTRICT="NONE"> that'd be a cool thing to have up here, that it says like, in front of the library. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="S7"> damn, <EVENT DESC="LAUGH"/> (xx) </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> where's my pen? i'm just a pyro i like to burn things <EVENT DESC="LAUGH"/> i'm so sorry guys </U>
+			<U WHO="S1"> we're like, immature, so uh, i don't understand how to do this cuz this is incredibly, <OVERLAP> uh, done for you </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but seriously guys, you guys i </OVERLAP> i have to get some help because i just, i like to burn things i'm a pyro. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> yeah after we take it in we'll just, <OVERLAP> burn it all. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> burn the C-D </OVERLAP>
+				<EVENT DESC="LAUGH"/> oh </U>
+			<U WHO="SU-m"> i bet we can sell it for fifteen bucks (xx) <EVENT WHO="SU-m" DESC="LAUGH"/> E-T-S software, fire </U>
+			<U WHO="S3"> yeah... okay </U>
+			<U WHO="S3"> si- si since it's (anihi- complaint) bu- bue- (buena, buena) dumb ass. </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<EVENT DUR=":23" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S3"> what are you guys doing? </U>
+			<U WHO="SU-m"> i don't know <OVERLAP> (xx) but we're reading </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> (xx) they're talking about a conspiracy. </OVERLAP>
+			</U>
+			<U WHO="S3"> a conspir- the alien bodies at the top of the ninth floor <EVENT WHO="S1" DESC="LAUGH"/> remember the remember the room that has the alien bodies <U WHO="SU-m"> mhm </U> ninth floor <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> actually there was this one night, somebody and i were going on the third floor, and we walked out and there was this like, um, scaffold kinda, in the hall, right? <EVENT DESC="LAUGH"/> probably wasn't scaffold cuz scaffold are usually on buildings but it was like pipes and stuff, and there was like, plastic around it, it totally looked like </U>
+			<U WHO="S3"> (like they were) housing alien bodies? </U>
+			<U WHO="S1"> mhm. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"> this reminds me of uh, not really but this uh, Tom Clancy book i read. and there was like all these codes that they said to each other you know, well they actually wrote down everything <EVENT DESC="LAUGH"/> they were saying. </U>
+			<U WHO="S3"> uhuh. makes me realize how much i (xx) (mess around) </U>
+			<U WHO="S1">
+				<EVENT DESC="READING"/> what's the deal? i don't understand wh- this problem is already done. <EVENT DUR=":10" DESC="PAUSE WHILE READING"/> i don't understand, this first problem is like, i can't figure out how to do it because it's all, i think it's all done, like, in the first like in two lines, so i think i'm doing it wrong <EVENT DESC="LAUGH"/> (xx) strange </U>
+			<U WHO="S9"> okay, <U WHO="S1"> okay </U> did you write your abstract already? </U>
+			<U WHO="S1"> no i can't write that in here, i don't have any paper to write it on. i'm gonna do it when i get home. </U>
+			<U WHO="S9"> shit i'm just gonna have to do it on my paper because i don't wanna write it on this this paper, i can't write an abstract of this, because i think i'll i'm gonna read the abstract and then write an abstract, i can't do that. </U>
+			<U WHO="S1"> summarize the abstract <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S9"> but that's silly. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> seriously, just summarize the abstract... i mean, actually i don't think you would really have to read the entire paper cuz they probably, present most of the important results in the abstract, y- all you have to do is like maybe have a background, and, conclusion. </U>
+			<U WHO="SU-m"> mine didn't have an abstract. so i i don't know what i should do, like <OVERLAP> i'm trying </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> pick </OVERLAP> a new paper. i'd pick a new paper <U WHO="SU-m">
+					<OVERLAP> really? </OVERLAP>
+				</U>
+				<OVERLAP> cuz </OVERLAP>
+				<U WHO="SU-m"> i was thinking about </U> mine like, was about two pages long. </U>
+			<U WHO="SU-m"> yeah, your, paper was two pages long? </U>
+			<U WHO="S1"> so, yeah, actually i should, like rewrite my abstract for the summer, or something. </U>
+			<U WHO="SU-m"> yeah that's a good (xx) </U>
+			<U WHO="S1"> see i always break, (up the talk) via detail <U WHO="SU-m"> mm, yeah </U> jus- just break into it, we present this, you know? </U>
+			<U WHO="S3"> really? <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> cuz </OVERLAP> that's what i <OVERLAP> that's what i always (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> although </OVERLAP> actually, </U>
+			<U WHO="S9"> did he say you could do that? </U>
+			<U WHO="S1"> he said, that you should give some background, <U WHO="SU-m"> yeah </U> i didn't even know where my abstract, is like anymore but maybe i should just rewrite that </U>
+			<U WHO="S3"> your abstract? </U>
+			<U WHO="S1"> from last years, double A-S </U>
+			<U WHO="S3"> oh yeah (xx) </U>
+			<U WHO="SU-f"> yeah i should turn in mine from, for this year's double A-S, </U>
+			<EVENT DUR=":14" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S3"> oh you know what? (xx) remember writing one uh, (on the subject of) Stephen Hawking. </U>
+			<U WHO="S7"> what? <U WHO="S3"> Steve- </U> (you're trying to get) Stephen Hawking (xx) </U>
+			<U WHO="S3"> yeah. </U>
+			<U WHO="S7"> did he have? like what do you mean the applying the </U>
+			<U WHO="S3"> well no i mean he's just like he did some <U WHO="S7">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> work </OVERLAP> and it's it's just bullshit but, i'm sorry Charlie and so that's uh, </U>
+			<U WHO="S7">
+				<OVERLAP> actually </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> i proved like i proved his theory wrong, i got </OVERLAP> i got into a fight with him the other day and he, he just, he told me that and i, the matrix identity was zero. and i, i i couldn't take it. <U WHO="S3"> yeah su- </U> i told him listen, if you want our friendship to continue, you have to tell me that that's nonzero. and uh, <U WHO="S3"> but i said all that </U> he's i mean, he thinks he's (xx) <U WHO="S3"> yeah i know </U> he's typing on the computer, sorry (xx) anxious </U>
+			<U WHO="S3"> i know dude you shoulda seen Li Ying dude, Li Ying just tore Stephen Hawking apart, <U WHO="S7"> really? </U> yeah Li Ying's like, and so Stephen Hawking like is just talking and Li Ying goes, there's this thing he goes clearly, you're wrong, <EVENT DESC="LAUGH"/> s- starts writing on up on the board and starts writing like, you know quantum elec- relativistic quantum electrodynamics, (xx) electrochromodynamics. </U>
+			<U WHO="SU-f"> Li Ying did this? </U>
+			<U WHO="S3"> yeah Li Ying. </U>
+			<U WHO="SU-f"> yeah yeah </U>
+			<U WHO="S3"> (xx) i wouldn't be surprised at all, Li you know Li Ying could probably, Li Ying can do anything. (xx) i'd be like Li Ying i need a gra- antigravity uh hovercraft for, this weekend he probably </U>
+			<U WHO="S7"> (xx) give me a couple minutes. </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> here you are, (it's a launch) </U>
+			<U WHO="SU-m"> yeah i gotta no i got an hour i got an hour lunch break hold on, <EVENT DESC="LAUGH"/> i'll work on it. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S3">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> quickly </OVERLAP> (xx) build something. he actually builds it </U>
+			<EVENT WHO="S3" DESC="LAUGH"/>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> did you put something in my, in <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> i put it in yours instead of mine, i put like a, i folded up a piece of paper put it in mine, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> oh okay </OVERLAP> cuz i thought, you had, remember we had talked about that paper? <U WHO="S3"> oh yeah, </U> i forgot <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U> (xx) </U>
+			<U WHO="S3"> about these grad schools and stuff? <U WHO="S3"> uh, yeah i </U> there should be, yeah </U>
+			<U WHO="SU-f"> oh yeah cuz Adam was telling me there was in the paper <OVERLAP> that </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP> well there should be one that's exactly like that (i think) in my folder, and then (xx) </U>
+			<U WHO="S4"> i might have one in mine as well you can have. </U>
+			<U WHO="S8"> oh do you? if you could make a ph- photocopy </U>
+			<U WHO="S3"> actually you know what, there's one floating around here, </U>
+			<U WHO="S4"> is there one in mine...? <U WHO="S3">
+					<EVENT DESC="LAUGH"/> (xx) Li Ying </U> you shou- you can just have that, cuz i don't need it. </U>
+			<U WHO="S3"> (xx) L- Li Ying (xx) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah and need an antigravity <OVERLAP> (i, i need a) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> need an antigravity </OVERLAP> unit for uh, the space station by one. </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> give me two hours, you come back, (he goes) give me another hour, i had to build uh, (xx) super- ca- superconducting (supercollider.) </U>
+			<U WHO="SU-8"> he's like, i i kind of need more (food, i'm, you'll) let me use it, two weeks from now, Tuesday... </U>
+			<U WHO="S3"> (xx) formal training <EVENT WHO="SS" DESC="LAUGH"/> Li Ying, have you been working? </U>
+			<U WHO="SU-m"> yeah your brother tell ya? um, we went to, you know that, you remember that, you ever do the monkey problem in uh thermo? </U>
+			<U WHO="S3"> yeah the the <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> the probability </OVERLAP> yeah, <U WHO="SU-m"> monkey on my </U> and they ha- they have a play on that, Friday night <U WHO="S1"> what's that? </U> they had a play like that Friday night. basically it was like three monkeys, um <U WHO="S3"> yeah </U> typing ad infinitum on, and eventually creating (xx) typing at <OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it was </OVERLAP> yeah he told me about the play and uh, he's trying (xx) </U>
+			<U WHO="SU-f"> and where's the little photocopier? </U>
+			<U WHO="S3"> it's like in this other room where the coffeemaker and stuff <OVERLAP> is, in there </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> okay, yeah, </OVERLAP> thanks. </U>
+			<U WHO="S3"> what? </U>
+			<U WHO="S7"> she was just uh, making (xx) over there </U>
+			<U WHO="S1"> i didn't do it. </U>
+			<U WHO="SU-m"> did you do it? </U>
+			<U WHO="S1"> no, i didn't do it. </U>
+			<U WHO="SU-m"> i'm gonna do it </U>
+			<U WHO="S1"> nobody saw that movie called The Rocketman or whatever or </U>
+			<U WHO="SU-m">
+				<OVERLAP> what was that? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> the Disney movie? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> The Rocketeer? </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S3"> yeah it was <OVERLAP> pretty stupid. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> did you see that? </OVERLAP> it was so funny it was so dumb it was stupid, <U WHO="S3"> yeah </U> i mean it was so dumb it </U>
+			<U WHO="S3"> i i- it's been playing on Disney for a while, <U WHO="S1"> oh really? </U> i saw some glimpses of it but i really didn't get <OVERLAP> much (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's really uh </OVERLAP> like inaccurate. <U WHO="S3"> y- yeah y- </U> incre- see my sister told me it was really funny, so i just kinda suspended my disbelief and watched it and i- i thought it was really funny. </U>
+			<U WHO="SU-m"> wait what was this? (what do you mean) really inaccurate? </U>
+			<U WHO="S1"> it's like he's going to Mars on the next like, <U WHO="S1"> yeah </U> he's like a complete like <OVERLAP> idiot </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> and he </OVERLAP> like doesn't fall s- doesn't get into, stasis and he's like, hanging around for like two years or something. <OVERLAP> i </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the </OVERLAP> funniest thing ever was when he got in the fight with monkey <U WHO="S3">
+					<OVERLAP> yeah, it's a, yeah </OVERLAP>
+				</U>
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> d- do you reme- you didn't see </OVERLAP> that part? okay, so, like it was just really funny like he gets in a fight with a monkey other people are talking outside and he's just seen at the back throwing the monkey around <EVENT DESC="LAUGH"/> it was really f- and then when they turn around he's like holding it. you know how it um did you see any of it? </U>
+			<U WHO="S3"> yeah i saw parts <OVERLAP> i was just (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> did you </OVERLAP> see any parts where he said it wasn't me in it? </U>
+			<U WHO="S3"> no </U>
+			<U WHO="S1"> okay cuz like, any time something happens, he's like wasn't me <EVENT DESC="LAUGH"/> and it was really funny so i've been saying that a lot, but um <U WHO="S3">
+					<OVERLAP> y- it wasn't me? </OVERLAP>
+				</U>
+				<OVERLAP> cuz like </OVERLAP> huh? </U>
+			<U WHO="S3"> oh i was just, i was thinking is you we- say he goes to Mars or something. </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S3"> i just saw Superman Four. </U>
+			<U WHO="S1"> yeah and he went to Mars? </U>
+			<U WHO="S3"> no no no no in Superman Four him, and Nuclearman you know the, Lex Luthor Luthor <OVERLAP> (xx) </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> yeah it was just on </OVERLAP> T-V </U> yeah yeah that's (right) and, remember like Lana Lane or some or Lana something </U>
+			<U WHO="S1"> Lois Lane? </U>
+			<U WHO="S3"> no no it's Lois Lane but no there's another girl Lana right? </U>
+			<U WHO="S7"> yeah that takes over the paper (xx) </U>
+			<U WHO="S3"> yeah Nuclearman, La- uh, <U WHO="S1"> was she in the story? </U> uh, no, uh anyways she goes, she, like Nuclearman wants her (xx) herself sh- sh- she </U>
+			<U WHO="S1"> she's got the black pants on. </U>
+			<U WHO="S3"> yeah exactly, <U WHO="SU-m"> and he walks into her office and she's like (laying on the desk) </U> yeah exactly, you know and, pulls out <U WHO="SU-m"> and says </U> he pulls out a few hundred dollar bills and she's like you're mine i'm yours. </U>
+			<U WHO="S1"> you mine <EVENT DESC="LAUGH"/> hey, i- </U>
+			<U WHO="S3"> well anyway this, the thing that was, she, he like grabbed her and, took her off into space, <EVENT WHO="SU-m" DESC="LAUGH"/> and she was like up in space like you know and, the first thing i thought, was like, that's stupid, if she was all in space like that she'd either explode because of the pressure differentials <U WHO="SU-m"> yeah </U> or, her blood would boil because, okay it's an ideal gas <U WHO="S1">
+					<EVENT DESC="LAUGH"/> yeah </U> you know? </U>
+			<U WHO="SU-m"> but Superman does that too in part one. he takes <OVERLAP> what's her name into space </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's cuz he's Superman </OVERLAP> it was Rocketman anyway so we get into this stupid movie </U>
+			<U WHO="SU-m"> i was gonna say, just imagine Charlie, how does rotating the earth backwards in time reverse- or backwards reverse time? </U>
+			<U WHO="S3"> well if you're gonna go </U>
+			<U WHO="SU-m"> let's think about that. </U>
+			<U WHO="S1"> um, anyway in The Rocketman, so like, there's this really big astronaut guy who's really pompous and so like he's m- made up this speech and everything for everybody he gets on Mars you know he's, going down the ladder and the, idiot guy's above him and he, slips and falls and accidentally is the first one on Mars and then he hi- the first thing he says is, it wasn't me, i didn't do it. <EVENT DESC="LAUGH"/> it was really funny and so like had these headlines that say, words from Mars it wasn't me <EVENT WHO="S7" DESC="LAUGH"/> it was really funny. okay i'm just, <U WHO="S3"> pretty good </U>
+				<U WHO="S7">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> okay </OVERLAP> but you have to see it. it was funny </U>
+			<U WHO="S3"> so you've been studying for the G-R-E i see huh? </U>
+			<U WHO="S1"> no, this was in the summer i watched it. <U WHO="S3"> uhuh </U> yeah i should've been studying for the G-R-E then but <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-3"> yeah </U>
+			<PAUSE DUR=":15"/>
+			<U WHO="S3"> when did you finish this paper? </U>
+			<U WHO="S7"> what? <U WHO="S3"> when did you </U> this is uh, about two summers ago, actually </U>
+			<U WHO="S3"> and you just finished it August ninety-eight? </U>
+			<U WHO="S7"> well no, submitted, uh, when i grad- when i (xx) but i jus- it just got published <U WHO="S3"> oh </U> (xx) in ninety-eight? </U>
+			<U WHO="S3"> it takes two years to publish? </U>
+			<U WHO="S7"> no it's uh, i left not two years ago two summers ago so, it was summer of ninety-seven that i, we finished it, and then <U WHO="S3"> oh </U> they submitted it, like a couple months after that and then, <U WHO="S3"> alright </U> (xx) and so they submitted it in October and so that like, we- <OVERLAP> well, let's see. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> four years, </OVERLAP> no publications, same research <U WHO="S7"> oh yeah? </U>
+				<EVENT DESC="LAUGH"/> have to redo (xx) <OVERLAP> something every time i turn around </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> well, you know (say- say-) </OVERLAP> actually like (xx) has been like saying we've published like (forever) you know like, like we've got an abstract and stuff like we got into the postgraduate stuff and i asked him this year, i asked him now, i said do you want to publish before double A-S you know like publish be- and he's like oh i don't think we've done enough to publish it <EVENT WHO="S1" DESC="LAUGH"/> so yeah i know i've <U WHO="S1">
+					<OVERLAP> i need to do some work, but i don't have time </OVERLAP>
+				</U>
+				<OVERLAP> like designed </OVERLAP> (xx) and i like, i've, done like so much work with him and stuff it's really stupid like, even if they, i feel like even if they publish it at this point (there's) like it'd be really really cool to put out a paper anyway <OVERLAP> so it's like, kinda (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i'm never gonna </OVERLAP> finish my research before i graduate. <U WHO="S3"> what's that, w- (exactly) </U> i mean i'm may be near being done with one of the fields and there's only, six, main fields left <EVENT WHO="SU-m" DESC="LAUGH"/> plus an additional like nine. </U>
+			<U WHO="S7"> yeah </U>
+			<U WHO="S3"> i yeah i'm not gonna be able to get mine done because they're not gonna get the new telescope out <U WHO="S1">
+					<OVERLAP> (so weird) </OVERLAP>
+				</U>
+				<OVERLAP> until like, </OVERLAP> next term. and the data's not gonna be, </U>
+			<U WHO="S7"> Benson and i just keep doing new things <EVENT WHO="S1" DESC="LAUGH"/> he's like oh yeah (you know,) main task do this now. </U>
+			<U WHO="S1">
+				<SEG TYPE="READING"> the reversible heat, </SEG> okay, it's just impossible to read, words like (that small) what are you writing your abstract? </U>
+			<U WHO="S7"> yeah, i'll be writing it out (actually) </U>
+			<U WHO="S1"> with a pen? isn't that hard to do? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> (i use a) pen. i can't stand pencils. </U>
+			<U WHO="S1"> i have uh, worked with you both it seems satisfactory, <U WHO="SU-m"> awesome. </U> i have uh, not done any problems though, (xx) maybe now i'll do an abstract <PAUSE DUR=":07"/>
+				<EVENT DESC="ANSWERS QUESTION FROM CONVERSATION IIB; 52:21"/>
+			</U>
+			<EVENT DUR=":26" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> maybe you guys should be in a group of your (xx) like (flagstones) not to make, (joke) </U>
+			<U WHO="S3"> not to trul- trivi- trivia- trivialize you. </U>
+			<U WHO="S1"> but, it be more funny, i'm just k- <EVENT DESC="LAUGH"/> that wouldn't be funny. fighting is not good. </U>
+			<U WHO="SU-m"> uhuh </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S1">
+				<EVENT DESC="WHISPERING"/> oh i can't read it </U>
+			<PAUSE DUR=":18"/>
+			<U WHO="S4"> do you know how to find the probability of the (spin one) </U>
+			<U WHO="S1"> of spin what? </U>
+			<U WHO="S4"> spin one? and uh probability of S-C plus H and S-C minus H? I don't know how to circle it, this is what i_ wouldn't it be, twenty-five percent? </U>
+			<U WHO="S1"> is it uh something like this? um, <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i- i- </OVERLAP> for for two just for a two-dimensional (spin one F) <U WHO="S1"> mhm </U> i- i- if this is your A it's like um, it's uh A minus B squared equals, the probability (xx) </U>
+			<U WHO="S1"> is it something like like where you've got the integral of like S-H-bar over, omega, times psi-squared, or something like that? cuz that energy, equals S-H-bar-omega, and then um, like for the probability you have to do this over, (i don't know) it's the psi squared or whatever? <U WHO="S3"> whoa </U> does that look like the same thing? </U>
+			<U WHO="S3"> familiar? no no <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> the- there's this part for uh, like, if you measure it in (C) so this is for uh, this is one half particle. <U WHO="S1"> okay </U> where it's just, these two equations. <U WHO="S1"> okay </U> alright, it's A plus B squared (xx) oh okay. </U>
+			<U WHO="S1">
+				<OVERLAP> you've already figured it out? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> okay o- okay </OVERLAP> okay, i guess so. well, maybe, i'll try it and see what happens. </U>
+			<U WHO="S1"> i'm gonna like, hang over your shoulder <EVENT DESC="LAUGH"/> for a second. </U>
+			<U WHO="S4"> okay. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="SU-f"> what are you doing? <U WHO="S4"> hm? </U> (xx) </U>
+			<U WHO="S4"> uh, this is homework we, it's kinda like our exam that we just took, so he wants us to do, kinda the same stuff again. Barney Cleaver and Mick Wal, (they're so weird) </U>
+			<U WHO="S1"> i've never done this, that's cuz everything we learned in nonintegrated quantum was completely uh, nuts </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<PAUSE DUR=":04"/>
+			<U WHO="S4"> (xx) </U>
+			<U WHO="S1"> um, yeah, (xx) </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> really? </U>
+			<U WHO="S10"> (xx) like Yao, Yao <OVERLAP> like doesn't teach at all </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (Katie) you're with me </OVERLAP>
+			</U>
+			<U WHO="S10"> Yao was like </U>
+			<U WHO="S1"> Yao was like Yao </U>
+			<U WHO="S10"> Yao like talked to the board, and like wrote down scribbles, and was like, finally three weeks into it turned around and was like this was blah blah blah he was like back to the board, and i was like <EVENT WHO="S3" DESC="LAUGH"/> that was (what, like) (xx) something and like <EVENT WHO="S3" DESC="LAUGH"/> alright. so if it's Yao i wouldn't take it, <OVERLAP> only because you're not going to learn anything either way, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, i i'll only take, it if it's someone who'll (do a good) </OVERLAP>
+			</U>
+			<U WHO="S10"> you know, <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> if it's Chad, Chad actually would <U WHO="S3">
+					<OVERLAP> (Chad's good?) </OVERLAP>
+				</U>
+				<OVERLAP> probably be </OVERLAP> very very good at it. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S1"> Chad drives me crazy. </U>
+			<U WHO="S10"> yeah, i don't know if you'd wanna be graded by Chad but, </U>
+			<EVENT WHO="S3" DESC="LAUGH"/>
+			<U WHO="S1"> i'm afraid, of my grade that i got from Chad </U>
+			<U WHO="S10"> Chad's awesome, i got an A on my thesis. <EVENT DESC="LAUGH"/>
+				<U WHO="S1"> that's good </U> so. </U>
+			<EVENT DESC="CONVERSATION IIAa 56:39-57:04"/>
+			<U WHO="S3"> you got an A on your thesis? </U>
+			<U WHO="S10"> yeah, i wrote my thesis with Chad </U>
+			<U WHO="S3"> okay. so you've done your thesis and (you're just) (xx) okay. </U>
+			<U WHO="S10"> cuz i though i was gonna graduate last year, but i decided (xx) astro major and i decided that (and i just) (xx) like i, am done <U WHO="S3">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> you know like i'm </OVERLAP> i'm taking classes since i was like, i put them off purposely <OVERLAP> so, (like you) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> okay, i </OVERLAP> guess i'm kinda doing the same thing <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S10"> yeah (xx) </U>
+			<EVENT DESC="CONVERSATION IIA 56:39-65:54"/>
+			<U WHO="S8"> (xx) </U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S8"> your G-R-E's done? </U>
+			<U WHO="S3"> yeah, uh, i've kind of (would've) written an abstract for, <OVERLAP> (xx) </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> you did? </OVERLAP>
+				</U> like, <OVERLAP> i mean, yeah </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> oh oh oh you've gotten done </OVERLAP> oh it's fine, (you're bound to) (xx) </U>
+			<U WHO="S3"> yeah i know. </U>
+			<U WHO="SU-m"> (xx) (you're awesome) </U>
+			<EVENT DUR=":06" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-3"> oh here's God's gift to (xx) i'm just God's gift to relativistic hydro- magnetohydrodynamics, (xx) <EVENT DESC="LAUGH"/> exactly, that's what you gotta understand. i am God's gift to, re- general relativistic (thermodynamics) </U>
+			<U WHO="S8"> could you imagine? (xx) God's gift to (xx) (thermodynamics) </U>
+			<U WHO="S7"> and what about Christopher, dude and smile oh really? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> i- if what? if he said what? </U>
+			<U WHO="SU-m">
+				<OVERLAP> if he said </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> (xx) </OVERLAP> (xx) like somehow goes oh he thinks he's God's gift to women, well what if you know gets some like, quote you know nerdy physicists (xx) well he just thinks he's God's gift to relativistic magnetohydrodynamics </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> you should invest your energy into something else. i'm just kidding </U>
+			<U WHO="SU-m"> what are you talking about? </U>
+			<U WHO="S1"> nothing </U>
+			<U WHO="S3"> loo- look at our our garbage i think we filled up two <EVENT DESC="LAUGH"/> (xx) </U>
+			<U WHO="S9"> i know it's really </U>
+			<U WHO="SU-7"> we need another one, we need another one, that's good <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-7">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> no, we need to get those emptied </OVERLAP> it stinks over there. </U>
+			<U WHO="S1"> you wanna go ov- you stick your nose in there? <EVENT DESC="LAUGH"/> just kidding </U>
+			<U WHO="S3"> who who empties them <OVERLAP> who's supposed to </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> Sandy's the only one (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-7">
+				<OVERLAP> Sandy. </OVERLAP> let's get one those big garden, ba- things <EVENT WHO="SU-m" DESC="LAUGH"/> and just leave it in here </U>
+			<U WHO="S3"> what? </U>
+			<U WHO="S8"> let's get one of those big garden things </U>
+			<U WHO="S7"> i saw him today, i just don't think he's coming in. </U>
+			<U WHO="S3"> who is that? </U>
+			<U WHO="S4"> who Sparett? i think M-CAT or someth- </U>
+			<U WHO="S7"> it's not m- i'm not gonna worry about it. <U WHO="S4"> hey </U> oh wait a minute that's mine. <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S8"> are you sure you're not gonna worry about it? </U> dude that is mine, it's one of mine. </U>
+			<EVENT DUR="1:11" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> and i was like ow, i think (xx) stomach muscle <OVERLAP> i was like </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> that was </OVERLAP> (good) that was good </U>
+			<U WHO="S1"> i don't know why i didn't go for like, ten. i was trying to be tough. </U>
+			<U WHO="S4"> cuz n- like g- if you set it for lower, i- i- like you can do like more the s- even (in) the same day it like you just get like, you get used to it. <OVERLAP> (i like what you should d-) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> if you set it </OVERLAP> for like lower </U>
+			<U WHO="S1"> i did a lot, of sit-ups last week. <U WHO="S3"> oh yeah. </U> so like i- i don't know it's really <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> like, i kinda just have </OVERLAP> a tendency to do a lot at once and then like the next week i can't do any <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> cuz </OVERLAP> it i feel like my muscles are just gonna rip apart. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> yeah like um i i showed her the one <U WHO="S3">
+					<OVERLAP> oh that one machine, yeah </OVERLAP>
+				</U>
+				<OVERLAP> machine you were on </OVERLAP> yeah it made like her almost hurt herself <EVENT DESC="LAUGH"/> he had a thing like right here </U>
+			<U WHO="S1"> what happened you were </U>
+			<U WHO="S7"> (xx) </U>
+			<U WHO="S1"> you stuck your head underneath there, <OVERLAP> that bar? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, yeah </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> underneath that thing </OVERLAP> underneath the bar </U>
+			<U WHO="S3"> i was laying and there was this <OVERLAP> (right here i was) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> and thes- guy </OVERLAP> this guy came and he was like whoa you're gonna hurt yourself he like lifts it off <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> like i'm an astrophysicist <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> that's what i that's why astronomers in the weight room <EVENT DESC="LAUGH"/> that's why i said let me sho- let me, i'll let you do it first <U WHO="S1"> yeah </U> because i didn't i didn't want you to kill yourself </U>
+			<U WHO="S7"> i was like i was li- how the hell do you do this? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> this guy turned around i go to get a drink of water i turn around the guy's like you'd hurt yourself. </U>
+			<U WHO="S1"> no really <OVERLAP> uh uh uh </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that's a little </OVERLAP> exaggeration there <U WHO="S7"> i don't know i'm trying to remember it but, </U> i think, i got out of it and he's like oh oh that's not that's not how you do it or something like that. </U>
+			<U WHO="S1"> you're like <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> (yeah) oh that's not how you do it that's what he said, i thought he <OVERLAP> said </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh </OVERLAP> it's not it doesn't matter i don't care <OVERLAP> but no it's just it was so funny </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> he said </OVERLAP> you're obviously not a kinesiologist <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> yeah yeah <OVERLAP> i know, i know </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> obviously you're not, physically inept </OVERLAP> obviously you use your brain for something other than that. </U>
+			<U WHO="S3"> you're like, all my body is is to carry my brain. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> what'd you say? </U>
+			<U WHO="S3"> all my body is used for is <U WHO="S7">
+					<OVERLAP> my body is a vessel </OVERLAP>
+				</U>
+				<OVERLAP> to carry my brain </OVERLAP> is a vessel to carry my brain </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> you guys were beat up a lot as kids weren't you? </U>
+			<U WHO="S3"> i have a symbiotic relationship between my body and my brain <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> huh? </U>
+			<U WHO="S3"> i have a symbiotic relationship between my body and my brain </U>
+			<U WHO="S9"> so that's like (this is that?) </U>
+			<U WHO="S3"> it's like <U WHO="SU-m">
+					<OVERLAP> they need each other </OVERLAP>
+				</U>
+				<OVERLAP> like my body is just a host for </OVERLAP> my brain <EVENT DESC="LAUGH"/>
+				<U WHO="S1"> oh, okay </U>
+				<U WHO="S9"> okay, good thank you </U> like it leaves hosts when the_ when it's done you know. </U>
+			<U WHO="S1"> that's cool. that'd be really cool if your brain did that. no i'm just kidding <EVENT WHO="SU-f" DESC="LAUGH"/> i'd be afraid, i'd be like oh God here comes Charlie's brain, gonna take off my head. </U>
+			<U WHO="S4"> it jumps out of his chest or <OVERLAP> something? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, </OVERLAP> that'd be scary. w- wouldn't it be like frightening, when we were just like, head and n- never mind <U WHO="SU-f"> what? </U> you could see our brains <EVENT DESC="LAUGH"/> going <EVENT DESC="SOUND EFFECT"/> yeah okay <OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> you could </OVERLAP> judge each other on the size of the brains (xx) see it, like mine's bigger than yours. your numbers, your C-C level, how big your brain is </U>
+			<U WHO="S1"> i got like a eight hundred C-C brain <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> how's, that's big </U>
+			<U WHO="S1"> no it's not. <U WHO="S3">
+					<OVERLAP> oh it's n- </OVERLAP>
+				</U>
+				<OVERLAP> they're usually </OVERLAP> like eleven hundred </U>
+			<U WHO="S3"> oh, okay i'm thinking seven hundred <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> te- </OVERLAP> a thousand <OVERLAP> usually </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> well some </OVERLAP> of us in here are just, massive, two thousand, C-C brain <EVENT WHO="S1" DESC="LAUGH"/> i </U>
+			<U WHO="S1"> (xx) head as big as a <OVERLAP> toothpick, an orange </OVERLAP> and a toothpick </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S3">
+				<OVERLAP> did you see the uh, </OVERLAP> the uh, the uh what's it called in one of the, the Far Sides, he uh, it it's like, the b- the cops break into this thing and say okay who's the brains in this organization? everyone's got small heads and one guy's got a huge head <EVENT WHO="SS" DESC="LAUGH"/> so </U>
+			<U WHO="S1"> just cuz he had a big head doesn't mean_ i mean <U WHO="S3">
+					<OVERLAP> Neanderthals had bigger heads </OVERLAP>
+				</U>
+				<OVERLAP> Neanderthals had a much bigger </OVERLAP> head and they were not, necessarily smart but we don't really know because they're not the uh, savage that they had been thought <U WHO="S3">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> to be </OVERLAP>
+				<EVENT DESC="SOMEONE COMES TO DOOR"/> hi come on in <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> what was that? </U>
+			<U WHO="S1"> oh my god i think i had whoa that's, my problem, <U WHO="SU-m"> (xx) </U> twenty ounces of caffeine. </U>
+			<U WHO="S5"> oh God, i'm <OVERLAP> glad it wasn't Surge </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> (xx) not without laughing for </OVERLAP> two hours? </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> no i think that was equal to one can of Surge what? </U>
+			<U WHO="S3"> you had, two <OVERLAP> two hours of nonstop laughing? (xx) </OVERLAP>
+			</U>
+			<U WHO="S5"> did you <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<U WHO="S1"> one time i had a NoDoz and i laughed for twenty minutes straight no stopping. </U>
+			<U WHO="SU-m"> an overdose <OVERLAP> of what? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> you had a what? </OVERLAP>
+			</U>
+			<U WHO="S1"> no- a NoDoz, i was like <EVENT DESC="SOUND EFFECT"/>
+			</U>
+			<U WHO="S5">
+				<EVENT DESC="LAUGH"/> if i was around you i woulda killed you. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> try not to, be crazy </U>
+			<U WHO="S4"> so what are you up to tonight? </U>
+			<U WHO="S1"> well, i'm sitting here, right after this i'm gonna start doing some homework you know, stuff like that, <U WHO="S4"> that's cool </U> cool things like that <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> Anne are you okay? </U>
+			<U WHO="S1"> no i'm, a little, crazy </U>
+			<U WHO="S7"> tire you out </U>
+			<U WHO="S5"> she's silly (xx) </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S3"> i think it's the, the increased metabolism (xx) not sure, about the combination (xx) </U>
+			<U WHO="S7"> get outta here (sweet) Ch- Charlie are you afraid that yours doesn't hold up to par with the rest of ours, is that it? </U>
+			<U WHO="S3"> no, i'm just seeing what i can do here to improve this </U>
+			<U WHO="S7"> yeah, whatever (xx) <EVENT DESC="LAUGH"/> you are the Charlie (who is high and strong) <U WHO="S3"> huh? </U> you are the Charlie, you (are high and strong) <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":05"/> okay you know what? (xx) down the hall? (you know what i might be thinking about) to get revenge. somebody might, pop out of that hallway... you remember me, from (xx) <EVENT DESC="LAUGH"/>
+				<PAUSE DUR=":05"/> uh uh uh uh uh, see you you're the o- you're the one in the dark shadows. <PAUSE DUR=":18"/> now i turn into super geek, and i'm moving to the nearest (xx) </U>
+			<U WHO="S8"> we know, we know how it goes. </U>
+			<U WHO="S7"> you had your power ring, you transformed. yeah yeah see you (xx) i uh, you going to the meet? </U>
+			<U WHO="SU-f"> i'm going to definitely try (to go to the meet) (xx) Tuesday and Thursday, Thursday and Wednesday (xx) i'm, i'm trying to make it at least (xx) as possible, (xx) <U WHO="S7"> uhuh </U> and i'm having (xx) to help me somewhat (xx) <U WHO="S7"> okay </U> but i should be here. </U>
+			<U WHO="S7"> alright see you </U>
+			<U WHO="SU-f"> okay. i'll see you tomorrow morning. </U>
+			<U WHO="S7"> okay. </U>
+			<EVENT DESC="CONVERSATION IIB: 34:27 - 61:45"/>
+			<U WHO="S9"> (xx) equals... well, okay that's actually, that's actually more accurate okay so then, (xx) and it turns into this (xx) <U WHO="S6"> yeah </U> and (xx) and then </U>
+			<EVENT DUR=":26" DESC="PAUSE WHILE READING"/>
+			<U WHO="S9"> well... okay, here you have, (xx) okay, here we need to draw a triangle. </U>
+			<U WHO="S6"> (xx) </U>
+			<U WHO="S9"> well, y- it's gonna be (kind of an) elongated triangle okay? so we have, we have the center of the nebula (xx) and we have the (remnant here...) so, like, you know that this distance, (xx) point-three-one parsecs </U>
+			<U WHO="S6"> so that's what we just, figured out </U>
+			<U WHO="S9"> we just figured out, okay and so here's the earth... the triangle like this. now, what else do you have that can help (you?) </U>
+			<U WHO="S6"> (would) the diameter? </U>
+			<U WHO="S9"> mhm </U>
+			<U WHO="S6"> right here? </U>
+			<U WHO="S9"> so that's this area down here. <PAUSE DUR=":08"/> what else do you have... and this is what you wanna find. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S6"> so we have, (xx) <U WHO="S9"> yeah </U> it'd be like cosine? </U>
+			<U WHO="S9"> yeah you know you know it's really uh, tangent (xx) <U WHO="S6"> oh, okay </U> so you have, one-point-three-one, over, (xx) equals one? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S6"> (is that,) oh the tan of five-point-two... (xx) i don't remember and all that stuff. </U>
+			<U WHO="S9"> well you mighta used the small angle formula. <U WHO="S6"> (xx) tangent </U> what? </U>
+			<U WHO="S6"> i, i have the tangent. </U>
+			<U WHO="S9"> P, oh, but um, that's not degrees, that's, that's... they actually want it. </U>
+			<PAUSE DUR=":47"/>
+			<U WHO="S9"> (xx) remember, tried that formula for a little while, remember where that was? </U>
+			<U WHO="S6"> um, page nineteen? </U>
+			<U WHO="S9"> nineteen. </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S6"> (xx) make, (thirty-eight) and then (xx) forty eight, </U>
+			<U WHO="S9"> no no no no not </U>
+			<U WHO="S6"> not that one </U>
+			<U WHO="S9"> nope </U>
+			<U WHO="S6"> this one the one i found in the notes? </U>
+			<U WHO="S9"> small angle formula? does that sound <OVERLAP> familiar? </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> oh </OVERLAP> that was in the front. </U>
+			<U WHO="S9"> yeah, that's what i thought. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S6"> yeah, in chapter two or one... page eight or nine. </U>
+			<U WHO="S9"> um, page eight or nine? </U>
+			<U WHO="S6"> yeah </U>
+			<U WHO="S9"> okay i think that's what it was <PAUSE DUR=":04"/> yes. <EVENT DESC="LAUGH"/> (xx) okay here you have um... you have this D, you have this angle... <U WHO="S6"> right, </U> and you have, li- so you can, solve it two different ways you can use a tangent or you can use this. now, for this want the, um, the angle has to be (xx) (i mean) the angle has to be in (degrees) um, so <U WHO="S6">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> you could do it two different ways </OVERLAP> and you should get (xx) for it, because this is kind of an approximation problem. </U>
+			<U WHO="S6"> well how do i switch it from arc minutes to degrees? </U>
+			<U WHO="S9"> um, i don't know (xx) </U>
+			<U WHO="S6"> how many arc seconds? </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S9"> one degree is sixty arc minutes <U WHO="S6"> okay so, </U> this so, so one arc minute is, equals how many degrees? </U>
+			<U WHO="S6"> um one-sixtieth? </U>
+			<U WHO="S9"> mhm </U>
+			<U WHO="S6"> okay, so then we have arc (xx) minutes? and <EVENT DUR=":13" DESC="UNINTELLIGIBLE SPEECH"/> okay so i got this crazy number. </U>
+			<U WHO="S9"> okay, take the tangent of that. </U>
+			<U WHO="S6"> the tangent, (xx) </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S9"> oh sorry </U>
+			<U WHO="S6"> that's okay this looks like (xx) alright </U>
+			<U WHO="S9"> let's make a short one (look like this.) um, okay so you have, (xx) </U>
+			<EVENT DUR="5:44" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S9"> this you have to use, pi... um, cuz this is the whole, like this is, this is one-point- four. this whole <U WHO="S6"> oh </U> thing is one-point-four. you hafta use half of that </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S6"> i'm totally (xx) </U>
+			<U WHO="S9"> you're doing it (xx) okay so this is so okay, um, okay you know that this is what's this (xx) point-three-one... this is... and this is five-point-two. so this, makes a triangle... three-point-six (arc) minutes and, this </U>
+			<EVENT DUR=":34" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S9"> yeah i i think, this is, this is gonna (xx) answer there and i'm trying to figure out why this one's (xx) </U>
+			<U WHO="S6"> so this one's wrong? </U>
+			<U WHO="S9"> one of 'em is wrong, (xx) <EVENT DESC="LAUGH"/> um, it doesn't have to be (xx) no <PAUSE DUR=":05"/> this one you use the whole (xx) </U>
+			<EVENT DUR=":20" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S9"> (xx) because like, this is pretty close, you know? </U>
+			<U WHO="S6"> um, what did i switch? (xx) i switched the angle. <U WHO="S9"> right </U> arc minutes (xx) arc seconds. </U>
+			<U WHO="S6"> mhm?.. so the (xx) uhh, <EVENT DESC="LAUGH"/> it would be six. </U>
+			<U WHO="S9"> well, for this one you wanna use (xx) </U>
+			<U WHO="S6"> um, sixteen? </U>
+			<PAUSE DUR=":28"/>
+			<U WHO="S9"> um... times three-point, oh-one? okay this is the number i get here. </U>
+			<U WHO="S6"> (xx) this one different? </U>
+			<U WHO="S9"> yeah i get s- <OVERLAP> the </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> to </OVERLAP> the two? </U>
+			<U WHO="S9"> (xx) yeah </U>
+			<U WHO="S6"> well what was i doing? </U>
+			<U WHO="S9"> i don't know. </U>
+			<U WHO="S6"> (xx) i just don't know how to <EVENT WHO="SS" DESC="LAUGH"/> (xx) so it's the same exact thing then. </U>
+			<U WHO="S9"> yeah, actually but this one you should, redo using, this <U WHO="S6"> the halves? </U> the halves because that's actually more accurate than the triangle (one) you know. </U>
+			<U WHO="S6"> okay. so, (xx) </U>
+			<U WHO="S9"> yeah it's like a (xx) </U>
+			<U WHO="S6"> okay good, i was gonna do that later. <U WHO="S5"> okay </U> (xx) what else? </U>
+			<U WHO="S9"> did you have another question? </U>
+			<U WHO="S6"> oh yeah i have lots of questions (xx) i don't know. i missed the (xx) one day and i don't know what's up. um, number two, it's (xx) remnants. and i had something (xx) neutrons that were, uh </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S9"> (have you studied) neutron stars? </U>
+			<U WHO="S6"> yeah cuz these are, solar masses (xx) is that wrong? </U>
+			<U WHO="S9"> what about black holes? </U>
+			<U WHO="S6"> oh, well this one could be, right? but what about that one? i thought it had to be more than ten. </U>
+			<U WHO="S9"> um, technically more than three, but um <U WHO="S6"> oh really? </U>
+				<EVENT DESC="LAUGH"/> yeah, but um, this is more likely to be the black hole, because this is, heavier, and it's also younger <U WHO="S6">
+					<OVERLAP> what is the? </OVERLAP>
+				</U>
+				<OVERLAP> so it's (xx) </OVERLAP>
+			</U>
+			<U WHO="S6"> it's younger? how do you know it's younger? </U>
+			<U WHO="S9"> well, i- because um, it's more massive, you know if it's more massive then i- it's evolving, more quickly. <U WHO="S6"> oh okay it will be </U> so, younger one it, gets its final, (xx) its final state. </U>
+			<U WHO="S6"> and what does the temperature have to do (xx) oh that's the hottest one (xx) right? <U WHO="S9"> mhm </U> does that mean, it's gonna go quicker? </U>
+			<U WHO="S9"> yeah cuz it's burning things faster. <U WHO="S6"> okay </U> like higher, higher temperatures equals higher </U>
+			<U WHO="S6"> so that would mean (it'll be a) black hole (instead of a neutron.) </U>
+			<U WHO="S9"> probably i mean you know it's gonna be one or the other but since it is twenty-four masses, <U WHO="S6"> okay (xx) </U> you still, like neutron stars (can) only be up to about, three, solar masses? </U>
+			<U WHO="S6">
+				<OVERLAP> oh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> between </OVERLAP> two and three </U>
+			<U WHO="S9"> yeah neutron stars can be between two and three, the thing is like if you have a ten, ten solar mass, star, it's gonna lose a lot of its mass at the end of its life you know when it goes through a giant and it like, goes supernova and stuff and so if it loses, you know seven solar masses it can be a neutron star but this one, it's gotta lose seventeen solar masses, at the least <EVENT DESC="LAUGH"/>
+				<U WHO="S6">
+					<OVERLAP> oh, okay, </OVERLAP>
+				</U>
+				<OVERLAP> so you know </OVERLAP> it's probably not gonna lose that much, <U WHO="S6"> okay </U> so it's more likely to be a black hole. </U>
+			<U WHO="S6"> okay and this one, we don't know? i mean what does this have to do with it. like does that help me tell? </U>
+			<U WHO="S9"> this one? </U>
+			<U WHO="S6"> yeah </U>
+			<U WHO="S9"> um, well you know, it's gonna be a little older, we know it has (seven different) chemical composition <PAUSE DUR=":05"/> i would say based, on the mass here, i wouldn't worry as much <U WHO="S6"> okay </U> about the classification you might wanna check with your T-A about, (xx) </U>
+			<U WHO="S6"> i don't know what i did. i took off the wrong part again... okay. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S6"> so this one i don't know about? <OVERLAP> (i just guess?) </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> yeah </OVERLAP> this one i- well, (xx) what do you know about the evolution of stars? </U>
+			<U WHO="S6"> not much </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S9"> well, do you, have your book? </U>
+			<U WHO="S6"> yeah, where did it go? </U>
+			<U WHO="S9"> is this your book? </U>
+			<U WHO="S6"> yeah. </U>
+			<U WHO="S9"> really? you guys still use the fourth edition? </U>
+			<U WHO="S6"> yeah (we still have that one.) </U>
+			<U WHO="S9"> oh... um, do you know which chapter it is? </U>
+			<U WHO="S6"> twenty-three or four. (xx) look at (earlier) today but i still don't know... twenty-three </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S9">
+				<SEG TYPE="READING"> the deaths of stars? </SEG>
+			</U>
+			<U WHO="S6"> twenty-two (or whatever,) <U WHO="S5"> let's see </U> that's what i was looking through and that was not helping. </U>
+			<U WHO="S9"> yeah this book, has some, sort of, like it doesn't, lay things out so that (xx) can, um, <PAUSE DUR=":11"/> um (xx) have twenty-four, twenty-five (xx) is a neutron star <U WHO="S6"> okay </U> so it ca- like both of these could kinda go either way. <U WHO="S6"> okay </U> you know, it's more likely to be one than the other but, you know it has to blow off a lot of mass... um </U>
+			<PAUSE DUR=":17"/>
+			<U WHO="S9"> see why does it ask specifically? (do you) wanna know about the end of (xx) s- end of the lives well, we're gonna also have a supernova and (xx) like it's gonna (xx) <U WHO="S6"> so i put, just i don't </U> like you know it's gonna be a supernova and in the center you're gonna either have a neutron star or a black hole, it's kinda hard to say, definitively, this is going to be a neutron star. </U>
+			<U WHO="S6"> so should i just say supernova (xx) </U>
+			<U WHO="S9"> like you wanna say supernova but you also wanna say say what's left in the core which'll be, a black hole or a neutron star. <U WHO="S6"> so i <OVERLAP> wanna say </OVERLAP>
+				</U>
+				<OVERLAP> you wanna mention </OVERLAP> them both. for both of those (xx) </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S6"> alright, could that be <U WHO="S5"> hm? </U> what's (xx) (xx) is that a sun? </U>
+			<U WHO="S9"> it's not, it's referring to a different one but yeah, it's the sun do you remember what happens to the sun? </U>
+			<U WHO="S6"> in all those years, it's gonna turn into, what is it gonna turn into? a black hole? </U>
+			<U WHO="S9"> it's not massive enough it needs to have at least three <OVERLAP> solar masses </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> oh cuz </OVERLAP> it's only one <U WHO="S5"> mhm </U> so, it'll be a neutron or a white dwarf. it's a white dwarf right? </U>
+			<U WHO="S9"> mhm, because, a white dwarf is, anything that's up to one-point-four-four solar masses. so, like if it has more than that, you get a supernova <U WHO="S6"> okay </U> and you end up with a neutron star. </U>
+			<U WHO="S6"> okay so since it's one to begin with it's not gonna be more than that right? </U>
+			<U WHO="S9"> mhm, but you're also gonna hafta blo- like it's gonna be a supergiant, before it becomes a white dwarf and all that stuff from i- from the supergiant is (xx) </U>
+			<U WHO="S6"> (right there?) </U>
+			<U WHO="S9"> yeah, but <U WHO="S6">
+					<OVERLAP> (xx) the gases? </OVERLAP>
+				</U>
+				<OVERLAP> what (xx) what what </OVERLAP> does it what does it, leave behind? </U>
+			<U WHO="S6"> like what gas is it? </U>
+			<U WHO="S9"> yeah well, you know what? what does the gas look like? what is that called? <U WHO="S6"> (xx) </U> um, it's actually, a uh, planetary (nebula) <U WHO="S6"> (xx) </U> yeah like, like, it just kinda like the mass just kind of floats away (xx) it doesn't have a big explosion because it never starts (xx) it just kinda gets cold and dark. but that kinda blows off cuz there's solar wind and all that stuff and so, you end up with (planetary) nebula, just blows around like that (xx) you know what it's cuz they all (xx) </U>
+			<U WHO="S6"> okay... </U>
+			<U WHO="S9"> i know it's (xx) </U>
+			<EVENT DUR=":15" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S6"> so it's like this is a cool star? </U>
+			<U WHO="S9"> yeah it's a cool star and you know it's not gonna be real massive </U>
+			<U WHO="S6"> so it'll probably be a white dwarf as well? </U>
+			<U WHO="S9"> most likely </U>
+			<U WHO="S6"> (you're) just guessing (xx) and then um, (xx) the last one, collision is between two dwarfs </U>
+			<U WHO="S9"> well, you know, there are the mass limit of white dwarf, is one-point-four solar masses, combined with one-point, the one-point-eight so you know that it, um </U>
+			<U WHO="S6"> so that's a, (supernova?) </U>
+			<U WHO="S9"> yeah you're gonna have, see you're gonna like it's gonna, it goes supernova (xx) so you know you're gonna have (xx) it's gonna have (xx) more than one-point-four </U>
+			<U WHO="S6"> (xx) since this is one-point-eight and it's, gonna be less than three, <U WHO="S9"> yeah </U> more than one-point-four? </U>
+			<U WHO="S9"> yeah </U>
+			<U WHO="S6"> so this is gonna be uh </U>
+			<EVENT DUR=":33" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S6"> um, i think you have (my) mass, cuz it says (xx) and then i get the G, from the book and i got this from the book and i just plug them in and i, <U WHO="S9"> mhm </U> so um, i would just do that with everything? <U WHO="S9"> yeah </U> and then for the mass of the sun, or the earth (and the) (xx) where do i get all these from? <OVERLAP> like the book </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> those </OVERLAP> are in the book <PAUSE DUR=":04"/> i can actually, give you the one for the sun i don't (remember) (xx) but i <U WHO="S6"> okay </U> but i, yeah but just put those in </U>
+			<U WHO="S6"> okay so that one i can (xx) but what is this one? </U>
+			<EVENT DUR=":13" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S9"> it's asking about the universe like if it was all a black hole so you know you have... you know, you'll you'll find the radius (xx) you just want the radius, the radius of the (sun) you assume it's (xx) and so then you have to find the volume, cuz density is mass per unit volume, so <U WHO="S6"> okay </U> and you know the mass, cuz it gives you the mass, and then you have the volume (xx) </U>
+			<U WHO="S6"> okay, cuz this is, cubed right? <U WHO="S9"> what? </U> length cubed is, volume? </U>
+			<U WHO="S9"> um, four-thirds-pi-R, cu- cubed </U>
+			<U WHO="S6"> okay, oh that's just for a square would be length? (xx) (or something) <U WHO="S9" RESTRICT="NONE"> yeah </U> a cube? </U>
+			<U WHO="S9"> for a cube yeah <U WHO="S6"> cube, right. </U> but if you wan- it's probably (xx) easier cuz, things get (xx) </U>
+			<U WHO="S6"> so four-thirds-pi, four-thirds-pi-R-cubed right? or is that wrong? (xx) so that's all i do (xx) </U>
+			<U WHO="S9"> yeah, well that's, well that's all you, you know you have mass over volume <U WHO="S6"> right </U> (xx) distance </U>
+			<U WHO="S6"> and so that's all i can say for that. and i <U WHO="S5"> (xx) </U> okay good thank you </U>
+			<U WHO="S9"> cool </U>
+			<EVENT DESC="CONVERSATION IIC: 64:05 - 101:32"/>
+			<U WHO="S1"> oh my gosh i took this pad again. every time i go to_ every single week that i go to physics tutoring i leave with a pad of paper. okay so uh, starting with? </U>
+			<U WHO="S11"> um, i don't really (xx) <U WHO="S1"> okay <EVENT DESC="LAUGH"/>
+				</U> um, i just kinda wanna go write my own (xx) </U>
+			<U WHO="SU-f"> okay </U>
+			<EVENT DUR=":12" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1">
+				<SEG TYPE="READING"> what does, the fact that the planets all orbit a </SEG> uh what book are you using? </U>
+			<U WHO="S11"> uh, fourth edition </U>
+			<U WHO="S1"> uh, Universe? </U>
+			<U WHO="S11"> so y- y- you're the one who (xx) </U>
+			<U WHO="S1"> aha <U WHO="SU-m"> (xx) </U> (xx) okay cool. <U WHO="SU-m"> (xx) </U> alright, free CD-Rom. is it cool? </U>
+			<U WHO="S11"> i, used it once but no, not really. </U>
+			<U WHO="S1"> okay. </U>
+			<EVENT DUR=":23" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S11"> (xx) the right chapters (i don't know) it might be in chapter nine </U>
+			<U WHO="S1"> so the first one says uh <SEG TYPE="READING"> what does the size of the planets (xx) what's the sun (xx) tell us about the age of our solar nebula? </SEG> so, um, let's go to a chapter where it talks about the formation of the solar system. </U>
+			<U WHO="S11"> alright i can do that... cuz usually his questions don't really just, pertain to one chapter <OVERLAP> (you know what i mean) </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> mhm </OVERLAP>
+				</U> they're (like) all over the place, (xx) </U>
+			<U WHO="S1"> i don't know if there is a, chapter where it's, talks about, f- f- formation of the solar system (that you can see.) </U>
+			<U WHO="S11"> it mentioned the stars (xx) </U>
+			<U WHO="S1"> okay <SEG TYPE="READING"> (xx) stars our sun, sun our star, </SEG> that might be useful, um, (building) the solar system, you know it's, like way of ahead of probab- probably where you are </U>
+			<U WHO="S11"> yeah probably right <U WHO="S1"> but, it </U> cuz we're right in this area <U WHO="S1"> probably <OVERLAP> (but we could) look there </OVERLAP>
+				</U>
+				<OVERLAP> (alright, we can do that) </OVERLAP>
+			</U>
+			<EVENT DUR=":10" DESC="PAUSE WHILE READING"/>
+			<U WHO="S1"> looking ahead? </U>
+			<U WHO="S11"> yeah (something like that,) <EVENT WHO="S1" DESC="LAUGH"/> see what else is out there. </U>
+			<U WHO="S1"> okay so, (xx) it's obviously some (xx) so <SEG TYPE="READING"> a nebular hypothesis, our model theory </SEG> (where is it?) uh, (xx) um <SEG TYPE="READING"> you can combine (vortex and,) rotating cloud (matter) own gravitational, own gravitational (xx) as the disc (xx) consider_ </SEG> okay, so um <SEG TYPE="READING"> rotating cloud matter. </SEG>
+				<EVENT DUR=":30" DESC="PAUSE WHILE READING"/> so um, m- the question was <SEG TYPE="READING"> what does the fact that all planets, all the planets, the planets all over (xx) of the solar nebula. </SEG> so i guess, (making the sun?) </U>
+			<U WHO="S11"> um, that it all formed from one main, solar nebula. </U>
+			<U WHO="S1"> right, and uh, it said here that, the, the model <SEG TYPE="READING"> of the rotating cloud of matter contracting, with, under (xx) rotation, and flattening into a disc </SEG> that's the disc, the flattened disc <U WHO="S11"> mhm </U> at, which time, i guess, yeah, became, the planets. <U WHO="S11"> okay, <OVERLAP> so, </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> the (xx) <U WHO="S11"> alright </U>
+				<EVENT DUR=":27" DESC="MUMBLING WHILE READING"/> so that's um... is this the, okay so that's the (xx) the nebula <SEG TYPE="READING"> solar hypothesis solar, </SEG> okay here we go, um <SEG TYPE="READING"> planets were formed from the, disc (xx) sun as uh, stars formed (xx) </SEG> okay so, the rotation of the cloud caused the dust, and gas to s- form a spinning disc <U WHO="S11">
+					<OVERLAP> oh okay </OVERLAP>
+				</U>
+				<OVERLAP> so as it spun </OVERLAP> then it came out into <OVERLAP> a disc </OVERLAP>
+				<U WHO="S11">
+					<OVERLAP> oh </OVERLAP> okay (xx) </U> so it was the rotation, um <EVENT DUR=":05" DESC="PAUSE WHILE READING"/> oh, this is ridiculous (xx) okay so now (extrasolar planets,) we don't care about that. so now the next one tells us, what is the possible, explanation for the very unusual orbits of Venus and, Uranus, and, Pluto </U>
+			<U WHO="S11"> probably would be, (xx) orbits? <U WHO="S1"> yeah </U> they were probably struck by, some other foreign object <U WHO="S1">
+					<OVERLAP> maybe </OVERLAP>
+				</U>
+				<OVERLAP> possibly </OVERLAP> a comet or, a meteorite </U>
+			<U WHO="S1"> um, actually, <U WHO="S11">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> (let's check) </OVERLAP> there, they were actually proposed like this extra planet, planet X <U WHO="S11"> oh that's right yeah </U> yeah, i remember that too <OVERLAP> like maybe, (xx) </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> (xx) you can </OVERLAP> describe it any way, basically it's like </U>
+			<U WHO="S1"> right so, i don't know how uh... okay wait here we go, um, which planets did they say? <SEG TYPE="READING"> Venus, Uranus </SEG> so it looks like this, is a P, <SEG TYPE="READING"> the solar nebula hypothesis is evolutionary um, gradually build the planets (xx) </SEG> this looks, very important. <U WHO="S11"> very important <OVERLAP> right there </OVERLAP>
+				</U>
+				<OVERLAP> you should </OVERLAP> read that, mhm <U WHO="S11"> okay </U> that's strange that he makes you read ahead so far (xx) <U WHO="S11"> mm </U>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT DUR=":07" DESC="PAUSE WHILE READING"/>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S11">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that's </OVERLAP> what he said </U>
+			<U WHO="S11">
+				<EVENT DUR=":05" DESC="PAUSE WHILE READING"/> this looks pretty good... (alright) <EVENT DUR=":13" DESC="PAUSE WHILE READING"/> he doesn't exactly follow the book, that's one of the problems <U WHO="S1"> yeah </U> does his own thing i guess </U>
+			<EVENT DUR=":11" DESC="PAUSE WHILE READING"/>
+			<U WHO="S1"> what is this say <SEG TYPE="READING"> why do Jovian planets have more moons than terrestrial planets </SEG>
+			</U>
+			<U WHO="S11"> probably be- because, they have a larger area, of gravitational pull (xx) <U WHO="SU-f"> mkay </U> (xx...) it's funny how it fits in right in the chapter </U>
+			<U WHO="S1"> i know it looks <U WHO="S11">
+					<OVERLAP> it's crazy </OVERLAP>
+				</U>
+				<OVERLAP> strange. </OVERLAP> uh, <SEG TYPE="READING"> helio formation, </SEG>
+				<EVENT DUR=":08" DESC="MUMBLING WHILE READING"/>
+				<SEG TYPE="READING"> (xx) could not do this because it, never became massive enough </SEG> okay so uh... (xx) <SEG TYPE="READING"> asteroids (xx) okay, that's the (xx) uh, proton (xx) into the sun, asteroids, satellite systems, of the Jovians may continue to (xx) </SEG>
+				<PAUSE DUR=":06"/> uh, it doesn't look like, anything in there, <U WHO="S11"> (xx) </U> maybe (xx) turn the page (xx) <PAUSE DUR=":08"/> maybe it's just i mean, cuz they're so massive they just started </U>
+			<U WHO="S11"> well it mention them right here although, um <U WHO="SU-f"> mhm </U> i don't know (xx) </U>
+			<U WHO="S1"> okay <PAUSE DUR=":06"/> so you see anything here that could, answer that question? </U>
+			<U WHO="S11"> not exactly. <U WHO="S1"> okay </U> (not with) the information i already know </U>
+			<U WHO="S1"> okay, so let's see here, i don't know how, planet earth, they probably go through all the planets </U>
+			<U WHO="S11"> yeah, yeah i think they (do) i think they do </U>
+			<U WHO="S1"> this is really strange you have to, is this like a review for? </U>
+			<U WHO="S11"> this is the last assignment before the midterm (xx) <U WHO="S1"> okay </U> so </U>
+			<U WHO="S1"> it's just very strange that (xx) </U>
+			<U WHO="S11"> so this one will have to be even more abstract than, some of the others. </U>
+			<U WHO="S1"> mkay, that's weird <EVENT DUR=":09" DESC="PAUSE WHILE READING"/> (here) </U>
+			<U WHO="S11"> all this (xx) Jupiter came from the Roman gods, you know give me credit. </U>
+			<U WHO="S1">
+				<EVENT DESC="LAUGH"/> i know <EVENT DESC="LAUGH"/> um, that's really strange i think that, (xx) directly from the, <EVENT DESC="LAUGH"/> (xx) <U WHO="S11"> wow </U>
+				<EVENT DUR=":05" DESC="PAUSE WHILE READING"/>
+				<SEG TYPE="READING"> history of the Galileo years </SEG>
+				<EVENT DUR=":09" DESC="PAUSE WHILE READING"/> i think, if uh, right so if you could uh, so the J- Jovian planets are a lot larger so they're almost like a sun <U WHO="S11"> oh </U> so they probably have, their own accretion discs, <U WHO="S11"> mm </U> actually, they're only, what page is that? four-oh-six? </U>
+			<U WHO="S11"> something like that, we started down that list. </U>
+			<U WHO="S1"> yeah, i think actually it says in here somewhere, right? (xx) oh yeah, (just,) where did i read that i just read that. um, solar hypothesis, um, oh where did we see the first, solar hypothesis? </U>
+			<U WHO="S11"> probably in chapter nine </U>
+			<U WHO="S1"> here i'll help you find out. </U>
+			<U WHO="S11"> (i don't know) alright. <EVENT DUR=":05" DESC="PAUSE WHILE READING"/> (xx) right here, on (xx) </U>
+			<U WHO="S1">
+				<SEG TYPE="READING"> (xx) to, the velocity, solar (xx) </SEG> it says </U>
+			<U WHO="S11"> (xx) think it was page uh, four-oh-three. </U>
+			<U WHO="S1"> (xx) let's see if it's still back there, passing (stuff,) earlier, oh here we go... <SEG TYPE="READING"> (xx) the disk (xx) </SEG> oh this is the stuff that, was uh <EVENT DUR=":18" DESC="PAUSE WHILE READING"/> i think yeah, i think it's just that, they were so massive that they had their own, discs around them that actually form (xx) <U WHO="S11"> okay </U> cuz that's i mean </U>
+			<U WHO="S11"> if, that might, (xx) yeah <U WHO="SU-f"> okay </U>
+			</U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S1"> yeah, this is (xx) </U>
+			<EVENT DUR=":42" DESC="PAUSE WHILE READING"/>
+			<U WHO="S1"> so it's like, something you're gonna have to look up. </U>
+			<U WHO="S11"> yeah, um <EVENT DUR=":05" DESC="PAUSE WHILE READING"/> so, (xx) </U>
+			<U WHO="S1"> let's start, in the index <U WHO="S11"> yeah </U> um, (mass) density, four-eighteen. </U>
+			<U WHO="S11"> he must be using the (xx) the chapter kinda thing you know it? </U>
+			<U WHO="S1"> yeah that's kinda strange, has he assigned readings? </U>
+			<U WHO="S11"> yeah he assigns readings on the first, twelve chapters (xx) it's right here </U>
+			<U WHO="S1"> chapter twenty-eight? </U>
+			<U WHO="S11"> (i don't know,) but i don't know how to study from (now on,) just go on to the higher chapters <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> just, you just need to look in the uh, index for the word, key words and, <EVENT WHO="S11" DESC="ADDRESSES S1"/> what? </U>
+			<U WHO="S3"> nothing don't don't pay attention. </U>
+			<U WHO="S7"> i'll talk to you later (xx) um </U>
+			<U WHO="S3"> um, coded messages </U>
+			<U WHO="S1"> more, more talking about me, like when i'm (like) still in the room? (yeah) </U>
+			<U WHO="S7"> (xx) </U>
+			<U WHO="S3"> you know (xx) </U>
+			<EVENT DUR=":16" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S11"> i would imagine that's probably alright there </U>
+			<U WHO="S1"> yeah i think i think that most of it's in the book <U WHO="S11"> yeah... yeah </U> like this one is gonna involve some (computations) i don't know, who </U>
+			<U WHO="S11"> (xx) </U>
+			<U WHO="S1"> so that i mean i don't know, <U WHO="SU-m"> yeah </U> i mean check that out see (xx) </U>
+			<U WHO="S11"> okay. </U>
+			<EVENT DUR="1:29" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> do you have questions, about those geosynchronous orbits? </U>
+			<U WHO="S11"> well yeah it was it's probably (right here) anyway and and they give you the kind of questions (xx) questions (xx) distance of a quasar (xx) or something </U>
+			<U WHO="S1"> i mean all, that you have to do, is know um (xx) so you wanna, you wanna make sure that your, period, equals um twenty-four hours right? cuz, w- you know you're going the at same rate (as this one) and uh period equals uh what is it like two-pi-V over R? <U WHO="S11"> okay </U> or something like that, <U WHO="S11">
+					<OVERLAP> alright </OVERLAP>
+				</U>
+				<OVERLAP> i think </OVERLAP> and so you can find, um, let's see wait is that right? two-pi-V over R? and then, do you know that that's that so, you could probably plug that into here and solve. </U>
+			<U WHO="S11"> okay i can do that (xx) <PAUSE DUR=":06"/> well if it's not i can use notes (from class.) i still have my notes <OVERLAP> (from class) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah it's probably </OVERLAP> i mean, (most of the) stuff seems to be, in the book </U>
+			<EVENT DUR="2:05" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S11"> (xx) </U>
+			<U WHO="S1"> okay, okay so you (xx) by satellite, two-way mirror, watch (xx) pairs so alright so you've got, um, so you've gotta do like resolutions here, <U WHO="S11"> mhm </U> um, you've got, two millimeter mirror, or two meter mirror <U WHO="S11"> yeah </U> and you've got, wanna be able to resolve some saying, something that's like, half a meter, or something like <U WHO="S11"> okay </U> yeah say, say <U WHO="S11">
+					<OVERLAP> alright </OVERLAP>
+				</U>
+				<OVERLAP> like </OVERLAP> half a meter. <U WHO="S11"> yeah </U> so, y- you wanna be able to resolve, (it's like what's it,) it's like five meters, and you've got a two meter mirror, (xx) disorganized, so um... so how far above the earth, does the sunlight need to be? so now, you're gonna do, something like this, um, let's see, what are we gonna do? we are going to, let's see, (xx) </U>
+			<U WHO="S11"> it'd probably be in the light chapter </U>
+			<U WHO="S1"> okay, <SEG TYPE="READING"> light and color scope </SEG> excuse me. <EVENT DESC="READING THROUGHOUT UTTERANCE"/> (xx) we don't care about that yet <PAUSE DUR=":07"/> (xx) wait wait wait, what's this all about? (xx) <PAUSE DUR=":17"/>
+				<SEG TYPE="READING"> absorbing power in seconds of arc equals (xx) </SEG> (not really what we're trying to do) you've got, you've got (xx) triangle, so you've got, some distance D <U WHO="S11"> mhm </U> and you've got, some, other distance here R... this is your angle theta <U WHO="S11"> oh <OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> but it's not </OVERLAP> really like that cuz it's more like, (then again) it is kinda like that. cuz, uh it's like, weird it's like cuz this is bigger, and that's gonna be a lot smaller so it's something weird like this but, um <U WHO="S11"> oh okay </U> so, let's keep looking <EVENT DUR=":10" DESC="PAUSE WHILE READING"/> okay, how about notes? has he given you any notes on uh resolution? </U>
+			<U WHO="S11"> uh, okay (uh let me check?) </U>
+			<U WHO="S1">
+				<EVENT DUR=":31" DESC="PAUSE WHILE READING"/> okay (so) <EVENT DUR=":12" DESC="PAUSE WHILE READING"/> (what does that mean resolve (xx) <EVENT DUR=":16" DESC="PAUSE WHILE READING"/>
+			</U>
+			<U WHO="S11"> (xx) exactly (xx) flip through (this so) i can remember </U>
+			<U WHO="S1">
+				<EVENT DUR=":07" DESC="PAUSE WHILE READING"/> then you've got oh okay... okay, this is what you're_ i think you're gonna do. you're gonna use this resolving power, thing here see it says <SEG TYPE="READING"> the resolving power alpha in seconds of arc is equal to eleven-point-six divided by the diam- diameter </SEG>
+				<U WHO="S11"> okay </U> so, you're, given the diameter so you can plug this is this is in terms of centimeters. <U WHO="S11"> okay <OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> so, </OVERLAP> do that <PAUSE DUR=":21"/> i'm not sure yeah, so, this is not an important triangle <EVENT DESC="LAUGH"/>
+				<U WHO="S11"> okay </U> that's okay </U>
+			<U WHO="S11"> i'm usually (passed out at this point) </U>
+			<PAUSE DUR=":06" WHO="SS"/>
+			<U WHO="S1"> so you're gonna find alpha in terms of arc seconds, okay? <U WHO="S11"> okay </U> and that's gonna be this angle here, theta... <U WHO="S11"> mhm </U> and um, then your R here, is gonna equal to be zero-point-five meters... and this is, the distance that you wanna calculate? okay? <U WHO="S11"> mhm </U> so this is like um, this is the satellite, (xx) it's got little, things coming out of it <U WHO="S11"> (xx) </U> and this is on the earth. so, you want D as the distance okay? <U WHO="S11"> okay </U> and the way to solve for that, basically so you've got um, you can pretend this is a right triangle, opposite over hypotenuse so it's like, so i don't know if you remember your trig, so, opposite over hypotenuse so that's R over D, is equal to sine, theta, but theta's really small <U WHO="S11"> right </U> so that's approximately equal to just theta? <U WHO="S11"> okay </U> so in other words, D, equals uh, R over theta, does that make sense? the way i did that? </U>
+			<U WHO="S11"> kind of refreshing (me) yeah </U>
+			<PAUSE DUR=":15" WHO="SS"/>
+			<U WHO="S1"> and this is how you're gonna find D. <U WHO="S11"> okay </U> keeping this uh you can keep this still in meters, but make sure this is uh i think this is (xx) seconds <U WHO="S11"> okay </U> so like, if uh, let's see what we can get, one of them divided by two, hundred, centimeters, um, oh wait we said that, this is equal to theta. like, so (xx) that, so we'll say uh, divide it by (xx) that... i think actually no, i think this has to be in degrees, theta has to be in degrees... radians, no no no, wait, sine (xx) </U>
+			<U WHO="S11"> (doesn't it) have to be in agreement? </U>
+			<U WHO="S9"> hm? </U>
+			<U WHO="S11"> do they have to be in radians (xx) </U>
+			<U WHO="S1"> i think it has to be in_ actually, it's more like a formula, you know um, R equals D, theta, radians? </U>
+			<U WHO="S9"> R equals D theta_ um <OVERLAP> actually it's </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> degrees </OVERLAP>
+			</U>
+			<U WHO="S9"> yeah i think it's radians, that's what makes, i think it's, radians </U>
+			<U WHO="S1"> is it or? </U>
+			<U WHO="S9"> uh no it's uh s- it depends on w- on how you set up you have <EVENT DESC="WRITING"/> diameter... equals angle, in arc seconds, times, the distance, to object, uh divided by two-oh-six-two-six-five </U>
+			<U WHO="S1">
+				<OVERLAP> that's when it's in arc seconds </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think what you're thinking </OVERLAP>
+			</U>
+			<U WHO="S9">
+				<OVERLAP> that's in arc seconds </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think y- i think what you're think- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right so, if you put it </OVERLAP> into radians than you're <U WHO="SU-f">
+					<OVERLAP> then yeah </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> i think what you're </OVERLAP> thinking is for, D-S the the length of that part is is R E theta <OVERLAP> or just theta R theta </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah so if if you </OVERLAP> convert this into radians or can use this formula here where um, we say that R is equal to, um, theta, in w- arc seconds, times D divided by two-oh-six-two-six-five, which is the number of, arc seconds in a, in d- in a degree or in three hundred sixty degrees? </U>
+			<U WHO="S3"> what's that? </U>
+			<U WHO="S1"> two-oh-six-two-six-five that's the number of, arc seconds <U WHO="SU-f"> three hundred sixty </U> in three hundred sex- sixty degrees, let me make sure that's right though </U>
+			<U WHO="S9"> um, i just looked it up </U>
+			<U WHO="S1"> you just looked it up and it was right? </U>
+			<U WHO="S9"> yeah <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S9"> i actually spent a a you know a good fifteen minutes <OVERLAP> on that formula so </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay, alright </OVERLAP> (xx) multiply the (xx) by say D, well we_ this is what we're looking for is D <U WHO="S11"> okay </U> so um divide this by two-oh-six-two-six-five, yeah, this looks um, does this look right? um, i don't know if this is right. <PAUSE DUR=":10"/> okay, one divided by this... you multiply that by point-five, yeah you're gonna get like, a lot of meters then, like three (ten to the) sixty meters probably um, so, this, is important information, that should be like, small angle formula (xx) in the book <EVENT DUR=":04" DESC="PAUSE WHILE READING"/>
+			</U>
+			<U WHO="S11"> (xx) actually have it </U>
+			<U WHO="S1"> i don't know. four eighty-two. yes, see? the angle diameter <U WHO="S11"> mhm </U> over two-si- two-oh-six-two-six-five arc seconds this is (xx) in uh, (xx) is equal to the linear diameter in other words, the diameter of the football player <U WHO="S11"> okay </U> (would be) the distance away. does that make sense? </U>
+			<U WHO="S11"> i think it does yeah </U>
+			<U WHO="S1"> okay so there's the formula that you're using <U WHO="SU-m">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> here </OVERLAP> okay...? <EVENT DESC="ANSWERS QUESTION FROM OTHER CONVERSATION"/> that's really quite random. there's that, so that's_ this is, now it says calculate the orbital speed, of the geosynchronous, (xx) that chapter? </U>
+			<U WHO="S11"> (i don't know, somewhere) </U>
+			<U WHO="S1"> somewhere up there. yeah, ah perfect. alright so, then um, what would the orbital period, be? do you have any idea how you might go around uh, go about, doing that? </U>
+			<U WHO="S11"> orbital period? <U WHO="SU-f"> mhm </U> um, probably not </U>
+			<U WHO="S1"> okay let's see (xx) so you know, that um <EVENT DUR=":07" DESC="PAUSE WHILE READING"/> well, okay they wanna watch the (xx) which i think is (xx) <U WHO="SU-m"> okay </U> so, what kind of orbit would that be? </U>
+			<U WHO="S11"> (amount of) time? <U WHO="SU-f"> yeah </U> like distance, that would probably be like three hours </U>
+			<U WHO="S1"> just to w- well, but i mean it wants to stay in the same place, so what kind of an orbit is that? </U>
+			<U WHO="S11"> oh um, so what kind of orbit the one (the) satellite's in </U>
+			<U WHO="S1"> let's see here. let's go back to this geosynchronous stuff. <U WHO="S11"> yeah </U> um where was that? </U>
+			<U WHO="S11"> geosynchronous? uh, page four-eighteen </U>
+			<U WHO="S1"> four-eighteen? really? <U WHO="S11"> i think so </U>
+				<EVENT DUR=":05" DESC="PAUSE WHILE READING"/>
+				<U WHO="S11"> i think it was </U> i think it's earlier than that (radial) telescopes </U>
+			<U WHO="S11"> what question was it? </U>
+			<U WHO="S1"> number i- it's uh, it was number, three </U>
+			<U WHO="S11"> three? </U>
+			<U WHO="S1"> yeah i just didn't know which one </U>
+			<U WHO="S11"> number three, i don't have <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> you don't </OVERLAP> have (xx) <EVENT DESC="READING THROUGHOUT UTTERANCE"/> that's okay we'll find it, light and telescopes, what's this one about? yeah this is it <PAUSE DUR=":07"/> so, what did we say again um, well we don't really know if it's a geosynchronous orbit cuz_ although it is staying (about) the same, point, but um, we can find, let's find the period. let's find a, equation for period <U WHO="S11"> okay </U> before we, make any generalizations that may or may not be right. period they don't have a period. orbital <EVENT DUR=":35" DESC="MUMBLING WHILE READING"/> so you know the distance, and you wanna find the period <PAUSE DUR=":05"/> does that look like something you might (xx) does that look like, a bunch of uh... those equations, might be um, important? </U>
+			<U WHO="S11"> um we haven't used this, this equation but we've used these first two </U>
+			<U WHO="S1"> okay this one is just um, if you plug, this one into here, if you set these two equal? <U WHO="S11"> okay </U> then square it? right because square root of the square root so then you've got the four-pi-squared, R-squared times this R then you bring out_ do you want me to show you </U>
+			<U WHO="S11"> yeah i (know how to do that) yeah okay </U>
+			<U WHO="S1"> so you got_ i'm just gonna skip the squaring part and just gonna skip the squaring part and (xx) four-pi, uh, R-squared over, P-squared right? bring that R over so now you just (rewrite) this so P is brought over here. this equals, four-pi-R-squared, now times another R, divided by (xx) which is that <U WHO="S11"> (xx) </U> okay so, there (xx) you get, <SEG TYPE="READING"> M is the terminal mass of the system (xx) the gas where a planet orbiting the sun (leaves) the mass of the sun </SEG> so, in other words, for this one you're gonna use the mass of, the earth. <U WHO="S11"> okay </U> um, and you know the distance right cuz we fig- we would have figured it out (xx) and then using this, you know the masses, map- mass of the earth is like, something times ten-to-the-four, or ten-to-the-twenty-four, it might even be, uh there's probably constants somewhere in here </U>
+			<U WHO="S11"> yeah, oh yeah, it's in_ it's right on the back cover (xx) right there, (xx) </U>
+			<U WHO="S1"> (xx) that's awful (xx) </U>
+			<U WHO="S11"> probably like (xx) </U>
+			<U WHO="S1"> mass of the earth, is like, six times ten to the twenty-fourth so just plug that in there you know G <U WHO="S11"> mhm </U> okay? <U WHO="S11"> okay </U> does that make sense? <U WHO="S11"> actually that's </U> (important equation) in there, that should work <U WHO="S11"> alright </U> and <PAUSE DUR=":14"/> um, so then, you'll find the orbital period and this is how much (xx) watch with one satellite, <U WHO="S11"> and then so, this <OVERLAP> value then? </OVERLAP>
+				</U>
+				<OVERLAP> then you </OVERLAP> (just) have to find out you know, whether or not it's moving faster, than twenty-f- i mean is it gonna be (xx) certain point, like cuz a <OVERLAP> ge--in a </OVERLAP> (xx) </U>
+			<U WHO="S8">
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1"> (xx) what? </U>
+			<U WHO="S11"> i was just, (xx) </U>
+			<U WHO="S1"> oh, it might have been a <U WHO="SU-m">
+					<OVERLAP> oh oh oh </OVERLAP>
+					<EVENT DESC="LAUGH"/>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> i mean if it was if, like, cuz you know in a geosynchronous orbit (xx) always (xx) so if they were (xx) then they could see, the whole thing but <U WHO="SU-f"> (xx) </U> right. but um, i think i- depending on what the distance is you can compare with a geosynchronous orbit you can say whether or not it's longer, or um, less, <U WHO="S11">
+					<OVERLAP> is it, is </OVERLAP>
+				</U>
+				<OVERLAP> and um you can, so once you find up here </OVERLAP> (you know then) you can find (xx) see how long it takes to go around the earth and you know what the earth's rotation is, so you can make some sort of estimate (or something) (xx) </U>
+			<U WHO="S11"> (xx) (like tested) on...? cuz he wrote down some, pretty funky stuff too. and i was like oh my god i was like </U>
+			<U WHO="S9"> um thermo <U WHO="S11"> oh, okay </U> we do a lot of probability stuff in thermo. </U>
+			<U WHO="S11"> okay. (that's scary) </U>
+			<EVENT DUR=":18" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> um, i don't know if, terminal velocity may come in or not </U>
+			<U WHO="S11"> no <U WHO="S1"> okay </U> because it says ignore air resistance <U WHO="S1"> okay </U> so basically it'd just be then (xx) whatever <U WHO="S1"> okay </U> (xx) </U>
+			<EVENT DUR=":58" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S11"> that's probably (xx) </U>
+			<U WHO="S1"> okay. is that good? </U>
+			<U WHO="S11"> it's yeah, it's, (xx) <U WHO="S1"> okay </U> (xx) really longer </U>
+			<U WHO="S1"> i hope i helped. </U>
+			<U WHO="S11"> oh, definitely. </U>
+			<U WHO="S1"> okay good. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S11"> (xx) </U>
+			<EVENT DESC="CONVERSATION IID: 64:06-78:59"/>
+			<U WHO="S5"> (Chris) made me go in front </U>
+			<U WHO="S12"> oh again? </U>
+			<U WHO="S5">
+				<EVENT DESC="LAUGH"/> yeah she was like you're okay i was like, <OVERLAP> oh </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> how did </OVERLAP> she make you? <U WHO="S5"> i was like </U> well you remembered. <U WHO="S5"> i know, but <OVERLAP> i was (like) </OVERLAP>
+				</U>
+				<OVERLAP> i remembered it too </OVERLAP> but i was in the (back) (xx) </U>
+			<U WHO="S5"> cuz i was like <U WHO="S12">
+					<OVERLAP> i was shy </OVERLAP>
+				</U>
+				<OVERLAP> i gotta be </OVERLAP> somebody else has to know this too, and i was like dude, i was like, i was just marking up there, and she was like alright, <OVERLAP> now you go u- (i was like) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> yeah that girl </OVERLAP> was like, you know what sh- she knows (it) </U>
+			<U WHO="S5"> i know i was like no, sh sh <EVENT WHO="SS" DESC="LAUGH"/> and i was kinda getting annoyed cuz she couldn't remember it. </U>
+			<U WHO="S12"> who, the <OVERLAP> teacher? what's her name? </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U> i don't even know her name? </U>
+			<U WHO="S5"> i don't think anybody knows her name. she never passed out a syllabu- syllabus, did she? </U>
+			<U WHO="S12"> no but, i have a question (um) aren't we supposed to go to some events? <U WHO="S5"> yeah </U> just, go on our own? </U>
+			<U WHO="S5"> yeah, (xx) stuff, performances. </U>
+			<U WHO="S12"> (xx) any event (xx) </U>
+			<U WHO="S5"> yeah, pretty much. i think that like, some she prefers over others, cuz i heard people like talking to her and stuff. </U>
+			<U WHO="S12"> how do we know? oh you have to ask her? </U>
+			<U WHO="S5"> yeah <EVENT DESC="LAUGH"/> but, like, yeah i don't wanna be like hey, uh uh ye- uh </U>
+			<U WHO="S12"> um, Lisa and I are going, on Wednesday, i think to a performance (xx) </U>
+			<U WHO="S5"> yeah, yeah like i i had two other classes here, two other dance classes, and like usually it was like, two pages, you know just kinda like describing, what you noticed and, you know <U WHO="S12"> okay </U> just like commenting on the choreography <OVERLAP> and the costumes things like that (xx) </OVERLAP>
+			</U>
+			<U WHO="S12"> so this is (what) a jazz thing or can we go to like a tap thing, cuz i love tap. </U>
+			<U WHO="S5"> um you can, you can probably go to tap. tap's close enough. i mean, you might wanna say like hey, i have this tap performance uh, i went to see it uh, can i use it for my paper? <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> yeah, well if can ever figure out her name. is that rude to ask her like, what's your name? </U>
+			<U WHO="S5"> you kn- i don't, nobody, anybody i've talked to, nobody knows. </U>
+			<U WHO="S12"> no one ever knows? </U>
+			<U WHO="S5"> i think, Eva probably knows. cuz Eva's friends with her. <U WHO="S12"> oh they're oh okay. </U> cuz they like had something in common beforehand or something i don't know. whatever </U>
+			<U WHO="S12"> i gotta ask them, (at least cuz it's bugging me) yeah i think it's like something with an M, like <U WHO="S11"> yeah </U>
+				<OVERLAP> do do do do do </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah it starts with an M, </OVERLAP> but i have no idea (but) beyond that i was like uh, yeah hi <EVENT DESC="LAUGH"/> like (because) i have tendonitis in my knee. </U>
+			<U WHO="S12"> oh you do? </U>
+			<U WHO="S5"> yeah but, it was kind of as a result of this class, so like i was like, </U>
+			<U WHO="S12"> oh, great </U>
+			<U WHO="S5"> yeah you know well you know sitting, you know (just) basically just squatting for you know, <U WHO="S12">
+					<OVERLAP> ever </OVERLAP>
+				</U>
+				<OVERLAP> ten minutes </OVERLAP> yeah, it just is not good for my knee so, and i also, like i have a (piece of metal in my knee) that's bothering me (today) (xx) <U WHO="S12">
+					<EVENT DESC="LAUGH"/> oh, no </U> so like i had to like sit out a couple days and so i had to like talk to her about it and i like never knew what to say i'm like uhh hi uh uh i hurt my knee <EVENT DESC="LAUGH"/> can't walk </U>
+			<U WHO="S12"> this, another girl in the class had tendonitis too. </U>
+			<U WHO="S5"> really? which one? </U>
+			<U WHO="S12"> i don't even know her name. i don't know her name either. </U>
+			<U WHO="S5"> what does she look like? </U>
+			<U WHO="S12"> what did she l- i don't remember it was like, three or four weeks ago. i just heard her talking about it, <OVERLAP> before class </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> the really shy one? </OVERLAP>
+			</U>
+			<U WHO="S12"> i think something was wrong with her but i don't know (xx) </U>
+			<U WHO="S5">
+				<EVENT DESC="LAUGH"/> the one who just always like walks across the (room) <EVENT DESC="LAUGH"/> like, like <EVENT DESC="SOUND EFFECT"/> i feel so bad, like (if she) (xx) everyone else, no one (would even notice) any of the people (xx) everyone stares at her cuz she like, just walks <OVERLAP> across the floor </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> cuz she goes </OVERLAP> by herself, yeah <EVENT DESC="LAUGH"/> no it's just_ you kn- that one girl with the short hair always, something's wrong with her so she, says she doesn't feel good or something. but some girl, i'll point her out to you if i can s- <U WHO="S5"> okay </U> remember and see her. yeah she said i have tendonitis so i have to sit out blah blah blah. which, (i don't know) so i'm trying to think of who was sitting out </U>
+			<U WHO="S5">
+				<EVENT DESC="LAUGH"/> but yeah i was like, she was like what's it from? i'm like this class i'm like, this is jus- this she's like oh really? i was like yeah (she does.) i cannot just sit the- i mean i i had knee problems </U>
+			<U WHO="S12"> did you <OVERLAP> tell her, if you can't do it? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> (xx) </OVERLAP> yeah i was like, you know, like i get up and stand up there when we're doing (xx) well i stand in the back so no one sees me anyways and i'm just like um, i'm gonna like, stand up for a minute </U>
+			<U WHO="S12"> yeah she makes us stay in that stupid flat back forever </U>
+			<U WHO="S5"> i know <EVENT WHO="S12" DESC="LAUGH"/> and i'm like, um knee's giving out, shoes are slipping, and i'm having prob- like today like the switching back and forth, i was sliding all around in my shoes i was like oh no, i'm slipping </U>
+			<U WHO="S12"> and she'd be like one more time one more time one more ti- okay </U>
+			<U WHO="S5"> no, i'm standing up i'm done <EVENT DESC="LAUGH"/> when we were out here like this like </U>
+			<U WHO="S12"> i hate that you had to stay with your arms. my arms get more tired than anything else, like okay this is like </U>
+			<U WHO="S5"> i'm gonna get good shoulders by the end of the class but no i always like drop 'em on the plie i'm like yeah whatever, i don't care if she (notices) <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> i don't care she'd never say anything to me she doesn't even know my name so, </U>
+			<U WHO="S5"> yeah she, onl- all she says to me is, hold in your stomach, hold in your stomach. i'm like, like today i was like ah i had my stomach held in so hard i was like (xx) </U>
+			<U WHO="S9"> which class is this? </U>
+			<U WHO="SS"> jazz </U>
+			<U WHO="S9"> jazz? </U>
+			<U WHO="S5"> jazz dance </U>
+			<U WHO="S9"> ohh </U>
+			<U WHO="S12"> and the bad thing is i used to take jazz when i was younger. (xx) </U>
+			<U WHO="S5"> well i used to, like i took, a lot of modern. i didn't take much jazz, but i took a lot of modern and i'm taking some ballet so, i mean, you know plies whatever you know, <EVENT DESC="LAUGH"/> i can do those </U>
+			<U WHO="S12"> (xx) i took a like a few years of ballet but i took mostly tap. </U>
+			<U WHO="S5"> yeah i did tap in a show, (like) i had four tap numbers and i had never tapped before (and they're like) <U WHO="S12"> oh really? </U> you'll learn tap i was like okay <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> that's my favorite though. </U>
+			<U WHO="S5"> it was great, it was a lot of fun. </U>
+			<U WHO="S12"> yeah i like the class <U WHO="S5">
+					<OVERLAP> yeah, i was like </OVERLAP>
+				</U>
+				<OVERLAP> i just wish it wasn't my </OVERLAP> first class of the morning. i hate getting up. </U>
+			<U WHO="S5"> see it's my second class and that's why, like <U WHO="S12"> oh really? </U> yeah i have class at nine. and my professor always runs over and like, i always have to leave early from my first class, to get to this <U WHO="S12">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> class </OVERLAP> on time and like, i had an exam one day and like, i, like i got to class late and i was all flustered. </U>
+			<U WHO="S12"> was she mad? </U>
+			<U WHO="S5"> no, <OVERLAP> (she, that makes me mad) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> (xx) some girl got here today at ten twenty </OVERLAP> and she just came in and started dancing </U>
+			<U WHO="S5"> yeah i did that too. that's, the day of my exam and i just talked to her after class and i'm like, i had an exam, i'm sorry <OVERLAP> i had an exam </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> but she didn't </OVERLAP> even, i think she's not that strict though, cuz she is </U>
+			<U WHO="S5"> but she was saying she was though, she was like you miss the first five minutes, you gotta (stay) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> well she </OVERLAP> didn't tell me, i thought she would've told the girl like, no. <OVERLAP> she didn't. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah, i didn't </OVERLAP> whatever. i don't think she knows (some of the) there's too many people in our class. </U>
+			<U WHO="S12"> yeah there's a lot </U>
+			<U WHO="S5"> like you know every once in a wh- like, i'm always afraid that she's gonna single me out, but she always, like, i stand behind, Alia and, Shana. the reason i know their names is because <EVENT DESC="LAUGH"/> she's always picking on them. and then maybe, i'm thinking maybe i just look good like standing behind 'em like, <U WHO="S12">
+					<OVERLAP> who's that? </OVERLAP>
+				</U>
+				<OVERLAP> i know what i'm doing or something </OVERLAP> the girl, she wears, bright blue top a lot of times with like, the reddish blond hair, <U WHO="S12">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> the little </OVERLAP> bit bigger girl? </U>
+			<U WHO="S12"> yeah, oh yeah i know who she is. </U>
+			<U WHO="S9"> and which one is she? <U WHO="S11"> she's </U> Alia, is she (xx) </U>
+			<U WHO="S5"> Alia. </U>
+			<U WHO="S9"> that's Alia? </U>
+			<U WHO="S5"> yeah. and then Shana's the one th- s- standing next to her today. she had a white shirt on, glasses, African-American... </U>
+			<U WHO="S9"> she has glasses? </U>
+			<U WHO="S5"> yeah. yeah sh- i think she's the only person in our class with glasses. </U>
+			<U WHO="S9"> okay yeah, yeah. is she real tall and skinny? </U>
+			<U WHO="S5"> yeah, tall and skinny. </U>
+			<U WHO="S9"> okay. <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah i was </OVERLAP> so afraid that i was gonna be like way, way awkward compared to like the whole class. but, it's not, like there's a lot of people that (haven't danced before) <EVENT DESC="LAUGH"/> so i was like <OVERLAP> (i fit) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> there are. so i </OVERLAP> feel okay cuz i'm like in the middle. </U>
+			<U WHO="S5">
+				<OVERLAP> y- yeah, i'm not like, i like she's </OVERLAP> not pulling me to the front like, Nicky get up here (xx) </U>
+			<U WHO="S12"> she always makes Nancy and Brenna <U WHO="S5">
+					<OVERLAP> Brenna </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> Abdia </U>
+			<U WHO="S5"> Abdia and, yeah and then those girls that are always in the front like, they just kinda rotate like (take it that's fine) it's like yeah, i'll just stay to the back <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> i don't like it t- that guy to the front. he love's it. he is <OVERLAP> into it </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> he's such a sh- </OVERLAP> he's such a ham. like, it's great just watching him. he's just like (xx) <OVERLAP> (almost) (xx) i know, like he's totally into it </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> he's like serious though about it, he's really silly because, </OVERLAP> when people didn't go right on time he's like, five six seven eight go. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5">
+				<EVENT DESC="LAUGH"/> that's hilarious. </U>
+			<U WHO="S12">
+				<EVENT DESC="LAUGH"/> and i'm like yeah well at least <OVERLAP> he gets into it. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah he totally does and he's like </OVERLAP> not even shy. </U>
+			<U WHO="S12"> oh no, but the other guys are shy. especially the <EVENT DESC="LAUGH"/> (light brown haired) guy? <U WHO="S5">
+					<EVENT DESC="LAUGH"/> he's funny </U> we shouldn't talk about him but he's funny <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> i know, he's funny. no one, like <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> he's never there </OVERLAP> though. </U>
+			<U WHO="S5"> i know he was like, not there for like two weeks like, he joined the class really late. </U>
+			<U WHO="S12"> he wasn't there, any of the time cuz it was only that one dude (xx) what's his name? John? <U WHO="S5"> uh </U> Paul? </U>
+			<U WHO="S5"> John Peter </U>
+			<U WHO="S12"> John Peter. John something </U>
+			<U WHO="S5"> cuz he was talking about how he was J-P today cuz like, with the music they were saying J-P and he's like yeah, J-P yeah (it says) J-P <U WHO="S12">
+					<OVERLAP> oh no </OVERLAP>
+				</U>
+				<OVERLAP> i was like </OVERLAP> oh my god like he was totally (xx) class </U>
+			<U WHO="S12"> and she was scared to play that, who cares? </U>
+			<U WHO="S5"> i, i didn't eve- i wasn't even listening to it. like i listened for the beat but <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> i've heard it </OVERLAP> before. i mean i've heard the song before like on the radio or </U>
+			<U WHO="S5"> i don't i didn't even no- <OVERLAP> like i was like </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> she was kinda </OVERLAP> scared <OVERLAP> like um, </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> i know she's like </OVERLAP> alri- well cuz i think they ha- you know they can't play religious music. so she has to like, <U WHO="S12">
+					<OVERLAP> be careful </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> you know because otherwise you know people can say you know between church and state <U WHO="S12">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> you know </OVERLAP> religion in schools. like, because you know she has to be careful. it's a public institution so </U>
+			<U WHO="S12"> that's true when my friend was taking this aerobics class and they said you can only play certain types of music. that's why i thought we had the same tape every week. she was saying you have to only, go through all this stuff to switch your music. cuz they asked, to change the music maybe she was just telling <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> well it probably has to be </OVERLAP> university approved, you know, so, i don't know what she plays doesn't bother me. </U>
+			<U WHO="S12"> oh i like it <U WHO="S5">
+					<OVERLAP> it's got (xx) a beat to it (xx) </OVERLAP>
+				</U>
+				<OVERLAP> i usually like it. </OVERLAP> i like the, i like the tape she always plays. that's my favorite. </U>
+			<EVENT WHO="S5" DESC="SINGING"/>
+			<U WHO="S12"> yeah, that's my favorite one. <EVENT WHO="S5" DESC="LAUGH"/> and that jazz song </U>
+			<U WHO="S5"> yeah, that's awesome </U>
+			<U WHO="S12"> th- i like, that's my favorite (xx) like weirdo stuff </U>
+			<U WHO="S5"> yeah, i was like yeah, whatever she's playing i_ as long as i can find the beat i don't care <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> i like that class (i like) </U>
+			<U WHO="S5"> yeah me too, it's fun. you know except for (xx) </U>
+			<U WHO="S12"> except for_ yeah, (xx) how do you su- walk, at the beginning of class, i just was not able to walk. i mean i could walk but i (would be) in pain, like what's wrong with me </U>
+			<U WHO="S5"> i know she, she gives us (xx) i my, i get sore here <EVENT DESC="LAUGH"/>
+				<OVERLAP> you know i'm just like, cuz it's like </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> i get sore, yeah i get sore </OVERLAP> i get sore like, (xx) </U>
+			<U WHO="S5"> but you know, i feel like i'm getting a workout. you know at least i start, you know, get a little (xx) <U WHO="S12"> exercise </U>
+				<EVENT DESC="LAUGH"/> i feel like i'm not such a, such a lazy ass. </U>
+			<U WHO="S12"> yeah, me too. sometimes like all classes like five, four classes i've took. </U>
+			<U WHO="S5"> do you really? oh, s- i my schedule's all broken up, so </U>
+			<U WHO="S12"> mine's not. Monday and Wednesday that's the worst. </U>
+			<U WHO="S5"> see like i have class, nine ten, ten to eleven, then i have lunch hour for me to like, get ready for class, class till one then i'm done. </U>
+			<U WHO="S12"> see i'm in class till five-thirty (xx) </U>
+			<U WHO="S5"> do you really? <U WHO="S12"> (i know) </U> what are you studying? </U>
+			<U WHO="S12"> psychology. that's my major, (xx) but the lab i need, it was four to five-thirty so <U WHO="S5"> oh </U> only Tuesday Wednesday, so </U>
+			<U WHO="S5"> wow. </U>
+			<U WHO="S12"> gotta do it <EVENT DESC="LAUGH"/>
+				<OVERLAP> so i can graduate and get out </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah, see that </OVERLAP> i had a lab. i had rate labs, which is the astronomy labs </U>
+			<U WHO="S12"> oh <EVENT WHO="S5" DESC="LAUGH"/> i took a discussion. <OVERLAP> (xx) a lab </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> well i </OVERLAP> took, i took one-oh-two and then i took one-eleven. so i took the discussion and then i took the lab. </U>
+			<U WHO="S12"> is it a big difference? </U>
+			<U WHO="S5"> well, one-oh-two is, you know like, (stars) and galaxies and stuff and one-eleven is the solar system <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> i mean </OVERLAP> did you like the lab better? i'm sure i probably <OVERLAP> would </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> well </OVERLAP> s- you know, like a- some stuff is stuff i had done in the physics lab, already and, you know is, you know it was cool cuz you know you're gonna be doing, maps of mars and like the craters and <U WHO="S12"> oh okay </U> features and stuff, i do- you know it was, i mean i was, already an astronomy major by then. i was just taking it for fun <U WHO="S12"> oh okay </U> you know so like i was pretty far ahead most of my class so i was really kinda bored. i mean it was cool, you know cuz it's astronomy but, <OVERLAP> like, the pace was kinda slow. </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> yeah that is not, </OVERLAP> that is not my subject <EVENT DESC="LAUGH"/> so you can see </U>
+			<U WHO="S5"> uh, it's not so bad. i almost studied psychology. </U>
+			<U WHO="S12"> really? </U>
+			<U WHO="S5"> yeah, my my dad's in psych, so </U>
+			<U WHO="S12"> oh what does he do? <U WHO="S5"> hm? </U> is he a psychologist or or <OVERLAP> just </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> uh yeah </OVERLAP> he's uh, he works in the Counselling Center at M-S-U. </U>
+			<U WHO="S12"> oh okay. they get crazier people there. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> yeah they get a lot of crazy people there <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> yeah here too though <U WHO="S5"> uh, yeah </U> because (we're talking too much) okay i need to go. </U>
+			<U WHO="S5"> yeah, (okay) i have homework so </U>
+			<U WHO="S12"> i'm sorry <OVERLAP> i feel bad </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> no no no </OVERLAP> that's fine </U>
+			<U WHO="S12"> oh do you ever do physics tutoring? </U>
+			<U WHO="S5"> mhm <U WHO="S12">
+					<OVERLAP> (cuz of my friend) </OVERLAP>
+				</U>
+				<OVERLAP> yeah </OVERLAP> six to eight on Mondays </U>
+			<U WHO="S12"> six to eight? <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> yeah, </OVERLAP> i have a four hour block, yeah </U>
+			<U WHO="S12"> do they pay you (xx) </U>
+			<U WHO="S5"> it's all volunteer. </U>
+			<U WHO="S12"> i thought the university paid you. </U>
+			<U WHO="S5"> 'm'm it's volunteer through student groups. <U WHO="S12"> really </U> yeah </U>
+			<U WHO="S12"> oh, cuz my friend he does tutoring for um, engineering or <OVERLAP> something and they pay him </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> like one on, </OVERLAP> one on one tutoring you get paid for. but like this, you know, we don't, our department doesn't sponsor this. <U WHO="S12"> oh i thought it did. </U> we sponsor ourselves. <EVENT DESC="LAUGH"/> we have our office so we just </U>
+			<U WHO="S12"> oh wow that's nice of you. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> we'd like to think so <EVENT DESC="LAUGH"/> no i'm just kidding </U>
+			<U WHO="S5"> well it kinda also <U WHO="S12">
+					<OVERLAP> no really </OVERLAP>
+				</U>
+				<OVERLAP> it's good </OVERLAP> for our student group to <U WHO="S12">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> do </OVERLAP> (xx) it's like (xx) sort of stuff, so <OVERLAP> i mean it looks like (xx) </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> we fund </OVERLAP> ourselves with pop </U>
+			<U WHO="S5"> yeah <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> we take the pop, for fifty cents a ca- </U>
+			<U WHO="S5"> fifty cents a can <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> we're thirsty </U>
+			<U WHO="S5"> well yeah, it's like you put fifty cents in the (xx) </U>
+			<U WHO="S12"> oh that's for you thing? oh i didn't know that. </U>
+			<U WHO="S5"> oh no no that's not for tutors. that's just if you want pop. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S7"> yeah yeah that's how we fund ourselves, we we we buy pop from Meijer and then just sell it again for fifty cents, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> but that's, </OVERLAP> you know that's not required. </U>
+			<U WHO="S7"> but it's not like you know you're not required to buy it when you come in </U>
+			<U WHO="S5">
+				<OVERLAP> (i'm like oh, okay) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> (xx) </OVERLAP> next time i will <OVERLAP> get some. cuz i'm here every week </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> no we just, it's it's </OVERLAP> not why it's here. i mean you know it's, we benefit from this too, you know. i'm going to grad school i'll be a T-A in a year or two <U WHO="S12"> yeah </U> and i'm gonna be, teaching people anyway so, it's gonna get practice and so i don't like, go up in front of my first class and be like, uhh, now that'd be cool. alright i know <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S12"> the question's (xx) </U>
+			<U WHO="S5"> yeah so, i mean, and physics i have physics G-R-E so, <U WHO="S12"> oh <OVERLAP> you're tutoring physics </OVERLAP>
+				</U>
+				<OVERLAP> when i tutor </OVERLAP> when i tutor, physics <U WHO="S12">
+					<OVERLAP> oh that helps </OVERLAP>
+				</U>
+				<OVERLAP> i can study </OVERLAP> for the G-R-E, yeah. so i mean it's it's kinda, i mean i i get a lot out of it too. <OVERLAP> so </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> that's </OVERLAP> nice </U>
+			<U WHO="S5"> yeah it's_ and the physics help is from six to eight on Mondays <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> where's </OVERLAP> that? </U>
+			<U WHO="S5"> it's uh, on the first floor of Angell. </U>
+			<U WHO="S12"> oh in the lab? cuz my <U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> friend, </OVERLAP> she says she's gonna tutor next semester. cuz she's taken the first physics but, she took it at like Oakland or something, she doesn't, and she took the noncalculus one. so, she's (xx) </U>
+			<U WHO="S5"> yeah, no but, we usually have it, six to eight, on Mondays, so (xx) </U>
+			<U WHO="S12"> next semester too or, <OVERLAP> no </OVERLAP>
+			</U>
+			<U WHO="S5"> um, probably. Annie are we continuing S-P-S tutoring next semester <U WHO="S1">
+					<OVERLAP> oh yeah, yeah </OVERLAP>
+				</U>
+				<OVERLAP> most likely </OVERLAP> (okay) </U>
+			<U WHO="S12"> (xx) next semester <U WHO="S5"> that's cool </U> hopefully cuz i got (xx) </U>
+			<U WHO="S5"> (yeah it's) that's awesome <U WHO="S12"> oh good (good) </U> what happened? </U>
+			<U WHO="S12"> no cuz (you know) (xx) <U WHO="S5"> oh </U> i mean i'd still do my um, lab once i (xx) cuz i still (like did well) on that </U>
+			<U WHO="S5"> that's awesome </U>
+			<U WHO="S12"> yeah i was excited like (xx) good </U>
+			<U WHO="S5"> like that that makes me feel good <U WHO="S12">
+					<OVERLAP> okay, yeah cuz it helps </OVERLAP>
+				</U>
+				<OVERLAP> we helped you </OVERLAP>
+				<EVENT DESC="LAUGH"/> i did a good job, i didn't tell you the wrong answers. </U>
+			<U WHO="S12"> no you told me the right answers last week so i know (xx) </U>
+			<U WHO="S5"> cool, very cool. <U WHO="S12"> alright? </U> no problem. so, <U WHO="S12"> okay </U> i i'll see you Wednesday? </U>
+			<U WHO="S12"> yeah, see you Wednesday. <OVERLAP> bye </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> take </OVERLAP> it easy. </U>
+			<U WHO="S12"> you too. </U>
+			<EVENT DESC="CONVERSATION III: 101:27"/>
+			<U WHO="S1"> we should have like evaluations. </U>
+			<U WHO="SU-m"> for what? </U>
+			<U WHO="SU-f"> tutoring? </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="SU-f"> of who? </U>
+			<U WHO="S1"> for, you know students to evaluate the tutors. (well) that might get a little personal we might get a little upset, but (xx) </U>
+			<U WHO="S7"> um, we <OVERLAP> should have a like a little </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> or say like </OVERLAP> what they like (kind of) </U>
+			<U WHO="S3"> yeah we should have a little like, contribution box. if your tutor was nice to you today </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> or complaints </U>
+			<U WHO="S7"> complaints yeah, </U>
+			<U WHO="SU-m"> (complaint box) </U>
+			<U WHO="S1"> that girl, all she did was giggle and had no clue what was going on. </U>
+			<U WHO="SU-3"> the girl, drank too much Pepsi when i was there, she made me feel uncomfortable <EVENT WHO="S1" DESC="LAUGH"/> she kept talking to her friends, ignoring me oh my god </U>
+			<U WHO="SU-7"> i didn't fe- i felt, beyond mistreated. that's w- we're under investigation right now. i bet that's the, <EVENT WHO="SS" DESC="LAUGH"/> i mean they're under <EVENT WHO="SS" DESC="LAUGH"/> no no uh, if cancer think about Cancer Man, in the Syndicate One, how (would) they have it done. (in the screening) (xx) all the sudden <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="SU-f"> Cancer Man <U WHO="S1">
+					<OVERLAP> you're paranoid </OVERLAP>
+				</U>
+				<OVERLAP> standing out (in the middle) there </OVERLAP> there just looking up (and smoking.) </U>
+			<U WHO="S7"> all the sudden they'd <EVENT DESC="LAUGH"/> be like we need to fix your vents (and sending people out into the vents) <EVENT DESC="LAUGH"/> (xx) someone comes, we have to fix your vents it's the same people <EVENT DESC="LAUGH"/>
+				<OVERLAP> (that fix your) (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> apologize for him he's watched the X-Files too much </OVERLAP>
+			</U>
+			<U WHO="SU-f"> hm? </U>
+			<U WHO="S1"> i apologize for him (xx) he's watched the X-Files too much </U>
+			<EVENT WHO="SU-f" DESC="LAUGH"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

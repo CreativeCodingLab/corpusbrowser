@@ -1,0 +1,529 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="lab500su089">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Cognitive Psychology Research Lab </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LAB500SU089 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="82">
+						<DATE> March 13, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Amy Burke </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Amy Burke </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Shannon Allen, Linda Kurtz </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Linda Kurtz, Chris Frost </NAME>
+							<RESP> Final Editing, 12/14/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: MIX </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="21"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="12"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SG, Instructor" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-1" LANG="NS" ROLE="SG, Instructor" SEX="M" RESTRICT="NONE" AGE="2"> </PERSON>
+				<PERSON ID="SU-9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-12" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, East Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> okay thanks, um so this should be kinda cool, um, and to confound things i am really high on cough syrup, so um, <U WHO="SU-f"> neato </U> you guys are all sort of floating. it's really cool. um, so the last few weeks we've been talking about, um experimental design and, statistics, and we're just about wrapping up the teaching part of the semester and we're gonna move into the final project part, so what i wanted to do today was to sort of just go over some of the concepts that we've talked about, and uh focus on issues that're gonna be important for actually designing your study. um, probably the most important concept and some stuff we've talked about i just wanna, focus on it again, talk about it in a little more depth, are issues about validity and confounds. and, as you'll remember the, the whole point of running an experiment as compared to a nonexperiment, is that we can make, causal inferences. we can infer that um change in our independent variable results in change in the dependent variable. that our independent variable causes, the change. manipulate independent variable, you observe your dependent variable. um, and as we've talked about, if you don't do it right, a study that you design could, lead you to make a conclusion, that isn't actually valid. and we're gonna just talk about some more, some subtle some not so subtle, confounds and problems, and just to make sure you guys feel, comfortable with these things because, starting next class you're gonna have to start thinking about what your project is gonna be. so, you should at least start thinking about ideas, topics that you're interested in, and next class we're gonna start talking about how you'd actually run a study to, get at those questions. so, what i wanted to start with, just an example of a pretty famous psychological task, that was actually invented at Michigan. actually no it wasn't invented at Michigan it was invented by, i guess it was. it was a dissertation of a professor who's now at Michigan, who was a graduate student at Michigan, who published it when he was working at at uh Bell Labs. but anyway, it's called a lexical decision task. and, you guys may have seen this in some of the studies you were run in Psych one-eleven. basically the job is you get two words, and um your job is to decide if they're both words or if one of 'em is- isn't a word. so you get strings of letters, they may be words. in this case, the word bread, the word butter are both, words. and, what you're_ what they're actually interested in, is only in the times where the words are actually real words. and what they do is sometimes you'll get a word like bread first, and then the next thing you'll get is a word like butter, which is semantically rel- semantically related. so the idea is that if the way memory is structured is such that, like concepts are close together, then seeing bread will prime, the term butter and the word butter'll be responded to faster, than a nonrelated word. so if you compare, response time of, uh indicating that butter is a word to in the same situation indicating that the word nurse, is a word, if butter is faster than nurse then it indicates that there's semantic relations between words and that you're actually doing something called semantic priming. so that the way your memory is structured, activating the word bread activates all related concepts including butter, whereas nurse isn't a related concept. um, um, the bottom part is boring. um, and the whole point of lexical decision task is to demonstrate that congruent pairs are processed, faster than incongruent pairs. and this is an experimental task that's been design- it was designed in the late sixties and it's been run, a million times since then. but, just because the task is a good task doesn't mean that an experiment using that task is gonna be, a valid experiment. <PAUSE DUR=":04"/> and, when we're talking about the validity of an experiment, we're talking about how... th- the extent to which one's findings can be shown to be, valid in the real world or correspond to the way the real world is. and there's all s- all different types of validity and we talked about, a few of 'em uh f- about a month ago. but, i just wanna go over them and talk about them in this context, and talk about some other, studies and some problems and, your job later is gonna be to figure out what's wrong with some studies. so, if the independent variable really causes a change in the dependent variable, then we say that a study is internally valid. so, if my manipulation of the word relatedness is actually what's causing, this difference in speed between nurse and butter, then i could say that it's an internally valid study my independent variable is, causing a change in my dependent variable. however, if it's not internally valid there could be something else that's leading to the problem. so a true internally valid study, you would control everything else. you would control the frequency of the words. so for example if butter, turns out to be twice as frequent in the English language as the word nurse, then the reason you respond quickly to butter might be because (of) the frequency of the word as opposed to relatedness, of the concepts. um, if the length of the word makes a difference. if it turns out that, because butter is is a two-syllable word and nurse is a one-syllable word, if you_ it turns out that you respond quicker to two-syllable words, then, maybe you're not actually showing this bu- bread butter effect, but in fact you're showing, a two syllable one syllable word effect. so, if these things are held constant you've got an internally valid study. if they're not, if there's something else going on, then it's not internally valid. another example is if you have a hundred people taking part in the study and, the first fifty people see pairs of related words, and then the second set of fifty subjects see, sets of unrelated words, and you compare performance and you still find a difference, you still c- you you can't be sure you've got internal validity because there's other things going on. okay, and, how would we get around this problem, of having the first fifty people in one condition, and the first fifty in another condition? <PAUSE DUR=":08"/> okay you're running a study, and you've got a hundred subjects. the first fifty come in and you just point them to the, condition A room. and after they get in there then the next fifty you point them to the condition B room, and, you see a difference in their performance. is it condition A and condition B that's causing the difference, can you be sure of that? </U>
+			<U WHO="S2"> you have to do randomization </U>
+			<U WHO="S1"> you have to do some type of randomization. right. so what might be making a difference is that, the two conditions are different for more than just, relatedness and unrelatedness. it t- might turn out that the first fifty people are more highly motivated. or that the, first fifty people are better readers. and that, you know there was a sign up there and they so they read it first so they signed up first or something. if you don't, if you don't remove the systematicity, between the conditions that isn't, part of your independent variable, you can't be sure that it's your independent variable that's making a difference. so the goal is that, you wanna try to remove the possibility of confounds, of other, variables affecting your independent variable in different ways. you guys should remember stuff about confounds. even though you've been quizzed on it you still have to know this stuff. so, that's internal validity. the next type of validity, is construct validity. <PAUSE DUR=":09"/> and, basically, construct validity involves a couple of things. first of all, it involves the operationalization of, your concepts. so, if you're interested in intelligence, you have to operationalize what what your variables are. you have to come up with something that, you think reflects intelligence. if you're interested in, um... any other independent variable, um height for example, you have to have an operational variable. so you would use, um inches as opposed to people's perception of somebody's height. you want something that, can be measured and compared. in addition to operationalizing it, you also have to be able to come up with a way to test it so that, you can be sure that, you're able to dif- differentiate your theory from other theories. and this is kind of related to falsifiability. if you run a study, and, your results can be interpreted as supporting your theory, or supporting an alternative theory, then your study isn't very, construct valid. because, you're finding a result and you're saying look, it supports my theory. but, the guy that you're trying to to show, whose theory's wrong, he says the same thing, your theory didn't do anything. it just wasted money, and wasted time and, gave some, Psych one-eleven students some credit. so, what you wanna be able to do is have, operationally defined, theories, and you wanna be able to discriminate your theory from alternative theories. um, in a particularly bizarre study, McGinnis, um, had people do something similar to a lexical decision task, where people saw, either vulgar words or nonvulgar words. and this was run, i think like in the early seventies. and, basically they would see a word on the screen, and they would have to say the word. and sometimes the word would be a vulgar word, sometimes there would be a nonvulgar word. and, McGinnis measured, how long it took before the person said the word. and, his theory was that it takes longer to perceive vulgar words than nonvulgar words. that, something in the perceptual apparatus of human cognition makes it more difficult to perceive vulgar words than nonvulgar words, for some reason. well there're some problems with this study, even though it got published and everything else. one is that, the word perceive, they're saying that it's_ that it has to do with perceiving vulgar words, and by measuring the time it takes you to say something, what you're actually getting at is the time it takes you to perceive the word. well, as you guys should know from, like the second week of Psych three-forty, the subtractive method, you can't be sure, what else is going on. there's perception, there's also production. mkay? you're measuring how long it takes somebody to say the words, so it may turn out that, the problem isn't necessarily perceiving the word, that slows you down. it may be that, you read the word just as quickly whether it's vulgar or nonvulgar but, you pause when you're about to say a vulgar word because maybe, you sort of don't feel comfortable saying vulgar words. so, rather than measuring, perception what he's actually measuring is something that includes perception and production and maybe something else going on. the idea is that, he thought he had a theory, that he was trying to support, but in fact he was supporting a whole bunch of different theories and he w- wasn't really ruling out many theories. <PAUSE DUR=":05"/> so the goal, the whole point, is to be able to rule out other possible theories. <PAUSE DUR=":08"/> so you can kind of think of, of the scientific method as sort of a competition. like other people want their theories to be right and you want your theories to be right, and you wanna run studies that you could show that your theories are right and that theirs aren't. so the whole point of construct validity is, to get rid of other explanations and show that you're right. there's another problem with McGinnis' study. and that is that it lacks external validity, or that it might lack external validity. and external validity is, the extent to which, what you're finding can hold true in other, situations. other times, other people, other locations, and, if we were, to try to make some type of public policy or something else based on a study like McGinnis', we may run into some trouble. because that was, done in the seventies, and now it's the, two thousands, the, the the zeroes, the naughties, something, um, it might be that that vulgar words in society are different. i mean just the fact that the Fox, network exists has increased the number of vulgar words that people talk about in the shows like N-Y-P-D Blue and the whole uh, Monica Lewinsky affair. all sorts of vulgar concepts are talked about much more frequently now than they wer- may have been in the seventies. so, if you were to try to say that the results, assuming that all the other problems were fine, if you were trying to talk about the results of the McGinnis study and talk about how it applies today, you might run into some trouble because the world has changed. so the goal of external validity is to rule out the possibility that your findings, are only specific to a person or an environment, or something very small. you want_ external validity means you can apply your results and your findings to, a number of different areas. <PAUSE DUR=":09"/> so, you run a study and you find out, that um, the mean the score in one condition is different than the mean score in another condition. so, i'll move back up to the top in just a moment. but, you find out that you're doing a study of, uh dyads in conversation, you count the number of times men touch women and the number of times women touch men. and you find out that twenty-five times, men touch women and only twenty-two times women touch men and you say look there's a difference. see twenty-five is different than twenty-two, so there's two different numbers so i found a difference. but you're not actually gonna say that because why...? okay i'll give you a hint it says <U WHO="SU-f"><OVERLAP> it's not. </OVERLAP></U><OVERLAP> it right </OVERLAP> here, <U WHO="SU-f"> yeah </U> the f- the fact is that we rely on statistical tests, to determine whether, just by chance we would've found this difference. and, it'd be very hard to show these two being statistically significant because we're only talking about a small sample, and three isn't really big enough. um, so, this is an example of statistical validity. and, this is, regardless of whether you have all these other, validity problems, regardless of whether you have internal validity, or uh, external validity or construct validity. the fact is you're gonna get some numbers, and you have to decide if the numbers are the same or different. if, the two conditions or three conditions of your independent variable, are resulting in, similar results or different results, are they the same groups or different groups. so first of all you have to choose the appropriate test. and, hopefully you guys have at least a general idea that you're not supposed to look for, correlations when you're looking at differences and you're not supposed to use ANOVAs when you're looking at r- at how similar things are. there're certain rules about using just the right test. um, then there's also issues that we're not gonna get into too much but, there are issues about the the assumptions that you're making about your test. um, one example is that reaction time data is not normally distributed. reaction time data, if you take how long it takes people to respond to some stimulus, are nearly always positively skewed. there's a bunch of examples that happen really early on, and then there's a really long tail off to one way. and if you're doing the study and you're using reaction time data, you can't run ANOVAs on pure reaction time data because they violate an assumption of the ANOVA which is that distributions are normal. so if you guys decide to do reaction time data we hafta, change 'em um, there's a few different ways you can change 'em, um basically you're normalizing them and you end up talking about things like Z-scores, which allow you to uh, to compare reaction time data to other data. <PAUSE DUR=":05"/> so, and then finally, your <SIC> esults </SIC><EVENT WHO="SS" DESC="LAUGH"/> shouldn't be due to chance alone. and that was the whole point about the twenty-two versus twenty-five, instances of men and women touching each other. you wanna rely on something, that will allow you to talk about what the likelihood that your results were discovered by chance versus, whether you would find it again if you ran the study again. <PAUSE DUR=":06"/> mkay um so there's a few more types of validity that, we'll just sort of, well there's one more that we'll buzz through really quickly. which is ecological validity. which is basically, very closely related to external validity, and we probably won't ask you to compare the two of 'em together. but, ecological validity is basically, how likely are these findings to occur in the real world if you ran, the laboratory study? so, is this phenomenon just something that exists in the lab or is it something that, exists in the real world? so, in a lab you try to control for all sorts of things, um and if you're interested in in how working memory works and how many words people can recall and you decide to give 'em a study where they have these nonsense words that they have to recall, so you give 'em a list of of things like waf, buv, all sorts of words that don't have any real meaning. and then you see after thirty seconds how many of ten words can they recall, and you find out it's six, can you say that this, six out of ten is gonna hold for sentences and real words? <PAUSE DUR=":04"/> if you talk to people in marketing, a lot of times they'll, abuse psychological results. they'll say that such and such study shows that people can recall sixty percent of presented information so therefore if you're, if you have a commercial you should present the important information three times because it'll be more likely to be recalled and all sorts of things like that, when in fact they're trying to extract, a real world use for something that might not necessarily be true. it might turn out that people are much better at, recalling words if they're in a context or if they're real words. which makes sense, because you already have a sort of a mental structure for real words and not for, for false words. um, and you could think of, an example if i give you a list of, um, of nine letters, and i ask you to recall them, and i just chose nine letters randomly, you would you would get a few right. but if those same nine letters, if i gave you, F-B-I, C-I-A, N-B-C, everybody would recall all nine of them. because you have meaning related to the second set and you didn't really have any meaning related to, the random letters. so if you tried to use random letters and extract meaning and how they'd be existing in the real world, you'd you'd run into some troubles. so, the goal of ecological validity is to make sure that, what you're measuring is something that is related to the real world and not just a laboratory phenomenon. now may turn out that all you're really interested in is something in the lab, and that's fine but, you shouldn't then think that you can talk about the real world that way. <PAUSE DUR=":06"/> so are there questions so far, about this stuff? the many flavors of validity? <PAUSE DUR=":04"/> mkay so let's talk about some studies and, sort of tear 'em apart if we can... you'll remember that the enemy of, validity is the confound. and we hate confounds. and a confound is when a change in the dependent variable can be caused by, something that isn't the independent variable. because you haven't separated the independent variable and whatever this other variable is... so, Anne Treisman, another famous psychologist, um, developed a task called the visual search task. and your job was to, to see a whole bunch of, letters. there're Ts and Os, a whole bunch of 'em on a screen, and your job is to find the green T and there's a bunch of green Os and black Ts, which are called distracters. but there's one target, your green T... and so she ran a study, where her independent variable was the number of distracters. so she either had four, distracters ten distracters or sixteen distracters, and half of the distracters were, green Os and half of the distracters were black Ts. and then the- there was one green T in the middle. and, her dependent variable was that she measured, how long it took people to detect whether the green T was there or not. so in some cases there was no green T and they had to r- say no, other case there was a green T and they had to say yes. and you look at how long it takes 'em to say yes. and what she found, was that as the total number of distracters increases, the reaction time increases. so, when there are, ten distracters it takes longer to find, the T than if there're only four distracters. and if there's sixteen it takes longer than ten and four so... so you would conclude, that the number of distracters affects, the ability to find the target. well it turns out, that, there're some issues of internal validity. for example, and this is, this bottom thing is kind of what the task looks like but, it's done really poorly but... the problem is there's some internal validity issues. so, when there's four distracters there's two black Ts and two green Os, and when there's ten there's five and five, and when there's sixteen there's eight and eight. now there could be three things that're causing this increase, or th- or decrease in reaction time. it could be that, your independent variable's having this effect. that the sheer number of distracters will affect, the speed with which you can identify the target. that's example number one. your independent variable's making a difference. but there's two other alternative hypotheses. one is that it's just the number of green Os that increases, reaction time. so that, the number of things that're the same color as the target are really what's making a difference, or it could be the number of black Ts that're making the difference, so the number of things that're the same shape, makes a difference. but because, the number of green Os and black Ts and the number of distracters all varied in the same way, you have no way of separating them. did you follow me on that part? mkay this is an important concept, the idea that, just because your inde- your independent variable moves, from four to ten to sixteen. if something else increases at the same rate, then you can't be sure if it's your independent variable that's making a difference or one of those other things that's increasing at the same rate. so what she should have done, is run the study at four and she should've had, um one to three distracters of each type, and then she should've done it at ten and she should've had, one to nine or one t- yeah one to nine distracters of each type, and she should've run it at sixteen with one to fifteen distracters of each type. and then she could've found out that, it could be the number of distracters, or it could be the number of distracters of the same color or the number of distracters of the same shape. and she would've been able to get at that problem. but, because she didn't do that, she's unable to get around the confound, which is that the number of distracters total, is highly related with number of the distracters of each type. <PAUSE DUR=":04"/> so, that is sort of, a summary of some of the stuff that we talked about last time in a way to sort of bring, some of the ideas we've talked about more recently, together. um, starting next week you guys are gonna have um, basically i'm gonna stop talking to you about new stuff, and you guys are gonna start talking to me about ideas that you've had for your final projects. um, you can work in, groups of up to two, and you're gonna, design the study, run it on each other. write it up, and then you guys are each gonna, each group'll make fun of the other groups to, you know sort of do what what we call peer review, and um then i get to grade you, um so what i'd like to do now, before we go on to talking about, um the lab and doing some more look at_ work looking at confounds i wanna just do a quiz review, because on Wednesday, you guys have your fourth and final quiz. so, if you could take out your lists of terms to know and, lemme know if you have any questions about things from, list number four. <PAUSE DUR=":16"/> yep? </U>
+			<U WHO="S3"> what's the difference between repeated measures and, <U WHO="SU-f"> (xx) </U> and yeah, wait no within-subjects? </U>
+			<U WHO="S1"> repeated measures and within-subjects. um, it's really_ they're really referring to the same thing. um, repeated measures talks about the type of statistical test you do, and within-subjects talks about the design you're doing. so, a within-subjects design means that each subject takes part in every condition, in all the different cells of your design. so you compare each person with themselves. and, when you're running a statistical test, you run a statistical test called a repeated measures ANOVA because each person is measured repeatedly. and so the thing you should remember is that when you when you've got a within-subjects design, you use a repeated measures ANOVA. because between subjects, people don't get measured repeatedly they only get measured once... </U>
+			<U WHO="S3"> wait can you say that again? i didn't get it </U>
+			<U WHO="S1"> in a between-subjects design, people don't get measured repeatedly. they only get measured, once. so you wouldn't use a repeated measures ANOVA. </U>
+			<U WHO="S3"> could you use a between-subjects ANOVA then? </U>
+			<U WHO="S1"> you would use_ it's not called a between-subjects ANOVA it's just sort of, it's just called an ANOVA, a one-way or a two-way or a three-way ANOVA. um, and if you've got a mixed design you use a repeated measures ANOVA and you also include some between-subjects variables. you don't have to know too much about it because fortunately we let S-P-S-S do all the hard work. but, the key is that within-subjects there's repeated measures and between-subjects there's not repeated measures... </U>
+			<U WHO="S4"> huh? </U>
+			<U WHO="S1"> yep? </U>
+			<U WHO="S4"> so what's a between-subjects ANOVA? </U>
+			<U WHO="S1"> between-subjects ANOVA is just, a regular ANOVA. </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> what's a, crossover interaction? </U>
+			<U WHO="S1"> a crossover interaction, <EVENT DESC="UNROLLS SCREEN"/></U>
+			<U WHO="SU-f"> uh'oh <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> that's right, we're doing the board. okay, so you have a graph, and we're interested in uh, S-A-T performance. and we're interested in S-A-T performance, let's do something fun. um, of people who became psychology majors versus people who became engineering majors. okay? so, we have our psych majors and we have our engineering majors, and we look at math and verbal scores. and this is score. and, say two hundred, eight hundred. now, we could assume engineering majors because they tend to be, geeky. do we have any engineering majors in here? </U>
+			<U WHO="SU-m"> no </U>
+			<U WHO="S1"> no, okay. well then we can make fun of them. um, engineering majors tend to be more math-oriented than psych majors. as a general rule, and of course, you know there are exceptions, but we're gonna pretend that they tend to be more mathematically oriented. <EVENT DESC="WRITING ON BOARD"/> so they'll do better than psych majors on, their, math part of their S-A-Ts. well, psych majors aren't that bad... mkay? but it turns out that, engineering majors, even though they're much better than psych majors in math, they're really horrible with verbal. right? and, part of it could be that there's a higher percentage of non-native English speakers in, um engineering so it's harder for them to do well on on an English verbal test. it might just be that, you know they their mathematical abilities so far surpass their verbal abilities that you know they've got like these little puny parts of their right brain or something. but, whatever the reason, we'll say that um, their verbal scores are about here, and psych people, although they're not, great at verbal, they're about as good as they are, maybe a little bit better than they are at the math. so, our engineering students, look like that. and our psych students look like that. now, first we can look for main effects, for math versus verbal. the average math score is about here, the average verbal score is about here, there's probably a significant difference between math and the verbal scores, regardless of major. then we might say okay, what's the difference between psych, and engineering? well, the average psych score is about, here, and the average engineering score's about here, maybe the average, psych person has a higher score than the average engineering person. um, then we look at interactions. now, are the lines parallel? </U>
+			<U WHO="SU-f"> n- no </U>
+			<U WHO="S1"> come on, with feeling. </U>
+			<U WHO="SS"> no </U>
+			<U WHO="S1"> good. and, what's going on? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="SU-f"> the lines cross. </U>
+			<U WHO="S1"> what? <PAUSE DUR=":05"/> well, the relationship changes from math to verbal. in one case engineering students are better, in the other case they're worse. so, the di- the direction of the effect crosses over, when the two lines on a graph cross each other, it's called a crossover interaction. it means that the effect changes direction, in one condition of one independent variable, compared to another condition of that independent variable. </U>
+			<U WHO="S3"> wait so, all the other interactions we've been doing, if it doesn't cross, it just is an interaction, but if it crosses it's specifically a crossover interaction. </U>
+			<U WHO="S1"> right. interactions mean the same thing in s- in the sense that they alw- they always mean that, the effects of one independent variable, affect another independent variable differently. what the differently means, changes based on what the interaction looks like. if it's a crossover interaction, it's sort of, a special kind of interaction because not only is one independent variable affecting the other independent variable, but it's affecting it to the extent that it actually changes the direction of an effect. now that's pretty impressive. i mean most of the time you see that i- you know if if group A does well on a task, uh does better than group B on a task, you know the second task, they both decrease. group A will sor- probably do a little bit better than group B. in this case we're talking about the fact that one group actually does worse in one condition but better in the other condition. it's a much more interesting finding than if the two lines were parallel. does that make sense? <U WHO="S3"> mhm </U><OVERLAP> yeah? </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> i </OVERLAP> don't know, did this_ what <EVENT DESC="LAUGH"/> what confuses me though is that we have two lines that are parallel, and i totally understand that it's not interaction. i just don't really, i don't necessarily see why because, if you like, change math and verbal then, the scores change. it seems like one still affects the other. </U>
+			<U WHO="S1"> right so, if we have, <EVENT DESC="WRITING ON BOARD"/> something that looks like this, this is the kind of situation you're talking <OVERLAP> about? </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> yeah. </OVERLAP></U>
+			<U WHO="S1"> mkay, so there are three things that that we look for in a two-by-two, design. one thing you wanna look for is, and we'll call this, I-V one, and this'll be, I-V two. so we look for three things. first of all we wanna know, regardless of, of who's taking the S-A-Ts, we wanna know whether people do better on math or verbal. right? we're, just running a study, we wanna make sure the people who are designing the math section are designing it at, at a similar difficulty to the verbal section, or if we want 'em to be different, do you have a hypothesis that they're different? so, first we say, is does I-V one have a main effect, regardless of anything else going on? and in this case it would, because you'd say that the math, the mean of the math scores is higher than the mean of the verbal scores. so the marginal means are different. then you wanna know, regardless of what part they're taking, overall on the S-A-Ts, do psych people do better than engineering people? and in this case you'd say, there's a main effect for independent variable two, right? because psych people do better than engineering people. but, we could've run two separate studies and found those things and you know it would have been woo hoo big deal. the big question is, is there s- is there something else going on? and what you're saying is, if there's two parallel lines, well they're both being affected, so isn't there shouldn't there be some type of interaction? and, what we do is we look to see, if we just ran the study only on engineering people, we'd see a study we'd say okay look see, verbal you do worse than on math. and if we ran it just on, psych people, we get rid of the verbal peop- the engineering people, we'd say the same thing, right? but we'd say oh you know psych people do better than verbal people, than engineering people. but... if we look at whether the lines are parallel, whether, the decrease as you go to verbal, is the same or different for the two groups, you you learn something about whether the two groups are different in more than just the sort of, overall way. and, if they're parallel, what you're saying is that this independent variable is affecting psych people and engineering people in exactly the same way. we don't we don't see anything that that is any more interesting than the fact that psych people and engineering people are different and math and verbal are different. mkay but if they're not parallel <EVENT DUR=":07" DESC="PAUSE WHILE WRITING ON BOARD"/> then we suddenly have something that's that's interesting. we say first of all, it's probably not a good idea to, talk about psych people and engineering people being affected by independent variable one in the same way. because they're ati- they seem to be affected in different ways. and from this type of graph it appears that psych people do worse on verbal, and engineering people don't do any worse on verbal. or you could also, say psych people improve on math and engineering people don't improve on math. they mean the same thing. but because they're not parallel, suddenly you're seeing that, this independent variable affects this independent variable differently. and that's the key. so when they're not parallel, suddenly you see something that's more interesting than just knowing the two main effects. does that help? </U>
+			<U WHO="S5"> yes, thanks. </U>
+			<U WHO="S1"> oh, okay. other questions? yeah? </U>
+			<U WHO="S6"> but that wouldn't be a crossover interaction? </U>
+			<U WHO="S1"> right this would not be a crossover interaction. because the_ even if this isn't significantly different, the fact is that this solid line never goes below the </U>
+			<U WHO="S6"> but if it_ can't you just follow that it would? <OVERLAP> or not? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> nope </OVERLAP> because this isn't a continuous variable. <U WHO="S6"> oh (all right) </U> right? so th- so these are two discrete, things we could assign numbers to them but they're not meaningful they're ordinal_ ordinal no. nominal. yeah? </U>
+			<U WHO="S6"> what's an interpretation? </U>
+			<U WHO="S1"> what's what? </U>
+			<U WHO="S6"> an in- interpretation? </U>
+			<U WHO="S1"> an interpretation, where on the list is that? oh </U>
+			<U WHO="S3"> is it just stuff like your test results </U>
+			<U WHO="S1"> yeah oh and interpreting is sort of the ability to interpret statistics or graphs. you should understand, how to interpret things. so, if i give you a graph, that looks like this, you have to be able to tell me if there's, a main effect for um, for field of study a main effect for, test type and if there's an interaction between the two. also if i give you, um the results of an S-P-S-S ANOVA output, you have to tell me whether there're main effects or interactions and_ or what the P values are. <PAUSE DUR=":05"/> other questions? </U>
+			<U WHO="S7"> this is a minor question. um, when you look at the ANOVA, um i think when we did it, the lab in class you said there was that the residual was another word for between-subjects <U WHO="S1"> mhm </U> but in the book it said it was, the, for within. so that's why i was confused. so </U>
+			<U WHO="S1"> okay so when you see a residual, you should think of it_ it it's a little it's basically saying the stuff you can't explain. if you're doing between-subjects ANOVA that means it's the within-subject stuff. if you're doing a within-subjects ANOVA it's the between stuff. <U WHO="S7"> okay </U> so we would just happen to be doing a within-subjects ANOVA, <OVERLAP> repeated </OVERLAP><U WHO="S7"><OVERLAP> okay </OVERLAP></U> measures, so that_ basically the key is that you_ what you do is you look for, the stuff the, the stuff that's being described as the main effect. and you compare it to the stuff being described as residual. and, when you do your F-test, you use, the, main effect thing as the first number and, the degrees of freedom and, the residual as the second number of degrees of freedom. <U WHO="S7"> okay </U> okay? <PAUSE DUR=":05"/> other questions? <PAUSE DUR=":04"/> so all the graph stuff makes sense, to people? if i had three, levels of an independent variable here you'd still be able to, tell if they were main effects or interactions? <PAUSE DUR=":04"/> yeah? </U>
+			<U WHO="S3"> could you do, an example of that? </U>
+			<U WHO="S1"> sure. so, instead of math and verbal, we'll now pretend instead of the S-A-Ts it's the G-R-Es. so, we'll add, <EVENT DESC="WRITING ON BOARD"/> analytical... so, we're just talking about, ho- what this graph would look like if we had three levels of one of the independent variables, um and whether you could tell if there's main effects or interactions. so math analytic and verbal. and you're still on that same scale from t- it's two hundred is that the lowest you can get on a section, on the S-A-Ts? yeah i think it's the same on the G-R-Es. so two hundred to eight hundred. and, and you'll note i also did this thing with the two slashes because there's no zero on this scale um, so, we would just have three points on here, and we talked about this last time, if you have a two-by-three design, where one independent variable has two levels another one has three levels, you're better off putting the three-level one on the X-axis, and the two-level one as lines. it just tends to be easier to compare two lines to each other than to compare three lines to each other. so what you would do is you draw, let let's say that, um a psych person isn't great on math, um does very well on analytic and about the same on verbal. and let's say the engineering person does perfectly on math, um, very well on analytical and bombs out on verbal <PAUSE DUR=":05"/> so, the first thing we look for, is, is there a main effect for, test type? math versus analytic versus verbal. and how would you check to see if that's, a significant main effect? </U>
+			<U WHO="S5"> just check the, marginal means for each of the gr- groups </U>
+			<U WHO="S1"> okay for which groups do we check the marginal means for? </U>
+			<U WHO="S5"> for the the the bottom and compare. </U>
+			<U WHO="S1"> okay, so we check the marginal means of math versus analytic versus verbal. so, the average of these two points, of these two points, and of these two points. and let's say that we find that, analytic and verbal, are different. so, our, our ANOVA would say that there is a main effect for independent variable one. we'd have to run some post hoc tests to find any- to find out where the differences are. but we would know that somewhere in here there's a pair of things, that are different... okay. what about for independent variable two? how would we find out, if there's a significant main effect? </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S8"> you add up their scores. </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S8"> you add up their scores </U>
+			<U WHO="S1"> add up which scores? </U>
+			<U WHO="S8"> combined scores (xx) </U>
+			<U WHO="S1"> okay so the average score, for psychology people and the average score for engineering people. right. it's the_ again, it's just the marginal means. so the marginal means of eight hundred, let's say seven-forty, and three hundred, would be like five-something probably. um and the average of, four hundred, six-fifty and six-fifty, it would be like, five-something also, and if they're significantly different, we say that there's a main effect for, field and if they're not significantly different we say there's no main effect for field. now this is an easy one. is there an interaction? </U>
+			<U WHO="SS"> yes. </U>
+			<U WHO="S1"> yeah because, the lines are definitely not parallel. and if it turned out that instead of this type of, relationship, if instead we had something that looked like this <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> even though part of it is parallel, and part of it's not parallel, if there's any part that's not parallel assuming the statistics show significance, this would be an interaction. even though it's part parallel part not parallel. because what you have to do is look at, the entire, compare the entire lines to each other. so if you've got three, levels of an independent variable or four or five, the lines have to be entirely parallel the whole time, for there to be no interaction. <PAUSE DUR=":05"/> okay, are there other questions about this type of stuff? <PAUSE DUR=":07"/> okay well, if there aren't why don't we take a five-minute break? and if you guys can hand in your rough drafts, of paper number four </U>
+			<EVENT DESC="MULTIPLE OVERLAPPING CONVERSATIONS NEXT 2:47"/>
+			<EVENT DUR=":11" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="SU-f"> um, i left mine at home. </U>
+			<U WHO="S1"> can you get it to me by the end of the day today? </U>
+			<U WHO="SU-f"> yes, um i have to leave five minutes early i just wanted to talk to you (or) ten minutes early </U>
+			<U WHO="S1"> mkay well, you should probably_ uh okay (xx) ten minutes early, (xx) hang out here until, <U WHO="SU-f"> okay, <OVERLAP> (xx) </OVERLAP></U><OVERLAP> (xx) (fifteen) </OVERLAP></U>
+			<U WHO="SU-f"> and then two-way, design. </U>
+			<U WHO="SU-f"> oh (i forgot to bring this up.) </U>
+			<U WHO="SU-f"> (two-way design) </U>
+			<U WHO="SU-f"> that's that's (everything else) </U>
+			<U WHO="SU-f"> two-way design means T-tests. </U>
+			<U WHO="SU-f"> independent or matching pair. </U>
+			<U WHO="SU-f"> what's the difference between a T-test and ANOVA? </U>
+			<U WHO="SU-f"> T-test you do when there's only one independent variable. ANOVA you do (when there's others.) </U>
+			<U WHO="SU-f"> okay, so that's two-way design. then there's the factorial design. </U>
+			<U WHO="SU-f"> factorial is ANOVA. </U>
+			<U WHO="SU-f"> (xx) well, any_ ANOVA is more than one kind </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="SU-m"> i forgot (the independent) </U>
+			<U WHO="S1"> ohh, big points off. yeah it's okay. it's just a rough <OVERLAP> draft </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> oh yeah </OVERLAP></U>
+			<U WHO="SU-f"> can i ask you a question (about this) example? </U>
+			<U WHO="S1"> sure. </U>
+			<U WHO="SU-f"> okay. this one, for A, it says that there's only a main effect on the (cartier) variable, <U WHO="S1"> okay </U> which is this one. <U WHO="S1"> mhm </U> why is there no main effect </U>
+			<EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :20"/>
+			<EVENT DESC="CONVERSATION 1"/>
+			<U WHO="S1"> okay we won't do this together. what they're saying is that (xx) together. so, it was this far apart and you (xx) we won't do something where where there's a difference (xx) <OVERLAP> we'll either state </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> okay so (those'll) </OVERLAP> be on top of each other </U>
+			<U WHO="S1"> right we'll either state that (the statistic degree) (xx) the (end,) or they'll be touching each other. </U>
+			<EVENT DESC="CONVERSATION 2"/>
+			<U WHO="S11"> so the game wasn't even on T-V last night. </U>
+			<U WHO="SU-m"> no but they won. </U>
+			<U WHO="S11"> it's r- they did? </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S11"> i heard they were up for like, by a lot actually. </U>
+			<U WHO="SU-m"> yeah, that was nice. (xx) </U>
+			<U WHO="S11"> see, good for you. </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S11"> but it wasn't even on the (xx) was on. </U>
+			<U WHO="SU-m"> yeah i know. </U>
+			<EVENT DESC="END SIMULTANEOUS CONVERSATIONS"/>
+			<U WHO="SU-f"> okay, alright. that's why i was so_ i was c- really confused. </U>
+			<U WHO="S1"> yeah, that's a bad example they give. </U>
+			<U WHO="SU-f"> okay, thank you. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="SU-m"> do you have the quiz from </U>
+			<U WHO="S1"> i don't have it with me but if you wanna come up at the end of class i can show you (what your) score (was.) </U>
+			<U WHO="SU-m"> okay </U>
+			<U WHO="SU-f"> how come i (get Indian?) <EVENT DESC="LAUGH"/> i'm not even Indian. maybe they think i'm Indian. </U>
+			<U WHO="SU-f"> absolute party of (xx) </U>
+			<U WHO="SU-f"> umm (xx) </U>
+			<U WHO="SU-f"> what the fuck is this shit? <EVENT DESC="LAUGH"/></U>
+			<U WHO="SU-f"> ooh<SEG TYPE="READING"> we decided that the owner of this list according to, (xx) </SEG></U>
+			<U WHO="SU-m"><OVERLAP> you can close your email (and all that) stuff? </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> well, we'll quit the job </OVERLAP> and do it next summer. (xx) </U>
+			<U WHO="SU-f"> you're so smart. </U>
+			<U WHO="SU-1"> that includes web browsers. </U>
+			<U WHO="SU-f"> i feel like (getting church up sad) </U>
+			<U WHO="SU-f"> (it was on accident) </U>
+			<U WHO="S1"> they really should have like a switch right here where i can just turn off the internet or something. um, so just before we go into, (xx) stuff, if any of you guys missed Wednesday and didn't get a chance to write up, the, draft of paper four, you should probably talk to me because it's based on an analysis we ran on the data on Wednesday and if, you don't have the data and the outcome you can't write up your, discussion section, and so (i) should talk to (you) at the end of class. um, mkay what we're gonna do, now is i'd like you guys to get into groups of three or four, and um i've got a list of studies, um that've been run, and i think, nearly all of them have actually been published. um and, your job is to find some confounds, in these studies. every study has at least one confound, um, this is the fun part where you get to sort of tear other people's work apart. (because) um, as a psychologist other people tear your work apart all the time so it feels kinda good to find faults with other people. so if you guys can get into groups, and go through these, then we'll talk about 'em </U>
+			<EVENT DUR=":23" DESC="MOVING INTO GROUPS"/>
+			<U WHO="S5"> whatever i'll take care of this later. <PAUSE DUR=":06"/> alright Sarah. <PAUSE DUR=":07"/><SEG TYPE="READING"> can you think of any possible confounds? </SEG></U>
+			<U WHO="S9"> i haven't even read it yet. oh i thought you were <EVENT DESC="LAUGH"/></U>
+			<U WHO="S5"> i know. <EVENT DESC="LAUGH"/> no i was just reading the instructions </U>
+			<U WHO="S9"><EVENT DESC="LAUGH"/> oh i know i was like what are those </U>
+			<EVENT DUR=":33" DESC="RECORDING-RELATED CONVERSATION"/>
+			<EVENT DESC="MULTIPLE SIMULTANEOUS GROUP CONVERSATIONS NEXT 12:52"/>
+			<EVENT DESC="GROUP CONVERSATION 1"/>
+			<U WHO="SU-f"> i don't know what to do </U>
+			<U WHO="SU-f"> can_ the confounds, yeah like you know (i was just) (xx) </U>
+			<U WHO="S11"> is there just one sheet? </U>
+			<U WHO="SU-f"> yep </U>
+			<U WHO="SU-f"> (Aaron) why don't you pass it around (xx) </U>
+			<U WHO="S5"><EVENT DESC="LAUGH"/></U>
+			<U WHO="SU-f"> okay. um </U>
+			<U WHO="SU-f"> yeah what are confounds? like (xx) </U>
+			<U WHO="S11"> like a third variable that could affect (things) </U>
+			<U WHO="SU-f"> right. </U>
+			<PAUSE DUR=":24"/>
+			<U WHO="SU-12"> okay. umm... whether the person was a, a boy or a girl? how many boys and how many girls </U>
+			<U WHO="S11"> but it's not </U>
+			<U WHO="SU-12"> or is that irrelevant? </U>
+			<U WHO="S11"> yeah that that's not_ confound is like, like what <U WHO="SU-12"><OVERLAP> a variable not (xx) </OVERLAP></U><OVERLAP> what else besides </OVERLAP> the name change like besides the boy or girl name what else could've led to higher, ratings <OVERLAP> by, everybody? </OVERLAP></U>
+			<U WHO="SU-12"><OVERLAP> if it was all </OVERLAP> boys (don't you think?) </U>
+			<U WHO="S11"> but it's not. even for female raters. </U>
+			<U WHO="SU-f"> oh, okay... </U>
+			<U WHO="SU-f"> oh even okay so (xx) um, length of essay? </U>
+			<U WHO="S11"> maybe all the guys, why they would rate higher for shorter, and the guys all rate shorter cuz they're not like, they don't elaborate as much, that could be... like guys in general don't <U WHO="SU-f"> (xx) <OVERLAP> maybe </OVERLAP></U><OVERLAP> no that_ </OVERLAP> you can't really say that though. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="SU-f"> yeah maybe if they didn't elaborate enough well what else (xx) um, handwriting. if they were typed or, cuz maybe they weren't rated (xx) handwriting. </U>
+			<U WHO="S11"> but why would they rate, <OVERLAP> guys' </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> cuz if </OVERLAP> you couldn't read it, you'd be like_ oh then guys. </U>
+			<U WHO="S11"><OVERLAP> guys </OVERLAP> are sloppier writing so they all typed and it's easier to read. </U>
+			<U WHO="SU-f"><EVENT DESC="LAUGH"/></U>
+			<U WHO="S11"> who knows? </U>
+			<U WHO="SU-f"> couldn't it be like something just, like, something like that? i mean isn't that what he's looking for? <OVERLAP> something like </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> because (xx) type </OVERLAP></U>
+			<U WHO="SU-f"> the first thing, i_ well i said typed and written. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S11"> guys type their papers cuz they're sloppier, writing </U>
+			<U WHO="SU-f"> and so it <OVERLAP> looked nicer and it looked nicer </OVERLAP><U WHO="S11"><OVERLAP> yeah, cuz they're easier to read. </OVERLAP></U> and the way it was presented affected the </U>
+			<U WHO="SU-f"> yeah cuz if you were to read a paper and one was typed and one was (xx) handwritten you would assume that the one typed was better. </U>
+			<U WHO="S11"> more effort and stuff <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> yeah </OVERLAP></U>
+			<U WHO="S11"> okay </U>
+			<PAUSE DUR=":28"/>
+			<U WHO="SU-f"> (xx) like something like, um, boys typed, they had worse handwriting <U WHO="S1"><OVERLAP> um </OVERLAP></U><OVERLAP> and then </OVERLAP> the girls just (ignored it?) </U>
+			<U WHO="S1"> um in this particular case they're they're, written in the same way. </U>
+			<U WHO="SU-f"> oh </U>
+			<U WHO="S11"><OVERLAP> ohh </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so, </OVERLAP> there's there's gonna be, um something in here that, that might that might lead to a confound. it's not as glaring as some of the examples we used earlier in the semester but, there's something in there that makes a <OVERLAP> difference. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> subjects </OVERLAP> were asked? (xx) do they use um, would it something like that? like, would it what kind of </U>
+			<U WHO="S1"> um, <OVERLAP> so the con- </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> how </OVERLAP> they would ask maybe? like whether it was verbally or like if they just <OVERLAP> read it </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> um, </OVERLAP> you can assume that it's the same. </U>
+			<U WHO="SU-f"> okay </U>
+			<U WHO="S1"> so you can assume that that the only things that's that, are different in the two conditions are whether they see the name John Smith or Jane Smith on the top. </U>
+			<U WHO="SU-f"> okay. oh in the name? <OVERLAP> John and Jane </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> was the point of the experiment? </OVERLAP> to see if you <U WHO="S1"><OVERLAP> they were </OVERLAP></U><OVERLAP> were </OVERLAP> kinda biased towards </U>
+			<U WHO="S1"> the interest was whether there was bias (for) to male or female names. </U>
+			<U WHO="S11"> there obviously <OVERLAP> was. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> they knew </OVERLAP> that they were fake names. </U>
+			<U WHO="S1"> yeah that <OVERLAP> wouldn't </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> does that </OVERLAP> matter? </U>
+			<U WHO="S1"> that <U WHO="S11"><OVERLAP> (xx) so they'd probably choose the </OVERLAP></U><OVERLAP> wou- wouldn't be a confound that could be a </OVERLAP> a weakness of the study. <OVERLAP> but it would </OVERLAP></U>
+			<U WHO="S11"><OVERLAP> they'd probably </OVERLAP> choose the girl's name, (as a) (xx) </U>
+			<U WHO="S1"> this happens to be one of the hardest ones so if you're, if you're finding that you can't do it you might wanna move on and, go back to it to </U>
+			<U WHO="SU-m"> (xx) second one (xx) you guys (xx) </U>
+			<U WHO="S11"> (xx) </U>
+			<U WHO="S11"> maybe just the teacher is more qualified. </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S11"> yeah </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="SU-f"> what was_ what'd you guys say? </U>
+			<U WHO="S11"> like the teachers are more qualified (and) teach better or the students could be smarter. whatever. either one. </U>
+			<PAUSE DUR="1:23"/>
+			<U WHO="SU-f"> but also (he) found their scores were closer so, (xx) so (xx) </U>
+			<U WHO="S11"> (xx) </U>
+			<U WHO="SU-f"> so would that be external (validity) (xx) </U>
+			<EVENT DUR="5:51" DESC="UNINTELLIGIBLE SPEECH"/>
+			<EVENT DESC="GROUP CONVERSATION 2"/>
+			<PAUSE DUR=":30"/>
+			<U WHO="S5"> alright, can you think of any con- </U>
+			<U WHO="S9"> read in your head <EVENT DESC="LAUGH"/></U>
+			<U WHO="S5"> sorry. </U>
+			<PAUSE DUR=":28"/>
+			<U WHO="S9"> so, did you read? </U>
+			<U WHO="S5"> yeah i read it. so basically they just changed the author's, <U WHO="S9"> right </U> the author's name </U>
+			<U WHO="S9"> the only thing i could think is_ but the see i don't know it's (relevant that) whole thing like even (for) female writers but it's the only thing i can think of that would be a confound is like what if there're more females reading, the male papers? something like that you know? or vice versa. </U>
+			<U WHO="S5"> could something be that's confounded is the type of of material they're reading too? </U>
+			<U WHO="S9"> uh'uh cuz the it's </U>
+			<U WHO="S5"> oh, identical <OVERLAP> essay material, </OVERLAP><U WHO="S9"><OVERLAP> no essay iden- yeah </OVERLAP></U><OVERLAP> i </OVERLAP> didn't see that... </U>
+			<U WHO="S9"> yeah (xx) </U>
+			<U WHO="S5"><SEG TYPE="READING"> (xx) varied the author's name (would have to be) </SEG> mm <PAUSE DUR=":10"/> i don't really, i can't think of anything right away. </U>
+			<U WHO="S9"> he said there's at least one for each <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> he did? </OVERLAP></U>
+			<U WHO="S9"> yeah. (i tell you what) you wanna skip it and come back to it? <U WHO="S5"> let's come <OVERLAP> back. </OVERLAP></U><OVERLAP> we need </OVERLAP> to get the juices flowing here. </U>
+			<U WHO="S5"> i know <EVENT WHO="S9" DESC="LAUGH"/> so we we get to one that we can find a couple of ('em) <EVENT WHO="S9" DESC="LAUGH"/> alright, let's read this one. </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="S9"> oh this is dumb </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S5"> it like it_ what's confounded is the the subject <OVERLAP> (xx) </OVERLAP><U WHO="S9"><OVERLAP> engineers </OVERLAP></U> and different type of people. </U>
+			<U WHO="S9"> yeah, the engineers versus, psych people </U>
+			<U WHO="S5"> yeah. </U>
+			<U WHO="S9"> and then actually that also means um, different type of professors are teaching too. </U>
+			<U WHO="S5"> that's true. also just <U WHO="S9"> and </U> the material's different too. so, each like different material is probably better <OVERLAP> suited to be </OVERLAP><U WHO="S9"><OVERLAP> well no the po- </OVERLAP></U> taught different ways. </U>
+			<U WHO="S9"> well that's the point they're trying to find out if it's the material makes the difference. so you have to vary the material. </U>
+			<U WHO="S5"> oh okay i see what you're saying. </U>
+			<U WHO="S9"> so did_ but, the professors are different, the people they're teaching are different </U>
+			<U WHO="S5"> that's enough. </U>
+			<U WHO="S9"><EVENT DESC="LAUGH"/> you're like ahh, i feel (good) (xx) <U WHO="S5"> yeah. </U> um, (xx) </U>
+			<PAUSE DUR=":33"/>
+			<U WHO="S5"> hm, that's interesting... </U>
+			<EVENT WHO="S9" DESC="LAUGH"/>
+			<U WHO="S5"> what? </U>
+			<U WHO="S9"> that they received an electric shock when they're wrong </U>
+			<U WHO="S5"><EVENT DESC="LAUGH"/> i know </U>
+			<PAUSE DUR=":11"/>
+			<U WHO="S5"> well_ oh, the confounding variable is the dropout rate. </U>
+			<U WHO="S9"> yeah that's what i was gonna say, dropout. </U>
+			<U WHO="S5"> what is th- what is that called again? </U>
+			<U WHO="S9"> i don't know <OVERLAP> if i heard the name (i'd know) </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> that's a term </OVERLAP> here it's on here probably. it's on um </U>
+			<U WHO="S9"> it's from like_ no i think it's (just) this one... attrition. </U>
+			<U WHO="S5"> yeah, attri- subject attrition. </U>
+			<U WHO="S9"> ahh <OVERLAP> ahh </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> oh, </OVERLAP> oh my god i'm sorry. </U>
+			<U WHO="S9"> it's okay </U>
+			<U WHO="S5"> yeah subject attrition. </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S9"> um </U>
+			<U WHO="S5"> Dan? </U>
+			<U WHO="S1"> yep? </U>
+			<U WHO="S5"> if something affects both groups equally, like it's anoth- if it's another variable that's out there but affects them equally then it's not a really confounding variable <OVERLAP> (right) </OVERLAP> ? </U>
+			<U WHO="S1"><OVERLAP> right </OVERLAP> right, for it to be confounding it has to affect the groups differently. </U>
+			<U WHO="S5"> so for example like in our, in that thing that we turned in today, <U WHO="S1"> mhm </U> like one of the things i mentioned as a limitation to the project was that, you know the words, the words varied, <U WHO="S1"> mhm </U> between the different, groups but you know you co- couldn't do anything about that. i didn't say that was confounding because, it was, <U WHO="S1"> right </U> you know it was different for all groups. </U>
+			<U WHO="S1"> right. beca- everybody saw all the same words in some_ in one of the conditions, because, there were there were four lists of words. <U WHO="S5"> yeah </U> and there were four different conditions so it's somewhere along (the way,) so i- by our randomization it got rid of that as a confounding problem. <U WHO="S5"> okay. </U> if it turned out that we kept the same lists for recall, and different lists for recognition, then there could be a confound because, the list type, varied at_ the same way that recall versus recognition varied. does that make sense? so it was <U WHO="S5"> yeah </U> there was a systematic difference that wasn't recognition versus recall but it was rather words. <U WHO="S5"> okay. </U> but <OVERLAP> in that_ our case </OVERLAP><U WHO="S5"><OVERLAP> (xx) </OVERLAP></U> we got rid of that as a confound. </U>
+			<U WHO="S5"> i just got three emails in the last three minutes. <U WHO="S9"> does that mean that <OVERLAP> we did it </OVERLAP></U><OVERLAP> oh i'm getting </OVERLAP> myTalks that's why i keep getting these (internet) (xx) Julie. </U>
+			<U WHO="S9"> does that mean we did it wrong? (xx) (assignment?) </U>
+			<U WHO="S5"> what? </U>
+			<U WHO="S9"> (do you think we did our) homework assignment wrong? </U>
+			<U WHO="S5"> i dunno. i just gotta tell her i can't talk to her right now. </U>
+			<U WHO="S9"> yeah. okay so there's attrition, okay i'll do the next one. </U>
+			<U WHO="S5"> whatever. okay. (xx) (reactivity) doctor noun <EVENT DESC="EMAIL BEEP"/> Julie. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<PAUSE DUR=":12"/>
+			<EVENT WHO="S9" DESC="LAUGH"/>
+			<EVENT WHO="S5" DESC="LAUGH"/>
+			<EVENT WHO="S9" DESC="LAUGH"/>
+			<PAUSE DUR=":06"/>
+			<U WHO="S9"> whoa. </U>
+			<U WHO="S5"> whoa. <EVENT DESC="LAUGH"/> (xx) <PAUSE DUR=":04"/> now that's surprising. wouldn't you think that they would've scored, lower in the high pressure condition? </U>
+			<U WHO="S9"> yeah, well mayb- (got it,) well the point is that men supposedly work better under pressure than women. </U>
+			<U WHO="S5"> no but the_ he's not testing that he's testing, creativity. </U>
+			<U WHO="S9"> right, so that could be a found- </U>
+			<U WHO="S5"> so that could be a confounding <OVERLAP> variable. </OVERLAP><U WHO="S9"><OVERLAP> yeah </OVERLAP></U> that men are better u- under high pressure <U WHO="S9"><OVERLAP> well </OVERLAP></U><OVERLAP> than </OVERLAP> women. </U>
+			<U WHO="S9"> i don't know if he phrases it that way (xx) hold on. i have to read this again. </U>
+			<EVENT DESC="EMAIL BEEP"/>
+			<U WHO="S5"> i have to tell her really quick or else gonna it's gonna get it's this is the <OVERLAP> eighth time </OVERLAP> . </U>
+			<U WHO="S9"><OVERLAP> all these </OVERLAP> beepings, they're driving me crazy... i'm in class. </U>
+			<PAUSE DUR=":08"/>
+			<U WHO="S9"> you're just gonna ditch her? </U>
+			<U WHO="S5"> no i have to, i can't, i just couldn't do it in that screen. there. </U>
+			<U WHO="S9"><SEG TYPE="READING"> please (put your hats inertial totally) (xx) </SEG></U>
+			<U WHO="S5"> so now she logged off, finally. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S9"> (i don't want a girlfriend) (xx) </U>
+			<U WHO="S5"> okay. so what do you think for that one? that's that that could be confounded. (is that_) bu- but even, but even so Sarah, do you notice that, look how f- look how the difference in scores <U WHO="S9"><OVERLAP> you know what the </OVERLAP></U><OVERLAP> with females. </OVERLAP> even over both <OVERLAP> (conditions.) </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> right, </OVERLAP> you know what you know what the problem is? i think, it's the fact that, what if men are more suited to use, army compasses and monkey wrenches? </U>
+			<U WHO="S5"><EVENT DESC="LAUGH"/> you're <OVERLAP> right. </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> that's </OVERLAP> what it is. </U>
+			<U WHO="S5"> that's what it is. you're right. </U>
+			<PAUSE DUR=":10"/>
+			<U WHO="S5"> (xx) </U>
+			<U WHO="S9"> (xx) </U>
+			<PAUSE DUR=":25"/>
+			<U WHO="S9"> well maybe the new list of words really did have more annoying words. </U>
+			<U WHO="S5"> and maybe they, maybe they just... that's not, yeah and that's not true. wait a minute. </U>
+			<U WHO="SU-f"> it's true... </U>
+			<U WHO="S5"> what? </U>
+			<U WHO="S9"> i think it's that the new list of words may be less likable. </U>
+			<U WHO="S5"> yeah they could be they could be completely different. </U>
+			<U WHO="S9"> exactly. (block out the) (xx) </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> is that you beeping there? </U>
+			<U WHO="S9"> no the only ones_ Nina and you and this computer just doesn't beep. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S5"> (xx) zero <EVENT WHO="SS" DESC="LAUGH"/> okay. the number </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S9"> this is actually true... </U>
+			<U WHO="S5"><EVENT DESC="LAUGH"/> that is really funny. </U>
+			<U WHO="S9"> you know what in the blizzard of seventy_ they had a blizzard in s- nineteen seventy-eight in Ma- in like Massachusetts, <U WHO="S5"> mhm </U> or in New England, um, and it was in May. or something like that. yeah it was in May, which so it's really unusual, and i guess the snowdrifts were u- it was like five feet you couldn't walk out your front door and stuff the snow was so high, <U WHO="S5"> okay. </U> so the people were like, snowbound in their house <OVERLAP> for a couple of days, </OVERLAP><U WHO="S5"><OVERLAP> (blocked in) </OVERLAP></U> and apparently nine months later a lot <U WHO="S5"><OVERLAP> a lot of babies? </OVERLAP></U><OVERLAP> of kids were born. </OVERLAP> yeah like the su- the power was out for a few days and (xx) and there were all these just babies born nine months later <OVERLAP> in Massachusetts. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> it's like what Dan </OVERLAP> said remember Dan set that thing up on the overhead and he's like, those, <EVENT DESC="LAUGH"/> those Michigan winters. </U>
+			<U WHO="S9"><EVENT DESC="LAUGH"/><EVENT WHO="S5" DESC="LAUGH"/> yeah. yeah alright. </U>
+			<U WHO="S5"> alright. <OVERLAP> uh, </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> (that's the </OVERLAP> year i was) born, </U>
+			<U WHO="S5"> following (ideas) </U>
+			<PAUSE DUR=":20"/>
+			<U WHO="S9"> what was that? <OVERLAP> sex spree </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> sex spree. </OVERLAP> that's kinda weird though, because, <OVERLAP> (i mean that) </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> there's no </OVERLAP> reason why it should've leveled off like <OVERLAP> that. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> it shouldn't, </OVERLAP> i mean some people are ov- weeks late, <OVERLAP> you know or weeks early </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> yeah weeks late, weeks early </OVERLAP> yeah no one's on ti- not enough people are on time. <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> so </OVERLAP> what what's the deal here? <U WHO="S5"> i don't <OVERLAP> know </OVERLAP></U><OVERLAP> it's that, </OVERLAP> i don't think it's just a libid- legitimate conclusion. </U>
+			<U WHO="S9"> um there has to be something going on in here that we haven't (quite) picked up <OVERLAP> on. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> yeah, </OVERLAP> um </U>
+			<U WHO="S9"> it has something to do with the days of the week i think. </U>
+			<U WHO="S5"> well they didn't say what day of the week, the, the black guy was. </U>
+			<U WHO="S9"> right. <PAUSE DUR=":18"/> maybe people like to have their kids at the beginning of the week. <EVENT WHO="S5" DESC="LAUGH"/> God, i wanna be able to go out this <OVERLAP> weekend. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> get it </OVERLAP> over with. <EVENT WHO="SS" DESC="LAUGH"/> damn it i wanna enjoy my weekend. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S9"> i was born on a Monday. </U>
+			<U WHO="S5"> my mom was in labor with me on Friday the thirteenth. <U WHO="S9"><EVENT DESC="LAUGH"/> ohh </U> for seventeen hours and i was born on Saturday. <OVERLAP> the fourteenth </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> my mom was in </OVERLAP> labor with me for thirty-eight hours. </U>
+			<U WHO="S5"> come on, i have <U WHO="S9"><OVERLAP> (not kidding you) </OVERLAP></U><OVERLAP> never heard </OVERLAP> of anything that long. did she have a C-section? </U>
+			<U WHO="S9"> no </U>
+			<U WHO="S5"> after thirty-eight hours? </U>
+			<U WHO="S9"> uhuh. it was well you know when like from when the first contraction started, it was <OVERLAP> thirty-eight hours. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> that's a long </OVERLAP> time. </U>
+			<U WHO="S9"> yeah, <OVERLAP> yeah i know. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> my mom </OVERLAP> had a C-section. </U>
+			<U WHO="S9"> oh really. that's why i'm always worried cuz that stuff's genetic, like you inherit that stuff. like, if your mother's in, like (xx) you will be too i'm like great, i'm gonna be in labor <OVERLAP> forever. </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> hours </OVERLAP> increase with each generation. </U>
+			<U WHO="S9"> oh God don't say that. </U>
+			<EVENT DESC="END SIMULTANEOUS GROUP CONVERSATIONS"/>
+			<U WHO="S1"> okay, let's talk about, what's wrong with these studies. hopefully everybody's done at least i'm guessing since everybody's talking more loudly (xx) excited. so, <EVENT WHO="SS" DESC="LAUGH"/> um, so, the Goldberg study the Name Game, one of the hardest ones, so, could somebody tell me what possible confounds, there could be in this study? yeah? </U>
+			<U WHO="SU-m"> people like the letters O and H better than A and B. </U>
+			<U WHO="S1"> O and H might be liked better than A and B. okay and <OVERLAP> (it) might (be found) that </OVERLAP><U WHO="S9"><OVERLAP> that's so weird </OVERLAP></U>  in women's names there's more, there's more As and Es than in men's names? </U>
+			<U WHO="SU-f"> what? </U>
+			<U WHO="S8"> well in this example you have John and Jane. </U>
+			<U WHO="S1"> okay those are just two examples. what they actually did is they used just a whole bunch of names and the masculine and feminine forms of each. </U>
+			<U WHO="SU-f"> hm </U>
+			<U WHO="S1"> yeah? </U>
+			<U WHO="SU-m"> we uh, talked about the essay material, the material was something that was more stereotypically male like sports, it might be more apt to, (agree with the) male versus the female </U>
+			<U WHO="S1"> okay so, if if the material was such that people thought male as opposed to female, that would be, um a weakness of the study but it wouldn't necessarily be a confound. because it wouldn't be affecting one group and not the other group. <U WHO="S9"> oh </U> all conditions would see the same thing and, all conditions would presumably think male (xx) even though they were different names. so that could be a weakness of the study. and if you were running (that study) you'd have to make sure that you chose something that wasn't, thought to be male or female or anything. yeah? </U>
+			<U WHO="S8"> maybe males are more critical, than females, and, they uh, <OVERLAP> females have higher scores for the essay because </OVERLAP><U WHO="S9"><OVERLAP> so why would they have rated it better? </OVERLAP></U> they rate higher. </U>
+			<U WHO="S1"> so, so, the the fact that both males and females scored males higher than females... you're saying if if if by difference between males and females are you talking about the difference between the, essay writers or the judges? </U>
+			<U WHO="SU-f"> the judges </U>
+			<U WHO="S1"> okay so they're they're, if if we found the difference between male and female scores, like the the male judge scores and the female judge scores, we, we would say that that could be a problem or that could be an effect that we're interested in finding. in this particular case we're gonna assume that the scores were both the same. males scored males higher and females scored males higher... other possible ideas for what the confound is? </U>
+			<U WHO="S10"> could it also be, it depends on like the students that are evaluating it, like what what their back- what their background is, like if you have, males, and females that are all the same discipline and all, like from the same area that's (xx) that they'll both be different, if you take male engineers and female <OVERLAP> psych students then, </OVERLAP><U WHO="S1"><OVERLAP> right, okay </OVERLAP></U> it would depend on </U>
+			<U WHO="S1"> so one thing you wanna make sure of is that you have, um a random assignment to to conditions you wanna randomly select males and females from the same population, and if you didn't do that, that could be a confound. good. other, other confounds with (the actual) materials? <PAUSE DUR=":04"/> mkay well, it turns out that, um, (Venin Kasov) looked at this study and he thought that maybe there's a problem with it. and what he did, was he went through and looked at, the fact that, like how people rate different names. he said forget about gender. i'm interested are some names more positively connotated than others? and he found that in fact there is a difference the for example the name Waldo is rated less favorably than William. even though they're both male names. some names have, more positive connotations than others. and it turns out that this happens for all different names, for various reasons, for example names that were very popular in the twenties and thirties might be associated with certain n- concepts, and names that are s- that were really popular in the eighties and nineties are associated with different concepts. so, what he found was that he looked back at the names that were used in his actual study, and he found that the names that Goldberg had chosen, unwittingly were less attractive female names and more attractive male names. so if you take the n- a male name and you feminize it, just sort of the w- the way he did it, it turns out that, you have to make sure that you're you're keeping it at the same attractiveness level and, he didn't do that. um, so what he did is he actually then took a whole huge corpus of names, and he compared male to female, ratings of males' and female names, and it turns out that the average is the same. so it it was just a problem with the selection of names. so that if somebody were to try to rerun this study, <U WHO="S10"> hm </U> one thing they would wanna do is have the names pretested first, to make sure that they're equivalent as far as, uh positive and negative connotations before you start making assumptions about gender. okay? this is, the most, i think this is probably the most difficult one on the list so, <OVERLAP> does that </OVERLAP><U WHO="S5"><OVERLAP> yeah that's why we skipped it. </OVERLAP></U> make sense? that, that that would be a problem if, the names were different positively and negatively regardless of gender...? mkay so then the teaching one, statistics class. yeah? </U>
+			<U WHO="SU-m"> kids who take an engineering class are just better at like, statistics or had some more previous knowledge, so they scored higher. </U>
+			<U WHO="S1"> okay so that engineering students are just different than psych students and they're better at statistics. <U WHO="SU-f"> yeah </U> right, yeah. if, if you, if you don't randomly assign people's conditions, then any differences that are, existing may be what results from your change in your dependent variable. um, so if you wanted to really be sure that this was the effect you would, um randomly, you'd have the two versions of the engineering class and one would get one type and one would get another type the two versions of the, psych class and one would get one type of teaching and the other would get the other type of teaching. and then you can get rid of the engineering versus psychology effect. good. okay the punishment one... <OVERLAP> (Ashley?) </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> so, </OVERLAP></U>
+			<U WHO="SU-f"> the um, the people who dropped out were the ones who had the low scores, because they would get shocked a lot <U WHO="S1"> mkay </U> (xx) people, and the people who were getting shocked dropped out, so the people who (xx) would (probably have an, effect.) </U>
+			<U WHO="S1"> okay so su- so subjects in the shocking condition dropped out more like, more frequently than subjects in the non-shocking condition. and what'd we call that? </U>
+			<U WHO="SS"> subject attrition </U>
+			<U WHO="S1"> subject attrition right. so, if you don't know what the difference between the people who dropped out and the people who stayed in is, you can't make the assumption that that, they're the groups are actually different it might be all the wimps in one group dropped out and the wimps in the other group stayed. (xx) yeah? </U>
+			<U WHO="SU-f"> could you also say that there's not, that the punishment versus reward isn't equal? like you can't compare getting shocked to getting a dime. </U>
+			<U WHO="S1"> right, it might be that punishment and reward aren't equal. the shock might not be exactly ten cents worth of shock. <EVENT WHO="SU-f" DESC="LAUGH"/> um, it might be that the equivalent, you know to, counter the equivalent pain of the shock it might actually be better to give people a dollar fifty for every one they got right, or twenty dollars or a hundred dollars. something to try to even that out. right so, you might have this this disc- difference, in the level, the intensity of the two conditions. right? is that what you were (gonna say?) mkay. um, the creativity study, uh males versus females and writing down stuff about army compass and the monkey wrench... yeah? </U>
+			<U WHO="S9"> men might be more familiar with things to do with an army compass and a monkey wrench than women. </U>
+			<U WHO="S1"> okay, so it might be that the the objects are more masculine than, feminine. yeah? </U>
+			<U WHO="S3"> and, he's just testing creativity, but then he brings in pressure (and that,) which is another independent variable. so there may be some sort of interaction. </U>
+			<U WHO="S1"> right now that's not necessarily a confound that's actually a good thing right? </U>
+			<U WHO="S3"> why, if he's only testing for creativity? </U>
+			<U WHO="S1"> um, he's testing for creativity and he's testing for, creativity under pressure. </U>
+			<U WHO="S3"> it doesn't say that </U>
+			<U WHO="S1"> well, by including another independent variable that's essentially what he's doing, but, if he just uses the marginal means, of the high and low pressure in those situations, you should be able to tell the difference between males and females regardless of time pressure. right? <U WHO="S3"> mhm </U> so what he's trying to do is make the study a little more interesting. unfortunately, he's got a confound (built with the beginning.) yeah? </U>
+			<U WHO="SU-f"> um, it's not like, <EVENT DESC="COUGH"/> excuse me, externally v- valid because, how can you really say that thinking of uses for, an army compass or a monkey wrench, are, gonna be examples of creativity? (or they measure them?) </U>
+			<U WHO="S1"> okay right so there may be, an external or ecological validity issue um, certainly yeah if, you know, if creativity has nothing to do with, (u-) uses for a monkey wrench, then, then you don't really have, much validity. good. um, <OVERLAP> so </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> which, which </OVERLAP> validity was that? <OVERLAP> external </OVERLAP> ? </U>
+			<U WHO="S9"><OVERLAP> external validity </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah (it would be) </OVERLAP> external validity, you could also argue for ecological validity. if you, were trying to use creativity as a way of, sort of measuring how well people will do in in the world. so, mere exposure. by the way the name of this guy is E A J O N C, it's pronounced zionts, rhymes with science. he, was at Michigan for most of his career he just moved to Stanford a few years ago. um, but he had the coolest name in psychology. um, </U>
+			<U WHO="SU-f"> this is a pretty dumb study </U>
+			<U WHO="S1"> yeah, despite the (xx) kind of a dumb study, so what's wrong with it? </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> (xx) (here?) </U>
+			<U WHO="S3"> well first of all the, the first list of words could've had like more positive connotations, or, better related to, and then like the second list of words could be words that they didn't even know, and stuff_ it didn't say what kind of, what like_ did they match the words to see if they were like same, like difficulty level and length and all that stuff? </U>
+			<U WHO="S1"> mm okay now since the task was to, to judge the words from the first list, that everybody saw, how would you think that the differences in the second list would make a difference? <PAUSE DUR=":07"/> so (if) the words in the second list let's say they have negative connotations and the words in the first list have positive connotations, the task is to recall, or to to judge the words in the first list. how do you think, the fact that the words in the second list are negative, would make a difference? </U>
+			<U WHO="S4"><OVERLAP> it would make the first list look better. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> but no, l- if, </OVERLAP> yeah, make the first list look better. or you could, reverse it, and like, the other list (looks) better. so </U>
+			<U WHO="S1"> mkay but, (what) i'm not sure is wha- wh- where what's causing the effect? so right before you make the judgment of the first list of words, of whether they're positive or negative, you see a se- either a new list of words that are different, or you see that same first list. and you do be- and you rate the first list better. </U>
+			<U WHO="SS"> (xx) the first list </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S4"> there's nothing to compare to if you see the first list again. </U>
+			<U WHO="S1"> okay so maybe you have to think (xx) compare (xx) (you'd) sort of just judge 'em all positive. </U>
+			<U WHO="S4"> well, but didn't you say like you see a list and you s- might see the same list again and you decide whether you like those words? </U>
+			<U WHO="S1"> so, so what he's trying to show_ what this th- th- this_ was was he did a bunch of studies, in addition to this one some of 'em were better than others. in one, in one case he used subliminal presentation, and what he would do is people would be looking at a screen, and he would subliminally present, shapes, unusual shapes, not necessarily squares and circles but unusual shapes. and then, they didn't know that they saw these things and the- they were looking at them for like a millisecond, so it was way too, fast to even recognize that you saw something. and then later on you would give 'em a big, list of shapes and ask them to rate how positively or negatively they felt. and, what he found was that, um... <EVENT DESC="WRITING ON BOARD"/> the old, the new, the old shapes, were rated, more positively than the new shapes. so, what he's saying is that, these ideas that mere exposure, just seeing something once, will make you feel more positive about it, than seeing something, seeing it for the first time. so, in this particular study what he's doing is, instead of giving 'em shapes that they don't s- or things that they get subliminally he's presenting it, um so that it's, conscious. so they see a word, they see another word and then a week later they come back and they either see the same list or a different list. so that that particular method introduces a new confound. and, i i think that y- you're getting at at the point, it has to do with the types of words that you're presented with, part of it. can you think of some things that, that could lead you to, rate the old list better after having seen that a second time than having seen, a new list of words? <PAUSE DUR=":05"/> who's confused? mhm, go. </U>
+			<U WHO="S10"> it also seems like well even outside of that like, a week has passed between them and so, there's all kind of things that can affect how you feel about a certain, group of words or even just, <U WHO="SU-f"> like what? </U> what your mood is, what your mood was last week and what your mood is this week, will affect like, how you rate, a list of words. </U>
+			<U WHO="S1"> right, would you think that that, that the mood would, differ between people who saw the same list twice and the people who saw, two different lists? <PAUSE DUR=":04"/> just remember that's the point of a confound. yeah? </U>
+			<U WHO="SU-m"> the second list might put people in the bad mood. <U WHO="S1"> right </U> (xx) </U>
+			<U WHO="S1"> right. maybe reading the second list does something to people, that, reading the first list doesn't do to them. so it might be for example that, if the second list includes some negative words people might be in a bad mood, and in a bad mood they might rate everything lower. so, that might be what's causing the problem. um, so it's kind of what you're saying is the idea that they might be in a different mood, but y- what you need to be able to say is that, something in one condition caused their moods to change differently than in the other condition. mkay? so let's talk about blackout babies have any of you guys ever heard that, about after a blackout there's, a rise in births? so, what's wrong with that? yeah? </U>
+			<U WHO="SU-m"> (if you look at the, the results and then you might be saying) (xx) </U>
+			<U WHO="S1"> so, y- you're saying that that, </U>
+			<U WHO="SU-m"> (it just might be, it just might happen that they might just have decided on Monday or Tuesday.) </U>
+			<U WHO="S1"> so it might not be nine months after it might be Monday Tuesday. right. </U>
+			<U WHO="SU-m"> um i also don't (xx) </U>
+			<U WHO="S1"> okay right, so, so rather than looking at Monday and Tuesday you're saying, to say take the the week before and the week after the date, nine months later than the date, compare that to other times that (xx) </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> correct. right. now now part of that is, part of this is is good the fact the_ in fact it turns out that um, there's about a week a standard deviation of uh, of birth is, is about a week in either direction, so there's nine months then plus or minus is a week. (so you can see what these are) so, getting getting a bigger picture would be better. but, you could imagine if, that standard deviation occurred all the time, the year before the same type of standard deviation occurred. um and it wasn't you know there weren't as many <EVENT WHO="SU-m" DESC="SNEEZE"/><OVERLAP> (on Monday and Tuesday as compared to) </OVERLAP><U WHO="SS"><OVERLAP> bless you </OVERLAP></U> Wednesday Thursday Friday. it it ends up turning out that, that um, a lot of births aren't natural sort of, you know, the babies coming let's rush to the hospital ones, a lot of 'em are induced, um and then there are cesareans. and, doctors tend to induce pregnancy and to do ce- cesareans early in the week, as opposed to before the weekend. because, they're gonna be at work the rest of the week so they can check up on the mother whereas if they do it on a Friday and then go, away for the weekend, the mother's in more trouble. so in fact, somebody, did a follow-up on this because it seemed a little odd, and what they found, was that if you, look at it by day <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"/> (xx) it looks like this basically. actually it probably dips down a little bit (xx) so, you have this kind of, fact where, there're just more births on Monday and Tuesday than there are on other days of the week. and somebody looked at the nine weeks before and the nine weeks after, looked at Monday and Tuesday versus the other days and they found that there was a significant difference. so the fact that there were more births that day, didn't really mean as much, because, it was all part of a pattern. and in fact, there weren't more births nine months after the blackout than, at other times. (xx) so. yeah? </U>
+			<U WHO="S4"> but there there weren't? couldn't it just be that, on that Monday of that particular week they were like so much higher than all the Mondays on the rest of the year? the- or they didn't find that? </U>
+			<U WHO="S1"> it it could have been, if if that were the case. right you would effect_ you you would expect that there were a main effect, of that year versus other years, (you're assuming that that was your particular interest,) if there were a main effect, you might expect this. <EVENT DUR=":04" DESC="PAUSE WHILE WRITING ON BOARD"/> right with this being this year, the year of the blackout this being the year before or after the blackout. (okay) and you can still see this pattern, right, Mondays would still be more than Thursdays, but what you would say is that, there's a main effect because two years differ, and there's no interaction because they're parallel. mkay? so, and but that doesn't, negate the fact that there's still a main effect for day of the week. so... what you should be able to get out of this is the fact that, even studies that get published and that look good, can have confounds. and your job when you come up with your final projects, is to try to get rid of as many confounds as you can, and ideally, you should think of a problem in the world, and try to operationalize that problem and try to run a study on that. um and, i think what i can do is, just to get you thinking about this... i'll hand out um, a description of the final project, um </U>
+			<U WHO="SU-f"> it's due April seventeenth right? </U>
+			<U WHO="S1"> yeah it's due at the end of the semester. but there're different things going, going on between, now and then. um, the key that you should keep in mind is that you can work with a partner, in groups of up to two no more than two, and, um, if you work with a partner you guys can both run the same study and everything and you do it all together but you have to write up separate papers. and, your grade isn't based on whether you find significance it's based on, how you, can present the data and, how you um, how you run your analysis and how you basically show that you understand all the stuff we've talked about this semester. now fortunately, during the whole semester, you guys have gone through, all the different parts of, writing a paper so this shouldn't be too difficult. you've written, an intro, a methods, a results, and a discussion section, so you can look back at those and and, and directions that we've given you throughout, throughout the semester. so, start thinking about ideas, start thinking about partnering up if you want, um and starting next class we'll we'll get into, more depth as far as what your projects are gonna (be like.) so, for those of you who haven't handed in, your assignment four and you need help doing the analysis stay here for a little bit, otherwise i'll talk to you Monday. </U>
+			<U WHO="S5"> that's it. </U>
+			<U WHO="S9"> hm. so you were saying you're studying a lot for the drugs exam? </U>
+			<U WHO="S5"> like you wouldn't believe. </U>
+			<U WHO="S9"> i've read over my notes three times_ no, o- </U>
+			<U WHO="S5"> i've read 'em over t- twice, <OVERLAP> two full times. </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> well i've done twi- two full times </OVERLAP></U>
+			<U WHO="S5"> but i feel like i don't even know exactly what he wants us to memorize. like, do we need to know every <OVERLAP> single </OVERLAP><U WHO="SU-f"><OVERLAP> i know </OVERLAP></U> you know um, effect and you know that each drug has on you know <U WHO="SU-f"> yeah </U> psychomotor <OVERLAP> stimulant </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> i just </OVERLAP> kind of like s- made it a little chart and kind of wrote down what the s- <OVERLAP> basic things that each (x) </OVERLAP><U WHO="S5"><OVERLAP> i did too, (that's why) </OVERLAP></U> like, the fact that like all of them have rewarding effects except for hallucinogens and stuff like that. </U>
+			<U WHO="S5"> they do? mm <U WHO="S9"><OVERLAP> yeah </OVERLAP></U><OVERLAP> i do </OVERLAP> just little (xx) </U>
+			<U WHO="S9"> well they're all self-administered except for hall- L-S-D isn't <U WHO="S5"><OVERLAP> (xx) </OVERLAP></U> self-administered yeah that's kind of essentially what i did too. um </U>
+			<U WHO="S5"> but i mean <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> are you_ you're gonna go </OVERLAP> to the review today right? </U>
+			<U WHO="S5"> for sure. </U>
+			<U WHO="S9"> you know what? i actually, when i was talking to Michelle last week i asked her you know about that whole thing about_ cuz remember the part where you ha- it says write two important factors about each thing? and no one knows what the two factors they want you to write are? </U>
+			<U WHO="S5"> what are you talking about? she said that? </U>
+			<U WHO="S9"> remember the part, no remember the part of the exam that says write <OVERLAP> two </OVERLAP> ? <U WHO="S5"><OVERLAP> oh </OVERLAP> n- oh yeah </U><OVERLAP> like remember how we were both like </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> are you talking about the </OVERLAP> definition <OVERLAP> things Sarah? </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> like yeah. </OVERLAP></U>
+			<U WHO="SU-f"> and how we were like you know, how do you know if they can (xx) </U>
+			<U WHO="SU-f"> you can argue it. well see that's the thing, they don't show us our exam. <OVERLAP> which piss- </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> oh you can go back </OVERLAP> and get it. </U>
+			<U WHO="S5"> you can go back i checked it. </U>
+			<U WHO="S9"> yeah, i looked i saw mine. um, but anyways so <OVERLAP> i asked for like </OVERLAP></U>
+			<U WHO="S5"><OVERLAP> oh we just got an email </OVERLAP> from Osby </U>
+			<U WHO="SU-f"> do you wanna go get yogurt? </U>
+			<U WHO="SU-9"><OVERLAP> i asked </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> um, did she send </OVERLAP> me one too or no? </U>
+			<U WHO="SU-f"> i'm sorry </U>
+			<U WHO="S9"> oh that's okay </U>
+			<U WHO="S5"> oh it's about peer evals </U>
+			<U WHO="SU-f"> i'm just tired </U>
+			<U WHO="S5"> not important. </U>
+			<U WHO="S9"> well, whatever that's not about us. </U>
+			<U WHO="S5"> i'm gonna write her back (xx) </U>
+			<U WHO="SU-f"> why are you writing her back? we don't have peer evals. </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

@@ -1,0 +1,653 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="def500sf016">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Social Psychology Dissertation Defense </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> DEF500SF016 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="76">
+						<DATE> May 20, 1998 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Janine Ovens, Rita Simpson </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Janine Ovens </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Deanna Poos </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Bonnie Malczewski, Aaron Stark, John Swales </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Bonnie Malczewski </NAME>
+							<RESP> Final Editing, 11/19/99 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+				<LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+				<LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Participants" SIZE="5"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="5"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Committee Chair" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S2" LANG="NNS" ROLE="SG, Candidate" SEX="M" RESTRICT="NONE" AGE="2">
+					<FIRSTLANG> KOR </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S4" LANG="NRN" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="3">
+					<FIRSTLANG> GER </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-1" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-3" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-4" LANG="NRN" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="SU-5" LANG="NS" ROLE="SF, Committee Member" SEX="M" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Small Conference Room, East Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> okey-doke, uh well Kim Sook was gonna do another, very brief summary of what he's up to. uh to bring it all up on our screens... </U>
+			<U WHO="S2"> alright, um... first of all i'd like to thank all of you, for agreeing to be on the committee, reading the draft, and coming to the defense, being, with me at, my last moment of, graduate school </U>
+			<U WHO="S3">
+				<EVENT DESC="LAUGH"/> such optimism <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> he he's </OVERLAP> gonna drop out, <OVERLAP> if he does- if he doesn't pass he told me he's gonna drop out </OVERLAP>
+			</U>
+			<U WHO="SU-4">
+				<OVERLAP> (no mischievous I-G-S-I today) (xx) </OVERLAP>
+			</U>
+			<U WHO="SU-m"> wait for the others </U>
+			<U WHO="S2"> um, my presentation will be extremely short. mainly because i presented most of the data in a proposal meeting, and also the four studies, reported in my dissertation are, very simple experiment so, i think that by now you may have clear idea about what this dissertation is about. </U>
+			<U WHO="S3"> could you maybe push that up uh the uh, the the light part does it work? </U>
+			<U WHO="S2"> which one where? </U>
+			<U WHO="S3"> so it'll be a little bit <OVERLAP> higher on the wall </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> tilt the mirror. </OVERLAP> tilt tilt the top mirror </U>
+			<U WHO="S4"> the the top thing uh yep um </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S3"> well don't worry about it </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> it's done </U>
+			<U WHO="S1"> if you just take the top mirror and grab it won't it tilt a little bit? </U>
+			<U WHO="S4"> yes yes yes. </U>
+			<U WHO="S2"> oh yeah. is this a test? <U WHO="S3"> thanks </U>
+				<U WHO="SU-m"> hm </U> okay, um <PAUSE DUR=":05"/> uh this dissertation is based on, um, this theoretical, claim, um, all people have their own theories about the world as, scientists do, and depending on what kind of theories they have, their judgment and behavior will be different. particularly in this dissertation, i'm arguing that people who have, unspecified interactionist theory, are rarely, surprised by contradicting event, and surprising event, and instead they will dispr- display greater hindsight bias, and i'm arguing that these will block their epistemic curiosity <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> c c-c- </OVERLAP> could i ask a procedure question? um, should we interrupt throughout, this or how do you how do you wanna proceed? </U>
+			<U WHO="S1"> uh, well normally it's just a quick, run-through but i don't if people wanna do it on a on a you know just... in this, fashion common on the fourth floor <EVENT WHO="SS" DESC="LAUGH"/> that's fine too. i don't know, what do people wanna do? i mean there's nothing (xx) </U>
+			<U WHO="SU-5"> (whatever) </U>
+			<U WHO="S3"> i mean cuz there're various points of which, i think i might wanna want clarification and or comment on certain things </U>
+			<U WHO="S1"> okay well <U WHO="S2">
+					<OVERLAP> okay, yeah </OVERLAP>
+				</U>
+				<OVERLAP> why don't you why </OVERLAP> don't you do that? </U>
+			<U WHO="S3"> uh, including the, first five words. um, an unspecified interactionist theory naive theory. one possible interpretation of that, which in fact was the interpretation i made when i first read the um, the abstract was that there's a class of things called interactionist naive theories, and you're not gonna tell us which one it is. but now, as_ after having read it that's not what you meant. is that the case? in other words, there could be tons of interactionist naive theories. and but it's sort of a mystery, and you're not gonna tell us, you're not gonna specify, which of those theories you're talking about. but that's not what you mea- you're meaning by this term, is that <U WHO="S2">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> correct? </OVERLAP> okay so, maybe it's a good idea, to tell, us and, actually the reader, right off the bat what you mean by an unspecified interactionist, naive theory because i i'm not sure that that's general kno- <U WHO="S2"> alright </U>
+				<OVERLAP> general knowledge. is that the case? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> um, no i i don't think </OVERLAP> it's general knowledge. so i, have three examples of unspecified in- interaction theory. so, first of all uh people can have, what i call interaction the- theory about their self. for example they can believe, at times, you are extroverted, affable sociable, while at o- at other times you are introverted, wary and reserved. now this is interactional, uh to me because, um, it has, two, opposite, states, at the same time so being introverted and being extroverted, but it does not specify under which con- exactly under which condition, you are introverted and under which condition you are extroverted. you just have two, contradicting state in your theory, without any s- further specification. now people can have also, theory, interactionist theory about behavior, so, saying that even an honest person will behave dishonestly depending on situation, so... you you behave_ you can behave honestly or dishonestly depending on situation so it is interactional, but there is no specification, under which condition you will behave honestly, or dishonestly. in the more general level... um... you can believe, the world is both the yin and yang, so without any specification, the Taoism, says that the world is, uh, world consists of the yin and yang principle. it can be yin and yang or both. so, in that sentence, uh, i defined, interactionism. unspecified interactionism... s- so? </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S3"> yeah i i i guess it's just a matter of of presentation i mean, i- it would seem to me that in situations, where you are in effect, inventing a term, it might, make more sense, to start out right at the very beginning, th- saying what it is you mean, <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> then get into the content <U WHO="S2"> right </U> whereas is- it's actually, done almost in reverse </U>
+			<U WHO="S2"> okay um, the, Hou Fun Ma another, student here, now in Stanford, used dialectical reasoning. meaning the same thing, as i do. <U WHO="S3"> mhm </U> so he call it dialectical reasoning coined the term, but i use interactionism so, for your understanding you can equate interactionism, with dialectical reasoning. okay? now to test this claim i i compared Koreans, who are known to be more interactionist, with Americans whose theory is less interactional. um <PAUSE DUR=":05"/> so the dissertation, is organized in the following way. in chapter one, i provided a literature review indicating that Koreans and other A- East Asians as well indeed, more interactionist so they have more interactionist beliefs of self, and behavior. so typically their, uh self-descriptions were contextualized. implying that, their self, can be different, depending on the situation. and their causal theory emphasized an interaction between the person and the situation. and given this literature review, chapter two reported, report two studies, um, bad Samaritan study and busy Levite study. as you recall, in both studies, uh Korean subjects, were less surprised by a contradicting event, so in, study one, uh this is just one, figure, from the four figures for study one, this is probability judgment, so when the target person, who was a very religious person, did not help the, victim, Koreans showed, greater hindsight bias as indicated, the decrease, uh in probability estimate. in study two, when, less helpful person, did help another person, which should be contradicting to their, initial expectation, Koreans again expressed_ displayed greater hindsight bias, as indicated, um, in the increase of their probability estimate. and interestingly when the target person did not help, they also displayed hindsight bias so, regardless of whether the target person helped, or did not help, they displayed hindsight bias. and this pattern, uh, is quite consistent with the claim that, uh, Koreans', interactionist epistemology is blind to contradiction. so in chapter three, i reported two, other studies, study three N-S-F decision study, study four liar liar study. so in both studies, i tried to create condition, where, people should feel a sense of contradiction... however as, expected, Koreans were not surprised by this condition, where they should feel a sense of contradiction, so here, only Americans were more surprised, in th- by the presence of strong alternative hypothesis, but not Koreans. and also in study four, Americans were more surprised, and they found, a particular finding more interesting, but not Koreans... okay? in the final chapter, i discussed some implications of these findings on, development of science, and conviction and debate. my general point was that, to do science successfully, in a culture, requires a particular way of thinking style, where, uh, possessing and expressing one's conviction, through debate i- should be personally, freely allowed. and at the very end, i tried to make sure that my dissertation is not making one culture look better than the other, so i tried to, um say that, uh sometimes this argument culture of America, may have some cost. and this, the lack of argument in Asian culture may have some benefit... okay? thas- that's the dissertation. </U>
+			<U WHO="S5"> to_ on the last point i would've, um said that allowing, science, um allowing conviction and debate isn't enough you need to encourage it if you want, things to happen allowing is a fairly, it's almost a negative word you allow something. (uh) mo- many people will not, do something if it's merely allowed. </U>
+			<U WHO="S4"> but, i was under the im- oh i was also a bit surprised about the wording. because it seems that, i mean even encouraging debate, um, would not necessarily get you, to scientific, enterprises i mean you have to develop some consensus on how you're going about, accepting things as evidence and so on, which... <U WHO="S3"> right </U> seems to go far beyond, i mean it's a a taste of you know, i mean as long as people debate and are surprised and curious everything's fine and you make great discoveries. </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S5"> c- certainly only necessary conditions, far from <OVERLAP> sufficient </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> absolutely yes </OVERLAP>
+			</U>
+			<U WHO="S5"> i i'm still curious why, um, you wanted to do the, thing you brought up just at the end about uh making, different cultures look, equally good since it didn't have anything to do with your thesis. i mean as far as i can tell. i i don't understand the connection, uh there and i wondered why <EVENT WHO="S3" DESC="LAUGH"/> you wanted to, um do that. </U>
+			<U WHO="S1"> a little cultural difference here between our field and your field <EVENT DESC="LAUGH"/> in terms <U WHO="S5"> well </U> of politics </U>
+			<U WHO="S5"> okay if that's the answer </U>
+			<U WHO="SU-1"> right </U>
+			<U WHO="S3"> actually i thought you did <OVERLAP> an outs- an outstanding job with that  </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> every cultural psychologist has to </OVERLAP> throw in a few disclaimers for all i can tell (by now) </U>
+			<U WHO="SU-m"> right </U>
+			<U WHO="S3"> yeah i mean it's, i mean the first two chapters i thought were masterful in that respect, um... i mean it is a fact of life. you know in a in a situation where you compare cultures and people are very sensitive about, this type of issue </U>
+			<U WHO="S5"> well until the last paragraph of the thesis it never occurred to me that one was better than another, then suddenly he, pointed out to me that, the whole thesis had implied one was better than another, and um and i thought that was interesting. <U WHO="SS"> hm </U> so it seemed to me, two things that are different, i don't see why one ha- pointing out things are different is interesting intellectually and um can be documented but better is a funny... concept <OVERLAP> if you don't want </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what what what were </OVERLAP> the sentences i'd be interested to_ it would be nice if you could avoid that i mean just </U>
+			<U WHO="S5"> well if if you want smooth relations among people, then a culture, um that, does that better may not do science well but, but that's a separate value judgment which you prefer and if you wanna do science well, you probably just can't have smooth relations among, people to the extent you can in uh, in an interactionist culture. </U>
+			<U WHO="S1"> but he does start with a very strong normative, claim you know and that is the set of descriptive, results of a very strong normative claim and then there's this thing called the fundamental attribution error, and Asians are not as susceptible to it, so there is a strong_ (that is <OVERLAP> claimed very early on) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> it's different </OVERLAP>
+			</U>
+			<U WHO="S1"> well, no he makes an evalu- he makes a very s- he makes a normative claim he's actually, further out than anybody on this although i'm pretty close to it, in mak- in making a normative claim about_ there is an error that's made and that, the, epistemology of of East Asians uh is such that they are less likely to have... </U>
+			<U WHO="S2"> yeah... </U>
+			<U WHO="S5"> okay so they're better? </U>
+			<U WHO="S1"> in that respect. </U>
+			<U WHO="S2"> i was concerned, with other's reaction and i, could feel... i mean i didn't, mean that, Western thinking is better, in all sense it's better for s- doing modern science... but some of my, you know </U>
+			<U WHO="S5"> well i i th- no i think it's fairly clear Western thinking is better if you're gonna do science but that doesn't mean, that it's better, in general. there_ it's it's not as good for other things. </U>
+			<U WHO="S2"> right i mean if <U WHO="S5">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> all </OVERLAP> readers are wise like you, (i need a new) (xx) </U>
+			<U WHO="S4"> mm. hm' </U>
+			<U WHO="S5"> okay well i just <OVERLAP> thought </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i i must </OVERLAP> say </U>
+			<U WHO="S5"> i just wanted to ask </U>
+			<U WHO="S2"> alright </U>
+			<U WHO="S4"> i i i must say that uh, uh... the Baltes link at the last paragraph did not save it for me. and that, i mean if all there is to be said, for the advantage uh, of dialectic reasoning or interactionist theories is, that you may i mean kind of approach the, indecisive state that Baltes kind_ that <EVENT DESC="LAUGH"/> Baltes calls wisdom <EVENT DESC="LAUGH"/> which you may often attribute to a, lack of mental resources to to work through the issue so we say oh, well </U>
+			<U WHO="SU-m"> right </U>
+			<U WHO="S4"> right? and i mean it's a classic aging effect i mean that's what he's saying and i mean in <U WHO="SU-m">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> many </OVERLAP> cases if the issue is complex then you say oh you know, i i guess both are right (and he sees this he sees that) and gee- i m- i mean why would that be a great advantage? </U>
+			<U WHO="S2"> right i mean he could </U>
+			<U WHO="S4"> i- it reminds me i mean i mean, my prediction_ i may be completely wrong. but i mean uh, Roger Dixon for our you know recent aging and (xx) book has done a review of what are the gains in aging are there any gains? and i mean the only gain you can identify is is Baltes is a increase in wisdom of the the Baltes measure, and other than that, uh what has typically been labeled gains is really just, the slowing down of loss i mean there are some domains in which the age-related loss is less pronounced than others, and for some reason people have preferred to call this gain which is a politically correct move because, you can't be accused of ageism either as little as you should be not accused of culturism or whatever the other isms may be, and uh, a- and that's getting, i i mean well <SIC TEIFORM="SIC"> suspicuously </SIC> obvious here when you say oh yeah, <U WHO="S2"> i i <OVERLAP> i was, </OVERLAP>
+				</U>
+				<OVERLAP> more </OVERLAP> wisdom </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S2"> more thinking of um coping strategy, so for example in marriage, the divorce rate is, quite lower, <U WHO="S4"> hm </U> and that <OVERLAP> could change </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> overdetermined </OVERLAP>
+			</U>
+			<U WHO="S2"> in some sense but they have this, this belief you know there is ups and downs, so you can not make <U WHO="S4"> yeah </U> quick decision, <U WHO="S4"> yeah </U> so, um, i think that's, wisdom because <EVENT WHO="SS" DESC="LAUGH"/> (are you aware) <U WHO="S4">
+					<OVERLAP> yeah yeah </OVERLAP>
+				</U>
+				<OVERLAP> (of these findings?) </OVERLAP>
+			</U>
+			<U WHO="S1"> d- d- did you also feel like, political questions were being raised in the last page that weren't, otherwise, so much to the forefront? </U>
+			<U WHO="S3"> i thought the very_ the whole, first two chapters were about that. i mean just not necessarily put in those terms, um, i mean that was my interpretation of it that's why i said i thought it was really masterful, the way he did_ the way he dealt with that, but they certainly are issues that uh come up in virtually any conversation you're gonna have, about stuff like this. they i- they will come up, in almost every talk. i mean in one case i, i think i told you about it was i gave a talk one time, and there was uh, uh a Chinese operation researcher in the audience who became very indignant, about the whole proposition of the data, and attempted to come up with all kinds of explanations that the Chinese subjects they w- just happened to use were, dumb psychology, subjects. you wouldn't get the same thing if you'd used smarter students. um <EVENT WHO="SS" DESC="LAUGH"/> you know and so, you know people, will react and i think it makes sense to anticipate those kinds of things the way that you have </U>
+			<U WHO="S5"> uh and in the first two chapters i thought he handled it beautifully, and, i agree it's just the last page i thought wasn't, um, up to the first two but that's okay i'm not objecting </U>
+			<U WHO="S1"> but you you you were bothered by that you (know) somehow (it) raised_ made things more political <OVERLAP> or pointed than you thought it had to be </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> well i i i um i was amused </OVERLAP> i mean i i was amused because, i thought gee it's the same figure of argumentation that you find in the aging literature, where i mean basically you document you know, memory loss lang- i mean i mean document loss loss loss loss loss. so at the end of that, somehow you feel even though the data say you know, it goes downhill pretty early and it s- accelerates later on, uh you can't really say that so then you have to throw in something where it says, gain related with aging... and, and then Baltes is is uh the thing that saves you because he claims that wisdom increases, but i'm relatively sure that if i had to construct a situation, in which i make an undergraduate wise, if i give this kid, a a conflict situation, you know where you have two reasonably plausible solutions, and i put him under heavy load, heavy cognitive load, and some time pressure then i would get a wise response, because your best response when you don't care enough to work it through or you can't work it through you say it- it's kind of both plausible kind of depends you know it could be this could be that kind of depends, now then that's a low effort, no cognitive, input, <U WHO="S2">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> answer, </OVERLAP> and Baltes has chosen to call that kind of thing wisdom, and and you're doing the same thing. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> well uh well i i don't actually remember the last thing i'd have to look at that but my interpretation of the first, two chapters was i think the way to go that you got two different ways of approaching certain kinds of things and, the real issue is under what conditions, are they likely to be more functional. and uh, i see absolutely nothing wrong with that in fact i think that is the best way to think about, stuff like that you know where specifying the conditions, under which they- they're functional or not so functional and then let the reader, do with it what he will, <U WHO="S5"> that i agree with </U> um... (you know) </U>
+			<U WHO="S1"> well, w- we've seen that there are these, reactions and we should <U WHO="SU-3"> yeah </U> make_ take it under (advisement) <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i mean, </OVERLAP> i was in part interactionist so, i <U WHO="SU-m">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> need </OVERLAP> something say <EVENT DESC="LAUGH"/> (gracious) to make balance, at the end </U>
+			<U WHO="S1"> (and to) put in a slightly different context i don't know how much time you wanna spend on this but i_ i i've in the past had_ occasionally had to do, research which got me rubbing shoulders with physicians and, ph- physicians are to, psychologists as Asians are to Westerners that is, you'll say something like, uh, you know i think you know, the basic process is this and they (throw) ach it's much more complicated than that. <EVENT DESC="LAUGH"/> and, they're not wrong, i mean you know i want my physician to think things are very complicated and ig- you know assume this is interactional i'll be looking everywhere you know i mean uh simple-minded scientists that come in there you know (xx) but </U>
+			<U WHO="S3"> so what's your interpretation of um when you're in, the culture, conflict of psychologists and anthropologists? <OVERLAP> it's uh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh that's </OVERLAP> (the) well actually <U WHO="S4">
+					<OVERLAP> it's it's it's </OVERLAP>
+				</U>
+				<OVERLAP> it's it </OVERLAP> very it's very much the same thing it's very much the same thing i just wish to hell they'd give us credit for having something so <EVENT WHO="SS" DESC="LAUGH"/> being so simple. i fully understand their complexity i don't understand why they can't understand my simplicity. <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> okay </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S3"> um... w- what do you think about this...? s- i- i'm not sure this is the right term but it's almost like, gets to be something like a moral issue. within, this culture, it's sometimes considered morally, unacceptable, to do, to be as you would term it interactionist. it bothers Americans for instance that, people are inconsistent <U WHO="S2"> uhuh </U> across situations and it almost seems like the person is dishonest, when the person doesn't behave consistently. uh, have you ever come across that reaction i mean has, has anybody ever talked to you about it from that point of view and, and, have you ever i- considered the issue? </U>
+			<U WHO="S2"> yeah i mean um, um, if you um... if you don't consider, two opposite side at the same time, and stick to one side only, then you will be considered immature, in, my culture. so, maturity goes, along with, being interactionist. is more desirable, in my culture. so, uh i think that is that is cultural difference. in terms of socially des- what is socially desirable, being straightforward or being more complex and indeterminate...? you know so i r- i um, gave some review about, the cognitive dissonance effect </U>
+			<U WHO="S3"> mhm </U>
+			<U WHO="S2"> so, although i mean the cognitive dissonance effect is hard to replicate even this country, in this culture, but there is no, es- to my knowledge there is no success of replicating, dissonance effect in in Asia. meaning that we are less concerned with internal_ being internal, consistent. </U>
+			<U WHO="S3"> i'm not quite sure that that actually addresses the question i mean, let me see if i can come up with an example a better, description of... it often bothers at least in my experience a f- Americans when they see, one person, behaving in very different ways, in different situations. there's almost a moral charge, to be consistent, so like to use your vignettes, if you are a good person, you will do good things, regardless, of the circumstances, the demands. uh, am i am i out to lunch on this? i mean have you guys ever heard anything like this, i mean, or have i have i just come from a, strange subculture? </U>
+			<U WHO="S5"> no no i mean certainly what you just said is true, of people of the Americans i know </U>
+			<U WHO="S3">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i mean </OVERLAP> and and it follows from disposition of (xx) and so on. i mean if your acts disclose your disposition then i mean <U WHO="S5"> well </U> different acts cannot disclose the same i mean contradictory acts cannot_ i mean one of these acts has to be wrong. right? </U>
+			<U WHO="S5"> the the local way <U WHO="S4"> is that </U> of saying it is that that uh Clinton can't possibly, be making good decisions for the country if he's making poor personal decisions. </U>
+			<U WHO="S3"> well </U>
+			<U WHO="S5"> that's exactly what you just said i think </U>
+			<U WHO="S1"> well if he lied in this he lied in all </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> A- Asians would never come up would never, would never, <OVERLAP> think (like that) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> nor French </OVERLAP> nor German nor <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right that's right that's right that's right right </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> that's not an East West that's not an East West thing </OVERLAP>
+			</U>
+			<U WHO="S5"> it's an America- but you said American. um </U>
+			<U WHO="S3"> yeah i mean maybe my perception is i mean, is not quite right but i mean my_ i've certainly been in s- in a lot of situations in which, uh, people observe, somebody and say gosh, he's really behaving differently here, than he did last week under other circumstances what that says is that the guy has no moral center if you will, uh, and so, but you don't see like, an issue of morality at all in this this is not the way these things are at all, seen within these kinds of cultures you're talking about? </U>
+			<U WHO="S2"> i'm not saying there is none of this but, but we are concerned with being, consistent but it's less, and, i c- i cited one study, which is not published yet, um, the study shows that, Americans are more concerned with internal <SIC> consistenty </SIC> consistency than Koreans and, that predicts their um, subjective well-being for Americans more than for Koreans subjective well-being so being consistent or not_ is really important for Americans but less important for Koreans. </U>
+			<U WHO="S4"> l- let me try an let me try an example and see what you, what your prediction would be. i i mean suppose in the U-S i say you know at the seminar that i think that theory X is, let's say Fishba- the Fishbaden-Aizen model is a stupid idea, <U WHO="S2"> uhuh </U> and then Icek Aizen gives a talk and you overhear me saying afterwards, very interesting Icek what? which would be the American response. <U WHO="SU-m"> hm </U> um, <EVENT WHO="SU-m" DESC="LAUGH"/> uh th- th- the German response is actually like ach you know i mean just tell him it's a stupid idea i mean what the heck's going on i mean why are you playing nice? uh if i did the German thing you would consider me completely immature. i mean Korean K- Korean audience, would consider me immature. i- but if i if i s- told the speaker how wonderful his talk was, the Korean audience would probably think that that's appropriate and... i mean there's an inconsistency there i think Americans are somewhere in between at least from the German perspective on on on those issues. <OVERLAP> the Clinton thing is a bit </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> (well then it's field-dependent) </OVERLAP> scientists are a little less American in that sense </U>
+			<U WHO="S4"> yeah the the Clinton issue is a <OVERLAP> is is is is </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> they don't take so much crap </OVERLAP>
+				</U> is yet a bit different. well i mean psychologists go out of their way to say these nice things to <U WHO="S5"> we don't </U> to speakers who say stupid stuff so, uh <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> no the furthest we'll go is not to say anything <U WHO="S4"> yeah </U> if you have to say something (xx) </U>
+			<U WHO="S4"> yeah... yeah... so then you <OVERLAP> ask did you have a good trip? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (that could be) </OVERLAP> might be true but... <EVENT WHO="SU-m" DESC="LAUGH"/> (that's_ now you're also,) concerned with being polite. <U WHO="SU-3"> yeah </U> so, <U WHO="SU-3"> yeah </U> German way... looks quite impolite <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> yes, i learned that i i'm trying to improve <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> but so but how so for Koreans are they in fact um- i mean Germans here Americans here, Koreans there, is that, that's his prediction <U WHO="S2">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP> (cuz that's what) </U>
+			<U WHO="S2"> it depe- well i i don't want to say depending on but, depending on the status, whether y- whether the speaker is your senior, junior, when your speaker is student for example then (the) teacher can say something really nasty. but if the speaker's your advisor you cannot say that. so sometimes it's okay sometimes it's not. </U>
+			<U WHO="S1"> mhm. Galtung in the course of his essay, there's this wonderful essay, i don't know if i told you about it by Galtung, about uh Saxonic Nipponic uh uh Gallic and Teuton- and Teutonic uh, styles of intellectual argument. it's it's just it's wonderful <OVERLAP> it's just, </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> oh that </OVERLAP> would be (fun) </U> it's delicious uh, now what was i going to say about before oh <EVENT DESC="LAUGH"/> there's, i was gonna say before the Galtung um, the point that was just, on the table which is what...? <EVENT WHO="SU-m" DESC="LAUGH"/> apropos of aging </U>
+			<U WHO="S4">
+				<EVENT DESC="LAUGH"/> but you're getting worse <OVERLAP> don't worry </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> if you can't </OVERLAP> remember we'll go on to the next (other) example <EVENT WHO="S4" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> uh uh about uh thing but oh yes right no that that the uh that he starts his example, with the example of um of the, American professor </U>
+			<U WHO="S2"> right </U>
+			<U WHO="S1"> that that the stupidest thing that an undergraduate can say to a professor is oh that's very interesting this opens up a whole <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> if you just trim it a little bit fix this </U>
+			<U WHO="S1"> that's right so i mean the Americans all just as complimentary you know, seniors and juniors... </U>
+			<U WHO="S3"> well, maybe more like the Americans with, with anybody at least in a public situation i mean that, you sort of go out of your way to be polite and to not offend, um, and, and i suppose another way you can get at the same phenomenon is the ques- is in the notion of being honest, and i think that things like this, have been discussed on occasions in, in the context of negotiations. so, in negotiations between say American and Asian companies. Americans have often been taken aback and have felt that they've been lied to, because certain things were said, in that particular context and they come back and, and people are behaving completely differently, from what they thought, <U WHO="S2"> mhm </U> was in agreement. um, do you see no connection at all between <U WHO="S2">
+					<OVERLAP> well </OVERLAP>
+				</U>
+				<OVERLAP> those </OVERLAP> kinds of things and this? </U>
+			<U WHO="S2"> actually Jeffrey, Burks and i'm, doing a study about, indirectness in in communication what we did, was to give subject, a vague, verbal evaluation, and we asked subject to, translate that verbal evaluation into scales. and we found that Americans student tend to take that verbal evaluation directly at face value, so they made more errors. because they couldn't see he <OVERLAP> didn't </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> the verbal </OVERLAP> eval- uh the verbal statement was made by an Asian? or <U WHO="S2">
+					<OVERLAP> no </OVERLAP>
+				</U>
+				<OVERLAP> do you mean </OVERLAP> just by anybody? </U>
+			<U WHO="S2"> by um, uh, their their own cultured person... but Koreans were more accurate, in the sense that they could pinpoint the hidden meaning, so they couldn't take, the communication at face value... so they are they are more concerned with, understanding the hidden value of the communicator. </U>
+			<U WHO="S3"> well, that seems odd in that (this all) </U>
+			<U WHO="S4"> just what you would expect, that you'd have to do right i mean if <U WHO="S2"> yeah </U>
+				<U WHO="S3">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> the </OVERLAP> standard of expression is more indirect then, as a recipient you have to do more work </U>
+			<U WHO="S2"> right </U>
+			<U WHO="S3"> well either you, you regress uh, but what's odd about that is that, the Americans, would not behave in accord with their experience, so is it, i mean so, why shouldn't the Americans expect when if they're dealing with Americans, people'd say what they mean? </U>
+			<U WHO="S2"> oh so you think that when Americans say something good about you, Americans don't take it at face value, is that <OVERLAP> your assumption? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah i mean why </OVERLAP> shouldn't that be the case? </U>
+			<U WHO="S2"> well i i don't know i mean, my colleague my, fellow student, seems to take, <SIC> praisals </SIC> from the advisor at face value, and i don't </U>
+			<U WHO="S3"> oh you don't? <U WHO="S2">
+					<OVERLAP> (well) sometimes i do </OVERLAP>
+				</U>
+				<OVERLAP> oh so you don't believe the </OVERLAP> stuff i say? </U>
+			<U WHO="S2"> sometimes i do <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> to me </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we're </OVERLAP> on record here man. <OVERLAP> we're subject to </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> if you tell him </OVERLAP> if you tell him that's it's all wrong he may believe you </U>
+			<U WHO="S2"> then i take it. <EVENT WHO="S4" DESC="LAUGH"/> but if you say it's alright then, (i) may be suspicious. </U>
+			<U WHO="S1"> actually Jeffrey Burks has a piece, a lovely study he's just done where he has, the actual things that are said by, uh American, evaluators, to their employees, when they don't (we) know from their ratings, that they think the employee is pretty crummy. and, you now give that transcript, to Americans, and to Koreans and ask them to say what does this guy really think, of the employee? Koreans get it right, and Americans get it wrong. <U WHO="S3"> hm </U> so the- because the i- the indirectness the the the Koreans are able to, say you know the guy's really pulling his punches <U WHO="S3">
+					<OVERLAP> and so it's </OVERLAP>
+				</U>
+				<OVERLAP> (and) </OVERLAP> Americans just take it at face value </U>
+			<U WHO="S3"> there's something wrong in this. i guess <OVERLAP> but (it's an answer) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> but but but i mean </OVERLAP> just wouldn't you expect that that's, <U WHO="S1">
+					<OVERLAP> that's another committee that i'm on </OVERLAP>
+				</U>
+				<OVERLAP> just the standard, that's it </OVERLAP> su- just the standard effect? i mean if you assume that the standard of politeness is such that you don't (stiff) direct criticisms or i mean anything less than uh, enthusiasm is uh critical, or </U>
+			<U WHO="S5"> well you have to learn in this culture, where we see this most dramatically is that people who do a lot of hiring, uh learn that no letter is ever bad and they have to read it much more carefully, and people who only hire occasionally get it wrong and hire the wrong people. um we see this quite a lot and... </U>
+			<U WHO="S1"> yeah well there's just this enormous main effect in this society i mean more than any other industrial society of of, being nice. <U WHO="SU-m"> mhm </U> have a nice day. </U>
+			<U WHO="S5"> well if we write a bad letter we might get sued so we never <OVERLAP> write a bad letter </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well that's literally </OVERLAP> that's literally the truth do you know this that in the state of Michigan you can sue <OVERLAP> if they fire you </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> yeah </OVERLAP>
+				</U> without telling somebody what you did? </U>
+			<U WHO="S4"> oh i mean i'm i'm keenly aware of that because i write letters for German students and for American students, and i could never write an American letter, for one of my German students for a job in Germany. and that's the other thing i'm a complete idiot, you can't say (of me) you don't say he <U WHO="SU-5">
+					<OVERLAP> yeah he couldn't possibly be that good right </OVERLAP>
+				</U>
+				<OVERLAP> walks on water that's just silly </OVERLAP> you know but i mean here i mean you always have to, exaggerate in this bizarre way as if the world is populated by geniuses, and you know damn well it's just a guy who got his PhD a minute ago. i i mean it's a i mean what's <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> there's a very substant- <OVERLAP> a very marked </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> exactly </OVERLAP>
+			</U>
+			<U WHO="S1"> temple, there's a very marked temple effect here, i mean there's been a huge shift in the la- in recent (fac-) every decade's worse and worse <U WHO="S5"> yes </U> and worse <U WHO="S5"> very good </U> it used to be you could more or less tell the truth and you could even </U>
+			<U WHO="S4"> at at this point we only have genius graduate (students) <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> right, and it goes up from there </U>
+			<U WHO="S5"> plus the ones who are even better </U>
+			<U WHO="SU-m">
+				<OVERLAP> right </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> good </OVERLAP>
+			</U>
+			<U WHO="S4"> uh, Kim Sook, i have i have a very different question there's another theme in this which is not a cultural theme, i mean which you turned into a cultural theme but, i mean there's a more, straight psychology theme in there which is the role of surprise in, judgment and reasoning. you wanna say a bit more about that or, are there angles that, you would wanna add to the discussions that you had...? i i have not i have not been aware of a of a real (a novice) of a, of a systematic treatment of the psychology of surprise and its role in, in judgment and so on </U>
+			<U WHO="S2"> i don't think there is any </U>
+			<U WHO="S4"> there really isn't much there </U>
+			<U WHO="S2"> right i mean, this is, this is um, based on nobody's research. but um, i i read, much of Berlyne's epistemic curiosity book, so, he made implicit assumption that surprise is a necessary condition for epistemic curiosity, but nobody actually look at the direct relationship, between being surprised and, other consequent behaviors. so, um, well you are right i mean i just took that, assumption, in my <OVERLAP> dissertation  </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> uh i... </OVERLAP> uh um i can't really articulate, quite well what i'm, you know what i'm after but there seems something, when i ask myself, well i mean, what do we know about surprise and when would you be surprised and i mean the way, it sounds, in your piece is, that i need an explicit theory, uh that has spelled out, predictions and links between variables to be surprised. uh, i'm not sure i really believe that it seems to me, that, i often find things surprising even though i couldn't_ surprising or not surprising, even though i couldn't have, you know probably, got the predictions right or, wrong. and it reminded me of the discussion in, let's say Karneman and Miller's norm theory where the assumption is, very much like i mean, for for comparison judgments, that you often compute the standard, <U WHO="S2">
+					<OVERLAP> after, right </OVERLAP>
+				</U>
+				<OVERLAP> ex post- not </OVERLAP> before. and and wouldn't that often be the case for surprise i mean, that somehow, it's only once a (counterfactual) comes to mind that you're surprised about the current outcome and that may not necessarily, be a function of how well-articulated your theory is but of how, accessible the (counterfactual) would be. i think i can be surprised about things for which i, i i may be wrong i mean i haven't_ but i it seems that i i can be surprised about things for which i do not have a well-articulated theory, but only a highly accessible, uh, (counterfactual) outcome, or normative outcome that i would normally have, and here's something different and i'm utterly surprised but that doesn't mean that i've, you know understood that the current thing should not have happened it's just different, that in itself is, you know? </U>
+			<U WHO="S2"> i think um, uh what i said, is not different from what you said. i, i look at the uh after-the-fact effect, that is, for example East Asians <U WHO="S4">
+					<OVERLAP> mm </OVERLAP>
+				</U>
+				<OVERLAP> since </OVERLAP> they have interactionist theory they cannot predict. because so many things they have to consider, but after the fact they can construct, reasonably convincing story about why it happened. so, possibly i mean they cannot come up with, alternative. right, because they c- they can explain, that's why they are not surprised. <U WHO="S4"> mhm </U> but for Americans, since they have relatively simple theory, they can't come up with alternative, which is contradicting to their original theory. then they can be surprised, so, i was not </U>
+			<U WHO="S4"> but surprised i mean y- you're still i mean saying it in a way, that surprise necessarily requires falsification of a, of a theory, rather than noticing that something is unusual i mean couldn't that be surprise just by exposure, to a low-probability, event, you have no theory why the probable or the improbable would happen i mean i just notice that this is different, <U WHO="S2">
+					<OVERLAP> well actually i </OVERLAP>
+				</U>
+				<OVERLAP> (do i need a) </OVERLAP> theory for that? (i mean) </U>
+			<U WHO="S2"> i mean i had a conversation with a, Korean developmental psychologist, a couple days ago who was visiting Carnegie Mellon, and i talked about this research, and i said, okay suppose one scientist, made a claim that a dog can fly... and he said well, i can, construct a theory, story why, dog can fly. and i said it's wrong i mean if if you can, construct a theory, or story, then you are wrong i mean, you should not do that. so, even if, there is no no there's no theory required, just if they can construct a story... so, then they, would not be surprised so it does not maybe require, just a theory, whether they can make a story or not. is that? </U>
+			<U WHO="S5"> and um... assuming he's said enough um let me make my comment which is that in in natural science what he says is absolutely true. that if you don't have, th- there's just tons of historical examples where, you sort of know something and until you have, u- until theory gets up to the stage where you can find it surprising, it's just there and you don't do anything with it or respond to it and then finally you have a quantitative theory, and then it doesn't fit and then, you go (hm') tha- that's um, partly why, you hear stories that at the end of the last century people said that, all of science has been done and there's nothing left to do and so forth, uh it's because there were tons of facts around, but they didn't even have the framework for them, and then slowly the framework came and they realized that, they didn't fit at all with the previous ideas, that they didn't incorporate them (enough.) so, i- it's a strong point in, but in everyday life i, i find it less strong as as you're saying </U>
+			<U WHO="S3"> so is the idea that, there were these facts and things out there but nobody had bothered to, even ask whether they reconciled with </U>
+			<U WHO="S5"> you don't know <U WHO="S3">
+					<OVERLAP> the </OVERLAP>
+				</U>
+				<OVERLAP> how </OVERLAP> to deal with them, yeah, you know it's just it's not surprising cuz you don't have a theory yet in which you're supposed to be able, to include it, and and then eventually you get to that stage and then, you realize that it doesn't fit, as the theory developed and then it can lead to a whole new, set of things </U>
+			<U WHO="S3"> okay but what about this i mean, how do folks, deal with this question of what the whole point is of having a theory? i mean, why not j- simply exist i mean why do you need a theory? </U>
+			<U WHO="S5"> for us that's easy. i mean the whole point is to understand nature. </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S5">
+				<OVERLAP> and that's all we're about </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> you mean when you say us </OVERLAP> who are you referring to <OVERLAP> physicists? </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> physicists </OVERLAP> uh well natural scientists i guess, um, i think it's equally true of biologists um, or, or molecular biologists (i guess,) evolutionary biologists yeah i mean it's, natural science i think, what you wanna do is understand stuff and you just work your way, along and that's the whole point of doing it. so, there is no other reason, uh </U>
+			<U WHO="S3"> alright th- that might actually get to an even more fundamental issue which i'd be interested in hearing your your thoughts about, which is, in day-to-day life what actually is the point, of even considering questions like this i mean so, <U WHO="S5"> right </U> why would you even need to worry about stuff like that? uh, i mean to get back to Gordon's thing. you know i just go to work every day work in a factory and go back home. why the hell do i need a theory? i mean in order to do that. so, these issues would never arise. i mean so what kind of a society, would even think that you'd need to have stuff like, physical theories, about which you could become surprised? </U>
+			<U WHO="S2"> w- well i don't think, everyday-life theory is articulated as, theory in physics i mean the simplistic people have, their, theories but they_ sometimes they don't, realize they do have theory. so, i don't think many people are bothered to have their own theory explicitly... </U>
+			<U WHO="S3"> okay well, let me ask a related question. could the real core here the core at issue here, have to do with expectations, i mean so, intuitively it seems to me that, you are surprised, when something, turns out to be inconsistent, with your expectations. uh, how does that idea, reconcile, with the work you're talking about here? </U>
+			<U WHO="S2"> um, that's, for example in study, one then two, both cultures expected that in study one the target person would help the victim. when the target person did not help, which should be surprising right? <U WHO="S3"> okay </U> the Koreans were not surprised. so i think expectation_ sometimes expectation, can be a priori, but sometime it can be constructed after the fact... <U WHO="S3"> okay </U> that- that's the uh... <U WHO="S3"> alright </U> that's the_ i think that's the hindsight bias right? they <U WHO="S3"> right </U> they they act, as if they have expected, things turn out to be this way not that way, so they change their, expectation, after the fact </U>
+			<U WHO="S3"> is there any possibility that, one part of the difference might be, how firmly held the expectation is? say in the ambiguity sense? </U>
+			<U WHO="S2"> well, i mean that's why i'm interested in conviction. <U WHO="S3"> mhm </U> if you have this complex, theory and you cannot make a commitment, you are not, determined to do anything, so it takes longer time to make commitment, it takes more information to make a judgment. i think i think that might be the case. </U>
+			<U WHO="S3"> i mean do you remember how ambiguity is construed, in decision, making i_ it's been a long time since you've, <OVERLAP> read that stuff </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> is this a test? </OVERLAP> no i don't </U>
+			<U WHO="SU-m"> mhm (xx) <OVERLAP> remember </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it actually </OVERLAP>
+			</U>
+			<U WHO="S3"> yeah remember it actually is a technical term, i mean, to be distinguished from probability. so one loose way that is sometimes interpreted, is that it's almost like probabilities about probabilities, so that normal probabilities that you would talk about as discussed in this thesis, would be sometimes referred to as first order, probabilities, and then you can talk about, things like the distributions, over those probabilities, <U WHO="S2"> mhm </U> uh is it conceivable that in this context what you're really dealing with, is that those second order distributions, are different <U WHO="S2"> right </U> in the two different, <U WHO="S2"> right </U> groups </U>
+			<U WHO="S2"> yeah, i'm also, um thinking about the distinction between confidence and uncertainty, <U WHO="S3"> mhm </U> confidence is just a, your, confidence, expressed in terms of probability <U WHO="S3"> mhm </U> but uncertainty, is expressed as a range, of probability </U>
+			<U WHO="S3"> well that that that <U WHO="S2">
+					<OVERLAP> right that's_ right so, i th- </OVERLAP>
+				</U>
+				<OVERLAP> really does that does get, </OVERLAP> get at the idea so uncertainty's sometimes seen, as the extreme case <U WHO="S2"> right </U> of a diffuse second order probability </U>
+			<U WHO="S2"> so, right so i- in terms of confidence, there might be no cultural difference <U WHO="S3"> mhm </U> we know that <U WHO="S3"> yeah </U> but in terms uncertainty i think, <U WHO="S3"> yeah </U> yeah so </U>
+			<U WHO="S3"> that might be worth pursuing <U WHO="S2">
+					<OVERLAP> yeah, right </OVERLAP>
+				</U>
+				<OVERLAP> and that's </OVERLAP> sort of tried and true, sort of paradigms <U WHO="S2"> right </U> for pursuing those kinds of issues, you know, that might be worth looking at. </U>
+			<U WHO="S1"> suppose someone were to ask and i i'm, it occurs to me a reviewer might, do this say well gee the it's a lovely, treatment of all this that you have but why don't, why don't you do the, simplest thing which is to make people make a prediction, and then say guess what, you're wrong. and what would what happen then s- if you were to do that. well how would, Americans respond how would, Koreans respond. </U>
+			<U WHO="S2"> um, well if i'm_ this is right then um, Korean would still be less surprised... </U>
+			<U WHO="S1"> why? </U>
+			<U WHO="S2"> because they can, um, explain why, it didn't work out that way. </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> suppose that in the Bayesian sense, <EVENT WHO="S2" DESC="LAUGH"/> you didn't just ask people, what they think is gonna happen, but instead you said put your money where your mouth is. would you expect, that people's expectations, would turn out to be the same? so in other words if you were to infer, what they really anticipated, on the basis of their actions, would you, for instance in your experiments, would you expect, that you would in fact get identical expectations as you did? as you did here? </U>
+			<U WHO="S2"> uhuh. i'm i'm lost. </U>
+			<U WHO="S3"> okay. there, are in general two different ways, that you can, go about assessing what people expect to happen. <U WHO="S2"> mhm </U> one is the way you did it just flat out ask 'em. <U WHO="S2"> right </U> the_ another way that you can do it, which is closer to the spirit of Bayesianism, you don't ask people anything. you, have them decide, on the basis of their beliefs and you infer what their beliefs were, from their actions. so is it conceivable, that from that point of view, the Asians were in fact more wishy-washy, in their expectations in the sense that they would not have been, as willing, to bet <U WHO="S2"> uhuh </U> uh as extremely as the Americans do? would you expect that to be the case...? sort of consistent with the spirit of your interpretations of Jeffrey's experiments, you know sorta like people regress, they you know, they don't really expect much of anything. you know they they you know it's almost like free-lancing they're, gonna, just react to things as they occur </U>
+			<U WHO="S2"> well i hope that's that's the case. i expect that would be the case </U>
+			<U WHO="S3"> mhm <PAUSE DUR=":05"/> well i got a whole string of other questions so le- let's let some other folks, jump in this... </U>
+			<U WHO="S1"> o- on the f- face of it, it seems to me that um, if you have, Americans with, simple-minded models of the world, uh and Asians with complicated models of the world, and then you ask, people for predictions, Americans oughta be more confident. because, not as many, alternatives are being considered. uh, and yet, we know, that, it seems to be at least with respect to some things that Chinese are more, overconfident, than Americans. so how would you put those? </U>
+			<U WHO="S2"> i think that's why, Joe and i think that we needed to distinguish, confidence from, uncertainty... so in, uh, overconfidence, is a measure of confidence. (just) i think it's a statistical term (it's) a technical term not an everyday life term. right is overconfidence </U>
+			<U WHO="S3"> yeah well yeah there is a specific way you measure it i mean <U WHO="S2"> right so </U> we hope that it's not independent of the everyday (thinking) </U>
+			<U WHO="S2"> i think the um, conviction is everyday life term and i think that conviction is, is maybe more, reliable indicator of behavior than, overconfidence... so, i mean that's why, i put discussion about, Joe's work abo- about overconfidence and, um, my thinking about conviction. that's a_ uh it seems like Asians are less convinced, have, less conviction, yet they have e- at least equal level of confidence in terms of a probability. so unless i think a w- unless we solve that, problem, um, i mean they will just, continuing, confusion, confusion about, that word and this (word) </U>
+			<U WHO="S3"> okay but, suppose i'm a reviewer, and you make this proposal about this conviction thing, suppose i say well jeez, it's just a word, conviction, i mean, can you, in effect operationally define conviction? i mean, so i would like to see like if i'm a really serious Bayesian type of guy, i really want you to put your money where your mouth is, i mean how can i know that somebody's really, convinced? rather than just says that he's convinced? </U>
+			<U WHO="S2"> um </U>
+			<U WHO="S3"> and this seems to be especially problematic since you're cutting across languages </U>
+			<U WHO="S2"> right, Bob Abelson, um, wrote something about conviction so he developed some, criteria to measure conviction <U WHO="S3"> okay </U> so and, among those criteria there is behavior component <U WHO="S3"> okay </U> like how much you discuss, with your friends about that issue, how much are you trying to convince, others? i mean there there is i mean there is behavioral component and, you know emotional component so, i think we can measure conviction, in in that way </U>
+			<U WHO="S3"> why would you not take the Bayesian tack? which is, put your money where your mouth is. so, <EVENT WHO="SU-1" DESC="LAUGH"/> give you some options if you really think this is gonna happen, then you choose A, if you don't you choose B why not take that that approach? </U>
+			<U WHO="S2"> um, i can do that <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S3"> and you would expect that there would be differences? </U>
+			<U WHO="S2"> i mean i'm not familiar with the Bayesian, approach so, i mean i feel, comfortable with, the conviction (rather than Bayesian) but... </U>
+			<U WHO="S4"> what's your what what would be your assumption i'm still, not so clear about the basic process what would be your assumption, when you um, put your subjects under load...? so that they um, have limited cognitive resources and they can't run through the various complexities. what what what would you expect? </U>
+			<U WHO="S2"> so you think that under heavy cognitive load, subject will behave just like Asians? so they cannot </U>
+			<U WHO="S4"> yeah i i i don't know, i mean on the one hand you could say on the one hand you could argue, that Americans become like Asians by s- you know saying ach i'm not gonna work through this thing i mean, you know, a- and you give the it depends answer, on the other hand you could say, that Asians become like Americans because they can't work through the complexity of these interactionist theories, and they'd go with one rather than the other. uh i'm i'm i'm not really sure what i would <U WHO="S2">
+					<OVERLAP> well (i mean) my my </OVERLAP>
+				</U>
+				<OVERLAP> expect but i mean there seems </OVERLAP> to be, there seems to be uh, i mean there seemed to be additional assumptions needed about processing requirements when you think of these things as, differentially complex theories which would, be another way of of addressing some of that </U>
+			<U WHO="S2"> yeah i think, to me um Asian way of thinking it needs, you know, resources, cognitive resources these are active processing of information so, if they are under heavy cognitive load, they will be like Americans. they, just choose one over the other. but for Americans i don't know what, outcome <OVERLAP> would be </OVERLAP>
+			</U>
+			<U WHO="SU-4">
+				<OVERLAP> what that </OVERLAP> would be, <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> yeah. </OVERLAP> i mean they they don't_ be like, Asians... that_ i think that's for sure </U>
+			<U WHO="S4"> they would not be no </U>
+			<U WHO="S2"> they would not be </U>
+			<U WHO="S4"> no not in that sense </U>
+			<U WHO="S2"> yeah </U>
+			<U WHO="SU-1"> i suppose you </U>
+			<U WHO="S4"> un- unless un- unless you un- unless you do, the listing tasks, where i'm sure because i mean there you present <U WHO="S2"> right </U> i mean there you do this lengthy thing where you present one side and then the other side and, will you now put me under load i'll probably say it depends <U WHO="S2"> right </U> uh but but i mean spontaneously i would not construe one side and the other side under load so that that should... </U>
+			<U WHO="S2"> right </U>
+			<U WHO="S1"> uh this may be related to a conversation that, uh Kim Sook and i have had, um, periodically. i mean he he writes as if, he thinks, uh, Asians have... almost elaborated or articulated <U WHO="S4"> right </U> and, somehow i think no it's Americans who've got, the arl- the articulated, theories they're not very elaborate, but they're uh, they're relatively explicit they're relatively articulate and that's why they can be contradicted and it's, and there aren't there just, there aren't, there aren't it's just a mood that Asians have that, things happen, you know, nothing's totally surprising nothing's you know lots of the world is complicated so, why would i be surprised when anything happens rather than any other thing. (they're) very very different way of accounting for these phenomena and i i don't i don't know <U WHO="S4">
+					<OVERLAP> well wouldn't </OVERLAP>
+				</U>
+				<OVERLAP> where you </OVERLAP> stand on <OVERLAP> that </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> wouldn't, </OVERLAP> yeah but i mean it seem- it seems to me, i mean i i i see that ambiguity i mean is there is is there i mean are there complex theories that somehow (are this) kind of thing, and hence i mean no matter what outcome, there is i mean you always find some (sequent) of the theory that fits. </U>
+			<U WHO="S1"> right. </U>
+			<U WHO="S4"> or is there no theory at all? and all i do is is basically <U WHO="S1"> right </U> reasoning in hindsight when i see that and i say oh you know i mean that could be because of X and i see another thing and say oh that could be because of Y, and but i mean if if that was the case shouldn't then something like, a manipulation of of mental resources in this in the judgment situation, if you <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> that that's one i think it's a v- </OVERLAP> an elegant way of getting at this question <U WHO="S2"> right </U>
+				<OVERLAP> uh </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i mean </OVERLAP> that's that's how we would, normally <U WHO="S1"> right </U> approach these (concepts) </U>
+			<U WHO="S1"> right Americans i- if it's, Americans oughta become, more like, well either of you guys could probably articulate better which way, what kind of result speaks <OVERLAP> to which </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> well i i mean </OVERLAP> i mean if you had if you had a complicated theory, i mean if Asians have a complicated uh uh multifaceted theory, that they can always <U WHO="SU-3">
+					<OVERLAP> right right right </OVERLAP>
+				</U>
+				<OVERLAP> map onto </OVERLAP> some aspect, then i mean putting them under load should no longer, allow that and they should become more like Americans. if they if they just make up a theory on the spot no ma- depending on the outcome then that shouldn't do much of a difference. i mean it seems like a similar kind of thing that you are addressing with the culture and aging research. i mean it seems to be one of these things that should, i i mean <U WHO="S5">
+					<OVERLAP> well he's avoiding... </OVERLAP>
+				</U>
+				<OVERLAP> (th- there's a-there's a) </OVERLAP> cultural differences <OVERLAP> are attenuated or accentuated </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> he's avoiding this, </OVERLAP> this controversy by, taking the results and trying to extrapolate them in doing science which is a much simpler issue, <U WHO="S4"> right </U> and then he doesn't <OVERLAP> have to work that out </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> and i'm and i'm </OVERLAP> pushing and i'm pushing daily life </U>
+			<U WHO="S5"> yeah and <U WHO="S4">
+					<OVERLAP> i'm i'm i'm saying </OVERLAP>
+				</U>
+				<OVERLAP> and then, </OVERLAP> but he's a he's, he sidestepped you by </U>
+			<U WHO="S4"> yes i know <EVENT DESC="LAUGH"/> (i knew it would upset you, so) i noticed that </U>
+			<U WHO="S2"> but yeah that would be a <U WHO="S4"> yes </U> wonderful study i mean <U WHO="S4"> yes </U> manipulating, the load </U>
+			<U WHO="S1"> i i think i've got the way of characterizing these two possibilities for Asians. are Asians like clinical psychologists who've got a million theories and you can't surprise 'em or are they like your mother, who knew it all along? <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> well... in f- in fact the- there is few clinical psychologist in Korea <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> but there are as many mothers, as here </U>
+			<U WHO="S1"> but many mothers </U>
+			<U WHO="S2"> right so... </U>
+			<U WHO="S5"> let me ask one um, question about the thesis, itself um, while i pretty much agree with your conclusions about, how these cultural differences affect cognition and affect the development of science, i think in the thesis itself there's a pretty big extrapolation, from your results to the conclusions you wanna draw about science. um so i guess, he- i'm just, curious if you thought a little bit about, a few future experiments to fill in that extrapolation and make it more, um, concrete to draw the kinds of conclusions you (made) about, you know, those effects. </U>
+			<U WHO="S2"> so between, (for example sup-) this thesis and science right? </U>
+			<U WHO="S5"> well your <U WHO="S2"> (bring) </U> yeah i (mean) your your four experiments um, certainly, say what, um, i mean you drew direct conclusions from them, but then to extrapolate them to the general conclusions about culture and cognition and science, is, somewhat conjectural and, um you can, they certainly, lean in the direction you're saying but there's not a, strong chain of arguments step by step, that you know takes you to those so you could probably develop some other experiments that would, fill that in have you_ has your thinking gone in that, <OVERLAP> direction a bit? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> um, </OVERLAP> the closest thing i have thought about is to get actual debate over a scientific issue. so i gave one example i_ whether, uh nature is more important than nurture, right so, if you're interactionist, and you are put in a debate situation with other, people, then you may feel that those, those in- discussion will be silly, and there is clear answer, both are important. and still, i need some assumption so, but that's the closest thing </U>
+			<U WHO="S5"> well you're making theoretical arguments <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> there </OVERLAP> rather than, um strengthening them with, with data that could fill in um, w- which would seem to me not (a bad thing) to do </U>
+			<U WHO="S2"> i'd love to hear from you </U>
+			<U WHO="S5"> well i haven't thought about, what experiments would do it but it seems to me that there's a gap, that would be fun to develop some <U WHO="S2">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> experiments </OVERLAP> for if you pursue these again. sure i'd be pleased to discuss that with you </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S3"> Kim Sook, um, on various, occasions in the thesis, you say things like the following. you say <SEG TYPE="READING"> such contrasting reactions are consistent with a claim that interactionist, Koreans do not see contradictions as readily as dispositionist Americans. </SEG> do you literally mean that? </U>
+			<U WHO="S2"> yeah, i did. </U>
+			<U WHO="S3"> okay </U>
+			<U WHO="S4"> you_ and and you're reading it differently i i suppose </U>
+			<U WHO="S3"> oh no i'm reading exactly what he wrote, uh </U>
+			<U WHO="S4"> no i mean what if, um...? </U>
+			<U WHO="S3"> okay le- let me let me tell you what i'm <OVERLAP> driving at </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> what's what's </OVERLAP> the meaning of contradiction here i mean that's, i mean i stumbled over similar statements, where i i mean i was i was tempted to say like oh really? i mean, but i think what he means and this this could be interesting i think what he means is, that there is no contradiction for Koreans, but there is a contradiction <OVERLAP> for Americans, (which which) </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> that that that's precisely it be- because </OVERLAP> is it that they don't see it as being contradictory or they react to the contradiction differently, <U WHO="S2">
+					<OVERLAP> (oh) </OVERLAP>
+				</U>
+				<OVERLAP> can d- </OVERLAP> do your experiments allow <OVERLAP> you to make a difference </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> i mean the first </OVERLAP> the first case </U>
+			<U WHO="S3"> so they <U WHO="S2">
+					<OVERLAP> they don't </OVERLAP>
+				</U>
+				<OVERLAP> literally </OVERLAP> don't see them as contradictory </U>
+			<U WHO="S2"> right because they can explain, with their theory... </U>
+			<U WHO="S3"> do your data really, allow you to say that...? </U>
+			<U WHO="S2"> well i mean it's a it's a, it's a whole issue, in, emotional research for example, when, unless you measure like ph- psych- physiological, reaction, so when i say oh i'm surprised, then you don't, you cannot determine whether i really mean i'm not surprised or i just report i'm not surprised. so </U>
+			<U WHO="S3"> tha- that's a separate issue, i mean, i- it's like, wait le- let me give you an example si- it's not a really good analogy but it's sort of close, like i was really shocked, years ago when i was on a review committee and i started reading stuff in, well i had to review a proposal that had to do with, cultural differences in language, language perception, and uh this particular study had to do with peculiarity from an American's point of view, o- of Japanese (uh) confusing Rs and Ls, and it was a psychophysical experiment and they conc- well the experiments and they concluded that, it wasn't simply a matter of, not_ people not being able to say things in terms of and things like that they literally could not distinguish, the physical sounds. the difference between Rs and Ls. that's different, from reacting to them and saying well, uh, and it's, and it's sort of like here is it that people don't really see, these two facts as being inconsistent or they simply, treat, the inconsistency differently? and i'm not entirely convinced and i'm i'm hoping you can, <U WHO="S2">
+					<OVERLAP> i mean if </OVERLAP>
+				</U>
+				<OVERLAP> explain it to me </OVERLAP>
+				<U WHO="S2"> if the the s- <OVERLAP> the s- </OVERLAP>
+				</U>
+				<OVERLAP> how </OVERLAP> your experiments allow you to tell the difference </U>
+			<U WHO="S2"> i mean if the second one, is the case, they just treat contradiction differently, then why, do they do that? </U>
+			<U WHO="S5"> politically correct </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="S2"> possibly </U>
+			<U WHO="S4"> how do you know they're just treating it (differently?) </U>
+			<U WHO="S2"> no that's what i'm, asking i mean i don't <OVERLAP> i don't know </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but no you ma- </OVERLAP> you made a- the opposite claim, that they see them differently </U>
+			<U WHO="S5"> b- you should able to distinguish with an experiment that's Joe's point </U>
+			<U WHO="S3"> but i'm not sure these experiments do you think these experiments are capable of doing that? if not then what kinds of experiments could you do, to distinguish them? </U>
+			<U WHO="S2"> hm, so they see contradiction but they just, react <U WHO="S3">
+					<OVERLAP> yeah, right </OVERLAP>
+				</U>
+				<OVERLAP> differently, express </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> differently </OVERLAP>
+			</U>
+			<U WHO="S1"> right </U>
+			<U WHO="S3"> right </U>
+			<U WHO="S1"> it's a good question too </U>
+			<U WHO="S2"> yeah, i got, the exact same question at Illinois when i gave a job talk, and, the questioner, wanted me to develop experiment in this part so my answer was that okay <OVERLAP> um </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> if if </OVERLAP> they gave you the job you would do that? <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S4"> if they if they give you that job right, you do the experiment as many (xx) and you do and you go for P three hundreds </U>
+			<U WHO="S2"> so i gave two, possible exp- experiment one, you can create a public setting, and private setting, because their their assumption was that, Am- Amer- Koreans, wanted to be polite to be respectful to experimenter, so, uh they want_ they don't want to their expression, so you can create, private setting versus public setting. or, you can have a panel study, so you can look you you can measure their reaction, time one, and then, sometime later, because, initially you may have reacted differently, but the more you can think of in private setting, you may want to express, that reaction more frankly, so </U>
+			<U WHO="S3"> what would you think of a Hou Fun, approach to this? suppose, say in these kinds of scenarios you have, you have the Americans, to, in essence explain, why they consider, these situations to be contradictory. and then you see what the Korean subjects think of that reasoning and vice versa. </U>
+			<U WHO="S2"> say again? is that? </U>
+			<U WHO="S3"> alright, one of the things that Hou Fun did in his thesis, was to have subjects, to look at arguments <U WHO="S2"> right </U> and appraise those arguments. and what i'm suggesting here is something analogous. so you have these situations in which, you have Americans and you have Koreans seeing situations that Americans traditionally would see as, contradictory. presumably they have reasons for doing that, so suppose they were to articulate those. would K- would you expect Koreans to say boy that's hogwash, that's really dumb, i think that's a horrible, reaction to the situation, would you expect that to be the case? and also how do you think Americans, might react to the kinds of arguments that Koreans would give? and also would you expect their arguments to be different? i would think that you would. or you might expect that, they aren't gonna even_ their_ Koreans won't even see, anything to explain, i mean that would be my interpretation of what you're saying here, that they would see it as a silly question </U>
+			<U WHO="S2"> well it's, what's to do, i mean, that's the best answer i can give, so i mean you can, i mean we, have, various argument, write about the scenario and ask them which one they prefer, or which one sounds reasonable i mean i can yeah </U>
+			<U WHO="S3"> well, just something to think about </U>
+			<U WHO="S2"> yeah... i mean, your last point is, quite good i mean cuz, if they are really truly interactionist there is nothing to explain, seriously. </U>
+			<U WHO="S1"> these are all, questions that are easily translated into studies <U WHO="S2"> right </U> that sound, eminently worthwhile to make, probably it is time to just, talk to people and listen to what they're saying </U>
+			<U WHO="S3"> when all else fails </U>
+			<U WHO="S1"> when all else fails, let your subjects talk to you... <EVENT DESC="LAUGH"/> um, i have, uh, this is a question i've asked periodically, um, uh Kim Sook and maybe we can get, additional, reactions to these questions and and every time i see a draft it's, indeed he has a a a clearer and clearer, job of it but, what, um... uh there's some, i i sort of want to see the paragraph or the page, that makes it very clear why all three of these experiments, come from the same proposition. i mean maybe they don't </U>
+			<U WHO="S3"> there're four </U>
+			<U WHO="S1"> hm? </U>
+			<U WHO="S3"> there're four experiments </U>
+			<U WHO="S1"> oh well but, but, one and two are really the same experiment <U WHO="S3"> oh okay </U> so i mean he's got three qualitatively different kinds of experiments here and, um, it would just be nice if he could, you know give the three sentences to why, (i don't know) six sentences to why these three experiments all fall out of the same basic proposition. the experiments, are as far as i can tell number one, that, behavior that wouldn't have been predicted, is not as surprising to Asians, as it is to Americans. secondly that, hypothesis, confirmation is not more surprising, when an alternative was possible or at least salable, uh than when the alternative wasn't possible or salable in other words there's something there about contradiction or potential contradiction. that's, doesn't seem to impress Asians as much, and, third that, uh, contradiction of a belief just doesn't seem to produce surprise so you make people believe something and you, ask 'em what they think of that and they tell you and then, you say oh guess what, um, the opposite of that is correct and, and uh, and they_ it just doesn't seem to intr- in- induce surprise, in Asians so, how can, how can you put, those, drive all three of those things from the same, core notion? </U>
+			<U WHO="S2"> i mean, i was surprised that um, you, do not see the connection. <EVENT WHO="SS" DESC="LAUGH"/> that was, that was <OVERLAP> funny </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yes, </OVERLAP> we've been talking about the aging problem <EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S2"> (actually) to me, <OVERLAP> to me </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it's obvious </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/>
+			</U>
+			<U WHO="S5"> so he, so he's obvious- he's obviously not Korean </U>
+			<U WHO="S4"> doesn't have a good interactionist theory </U>
+			<U WHO="S2"> um, um, my_ okay here is my, answer um, if you have a interaction theory, then, you don't see a contradiction as contradiction. so you would not be surprised by surprising and contradicting <OVERLAP> event </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> wait wait </OVERLAP> one second (hm) and you don't see contradiction as a contradiction? well that doesn't, i don't see that that follows <OVERLAP> (what) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> everything </OVERLAP> depends </U>
+			<U WHO="S1"> okay everything depends right. i thou- if you've got an interactionist theory then everything depends but, if everything depends, then it's harder to see a contradiction <U WHO="S2"> right </U> yeah okay okay then <EVENT DUR=":10" DESC="PAUSE WHILE WRITING"/> and these are all about contradiction, all of these studies, are contradiction studies right? </U>
+			<U WHO="S2"> yeah i think so yeah </U>
+			<U WHO="S1"> clearly the third one is. flat contradiction doesn't make something more surprising than if it hadn't been contradictory... um, people don't seem to see that, the hypothesis that was confirmed and the hypothesis, that was not confirmed are suf- sufficiently different then you should be more surprised, than if we didn't know about that competing hypothesis which also seems (a failure to,) recognition, contradiction, and, how is the first then how is that an instance of, failure to recognize contradiction? </U>
+			<U WHO="S2"> because, for example in study one they expected, that the target person would help, and in fact, he did not help. so that should be taken as a contradiction </U>
+			<U WHO="S1"> okay so it's an implicit </U>
+			<U WHO="S2"> implicit contra- <OVERLAP> yes right, so study </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> implicit contradiction okay you may wanna </OVERLAP> use that term of im- implicit contradiction and say okay now i'm gonna get really explicit, in fact as you go from one to two to three, you are making the explicitness of the contradiction <U WHO="S2"> right </U> e- ever greater <U WHO="S2"> right so </U> and that would be a nice organizing theme is just you know a sentence or two per, in length. that's an implicit contradiction that this, apparently warm guy you know, kind person did this unkind thing, still more explicit is, you have two alternative possibilities versus only the one <U WHO="S2"> right </U> and literally completely explicit <U WHO="S2"> right </U> is, A is the case and then you say actually, not A is the case... <PAUSE DUR=":05"/> alrighty </U>
+			<U WHO="S5"> okay </U>
+			<U WHO="S1"> other questions...? um, okay, you wanna give us a couple minutes then </U>
+			<U WHO="S2"> thank you </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

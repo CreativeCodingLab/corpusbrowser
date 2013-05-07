@@ -1,0 +1,851 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="les320su085">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Visual Sources Lecture </TITLE>
+				<TITLE> Rackham Div: HA </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> LES320SU085 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="69">
+						<DATE> February 23, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Rodney Pratt, Janine Ovens </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Shannon Allen </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Rodney Pratt </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 10/1/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="16">	</PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="13"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> SPA </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> VIE </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="UN, Student" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="R1" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Classroom, 124 East Quadrangle </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT DESC="SLIDES USED THROUGHOUT"/>
+			<U WHO="S1"> i truly appreciate it i have to say that i am allergic to citrus fruits. </U>
+			<U WHO="SU-m"> oh. </U>
+			<U WHO="S2"><OVERLAP> you're kidding. that's the worst thing i've ever heard. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so i am, i know. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> i'll have it. </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> oh no no over here. </OVERLAP> it's so mine. <EVENT WHO="SS" DESC="LAUGH"/> it is s- <U WHO="S2"> you already had one </U> it is so mine. </U>
+			<U WHO="S1"> you already got one. </U>
+			<U WHO="S4"> this is like the Lord of the Flies, why don't you just <OVERLAP> share it? </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> i bought one. </OVERLAP> i bought it. </U>
+			<U WHO="S4"><OVERLAP> there's plenty for everybody </OVERLAP></U>
+			<U WHO="S3"><OVERLAP> he's got, he's got one, he's got a box of Thin Mints over there. </OVERLAP></U>
+			<U WHO="S4"> that's true. </U>
+			<U WHO="S1"> you have a box of Thin Mints? </U>
+			<U WHO="S2"> where'd you find Thin Mints? none of the girl scouts <OVERLAP> that we found had Thin Mints. </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> he he gave 'em to me for a grapefruit. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> right down the street </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> they have 'em right down there. </OVERLAP></U>
+			<U WHO="S3"> alright <OVERLAP> so you get (xx) </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> no you share them, come on children Jesus </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> we have Caramel Delights we have Peanut Butter Patties </OVERLAP><U WHO="S6"><OVERLAP> you traded one grapefruit for a box of cookies? </OVERLAP></U> but we have not found Thin Mints. <U WHO="S6"> you're a junkie man </U></U>
+			<U WHO="S3"> i'll i'll get, look i'll get you the Thin Mints if you <OVERLAP> get the grapefruit. </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> that doesn't even sound like a healthy habit, man. </OVERLAP></U>
+			<U WHO="S1"> do you realize this is what they're taking down? <EVENT DESC="LAUGH"/><U WHO="S2"><OVERLAP> i don't care. </OVERLAP></U><OVERLAP> i want Thin Mints. </OVERLAP> i want grapefruit. i want this. alright so i think you should spun- maybe have it split between all of you. </U>
+			<U WHO="SU-m"> yeah share it (xx) <OVERLAP> come on (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> share it </OVERLAP> n- maybe we'll do that after the class, cuz i don't know how you'd do it. </U>
+			<U WHO="S3"> i i can cut it up. </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> can you cut it up so that everybody gets a piece? </U>
+			<U WHO="SU-m"> you're gonna get thrown out of school waving that thing around like that. </U>
+			<U WHO="S3"> sure. </U>
+			<U WHO="S1"> okay. there you are. voila. </U>
+			<U WHO="S3"> actually, as long as i don't bring some kind of chemical explosive device on campus, <U WHO="S1"> yeah? </U> it's pretty hard for me to get kicked out for a we- on a weapons charge. </U>
+			<U WHO="SU-f"> that's only_ what is that? i mean i (xx) thought it was something (a lot) longer than a (xx) </U>
+			<U WHO="S1"> doesn't everybody have a Swiss army knife? </U>
+			<U WHO="S3"> no no not in the University of Michigan <U WHO="S1"><OVERLAP> i mean everybody_ my husband carries a Swiss army knife. </OVERLAP></U><OVERLAP> is explicitly excepted from the state law because the </OVERLAP> Chinese department complained about having the huge swords on campus. </U>
+			<U WHO="SU-f"> oh my gosh </U>
+			<U WHO="S3"> i'm sorry </U>
+			<U WHO="SU-f"> that's cool. </U>
+			<U WHO="S4"> they complained about that? </U>
+			<U WHO="S3"> yeah they did. </U>
+			<U WHO="S4"> or because the Japanese has the swords and the Chinese department was complaining? </U>
+			<U WHO="S3"> what? </U>
+			<U WHO="S2"> no i don't think so. </U>
+			<U WHO="S4"> cuz Japan kept invading China. </U>
+			<U WHO="S2"> no </U>
+			<U WHO="S4"> no? </U>
+			<U WHO="S3"><OVERLAP> i don't think so </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> no. </OVERLAP></U>
+			<U WHO="S1"> okay can i explain to you why i was late? cuz i feel really bad about it. one thing about this class is that i use slides but s- the times that i use slides well the problem is is that a lot of times the slides i wanna use are already being used by another class. so, i hafta i have a meeting just before this class i hafta hotfoot it over to Tappan, get the slides and, wrench them sometimes from the people who have them which means i have to run around upstairs <EVENT DESC="LAUGH"/> and say do you have this? do you have that? and then i grab them. so this, today was really awful. but you have the slides i want you to know, you've got them. i pried them, away. </U>
+			<U WHO="SU-f"> do you feel special? </U>
+			<U WHO="SU-m"> that's the pirate. </U>
+			<U WHO="S1"> in fact Kathy, you probably saw something this morning that i pried away from </U>
+			<U WHO="S5"> no <U WHO="S1"><OVERLAP> no? </OVERLAP></U><OVERLAP> i took a </OVERLAP> big fat exam this morning and </U>
+			<U WHO="S1"> oh you did? ho- how'd it go? </U>
+			<U WHO="S5"> it went. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S1"> going going </U>
+			<U WHO="S5"> it was it was good. it was good </U>
+			<U WHO="SU-m"> that's a good example of (xx) </U>
+			<U WHO="S5"> yeah </U>
+			<U WHO="S1"> alright today we're going <U WHO="S5"><OVERLAP> us native speakers </OVERLAP></U><OVERLAP> to ta- i really wish </OVERLAP> we could we could have class outside but we can't. </U>
+			<U WHO="S2"> sure we can, </U>
+			<U WHO="S1"> cuz i've gotta, <OVERLAP> i know we've gotta have slides </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> you can put it on like the </OVERLAP> wall or something. </U>
+			<U WHO="S1"> no. no way Jose. and especially after i've <OVERLAP> done all this (xx) </OVERLAP><U WHO="S2"><OVERLAP> we'll all hold up our notebooks and </OVERLAP></U> after i've gone to all this trouble guys you've gotta, so what i need you to do is make your little O like just widen the circle a little bit, and pay attention to the screen, and we'll talk through this. today we're gonna talk about sculp- the medium of sculpture. do you know what this class_ i'm sorry tell me your name again. </U>
+			<U WHO="R1"> Janine Ovens. </U>
+			<U WHO="S1"> Janine Ovens, this is a this is a kind of an introduction to theories of ar- of art in the Renaissance. </U>
+			<U WHO="SU-f"> whoops. </U>
+			<U WHO="SU-f"> i'm like where's my new folder? </U>
+			<U WHO="S1"> and we've been doing_ we've been talking about each individual, medium, we've done painting we've done graphics <EVENT DESC="BACKGROUND CONVERSATION"/><OVERLAP> and now we're going to do sculpture. </OVERLAP> so, we're gonna see some <OVERLAP> really beautiful things </OVERLAP> today i have to say. i really wish that we could_ oh no. </U>
+			<U WHO="S4"><OVERLAP> you're gonna be the closest to the microphone you're not gonna (even say) anything </OVERLAP></U>
+			<U WHO="SU-f"> no </U>
+			<U WHO="SU-m"><OVERLAP> you're gonna be on the web </OVERLAP></U>
+			<U WHO="SU-f"> (you really wish that we could) oh no, what? </U>
+			<U WHO="S1"> holy Moses. (what is this?) </U>
+			<U WHO="S4"> what'd you do Beth? </U>
+			<U WHO="S1"> i thought, i forgot (some slides) </U>
+			<U WHO="S4"> bye Beth </U>
+			<U WHO="S1"> bye. alright, now, okay so today we're going to talk about sculp- ture and unfortunately as i said we have to use slides we can't be in front of the objects, but we do have some nice slides so, it's not gonna be too bad. and hopefully you've done, although i know it's midterm week so my guess is you haven't done your reading from Taylor is that right? </U>
+			<U WHO="SU-f"> i did it all like two weeks ago. </U>
+			<U WHO="S1"> who's done the reading from Taylor? <EVENT WHO="SS" DESC="LAUGH"/> whoa. wait say that again. <U WHO="SU-f"> i read part of it. </U> let me see, Taylor readers? excellent. midter- no i_ this week i expect, everyone's taking midterms. </U>
+			<U WHO="S2"> i read it all of it, like last week </U>
+			<U WHO="SU-m"> i've read stuff but i, didn't read Taylor. (not) the right one. </U>
+			<U WHO="S1"> so how are you finding Taylor anyway? </U>
+			<U WHO="S2"> um, subpar. </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S2"> sub par. </U>
+			<U WHO="S1"> sub far? </U>
+			<U WHO="S2"> par. </U>
+			<U WHO="S3"> sub par </U>
+			<U WHO="S1"> hard? </U>
+			<U WHO="S2"> par, like golf. </U>
+			<U WHO="S1"> sub par oh oh under par. mkay, yeah no he's not a thrilling writer i would say. but it's very useful information and i don't know of another one that does that. <U WHO="S2"> yeah. </U> unfortunately. i really don't </U>
+			<U WHO="S2"> well the best part is that list in the back. <EVENT WHO="S1" DESC="LAUGH"/> it's awesome. <U WHO="S1"><OVERLAP> okay </OVERLAP></U><OVERLAP> to be able to </OVERLAP> cross all the, the music and the, lit </U>
+			<U WHO="S1"> yeah that is nice that is nice. </U>
+			<U WHO="S2"> and the, art. </U>
+			<U WHO="S1"> i agree. alright. </U>
+			<U WHO="S3"> you were all making so much noise about, wanting some of this grapefruit </U>
+			<U WHO="S2"> it was mostly me and him. </U>
+			<U WHO="SU-f"> we don't want all that mess. </U>
+			<U WHO="SU-f"> you all <EVENT DESC="LAUGH"/> (xx) </U>
+			<U WHO="S1"> this is the grapefruit class. </U>
+			<U WHO="S4"> Zack was too. </U>
+			<U WHO="S6"> what? </U>
+			<U WHO="S4"> you said you wanted some. </U>
+			<U WHO="S6"> no, i don't want any. i said it was a bad addiction that he was getting into. </U>
+			<U WHO="S4"> oh </U>
+			<U WHO="S2"> i'll take the rest of it. no, come on. </U>
+			<U WHO="S1"> okay. this is, a one, characteristic of sculpture that is completely different from any other media we've had so far, is kind of illustrated on the screen. do you know what that is? </U>
+			<U WHO="S4"> different perspectives? </U>
+			<U WHO="SU-f"> three dimensionality? </U>
+			<U WHO="S1"> say that again. </U>
+			<U WHO="S4"> being able to see it from, various perspectives. </U>
+			<U WHO="S1"> yeah. but you have to see, yeah, it's three dimensional. and the thing is that with a three dimensional object, that alters your analysis of it considerably and that really, makes it a bit, it's a huge difference in the way you approach sculpture than, the way you approach painting or graphic architec- um, or the, or the graphic arts. we're really moving into the, into the round, and in order really to deal with sculpture you have to be able to see it from all the angles that it's meant to be seen from. which means um, that your analysis it's it kind of compounds the problem, y- you look at it from the front but then, you really have only done half of it, um, you gotta go around the back, and take a look at what is there, unless the sculpture is frontally, meant to be frontal and frontally placed. now, early, most of the sculpture that we, looked at in the in the Greek peri- in the ancient period when i showed you the Parthenon sculptures, were actually meant to be seen only from the front. but things like the Venus of Willendorf, which is actually held in the hand is meant to be not only seen, from all angles but handled. you know what i mean? so you have to really take that into consideration. i'm just showing you one, classical example you should have this sh- that's shown in every art history class or i think you do, Katie have you seen this yet? </U>
+			<U WHO="S5"> i think so, but </U>
+			<U WHO="S1"> this is the Rape of the S- this is you- n- the second part of your midterm. <EVENT DESC="LAUGH"/> this is by Giovanni da Bologna, which is really John from Bologna, so that is Giovanni do you do i need to sp- it's D A B O L </U>
+			<U WHO="S4"> O G N A </U>
+			<U WHO="S1"> Bologna like, not like baloney but like </U>
+			<U WHO="S7"> it's spelled the same way. that's what it that's, <OVERLAP> that's where bologna comes from. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> how do you sp- i thought </OVERLAP> how do you spell Bologna baloney? isn't it </U>
+			<U WHO="SU-m"> same way. </U>
+			<U WHO="SS"> B O L O G N A </U>
+			<U WHO="S1"> i thought you spelled baloney in a in American B A L O N E Y? </U>
+			<U WHO="S4"><OVERLAP> no nobody spells it like that. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> there is an American way of spelling it, but that's not how </OVERLAP> like a butcher shop would spell it. </U>
+			<U WHO="SU-f"><SEG TYPE="SINGING"> my baloney has a first name, it's O S C A R </SEG></U>
+			<EVENT DUR=":14" DESC=" PAUSE WHILE WRITING ON BOARD"/>
+			<U WHO="S1"> and the the name of the piece is the name of the piece is, The Rape of the Sabines, and it's um... <EVENT DUR=":06" DESC="WRITING ON BOARD"/> The Rape of the Sabines. The Rape of the Sabines is not a biblical story, it is a, anybody know? how would you figure out the iconography of this? it's hard i think, if you have never heard of The Rape of the Sabines </U>
+			<U WHO="SU-m"> Greek? </U>
+			<U WHO="SU-m"> is it Greek? </U>
+			<U WHO="S1"> Greek. <U WHO="SU-m"><OVERLAP> is it like an old Greek fable? </OVERLAP></U><OVERLAP> uh, no, but close. </OVERLAP></U>
+			<U WHO="S10"> Roman. </U>
+			<U WHO="S1"> Roman. it's Roman, yeah. it's it's an ancient um Roman top- um ancient Roman subject, it actually is a historical event. um, in which uh two tribes, one of which, was called the Sabines and i don't know what the other one was called, <EVENT DESC="LAUGH"/> but anyway um, they were invaded, <EVENT WHO="SU-m" DESC="COUGH"/> and the um <U WHO="SU-f"> bless you. </U><U WHO="SU-m"> that was a cough, thanks though. </U> the um, the Sabine women were all, taken by their by the um, by the, the other tribe. they were raped, um, and they were brought back to live with um, with those with that tribe, and they had children, um, and when the neigh- when the t- when the tribe when their when the Sabine tribe attacked the other tribe to get, um their women back, um, the women stood between the warring, factions, um, because their children, because they wanted to protect their children, so the the notion is that you, that that these women are protecting their children even though they've been raped by the other, race. quite a nice story anyway, i mean the rape part isn't but what the women did is, very nice, anyway. </U>
+			<U WHO="S4"> well look how they're dressed. </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S4"> i said well look how they're dressed, they were asking for it. they're not wearing any clothes. </U>
+			<U WHO="SU-m"> what? </U>
+			<U WHO="SU-m"> are you just trying to start a fire? </U>
+			<U WHO="S1"> yeah he's just trying to start a little thingy. </U>
+			<U WHO="SS"> yeah, yeah </U>
+			<U WHO="SU-f"> be quiet. </U>
+			<U WHO="S4"> but she's naked </U>
+			<U WHO="S1"> okay. alright. so th- but the but we're not actually going to concentrate on this because we don't have that many good slides of it. um, and it's but what's important about it again is that if you, here's the f- here's the back view and here's the front view and you really can't tell what's going on, until you've actually (circumviewed) the sculpture. here's um, a Sabine woman being taken away by the attacking tribe and a Sabine man being pushed down, um, by the attacker </U>
+			<U WHO="S6"> weak effort right there </U>
+			<U WHO="SU-f"> yeah </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S6"> don't <EVENT DESC="LAUGH"/> don't take me <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S1"> alright. so the point is the point i just wanna make is that that that always, you n- the first thing you need to think about is to look at it from multiple, um angles. okay, um, now we're gonna go on and talk about the materials of sculpture, and again remember when we talked about painting we divided, it into water based paint and oil based, um pigment oil mixed pigment, we're gonna divide sculpture equally into these two huge categories. um, one is what um, Taylor calls, um additive, that is sculpture that's made up with a building up of forms so additive, A D D I T I V E, and the other is...? </U>
+			<U WHO="SS"> subtractive </U>
+			<U WHO="S1"> excellent. <EVENT DESC="LAUGH"/> you got it. subtractive. additive and subtractive which means sculpture that's made by the taking away of, of forms, okay? and you can r- you really pretty much can divide sculpture into these two, um categories, but each of them depending on whether you you are an additive sculptor, or a subtractive sculptor, i think Te- i think what's his name, um Taylor uses the term glyptic, glyptic and haptic, which i think is kind of unnecessarily, complex, additive and subtractive is pretty reasonable, should i spell glyptic for you? </U>
+			<U WHO="SU-m"> no that's <OVERLAP> unnecessary. </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> sure </OVERLAP></U>
+			<U WHO="SU-m"> no let's <OVERLAP> just pretend we never learned it. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it's in the reading. </OVERLAP><U WHO="SU-f"> okay. </U> it's in the reading. <U WHO="SU-f"> okay. </U> anyway. <EVENT DESC="LAUGH"/> so um, what we're gonna do is we're going to look at subtractive, and then we're gonna look at, we're gonna look at carving and we're gonna start out with a really spectacular example. <PAUSE DUR=":06"/></U>
+			<U WHO="SU-f"> do you have a knife (that i can cut it?) </U>
+			<U WHO="SU-f"> i was just doing it with (my) (xx) </U>
+			<PAUSE DUR=":06"/>
+			<U WHO="SU-m"> it's like everybody's got a pen out but nobody has paper. </U>
+			<U WHO="S1"> now it's gonna take you a while to figure this out but look at it there are two different views of something </U>
+			<U WHO="S4"> is that, Poseidon? </U>
+			<U WHO="S1"> look at, look at it carefully. <PAUSE DUR=":12"/> this is a s- um, a sculpture by Michelango, and it's called, the Bearded Boboli Slave, and you just don't <U WHO="SU-m"> what? </U> now let me tell you why, it's called the Bearded, well it's bearded, the slave is bearded, um, it is an unfinished sculpture by Michelangelo and lemme write this name on the board. and i'm pretty sure you can <EVENT DUR=":04" DESC="WRITING ON BOARD"/> Michelangelo. and you can just call it a Boboli slave, and the reason is <U WHO="SU-m"> oh Boboli </U> yeah Boboli. the reason is because the slaves ar- wer- are owned by the Boboli family. that's w- they're an Italian family rich family, the Bobolis, there's a Boboli if you go to um, if you go to Florence there's a Boboli Gardens, also, in association with that family. now the thing about this, this wonderful um, Boboli slave is that it is, it is unfinished. and so what we get to do is we get to actually see Michelangelo at work. this is a way of really getting into the process, of how this in- extraordinary sculpture works. but it also illustrates, a real problem of um, of subtractive sculpture, of of the use of carving. and that is, that, when the sculptor gets a block of marble, which this material is or a block of stone, they have to gauge exactly, the proportions they have to kind of understand, how they're going to work not only um from top to bottom but in three dimensions. and if you have a figure that's not like this, right? if you have a figure that's that's twisted or turned or whatever, um, you ca- you you can't, be absolutely sure that you've got it right. d- can you imagine that? can you imagine what he's having to do what he's trying to do? well, he, abandoned work on The Boboli Slaves because he really felt that it just didn't wor- it he, he couldn't, he couldn't get that figure out of this, the s- the marble, he had to take away, things from the marble, but he just, he couldn't imagine actually finishing it. can you see, how the proportions would be a problem here, if he were to continue on with this carving? Olivia, you had your hand up. </U>
+			<U WHO="S2"> i was gonna ask the medium. <OVERLAP> but you said it </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> the medium, </OVERLAP> it's marble. so, i mean yeah i- subtractive sculpture is, can incl- i- involves carving and you can, work in wood you can work in stone you can use metal, you can use ivory you can use bone you can even use plastics. some people use plastics. but the whole notion is that you cut away, from the original block of material. it's a real test of skill and it involves real risk, as we've been seeing because it's impossible to replace the portions that once have been, cu- uh cut away. in this way there's a very close analogy to what? another medium, that we've been talking about, Rose? </U>
+			<U WHO="SU-f"> temporal </U>
+			<U WHO="S8"> i'm not sure. </U>
+			<U WHO="S1"> i bet you t- i bet i bet you were right. try it. </U>
+			<U WHO="S8"> i was gonna say when you paint on the wall, but i just forgot what it was called. </U>
+			<U WHO="S1"> yeah it could be like fres- it could be like fresco, which Taylor talks about in a way, but try something else it's even more it's even more analogous. remember what we just saw? </U>
+			<U WHO="SU-m"> printing? </U>
+			<U WHO="S5"> the engraving, stone? the etching stuff? </U>
+			<U WHO="SU-f"> yeah engraving </U>
+			<U WHO="S1"> the etchings, well but even more if you're cutting away something. </U>
+			<U WHO="SU-m"> wood cuts. </U>
+			<U WHO="SU-f"><OVERLAP> wood cuts </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> wood </OVERLAP> cuts, yeah. the Durer flagellation that we looked at last time. it's really analogous to that. you've gotta have it, on the ball. you really have to, because once you slip or make a mistake, you're in deep, doo-doo. no but, if you don't, if you can't um, finish it up, and even such artists as Michelangelo, did screw-up. um, what happens is that um, what usually happens in the first stage though, of carving on stone which is really difficult, i mean, we we talked about how difficult it is to get that little detail um in when you're doing wood c- when you're doing wood carving, and then also when you're doing engraving well, here you've got to imagine that you need to have, at least with with with Durer he had a little, knife, you know what i mean? he had a little knife and he was managing it with his hand right? and and and when he did etchings he was managing it again with his hand and his fingers, he had control over this part of his arm. now this is heavy labor. so um, to carve stone especially stone of this size, we're not talking about a Venus of Willendorf size stone which is, uh you can hold in your hand, here we're talking about, a block of marble that's bigger than the artist. right? so these are these are more than life size. and, in order to get down i- you know down into it, you've gotta do this really heavy labor, you've gotta do a lot of chipping and um, hammering, um, wait lemme make sure i've told you, all the different, so the first thing that you have to do is you have to kind of hew out a rough shape, and what you can see is, that here's the rough shape that he's worked at, but you can also see how he's done it. you know it's a really labor intensive process because, you can't just, cut away, you know what i mean? think of a block of marble, you have to kind of take um, you have to take tools and hammer, and chip, away the marble. you see it? and you can what you can do is you can actually see, Michelangelo working here, on the marble, um, in various ways and you can see how, this is the, this was the original very rough hewn, block right? and then he goes in closer and he starts doing detail, and then then his strokes have to become finer and finer. now what i'd like you to do, is to all come up to see this because, you need to see the different um, the different kinds of textures that come when you're doing, rough labor and hi- and fine, chipping. you know what i mean? and you can see that right here. you can see, all this stuff, right around here look look in here and wha- get get in close and take a look at the um, detail, now and then take a look at this, area so you can get a sense of what's going on. so just come on up. come, on either side and don't block the light and (xx) <PAUSE DUR=":07"/> did you see it? </U>
+			<U WHO="S8"> yeah, i did and you can see the (xx) </U>
+			<U WHO="S1"> and you can you can see and see and see the two different ones actually there are a bunch of different kinds. do you see? this is one, right here, see all those little uh, thingys, those lines? <U WHO="SU-m"> right. </U> that's the detail this is the heavier, chipping out. you can actually you just see that he just put a you know a tool up here and went bang bang bang bang </U>
+			<EVENT WHO="SU-m" DESC="LAUGH"/>
+			<U WHO="S1"> yeah and look at look at these little lines right here. see the little, all that stuff? </U>
+			<U WHO="SU-f"> what did he use for that? </U>
+			<U WHO="S1"> there are all sorts of different tools and Taylor, um ge- illustrates them actually. he shows you all the different tools, in his book, and how, it's handled. but, you know you realize that you have to have this incredible combination of, strength, and delicacy. you know what i mean? you've gotta have the kind of um, the the the attention to det- you have to have the attention to detail that you saw in that Durer engraving but the power, you know of a of a of a you know <U WHO="SU-m"> a bull? </U> a heavy laborer i mean someone who's doing things like breaking up stones in the sidewalk, it's really, really difficult work. um, so <PAUSE DUR=":05"/> um, once you get into this stage, um what happens is that your tools get smaller and smaller and finally at the end you're working with a kind of abrasive like a pumice stone or a sandpaper or something like that, getting things down to polish, level. so, it is really_ i but i think it's incredibly exciting because, you can get um you get a real sense of how Michelangelo worked, how Michelangelo worked, at something. okay. so be sure to take a look at the Taylor section on tools, on the various tools and imagine them being used on this stuff. lemme show you some more Michelangel- unfinished Michelangelo sculptures. <PAUSE DUR=":15"/> here's another one, in this same series... and this is nice because it's in color. <PAUSE DUR=":13"/></U>
+			<U WHO="SU-f"> doesn't look like Michelangelo </U>
+			<U WHO="SU-m"> (xx) Michelangelo </U>
+			<U WHO="S3"> why was this left unfinished? </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S3"> did he die or? </U>
+			<U WHO="S1"> same reas- it was left unfinished for the same reason. </U>
+			<U WHO="SU-m"> was it just unrealistic? </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S9"> it doesn't look like his regular stuff. </U>
+			<U WHO="S1"> this was going to be for the tomb of, um Julius, yeah. </U>
+			<U WHO="S4"> yeah that's cool. </U>
+			<U WHO="S1"> some of these were calculated okay, um, but but Julius did not want to um, Julius, decide or decided that he would abandon work on the tomb for a while and he set Michelangelo to painting the Sistine ceiling. Michelangelo really wanted to finish this thing. he likes carving much better than painting, but he got stuck for forty-eight doing the ceiling of the Sistine Chapel. so, here again you can get it can you see the detail here? <U WHO="SU-m"> mhm </U> here's the detail of a head, and you can really see that kind of fine, chipping away... Michelangelo said that he when he when he looked at blocks of stone he really um, he had to choose a block of stone and then discover the figure inside of it. but these guys didn't get, discovered. or they kinda got half discovered. you can see these if you go to Florence, in Italy, and see them they're at the Academia which is the sculpture, one of the places where you can see sculpture, in Florence. okay, let's look at a finished Michelangelo sculpture so that we can make the comparison, between, an unfinished and finished and see, how, refined his surfaces became. <PAUSE DUR=":07"/></U>
+			<U WHO="S4"> you know, it's in Rome (xx) </U>
+			<U WHO="S9"> hm, no that wasn't what i was thinking of. (xx) </U>
+			<U WHO="S1"> this is um, The Pieta of Michelangelo. which is um, spelled. P I E T A. and it's one of the standard subjects like the flagellation (put.) </U>
+			<U WHO="S4"> do you know what that means? </U>
+			<U WHO="S1"> yes. do you know what that means? i mean, not th- i mean do you know what that means? </U>
+			<U WHO="S4"> it means mercy. </U>
+			<U WHO="S1"> yes it means mercy, that's right, or pity. </U>
+			<U WHO="S4"> i just learned that yesterday. </U>
+			<U WHO="S1"> let's see, okay. so it's the Pieta. <EVENT DESC="WRITING ON BOARD"/> like that. um and it's the moment after Christ is pulled down from the cross and his mother, Mary, cradles him in her arms cradles the body of the dead, Christ. i'm gonna give you a lon- i'm gonna give you just i want you to see the whole sculpture before i show you a close up. so you can see the, the texture. it's really, gorgeous, gorgeous work... </U>
+			<U WHO="S4"> Beth, is that one in Florence also? </U>
+			<U WHO="S7"> that's true. that is true. </U>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="S1"> here's the face of the Virgin, of the Virgin Mary, and let's, put it up against the face, of the Boboli slave... so that you can see what the Boboli slave would've looked like if it had been finished. now probably he wouldn't have had as refined a surface um, for a for a, a male, slave figure as he does for the Virgin Mary, but it would be pretty close. but you can see now and what i'd like you to do is come up really close and look at the um, look at the surface of this. you can see that he's really gotten to the point, where i- you you almost can't see it but if you get in close you can see you can still see the texture, you can see the tools at work. from a distance it's hard for you to see, but if you come up close you can see that, um but you can also see the incredible, detail that he gets. look at her, when you get up here look at the eyelids, they're really extraordinary. look at the, um the fold in the lip, look at the bones underneath the um, the neck and the collarbone, where he gives you the suggestion of of bones underneath the flesh, look at the folds of the cloak around her how, with and remember this is marble right? this is material that's like this, where you really to, you're sti- you know you're still working really hard, um, and yet he gets, a sense of cloth, the texture of cloth, the folds of the cloth, it's really a stunning, performance. this is like, you know this is like Durer on the Melancholia this is really an amazing, guy. um, who's not a bad painter too. so why don't you come on up and again take, get in real clo- i mean stand on the side don't stand in front of the light, but so that you can see um, the the texture because it's there, it's there you can see the stone there... </U>
+			<U WHO="SU-m"> i know she's gonna (xx) </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="SU-m"> what is that? </U>
+			<U WHO="S1"> and then compare it with this. </U>
+			<U WHO="SU-f"> (xx) what happens? </U>
+			<U WHO="S1"> can you see it if you, don't yeah don't stand in front of the light. that's okay you just have to stand to the side if you can. </U>
+			<U WHO="SU-m"> right. right. </U>
+			<U WHO="S1"> can you see what i'm talking about it? this um, can you see the c- actually i can even see it from here, but you kinda have to get in there. i'd go sit on the floor over (xx) <U WHO="SU-f"> (xx) </U> yeah get in there on the floor, and you can see it. do you see that the the striations there on the face? </U>
+			<U WHO="SU-f"> and that's not just the screen? </U>
+			<U WHO="SU-f"> yeah, are you sure that's not just the screen? </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> no it's not the screen. </U>
+			<U WHO="SU-m"> maybe it's the f- photo. </U>
+			<U WHO="S1"> it could be the photo but i don't think so. cuz look they they're different. you know what i mean? they're slightly different. but look how he suggests her eyebrows, <U WHO="SU-m"> (xx) </U> and then her forehead </U>
+			<U WHO="SU-f"> why is there a line (xx) </U>
+			<U WHO="S1"> i think that's supposed to be the, a band a suggestion of a, um a band <EVENT WHO="SU-f" DESC="LAUGH"/> around her head. </U>
+			<U WHO="SU-f"> oh, okay. </U>
+			<U WHO="S7"> that's not gonna be good. </U>
+			<U WHO="SU-f"> is there a (graph) on the end? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="SU-f"> then that's just the s- </U>
+			<U WHO="SU-f"> yeah that's the (skull) </U>
+			<U WHO="S1"> now do you notice what happened with the Pieta uh um, not long well not long a- probably a long time ago now, eight ten years ago? someone walked into Saint Peter's where it is now in the Vatican, um and had a hammer <U WHO="SU-f"> ooh, no. </U> and and smashed the foot. i mean at least it was up i- on a, on a pedestal so that he couldn't she wasn't (xx) </U>
+			<U WHO="SU-m"> why? </U>
+			<U WHO="S1"> i don't know. </U>
+			<U WHO="SU-f"> people are stupid and do things like that. </U>
+			<U WHO="SU-m"> just the foot? </U>
+			<U WHO="SU-m"><OVERLAP> cuz when you see things that are beautiful you have an inherent desire to destroy them. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so now, this is very um, it's very difficult to uh, </OVERLAP> it's difficult to get close to they now have a big kind of bullet-proof box around it. </U>
+			<U WHO="SU-f"> (xx) beautiful people </U>
+			<U WHO="SU-m"> (xx) you know? </U>
+			<U WHO="SU-f"> some people are like psycho you know? </U>
+			<U WHO="S1"> yeah it is psycho. so <PAUSE DUR=":11"/> we'll give you some more details so that you can see um, how, um, how refined and detailed and suggestive you can get in sculpture. this is the head of Christ <PAUSE DUR=":04"/></U>
+			<U WHO="SU-m"> looks like a swashbuckler. </U>
+			<U WHO="S1"> and again notice the area around the neck and this time take a look at the um, at the hair. the detail in the hair, and again the eyebrows and Christ has a little, goatee... you know get i- in even closer, here's the left hand of the Virgin... and there you can see the joint, to a um, there is a part that he had to kind of um solder on, i don- not solder on i don't know how they did it they probably had some kind of a strut <OVERLAP> an iron strut. </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> i think they uh, they drill </OVERLAP></U>
+			<U WHO="S9"> a piece of metal. </U>
+			<U WHO="S7"> they drill a <OVERLAP> hole into it </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> a strut, yeah. yeah and then stick it in </OVERLAP></U>
+			<U WHO="S7"><OVERLAP> and then there's a metal </OVERLAP> rod and s- sorta stick it on. </U>
+			<U WHO="S4"> is that the only piece that one thumb, is the only piece that <OVERLAP> (was an unusual block?) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i think there are other places. </OVERLAP> i think there are other places but, but i mean look at wha- the other thin- this, what's so extraordinary about that hand is um how, alive it is, you know, and then take a look at the pads of flesh, on the palm, it's really amazing and the j- and the joints underneath, the, thumb and the thum- and the fingernails. it's really an extraordinary achievement and, the wrist, how the wrist um the delicacy of the wrist and how he suggests the veins and the, and the, um, the small bones of the wrist underneath it. it's really amazing. </U>
+			<U WHO="S4"> is that Mary's hand? </U>
+			<U WHO="S1"> yeah that's the Virgin's hand that's Mary's hand </U>
+			<U WHO="S4"> cuz the, it's a nice hand but the thumb is kind of masculine. maybe i'm just crazy. </U>
+			<U WHO="S2"><OVERLAP> no it's </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> it looks pretty it looks pretty big. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> no, </OVERLAP> it is big </U>
+			<U WHO="SU-m"> she's a big lady </U>
+			<U WHO="SU-m"> she's not that big </U>
+			<U WHO="S1"> yeah well she has to ha- she's got she's taken, <U WHO="SU-m"> yeah </U> this is a big guy in her lap, but <EVENT DESC="LAUGH"/></U>
+			<U WHO="S4"> but that one thumb is kind of, anachronistic, (xx) </U>
+			<U WHO="S9"> well i think all the fingers look kind of big. </U>
+			<U WHO="S1"> really? </U>
+			<U WHO="S4"> well maybe </U>
+			<U WHO="S9"> yeah, well i mean i'm not </U>
+			<U WHO="S4"> there's like a callous on her thumb? </U>
+			<U WHO="S9"> you know, i got big hands </U>
+			<U WHO="SU-m"> wait what do you mean that the <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> is that a callous </OVERLAP> on her thumb or is that the bone? </U>
+			<U WHO="S4"> no, but do you see that you see that ridge? kind of? </U>
+			<U WHO="S1"> show me on the slide just get up and show me on the </U>
+			<U WHO="S3"> you're right. he shouldn't have he shouldn't have finished this. <EVENT WHO="SU-m" DESC="LAUGH"/> (xx) started over. </U>
+			<U WHO="S4"> see? </U>
+			<U WHO="S2"> it's a reflection. </U>
+			<U WHO="S1"> he should've started all over. i think it's a reflection </U>
+			<U WHO="S2"> it looks like a reflection. </U>
+			<U WHO="SU-f"><OVERLAP> he should have </OVERLAP><U WHO="SU-f"><OVERLAP> piece of crap </OVERLAP></U> never finished this one either. </U>
+			<U WHO="S1"> naah, this wasn't very good. we'll send a letter to the Vatican. we'll send a letter to the Vatican. um, and and the other thing that you have to understand too is that Michelangelo did s- like well, most of the Renaissance artists study anatomy, he studied anatomy by dissecting corpses, um and so he knew, um, he knew very well what was underneath the flesh and he works very hard, to represent that. it's quite ana- what's what what it's analogous to, is um, you know when when Berger talks about the rise of illusionism again with with oil painting, and people tried very hard artists tried very hard to, to create the textures of things and the, the um exact color of things and deep space, a real illusion of, of the real world on the surface on the canvas. um, here Michelangelo is attempting to do that same kind of mimicking, but in sculpture. and he develops all sorts of techniques to do it. he's someone who brings it along, in an incredible way, i mean he's really a, a a person who, begins to um, kind of explain in stone what the human body is is all about. so <PAUSE DUR=":08"/> anyway the texture of marble is really special in that you can, um if you're good at it you can really mimic those effects. um, but it still has a quality that's all its own. um, you can kinda feel the coldness of it, um in a way. um, you can get a very highly polished surface. i wanna show you another um, subtractive work by a Renaissance artist, that's done not in marble but in stone. i'm sorry not in marble but in wood. <PAUSE DUR=":08"/> and here it is. this is um, Mary Magdalene. </U>
+			<U WHO="S3"> ooh. that is gross. </U>
+			<U WHO="S6"><OVERLAP> ooh. God dang. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> another Christian </OVERLAP> figure. </U>
+			<U WHO="S3"><OVERLAP> she looks like zombie. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> does anyone d- </OVERLAP> anybody wanna explain who Mary Magdalene is? does anybody know who Mary Magdalene is? </U>
+			<U WHO="S7"> she's a </U>
+			<U WHO="S4"> prostitute </U>
+			<U WHO="S2"> she's a whore. </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S7"> that Christ redeemed. </U>
+			<U WHO="S1"> tell tell the story, someone. </U>
+			<U WHO="S4"> she washed Jesus' feet with her hair </U>
+			<U WHO="S9"> and then with her tears </U>
+			<U WHO="S1"> she was what? </U>
+			<U WHO="S4"> and her tears. </U>
+			<U WHO="S4"> she was a she was like a you know, like a dirty old prostitute, and uh, </U>
+			<U WHO="S1"> a very old prostitute? </U>
+			<U WHO="SU-m"> well that's not what i said. </U>
+			<U WHO="S1"> i don't think she was an old prostitute when <OVERLAP> she met him. </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S9"> she just saw Jesus and wanted to be redeemed and cried and washed his f- his feet with her tears and her hair. and he redeemed her. <U WHO="S1"> alright. </U><OVERLAP> she repented. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so she's </OVERLAP> she's the prostitute that that, um, Mary that that's why she has long hair. and she the, so anyway she is the she's the prostitute who becomes a saint, um through, uh contact with Christ and through, a long period of repentance in the wilderness and what you see, is Donatello's image of Mary Magdalene after her years of rependan- repentance. and he uses not marble but wood, so that he can get a kind of a craggy quality, that you can't get with sculpture. let's see if i can </U>
+			<U WHO="S7"> did Michelangelo do any wood sculptures? </U>
+			<U WHO="S1"> what? i don't know. i don't know. there they did discover a wooden cross that some people claimed was by Michelangelo but i don't know. i mean, i don't know of any one that's kind of standard, you know what i mean? (we) just don't know... there are a lot of works that like there are a lot of Renaissance works that are lost. that we just don't know anything about. </U>
+			<U WHO="S4"><OVERLAP> do you know (where she lives?) </OVERLAP> she's gonna give me nightmares. </U>
+			<U WHO="S1"><OVERLAP> lemme, </OVERLAP> shut this down, so you can, see this better. </U>
+			<U WHO="S4"><OVERLAP> doesn't she look kind of undead? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> yes, definitely. (xx) eyes, or lack of. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> and, what you can see here </OVERLAP><OVERLAP> especially if you look at the eyes, the hollow of the eyes, </OVERLAP> and the, um, and the way the skin </U>
+			<U WHO="S4"><OVERLAP> looks like she stood </OVERLAP> up out of a swamp. </U>
+			<U WHO="S1"> is depicted. and the way her hair she's wearing a hair shirt, in addition to her hair to her long hair. but that, can you see how the texture of the wood really affects, the quality of the, sculpture, the kind of effect of the sculpture. </U>
+			<U WHO="S2"> the arm is so bizarre. <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so you really need when you're writing about sculpture </OVERLAP> and when you're doing sculptural analysis you have to take into um, account, the medium. okay let's take a look now at the additive process which is totally different it's, take a look. um, the additive process actually begins to, to get used um, really becomes popular. </U>
+			<U WHO="SU-f"> what did she say was popular? </U>
+			<U WHO="SU-f"><OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> alright. sorry. </OVERLAP> in the in the nineteenth century although, there were lots there were lots of, additive sculptures sculptures before that. but i'm gonna show you the example an example from the nineteenth century <PAUSE DUR=":17"/> take the (xx) this is by the nineteenth century sculptor Rodin R O D I N <PAUSE DUR=":04"/> and let's talk a little bit about how this demonstrates a- the additive, process. first of all you start um, by not taking away but by what's called modelling. um you add to rather than take away, you use malleable plastic material such as clay wax or plasticine which is clay mixed with wax and mineral oil, um, and that allows the artist really great freedom in building up and modifying the form. modelling is a lot, is really in some ways analogous to oil painting. you uh, have a chance, to fuss around with it you can change it you can, you know you can, you've got you've got time to work with this stuff, um, and mold it. um it takes another kind of strength but it doesn't have it doesn't, you know one thing about the modelling process actually i'll ask you if you can figure this out. one, what is the difference between, the tools that you would use for modelling, and, the tools that you would use for carving, and how does that affect how the artist does things? what do you get to do when you model? you've all modeled clay right? </U>
+			<U WHO="SS"> yeah. </U>
+			<U WHO="S7"> using softer tools. </U>
+			<U WHO="S1"> yeah you use you use well use softer tools what what <U WHO="SU-f"> hands </U> what's your main tool in the beginning? </U>
+			<U WHO="S7"> your hands </U>
+			<U WHO="SS"> hands. </U>
+			<U WHO="S1"> your hands yeah. and that makes a huge difference. the hands and what the hands, um, can do in fact if you look, closely on this you can actually see, the way you can on some oil painting when we looked at the Monet you can see the hands of the artist imprinted, in what used to be the clay and, let's see if we can, <OVERLAP> get you to come up close. </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> like around the right eye it looks </OVERLAP> like, <U WHO="S1"> yeah you can </U> the right eye and cheek. </U>
+			<U WHO="S1"> yeah, you can see, you know you can see him doing something like that. why don't you come up, close, closer? or look at the lip there's another place, where you can kind of see, so guys come on... get in there. </U>
+			<U WHO="SU-m"> you stay there and sit... </U>
+			<U WHO="SU-f"> do you see (xx) </U>
+			<U WHO="SU-m"> yes. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S1"> can you see him just taking his thumb, and doing some of those things? or his little finger? <EVENT WHO="SS" DESC="LAUGH"/> pressing it down, can you see? and can you see the things that are added on? like um, a beard yeah, the beard and the hair, you can see little patches of things that are just were kind of placed on. and you can see the, like that for the <PAUSE DUR=":06"/> or i'll put another book here guys go up there. </U>
+			<U WHO="S5"> do we just sit here? </U>
+			<U WHO="S1"> yeah just stay there if you want. just g- actually why don't you <OVERLAP> just stay there? </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> just chill here on the floor right here. </OVERLAP></U>
+			<U WHO="S1"> you know what you could sit on the floor if you want to move the table. does anybody wanna move the table? </U>
+			<U WHO="S9"> what do- it's not, i don't think it's a problem. </U>
+			<U WHO="S1"> it isn't? okay (xx) just sit up here and don't, go back. </U>
+			<U WHO="SU-m"> isn't this like sitting too close to the television screen. </U>
+			<U WHO="S1"> no it isn't. <EVENT DUR=":06" DESC="BACKGROUND CONVERSATION"/> lemme show you another one. <PAUSE DUR=":09"/><EVENT WHO="SS" DESC="LAUGH"/> okay, so what happens is that you get this clay wax or plasticine and you make this um, figure in clay alright? and the hands themselves are the primary tool right? for big works like this one this is um, a portrait of Balzac B A L Z A K, Z A C the scul- the uh, sorry the writer the nineteenth century writer, by Rodin. and for big things like this you need what's called an armature should i spell that for you? A R M A T U R E an armature which means that you have some kind of a support system, on which you can build the clay and lemme show you, i'll show you an armature, here. here's a sculpture that you co- where you, actually can see the armature. there. this is a sculpture by Degas, which is, Degas the French, impressionist painter which never got finished, but you can see that he had um, that he was building up his clay around this armature. do you see that? and then there's the the strut. so he would've had one um he would've had one in the leg and one in the leg and this would've probably had, an armature as well. </U>
+			<U WHO="S7"> so would he, would he uh, would he have have ended up cutting that hole that's sticking into her hip away? </U>
+			<U WHO="S1"> i think so, but it looks like sh- it's the it's at the point where <U WHO="SU-f"><OVERLAP> Beth (xx) </OVERLAP></U><OVERLAP> where he certainly couldn't. </OVERLAP> what? </U>
+			<U WHO="S9"> oh n- nothing nothing. i was just, it's a big mean cat. </U>
+			<U WHO="SU-m"> that is a big mean cat. <OVERLAP> oh my god, i didn't see that (xx) that's vicious. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> but see you can see, the thing is that, that you have to make the sculpture </OVERLAP> so it can be free standing. that's a kind of a problem. you've gotta get it balanced right. so the armature helps. i mean i, likely he would have it cut away. </U>
+			<U WHO="S7"> what's going on behind it? what's that white stuff? </U>
+			<U WHO="S1"> oh i think it's the slide. don't you think? i don't know i'm not sure. </U>
+			<U WHO="SU-f"> yeah it looks like it's (xx) </U>
+			<U WHO="S1"> i think it's the slide. <U WHO="S4"> it's glue </U> but can you also see on the Degas the the um, the kind um of fingerprints of the artist? </U>
+			<U WHO="SU-m"> on the Degas this one? </U>
+			<U WHO="S1"> yeah on the Degas, The Dancer. you can see the fingerprints of the artist, and how he's <OVERLAP> molding </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> what is </OVERLAP> that medium there? is that clay? </U>
+			<U WHO="S1"> what? no this is actually bronze. we're gonna talk about it. what happens is that, the clay of course isn't gonna last, right? so you have to cast it you have to do something with it and i'll, show something in just a minute wait. </U>
+			<U WHO="S9"> aren't almost all these hollow? </U>
+			<U WHO="S1"> hollow? a <OVERLAP> bronze? </OVERLAP></U>
+			<U WHO="S9"><OVERLAP> yeah shouldn't </OVERLAP> they be hollowed so that </U>
+			<U WHO="SU-m"> yeah you have to hollow it so it doesn't blow up </U>
+			<U WHO="S9"> yeah </U>
+			<U WHO="S1"> yeah. the bronze. now this isn't. this is not bronze, this is plaster, and we're gon- i'll let me, explain that, that, how that works. </U>
+			<U WHO="SU-m"> i'll be damned if that's hollow. </U>
+			<U WHO="SU-m"> you're a wise guy. </U>
+			<U WHO="SU-m"> that thing's massive. (xx) </U>
+			<U WHO="SU-f"> why, there could be like a wire frame underneath. </U>
+			<EVENT DUR=":05" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S1"> okay. so the fa- after you've modeled the um, after you've modeled the wax, or the whatever it is the clay you're gonna do. the next thing that you do, is you're gonna cast, the sculpture in plaster. that's the first step. and that's what you're seeing up on the board, on the board, on the screen, over on the right... so, it's and the plaster cast um, is going to be used to make the final work, in bronze. a plaster cast is a lot more durable and easier to handle than, clay or wax. so, what happens is that when the clay or wax or plasticine model is ready, plaster of paris is used to form a mold, the mold is then cast in bronze or some other durable material. so what you're seeing, there is the plaster mold, on the right side, or left side. <U WHO="SU-m"> where where? </U> on your, your ri- left. you're seeing the plaster mold, that Rodin used to cast, uh his final bronze project, his final bronze sculpture. so, and you know what casting is. do you know what casting is? <U WHO="SU-f"> mhm </U> Taylor explains it, it's you give shape to a substance by pouring in in a liquid or plastic form into a mold and letting it harden. so molten bronze is poured into this, into this mold and then it's left to harden and then the plaster is, chipped away and you have um, you have your you have your sculpture. so lemme show you the, the finished product here. </U>
+			<U WHO="SU-m"> this is stupid <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="SU-m"> get over the cat. </U>
+			<U WHO="SU-f"> i don't see the cat. show me the cat. </U>
+			<U WHO="SU-m"> i see the cat. <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> yeah </OVERLAP> (xx) </U>
+			<U WHO="SU-f"> show me the cat. </U>
+			<U WHO="S8"> little funny nose of cat, mouth of cat chin is open <U WHO="SU-m"><OVERLAP> he's smiling </OVERLAP></U><OVERLAP> that's like little </OVERLAP> eye of cat. </U>
+			<U WHO="SU-m"> that's a smile? </U>
+			<U WHO="SU-m"> i see a totally <OVERLAP> different cat. </OVERLAP></U>
+			<U WHO="S8"><OVERLAP> i don't know. </OVERLAP> (xx) <OVERLAP> there's multiple cats. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay here's the final product in bronze. </OVERLAP></U>
+			<U WHO="SU-m"> looks pretty hungry to me. </U>
+			<U WHO="S4"> man that's the <OVERLAP> ugliest thing </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> does anybody know where this is? </OVERLAP></U>
+			<U WHO="SU-m"> oh that's bad. </U>
+			<U WHO="SU-f"> yeah (it just looks) really awful. </U>
+			<U WHO="S4"> is that that in <U WHO="S1"> guys, </U> Amsterdam? </U>
+			<U WHO="S1"> does anybody know where this is? </U>
+			<U WHO="S4"> Amsterdam </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S4"> Germany </U>
+			<U WHO="S1"> nope. no. </U>
+			<U WHO="SU-f"> not Michigan. </U>
+			<U WHO="S1"> no not Michigan. do you recognize, you don't recognize the background? </U>
+			<U WHO="S4"> is it New York? </U>
+			<U WHO="S1"> yes. <EVENT DESC="SINGING"/> and that brings up the next, thing that you have to consider with sculpture. you not only have to consider, that sculpture is three dimensional and that you have to go all around it but the other thing that you have to consider about sculpture is site. the site of it, where is it? because the site makes a huge difference in the impact of the sculpture. this is, the Balzac, um cast bronze Balzac in New York. um in the Sculpture Garden of the Museum of Modern Art. and what's around him, makes him look, um, i don't know rather heroic i think. or like a very um, eccentric sight seer. um </U>
+			<U WHO="S4"> well see in the picture on the left it's such an ugly sculpture. <U WHO="S1"> yeah? </U> while in the picture on the right compared to like the drab skyline and like the the scraggly trees, <U WHO="S1"> mhm </U> it doesn't look quite so so terrible. </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="S6"> how, how tall is this? </U>
+			<U WHO="S1"> how tall is this? life size. a little bit more than life size actually. now the thing, the thing of how, the um casting is that you can actually cast a whole bunch of things. i mean you can, once you've got you've got a mold you can cast a whole, number of things. and so there're more than one bronze Balzacs all around <U WHO="SU-m"> ah </U> there's one in Paris, in the middle of uh in at the Place de la Republique. there's one um, on the terrace of Rodin's old house and i'm gonna show that to you, oops i just dropped this. <PAUSE DUR=":19"/></U>
+			<U WHO="SU-f"> i can't see the cat. </U>
+			<U WHO="SU-f"> i can't describe it to you. </U>
+			<U WHO="SU-f"> it's okay. it's scary. </U>
+			<U WHO="SU-m"> well there's two cats. </U>
+			<U WHO="S2"> yeah, there are two cats. i see another cat that's facing the other direction. that's like </U>
+			<U WHO="SU-f"> that's like tuna o- with on his cheek. </U>
+			<U WHO="SU-f"> yeah that's the big scary cat. </U>
+			<U WHO="SU-f"> i can't see </U>
+			<U WHO="S2"> whatever she's trying to find something. </U>
+			<U WHO="SU-f"> oh. </U>
+			<U WHO="S1"> guys you're like, this is like camp. i'm telling you <EVENT WHO="SS" DESC="LAUGH"/> they should, you know like a, i oughta light a fire up there we could all sing songs. <EVENT DESC="LAUGH"/> so there is um there's there's there's the um there's the Balzac sculpture standing overlooking the terrace of, um </U>
+			<U WHO="S4"> Rodin's house? </U>
+			<U WHO="S1"> Rodin's house, yeah in Meudon, which is in, in France M E U D O N so you can go visit it there too. in addition to the Sculpture Garden. so site is really important. and site participates in, what comes to be the iconography of the sculpture. i'm gonna ask you now a question. do any of you know the um i don't have a slide of it but do any do any of you know the sculpture that's on the grounds of Rackham? <U WHO="SU-m"> sorry? </U> of the Rackham Grad School? </U>
+			<U WHO="S4"> the thing the fre- the one on the building, on the side? </U>
+			<U WHO="S1"> no. well yeah the one on the side. </U>
+			<U WHO="S6"> the Holocaust one? </U>
+			<U WHO="S1"> the Holocaust one. right. <U WHO="S2"> yeah </U> do you know the Holocaust one? </U>
+			<U WHO="S6"> yeah. <U WHO="S2"> yeah. </U> where he's holding his hand? </U>
+			<U WHO="S1"> yeah where he's holding his hand so it's a it's a it's a monument to the Holocaust, and it's on the grounds of Rackham. now, why why do you think that site was chosen? </U>
+			<U WHO="S4"> was Rackham Jewish? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="S4"> uh </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> where is it? </U>
+			<U WHO="S6"> next to Rackham <U WHO="S1"><OVERLAP> it's on the grounds of Rackham </OVERLAP></U><OVERLAP> across the street from the Power Center. </OVERLAP> the (Rackham Center.) </U>
+			<U WHO="SS"> oh, okay </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1"> why would they put it there? </U>
+			<U WHO="SU-m"> most people would see it </U>
+			<U WHO="SU-m"> it's a nice place for a cemetery. </U>
+			<U WHO="SU-f"> space. um, so a high viewing, <OVERLAP> like (xx) </OVERLAP></U>
+			<U WHO="S6"><OVERLAP> cuz like </OVERLAP> the garden, that it's in is uh, i don't know. something to do with the garden? </U>
+			<U WHO="S1"> mhm. think. </U>
+			<U WHO="SU-f"> light? </U>
+			<U WHO="S1"> no. well part- i mean partly. think of what what what do you think that ground, what do you think that ground could've been? </U>
+			<U WHO="SU-m"> dirt. </U>
+			<U WHO="S1"> dirt is good. </U>
+			<U WHO="S4"> uh maybe it was uh well you know East Quad was used for by the army during World War Two for Japanese language training so maybe they did something over there (the army) </U>
+			<U WHO="S1"> could be, yeah that could be. <OVERLAP> that could be. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> was it a grave? </OVERLAP></U>
+			<U WHO="S1"> what about ground though? think about ground. </U>
+			<U WHO="S4"> are there people <OVERLAP> buried there? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> maybe i'm </OVERLAP> maybe i'm not giving you enough hints. what? </U>
+			<U WHO="SU-f"> was it a grave? </U>
+			<U WHO="SU-f"> like yeah graves, like a burial ground. </U>
+			<U WHO="SU-m"> what? </U>
+			<U WHO="SU-m"> and flowers grow up out of graves </U>
+			<U WHO="SU-m"> that's not (mean) you can't just bury people wherever you want. </U>
+			<U WHO="S1"> what kind of a gr- what kind of a graveyard do you think it would be, have been? </U>
+			<U WHO="SU-f"> unmarked? </U>
+			<U WHO="S4"> is it a mass grave? </U>
+			<U WHO="S1"> no. <EVENT WHO="SS" DESC="LAUGH"/> no they didn't have, </U>
+			<U WHO="SU-f"> they just found it and they're like <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> (well) we killed all those Indians </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> not that i </OVERLAP> know of... what kind of a cemetery might it have been? </U>
+			<U WHO="S4"> a Jewish cemetery? </U>
+			<U WHO="S1"> excellent. </U>
+			<U WHO="S2"> it was a Jewish cemetery <OVERLAP> (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah. </OVERLAP> it's the old Jewish ceme- it's the site of the old Jew- <EVENT DESC="BACKGROUND CONVERSATION"/> it's the site of the old Jewish cemetery in Ann Arbor. </U>
+			<U WHO="SU-f"> okay. </U>
+			<U WHO="S9"> okay so, <U WHO="SU-m"> weird </U> what happened to the bodies? </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S9"><OVERLAP> are they still there? </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> are they still there? </OVERLAP></U>
+			<U WHO="S1"> wh- say that again. </U>
+			<U WHO="S9"> did they move the bodies or are they still there? they just like, took out the graves or something? </U>
+			<U WHO="S1"> i don't, i really don't know. i think it's built over i mean y- all well you know i think </U>
+			<EVENT DUR=":07" DESC="UNINTELLIGIBLE SPEECH"/>
+			<U WHO="S4"> tha- that's the kind of information like you could go your whole life without knowing. <EVENT DESC="LAUGH"/></U>
+			<U WHO="S1"> that's true. but now once i tell you that though doesn't that doesn't that affect your perception of the sculpture or no? or when you walk past the sculpture are you not gonna feel different about it or no? </U>
+			<U WHO="S2"> actually probably. </U>
+			<U WHO="S9"> yeah i'll probably feel different about it and, </U>
+			<U WHO="S3"> i don't think i will. <EVENT WHO="SU-f" DESC="LAUGH"/></U>
+			<U WHO="S1"> okay. what? what did Zack say? </U>
+			<U WHO="S3"> no because it's, in either case it's still a chilling reminder of, tragedy. <U WHO="S1"> yeah </U> grave or or... i mean because it's kin- in a way it's kind of a tombstone, <U WHO="S1"> yeah. </U> for Raoul Wallenberg. </U>
+			<U WHO="S1"> yeah. yeah it's a and that's the other connection too. you wanna talk about that Raoul Wallenberg? </U>
+			<U WHO="S3"> hm? </U>
+			<U WHO="S1"> Raoul Wallenberg. </U>
+			<U WHO="S3"> um i don't know briefly he was an architecture student at the University of Michigan from, was it Hungary? i forget where but, regardless he was from Europe <OVERLAP> and, his </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> i think it's Sweden. </OVERLAP></U>
+			<U WHO="S3"> huh? </U>
+			<U WHO="S1"> wasn't it Sweden? </U>
+			<U WHO="S3"> it might've been Sweden i, i completely can't <OVERLAP> remember. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> yeah okay well </OVERLAP> whatever. </U>
+			<U WHO="S3"> anyways so um, he was called back to Europe, to be at some kind of administrative assistant in, the embassy. and he used that position to help funnel Jews out of Europe into the United States. <U WHO="S1"> yes. </U> and, it's believed that he died in a uh, Russian prison camp, but they don't know. </U>
+			<U WHO="S1"> yeah, but he got thousands of, Jews out. </U>
+			<U WHO="S4"> all the Scandinavians were doing stuff like that, the Swedish and the uh, Finnish I think. weren't they all smuggling Jews? </U>
+			<U WHO="S1"> they were taking 'em in yeah and they were taking 'em in, <OVERLAP> and hiding them </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> the Norwegians that's it </OVERLAP></U>
+			<U WHO="SU-f"> it was the Danish. </U>
+			<U WHO="S4"> and the Danish. </U>
+			<U WHO="S1"> and hiding them. <U WHO="S4"> (xx) </U> okay. so it's important to know it's important to know when you're considering the meaning of a sculpture that is the iconography of a sculpture you need to n- not only know what the sculpture is of, or about, but where it's placed and why it's placed there. because usually there's a reason for why a sculpture is put in a certain place. there's usually a pretty good reason for why. so, what i'm gonna do is i'm gonna give you a little um, test case here, <U WHO="SS"><OVERLAP> test? </OVERLAP></U><EVENT WHO="SS" DESC="LAUGH"/><OVERLAP> i'm gonna give you some hints </OVERLAP> and i, <EVENT DESC="LAUGH"/> i'm gonna give you some hints about this, okay? i'm gonna give you some hints about it and what i'm hoping to do is that if i give you i'm trying to give you just enough hints and show you just enough so that you can figure out, what the site why the site is what it is. <U WHO="S2"> okay. </U> okay? alright. so what i'm gonna show you is if anybod- this is a sculpture by an Ital- an Italian, it's done in the seventeenth century. it is a sculpture for a fountain. and the fountain is called the fountain of the four rivers. so and it's in this place in Italy called the Piazza Navona. </U>
+			<U WHO="S4"> Piazza Devona? </U>
+			<U WHO="S1"> Piazza Navona <U WHO="S4"> oh Navona. </U> i'm gonna put it on the board so that if you go there_ also there's this great restaurant right near it called the Tre Scalini, and they serve these fabulous things called chocolate tartufo. </U>
+			<U WHO="S4"> scalini </U>
+			<U WHO="SU-m"> are we supposed to be doing that? </U>
+			<U WHO="S4"><OVERLAP> scalini </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> it's really good. </OVERLAP></U>
+			<U WHO="S1"> so i'll also put the restaurant down. Navon- oops <EVENT DUR=":06" DESC="PAUSE WHILE WRITING ON BOARD"/> the restaurant is Tre Scalini. okay. </U>
+			<U WHO="SU-m"> (so i'm gonna strip) to New York </U>
+			<U WHO="S1"> okay so lemme show you, God this is gonna make a lotta noise. <PAUSE DUR=":14"/> okay here's a long view of this fountain called the fountain of the four rivers. and this is just the piazza or plaza, where it's located but take it in okay? </U>
+			<U WHO="S4"> oh i've seen that. </U>
+			<U WHO="SU-f"> we're twins. (xx) </U>
+			<U WHO="S1"> no, wait a minute. </U>
+			<U WHO="S4"> yeah isn't that McDonald's right behind, is that across the street from the Parthenon? </U>
+			<U WHO="S1"> okay so it's in this piazza and just notice can you just try to notice the buildings around it? and notice also that it is a fountain. okay? </U>
+			<U WHO="S4"> oh yeah. i haven't seen this one. </U>
+			<U WHO="S1"> here's another view of the piazza. </U>
+			<U WHO="SU-f"> i'm not sure i understand this (xx) </U>
+			<U WHO="SU-m"> perversion </U>
+			<U WHO="SU-f"> perversion </U>
+			<U WHO="SU-f"> sexual immortality </U>
+			<PAUSE DUR=":07"/>
+			<U WHO="S1"> okay, four major rivers of the world. four rivers of the world, are represented on this fountain. here's the first one this is the Nile. they're personifications of each of the rivers. </U>
+			<U WHO="SU-f"> whoa that's awesome. </U>
+			<U WHO="S1"> this is Nile. okay? <PAUSE DUR=":04"/> then you have, hold on <PAUSE DUR=":07"/></U>
+			<U WHO="SU-m"> he's like i can't get my shirt off. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S1"> what? </U>
+			<U WHO="SU-f"> nothing. </U>
+			<U WHO="S4"> he said that the guy's saying i <OVERLAP> can't get my shirt off. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> you guys </OVERLAP> alright listen. and this is the Ganges, another river. </U>
+			<U WHO="SU-f"> which one (are you getting) </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SU-f"> that's a <OVERLAP> big (damn castle) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> that looks like Danube. </OVERLAP> i think this is the Danube wait a minute. </U>
+			<U WHO="S4"> yeah must be the Danube because they're not, i don't think that (xx) </U>
+			<U WHO="S1"> no it's the Ganges. </U>
+			<U WHO="SU-f"> oh. oh my god. </U>
+			<U WHO="S4"> well actually that's not true (xx) </U>
+			<U WHO="SU-f"> yeah seriously. </U>
+			<U WHO="S1"> yup. this is the Ganges. </U>
+			<U WHO="SU-m"> (xx) cheese on it </U>
+			<U WHO="SU-f"> and ketchup </U>
+			<U WHO="SU-f"><OVERLAP> why does it have a big hole? </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> is that is that a serpent? </OVERLAP></U>
+			<U WHO="SU-f"> in the middle of the guy's head </U>
+			<U WHO="S1"> mkay lemme give you the other one. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="SU-f"> you're such a (dumb ass.) </U>
+			<U WHO="S4"> who said that? </U>
+			<U WHO="SU-f"> Olivia. </U>
+			<U WHO="S2"> oh shut up. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S1"> okay you guys, this is the Danube. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S6"> who made this? it's missing a finger. </U>
+			<U WHO="SU-m"> yeah who did make this? </U>
+			<U WHO="SU-f"> wait there's somebody in the fountain. </U>
+			<U WHO="SU-f"> yeah there is. </U>
+			<U WHO="SS"> (this is) a child. </U>
+			<U WHO="SU-m"> it's a little child. </U>
+			<U WHO="S1"> okay and this is the fourth and, final river the Plata. <EVENT WHO="SU-f" DESC="LAUGH"/></U>
+			<U WHO="SU-f"> okay. </U>
+			<U WHO="S4"> wait what river is that Beth? </U>
+			<U WHO="S1"> alright guys cut it. </U>
+			<U WHO="S4"> Beth what river is that? </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S4"> what's the fourth river? </U>
+			<U WHO="S1"> this is the Plata. </U>
+			<U WHO="SS"> what? </U>
+			<U WHO="S1"> the Plata River. </U>
+			<U WHO="S4"> no Amazon. </U>
+			<U WHO="SU-m"><OVERLAP> what is that? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay. the Plata River. </OVERLAP></U>
+			<U WHO="S4"> no Mississippi. </U>
+			<U WHO="S1"> there's no Mississippi. </U>
+			<U WHO="S5"><OVERLAP> okay (it was all) (xx) Nile? </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> so there's the Nile, now think </OVERLAP> about this. </U>
+			<U WHO="S5"> okay </U>
+			<U WHO="S1"> listen to this. there is the Nile, </U>
+			<U WHO="S5"> yes. </U>
+			<U WHO="S1"> which is where? </U>
+			<U WHO="S5"> in Egypt </U>
+			<U WHO="SU-f"> Africa. </U>
+			<U WHO="S1"> there's the Ganges. </U>
+			<U WHO="S4"> India. </U>
+			<U WHO="SU-m"> India </U>
+			<U WHO="S1"> India. there's the Danube. </U>
+			<U WHO="SU-m"> Turkey. no? </U>
+			<U WHO="S1"> Danube. <EVENT DESC="SINGING"/> da da da da dum, bum bum, bum bum </U>
+			<U WHO="SU-f"> none of us know it so you can just like tell us </U>
+			<U WHO="SU-f"> Germany </U>
+			<U WHO="SU-m"> yeah it's the Blue Danube. we know the song. (just tell me where it is) </U>
+			<U WHO="S1"> where is the Blue Danube? </U>
+			<U WHO="SU-f"> Austria. </U>
+			<U WHO="SU-m"> (she's) got a correct answer </U>
+			<U WHO="S1"> Austria. excellent. it's in Vie- it flows through Vienna but it also is in Hungary, okay the Danube and the Plata. where is the Plata? </U>
+			<U WHO="S4"> Spain. </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S4"> Spain? </U>
+			<U WHO="S1"> nope. </U>
+			<U WHO="SU-f"> Italy? </U>
+			<U WHO="SU-m"> France? </U>
+			<U WHO="S4"> Italy? </U>
+			<U WHO="S1"> nope. </U>
+			<U WHO="SU-f"> what is the r- name? </U>
+			<U WHO="S1"> the Plata. P L A T A </U>
+			<U WHO="S6"> South America. </U>
+			<U WHO="S4"> Greece </U>
+			<U WHO="S1"> someone said it. </U>
+			<U WHO="SU-f"> Greece? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="SU-f"> South America? </U>
+			<U WHO="S1"> South America. okay so what do you have, represented in these four rivers? think of it. think about it. </U>
+			<U WHO="SU-m"> (eight) countries </U>
+			<U WHO="S2"> all (xx) </U>
+			<U WHO="S1"> yeah. </U>
+			<U WHO="S2"> global global representation </U>
+			<U WHO="SU-m"> wait they (have) the Plata, but not the Amazon. </U>
+			<U WHO="SU-m"> yeah i know </U>
+			<U WHO="SU-m"> what (are) they thinking? </U>
+			<U WHO="S1"> well they decided on the Plata. so you've got one thing in South America, one thing in Egypt, one thing in Europe, and one thing in Asia, all four continents. or fiv- well they don't have anything in Greenland. <U WHO="SU-m"> or North America. </U> what's the fifth i never know what what's </U>
+			<U WHO="SS"> Antarctica. </U>
+			<U WHO="S1"> Antarctica. they don't have it. but all inhabited continents are represented. <U WHO="SU-m"><OVERLAP> no Australia isn't (xx) </OVERLAP></U><OVERLAP> and i want you to </OVERLAP> especially take a look at these two figures and what they're doing. what are they doing? </U>
+			<U WHO="SU-m"> are they playing hide-n-seek? </U>
+			<U WHO="SU-f"> falling. </U>
+			<U WHO="S1"> falling. okay. do they seem to be_ what do they seem to be doing? </U>
+			<U WHO="S4"> no they're playing. </U>
+			<U WHO="S1"> they're playing? </U>
+			<U WHO="S4"> all four of them are playing a game. </U>
+			<U WHO="SU-f"> what happened to his finger? </U>
+			<U WHO="S1"><EVENT DESC="LAUGH"/> they're playing beach ball, no. no they aren't playing beach ball. </U>
+			<U WHO="SU-f"> they're playing beach volleyball </U>
+			<U WHO="S1"> okay, i'm gonna give you another hint, <U WHO="SU-f"> okay </U> just a minute. </U>
+			<U WHO="S7"> who, who created this sculpture? </U>
+			<U WHO="S1"> i'll tell you later. </U>
+			<U WHO="S7"> i guess that's why they shoulda (planned this) (xx) (any other time) </U>
+			<U WHO="SU-f"> (i'm) gonna give it away. </U>
+			<U WHO="S2"> maybe that's the secret. </U>
+			<EVENT DUR=":04" DESC="BACKGROUND TALKING"/>
+			<U WHO="SU-m"> what's wrong with the Plata guy's head. is that his ear in the front of his head? </U>
+			<U WHO="SU-f"> yeah, i can't figure that out. (xx) face. it's his face he looks like a monkey like he's looking up and (xx) </U>
+			<U WHO="S1"> okay what are they doing? </U>
+			<U WHO="SU-f"> looking at the sun? </U>
+			<U WHO="S4"> oh is that the Basilica? </U>
+			<U WHO="SU-f"> no. </U>
+			<U WHO="S1"> good. </U>
+			<U WHO="S4"> it is? </U>
+			<U WHO="S2"> it is? </U>
+			<U WHO="S1"> yes it's a church it's a choich, it's a church. </U>
+			<U WHO="S4"> are they all scared </U>
+			<U WHO="SU-f"> oh they're scared of (xx) they're bowing down to the divine </U>
+			<U WHO="S4"> yeah they're all they're all um, prostrating themselves to the, the Christian diaspora. </U>
+			<U WHO="S1"> well i don't know about the di- yeah well they they are <OVERLAP> the Christian i mean they are they are </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> you're trying to sound smart. </OVERLAP></U>
+			<U WHO="S1"> they are </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> that would take too much effort. </U>
+			<EVENT WHO="S1" DESC="LAUGH"/>
+			<U WHO="S1"> the church, alright the church that you're seeing, that they're all looking up at so o- so so thrilled by or whatever, um is the church that you're seeing is the church of Saint Agnes, <FOREIGN> Saint Agnesi </FOREIGN> um, and, it is, uh a church that has that is particularly associated with something, aside from the Catholic Church, it does something what does it do? i mean this this, <OVERLAP> can you think of what it might be? </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> is St. Agnes the patron saint of </OVERLAP> something? </U>
+			<U WHO="S1"> no. </U>
+			<U WHO="SU-m"> sends over missionaries. </U>
+			<U WHO="SU-m"> missionary? </U>
+			<U WHO="S1"> someone said it. </U>
+			<U WHO="SU-m"> missionary? missionary? </U>
+			<U WHO="S1"> you got it. <U WHO="SU-m"><OVERLAP> yeah. yeah. </OVERLAP></U><OVERLAP> they were </OVERLAP> it's a missionary church. </U>
+			<U WHO="S4"> oh. </U>
+			<U WHO="SU-m"> wait. Beth, what's the deal with this Plata, the head on him? </U>
+			<U WHO="S1"> he's looking up. he's looking up. </U>
+			<U WHO="SU-m"> what? </U>
+			<U WHO="SU-f"> where's his face? </U>
+			<U WHO="SU-m"> where? </U>
+			<U WHO="SU-m"> he's bald but he has a beard. </U>
+			<U WHO="S9"> there's his nose, there's like his, ears, <U WHO="SS"> oh oh. </U> and that's his eye, (xx) </U>
+			<U WHO="SU-f"> so that's his chin that's like, facing (the sky) </U>
+			<U WHO="SU-m"> so i thought that was his i thought that was his face down there. </U>
+			<U WHO="SU-f"> right there? </U>
+			<U WHO="SU-m"> he's bald. </U>
+			<U WHO="SU-f"> lookit, isn't that the back of him? </U>
+			<U WHO="S1"> yeah. that's the back of him. </U>
+			<U WHO="SU-f"> yeah. </U>
+			<U WHO="SU-m"> no no he's, he's bald. cuz see yeah, that's the back of his head. </U>
+			<U WHO="S1"> so he's looking up at the church he's looking up at the church, and there happens to be an obelisk i mean i can't, i don't have the slides with_ there's happens to be an obelisk in the center and on the obelisk is the insignia of the pope. <U WHO="SU-f"> oh. </U> okay? so the thing about this is that in the seventeenth century you got it i mean you basically got it, there was there was um, a real, uh push, to um send missionaries all around the world, and make countries Catholic. or convert, convert the heathen. and um, </U>
+			<U WHO="S4"> doing the Lord's work. </U>
+			<U WHO="S1"> do the Lord's work, right. </U>
+			<U WHO="SU-f"> did you see The Simpsons? </U>
+			<U WHO="S1"> and so what happens is that the <U WHO="SS"> Jesus. </U> these figures <U WHO="SU-m"> yeah </U> these figures are reacting ar- they represent the four the four rivers of, the world, all overwhelmed, by, the church. now, do you remember there's one figure that's not looking up? </U>
+			<U WHO="S4"> yeah the first one. </U>
+			<U WHO="SU-f"> Egypt </U>
+			<U WHO="SU-m"> yeah. the Nile. </U>
+			<U WHO="S4"> the Nile. yeah </U>
+			<U WHO="S1"> the Nile. the Nile. what was what's going on with the Nile? </U>
+			<U WHO="SU-f"> denial, of the church. </U>
+			<U WHO="SS"> the Nile's in denial. <EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="S1"> denial of the church that's right. </U>
+			<U WHO="SU-f"> oh my god, that was so bad </U>
+			<U WHO="SU-m"> that was terrific. </U>
+			<U WHO="SU-f"> oh God. the Nile's in denial. </U>
+			<U WHO="S1"> okay let's go back one and find him </U>
+			<U WHO="SU-f"> i'm sorry i'm very tired. i can't help it. </U>
+			<PAUSE DUR=":09"/>
+			<U WHO="S1"> here is the Nile, and you'll notice that the Nile has a cover over his head. right? <U WHO="SU-m"> blind. </U> he is still in the dark. </U>
+			<U WHO="S2"> oh he hasn't seen the light. </U>
+			<U WHO="S1"> no, he hasn't seen the light. he's not able to see the light. </U>
+			<U WHO="S2"> how come? </U>
+			<U WHO="S4"> cuz he's not converted yet. </U>
+			<U WHO="S1"> cuz they aren't converted yet. </U>
+			<U WHO="S2"> so the other ones were converted already? </U>
+			<U WHO="S1"> well i think they thought <U WHO="SU-m"><OVERLAP> they were doing pretty good. </OVERLAP></U><OVERLAP> they were making inroads </OVERLAP> on the other <EVENT DESC="LAUGH"/> ones, but they weren't do- weren't doing weren't doing so well in </U>
+			<U WHO="S4"> but they got the obelisk. </U>
+			<U WHO="S1"> they did get the obelisk that's <EVENT DESC="LAUGH"/> right. but the inroads_ they were not doing </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S4"> you know you know that there's like something sort of like this in front of the Pantheon, in Rome </U>
+			<U WHO="S1"> mhm, <OVERLAP> (there's a) fountain. </OVERLAP></U>
+			<U WHO="S4"><OVERLAP> it's like, </OVERLAP> no it's not a fountain it but it's an obelisk with like a cross on top, it's all and like something underneath like, it's empire on top of empire on top of empire and, the great part is that they built a McDonald's behind it. </U>
+			<U WHO="SU-f"> oh God. </U>
+			<U WHO="S1"> another (iconograph) </U>
+			<U WHO="S4"> so i wrote a paper about the imperialism of McDonald's. </U>
+			<U WHO="S1"> there you go. that's it. that is McDonald's. so the important thing is you need to find out, not only kinda what's going on in the sculpture but what is the relationship to the site. that's really really mucho important. okay and that concludes our very exciting discussion of sculpture, today, the last day before, <U WHO="SU-m"> woohoo </U> spring, <U WHO="SU-f"> spring break </U> vacation. <U WHO="SU-f"> yea </U> on Saturday <U WHO="SU-f"><OVERLAP> do we get our papers back? </OVERLAP></U><OVERLAP> we're off </OVERLAP> now (then you) get your papers back. what? </U>
+			<U WHO="SU-f"> do you have any extra sheets on the next writing assignment? </U>
+			<U WHO="S1"> extra sheets on the next assignment. i should have them in my book but if i don't, lemme, hang on and lemme, oh jeez <EVENT DESC="LAUGH"/><EVENT WHO="SS" DESC="LAUGH"/></U>
+			<U WHO="SU-f"> it's a good thing i'm so nimble. </U>
+			<U WHO="S1"> this is probably the weirdest class you've ever been to. </U>
+			<U WHO="R1"> oh no i was an R-C student. </U>
+			<U WHO="SU-m"> oh my god. </U>
+			<U WHO="S1"> oh really you were? oh okay, so you know... so where's everybody going for spring vacation? </U>
+			<U WHO="SU-f"> Paris </U>
+			<U WHO="SU-m"> Amsterdam </U>
+			<U WHO="SU-m"> i'm going to, i'm going to Virginia, and New York City </U>
+			<U WHO="S1"> is someone really going to Amsterdam? cool. are you going Brody? </U>
+			<U WHO="SU-m"> yeah. </U>
+			<U WHO="S1"> oh i wanna show you Brody's </U>
+			<U WHO="S2"> you're going to Amsterdam? </U>
+			<U WHO="S1"> Brody did this great cover for his um, <U WHO="S2"><OVERLAP> (xx) New York. </OVERLAP></U> for his paper, wait. but where is my ba- here it is </U>
+			<U WHO="S2"><OVERLAP> who else is going to Amsterdam? </OVERLAP> i'm going to Spain (xx) yeah but (knowing them) (xx) </U>
+			<U WHO="SU-f"><OVERLAP> you already knew (xx) </OVERLAP></U>
+			<U WHO="S2"><OVERLAP> i swear cuz like (xx) </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> oh we get to see your cover. </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> are you flying for three hundred dollars? </OVERLAP> how much are you flying for? </U>
+			<U WHO="SU-m"><OVERLAP> i'm flying for three hundred and fifty dollars? </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> that's alright. </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> yeah Brody. i'm excited. </OVERLAP></U>
+			<U WHO="S12"><OVERLAP> it's a psychedelic paper. (six whole) pages of drooping really psychedelic (xx) gibberish. that's exactly what i (eat.) actually i love i love (xx) </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay. first i wanna show everybody Brody's paper. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> oh he's really so independent. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> over here. oh no no no no. (that's what he said we have to) (xx) </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> um. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> three days after and then he had all this (xx) he didn't wanna do it. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> and you laugh. </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> (laid this well back.) can't help it. yes. you laugh and take their wallet. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> you laugh and take their wallet. </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> that'd be awful. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> okay Brody, Brody's now </OVERLAP> Brody will you please explain the iconography of the cover? </U>
+			<U WHO="SS"> oh ah. </U>
+			<U WHO="S1"> it's cool. no it's really </U>
+			<U WHO="S12"> uh, i mean there's so many different ways. </U>
+			<U WHO="SU-m"><OVERLAP> yeah i think Brody was smoking a joint. </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> one step further than high. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> no. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> that's right he can't (xx) that's part of it right? </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> it makes my eyes bleed. </OVERLAP></U>
+			<U WHO="S1"><OVERLAP> multiple colors here's the eye </OVERLAP></U>
+			<U WHO="SU-f"> it's just like seeing like the all different ways of seeing it come together in the picture. </U>
+			<U WHO="S1"><OVERLAP> yeah. cool. very nice. excellent job. </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> isn't this massacre representation. (Jamaica) </OVERLAP></U>
+			<U WHO="SU-m"><OVERLAP> Brody's like no it's a treasure map. </OVERLAP></U>
+			<U WHO="S1"> okay um, Caitlin? Caitlin Caitlin Caitlin. you all did pretty good, i have to say. Laura? </U>
+			<U WHO="SU-f"> right here. </U>
+			<U WHO="S1"> Simon? is Simon here? no. Zack? oh lemme Zack did a great paper, you mo- a lot of you did really really good papers, Olivia? <U WHO="S2"> yeah. </U> and lo- and most of you did good papers. <EVENT WHO="SS" DESC="LAUGH"/> what are you laugh_ </U>
+			<U WHO="SU-f"> mine has like ten staples. </U>
+			<U WHO="S1"> Karen? <OVERLAP> where's Karen? </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> can we go </OVERLAP> if we have ours? </U>
+			<U WHO="S1"> sure. </U>
+			<U WHO="SU-f"> okay. </U>
+			<U WHO="S1"> okay, um, Howie? Howie Howie Howie. Lizzie? <OVERLAP> there's a (good job.) Greg? Simon? Simon is not here. okay, there's more coming here. Rose? Rose? Stacey? there's she goes. good paper. alright um, Kathy? Issac? Kathy Issac. now you'll notice that in some places i put Nick? Nick Nick Nick. Nick. </OVERLAP></U>
+			<U WHO="SU-f"><OVERLAP> oh i don't remember where the tape (xx) i was always. </OVERLAP></U>
+			<U WHO="S4"> oh you know Beth i'm sorry i didn't include the the i meant to include the ads i was writing about but, i think i figured if you'd seen them so </U>
+			<U WHO="S1"> okay Tim? <U WHO="SU-m"> yeah. </U> and Tim i have all your um these kept falling you should put these these kept falling out of my my pack <U WHO="SU-m"> oh, sorry. </U> i'm like i'm falling w- this is what's i'm getting falling out of my pack. <EVENT DESC="LAUGH"/> that's right. <U WHO="SU-m"> sorry. </U> that's fine. now is this yours? i can't remember. </U>
+			<U WHO="SU-m"> mine. no no. </U>
+			<U WHO="S1"> whose is this? whose is this? </U>
+			<U WHO="SU-m"> do we need to stick around? </U>
+			<U WHO="S1"> no no you don't need to stick around you need to go and have a good vacation. bye. </U>
+			<U WHO="SU-m"> bye bye. </U>
+			<U WHO="S1"> there there's i don't think those are </U>
+			<U WHO="SU-f"> oh oh yeah maybe these all are </U>
+			<U WHO="S1"> okay. </U>
+			<U WHO="SU-f"> i have a question for you. <U WHO="S1"> sure. </U> i'm gonna i'm gonna go to Paris and i was wondering where i should go while i'm there. </U>
+			<U WHO="S1"> you mean spring vacation? </U>
+			<U WHO="SU-f"> yeah. <U WHO="S1"> whoa. </U> so do you have any </U>
+			<U WHO="S1"> well i think personally you should go to the British Museum and tell us what you think of it. (xx) so that's very (xx) and everything. </U>
+			<U WHO="SU-f"> i don't know where it is but i can bring it. <U WHO="SU-m"> excellent. </U> i'll as soon as i find it i will bring it. </U>
+			<U WHO="S1"> and the British Museum in London (he's got his) (xx) </U>
+			<U WHO="SU-f"> do you know of any great museums in Waco Texas? </U>
+			<U WHO="S1"> G O O, (xx) G E </U>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

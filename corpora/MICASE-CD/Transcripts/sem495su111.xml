@@ -1,0 +1,992 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="sem495su111">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Politics of Higher Education </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> SEM495SU111 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="108">
+						<DATE> October 5, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Jessica Rett, Janine Ovens </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Jessica Rett </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Darell Tibbles </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Chris Frost		</NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Chris Frost </NAME>
+							<RESP> Final Editing, 10/25/00 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: MIX </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="20"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="19"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SF, Instructor" SEX="F" RESTRICT="NONE" AGE="4"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> CHI </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S17" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1">
+					<FIRSTLANG> URD </FIRSTLANG>
+				</PERSON>
+				<PERSON ID="S18" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S19" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Seminar Room, Mason Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<U WHO="S1"> (what) the language of different disciplines is, and it's actually i think a very interesting project. uh, and so, they needed some political scientists to join in, they (had been) taping in various other kinds of, courses. and you may actually even run into this in some of your other courses as well. okay let's see, today, um, well before we even start with today, we have briefings next week, we're all set i hope, i mean, i understand you're still working away. someone who was it who was going to take (care of you?) no, <U WHO="SU-f"> (xx) </U> that's the next week. uh, for the first week who's going to take care of the, PowerPoint, reservations, for next week? </U>
+			<U WHO="S2"> i think </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S2"> i think it was Chandra. </U>
+			<U WHO="S1"> Chandra? </U>
+			<U WHO="S2"> Marker. <U WHO="S1">
+					<OVERLAP> ah </OVERLAP>
+				</U>
+				<OVERLAP> and i </OVERLAP> believe she, she mentioned that she was gonna do it, it was on her... </U>
+			<U WHO="S1"> okay, but she's not here today. so you need to be sure, <U WHO="S2"> okay </U> that it's done. okay? and uh, you're gonna take care of them for the following week, <U WHO="S2"> mhm </U> uh, okay. now... what i think we're gonna do today is uh, we've had a little technological challenge. a number of you have had technological challenges sending your papers. um i have received, now i think, all of the papers, in one form or another. i have, read, uh all but the papers that were turned in today. but there were, two papers, that, for some strange reason my secretary couldn't print. so i have not yet, put any comments on them and won't be handing them back today. um, so i don't want anybody to worry that i haven't, got the papers although, i still haven't, solved the challenge of printing i think we'll get it solved soon if we don't i may ask you to drop off a hard copy, okay? um... and i'm gonna wait and hand the papers back later. uh on the papers i have uh, done, i have provi- tried to provide a couple of kinds of comments. one of them one kind of comment has to do with the substance and when i say things like yes or good point or i put a little plus in the margin, that generally means that i think that was you know a really good point or i say this is really interesting let's talk about this. um, in some cases you raised issues, uh well you drew some tentative conclusions which, probably aren't correct but there's no way for you to know that, from the numbers. i mean you were obviously thinking about it and, you know you could only do as much as you could do. what i was looking for, was a sensitivity, to, the, um, limitations of what you could draw from the evidence that you had, and so some caution, about, your conclusions when you drew conclusions. um, i i was i'm and i'm going into this in a little detail right now because this is a kind of warm-up, for, for future, papers that, you know will carry more weight in the class. so, if you drew a conclusion, that is uh, in line with the data that you, presented, that, is a good thing. uh but it would be even better, if, you, thought about alternative kinds of, either explanations for the data or implications of the data than the than the o- one that you sort of, jumped onto right, from the beginning. if you drew a conclusion that, isn't in line with the data that you presented, which thankfully doesn't happen very often, uh that's a problem. you know, so this is bigger than that then it implies that it's, smaller than that that this won't work, okay? so sometimes, i will comment on you know, is this really, uh is this really what the data show? okay? then i've tried to provide another set of uh kind of little marks really and that is more editorial. now, uh... the editorial comments take, a a number of, forms. sometimes, uh they're just grammatical, or typos or something like that or punctuation. sometimes they're, they're word choice where, uh sometimes the word that you meant to choose, uh is clear, and you didn't maybe quite choose the right word i mean all of us have that, challenge every once in a while. but sometimes you choose a word and i just don't know what you mean by it, because it it just really doesn't convey to me, uh anything that i can, kinda get my mind around and so then i might, you know put a question mark about what what is what do you really mean here? cuz i really don't quite, i, i don't quite get it i mean i know there's a point there but i don't quite get it. um... the arguments, first of all i think that it's really important i think i said this before but that it is, really, important <EVENT DESC="S3 ENTERS"/> ah, did you make reservations for the next, </U>
+			<U WHO="S3"> okay i have to tell the class about it. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> ah. okay. <U WHO="S3">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> well </OVERLAP> pull up a chair, here's a <U WHO="S3">
+					<OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> chair. over there. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, cuz </OVERLAP> i talked to (them,) the other day, <U WHO="S1"> yeah </U> and they were saying that um, like, we have to decide if one person's gonna use their laptop, and then they're gonna give an information session just to one person, to learn how to work it. or if, like other peop- (even) separate groups are bringing in separate laptops because then, everyone has to come in and test it out, at some point, and arrange it with them. <U WHO="S1"> okay </U> so <U WHO="SU-f"> (as long as you) feel comfortable (xx) </U> um. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> okay so let's take a little break here for a minute. for the three groups, uh, the group that you're involved with is, is, gonna be set because you're making the reservations. </U>
+			<U WHO="S3"> yeah like i mean i and i have a laptop, so </U>
+			<U WHO="S1"> you're gonna use your own laptop </U>
+			<U WHO="S3"> yeah i have my own laptop so, like cuz you can also get one if, other people need  'em you can get one, on loan too. <U WHO="S1"> right </U> but it's you know like, it just_ cuz then i can just do it, you know off, you know save it on my hard drive and then, <U WHO="S1"> but how 'bout the other people in your <OVERLAP> group? </OVERLAP>
+				</U>
+				<OVERLAP> so then, </OVERLAP> like either they can save it, like he was saying that a lotta people don't like to s- you know save it onto a disk or something like that, <U WHO="S1"> right </U> so like that might, cause discrepancy but like, if people are willing just to, bring in their own disks then it won't be a problem then just someone from our group has to go, and um, you know learn how to work the machine. </U>
+			<U WHO="S1"> okay, but you're gonna coordinate your group. </U>
+			<U WHO="S3"> yeah, i g- i mean yeah <OVERLAP> (i'll coordinate) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> make sure </OVERLAP> that all of your group, is either on your hard disk, <OVERLAP> or </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> right, </OVERLAP> yeah <OVERLAP> exactly </OVERLAP>
+				</U>
+				<OVERLAP> has what </OVERLAP> you need, okay. </U>
+			<U WHO="S3"> but yeah i mean, whatever other people wanna do. </U>
+			<U WHO="S1"> okay, and you are which group? </U>
+			<U WHO="S3"> the, um Congress and higher <OVERLAP> (education.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Congress, </OVERLAP> alright. so who's the president group? </U>
+			<U WHO="S4"> we are, <U WHO="S1"> okay. </U> and, we decided that, with the information we have that, it's not necessary for us to use PowerPoint, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> fine, </OVERLAP> okay, and who is the, state, group? what are you doing? </U>
+			<U WHO="S5"> i don't, know. </U>
+			<U WHO="S6"> i th- i think we're we're probably not going to use it. <U WHO="S5"> mhm </U>
+			</U>
+			<U WHO="S1"> okay, so you just need to work out <U WHO="S3"> okay </U> your group. <U WHO="S3"> that's fine then. </U> fine. and you're gonna face this in the same issues for the following week, and we can chat about it for the little_ well, let's see, uh, i don't know, which group are you in? you're in the curriculum group. </U>
+			<U WHO="S7"> right. </U>
+			<U WHO="S1"> uh, who's in the practice, group? <U WHO="S8"> we are. </U> yeah. so, do you know, yet, whether you're </U>
+			<U WHO="S8"> um, we've talked about using it and i, have a laptop so that's fine. </U>
+			<U WHO="S1"> you have a laptop. </U>
+			<U WHO="S8"> yeah, but i would need to go, <OVERLAP> you're saying that i would need to go there. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah y- you you you'd s- </OVERLAP> yeah like cuz, <U WHO="S1">
+					<OVERLAP> figure out </OVERLAP>
+				</U>
+				<OVERLAP> you have </OVERLAP> to learn how to, hook the machine up to, <U WHO="S1"> it's </U> different le- like it works differently i guess with different laptops <OVERLAP> is what they were saying. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> but as long as, </OVERLAP> if you make the reservation then all i need <U WHO="S7">
+					<OVERLAP> right. </OVERLAP>
+				</U>
+				<OVERLAP> to do </OVERLAP> is go there, then right? </U>
+			<U WHO="S3"> yeah like yeah <U WHO="S8"> okay </U> w- well, i mean um, just we'd have to figure out a time, maybe through email or something, where they can meet cuz like we have to have a, personal instructor, <OVERLAP> give us a lesson. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> oh so it'd be </OVERLAP> better if we all went, <OVERLAP> at the same time. okay i see now. that's fine. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> and we have to, yeah, exactly, that's what they were saying, </OVERLAP> that </U>
+			<U WHO="S1"> it's actually, really good practice when you're making an oral presentation before a group to do a dry run. <U WHO="S3"> mhm. </U> i mean it just really is. th- there's so many, little picky things that can go wrong and after you've gotten everything, put together it's such a shame to have, those kinds of things, mess you up. um, but it happens, to everybody, at various times and uh unfortunately which is why, i suggested that you bring, a hard copy with you if, if it comes to that and we'll use the board and, you know go back to the old technology. alright now what's the other group? uh, </U>
+			<U WHO="S9">
+				<OVERLAP> courts. </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S1"> courts, right. and, what about </U>
+			<U WHO="S9"> we haven't really discussed it yet. </U>
+			<U WHO="S1"> okay so you need to make a decision, <U WHO="S9"> okay </U> and if and once you <OVERLAP> make a decision </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, yeah </OVERLAP> how about yeah how about and then we <U WHO="S1">
+					<OVERLAP> take care of that, okay. </OVERLAP>
+				</U>
+				<OVERLAP> can just, </OVERLAP> coordinate a time with them. </U>
+			<U WHO="S1"> uh coming back to, the comments on your papers, which i will hand out at the end of the, class. um, i think that it is really important for any graduate, any university graduate and certainly any university graduate in the University of Michigan, to have good writing skills. i think, that, um, one improves one's writing skills all through life. you know it's not something where, a person takes a test and you know you can write, above some threshold and then sometime you stop. uh i, i always get people to read my drafts, and they always, uh make improvements, in in the drafts. <U WHO="S10">
+					<EVENT DESC="ENTERS"/> i'm <OVERLAP> sorry. </OVERLAP>
+				</U>
+				<OVERLAP> because </OVERLAP> one of the things that happens is that you get so close to what you're, working on that you, um, you sometimes lose, perspective on the thread of your argument. uh i also, and i really recommend this especially for your research folders. um, see if you can find a corner around the table somewhere and, <U WHO="S10">
+					<OVERLAP> a corner? </OVERLAP>
+				</U>
+				<OVERLAP> kinda </OVERLAP> pull yourselves up, to to it. okay? um, i also... you know i have to kind of force myself to do it cuz i don't love doing outlines. but i also outline my papers, after i've drafted them. uh sometimes i even outline them before i draft them which is of course the way you're taught. but i outline them after i draft them because sometimes in the process of putting together an outline i see, that the structure doesn't work. you know i've got, three subpoints and i've got lots of, evidence and discussion of one and almost none of another and it's just not well balanced, and i've just gotten myself so, into one section of what i'm writing and i haven't gotten myself adequately into another section of what i'm writing. or sometimes i see that, points that i make under one of my three subpoints really belong under another. and you don't really see that necessarily in the process of writing a paper. so i really recommend that you, you think about that. as a consequence of how important it is, because your writing is the, vehicle of communication, uh, i do pay attention to that on your papers too. and, it it's, kind of less serious kind of stuff although sloppy kind of stuff i i, you know if you're sl_ i can't tell you the number of students who, uh, through the years have had, job problems because of, a typo in their resume, or you know which conveys to a, an employer a lack of care- carefulness, to detail, even though, typos happen you know but, little things, can be, p- problematic for you. but, those little things, generally don't get in the way of understanding at least of the argument. but some of the structural things do get in the way of understanding or at least of the power of the argument. and so, um i will pay attention to both of these things, but i don't want you to get distracted, uh, only with one kinda comment. uh because, by now in your senior year you really oughta be writing well, and the arguments and evidence and inference, is what, what we're really, trying to get our, our minds around here in terms of, clear analytic thinking. uh, so, anyway i just want to give you a little, kind of, introduction to how i think about these things. and if you don't understand my comments because i don't put a lotta comments on the papers. you know please, come ask me about it. uh what i thought we would do today, is we will, uh start with the, several people who wrote about last week's readings. and then we will turn and w- i'll just have you, talk for, two minutes quickly, about what the major point is. and then we will, and an- th- see what whether there's something there that we wanna pick up some thread and then we'll go, around and we'll talk about, what you wrote about, for today. if we finish early, which we will be lucky if we do i suppose with all these folks, then we'll spend a little time or i'll spend a little time with anybody who needs to talk to me about, uh briefings. uh but if we don't we don't, and we'll get as far as we can go. uh office hours next week i will have office hours next week. unfortunately as of this week i will have to leave a little early, next week probably, by twenty to four. if that's a problem for anyone, please let me know, and uh if the hours themselves are a problem let me know. if you need to see me, you should just send me a message, and (you know) we'll work something out okay? so, who wrote about last week? Jeremy, why don't you start and, tell us what your, thoughts were about this. </U>
+			<U WHO="S11"> um, (excuse me) my main, the main thing i focused on, i'm trying to remember what <EVENT DESC="LAUGH"/> last week's readings were. um, the uh, was the, distance learning, and uh (about) these virtual universities, basically, and, the, what i wrote about kind of ended up focusing on the drawbacks to distance learning and, i don't have a hard copy here because my, printer's broken, <OVERLAP> but uh </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so </OVERLAP> what are the drawbacks? </U>
+			<U WHO="S11"> the the main drawback that i, believe (with) the distance learning is the uh, that you, lose out on the experience of going away to school. and it's not going away to school, the me- (maturation) process which occurs from, sitting in classrooms even if you're a commuting student. um, by having, you know the professor, in front of the room saying this is due on Tuesday or whatever the it's it, forces you to uh, it it makes it more concrete, as opposed to if you see it online it could see, it could seem almost uh, secondary it could seem </U>
+			<U WHO="S1"> what if i run a video? say, your paper is due on Tuesday. </U>
+			<U WHO="S11"> (if) you're in the classroom setting still with other students, it's uh, there's still the f- the academia feeling, and uh, <U WHO="S1"> it's a different feeling. </U> right. and uh, specifically with going away to school there there's such a, a pr- a change that students go through, that if, someone was to, um, do their courses online they wouldn't be able to experience the, change overall, as a person that, one gains from going away to school. um, but i did, write about that i, recognized the fact that there are people who can't, go away to school that there are, um, women who have to, you know they have have children, or you know single mothers or, people who have to work to sustain their families or (whatever it's just that,) and at that point i think it would be, i kind of made reference at that point to, the internet, article there was an article in the coursepack that was, from a an online s- higher education, website, <U WHO="S1"> mhm </U> um, about, the, Republican Party, and their beliefs on the uh, department of education and, <U WHO="S1">
+					<OVERLAP> political correctness </OVERLAP>
+				</U>
+				<OVERLAP> things of that sort, </OVERLAP> yeah political correctness that's right. um, and that, it would be feasible to, allow, single mothers to attend, schools to, possibly be, like a commuting student at, even like Michigan Dearborn or, Oakland University (xx) um, schools of that sort you know if they can't handle the rigors of, a school like U-of-M, if the government was, to take_ if the state government was going to, uh continue to put money into the schools, and the federal government, did as well, um, that money could be focused more towards undergraduates. <U WHO="S1"> mhm </U> um, if the money was focused more towards undergraduates and less towards the graduate students, the same amount of money... being put into undergraduate programs would then lower tuition. because there's <OVERLAP> (more,) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (yup) </OVERLAP>
+				</U> more revenue coming in, and the lower tuition would allow these, underprivileged students and, people who normally wouldn't have the opportunity to go to school, the opportunity to come. um, s- i forget specifically what i wrote about i i went into more detail and i, cited some stuff but it's been a while since i, <EVENT WHO="S1" DESC="LAUGH"/> read my own w- my own piece <EVENT DESC="LAUGH"/> um (it.) </U>
+			<U WHO="S1"> who else wrote about last week? (there was) at least another, one or two. last week's readings, aw, c'mon (who else?) everybody else in here? somebody must be missing because i think i had uh <PAUSE DUR=":06"/> let's see, is uh, let's see... Stephanie. </U>
+			<U WHO="S7"> i wrote this week. </U>
+			<U WHO="S1"> you wrote this week? hm, okay, (xx) another one well then let's start. so let's switch off over to this week then since you are obviously such budget, fanatics. <EVENT WHO="SS" DESC="LAUGH"/> um, you know in a way this is a kind of, uh uh, well it's a very challenging kind of assignment i've never done this before. and uh, uh, you know looking at those numbers can, make your eyes blur over but, <EVENT WHO="S3" DESC="LAUGH"/> they're_ but, but they're important but they_ but they're only hints. because it's very hard, to, uh, actually draw any kind of firm conclusions. the reality is though that people do it all the time. and one of the things, one of my goals in having you go through this exercise is to become more sensitive to, um, arguments that you read in the newspaper, or hear in, debates. <EVENT DESC="LAUGH"/> uh how many of you watched the debate, the other night? what were you watching the baseball playoffs or what? </U>
+			<U WHO="S7"> no i <EVENT WHO="SS" DESC="LAUGH"/> (just didn't watch it) </U>
+			<U WHO="S1"> okay um, well, to understand the limitations, and to become more, critical in your own thinking about, uh conclusions that people draw simply from numbers without understanding, necessarily underlying processes. so, some of you, uh, went that extra mile and brought in, other information, beyond the budget, or the c- or the uh uh course guide, to try to, nail things down a little more. some of you, uh limited yourself well some of you looked at the budget but looked at it in multiple ways, kind of, testing out your ideas. uh, and some of you, uh just looked at the budget, and some of you hardly looked at the budget at all. <EVENT DESC="LAUGH"/> so there wa- kind of a range. um, but all of you had really interesting ideas i thought and so let us uh why don't we start with you? and why don't you talk a little about what, your focus was? </U>
+			<U WHO="S12"> see i think i did mine on the wrong article i did i ch- i confused my twenty-first and twenty-eighth reading and did mine on Duderstadt's article. </U>
+			<U WHO="S1"> you were the person who wrote about last week i knew <U WHO="S12"> yeah </U> there was another person well c'mon tell us what you <U WHO="S12"> okay </U> did for last week. i knew <U WHO="S12"> alright <EVENT DESC="LAUGH"/>
+				</U> i had two, you were making me, wonder. </U>
+			<U WHO="S12"> no <EVENT DESC="LAUGH"/> alright in uh, Dr Duderstadt's, Duder- i can't pronounce <U WHO="S1"> Duderstadt </U> Duderstadt <U WHO="S1"> yup </U> uh article he focused on a change from, um, the need to change, uh the social construct between the university and uh, and the community in general. and so, things that he kind of, let's see, if i remembered, my extra copy, uh... right about, <SEG TYPE="READING"> the need to cha- uh establish a new social construct between, the university and community, </SEG> i talked about the three_ there're, i think five themes that he concentrated on that would be like significant in the future, discussion of higher education and the three of them i discussed were diversity, uh interactive and collaborative uh, uh, methodology or pedagog- pedagogy, and then uh, becoming more (a learning center.) in regards to diversity, he ma- he made a good argument for diversity and why it's important to the university, uh but i kinda added more emphasis to the point that, it's more than just a race and ethnic, kind of diversity it's more of, preparing people preparing students (the best for) uh, positions of leadership once we graduate from the University of Michigan because it's not going to be unusual for us to, work for G-M or Ford uh i don't know Chrysler Daimler Chrysler or something like that not in Dearborn Detroit but in uh say, Asia or South America. </U>
+			<U WHO="S1"> i think if i could interrupt you for a second <U WHO="S12">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> i </OVERLAP> think that's a really important point. and you know diversity as a word has kind of become a uh, symbolic, it carries a lotta symbolism. and for some people it has come to mean only race <OVERLAP> and. </OVERLAP>
+				<U WHO="S12">
+					<OVERLAP> right </OVERLAP>
+				</U> ethnicity, or sometimes gender. uh, but... but for others it means something really quite different. and i- it not only includes different cultures but, um different economic experiences, uh rural and urban and so forth and so on. and i think, it's important you know when certainly when we get to the um, discussion of affirmative action but, but just in your everyday life that you you be, careful, about both when you use the word but also what people mean when they use that word because they're they're often, meaning one thing but then talking as though they mean something else. i i so i think it's very, uh that's a very significant point yup? </U>
+			<U WHO="S12"> and even within the context of race and ethnicity i mentioned the uh, the affirmative action lawsuits against the admission policies of L-S-and-A and then the law school, and how the ramification would not only be felt by Michigan but also by uh other campuses within the Big Ten, and but in particular i think it was the ninth circuit, district where we're part of all i think all of the Big Ten schools are a part of, and how, whatever decision_ let's say it was a it was a negative decision against, uh the the, the uh the university how it may alter it may, uh, make, universities less likely to pursue, admission policies that have target ethnic minorities or racial minorities or even those who are underrepresented or, disadvantaged. so um, </U>
+			<U WHO="S1"> however it comes out it <U WHO="S12">
+					<OVERLAP> however it comes out </OVERLAP>
+				</U>
+				<OVERLAP> it's gonna have impact </OVERLAP> it's gonna have big impact <U WHO="S12"> right </U> across the country, <OVERLAP> you know? </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> and the uh, </OVERLAP> the important thing to remember about is that uh, i think it was what's the name of it? uh, Commission on Institutional Cooperation a lot of the Big Ten schools i think all of the Big Ten schools are part of this commission. and the important thing to remember about that is that, uh they graduate between fifteen and twenty percent of all minority PhD graduates. and so if the decision goes against the University of Michigan, it's likely that you could see a decrease in that percentage maybe to, five to ten percent like that i don't know. </U>
+			<U WHO="S1"> now why, actually it it's called C-I-C, and it includes all the Big Ten plus Chicago, and we get together, you know to talk about this event. why would a suit, directed at undergraduate admissions, and the law school, have an impact on, PhD production? which is, the number, that um, has been cited here. <U WHO="S13">
+					<OVERLAP> cuz you have to be </OVERLAP>
+				</U>
+				<OVERLAP> it's Ron. </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> oops sorry </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Ron right? </OVERLAP>
+			</U>
+			<U WHO="S12"> yeah. </U>
+			<U WHO="S1"> what do you think? </U>
+			<U WHO="S13"> don't you need to you have to do undergrad before you do PhD. <U WHO="S1"> yeah, <OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> if there's less people going to undergraduate school then there's less people available to go, get a PhD. </U>
+			<U WHO="S1"> absolutely there's a, uh you know that's right, fewer people and what what else might happen? why are these things like_ you didn't actually link it <U WHO="S12"> right </U> specifically in your paper but, they're they are linked, yeah. </U>
+			<U WHO="S2"> there'll be uh a skew in, in the type of information that is produced and in the type of research perhaps that is uh, that they partake in. </U>
+			<U WHO="S1"> why would that be? </U>
+			<U WHO="S2"> well if you, if there's a decrease in minorities for instance, in the undergraduate and then therefore there's a decrease in minorities then in the PhD program, there's less, research just by the the the trends, that have been taken. uh more people tend to do research that is pertinent to themselves, and so <OVERLAP> there will be less </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> how do you know that? </OVERLAP>
+				</U> how do i know </U>
+			<U WHO="S1"> by the way i think it's true. but, what, why, that's something_ that is what we would call, an empirical question. you know you could go out and find out, you could you could go out and find out what people study and it is_ a- and the reason i ask you this by the way is that it's, this is an assumption that people make that can be deeply offensive to peop- to, the people <U WHO="S2"> mhm </U> uh who are referred to. let me tell you why. i mean, if you always assume, that African Americans who come into political science want to study black politics, that wouldn't be a, a good assumption. that's not really <U WHO="S2"> mhm </U> what they're in_ but, what you said tend to, <U WHO="S2"> mhm </U> and i think it's true but you know what i've never seen any empirical evidence on it. </U>
+			<U WHO="S2"> oh well i took a class, uh last semester, um, African American intellectual thought and the majority of the class was based on, um, i guess, well, i guess the majority of the class was, was focused on whether or not, uh African Americans in higher ed should focus their, self but um, <U WHO="S1"> but not whether they do </U> whether they do, <OVERLAP> yeah, but (they're the) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah, you gotta be </OVERLAP> careful <U WHO="S2"> mhm </U> i mean when you go to women's studies <U WHO="S2"> right </U> it's true you mostly see women. and when you read the, uh writings about women's studies, most, most of it, just on a casual basis you know just from looking is by women. uh, but, uh so probably, this means that, women tend to do, tend but d- it certainly doesn't tend to do more of the women's studies work then, men do. but it doesn't mean that most women do women's studies work, <U WHO="S2"> right. </U> in fact most women don't, right? and it's the same, thing for any ethnic groups. you have to be really careful about, the conclusions that you draw. <U WHO="S2"> mhm </U> um, but your point is that if you had fewer, minorities underrepresented minorities in the PhD ranks, you might have less, research going on, about minorities and that may be true. it's certainly, a reasonable question to ask. but, where we started is why would you have fewer minority PhD students just because we have a suit, about undergraduates? </U>
+			<U WHO="S2"> well maybe not w- </U>
+			<U WHO="S1"> i mean <U WHO="S12">
+					<OVERLAP> (maybe) </OVERLAP>
+				</U>
+				<OVERLAP> we had </OVERLAP> one answer over here which was, you have fewer graduates, of the undergraduate school. </U>
+			<U WHO="S12"> they determine (xx) (concerning) interest. </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S7"> um, maybe because they would consider it a more hostile environment? </U>
+			<U WHO="S2"> right </U>
+			<U WHO="S1"> right maybe, so maybe they wouldn't come to a place that lost a suit on that issue. what else? yeah? </U>
+			<U WHO="S12"> it may th- it may even deter a student from even d- like, pursuing a undergraduate degree in whatever it is that you that you want to study (what points at you,) uh decide to enroll in a PhD program. so, let's say you want to do a PhD in political science well, if you don't, i don't know, if there's a lawsuit against not so much a lawsuit but, it may deter you from actually pursuing the undergrad degree in, in that political science before you can get to the PhD level so </U>
+			<U WHO="S1"> right this is the same point you got fewer undergraduates so you got fewer people who are prepared to go into the PhD program. </U>
+			<U WHO="S13"> possibly um law schools would be, more apprehensive about taking the affirmative action route that they usually do in undergrad and actually start, refusing more minorities. </U>
+			<U WHO="S1"> law school yes we've got a suit against the law school if they lose they're gonna have to change the way they do, business. but what about, PhD programs in L-S-and-A or, graduate PhD programs in engineering or, business <OVERLAP> or </OVERLAP>
+			</U>
+			<U WHO="S13">
+				<OVERLAP> well </OVERLAP> i mean they would be more apprehensive about taking, i mean, the repercussions of taking somebody, over another person, and in fear of being, reprimanded or having a lawsuit against them. </U>
+			<U WHO="S1"> it will chill out, basically what <U WHO="S13"> yeah </U> they say it will have a chilling effect on the other, graduate programs. <U WHO="S13"> yeah </U> it's already had a chilling effect on the structure, of the, uh graduate fellowships that are given out by Rackham. whi- because, everyone now is worried, and positioning themselves to the extent they can so that they're not, uh open to suit. so it's already had some impact and if we lose the suit, it will have impact not just on, uh, the undergraduate and law school but on, a much broader and i think that that's an important point... okay? </U>
+			<U WHO="S12"> okay uh, the next one i i kinda, <EVENT DESC="LAUGH"/> discussed <EVENT WHO="S5" DESC="LAUGH"/> was that uh </U>
+			<U WHO="S1"> oh i think we'll stop <U WHO="S12">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> (xx) </OVERLAP> right there. we we we've given you, enough uh, <EVENT WHO="S12" DESC="LAUGH"/> of the business here. okay. now i think we've talked about the two that were about last week. um, so, let's move on to the budget. </U>
+			<U WHO="S4"> that would be, um, myself, i guess, to start. um, as far as the budget assignment goes before i say anything else i will say that this was like the most confusing thing i have ever done i believe. <EVENT DESC="LAUGH"/> um, i looked at a bunch of numbers drew some conclusions and then i posed some questions, that i'd, like us to discuss to get your input. um, when i was scrolling through the budget reading it the number that stuck out to me most was under office of the president. in which there was a nice, one million dollar plus sum, that said that it's used for maintenance of the president's house. </U>
+			<U WHO="S1"> well it's not just his house but, yeah. </U>
+			<U WHO="S4">
+				<OVERLAP> well the plant (position) </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> he has his own (chef) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> the plant </OVERLAP> tapar- department of, you know it says um, transfer maintenance, budget for the president's house from the plant department. </U>
+			<U WHO="S1">
+				<EVENT DESC="WRITING ON BOARD"/> so the total, was, <U WHO="S4"> one <OVERLAP> million </OVERLAP>
+				</U>
+				<OVERLAP> according </OVERLAP> to your paper. and how much was the t-_ this is for the president's office and w- how much was in the transfer? </U>
+			<U WHO="S4"> i didn't i don't know. </U>
+			<U WHO="S1"> you didn't tell <OVERLAP> me that, </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> (wait, </OVERLAP> where's that at?) </U> but it's there. </U>
+			<U WHO="S4"> it is </U>
+			<U WHO="S1"> it's a <U WHO="S4">
+					<OVERLAP> but </OVERLAP>
+				</U>
+				<OVERLAP> lot smaller </OVERLAP> number. </U>
+			<U WHO="S2"> two hundred thousand i believe </U>
+			<U WHO="S1"> nah it's not even two hundred thousand. </U>
+			<U WHO="S7"> where's that at again? </U>
+			<U WHO="S3"> it is on page, two. </U>
+			<U WHO="S2"> it's on page ten of the budget. </U>
+			<U WHO="S3"> yeah. </U>
+			<U WHO="S7"> okay. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> okay </U>
+			<U WHO="S4"> page two-sixty-five in the coursepack. </U>
+			<U WHO="SU-f"> (okay) </U>
+			<U WHO="S4"> (oh) i'm sorry. </U>
+			<U WHO="S1"> yeah it's actually_ ten gives you the total. but then when you look you have to go past all the schools and colleges right? </U>
+			<U WHO="SU-f"> yeah wait hold on. </U>
+			<U WHO="S1"> and you keep going (and we search) office of <OVERLAP> the president. </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> ninety-five thousand. </OVERLAP>
+				</U> alright, this transfer, <OVERLAP> maintenance </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> that's the one (that) </OVERLAP>
+				</U>
+				<OVERLAP> budget </OVERLAP> is ninety-five-eight-seventy-five right? that's on page, thirty-three of the budget. ninety-five thousand dollars. how many got, really, bent out of shape, about ninety-five <OVERLAP> thousand dollars? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> what does </OVERLAP> transfers mean? </U>
+			<U WHO="S1"> right? </U>
+			<U WHO="S3"> what does transfers (mean.) </U>
+			<U WHO="S4"> that's another question. </U>
+			<U WHO="S1"> what? </U>
+			<U WHO="S4">
+				<OVERLAP> what exactly, is a transfer? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> what does transfers mean? </OVERLAP>
+			</U>
+			<U WHO="S1"> oh okay, <EVENT WHO="SS" DESC="LAUGH"/> um, that money used to go into, the plant department's budget. so <U WHO="S4">
+					<OVERLAP> which would be </OVERLAP>
+				</U>
+				<OVERLAP> what it means </OVERLAP> is it's not new money, <U WHO="S3"> oh <OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> it used </OVERLAP> to be over here and it moved over there. so the accounting mechanism has changed. now the plant department is the department that worries about all the buildings, and the grounds, and i mean it's that's a lot. </U>
+			<U WHO="S7"> they do the <OVERLAP> Arb? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> (they do </OVERLAP> they do a lot <OVERLAP> you know?) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> they do the Arb. they do, i mean, they worry about, the physical plant, and that sits under the vice president for administration, <U WHO="S4"> now why </U> it's a very big piece of what he does and they decided to take, this out_ i'm not really sure why to tell you the truth, and move it from that big budget, into_ so that's part of this budget of <OVERLAP> the president's, </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> so, question. </OVERLAP>
+				</U> yeah. </U>
+			<U WHO="S4"> why is that like the only thing listed for office of the president is like, <U WHO="S1"> well </U> this number and nothing, <U WHO="S1"> right </U>
+				<OVERLAP> (explaining, what's going on.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well right, partly because </OVERLAP> i gave you a summary. <U WHO="S4"> right. </U> not the whole_ i didn't_ you thought that was confusing but let me <U WHO="S4"> yeah. </U> tell you about the whole budget. <EVENT WHO="SS" DESC="LAUGH"/> i decided not to scare you to death with the whole budget but if you ever want to go look at it there's all_ you know <OVERLAP> there's a lot more detail. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> i kinda do, </OVERLAP> it's not_ it would it would you know, <OVERLAP> explain a whole lot more. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> i'm sure you can hardly wait </OVERLAP> but, <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="SU-f"> (damn) </U> the reason they put that in the summary, is because, in a sense they're saying, uh this is a change in accounting that we want you to be aware of so this number, if you looked at it last year, is no doubt larger than it was last year but ninety-five thousand of that, doesn't really count. okay? because it used to be somewhere else and now it's here. so that's why they're telling you, because a lot of people use these budget summaries to see what the change is, from year to year <U WHO="S3">
+					<OVERLAP> (right changes over time.) </OVERLAP>
+				</U>
+				<OVERLAP> and they do that </OVERLAP> in there and so they're saying, don't make too much of this change, at least by this amount. <OVERLAP> okay? </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> oh </OVERLAP> i see. </U>
+			<U WHO="S4"> okay, it's starting to make sense now. </U>
+			<U WHO="S1">
+				<OVERLAP> ah good. </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S3"> okay. </U>
+			<U WHO="S1"> now in the very <OVERLAP> next, </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> (wow) </OVERLAP>
+				</U> sentence however, <U WHO="S4"> (what did) i write? </U> you start talking about the provost. </U>
+			<U WHO="S4"> that was the next one. </U>
+			<U WHO="S1"> but the <OVERLAP> provost </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> provost? </OVERLAP>
+				</U> how much money is in the provost budget? </U>
+			<U WHO="S4"> thirty million. thirty million? <U WHO="S1"> no </U> which one did i do? cuz there's two. </U>
+			<U WHO="S1"> provost and vice-president for academic affairs about seventy million right? </U>
+			<U WHO="S4"> alright, now, my question on that one, is that there are all of these offices, <U WHO="S1"> right. </U> in_ listed under that. <OVERLAP> where. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> now, let me </OVERLAP> just tell you, uh, you know you're looking at this. now, see you have, the provost and the executive vice-president and the total over here is seventy million <U WHO="S4"> okay </U> (xx) okay? but then if you go back here you get a little more detail, right? <U WHO="S4"> (what's this thing?) </U> now wait a minute, wait a minute, you've got, one, <U WHO="S4"> ah </U> academic program support, <U WHO="S4"> yeah. </U> two, academic support units, three, I-T-D, <U WHO="S4"> mhm </U> and four, student financial aid, okay? so actually, the provost, and what they've done here is, they have broken out student financial aid which is about fifty-nine million, sixty million say r- <U WHO="S4"> right </U> in round numbers. <EVENT DESC="WRITING ON BOARD"/> so actually the provost has, a lot of money, <EVENT WHO="SU-f" DESC="LAUGH"/> that, she oversees. i mean she is the budget officer of the university, that's a lot of money. </U>
+			<U WHO="S4"> now is that, currently E Royster Harper? </U>
+			<U WHO="S1"> no. <OVERLAP> Nancy Cantor </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> no Nancy Cantor. </OVERLAP>
+				</U>
+				<U WHO="S4"> Nancy Cantor, <OVERLAP> okay. </OVERLAP>
+				</U>
+				<OVERLAP> okay, </OVERLAP> so, financial aid now why did_ they break financial aid out, because, well you heard a lot those of you who listened to the, debates you heard a lot about a lock box for Social Security, <U WHO="SU-m"> mhm </U>
+				<EVENT DESC="LAUGH"/> well there's no such thing as a lock box but, this is kind of like a lock box for financial aid. if you list it separately, <U WHO="S4"> then it's <OVERLAP> guaranteed </OVERLAP>
+				</U>
+				<OVERLAP> then you </OVERLAP> don't get to mess around with it, <U WHO="S4"> it's guaranteed </U> within_ it's not exactly guaranteed but you can always track it from year to year. <U WHO="S4"> okay </U> and so, we care a lot about financial aid we make a big deal about it. and so we want_ and we say that we're increasing financial aid every year by the, amount, um, uh, that of the tuition increase. you know that we're putting more money in. and you can track that. so they keep that as a separate item and it's it is kind of a lock box it's it's a separate, uh what they call a separate line item, in the budget. </U>
+			<U WHO="S4"> okay. </U>
+			<U WHO="S1"> okay? </U>
+			<U WHO="S4"> so then, cuz they have one listed, like it says, that this is the academic support units and lists all these, and then it goes_ do you know what i mean? like it says this and it <OVERLAP> lists the (xx) office </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> it includes all this stuff, </OVERLAP>
+				</U> and then it goes, <U WHO="S1"> and then <OVERLAP> there's I-T-D, </OVERLAP>
+				</U>
+				<OVERLAP> to here, </OVERLAP> and then that's that, <U WHO="S1"> yup. </U> and then it's still listed under one and so are those all, </U>
+			<U WHO="S1"> well no no, it's not listed under one. this is a note, <U WHO="S4"> okay </U> one and this goes to here and includes, <U WHO="S4"> okay </U> the amount of the general fund financial aid_ by the way that's not all of financial aid. then there are all the scholarships things like dean's merit scholarships that are endowed, all the endowed scholarships are on top of that. and there is also uh, some money within the school, budgets, that i- wi- <U WHO="S4">
+					<OVERLAP> (is) individual departments </OVERLAP>
+				</U>
+				<OVERLAP> within each of the school </OVERLAP> budgets which is devoted to student financial aid. yes? </U>
+			<U WHO="S3"> are athletic scholarships separate? <U WHO="S1"> athletic <OVERLAP> scholarships are separate, yes. </OVERLAP>
+				</U>
+				<OVERLAP> like that's within the athletic </OVERLAP> department? </U>
+			<U WHO="S1"> yes. </U>
+			<U WHO="S3"> okay i was just curious. </U>
+			<U WHO="S1"> so... i- somebody knows but i don't know what the real number is. well maybe nobody knows actually, um, chances are nobody knows what the real number is to tell you the truth. because, the endowments keep changing. <U WHO="S4"> right. </U> but, i mean the precisely what the real number is but somebody knows roughly, what the real number is but it's a lot bigger than this, sixty million that's going to <OVERLAP> student aid. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so that's, </OVERLAP> that's just financial aid? <OVERLAP> and then the rest of it </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah just the </OVERLAP> sixty million, and this seventy million is the sum of those other three. </U>
+			<U WHO="S4"> so okay <OVERLAP> so that's like </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (sheets,) </OVERLAP> I-T-D, student academic affairs </U>
+			<U WHO="S4"> and then is that all the offices as well? </U>
+			<U WHO="S1"> yeah all those offices so Royster Harper is within, <U WHO="S4"> she's </U> here. she's, yeah <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> the vice </OVERLAP> president of academic affairs, the interim? </U>
+			<U WHO="S1"> she's within there. she is the interim, uh, vice president for student affairs. <U WHO="S4"> student affairs </U> who who reports, uh, <U WHO="S4"> to </U> well, <OVERLAP> actually </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> director (xx) </OVERLAP> yeah, </U>
+				<OVERLAP> you're right. </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> it's supposed </OVERLAP> to be director of (xx) </U> she report- no i take it back you're right, she's separate. she's a vice president that's been a very, uh actually, sorry, that's been a very, uh, controversial issue. <U WHO="S7">
+					<OVERLAP> right, right </OVERLAP>
+				</U>
+				<OVERLAP> she actually reports </OVERLAP> to the president. she's not within this at all, there's an <OVERLAP> extra r- </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> so she's </OVERLAP> not included in that, <OVERLAP> (that number) at all? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no, uh, </OVERLAP> she doesn't control (admissions.) let me tell you where she's included. </U>
+			<U WHO="S4"> okay. </U>
+			<U WHO="S1"> oh we gotta go back to that <OVERLAP> page ten. </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> moving ahead. </OVERLAP>
+				</U> page ten is the summary of what follows. </U>
+			<U WHO="S4"> okay. </U>
+			<U WHO="S1"> she is the vice president for student affairs, (do you) <OVERLAP> see that? </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> okay </OVERLAP>
+			</U>
+			<U WHO="S1"> and that line has, nine million. and then do you see, right below that is the executive vice president chief financial <OVERLAP> officer </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> yes </OVERLAP>
+				</U> that's the g- the administration person that has planned all that stuff that's that's almost a hundred million. but, so she has nine million, but you have to understand that, sh- this is general fund money. this does not include, the cost that you pay for housing. that's <OVERLAP> an auxiliary. </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> (that's) another question </OVERLAP>
+				</U> this is the money that get hand gets hand out that is, comes from the state that is discretionary. and then you pay, for housing. (now) that's a big amount of money. <U WHO="S4"> yes it is </U>
+				<U WHO="S7"> yeah </U>
+				<U WHO="S3">
+					<OVERLAP> oh yeah. </OVERLAP>
+				</U>
+				<OVERLAP> and that's </OVERLAP> kind of running through. you're paying for certain services like the hospital. when you go there you're a patient and you pay, <U WHO="S4"> ambulance </U> the hospital, that's an auxiliary <U WHO="S3">
+					<OVERLAP> the ambulance </OVERLAP>
+				</U>
+				<OVERLAP> service too. </OVERLAP> it's it's meant to raise its money by providing services okay. <U WHO="S3"> okay </U>
+				<U WHO="S4"> now </U> it also does not include any financial aid that's, under the provost, <U WHO="S4"> question. </U> okay. </U>
+			<U WHO="S4"> in these, budgets, <U WHO="S1"> yeah </U> are the salaries included? </U>
+			<U WHO="S1"> yes, <U WHO="S4"> uh huh </U> that's in fact what a lot of them are. <OVERLAP> the salaries for </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> okay that's what </OVERLAP>
+				</U> people. </U>
+			<U WHO="S3"> s- so <U WHO="S4">
+					<OVERLAP> okay </OVERLAP>
+				</U>
+				<OVERLAP> a lot of the_ </OVERLAP> is in the president's budget, is his salary included in that? </U>
+			<U WHO="S1"> it, it should be included in that <OVERLAP> yeah. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> but, </OVERLAP> oh okay. </U>
+			<U WHO="S4"> and is that of the one million number? </U>
+			<U WHO="S3"> in that one million <OVERLAP> (number?) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah </OVERLAP> he do- he doesn't, yeah. he doesn't make that mu- i mean, he makes a lot. <EVENT WHO="SS" DESC="LAUGH"/> but he doesn't make that much. </U>
+			<U WHO="S4"> (xx) like with with his, um, with his budget, does that include like does he get one base salary or does he get a salary because he's the president and then something in addition because he's a professor? </U>
+			<U WHO="S1"> no, gets a salary because he's the president but he does get, <U WHO="SU-m"> (housing) </U> certain perks. </U>
+			<U WHO="SU-m"> car </U>
+			<U WHO="S4"> yeah i i like the house. </U>
+			<U WHO="S3">
+				<OVERLAP> doesn't he do_ well he does a (lot of traveling) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> car </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the house, he gets a car, he has uh... </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> the cars </OVERLAP>
+			</U>
+			<U WHO="S7">
+				<OVERLAP> landscaping </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> he does </OVERLAP> a lot of traveling, doesn't <OVERLAP> he? i mean he was in Aspen speaking </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah he he, there's </OVERLAP> travel, money <OVERLAP> in the president's budget, </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> (and he) has a house in Vermont i believe </OVERLAP>
+				</U> you know there, there's some discretionary money in there, right. </U>
+			<U WHO="S5"> question about the salaries um, i know in the past in a, lot of universities the highest paid professors are actually medical school provexors professors? <U WHO="S1"> yeah </U> is that still the case, here? </U>
+			<U WHO="S7"> Gill Omens um, <OVERLAP> has the highest salary </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> wasn't he the head of </OVERLAP>
+			</U>
+			<U WHO="S1"> yes, now the thing that you need <U WHO="S5">
+					<OVERLAP> but is, is </OVERLAP>
+				</U>
+				<OVERLAP> to understand. </OVERLAP>
+			</U>
+			<U WHO="S4"> he's the head of neurosurgery or something? </U>
+			<U WHO="S7">
+				<OVERLAP> he's the head (xx) </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> he's a medical school professor? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> Gill, Gill Omen is the head </OVERLAP> of <U WHO="S4"> mhm </U> the he's the vice president for medical, <U WHO="S4"> yeah </U> affairs. </U>
+			<U WHO="S5"> (but) he's a, med school professor. </U>
+			<U WHO="S1"> um, the salaries that are reported in the newspaper </U>
+			<U WHO="S5"> do those include outside, <U WHO="S1"> yeah </U>
+				<OVERLAP> i mean private practice </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> are those correct, or are those </OVERLAP> just estimates? </U>
+			<U WHO="S1"> they are correct for what they are. now what they are, <U WHO="S5"> (oh my god) </U>
+				<EVENT WHO="SU-f" DESC="LAUGH"/> is, <U WHO="S3"> the base </U> uh the ba- yeah it is the base. <U WHO="S3"> hm </U> for some people, and this is why it's so confusing and it's so hard and you can hide things in these numbers but it's not like, <EVENT WHO="SU-f" DESC="LAUGH"/> people are necessarily trying to hide things in these numbers but, it's very hard to draw conclusions. so, most, most of the faculty are on nine month, uh, salaries. so most faculty have they have what they call, you know a a nine month based salary. and, say you make, i don't know you know say you make, uh a hundred, let's say, just for because it's easier to divide. that's a lot for a faculty member. it's, this is under the average, of a faculty member in the law school. and it is under, i believe, the average for a full professor in the uh, business school. but it is above the average of a full professor in L-S-and-A okay? so you get, then you get ranges and then of course associate professors, <U WHO="SU-f"> right </U> assistant professors lecturers, make less. so, thi- but, what's reported typically is the nine month salary. now, uh, this is probably more than you ever want to know but you might as well learn something about this. <EVENT WHO="S3" DESC="LAUGH"/> uh, in the summer, some people, have salary support. now why would you have salary support? well, you might have a grant, and be paying yourself off the grant in which case it doesn't show on the university budget. because it's not, it's not general fund dollars it's uh, but it's research dollars it's coming through the research accounts and you're paying yourself you- you're allowed to pay yourself, two ninths. the idea is that y- you know there are twelve months, you're gonna take a vacation, one month you you know you don't get paid and you can get two ninths, for the summer. one for, June and one for July, say. some, people can actually get three ninths and there are a lot of little technical details here but, but you can pay yourself one ninth or two ninths, off of a research grant if, in your proposal you said you were gonna spend, that time on research and the funding agency supported you, for that purpose. okay? chairs of departments typically get summer money because their work doesn't go away in the summer. so they are put on, what's called a kind of twelve month salary basis. and then there are some people in um, uh who are on twelve month salary basis like the faculty at I-S-R the Institute for Social Research. so there are lots of a little anomalies, which actually, uh, show up in some of the salaries reported in the newspaper but not all of 'em. so, you don't really know, when you look, for sure, whether the person, is, making this much or, ooh i didn't make it divide easily. let's say we got eighty, thousand which is more like the average in L-S-and-A um... this is really the average. so then we got ten, you get twenty thousand more. <EVENT WHO="SS" DESC="LAUGH"/> i don't have to do any higher mathematics in my head. so really this person is making, uh a hundred and ten thousand dollars a year. you don't really know whether that number is a, nine month, or it might be a twelve month. so they really might be making only, ninety thousand for the year. when they_ in the case of the medical school they report their salaries but then they have clinical revenues beyond that. <U WHO="SU-f"> oh </U> which, oftentimes is a lot more than the salaries reported in the newspaper so their salaries are, are much higher than what you see in the paper actually. and um, i mean the athletic coach, you know <OVERLAP> they get all sorts of, </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> one-point-oh-six </OVERLAP> two million. </U> uh deals because they are, the coach of, say the football team at the University of Michigan. i mean when they stop being coach they don't have those same, arrangements on on radio and you know... </U>
+			<U WHO="S4"> except for Bo Schembechler </U>
+			<U WHO="S1"> yeah except for Bo Schembechler. <EVENT WHO="S4" DESC="LAUGH"/>
+				<U WHO="S3"> he's the <OVERLAP> exception </OVERLAP>
+				</U>
+				<OVERLAP> so um, </OVERLAP> these salaries are a little, they're a little tricky to <OVERLAP> figure out. </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> so if, </OVERLAP> so does, uh a law professor that has a private practice a private legal practice or a medical school professor, who's in private practice or, a business prof who's a, a uh consultant, do they report their outside salaries as well? salaries that have, zero to do with their affiliation with U-of-M? </U>
+			<U WHO="S1"> no, <U WHO="S12"> no </U> no. </U>
+			<U WHO="S5"> they don't? <OVERLAP> okay. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> now </OVERLAP> uh, you're more likely to see, doctors are supposed to bring their clinical revenues through the hospital, and not be seeing, patients on the, on the side outside the hospital. but you might indeed have economists and lawyers who are say, appearing in court as expert witnesses, on something and they they get, paid. i i have uh, i am a fellow of the Carnegie Corporation, in New York, uh they have assembled a group of, um, of people from around the country to advise the the, corporation, on higher education issues. and i go in there i'll go in there, uh, uh later this month, i hope i can get there, for a, discussion of educational issues, in the two campaigns. they'll have the major advisors from, the Bush and the Gore campaign there, and we'll have an exchange about what those are um, they pay for my travel and in this case, they also provide an honorarium. uh which might be, you know it depends on how this, works, for most L-S-and-A professors the honorarium might be, a hundred or a couple hundred dollars a day something like that. for some business professors it can be, well for some it can be five thousand a day. uh, i- so it, you can see that it makes a difference i mean if it's a f- if it's a few hundred dollars a day and you're going in you know for a day here or there it's not, i- in any sense a major part of your income. uh but for some, professors who may may have businesses on the side, we have science professors business pro- professors engineering professors who have businesses on the side the major part of their income can come from the outside not the inside. there are rules on consulting, you're only supposed to do, uh so many days per, week. you know it's like a t- uh or some places have it per month. um, and, and i don't guess you've read anything about that but a lot of places will talk about a day, a week or something like that that you're permitted to consult. if you are absent a whole lot, and it looks like you're, not doing your duty here, uh, questions will be asked. but the reality is that we don't send private investigators after faculty members to find out, you know exactly where they are every minute of the day. so some of them do m- a lot more consulting than others. but you're you're sup- you are, supposed to do, things like this if it adds to your, knowledge base. it's part of your development activity really of your, sort of what we would call intellectual capital for teaching and research. you are not supposed to do so much of it that it interferes with your duties, and obligations as a faculty (member.) and that gets, to be, sometimes an issue, not, not too often. most of the humanities faculty i mean you know if they can make a hundred dollars on some gig somewhere it's a big deal. uh, they don't bring in, typically, you know any, you know they might write a book they write mine a might write a novel or something like that. and it, if it's a best seller they might make some money. but, uh you know typically the humanities books don- aren't money makers. um, and most of the social scientists, uh don't, well some of them do more than others. a lot of people do the kind of thing_ i mean Carnegie offered to pay me. would i have done it if they had offered me nothing? probably. and most places don't. when you go in and you serve on some advisory committee certainly for the government you do not get paid. you don't you know you don't get anything. you do it because, either you feel some kind of public service obligation, or because you think you're gonna learn something that's gonna be useful to your, either your students or, you know you always learn things about, what they're interested in funding and therefore then you can know what kind of proposal might be acceptable and you can, uh, i mean in the case of Carnegie they're supporting, faculty projects and nobody from the University of Michigan even applied. so as soon as i became aware of that i sent that off, you know to say hey why aren't we applying? you know you learn things that may be helpful to your colleagues or to your students. and y- but you have to make decisions about which ones of these things you're gonna do because they take up endless amounts of time and you you know you cannot do all of them. okay. you begin to see, i think, that, uh because, Annie got really concerned, that <U WHO="S4">
+					<OVERLAP> i was upset </OVERLAP>
+				</U>
+				<OVERLAP> so much money, </OVERLAP> huh? </U>
+			<U WHO="S4"> i was getting upset. </U>
+			<U WHO="S1"> she was getting really upset. <EVENT WHO="S4" DESC="LAUGH"/> uh, that so much money was getting spent on things like athletics, and the president's house </U>
+			<U WHO="S4"> well the athletic department, what i said about that was um, there is a lot of money spent on athletics but the athletics make that money back. </U>
+			<U WHO="S1"> right. <U WHO="SU-f"> that's outside </U> but but here <U WHO="S4">
+					<OVERLAP> so that </OVERLAP>
+				</U>
+				<OVERLAP> they are </OVERLAP> keeping up this immaculate house and why aren't they giving more money to students? </U>
+			<U WHO="S4"> right </U>
+			<U WHO="S1"> by the way, it's a perfectly reasonable question, it's just that you know you do need to get things in, <U WHO="S4"> right </U> perspective as, as much as how much they're spending on this <OVERLAP> versus that. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> cuz i was saying </OVERLAP> that um, there are a lot of students that are, s- intelligent enough have the scores and the G-P-As to attend the University of Michigan, but don't have the resources. <U WHO="S1"> right. </U> and we're spending so much money on, minute things, whereas we could be, maybe creating a program or doing something else, or </U>
+			<U WHO="S1"> you always have to <U WHO="S4">
+					<OVERLAP> (right) </OVERLAP>
+				</U>
+				<OVERLAP> look </OVERLAP> at what you're doing and say you know is this, i- is this a reasonable way to spend this money cuz the money_ except when it's grant money <U WHO="S4"> right </U> if it was something_ or it's hospital money i mea- when it's something for something specific. but the general fund money, can be spent somewhere else it's what's called an opportunity cost you spend it here and you you don't have it to spend it there. </U>
+			<U WHO="S4"> i was thinking that, the special interest groups, <U WHO="S1"> yeah </U> they aren't, the poorer students or the students that need the special interest groups don't have the resources to, get special interest groups. </U>
+			<U WHO="S1"> yeah now they actually, uh, <U WHO="S4"> they're working </U> uh, this is a pretty organized campus. <U WHO="S4"> oh yeah, i'll give <OVERLAP> it to you </OVERLAP>
+				</U>
+				<OVERLAP> and i walked </OVERLAP> across campus during that, that day when all the organizations were out there and, i mean it's amazing we <U WHO="S4"> (xx) </U> have an organization for everything. <U WHO="S4"> yes. </U> um, but you know you, you might wonder why, you've been here now, several years, when President Bollinger became president he said, he was gonna move, to Angell Hall, remember that? it hasn't happened. (xx) you know you might wonder why? i mean he's the president right? he can do whatever he wants. <EVENT WHO="SU-f" DESC="LAUGH"/> well, but he hasn't moved where he wants to move he hates that building he's in. he'd really like to move over here. <U WHO="SU-f"> plumbing? </U> he still is talking about moving over here. but how much is it gonna cost? well a whole lotta money, a whole lotta money. why would it cost money? well first of all, the area of Angell Hall, he wants to move into is not configured properly for a, the president's office that's not what it's being used for, so it would have to be renovated. the people who move out of Angell Hall have to move somewhere else, and it's not configured, the way, they need it. so then that has to be renovated. and so forth and so on there are a whole set of dominos every time you do a move like this. and if you're the president's office you've got to have accessible parking, you've gotta have_ you know the regents have to be able to, get to you the public has to be able to get to you, so, it gets to be a lotta money real fast. yeah? </U>
+			<U WHO="S4"> so that's um, kind of like uh, earlier this week there was an article in the Daily, about the university moving Michigamua, <U WHO="S1"> right </U> out of the tower, and how much it was costing and, two of the other organizations, <OVERLAP> (across the street.) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> we're going to hear </OVERLAP> more about that i suspect aren't we? <U WHO="S3">
+					<OVERLAP> oh no i was </OVERLAP>
+				</U>
+				<OVERLAP> next week? </OVERLAP>
+				<U WHO="S3"> well yeah </U> or the week after next maybe, <U WHO="S4"> yes </U> from one of the, groups. so, <U WHO="S4"> yeah, things like that </U> uh, anyway the, these things are expensive i think, um you know Professor Bollinger or somebody gave him, gave the university a gift, of five million dollars. uh maybe he could use that a little easier than he could use general, <U WHO="S4">
+					<OVERLAP> yes </OVERLAP>
+				</U>
+				<OVERLAP> fund </OVERLAP> money because it would be a gift for a particular purpose. yeah? </U>
+			<U WHO="S3"> where'd Bollinger get the money to give to the athletic department? <OVERLAP> where'd that come from? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> out of his discretionary_ </OVERLAP> h- well <U WHO="S3"> okay </U> i think he, he, <U WHO="S3"> i <OVERLAP> was just curious </OVERLAP>
+				</U>
+				<OVERLAP> well actually </OVERLAP> no he said that came out of gift funds. <U WHO="S3"> okay </U> i'm pretty sure he said that and it was controversial. </U>
+			<U WHO="S3"> no yeah cuz it like it, <OVERLAP> just randomly gave, three million dollars or whatever </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> because, you know, </OVERLAP> that money that went there didn't go somewhere else. and people say wh- you know why are you giving this money to the athletic department, cuz they're in a hole, when we need it for student financial aid or you know other things? <U WHO="S3"> right </U> (alright) </U>
+			<U WHO="S14"> i was just wondering does any of the money that comes in through athletics go, anywhere else besides athletics? </U>
+			<U WHO="S1"> yes it_ well it supports intramural sports, <U WHO="S14"> okay </U> and uh that is one of their big claims to, fame <EVENT WHO="SS" DESC="LAUGH"/> in terms of the, <U WHO="S14">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> major </OVERLAP> contributions that they make. they also claim, uh although once again it's, you know an, it's an empirical question that has never, really been answered, that when the athletic teams do well the rest of us do well too in fund <OVERLAP> raising. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> more </OVERLAP> people apply they say, like if the <OVERLAP> football team is, (xx) </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but, to tell you </OVERLAP> the truth, um... this is one of the areas of uh, should we say, mystery and some suspicion, <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S3"> right </U> on the part of many academics that, you know is the athletic department, truly a tub on its own bottom, or is it somehow, you know what is it getting subsidized by the university and how much should it get subsidized by the university? you know does it get loans? does it get interest free loans? does it get_ it gets land, to build on. i mean what, <OVERLAP> what does it, </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> what does it get and what should it get and then the answer is never as straight forward as people like to make it out to be. </U>
+			<U WHO="S14"> cuz i think it would be very interesting to look at, like what th- what athletics brings to um- brings to the university how much it contributes to the academic environment, <U WHO="S1"> right </U> versus what, y- you know our tuition dollars are going towards <OVERLAP> athletics. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it would be_ </OVERLAP> it's very difficult. why is it very difficult? <OVERLAP> well, </OVERLAP>
+				<U WHO="S14">
+					<OVERLAP> is it </OVERLAP> kinda hidden? </U> for one thing, it's not in, a lot of people's interests to make that public <EVENT WHO="SS" DESC="LAUGH"/> so it's not, (easy to get at.) i mean, just to give you an example if you were doing sort of full cost accounting. think about the amount of time, that the president and the provost have spent on athletic issues, of various kinds over the last few years. <U WHO="S3">
+					<OVERLAP> yeah, (xx) </OVERLAP>
+				</U>
+				<U WHO="S4">
+					<OVERLAP> whoa </OVERLAP>
+				</U>
+				<OVERLAP> do you think </OVERLAP> a fraction of their salary is being paid by the athletic department? this is what's called, overhead, right? overhead issues and you know, so, there are, uh i mean the attorneys, think about, the attorneys that have had to be involved in and and and the negotiations with the N-C-double-A and blah blah blah blah blah <EVENT WHO="S3" DESC="LAUGH"/> i mean, think about the amount of time they've spent, in, in the regents' meetings and cuz the regents don't get paid. so there are a lotta aspects of, costs to an institution, which are never, (costed out,) that is in dollar terms. uh but, anyway y- you know so you need to, learn to i think take a more, inclusive and comprehensive view, of, revenues and costs. and that's one of the lessons that i hope, can come out of this. </U>
+			<U WHO="S4"> (i was gonna) say that i think that, a lot of schools, especially in the Big Ten and big, athletic schools use their athletic departments, to promote recruitment, in terms of, um getting students, not just athletes, to come to their school. like during the Michigan Illinois football game, Illinois ran a commercial for, their school, and, the first shot was of the football team, next couple shots of the football team, next shot the basketball team, then they showed um graduation, and then they showed another shot of the football team and they said, <U WHO="SU-m"> (right) </U> the title was we're all about academics. <EVENT WHO="SS" DESC="LAUGH"/>
+				<U WHO="S1"> right... <OVERLAP> some of us </OVERLAP>
+				</U>
+				<OVERLAP> and we thought </OVERLAP> that was hilarious we have it on tape we've watched it over and over again. </U>
+			<U WHO="S1"> some of us get a little agitated <OVERLAP> with that. </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> like how, </OVERLAP> how is that, (academically) <U WHO="S1"> yeah </U>
+			</U>
+			<U WHO="S7"> well, but i mean that's like, but i mean that's like the main, draw of a university for some people. <U WHO="S4"> right </U> cuz we were talking about i, i actually talked about my, higher ed class about why, athletics is so important to u- some undergraduates. but also at the same time like, we we're at the University of Michigan so we think of universities like in terms of like, academics and what they bring but the greater public at large, thinks about a university for what it sees which is athletics which is why you have people in Europe, wearing Michigan sweatshirts. <U WHO="S1">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> not </OVERLAP> because they know we're a wonderful research-based institution <EVENT WHO="SS" DESC="LAUGH"/> but because we have a football team and because we have a basketball team. </U>
+			<U WHO="S1"> you know, that's some of it but have you ever gone up to somebody i've almost stopped doing this who has a Michigan sweatshirt on and said go blue and they look at you like you're from <U WHO="SU-f"> mhm </U> outer space. <U WHO="SU-f"> mhm </U>
+				<EVENT WHO="S3" DESC="LAUGH"/> they have no idea why they're wearing a University of Michigan <U WHO="S3"> go blue </U> except that somebody <U WHO="S7">
+					<OVERLAP> it's popular </OVERLAP>
+				</U>
+				<OVERLAP> gave it to them </OVERLAP> or it's popul- i mean i, i, it's kind of funny when you do this. yeah? </U>
+			<U WHO="S5"> back home in uh California we, joke my parents are both alums so we, we joke about real Michigan shirts and, fake ones and the real ones are kind of like this where it's just blue with the yellow Michigan, and you can pick out who actually went to Michigan <U WHO="S1"> yeah </U> because they have, one of these, real shirts and not like, one of the flashy ones with like, <U WHO="S4">
+					<OVERLAP> oh the, </OVERLAP>
+				</U>
+				<OVERLAP> Wolverines and the big, </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> oh the stuff down here? </OVERLAP>
+				</U>
+				<OVERLAP> block M on the, </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> (blocks,) on the side? </OVERLAP>
+				</U>
+				<OVERLAP> chest and like the, </OVERLAP> real gaudy looking ones. </U>
+			<U WHO="S4"> but that's everywhere though. <OVERLAP> cuz i was in, Vancouver, </OVERLAP>
+			</U>
+			<U WHO="S5">
+				<OVERLAP> right m- but those are the </OVERLAP> ones that like they sell at Big Five, and <U WHO="S4"> yeah </U>
+				<U WHO="S1">
+					<OVERLAP> okay you guys </OVERLAP>
+				</U>
+				<OVERLAP> and those are </OVERLAP> the ones just fans buy <U WHO="S4"> yeah, but <OVERLAP> i was in a club in Pennsylvania (and) </OVERLAP>
+				</U>
+				<OVERLAP> that you can't, buy in Ann Arbor. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> there's nothing like athletics </OVERLAP> to get you going, <U WHO="S4"> no </U> stop. <EVENT WHO="SS" DESC="LAUGH"/> alright, we obviously aren't gonna get around the table so now i'm gonna just start calling on a few people who had differ- very different kinds of approaches. uh, Ringo. why don' t you talk a little bit about your approach <OVERLAP> here? </OVERLAP>
+			</U>
+			<U WHO="S15">
+				<OVERLAP> well </OVERLAP> i, remember having read a couple years ago or over the past few years articles in the newspapers about, um how c- certain schools were receiving much more applicants, than other schools and it's uh for example the business school. um it's been, very well, um, reported that in the past several years business schools admissions rates, have just shot up while, law school for example went down and, actually just last year was the very first year the trend started reversing. but the general trend is, business schools started going up, law schools going down. so then i was looking at the budget and i, saw that, the business school had, a, rather large increase, in its budget, this year as compared to the years previously, and, i've noticed that for example they also said that medical schools, uh have, reported decreasing um, applicants over the years as well and i noticed that, the medical school and a lot of other health related schools in the university, were receiving decreases in their budget. so i was thinking well, could the school be responding in a sort of supply and demand way? and, i, don't know if i concluded yes but i thought well maybe, that could be a factor. </U>
+			<U WHO="S1"> yeah and i- i you know i think Dave, i- when he talked about this after making this argument, and sh- and, putting in some evidence goes on to say <SEG TYPE="READING"> having accordingly noted these trends, behind which are probably numerous other unaccounted for factors at play, uh besides mere market supply and demand pressures. uh, since one can only assume a great deal from budget statements one one has to wonder about this </SEG> i mean in other words he's he's saying you know, i've looked at this, it looks like it supports, what i, have set out to look at, but there might be, some other things going on here. which is, which is true there, probably are some other things going on here. but he does note, this big increase for business, and the decline not just for medicine but the other health sciences and it's interesting, to think about. and then, if you thought about the market, um, in computer science, which is just, wild, uh the amount of money if you could (if you could get_ had) information, at that level, of computer science you might have seen some additional, movement there in information technology generally. um, interestingly there's gonna be a great shortage of teachers, we know, millions. and uh i suspect you're not going to see the same kind of increase in investment in the school of education. i'll be surprised we'll see. and so there's uh, uh there there are other things going on here but there is a kind of glacial movement at the university. it's not, more immediate, uh but, there is a glacial movement that responds to the market, um, right now, there are people wondering about, what should students know to be, not just the market in terms of jobs but, what should students know about information technology to be, effective citizens, in the country, that we see out, ten or twenty years. and how do we adjust our curriculum, as a consequence. you see programs in the professional schools more than in L-S-and-A that get started, to respond to a particular market, niche they need. you know so pharmacists so the pharmacy school might start a particular kind of program. and you you see a lot more market attention in the professional schools it's it's sort of part of their identity, to pay attention. they are after all, training people to go into, particular fields which is very different from, the goals that we have in L-S-and-A about educating people, uh and developing certain skills and abilities so that people can then go on into many many different, walks of life and be good citizens and be fulfilled human beings and all that kind of stuff. um, that was abou- i thought a very interesting, approach. and what about Vanessa? where's Vanessa? yes do you want to say something about what you did? </U>
+			<U WHO="S9"> yeah um, well i thought it was interesting i was looking at the summary, um and the discrepancies between, the different colleges and, their different populations, and how does that correlate to what kind of funding they're getting? and, i looked_ i just compared L-S-and-A to, one other school_ i mean you can compare it to all of them and i think that would be interesting if you had more time but, um i compared it to the music school just cuz that was easiest um, cuz i'm familiar with both. um, and i compared, their um, their instruction budgets as well as their scholarship budgets. and i found, great discrepancies between um, let me get my paper cuz, i don't have the numbers. the number of students that they have in those colleges and the amount of money that they're getting. for example um, the school of music last year enrolled nine hundred and sixty five students that's undergrad and grad. um, which was um, one eighteenth the number of students the seventeen thousand three hundred and seventy students in L-S-and-A. um, but the money they received was not proportionate to, the number of students um, in each school. um, even more um, interesting was the amount of scholarship money they were getting. the average, i mean if you break it down just by, the generic number of students, in the schools um and then mu- number the amount of scholarship money they're getting in the general budget. um it breaks down to the average school of music student would get, um just over three thousand dollars, whereas the average L-S-and-A student would get, three hundred and sixty-four dollars. <OVERLAP> so that's, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> (big) </OVERLAP> big difference. </U> pretty darn big difference. um, and another, matter that would complicate things is um, i found out that only fifty-one percent of, school of music students are from in Michigan in-state students, um whereas the, percentage in for instance L-S-and-A would be much higher. so you're paying for, basically the the problem that i kind of, saw in the numbers was that, um in some schools um, and i- i'd be interested to see ho- what i- what the breakdown is in the other schools. but, the university is facing this problem of, drawing the most talented student pool that it can, while remaining a truly state university. and you know fifty-one percent of in-state students is just barely, an in- you know a state institution um, basically just for numerical purposes. um, but how do you draw the most talented, pool if you're, really focusing only on one state? i mean you have to, you have to look outside and the only way that it can do that, seems to me is to give, more money. and there's also, um, it's it's also a market thing in that, in some pre-professional schools i think that you probably, um there's fewer students, to go around and so there's, almost, a recruitment aspect in who's gonna give you the best deal. <U WHO="S1"> mhm mhm </U> (where to go to that) school, so. </U>
+			<U WHO="S1"> this was, this is an example, i don't want to embarrass Vanessa but of a very short paper that, was really, good. well written and well argued. uh lemme just uh, uh, uh, comment on a couple of things about the politics, of what's going on here... my predecessor as dean was, Peter Steiner. you never heard of him, he was gone long before you came. uh the, dean of the music school who just stepped down is, Paul Boiler. and, now he's stepped down and what's the new person's name is, </U>
+			<U WHO="S9"> (xx) <OVERLAP> it escapes me, </OVERLAP> she sh- </U>
+			<U WHO="S1">
+				<OVERLAP> her she, </OVERLAP> yeah, it escapes me too, unfortunately. but anyway, i haven't met her yet, there was a joke, around among the deans that uh, the provost was always robbing Peter to pay Paul. it was a lot of mm you know always robbing Peter to pay Paul always robbing L-S-and-A to pay the music school. uh, the music_ what happens in the budget, L-S-and-A has got this huge budget... so if you have, a challenge centrally, and you need money, you go to the big budgets. where are the big budgets? the big budgets, the really big budgets are in <OVERLAP> L-S-and-A, </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> but L-S-and-A </OVERLAP> has the biggest student <OVERLAP> body too </OVERLAP>
+				</U>
+				<OVERLAP> engineering, </OVERLAP> right, exactly <U WHO="S3">
+					<OVERLAP> so like, </OVERLAP>
+				</U>
+				<OVERLAP> but L-S and A </OVERLAP> has this huge <OVERLAP> student body </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> just because they have </OVERLAP> a big budget doesn't mean that you can necessarily, <U WHO="S1"> exactly </U> take money out of it. </U>
+			<U WHO="S1"> but if you're talking, some people wanna talk dollars. other people wanna talk, dollars per student... or dollars, per something, okay? um, so you really do i think have to talk dollars per student. now when i say that i say that because, i'm a member of L-S-and-A. <EVENT WHO="SU-f" DESC="LAUGH"/> um if i were a member of b- of music i probably wouldn't want to be talking dollars per student. now what is the, uh what what is the goal though of the music school? the music school has a goal, of becoming, internationally acclaimed, in music theater and performance... and they draw faculty from, the Metropolitan Opera in New York, i mean they draw fac- it's a very impressive faculty it's a very impressive student body. watch these students perform i mean th- it's really, a delight i i love going to the productions. they don't see themselves as a Michigan, you know as a pl- as a Michigan, kind of operation. the- they wa- they're operating on the world's stage, right? so for them and they have students who actually audition, to get in, and they want, talented_ now who's the person who's the drummer? </U>
+			<U WHO="S16"> (me) </U>
+			<U WHO="S1"> yes, so this relates to what you you were arguing <U WHO="S16"> uhuh </U> (you know) because you're you're you know, on the one hand they want people to audition they want to, they want to select the very most talented students. on the other hand they want to select their students, for their opportunities and not the L-S-and-A students, who may be more talented, but, were not admitted to the, music school because that's not your interest i mean, that's not what you decided to major in. most of the music school, students at least used to do double majors, i don't know, whether that's shifting, now or not. but, so the music school would really like, t- to not have to pay attention at all to state, in-state bit. i mean, and and we've been under pressure political pressure, to maintain, in-state enrollment, yes? </U>
+			<U WHO="S3"> then there's there's also the other pressure, like you know i guess administratively, of the fact that in-state students bring in, i mean out-of-state students bring in more tuition dollars. <U WHO="S1"> a <OVERLAP> lot more </OVERLAP>
+				</U>
+				<OVERLAP> like they were, </OVERLAP>
+				<U WHO="S4"> mhm </U> like arguing that like in, past articles we've read <U WHO="S1"> it is, </U> and it's like a huge <OVERLAP> issue, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> big bucks </OVERLAP>
+				</U> and then but then, you know in eighty-four at the, i guess it was the court decision, they said there has to be like about sixty-six percent. </U>
+			<U WHO="S1"> not the courts </U>
+			<U WHO="S3"> er, oh it was, the legislat- er </U>
+			<U WHO="S1"> you know the courts can't do this, <OVERLAP> right? </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> i don't know </OVERLAP>
+				</U> cuz we're constitutionally autonomous. </U>
+			<U WHO="S3"> oh i guess so, so i guess we cho- like, we <OVERLAP> chose er, </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and the legislature </OVERLAP> can't, write a law. </U>
+			<U WHO="S3"> they can't write a law so it's like i guess we chose to but, <OVERLAP> do.- </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> ah </OVERLAP> did we choose to? </U>
+			<U WHO="S4"> no, <U WHO="S7"> there's the </U> pressure </U>
+			<U WHO="S13"> we got pressure </U>
+			<U WHO="S3">
+				<OVERLAP> pressure, yeah poli- yeah. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it's politics right? </OVERLAP> that's what we're talking about here. it is the informal politics. they said, they who were they? well Mark Hood and others, in the legislature said, under Harold Shapiro, who was the president, before Jim Duderstadt, you allowed out-of-state tuition to get to forty percent and we're not having it. and if you don't bring that number down, uh we're going to give you budget trouble, because that's one thing they can do right? they can't they can't pass a law. now they can do this in other states. they can pass a law. they <OVERLAP> do. </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> they </OVERLAP> have the power of <OVERLAP> appropriation </OVERLAP>
+				</U>
+				<OVERLAP> and they say, </OVERLAP> in other states, you may take only ten percent out-of-state, and the publics then have to abide by that. uh... the publics, um, the other states also will collect all the tuition dollars, at the state level and give the publics back, an allocation which may or may not, equal the tuition they collect, okay? in Michigan they cannot do that. because of our constitutional autonomy. that has permitted us, to raise the out-of-state level, quite a lot relative to other publics. we are quite high. i don't know whether you know what the percentages are in other, in other states. many of you are from other states but you ought to find out you know at your, flagship institution how many, what's the percentage of out-of-state in-state students? </U>
+			<U WHO="S3"> eight percent </U>
+			<U WHO="S1"> eight percent <OVERLAP> ten percent five percent. it's much </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> it's like eight percent in Connecticut i think </OVERLAP>
+				</U> much different. </U>
+			<U WHO="S3"> something like that. it's something ridiculous (xx) </U>
+			<U WHO="S1"> why does Michigan do this? one, because for many years, the quality of the students, applying from out-of-state was higher. and we could get a better student body if we allowed if we admitted more. now, it's almost indistinguishable. so that's not, why we, would do it necessarily now but for years, i- there really was a gap. and there might be a little gap now sometimes but you don't when you're looking at the, the last few in-state versus the last few out-of-state yeah? </U>
+			<U WHO="S3"> would diversity play into it too? you know what i'm saying cuz like, <U WHO="S1">
+					<OVERLAP> well </OVERLAP>
+				</U>
+				<OVERLAP> you have </OVERLAP> people from different states, <OVERLAP> (and) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> one of </OVERLAP> 'em is to create, <EVENT WHO="S3" DESC="LAUGH"/> a student body that is from all over, because we think of ourselves as, a national as well as a state institution and we think that it makes for a more interesting student body. and another reason is money. <U WHO="S3">
+					<OVERLAP> yeah, that's what i was going to say </OVERLAP>
+				</U>
+				<OVERLAP> cuz we can charge a lot more. </OVERLAP> and those are very big dollars and once, Harold Shapiro had gotten that up to forty percent of the student body, getting it back down to thirty percent which is, basically what the legislature wanted to do i don't remember that was millions and millions and millions of dollars. now, how do we do admissions? well i'm not gonna tell you that because it h- that would be a long story. <EVENT WHO="S3" DESC="LAUGH"/> but i will tell you one thing about it as dean of L-S-and-A, lately, uh you know we do a rolling admissions and we're constantly watching and as we get, into the summer every week we get a report, how are we doing? what's our yield? you know how many of the students we've admitted, have come in? do we want to admit more students? uh and what's our in-state out-state ratio? okay? we follow that, very carefully. and there are a few spaces reserved for, athletes. and there are a few spaces reserved for, uh, legacies, you know people who, are the children of, big donors and so forth i mean, centrally i know that they do some of this. but a few spaces i mean it's not large numbers, of spaces. if all of a sudden you're coming in and you're at thirty-four percent, which is about where we've been lately, but you've decided, you know, uh or maybe you're at thirty-five percent, and you've decided you just really can't go any more than thirty-four percent, out-of-state, who do you put the muscle on? L-S-and-A, cuz we've got the students. <U WHO="SU-f"> oh </U> i mean if you're going to get, you know it's a big, i- these get to be se- serious numbers. you can't make a difference, very easily, in the music school. (can make) a little difference. but, they have to go up percentage-wise a whole lot, to affect the total percentage of the <U WHO="S3">
+					<OVERLAP> so the </OVERLAP>
+				</U>
+				<OVERLAP> undergraduate </OVERLAP> student body. </U>
+			<U WHO="S3"> the total percentage is what is important. <U WHO="S1"> alright. </U> so like there can be discrepancies among schools, <OVERLAP> in terms of they don't have to </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well, absolutely and </OVERLAP> there are discrepancies among schools. now, who, now we're going to talk politics again. who, do people really care about, when they talk, the percentage of in-state? they don't care about the graduate students. <U WHO="S3">
+					<OVERLAP> oh </OVERLAP>
+				</U>
+				<OVERLAP> that's </OVERLAP> not who they care about. i mean we are not getting complaints from the legislature about, we've got, uh i don't even know i think it's like, eighty percent out-of-state, maybe higher, <OVERLAP> graduate student body. </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> it's a political </OVERLAP> agenda like you want to insure that like, people in Michigan can get an undergraduate education but you don't necessarily want to guarantee that, <U WHO="S1"> right </U> they can get their <OVERLAP> graduate education. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> right now, </OVERLAP> within the undergraduate e- education, what do you care about? well, you care about the undergraduate in-state number, that's what they care about. and, they care about, primarily, L-S-and-A but, <U WHO="S4"> well i think they care about engineering <OVERLAP> too </OVERLAP>
+				</U>
+				<OVERLAP> but </OVERLAP> engineering too engineering is you know they get they let in about a thousand. so they're they're big numbers too we we let in about four, <EVENT WHO="SU-f" DESC="LAUGH"/> so, uh but they're the next biggest. they also care about on the graduate level, medical school and law school. um, and that's just because we've got a lot of attorneys around and, getting into medical school both of those are, big prizes, and there is a feeling that the flagship university here oughta be training, a certain number of Michigan doctors and Michigan dentists and Michigan, attorneys. but the pressures, typically don't come, in the music school or in kinesiology or, pharmacy or whatever yeah? </U>
+			<U WHO="S14"> does Michigan reserve a certain amount of seats for in-state students in, like medical school and law school? cuz i was reading in a bunch of other schools especially (as it pertained) to law school that like a school like Virginia, reserves seventy-five percent of its seats for in-state students. <OVERLAP> Michigan doesn't do that? </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> no, yeah so we don't, </OVERLAP> we we don't do it that way. now they would, they would, look askance if their class, turned out to be all out-of-state. <U WHO="S14"> mhm </U> i mean, ther- so it's a much more, it's a much more, uh informal, uh political process. uh they might do it differently depending on, frankly what they thought they could get by with, <U WHO="S14"> mhm </U> in a particular year. do you have people in the legislature who are really breathing down your neck on this subject, or do the people in the legislature say look, we can't give you, as much as we think you deserve in budget terms so if you let your t- you know out-state go up a little bit we're not gonna, say (anything?) all these conversations are going on, all the time. people are, asking for hints and, you know they're walking the, halls in Lansing, trying to figure out, whether they're going to get pressure how much and where they're gonna come in. um, they have to worry not just about this year though they also have to worry about the out years and if they, they if they do something that they can get by with this year but they're gonna get attacked you know a couple years down_ they can't go too far. cuz, y- you will open up, the opportunity, for problems. </U>
+			<U WHO="S3"> where does most of the in-state money_ you know the the i mean the, the state money go? does it go more towards an obviously undergraduate then than graduate? you know what i'm saying because there's they give a like lump sum don't they? so, <U WHO="S1"> right </U> like how do they decide like which percentages? </U>
+			<U WHO="S1"> well, you saw the size of that general fund budget right? that's where the state money goes. </U>
+			<U WHO="S17"> and there's like nine hundred ninety-eight million (or something in there?) </U>
+			<U WHO="S3">
+				<OVERLAP> (eight hundred and ninety-eight) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> where the heck is that? </OVERLAP> oh okay. </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> mm. and you see the state, the state, let's see, the state appropriations is about three hundred and forty million. the student fees there was a year, i don't remember when it was like within the last five or six or, seven years when, student tuition and fees passed state appropriations it used to not be as big, believe it or not. but now you can see the student tuition of these four hundred and eighty million, is substantially <U WHO="S3">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> larger </OVERLAP> than the state appropriation, um. </U>
+			<U WHO="S3"> cuz it just seems like, cuz the graduate schools there's not as much of a discrepancy with in-state and out-of-state tuition as there is, like, at among undergraduates <U WHO="S1"> right </U> so i was just wondering if more money from the state obviously then would go to, undergraduate. you know <U WHO="S1">
+					<OVERLAP> uh </OVERLAP>
+				</U>
+				<OVERLAP> what </OVERLAP> i'm saying? cuz they hafta make up for it. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah that general fund, money, where is the total general fund? here is the total general fund nine hundred and twenty-eight million right. and you know that about three hundred and, some comes from the state, four hundred and, substantial some comes from student tuition because you know when you add those together yo- you're almost there, <U WHO="S17"> mhm </U> right? <U WHO="S3"> right </U> and then you get some extra, you know there's some more money in like um, uh, well (what else do we make,) account here. that's (really) the main sources they won't uh they don't, let's see endowment income's separate the research income is separate, uh, oh they might have some in- well they count the income from investments even separately so that those are the two big pieces. um, where does it go? well, that's of course a question the deans care about deeply. <U WHO="S3"> right </U> and students should care about deeply too. it is what, is allocated, i mean if you for example, suppose you decided to calculate, what tuition was raising, for L-S-and-A students. you would want to know what the ratio of in-state out-state students was, and you'd wanna know how many students there are. under- for graduate and undergraduate you'd want to do a little adjusting for graduate tuition and undergraduate lower level upper level, you know, (so) that you could get a ball park. and then you would want to look and see how that number compared with, the total L-S-and-A budget. because there is then a portion_ then you'd wanna look at the three hundred and thirty-eight million that's the state money, and see, how much above tuition, L-S-and-A was getting, <U WHO="S3"> right </U> and whether that amount, equaled their pro-rated share, of the state given the undergraduates. and i can tell you the answer. no, it doesn't. L-S-and-A is a major subsidizer of other schools. so one of the, uh, arguments, that is very common, in administrative circles is, we should get more because we're not getting our fair share for the students we have. other schools say we should get more because it costs more to educate our students, engineering student costs more than an L-S-and-A student. uh you know a medical student costs more. why does it cost more? well, the faculty get paid more that's one reason. and another is that the equipment, physical plant and everything, yeah? </U>
+			<U WHO="S3"> why would like the business school, cost more than, L-S-and-A? like, is it <U WHO="S6">
+					<OVERLAP> the faculty </OVERLAP>
+				</U>
+				<OVERLAP> because they_ </OVERLAP> the faculty, is it, <OVERLAP> the faculty like (make more money?) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the faculty make more money and </OVERLAP> some of us think they live really well over there. <U WHO="S3"> yeah </U> you know if you ever wandered <OVERLAP> through the business school, </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> they do they're like, it's really nice </OVERLAP>
+				</U>
+				<EVENT WHO="S3" DESC="LAUGH"/> yeah, i think it's really nice <OVERLAP> you know </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> they like, </OVERLAP>
+				</U> redo <EVENT WHO="S3" DESC="LAUGH"/> see their gardens are nice, <U WHO="S3"> yeah </U> their buildings are nice, their, rooms are nice, the faculty, have summer money as part of their regular contract you don't see that in the newspaper. </U>
+			<U WHO="S4"> (then) why is kinesiology paying so much? </U>
+			<U WHO="S1"> why is what? </U>
+			<U WHO="S4"> kinesiology. </U>
+			<U WHO="S1"> paying so much? </U>
+			<U WHO="S4"> well their tuition is like, <OVERLAP> sky high. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> the students </OVERLAP> pay <U WHO="S4">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> a lot. </OVERLAP> yeah you noticed that. uh the out-of-state <OVERLAP> students. </OVERLAP>
+				<U WHO="S18">
+					<OVERLAP> the out-of-state students </OVERLAP>
+				</U>
+				<U WHO="S4"> right </U> pay a lot. and, i don't really know whether they just decided that's what the market can bear, there is <OVERLAP> some of this that's what the market can bear </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> sometimes there's a lot of athletic scholarships </OVERLAP> in <OVERLAP> kinesiology though </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> yeah, is that part of it too? </OVERLAP>
+			</U>
+			<U WHO="S1"> i know they're athle- athletic scholarships there but i don't honestly know, <U WHO="S3"> why </U> why. w- i- that does not compute for me right away. <U WHO="S4"> (compute) </U> the reality of kinesiology is they've got s- two student populations they've got, uh, a student population of people interested in kinesiology. <U WHO="S4">
+					<OVERLAP> and the others were put there </OVERLAP>
+				</U>
+				<OVERLAP> and then they have a student </OVERLAP> population of athletes who, end up in kinesiology cuz they can't get into L-S-and-A right away. and they usually transfer into L-S-and-A when they can. cuz that's_ they're really not interested in kinesiology so you get, you get these uh, uh situations where, we're so excited, that you're coming to the University of Michigan, you you great football star, and you've been admitted, <EVENT WHO="S3" DESC="LAUGH"/> to <U WHO="S3">
+					<OVERLAP> football star </OVERLAP>
+				</U>
+				<OVERLAP> kinesiology </OVERLAP> and they say, what is that? <EVENT WHO="SS" DESC="LAUGH"/> uh because that's not what they thought they were doing. i mean they didn't apply to kinesiology. um, and kinesiology, therefore is a unit which is really hard to manage. because you've got these really bright students, who wanna do kinesiology, and you've got these other students some of whom are bright but some of 'em, aren't, <EVENT WHO="SS" DESC="LAUGH"/> and and actually, uh and they're spending a lot of time, on their athletics. well i mean if they were, if they had better, uh performance they would have gotten in where they wanted to go first. and those are the students that are there, as a second choice, not as their first choice. yeah? </U>
+			<U WHO="S17"> are they keeping tuition high in order to uh, reserve spots for, scholarship athletes who can afford it cuz they're getting scholarships? <U WHO="S1"> i don't know </U> and they have no other place to put 'em so, <U WHO="S1"> maybe <OVERLAP> somebody's gonna, </OVERLAP>
+				</U>
+				<OVERLAP> just have some spot </OVERLAP> to put 'em? </U>
+			<U WHO="S1"> figure this out for us. i d- i don't know. <U WHO="S4"> do an addendum for you. </U> they do have_ they do reserve the spots, <OVERLAP> and </OVERLAP>
+			</U>
+			<U WHO="S17">
+				<OVERLAP> well i was, </OVERLAP> yeah i was just thinking like maybe they wanted to outprice some people, <U WHO="S4"> right </U> just to have open seats, <OVERLAP> from out-of-state and other, yeah. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yeah i was surprised to see how high that number has, gotten. </OVERLAP> uh it could be that they have more demand than they have room, to admit yeah? </U>
+			<U WHO="S2"> that's what i kind of did my paper on. i did mine on, kines department and uh, i mean i figured it out, uh, i don't know if i did this right but i figured out per student but i did it, through uh instructional, <U WHO="S1"> mhm </U> i just took the instructional budget and i, figured that out per per student. and um, kines i, where was it? kines um, according to the number of students they only got, two, two thousand seven hundred and, about seven dollars, uh allotted per person. L-S-and-A got eight thousand, and i think the average number, according to the total number of instructions shoulda been about nine thousand. and so like that's a seven thousand discrepancy, <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> seven </OVERLAP> thousand dollar discrepancy between, what each student should be getting and what each student in kines is getting. and so, and then, um, i don't know, i kind of hypothesized that it was because of, the athletic scholarships cuz i figur- cuz, i i looked up m- about eighteen, where is it? where is it? um... i got the num- i got the amount of, oh, eight million dollars is giving to is been given to athletic awards. and um, i did a quick scroll of the varsity, football, and al- and the majority of them, are in kines. and so, um i'm not sure, if that, if any conclusion can be drawn from that, <OVERLAP> but </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm, </OVERLAP> it certainly was an interesting figure. it it um, it uh, w- do we know what the average L-S-and-A student, gets? you you compared kinesiology to, the overall average. </U>
+			<U WHO="S2"> and i said L-S-and-A is uh, <U WHO="S18">
+					<OVERLAP> eight thousand sixty </OVERLAP>
+				</U>
+				<U WHO="S3">
+					<OVERLAP> eight thousand </OVERLAP>
+				</U> eight thousand. </U>
+			<U WHO="S1">
+				<OVERLAP> eight thousand right so it's a little lower. </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> like seven hundred and seventy i mean </OVERLAP>
+				</U> but it's just still a huge huge, uh discrepancy and, i don't know, i would think that, um there are two questions here one is, why are the out-of-state tuition, so high? <EVENT WHO="SU-m" DESC="LAUGH"/> and the other question is why does kinesiology get so little, per student from the general fund budget, relative to other schools? and so th- those are two, different questions. the, the second question why they get so little, from the general fund budget per student may, uh be affected by the fact that many of their students are on scholarship and they don't need, as much, to cover some of the things that are covered. uh they also occupy do they not central C-C-R-B? <U WHO="S4"> mhm </U>
+				<U WHO="S3"> oh yeah </U> and uh, they haven't had you know i don't know whether they haven't, that much responsibility for space and construction we have a, substantial construction budget in L-S-and-A. they, there may be some things which make educating their students, much cheaper, i don't know. yeah? </U>
+			<U WHO="S10"> i just (wanna) um, raise the argument that i mean, i'm in-state so obviously well i'm biased and whatever but, i mean i think that out-of-state tuition is too expensive but i think what a lot of people forget too is, a lot of the programs a lot of the facilities that are here, that um, like people in-state won't be using. like a lot of like, the cultural programs and like the stuff like, they'll have, just like i don't know like groups, for people that are from out of state and different countries and stuff and that people from in-state are not going to really be using those things, <U WHO="S1">
+					<OVERLAP> like what? </OVERLAP>
+				</U>
+				<OVERLAP> or those programs. </OVERLAP> like a lot of the like any of the cultural things, like the um, there's a lot of programs or like even just like religious things and stuff that, people from in-state not not as many will be using 'em like, <U WHO="S4"> why? </U> i don't use any of the club- i'm trying to think of like something i can put <OVERLAP> in an example. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> cuz the clubs </OVERLAP> are not supported </U>
+			<U WHO="S10"> not, <U WHO="S14"> yeah <OVERLAP> that's just </OVERLAP>
+				</U>
+				<OVERLAP> not the </OVERLAP> clubs but it's like in the budget, it's like, it's saying like out-of-state and it's like if, the thing i was really having a difficult time doing my paper, is looking at the budget is it's not telling, like it's not breaking it down into smaller things so you kinda just hafta assume, what you're spending on. but, i just wonder like, if out-of-state tuition and (you're thinking) i'm like arguing that, out-of-country tuition should be a lot more. it is obviously a lot more, but i just want to know what what they're spending all the money on for like, like out-of-state students why is it so much for tuition? </U>
+			<U WHO="S1"> well i mean do you think that there are majors, that in-state students are not interested in? or uh, when you talk about programs. </U>
+			<U WHO="S10"> in some ways yeah that too but, i mean </U>
+			<U WHO="S1"> um, i don't really know if that's true. i i i don't really know you know if you, say looked at, um... you know if you if you want to focus on culture there are places you might look to focus on culture. </U>
+			<U WHO="S10"> so the b- well i guess what i'm asking is the budget doesn't even go towards those things though so it then my argument is totally whatever because, if those programs are not, the the funding isn't going for it then, it doesn't matter anyways. </U>
+			<U WHO="S1"> well you'd ha- you'd have to get into more budget detail. <U WHO="S10"> yeah </U> and like i said i only gave you the summary. but, um, if if you're thinking about programs like say Asian Languages and Cultures which teaches Japanese, language Chinese language uh, uh and a variety of other languages as well as culture. and you, you ask yourself the question you know why do we have that program? and it has within it a Buddhist studies program and, you know maybe, b- uh you think, uh Michigan, it has a fairly low, uh Asian American population, uh, and maybe, the interest of undergraduates in A-L-C, is more, heavy among out-of-state students than it is in-state students i mean you might, imagine an argument like that. uh whereas say, you know chemistry is, uh not, so culturally bound up. but i i i don't actually know that that's true that the in-state students aren't, uh lining up to study Japanese and Chinese just as much as the out-of-state students. yeah? </U>
+			<U WHO="S4">
+				<OVERLAP> um, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> and then </OVERLAP> we'll come over here. </U> i've had a few of those, A-L-C classes, and courses and, the population in them was completely, irrelevant like there were everybody was in there it didn't matter where they were from what their culture was there were people from Michigan people from, all over the country people that, had lived in the country that we were studying, and, they didn't seem to </U>
+			<U WHO="S1"> yeah </U>
+			<U WHO="S10"> i'm not saying classes even, i'm s- like it had nothing to do with <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> but if you think about </OVERLAP> performances like, i mean i'm just trying to get a handle on... what strikes you, as areas where we're spending money as a university, on things that are geared toward people out-of-state, which i thought was the point you were making. </U>
+			<U WHO="S10"> in in a way but i mean it's so it's so ridiculous like how much is, more out-of-state because, it's like i wonder how, they can justify it without breaking it down into detail, <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> why </OVERLAP> it's so much more. </U>
+			<U WHO="S3"> well isn't it <U WHO="S1">
+					<OVERLAP> yeah, (good) </OVERLAP>
+				</U> isn't it, th- the claim the main claim is that, the state appropriations, like, people have like their parents i guess not really the students themselves but their parents have been paying in, <U WHO="S4">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> to </OVERLAP> their tuition, through tax dollars. <U WHO="S1"> right </U>
+				<U WHO="S5">
+					<OVERLAP> everybody is </OVERLAP>
+				</U>
+				<OVERLAP> like all their lives. </OVERLAP>
+				<EVENT WHO="S8" DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> so there's, <U WHO="S5"> i pay money too <OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> their pay </OVERLAP> well, their but their, but the, but people who live in Michigan pay Michigan taxes, <U WHO="S3"> right exactly </U> and Michigan taxes contribute to the Michigan <OVERLAP> allocation </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> allocation </OVERLAP>
+				</U> to the University of Michigan. uh the claim is made that even out-of-state tuition doesn't cover the full cost <OVERLAP> of education </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> the full cost of, </OVERLAP> yeah. </U>
+				<OVERLAP> because there's some subsidy, </OVERLAP>
+			</U>
+			<U WHO="S3">
+				<OVERLAP> they say, at least </OVERLAP> fifty percent, like is what is written in the, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> and there's also a sense </OVERLAP> that that's what the market will bear, cuz we're still getting good applicants. yes? did you </U>
+			<U WHO="S8"> well, it's (somewhat) off the subject now, <U WHO="S1"> oh </U> but i have two comments one was, i have a degree in Japanese and i've actually found that in my classes it's like, eighty percent Asian... which is, i don't know what sh- the other classes you had but <U WHO="S4">
+					<OVERLAP> they were the culture classes not </OVERLAP> the language classes. </U>
+				<OVERLAP> like in my experience, </OVERLAP> like in language classes it's so, whatever that says or not but um, and like, <U WHO="S1"> right <OVERLAP> it doesn't sh- </OVERLAP>
+				</U>
+				<OVERLAP> not even </OVERLAP> Asian Americans <OVERLAP> but just Asian. </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> it doesn't, yeah </OVERLAP>
+				<U WHO="S1"> well </U> it doesn't mean that <OVERLAP> they're, </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> but um, </OVERLAP> no. a- and, also i wrote my paper on, the demography of, um, i don't know if you read it, <U WHO="S1"> yes </U> in curriculum. and i compared three schools, in three different states in different parts of the country and looked at the departments. and, i know it was a really small comparison, and i'd actually like to do a, much larger comparison with all the states. but from what i found the demographics seem to match up to the uh, minority, degrees offered in the states <U WHO="S1">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> which </OVERLAP> i thought was really really interesting. </U>
+			<U WHO="S1"> i think it is a very interesting hypothesis now here here was an example of a paper that really laid out, uh a hypothesis. which was that, the curriculum, of a public school... would reflect to some degree, the population of the state. which do- does relate a little bit to the point you were making. and that to the extent that the populations differ, if you look at, if you were to choose, states that have very different, kinds of population, that you would expect to see, some reflection of that in, the courses or majors that were offered, and that that, in a sense is a response, to, the realities and desires of the state. it is a way in which the university does reflect. </U>
+			<U WHO="S8"> and i have no idea how that works. i was really surprised that i could show that, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well, </OVERLAP> i thought it was very interesting (and you) go pick she picked, three states, Michigan Washington and what was the other one? </U>
+			<U WHO="S8"> Georgia. </U>
+			<U WHO="S1"> Georgia. so, Georgia had a much larger African American population than either of the other two, Washington had a much larger Asian American population, than, either of the other two. and, and yes, you did find, some differences that reflected those <OVERLAP> populations. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah like </OVERLAP> exact- almost exactly. </U>
+			<U WHO="S1"> (yeah) which, which is, i think very interesting and it's the kind of thing that is suggestive, but you'd really want them to look at a wider range of states, as as you suggested, and you'd wanna, kinda test this a little more finely. and there's other kind of casual evidence to suggest that this is the case, um if you look at New Mexico for example, uh i went to a meeting there recently and of course they have a much higher Native American population and there is, a lot of emphasis on Native American, uh, culture, and language there. and if you look at U-C-L-A, and you see how Latino Latino Latino studies are broken up into, sub groups, uh uh that are much more finely defined, out there that reflect, to some extent the nature of the Latino population, in the L-A area. there was a hand over there. </U>
+			<U WHO="S3"> yeah, uh was there um, like similar in Michigan, too? <OVERLAP> (do you know that) </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> yeah we had the highest </OVERLAP> percentage of African American and Latino, and those are the only two. like i didn't look at like, A-L-C i looked at like, African American or la- Latino or um, Native American. and we only have Latino and African American those are our two highest. Georgia only had African American that's their only significant minority. and University of Washington had, everything. and they had high, like high numbers of everything. </U>
+			<U WHO="S1"> this is a question you know there was a an issue_ we teach thirty-three languages i think in L-S-and-A. a lotta languages, <U WHO="S3"> thirty-two </U> it's very expensive to teach all these languages. and there was a point, number of years ago we were teaching Swedish and we were teaching Norwegian. uh, and the enrollments, were not, were better in Swedish than in Norwegian and we actually discontinued Norwegian, not because we don't think Norwegian is an important language, but, uh because we knew that the University of Minnesota was teaching Norwegian. if people really wanted to study Norwegian <EVENT DESC="LAUGH"/> maybe they could go to the University of Minnesota and not every school can offer everything. uh we were not teaching Korean, and we had a huge number, of, uh Korean students and Korean American students here. and, Korea, uh was a, a focus of Asian Studies, and of Buddhist Studies and so, given some of our other strengths it made sense to start teaching Korean and the enrollments you know, were very strong. and we um, so in a way the enrollments do_ we we we do teach some things where we don't have strong enrollments because we believe that, they're just vital for, the intellectual, core. there was a paper about, the, temporary possibly elimination of the concentration of the program in studies of religion. <EVENT WHO="S19" DESC="LAUGH"/> (xx) and you were commenting that the courses you took had large enrollments, <U WHO="S19"> yeah </U> you know so why, why has this been, put under study? and it'll be interesting to see what happens next year i think this is the second year of the two years of </U>
+			<U WHO="S19"> so did i get it wrong? is it still, a major or not? (cuz) <OVERLAP> i wasn't sure. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> uh it's_ they're not admitting people, </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> (xx) </OVERLAP>
+				</U> to the major. <OVERLAP> it's been suspended. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> it's the one across the street </OVERLAP>
+			</U>
+			<U WHO="S19"> suspended not completely (wiped.) </U>
+			<U WHO="S1"> now you uh it's easier to suspend than to eliminate first of all. <U WHO="S19"> yeah </U> so you don't know what's coming, whether that's just the first step toward elimination, or whether it will be reinstated, or maybe something like it but somewhat different will be reinstated. um, people do pay, attention to enrollments, in that case i don't think enrollments was the issue. <U WHO="S19"> no </U> no. because i think they did have plenty of enrollments. uh uh i think that there was concern about whether it, uh had uh, an intellectual focus and really represented, an adequate, whether there were enough faculty, affiliated with the program we have a lot of faculty who study religion here. you know r- religion in politics, religion in anthropology, religion in, you know all this stuff. but, they may not be affiliated with the program in the studies of religion. they spend all their time in political science or sociology and so there was a question about, did we have enough faculty strength there, to, do well by our students? and they're supposed to be going through an external review and thinking that, issue through. it may result in more investment, in the area, or it may result in, less investment, in the area it remains to be seen. </U>
+			<U WHO="S19"> that makes sense because like when i looked at the old bulletin i had um, the only, professor it had down there was Ralph Williams and i know that he's like, predominantly English so. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> right. but he, he was actually the director of the program for a number of years and of course anything Ralph teaches has huge enrollments. </U>
+			<U WHO="S4"> cuz Ralph was great </U>
+			<U WHO="S8">
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> (cuz he's great) </OVERLAP>
+			</U>
+			<U WHO="S1"> cuz he's <OVERLAP> a great teacher, </OVERLAP> yeah and very knowledgeable, uh about, <OVERLAP> all things, </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> everything </OVERLAP>
+				</U>
+				<EVENT WHO="SS" DESC="LAUGH"/> religion, <OVERLAP> a- all things. </OVERLAP>
+				<U WHO="S3">
+					<OVERLAP> all things. </OVERLAP>
+				</U>
+				<EVENT WHO="SS" DESC="LAUGH"/> um, yeah it's, i- it's, i- you know i- we're in this, organization where there are, lots of claims on resources, more claims than, dollars, even though there're a lotta dollars. you'd like to spend more on financial aid, you'd like to spend more on religion, you know studies of religion you know if if you looked out there people, have things they would, like to spend more on, and uh, and so, anytime something, begins to look weak, it becomes vulnerable. now why might it look weak? well it might look weak cuz it doesn't have any enrollments. and you say well, is, is this the best way to spend the money? and, uh, you might say well even though it doesn't have any enrollments, or not much in the way of enrollments, it's absolutely vital for this other program over here, that is, you know one of our strongest, areas. or the faculty in this area are so good that we don't want to lose them and if we discontinue it then we'll lose them and they contribute to these other things. or maybe it just goes. it might look weak because, we don't, think that the intellectual content has kept up with, the field. that was one of the issues in communication, a number of years ago. that, they certainly weren't lacking for enrollments, in fact, their T-V course was, identified by the student body as the gut course of the year. <EVENT DESC="LAUGH"/> and it was attracting hundreds and hundreds of students but it, but it didn't have a lot of challenge to it it wasn't, uh, at least seen by the administration as a course worthy, of the intellectual, challenges that ought to be there for our students. so you can attract students, i mean you can teach, wine tasting one-oh-one or, <EVENT WHO="S14" DESC="LAUGH"/> you can, <U WHO="S3">
+					<OVERLAP> wine tasting one-oh-one </OVERLAP>
+				</U>
+				<OVERLAP> teach a lot of things </OVERLAP> and, you could attract, students uh, but, you know is that really what we want to do. and so that one went under review and was reconfigured because it was thought not to have the intellectual rigor, uh that it needed. and um, there was a point at which, you know they might have just been abolished entirely but instead they were reconfigured. geography before i became dean we used to have a department of geography. we don't have one anymore. and it went. and, <U WHO="S14">
+					<OVERLAP> i took two classes (in it.) </OVERLAP>
+				</U>
+				<OVERLAP> and i i mean, </OVERLAP> twenty years later we still get letters from people saying oh, what a shame it is that you don't have a department of geography because, Michigan had this very strong tradition in geography and now it's become, uh, you know so much more than it used to be and we don't have any standing, and there's, there's truth to that but you can't do everything. so you're constantly having to, make choices in what you do. and there're just, always people, ready to spend the money, on the things that they think are important. <PAUSE DUR="04"/> anything else? we're coming, to the witching hour. i know we haven't touched upon all of your papers, i found them very interesting. um... so let me, yes get them back to you Debbie this is yours </U>
+			<EVENT DESC="UNINTELLIGIBLE CONVERSATION NEXT 4:00"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>

@@ -1,0 +1,776 @@
+<!DOCTYPE TEI.2 SYSTEM "micasex.dtd">
+<TEI.2 ID="dis495ju119">
+	<TEIHEADER>
+		<FILEDESC>
+			<TITLESTMT>
+				<TITLE> Intro to American Politics Discussion Section </TITLE>
+				<TITLE> Rackham Div: SS </TITLE>
+			</TITLESTMT>
+			<PUBLICATIONSTMT>
+				<PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+				<IDNO> DIS495JU119 </IDNO>
+				<AVAILABILITY>
+					<P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+					<P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+					<P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+				</AVAILABILITY>
+			</PUBLICATIONSTMT>
+			<SOURCEDESC>
+				<RECORDINGSTMT>
+					<RECORDING DUR="55">
+						<DATE> October 27, 2000 </DATE>
+						<EQUIPMENT>
+							<P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+						</EQUIPMENT>
+						<RESPSTMT>
+							<NAME> Darell Tibbles </NAME>
+							<RESP> Recording </RESP>
+							<NAME> Darell Tibbles </NAME>
+							<RESP> Transcribing </RESP>
+							<NAME> Jessica Rett, Linda Kurtz </NAME>
+							<RESP> Rechecking </RESP>
+							<NAME> Linda Kurtz </NAME>
+							<RESP> Proofreading </RESP>
+							<NAME> Linda Kurtz, Chris Frost </NAME>
+							<RESP> Final Editing, 12/18/01 </RESP>
+						</RESPSTMT>
+					</RECORDING>
+				</RECORDINGSTMT>
+			</SOURCEDESC>
+		</FILEDESC>
+		<PROFILEDESC>
+			<LANGUSAGE>
+				<P> Primary Discourse Mode: INT </P>
+				<LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+			</LANGUSAGE>
+			<PARTICDESC>
+				<PERSONGRP ROLE="Students" SIZE="24"> </PERSONGRP>
+				<PERSONGRP ROLE="Speakers" SIZE="18"> </PERSONGRP>
+				<PERSON ID="S1" LANG="NS" ROLE="SG, Instructor" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S6" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S8" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S9" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S10" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S11" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S12" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S13" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S14" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S15" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S16" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S17" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="S18" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SS" LANG="NS" ROLE="JU, Student" SEX="U" RESTRICT="NONE" AGE="1"> </PERSON>
+				<PERSON ID="SU-f" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="0"> </PERSON>
+				<PERSON ID="SU-m" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="0"> </PERSON>
+			</PARTICDESC>
+			<SETTINGDESC>
+				<SETTING>
+					<P> Lecture Room, Mason Hall </P>
+				</SETTING>
+			</SETTINGDESC>
+		</PROFILEDESC>
+	</TEIHEADER>
+	<TEXT>
+		<BODY>
+			<EVENT DUR="3:35" DESC="MICASE RECORDING ANNOUNCEMENT"/>
+			<U WHO="S1"> alright so maybe we should get started with culture. we talked a little bit about culture last time what did we say it was? <PAUSE DUR=":08"/> (culture) <EVENT DESC="LAUGH"/> was that a stop or <OVERLAP> was that a i'm raising my hand? </OVERLAP>
+			</U>
+			<U WHO="S2">
+				<OVERLAP> (no that was as a that was an) </OVERLAP> i'm volunteering. <U WHO="S1"> okay </U> um, the values and cultures and ideals that people in America have, that help them interpret, their experience? </U>
+			<U WHO="S1"> so it's, something that helps you interpret your experience <EVENT DUR=":12" DESC="PAUSE WHILE WRITING ON BOARD"/> any other ideas? what's culture? <PAUSE DUR=":09"/>
+			</U>
+			<U WHO="S3"> doesn't it kind of give a um, a basis of like what's right and wrong and how you should like judge your, (like) what you do what's acceptable in life (and) </U>
+			<U WHO="S1"> norms? </U>
+			<U WHO="S3"> yeah that's the <OVERLAP> word i was looking for. </OVERLAP>
+				<EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> norms. yeah. </OVERLAP> gives us a set of norms <EVENT DESC="WRITING DURING NEXT :10 OF UTTERANCE"/>
+				<PAUSE DUR=":04"/> sort of, societal, rules, what's acceptable what's not... what your behavior means, what other people's behavior means. Mark? </U>
+			<U WHO="S4"> they have different beliefs, different <OVERLAP> cultures </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> beliefs </OVERLAP>
+				</U> have different beliefs... (xx) </U>
+			<U WHO="S1"> beliefs about what? </U>
+			<U WHO="S4"> beliefs about everything about, religion about... everything. what (makes) right and what's wrong. </U>
+			<EVENT DUR=":16" WHO="S1" DESC="PAUSE WHILE WRITING ON BOARD"/>
+			<U WHO="S5"> you can even tie in that uh, article in the Voices of Dissent (kind of,) the different (culture war,) like, they wouldn't_ they did things <OVERLAP> (in different culture) </OVERLAP>
+				<EVENT WHO="SS" DESC="LAUGH"/> what? you could tie it in, but yes so like their cul- their culture's different, and so they're not they don't know the American law for certain things so they don't know if they're violating it. but they they think it's right so, their norms aren't necessarily ours. </U>
+			<U WHO="S1"> okay so culture is, shared? <EVENT DUR=":05" DESC="PAUSE WHILE WRITING"/> so it's not just the way that, we individually interpret our experiences but it's, something that we share as a group, right? and then people come in from the outside and, they haven't been here as part of our group and what? </U>
+			<U WHO="S5"> and then they violat- or they, go against, our culture <OVERLAP> and th- yeah </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> they don't </OVERLAP> necessarily, give the same meaning to </U>
+			<U WHO="S5"> y- well yeah exactly they have different, cultural um, backgrounds and stuff. </U>
+			<U WHO="S1"> okay. so what about this, political culture stuff? political culture. yes, Hannah? </U>
+			<U WHO="S6"> um, i guess you would say it would be how, um, people, in- people interact with the government and how they feel about the government and, basically the government of a country, set sets the tone for the political culture of that country. </U>
+			<U WHO="S1">
+				<EVENT DESC="WRITING ON BOARD NEXT :07 OF UTTERANCE"/> so maybe it has something to do with government? <PAUSE DUR=":04"/> what else? we talked about what is politics right? Stacey? </U>
+			<U WHO="S7"> um political culture's like your values and beliefs and everything like like geared toward the, politics. </U>
+			<U WHO="S1"> so what's politics? </U>
+			<U WHO="S7"> stuff, that's political. </U>
+			<EVENT DUR="SS" DESC="LAUGH"/>
+			<U WHO="SU-m"> (thoughts and stuff?) </U>
+			<U WHO="S1"> what's politics? Mark? </U>
+			<U WHO="S4"> um political culture, part of our political culture is freedom. </U>
+			<U WHO="S1"> oh part of <OVERLAP> our political culture is </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> i was going back to that </OVERLAP>
+				</U> freedom? <U WHO="S4"> alright </U> that would go under that would go under if we had another category up here and we had, <EVENT DESC="WRITING ON BOARD NEXT :10 OF UTTERANCE"/> American political culture <U WHO="SU-m"> yes </U>
+				<EVENT DUR=":05" DESC="PAUSE WHILE WRITING"/> you wanna put freedom under there. so what is that? w- relate that to what a- what what's that? over here. </U>
+			<U WHO="S4"> it's one of our uh, experiences. </U>
+			<U WHO="S1"> is that we experience freedom? </U>
+			<U WHO="S8">
+				<OVERLAP> societal (rules) </OVERLAP>
+			</U>
+			<U WHO="S4">
+				<OVERLAP> we do. </OVERLAP>
+			</U>
+			<U WHO="S1"> we do? </U>
+			<U WHO="S4"> belief... <U WHO="SU-f"> (xx) </U> belief? </U>
+			<U WHO="S1"> we might believe in freedom. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S8"> strive maybe, cuz it's not necessarily <OVERLAP> freedom. </OVERLAP>
+				<U WHO="S4">
+					<OVERLAP> freedom </OVERLAP>
+				</U>
+			</U>
+			<U WHO="S1">
+				<EVENT DESC="WRITING ON BOARD DURING NEXT :16 OF UTTERANCE"/> it's a belief, it's maybe something we value, and then we have questions about, is it something we attain? <PAUSE DUR=":06"/> alright so what else what's what's politics? </U>
+			<U WHO="S4"> government </U>
+			<U WHO="S1"> is it just government...? remember we had this discussion on the very first day of class, and i said, this class <OVERLAP> is not </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> (xx) (not) </OVERLAP>
+				</U> this class is not what? </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> American government. <U WHO="SU-m">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> very good </OVERLAP> uh (xx) <EVENT WHO="SS" DESC="LAUGH"/> this class is what? American </U>
+			<U WHO="SS"> politics </U>
+			<U WHO="S1"> so what else did we talk about? Hannah? </U>
+			<U WHO="S6"> collective action </U>
+			<U WHO="S1"> collective action </U>
+			<U WHO="S6"> and getting collective goods for, everyone. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S4"> and free riders </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> and Mark's favorite, free riders. </U>
+			<U WHO="S6"> common goals... </U>
+			<U WHO="S1"> politics is all about how we deal with each other right? central to that idea would be what other big P word? </U>
+			<U WHO="SS"> power </U>
+			<U WHO="S1"> power, politics has to do with how we, distribute power, right? now some of that we do through government, right? that's what you've been, studying for a semester... but part of that we do what? <PAUSE DUR=":06"/> if we don't do it through government we do it... </U>
+			<U WHO="S4"> ourselves </U>
+			<U WHO="SU-m"> ourselves </U>
+			<U WHO="S1"> ourselves </U>
+			<U WHO="SU-f"> Mark you are on a roll. </U>
+			<U WHO="S1"> he's on fire today... so <PAUSE DUR=":04"/> so, political culture. what is it? </U>
+			<U WHO="SU-f"> (power) </U>
+			<U WHO="S1">
+				<PAUSE DUR=":05"/> Michelle? </U>
+			<U WHO="S8"> it's like the methods in which we, interact with one another in order to attain power. </U>
+			<U WHO="S1"> no that sounds like politics. </U>
+			<U WHO="S8"> yeah. what was the question? </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> what's political culture? </U>
+			<U WHO="S8"> it's the way we do it like, you know like the style, like our culture. </U>
+			<U WHO="S1"> do we agree with her? </U>
+			<U WHO="SS"> no </U>
+			<U WHO="S1"> (Adam?) </U>
+			<U WHO="S9"> um, it's our attitudes, or our um and our involvement in, in politics and, how we how we perceive this political system, <U WHO="S1"> okay </U> (which) i guess. </U>
+			<U WHO="S1"> maybe it has to do with, perceptions... Amy, <U WHO="S10">
+					<OVERLAP> um </OVERLAP>
+				</U>
+				<OVERLAP> put </OVERLAP> it together for me Amy. </U>
+			<U WHO="S10"> it's like our ideas and beliefs about what the government does and then what it shouldn't be doing. </U>
+			<U WHO="SU-f"> (xx) </U>
+			<U WHO="S1"> and where </U>
+			<U WHO="S10"> and where the power should be? <EVENT DESC="LAUGH"/>
+			</U>
+			<EVENT WHO="S1" DESC="WRITING ON BOARD DURING NEXT :28 OF UTTERANCE"/>
+			<U WHO="S1">
+				<PAUSE DUR=":08" WHO="S1"/> so we have ideas beliefs, attitudes <PAUSE DUR=":07"/> about, where <PAUSE DUR=":09"/> not only where power belongs but, how we get it there, right? right? <U WHO="SU-f">
+					<OVERLAP> right </OVERLAP>
+				</U>
+				<OVERLAP> i mean </OVERLAP> that's what government's about right? we think, s- we need some sort of central authority right? cuz we want what? </U>
+			<U WHO="S5"> we want, representation. </U>
+			<U WHO="S1"> what do we want? what do we want from the government? </U>
+			<U WHO="SS"> collective goods. </U>
+			<U WHO="S1"> collective goods, we want stuff. </U>
+			<U WHO="SU-f"> we want free stuff. </U>
+			<U WHO="S1"> we want stuff we can't get by ourselves, <U WHO="SU-f"> right </U> right? </U>
+			<U WHO="S7"> i have, <U WHO="S1"> yes </U> i have a question. </U>
+			<U WHO="S1"> yes </U>
+			<U WHO="S7"> i don't really understand how that, uh like i don't think that makes sense as political culture. </U>
+			<U WHO="S1"> why? </U>
+			<U WHO="S7"> i don't know. i just don't. i_ like i feel like culture should be like, </U>
+			<U WHO="S1"> what should culture be? </U>
+			<U WHO="S7"> i don't know. but like i understand like the attitudes and beliefs part but <OVERLAP> like, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U> i don't know then, never mind. i don't know what's wrong with me. </U>
+			<U WHO="S1"> so Professor Walton gave you the, example of the stop sign right? what's the stop sign example? </U>
+			<U WHO="SU-m"> (xx) </U>
+			<U WHO="S1"> well t- tell me what the example was somebody repeat it for me. </U>
+			<U WHO="S10"> it's like you jus- you just see the shape and then you automatically put your foot on the brake. </U>
+			<U WHO="S1"> why? <U WHO="S12"> uh </U> (fan dement) </U>
+			<U WHO="S11"> i think he, if i remember correctly, if you happen to go through the stop sign, you immediately look around to see if anybody saw you, uh, violate a law. </U>
+			<U WHO="S1"> so what's the what's the point there? alright l- let's try this. what does a stop sign mean? </U>
+			<U WHO="SU-m"> to <OVERLAP> stop. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> means stop </OVERLAP>
+			</U>
+			<U WHO="S1"> what does a stop sign mean? </U>
+			<U WHO="SU-f"> to stop. </U>
+			<U WHO="S1"> what does a stop sign mean? </U>
+			<U WHO="SU-f"> stop. </U>
+			<U WHO="S1"> stop </U>
+			<U WHO="SU-f">
+				<EVENT DESC="LAUGH"/>
+				<OVERLAP> (alright) (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what does a </OVERLAP> stop sign mean? <U WHO="SU-f"> (no) </U> stop. what does a stop sign mean? </U>
+			<U WHO="SU-m"> stop. </U>
+			<U WHO="S1"> okay. do we have some sort of agreement in here about what, the stop sign means? </U>
+			<U WHO="SU-m">
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="SS">
+				<OVERLAP> yes </OVERLAP>
+			</U>
+			<U WHO="S1"> how do we get that? </U>
+			<U WHO="SS"> culture </U>
+			<U WHO="SU-m"> stop sign </U>
+			<U WHO="SU-m"> it's in the name. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> okay what does a red light mean? </U>
+			<U WHO="SU-m"> (alright) that's better. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> what what does a red traffic light mean? </U>
+			<U WHO="SU-m"> it means you (should) stop </U>
+			<U WHO="S1"> stop okay what does a red traffic light mean? stop. Adam, what does a red traffic light mean yeah okay. is that better? <U WHO="SU-m"> (xx) </U> mkay. </U>
+			<U WHO="S7"> so that's culture. </U>
+			<U WHO="S1"> so uh, so we all think it means the same thing? okay Brett so what happens if somebody comes from another country and tries to d- drive on our roads? </U>
+			<U WHO="S5"> uh they, might not necessarily understand, that the stop sign means, stop. </U>
+			<U WHO="S1"> yeah, or that a, a red traffic light means stop, right? </U>
+			<U WHO="S7"> or that we drive on the right side. </U>
+			<U WHO="S1"> or that we drive on the right side. is we drive on the right side written all over the place? <U WHO="SU-m"> no </U> no, but do we do it anyway? <U WHO="SU-m">
+					<OVERLAP> yeah </OVERLAP>
+				</U>
+				<OVERLAP> most </OVERLAP> of us. yeah? Jynx? </U>
+			<U WHO="S12"> (and) so, it's just like the common beliefs, attitudes assumptions about um, how we view the power works in our nation? </U>
+			<U WHO="S1"> it's a a yeah it's our assumptions about how things work right? <U WHO="S12"> (xx) </U> it's, it's our assumptions about how things work, it's the, beliefs and values, that, enable us to give, the same object or the same experience, similar meaning, <U WHO="S12">
+					<OVERLAP> mkay </OVERLAP>
+				</U>
+				<OVERLAP> right? </OVERLAP>
+				<U WHO="SU-f"> right </U> so you and i come to a a red light, cuz we live in the same culture and have that same shared experience around what a red light means we both know that it means, stop, right? </U>
+			<U WHO="S8"> but it's like it's a never-changing thing like, always growing, like with the stop example, <OVERLAP> that's kind </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> of more um, concrete like stop always means stops <U WHO="S1"> mhm </U> and i i would say that it for the next hundred years it'll probably always mean stops stop, but with American political culture like it's always changing and like during campaigning the way you do it it's always different so </U>
+			<U WHO="S1"> right. well there's nothing that says that, we have an American political culture that has the same values beliefs, and assumptions forever and ever and ever right? no. i mean it's still made up of the same, things assumptions beliefs values. </U>
+			<U WHO="S8"> it's like based on the <OVERLAP> (xx) </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> but, </OVERLAP>
+				</U> that it grows, <OVERLAP> and it changes. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> what those </OVERLAP> values are can change over time right? yes? okay so we understand what political culture is? we think? <U WHO="SU-f"> mhm </U> where do you get it? <PAUSE DUR=":05"/> where does it come from? Margaret? </U>
+			<U WHO="S13"> socialization? </U>
+			<U WHO="S1"> socialization. can anyone tell us what that means? </U>
+			<U WHO="S13"> do i need to? </U>
+			<U WHO="S1"> you can take a stab at it. </U>
+			<U WHO="S13"> it's like uh, through our daily norms and through our life we're told we have to do something this way and therefore we become accustomed to it, <OVERLAP> and so, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> so we </OVERLAP> start out as itty-bitty kids <OVERLAP> and </OVERLAP>
+				</U>
+				<OVERLAP> right </OVERLAP> it's just you practice what you see everyone else is doing like in Ann Arbor, stop doesn't mean stop. <U WHO="S1"> no it doesn't </U> so maybe it does when you're you know so like you were saying it- it is always changing i mean <OVERLAP> stop, </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> to me stop doesn't mean stop. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> stop means slow down <EVENT WHO="SS" DESC="LAUGH"/> (and) if there's no one looking then keep going right? </U>
+			<U WHO="S13"> and red light means go. <EVENT DESC="LAUGH"/> but you know what i mean it's like what you see. <U WHO="S1"> mhm </U> so i'm sure a lot of people came to Ann Arbor and they're like oh i'm gonna stop and then they see no one else stops, <U WHO="S1"> mhm </U> (and they just) keep going. </U>
+			<U WHO="S1"> so so where's this socialization come from? </U>
+			<U WHO="SU-m"> society </U>
+			<U WHO="S1"> society socialization from society that, isn't that kinda like answering the <OVERLAP> definition </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> alright </OVERLAP>
+				</U> with the same word? </U>
+			<U WHO="S14"> we learn from what's like around us (xx) </U>
+			<U WHO="S1"> who's around us? </U>
+			<U WHO="SU-f">
+				<OVERLAP> parents peers people </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> media </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> teachers parents family schools </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> your family, </OVERLAP>
+			</U>
+			<U WHO="SU-m"> schools religion </U>
+			<U WHO="SU-f"> school </U>
+			<U WHO="S1"> your peers </U>
+			<U WHO="SU-f"> school </U>
+			<U WHO="S1"> your school. </U>
+			<U WHO="SS"> media </U>
+			<U WHO="SU-f">
+				<OVERLAP> anyone who you (would have) had contact with </OVERLAP>
+			</U>
+			<U WHO="S6">
+				<OVERLAP> church media, political events </OVERLAP>
+			</U>
+			<U WHO="S1"> political events </U>
+			<U WHO="SU-m"> definitely (media) </U>
+			<U WHO="S1"> media. okay so tell me how th- some of those things work. <PAUSE DUR=":04"/> what did you learn from your parents, about politics? <PAUSE DUR=":05"/> Brett? </U>
+			<U WHO="S5"> they usually tell you, well they usually brainwash you and tell you to vote their, <EVENT WHO="SS" DESC="LAUGH"/> the way they vote. <U WHO="SU-f"> yeah </U> so you don't really i i didn't re- really learn too much from my (p-) they're just like vote, uh whatever. </U>
+			<U WHO="S1"> they they told you to vote? </U>
+			<U WHO="S5"> well, i mean over time they're like, yeah i'll uh, okay they're conservative so, they're like, they just kinda, say stuff like liberals don't really know what they're talking about and that kinda stuff. </U>
+			<U WHO="S1"> okay </U>
+			<U WHO="S5"> so <OVERLAP> (i mean) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> well was that </OVERLAP> a common experience in here? </U>
+			<U WHO="SU-m"> no </U>
+			<U WHO="S1"> i heard someone say definitely. </U>
+			<U WHO="S12"> i just remember, uh my dad, had to secretly vote for Dukakis cuz my mom would get really upset. <EVENT WHO="SS" DESC="LAUGH"/> definitely... like she didn't want us to hear about it. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> so they tell you, so that's that's a pretty uh, <U WHO="SU-m"> (harassment) </U> it's a pretty, obvious form of, political communication right? when we're, explicitly talking about candidates and, we know that that's, political. what about, other ideas they pass on to you? Mark? </U>
+			<U WHO="S4"> politically? or, what do you mean? </U>
+			<U WHO="S1"> other ideas that you think might, fall into this, political culture thing </U>
+			<U WHO="S4"> they might have like a, a bumper sticker, you know they don't say anything but you can te- you like see it everyday, <EVENT WHO="SS" DESC="LAUGH"/> (xx) and um (and) that's true </U>
+			<U WHO="S1"> that's true it's true, you may never have a meaningful conversation with your parents, <U WHO="S4"> it's </U> but they can give you indicators of where they stand right? okay... Brett? </U>
+			<U WHO="S5"> c- they, well they'd pretty much um, like they give you your morals, for <OVERLAP> the most </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> your morals </OVERLAP>
+				</U> part and then that, has, a a lot to deal with, politics. </U>
+			<U WHO="S1"> how is that? </U>
+			<U WHO="S5"> because, there's it like maybe they're really into the environment or whatever. <OVERLAP> but </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U> they and they, they despise like, wasting and all of the uh toxins being used and going into the atmosphere so, they they install values that the environment's really <OVERLAP> important </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> instill </OVERLAP>
+				</U> so instill, values the environment's really important so then you look at it in in politics for, who's like, like who's, who strives to, help e- the environment. so that's how it might affect you in </U>
+			<U WHO="S1"> right that's that's <U WHO="S5"> yeah </U> super very good yeah. so they give you, they give you values about what's important right? <U WHO="S5"> yeah </U> right? and so, politics is a lot about deciding, where resources go right? so when you're making your decision about where resources go what do you think about? <U WHO="S5"> (it's) morally </U> what's <OVERLAP> important </OVERLAP>
+				<U WHO="S5">
+					<OVERLAP> yeah </OVERLAP>
+				</U> to you right? Kate? </U>
+			<U WHO="S15"> um, another thing is like y- you listen, to like you just hear your parents talking like, to other people and <U WHO="S1"> mhm </U> in conversation and, you, kind of just believe that everything they say is correct so you tend to, like when you're young at least, and then you take those with you and then you, those've become your beliefs, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> there's this </OVERLAP> thing about your parents, they get you from, <U WHO="S15">
+					<OVERLAP> day one </OVERLAP>
+				</U>
+				<OVERLAP> the most </OVERLAP> impressionable age, on. right? they got eighteen solid years to brainwash you right? <PAUSE DUR=":04"/> wh- what else do they give us? so they give us, ideas about, sort of, political candidates and that process they give us ideas about what's important, where we want our resources as a society to go. what else? John? </U>
+			<U WHO="S16"> well um, yesterday in the D- i think it was yesterday in the Diag you had, those people walking around with the big um, big signs with poles attached, to their <OVERLAP> waist. </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> Jesus </OVERLAP> saves? </U> yeah and uh you saw little like five and six-year-olds handing out the pamphlets with their parents and holding the signs up with their <OVERLAP> parents. </OVERLAP>
+				<U WHO="SS">
+					<OVERLAP> oh that's </OVERLAP> disgusting </U> and um, </U>
+			<U WHO="S1"> that was pretty political right? </U>
+			<U WHO="S16"> yeah and it just it shows you how, like what we we would think that that's, totally wrong but the kids don't know any better the kids know </U>
+			<U WHO="S1"> but what are those children learning about politics, from that experience? </U>
+			<U WHO="SU-f">
+				<OVERLAP> extremes </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> that </OVERLAP> whatever their parents say is right no matter, what's coming out of their mouth. </U>
+			<U WHO="S1"> but what else are they learning? </U>
+			<U WHO="S7"> he told me i was going to hell, a little five-year-old. <OVERLAP> i didn't take the pamphlet he gave me. </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> maybe you are </OVERLAP>
+			</U>
+			<U WHO="S7"> i don't know like he was like you're going to hell cuz i wouldn't take his <OVERLAP> thing. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> alright </OVERLAP> but what are they learning about politics? can you give me some practical_ what are they learning? (Adam) </U>
+			<U WHO="S9"> they're learning to become active (xx) <U WHO="S1">
+					<OVERLAP> active, </OVERLAP>
+				</U>
+				<OVERLAP> (and) participation </OVERLAP>
+			</U>
+			<U WHO="S1"> they're learning that being active and participating is important, right? their parents are showing them that they're, did anyone stop and think why aren't these children in school? </U>
+			<U WHO="S6"> i just said that </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> what's that? </U>
+			<U WHO="S6"> i just said that <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S1"> yeah? </U>
+			<U WHO="S6"> yeah <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so i mean </OVERLAP> their parents are right then and there are teaching them, your political action is more important than what? the social norm of going to school? </U>
+			<U WHO="SU-f"> they're probably homeschooled, cuz </U>
+			<U WHO="S6"> that's what i thought too </U>
+			<U WHO="SU-f"> cuz who needs to go to school when you have Jesus on your side. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f"> exactly </U>
+			<EVENT DUR=":06" WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-f">
+				<OVERLAP> isn't that what (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so what else do we learn? okay </OVERLAP> what else are they learning? so, Stacey they told you you're going to hell so, (what d-) </U>
+			<U WHO="S7"> just the little kid not the big one. </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-m"> (the bigger kid) </U>
+			<U WHO="S1"> what do you think that they're learning? </U>
+			<U WHO="S7"> not good things. </U>
+			<U WHO="S1"> what do you think they're learning about people that are not like them? </U>
+			<U WHO="S7"> that if, they're not like them they're wrong. </U>
+			<U WHO="S1"> and, what? </U>
+			<U WHO="S7"> and <OVERLAP> they're </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> how does that (help) </OVERLAP>
+				</U> going to hell. </U>
+			<U WHO="S1"> how do you think that they transfer that into political, meaning? </U>
+			<U WHO="S6"> that <U WHO="SU-f"> (only people) </U> only people with their <U WHO="SU-f">
+					<OVERLAP> (they're not gonna be able to change) </OVERLAP>
+				</U>
+				<OVERLAP> beliefs are </OVERLAP> correct, ever. cuz they're very, like, i guess extremists. <U WHO="S1">
+					<OVERLAP> so </OVERLAP>
+				</U>
+				<OVERLAP> so </OVERLAP> if they don't agree with someone like they probably go (to Canada) or something that <OVERLAP> i don't know </OVERLAP>
+				<U WHO="SU-m">
+					<OVERLAP> yeah </OVERLAP>
+				</U> it's very extreme. they're very extreme in their beliefs so they're not gonna compromise, no matter what. </U>
+			<U WHO="S1"> what do you think um, they would think about, government resources going to, um activities they feel are, <OVERLAP> not </OVERLAP>
+				<U WHO="S7">
+					<OVERLAP> at odds </OVERLAP>
+				</U> not acceptable, not consistent with their beliefs...? not acceptable... what do you even_ they might not even think that, shoot people like Stacey should, be eligible for, um, you know college money from the government right? why waste our public money on Stacey she's going to hell. <EVENT WHO="SS" DESC="LAUGH"/> do you see my point? <U WHO="SU-f"> yeah </U> but (is it_) they're learning something about people who are not like them, and what that should mean for them politically. where else do you learn about people who are not like you? </U>
+			<U WHO="SU-m"> school </U>
+			<U WHO="S1"> and what you should do about people who are not like you. </U>
+			<U WHO="SU-f"> school </U>
+			<U WHO="S1"> school? how's that? </U>
+			<U WHO="S8"> teaching you diversity and like opening w- what school should do is like, open your mind to like, different cultures different types of living so you can be more accepting. </U>
+			<U WHO="S1">
+				<OVERLAP> so what </OVERLAP>
+			</U>
+			<U WHO="S12">
+				<OVERLAP> or you could </OVERLAP> go to school private school religious schools schools in Utah, <EVENT WHO="SS" DESC="LAUGH"/> schools in Michigan schools in New York City, it also depends on geography. </U>
+			<U WHO="S1"> alright so we talked about um, we talked once about, who thought they really went to a desegregated school, and how many people thought they did? <PAUSE DUR=":05"/> and how many people did i agree with? </U>
+			<U WHO="SU-m"> (nobody) </U>
+			<U WHO="S13"> mine really mighta been. </U>
+			<U WHO="S1"> really? </U>
+			<U WHO="S13"> rel- i swear, it was like forty-five percent um, Asian you know (and that) maybe like, black wasn't that represented there was still like maybe ten percent. <U WHO="S1"> mhm </U> and then you had whites but you had whites of all different religions you had Jewish you had Catholic you had Protestant, (you had) so i think it was, <U WHO="S1"> mhm </U> and they did teach a lotta diversity like <U WHO="S1"> mhm </U> and you know what i mean assembly after assembly. </U>
+			<U WHO="S1"> what about, your peers? do you think <U WHO="S13"> (they would've <OVERLAP> felt) that way </OVERLAP>
+				</U>
+				<OVERLAP> you learned, </OVERLAP> do you think you learned, about, diversity just through, being there with people who weren't? </U>
+			<U WHO="S13"> mhm </U>
+			<U WHO="S1"> alright. </U>
+			<U WHO="S13"> cuz i mean when, you know you're not you learn they're just like you everybody's just like you. there's really no difference. </U>
+			<U WHO="S1"> now if you didn't have that experience of uh, being personally exposed to people who were not like you where would you get your information? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="SS"> media </U>
+			<U WHO="S1"> media? </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> ooh, tell me. </U>
+			<U WHO="S14"> yeah because i went to a school that was certainly diverse i- it was like thirty percent white thirty percent black, twenty percent Mexican, ten percent Asian and, <U WHO="SU-f"> ten </U> and then you got ten percent of what's left and uh, </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="SU-m"> whoa, <OVERLAP> whoa </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> sounds accurate </OVERLAP>
+			</U>
+			<U WHO="S14">
+				<OVERLAP> well no i'm no i'm saying </OVERLAP> it was it was, <OVERLAP> everything so yeah. yeah i w- i didn't mean to be (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> (it was) a hodgepodge leftover yeah okay. </OVERLAP>
+			</U>
+			<U WHO="SU-f"> yes, it's important </U>
+			<U WHO="S1"> okay, <OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S14">
+				<OVERLAP> and </OVERLAP> so it was an inner-city school and like all the schools in like the surrounding area like everybody had this image that you know, like from the media from the newspaper the Lansing State Journal which is, well anyway, they were th- so everybody, in the surrounding area thought that Lansing schools were horrible and, you can't learn at a Lansing school and you're gonna get shot if you go there and, you can't get into col- you can't learn anything of course so, so like they_ kids honestly would ask us like how did we get into Michigan and, were you scared to go to school every day and, stuff like that and they get from well i guess their parents too and but, mainly the i think the media. so i i that's one way i think the media definitely influences how you perceive <OVERLAP> other people like </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so h- how's that </OVERLAP> politically important? </U>
+			<U WHO="S14"> because that's how they think about it if they're, they see people that aren't like them that didn't go to school, like with you know, if they didn't go to the best school or whatever that they uh, they they're not like (they're) different they're inferior. </U>
+			<U WHO="S1"> what about their information about, what's the cause of that? </U>
+			<U WHO="S14"> the cause? </U>
+			<U WHO="S1"> yeah, so what about, oh so they said oh you can't learn people are shooting each other. <U WHO="S14"> right </U> why? </U>
+			<U WHO="S14"> i guess because they weren't white i i mean, it's that's that's, that's kinda that's what we always, thought it is. </U>
+			<U WHO="SU-f"> cuz of their own political cultures. </U>
+			<U WHO="S1"> Brit? </U>
+			<U WHO="S17"> um, because if they, feel that people aren't learning there or it's violent or whatever (just) shut 'em down. i don't want funding going there well i'm not going to support this candidate or i'm not going to support this, group. so it shapes what they, <OVERLAP> think about </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> mhm, </OVERLAP> mhm <PAUSE DUR=":04"/> so we have value about um, who deserves government money and who doesn't, right? that's the political reality. John? </U>
+			<U WHO="S16"> well when um, when you go to school in a, a place that's very diverse and it's forced to be that way, <U WHO="S1"> mhm </U> through um, affirmative action or, whatever the cause may be like my sc- my school was quotas for, race. <U WHO="S1"> uhuh </U> and uh, when that happens they try to force it down your throat the idea, of racial equality and that diversity is good and, <U WHO="S1"> uhuh </U> when it's forced like that when it's force-fed to you it doesn't work, <U WHO="S1">
+					<OVERLAP> uhuh </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> it, they keep trying to uh, arrange it different ways to to get, more minorities into uh, into s- different schools but if it's, if it's force-fed like that it it just <OVERLAP> doesn't work. </OVERLAP>
+			</U>
+			<U WHO="S8">
+				<OVERLAP> why didn't it work? </OVERLAP>
+			</U>
+			<U WHO="S16"> uh well it didn't work at my school. <OVERLAP> at my school </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> why, </OVERLAP> why didn't it work? why didn't it work? </U>
+			<U WHO="S5"> because you're gonna associate with the group of people that, you're used to so is it really you're still segregated and you're, and like technically cuz your just (xx) </U>
+			<U WHO="S1"> Paul? </U>
+			<U WHO="S11"> it didn't work because, perhaps other certain elements (form this association.) <U WHO="SU-f">
+					<OVERLAP> (but why is it illegal?) </OVERLAP>
+				</U>
+				<OVERLAP> i mean you can put all the people you, (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> your </OVERLAP> school can be telling you all they want that, this is a good thing what i- what if, your other sources of, cultural knowledge are telling you it's not? right? </U>
+			<U WHO="S11"> that's what (i think) </U>
+			<U WHO="S1"> Katy? </U>
+			<U WHO="S15"> just that you have, all of these beliefs in your head that you got from your families before you even went to school so, it all comes into play. everything, is built on the others, <U WHO="S1"> mhm </U> (xx) </U>
+			<U WHO="S1"> mhm <PAUSE DUR=":08"/> so what do we think about people who are not like us...? <U WHO="SU-f">
+					<EVENT DESC="WHISPERING"/> (you're a racist American) </U> Jynx what do your parents think about people who are not like them? </U>
+			<U WHO="S12"> uhh... they're just not like them. they think that, <U WHO="S1"> does that <OVERLAP> have </OVERLAP>
+				</U>
+				<OVERLAP> their </OVERLAP> beliefs are true but they don't i don't think they, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> does </OVERLAP> that have consequences about what they think the government should do? </U>
+			<U WHO="S12"> yeah </U>
+			<U WHO="S1"> like what? </U>
+			<U WHO="S12"> um, in terms of, i guess, abortion. </U>
+			<U WHO="S1"> abortion? </U>
+			<U WHO="S12"> yeah </U>
+			<U WHO="S1"> okay, so what do they think about that? </U>
+			<U WHO="S12"> they think that they're, very very scared if the new, uh Supreme Court Justices that might be appointed are, of Bush's choice that that is a big threat to, </U>
+			<U WHO="S1"> to Roe-v-Wade? </U>
+			<U WHO="S12"> it scares them. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> what else? <PAUSE DUR=":04"/> what did you know about, other cultures? did anyone encounter new cultures when they came to Michigan? </U>
+			<U WHO="SU-f"> yes </U>
+			<U WHO="SU-m"> yeah </U>
+			<U WHO="S1"> and so what do you do with that new information? John? </U>
+			<U WHO="S16"> well um a lot of people only know about, uh other cultures on a superficial level, <U WHO="S1"> mhm </U> from what they see, other people doing or from what they hear through media or through, school or through their family but if you don't, if you don't live, like that culture lives or like that race lives or, that religion or, any other um, any other diversity then, you're not gonna see you're not gonna understand what, goes on in, in that culture... </U>
+			<U WHO="S1"> do we tend to have real nice things to say about people who are different than us? <U WHO="SU-m"> no </U> just generally speaking? what do you think? we as Americans do we generally have nice things to say about people who are not like us? </U>
+			<U WHO="S6"> i don't think we can make a broad-based generalization like that. </U>
+			<U WHO="S1"> you don't think so? <U WHO="S6"> i don't think so. </U> how's that? </U>
+			<U WHO="S6">
+				<EVENT DESC="LAUGH"/> i, i just don't think we can i think that, America is made up of many different types of people and i think, some people are very accepting and others aren't, and, that's reality and so some people have nice things to say or even if they don't have nice things they don't know enough, but i i don't think that you, i don't think that you could classify it. i think maybe we could take a census of like, you know the census just went out maybe you could like, put another one out about how do you feel about people that are different from you or <OVERLAP> i dunno. </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> yep, you know </OVERLAP> they have s- surveys like that. </U>
+			<U WHO="S6"> okay so maybe we <OVERLAP> could </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> so </OVERLAP> we talked about the national election studies </U>
+			<U WHO="S6"> so we could get ahold of some of those and find out about it maybe but i, <U WHO="S1"> mhm </U> don't think you can make a broad-based generalization. </U>
+			<U WHO="S1"> okay, who had who, <U WHO="SU-f"> a lot of <OVERLAP> (xx) </OVERLAP>
+				</U>
+				<OVERLAP> Angela </OVERLAP> you haven't talked much yet. </U>
+			<U WHO="S18"> oh, well i think um, generally, the way that we're seen, is maybe really um, conceited we think that like, our government and the way we run our nation is the best. and, therefore we try and impose it on other nations, <U WHO="S1"> mhm </U> and, we might think that that's great that we're helping them out but, i mean they might, not really want to accept it. <U WHO="S1"> mhm </U> you know. </U>
+			<U WHO="S1"> ethnocentric. it's when you think, you you you can't get out of the little circle in which your own culture is contained. anyone else, wanna respond? Paul? </U>
+			<U WHO="S11"> i think that, America's as a whole is terribly ethnocentric i mean every time we get into a war, we go in there and we say, we're gonna kick Saddam's butt and let's go in there and kick the commies' butt because they're wrong and, democracy and America's, the greatest thing in the world so let's tell the Chinese they all need to change their laws and, to some extent i mean we, America's presence in the world is seen as the finger pointer and, at times we become the policeman and, i think that, we harp on differences, more than any other country but at the same time, it's the fact that we do that that makes us, increasingly, um, progressive i guess. </U>
+			<U WHO="S1"> okay, other, responses? Mark? </U>
+			<U WHO="S4"> well in in addition to that i mean, it kind of makes our country look, insecure like we're scared that, for instance like the communists are gonna take over, and so we have like, we feel we have to stop it or something. </U>
+			<U WHO="S1"> mhm </U>
+			<U WHO="S4"> i don't know. i don't know what that's doing anything for (xx) <U WHO="S1"> (or concern) </U> that's just </U>
+			<U WHO="S1"> we we fear what we don't know? we don't know a whole_ i mean, okay so there were the, communists here and s- you you saw the, you went to lecture? you saw the little political ads? you saw the Johnson ad where the you had the little girl and the suggestion that <OVERLAP> she's being </OVERLAP>
+				<U WHO="SU-f">
+					<OVERLAP> (that's so) </OVERLAP>
+				</U> blown up by a nuclear bomb? right? there's a lot of fear going on there. how much information do you think your average American had about, what communism was? </U>
+			<U WHO="SU-m"> a little </U>
+			<U WHO="SU-f"> very little </U>
+			<U WHO="S4"> just that it was bad </U>
+			<U WHO="S1"> just that it was bad? yeah. that it was different from us? yeah. Katy? </U>
+			<U WHO="S15"> um, i was just gonna say um that people do, fear what they don't understand and our lack of knowledge and resources of all of these, different cultures different you know styles of doing things lead us to believe that ours is the right way and the best way to do something so we_ people are definitely, ethnocentric. </U>
+			<U WHO="S1"> okay. Michelle? </U>
+			<U WHO="S8"> and it's within like our own country as well <U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U>
+				<OVERLAP> it's </OVERLAP> not only like the way we deal with other countries, cuz like there're lots of different people from different countries who are now American like first generation second generation. and like the way we treat them is like the same way we treat other countries in terms of fearing them and not, caring to get to know them. but i think it's just like cuz there's also safety in like, knowing what you're used to, you know, like used to your type of people cuz you're you're comfortable with it, <OVERLAP> and </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> that's also where the fear comes from. </U>
+			<U WHO="S1"> Stacey? </U>
+			<U WHO="S7"> i think it's kind of like, two different things though like, what she was saying about like, the country and like not being able to generalize it like, and what he was saying about like the way we are with other countries like, i feel like the way we are internally is different than the way we, i do feel i- do you know what i mean? <OVERLAP> like </OVERLAP>
+				<U WHO="S1">
+					<OVERLAP> mhm </OVERLAP>
+				</U> when internally like, i happen to not agree with you like, while it's a nice thought to say that the majority of the co- country's open-minded like, i rea- i don't think they are, you know like i actually used to but i don't as much anymore. but i feel like, so while we may not all agree, in the same country i feel like when we're, put up against another country like, the way we feel we're better is as a whole we're better. as opposed to like individual like small groups being better. <U WHO="S1"> mhm </U> i don't know. </U>
+			<U WHO="S1"> John? </U>
+			<U WHO="S16"> um, i think it was on Leno or uh, Conan O'Brien, last week, <EVENT WHO="S1" DESC="LAUGH"/>
+				<OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> to quote the </OVERLAP> uh, eternal scholar. <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> yeah </OVERLAP>
+			</U>
+			<U WHO="S16">
+				<OVERLAP> no George </OVERLAP> Bush was on. <OVERLAP> and um </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> oh okay. </OVERLAP> oh yeah, <OVERLAP> (he's a) scholar </OVERLAP> . </U>
+			<U WHO="S16">
+				<OVERLAP> they were, </OVERLAP> um </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> go ahead. <EVENT DESC="LAUGH"/>
+			</U>
+			<U WHO="S16"> they were uh, <U WHO="SU-m">
+					<OVERLAP> (xx) socializing </OVERLAP>
+				</U>
+				<OVERLAP> they were (doing) him </OVERLAP> and uh one of the things he said there was at that time, i don't know (when_ like) maybe two weeks ago there was a lotta conflict, about um, in the Middle East and one of the things he said was uh, we gotta get those Arabs over the barrels, like, <U WHO="S1"> uhuh </U> and there was a whole blowup about that because, like the whole um, Arabic community was all angry because, you're not like you're fighting Iraq or whoever i don't even know what's going on, you're fighting uh like, <EVENT WHO="SS" DESC="LAUGH"/>
+				<OVERLAP> whoever </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> okay so </OVERLAP> um, <U WHO="S16">
+					<OVERLAP> yeah well i don't know what's going on either </OVERLAP>
+				</U>
+				<OVERLAP> there's this country </OVERLAP> Israel, okay? <U WHO="S16">
+					<OVERLAP> yeah Israel </OVERLAP>
+				</U>
+				<OVERLAP> and </OVERLAP> they're fighting with the Palestinians, <U WHO="S16"> yeah, well you know but </U> over, land in the Middle East. </U>
+			<U WHO="S16"> yeah the fact, that's not my point. the fact was that he said uh, <EVENT WHO="SS" DESC="LAUGH"/> he he said Arabs and he was referring to only like, one, he he he meant to say, Palestinians i think but uh he only, he referred to like the whole, Arabic block. </U>
+			<U WHO="S1"> mhm, so what does that, what does that story tell us, about politics? <U WHO="S16"> that <OVERLAP> even, </OVERLAP>
+				</U>
+				<OVERLAP> and groups? </OVERLAP>
+			</U>
+			<U WHO="S16"> the guy who we might elect as president, doesn't have, the knowledge of, what_ was uh, socialized wrong. </U>
+			<U WHO="S1"> how 'bout the role of groups in politics? <U WHO="SU-f"> (and organizations?) </U> wanna tell us a little bit about that? politics isn't, politics doesn't just run on individuals right? we wanna get something done, we talk about this collective action, we wanna get something done, we gotta get it, get what? a group of people together to do it? how do we do that...? Katy? </U>
+			<U WHO="S15"> we have people, in our_ to get together with us who have the same beliefs as us and the same, you know values and want the same thing in order, to get that done cuz if you have a group of people who, have competing interests you're never gonna get anything done you're gonna be, (xx) </U>
+			<U WHO="S1"> so there's there's uh, there's two ways to do that right? you wanna get people together who have a common interest. they can have a common positive interest or a common negative interest right? so we can all want the same good wonderful thing, or we can all want to prevent someone else from having some good wonderful thing right...? does anyone see where i'm going...? no? let's uh... when we talk about racial politics, what's that? racial politics. you hear it in the news all the time, playing racial politics here. </U>
+			<U WHO="S8"> supporting people of your race. </U>
+			<U WHO="S1"> supporting people of your race? </U>
+			<U WHO="S2"> trying to appeal to minority groups. </U>
+			<U WHO="S1"> trying to appeal to minority groups, Brit? </U>
+			<U WHO="S17"> it's kind of like you, bring in a, Supreme Court Justice, and he's of the minority just so, you get that group, or you know, get the southern, vote or whatever. </U>
+			<U WHO="S1"> so we might do something symbolic, <U WHO="S17"> yeah </U> to get that group on our side. or what else might might we do? what if we want uh all the southern white people on our side. Katy? </U>
+			<U WHO="S15"> pass some type of, or, urge for some type of like civil rights legislation or, something that will help, people of that group, and make them see that you're, an advocate of them. </U>
+			<U WHO="S1"> okay, so that's that's how we get minorities on our side what_ are we always helping minorities? </U>
+			<U WHO="SS"> no </U>
+			<U WHO="S1"> and why is that? </U>
+			<U WHO="SU-f"> help yourself </U>
+			<U WHO="S1"> Adam? </U>
+			<U WHO="S9"> uh opposing, opposing viewpoints and pressures for um, groups that, that think there's that there're more there're other important issues to deal with. </U>
+			<PAUSE DUR=":04"/>
+			<U WHO="S1"> Hannah? </U>
+			<U WHO="S6"> you can get more votes with the majority so you don't always go with the minority if, the minority's interests really conflict a lot with the majority's interests cuz you're really, mostly concerned about, keeping your job. </U>
+			<U WHO="S1"> okay so let's pull power back into all of this. so we thought about, what do we think about people that we don't necessarily know, a whole lot about, that seem like they're sort of different from us...? (okay beliefs about that,) does that shape our beliefs about, government and, power and, where power belongs and, what power should do? yeah? how's that? Brett? </U>
+			<U WHO="S5"> cuz maybe um you wou- you think that the other person that you don't know very much or the other ethnicity that you, don't know very much about lacks like yo- they're inferior to you or whatever that you're, you're superior to them or whatever. so then you don't want someone of tha- of the opposite um ethnicity, having power over you like having uh like your Congress job or, for that district or your governorship or whatever, because you feel that, they don't know how to run things cuz you know how to run things (you were raised) (xx) </U>
+			<U WHO="S1"> (Adam?) what about um, what about some other ways that we get some different ideas about, uh politics and, where uh, where power belongs? so what about... is anyone in here from Detroit? anyone from Detroit? </U>
+			<U WHO="SU-m"> what do you mean <OVERLAP> Detroit? </OVERLAP>
+			</U>
+			<U WHO="SU-f">
+				<OVERLAP> from </OVERLAP> Detroit Detroit? </U>
+			<U WHO="S1"> Detroit proper. Detroit. </U>
+			<U WHO="SU-m"> Detroit Detroit (xx) </U>
+			<U WHO="SU-m"> Detroit's (xx) </U>
+			<U WHO="S1"> no. anyone from, Detroit suburbs...? who lives in Detroit? </U>
+			<U WHO="S11"> no one </U>
+			<EVENT WHO="SS" DESC="LAUGH"/>
+			<U WHO="S1"> about a million plee- people live in Detroit. </U>
+			<U WHO="SU-m"> there're not (happy <OVERLAP> about it) </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> one </OVERLAP> million that's it? </U>
+			<U WHO="SU-m"> African-Americans </U>
+			<U WHO="S8"> Latinos, a lotta Hispanic people. </U>
+			<U WHO="SU-f"> i was in Detroit last night, sorry. </U>
+			<U WHO="S1"> b- before the riots, (xx) (have) riots in the, thirties and forties and then in the sixties right? who lived in Detroit? </U>
+			<U WHO="SU-f"> everyone </U>
+			<U WHO="SS"> white </U>
+			<U WHO="SU-m">
+				<OVERLAP> middle class </OVERLAP>
+			</U>
+			<U WHO="SU-m">
+				<OVERLAP> middle white American </OVERLAP>
+			</U>
+			<U WHO="S1"> everybody. they had a population at one point of about three million. Detroit was a pretty gosh darned big booming city. they had this whole auto industry thing going for 'em, right? then what happened? </U>
+			<U WHO="SU-f"> suburbs </U>
+			<U WHO="S9"> suburban sprawl. </U>
+			<U WHO="S1"> but why? <U WHO="S9"> because </U> it just <OVERLAP> happened? just one day </OVERLAP>
+				<U WHO="S9">
+					<OVERLAP> because no, </OVERLAP>
+				</U> people just started moving. </U>
+			<U WHO="S9"> because they, cuz they, the people that were living there, um, i mean they're, they're minorities that wanted to live there that were living there and so they didn't feel, there was tension, between, minorities and, and whites and that's why, they figured that mi- they'd move to the suburbs so minorities couldn't use_ minorities couldn't afford, a </U>
+			<U WHO="S1"> Margaret? </U>
+			<U WHO="S13"> (xx) what i hear cuz i've talked to my grandma like, what happened would be one black person would move into the neighborhood, and everyone would run. that's what happened. <EVENT WHO="SU-f" DESC="LAUGH"/> no that's the truth i mean people got scared, they didn't un- understand what was going on. one person would sell a house, then every person on the block <EVENT DESC="S1 WRITING ON BOARD NEXT :20 OF UTTERANCE"/> would then sell their house and move to, the suburbs. </U>
+			<U WHO="S1"> so there's this movie, called_ and don't_ this isn't what the movie's called. um, there's this called The Color of Courage has anyone ever seen it? it's about Detroit. alright, uh it deals with this, concept. restrictive covenant do we know what that is? yes no? </U>
+			<U WHO="SS"> no </U>
+			<U WHO="S1"> okay, it was an agreement among neighbors, that you signed, supposedly a legal document, that said i will never sell my house to a black person. okay, supposedly a legally binding contract among neighbors, it was part of how we kept neighborhoods all white. </U>
+			<U WHO="S8"> it was a legal contract? </U>
+			<U WHO="S1"> supposedly. <PAUSE DUR=":04"/> okay, we're_ this is, we have residential segregation in the North right? we talked about this? where in the South we have Jim Crow two (xx) of, lovely segregation. in the North we have residential segregation, so we don't have to worry about separate drinking fountains because we're never in the same neighborhood to use them in the first place right? okay this is part of how we keep it. what does this do for us to me as white homeowner? </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S5"> it gives you power. </U>
+			<U WHO="S1"> mhm. it supposedly protects my investment right? <U WHO="S5"> yeah </U> why do i care whether someone, moves in down the street who's African-American. one, because i might not like him because of, just, their race. <U WHO="S5"> yeah </U> two because, what do i believe that it's gonna do to my property value? </U>
+			<U WHO="SU-m"> devalue it </U>
+			<U WHO="S1"> so, a couple things happen, one there's a housing shortage in the African-American community. okay, they've been kept in a small little block this is, especially bad in Chicago but it happens here too, okay, there's nowhere to live. whether i wanna live amongst a bunch of hostile white people or not, some of some of us have no choice. some white people looking for some money, they're willing to sell me a house at a much higher price than my white counterpart would've paid. i'm now into this white neighborhood. then what happens? </U>
+			<U WHO="SU-f"> they all leave </U>
+			<U WHO="SU-m"> they get ostracized </U>
+			<U WHO="S1"> they all leave? they think that property values are going down i'm gonna sell out, sell out quick. what else happens in Detroit? </U>
+			<U WHO="SU-m"> riots </U>
+			<PAUSE DUR=":05"/>
+			<U WHO="S1">
+				<EVENT DESC="WRITING ON BOARD NEXT :07 OF UTTERANCE"/> where do these people go? </U>
+			<U WHO="SU-m"> overseas </U>
+			<U WHO="SU-m"> they start (leaving) </U>
+			<U WHO="S1"> they leave Detroit, are the big factories in Detroit proper, anymore? </U>
+			<U WHO="SS"> no </U>
+			<U WHO="S1"> are the corporation centers in Detroit proper anymore? </U>
+			<U WHO="SS"> no </U>
+			<U WHO="S1"> that leaves Detroit with what? </U>
+			<U WHO="SU-m"> slums </U>
+			<U WHO="S1"> no, no no tax base right? that money is gone. what would you do if you were living in Detroit? </U>
+			<U WHO="SU-f"> leave </U>
+			<U WHO="S1"> get the hell on out, right? </U>
+			<U WHO="S8"> wait why is their money gone? </U>
+			<U WHO="SU-f"> no tax base. </U>
+			<U WHO="S1"> their entire corporate sector is gone. </U>
+			<U WHO="S8"> well why can't the black people that are moving in become the new corporate sector? </U>
+			<U WHO="S1"> what do we know about black wealth? </U>
+			<U WHO="S8"> it's not strong. </U>
+			<U WHO="S1"> there isn't any. people have been keeping us from buying even small houses. since we've been freed from, slavery people have, found ways to keep us from accumulating any wealth in the first place, right? all the wealth moves out. who can't move with it...? poor people which tends to be highly correlated with African-Americans, right? i don't have the resources, to go, move somewhere else, right? <PAUSE DUR=":04"/> now what happens, in Detroit? what do you know about Detroit city government now? <PAUSE DUR=":05"/> you know lotsa good stuff about Detroit city government? you hear things like Detroit public schools are a mess you hear things like, they can't even shovel snow in Detroit. </U>
+			<U WHO="S12"> charter schools </U>
+			<U WHO="SU-m"> trash </U>
+			<U WHO="S1"> you hear that there's trash rodent problems. </U>
+			<U WHO="S9"> gambling </U>
+			<U WHO="S1"> gambling? </U>
+			<U WHO="S9"> (people like to gamble) </U>
+			<U WHO="SS"> that's supposed to help them </U>
+			<U WHO="S1"> so, who's, who's from a a, Detroit metro suburb? do do they pick up the trash in your neighborhood? </U>
+			<U WHO="S11"> (yup) </U>
+			<U WHO="S1"> what about schools, do you have <OVERLAP> decent schools? </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> (excellent) (xx) schools </OVERLAP>
+			</U>
+			<U WHO="S1"> yeah? what about um, snow do they get rid of the snow? yeah? hmm. </U>
+			<U WHO="S11"> well that's not a public (xx) that's not a public service </U>
+			<U WHO="S1"> they don't p- <OVERLAP> they don't (clear) streets? </OVERLAP>
+			</U>
+			<U WHO="S11">
+				<OVERLAP> well yeah i mean on the </OVERLAP> on the local roads not <OVERLAP> on the </OVERLAP>
+				<U WHO="S1"> (on the streets) </U> driveway. </U>
+			<U WHO="S1"> yeah, but they clear the streets so you can drive your car on it? <U WHO="S11"> (xx) </U> hm. do you think do you think the same thing about local government? that people who live in Detroit do? </U>
+			<U WHO="S11"> nope </U>
+			<U WHO="S1"> probably not? what what do you think the difference is? </U>
+			<U WHO="S11"> well the difference is we have a lot more capital to work with. i mean we have, a certain about of money and a certain, amount of people that are, continu- continuing the whole entire flow of, keeping the city well kept, managed organized educated, and funded. </U>
+			<U WHO="S1"> so local government's generally a good thing where you live? </U>
+			<U WHO="S11"> yes </U>
+			<U WHO="S1"> i mean you might think you'd prefer to have a different mayor and you know i don't know maybe they would, put up a different colored suh- street sign or something and, you'd be a little happier, right? but, what do you think people in Detroit feel about, their local government? </U>
+			<U WHO="SU-m"> it sucks </U>
+			<U WHO="S1"> i don't think i'd be too happy with it yeah? </U>
+			<U WHO="S11"> well the Detroit local governments are just as displeased with their own constituents as the constituents are with their own their uh, government. </U>
+			<U WHO="S1"> well don't confuse a Dennis Archer personality conflict with, right? so what am i saying about culture, political culture? </U>
+			<U WHO="S6"> (xx) and that, <OVERLAP> (xx) </OVERLAP>
+			</U>
+			<U WHO="S1">
+				<OVERLAP> it might </OVERLAP> be different for some subgroups in our population, for some very systematic reasons. alright, i have office hours today, um, those few papers that i didn't have to give back out now by then, yes? </U>
+			<EVENT DUR="2:01" DESC="UNINTELLIGIBLE CONVERSATION"/>
+			<P> {END OF TRANSCRIPT} </P>
+		</BODY>
+	</TEXT>
+</TEI.2>
