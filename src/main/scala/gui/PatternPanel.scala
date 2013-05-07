@@ -22,13 +22,18 @@ import corpus2.Driver._
 import patterns._
 
 //need to make sure mouse stuff doesn't happen if NO corpora attached to navigate panel...
-class PatternPanel extends BorderPanel {
+abstract class PatternPanel() extends DataPanel {
+
   val patterns = new ListBuffer[SearchPattern]
   var currentIdxs = List[Int]()
+  var updateAlways = false
+ 
+  def clearPanel {
+    currentIdxs = List[Int]()
+  }
 
-   def updatePanel(sIdxs: List[Int]) {
+  def updatePanel(sIdxs: List[Int]) {
      println("in PatternPanel : updating currentIdxs...")
-
      currentIdxs = sIdxs
    }  
   

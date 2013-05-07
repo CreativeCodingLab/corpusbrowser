@@ -21,10 +21,10 @@ import corpus2._
 import corpus2.Driver._
 
 //need to make sure mouse stuff doesn't happen if NO corpora attached to navigate panel...
-class SentencePanel extends BorderPanel {
+class SentencePanel extends DataPanel {
   
-  implicit def tuple2Dimension(tuple: Tuple2[Int, Int]) = new Dimension(tuple._1, tuple._2)
-  
+   var updateAlways = true
+
   val MIN_WIDTH = 250 
   val MIN_HEIGHT = 100
   val WORD_FONT = new Font("Lucida Console", Font.PLAIN, 14); 
@@ -36,14 +36,23 @@ class SentencePanel extends BorderPanel {
   //prevHeight is used to check if revalidation is necessary
   var prevHeight = -1.0
 
-  val sentenceHolder = new SentenceHolder
-  val jsp = new SentenceScrollPane(sentenceHolder) 
+
+  val display = new Display
+  val control = new Control
+  val jsp = new DisplayScrollPane(BarPolicy.Never, BarPolicy.AsNeeded) 
   add(jsp, Position.Center);
+  add(control, Position.South);
+  turnOffControlPanel
 
   listenTo(this)
   reactions += {
     case scala.swing.event.ComponentResized(src) => revalidateAll
     case _ =>
+  }
+
+   def clearPanel {
+    this.sentence = null
+    revalidateAll
   }
 
   class SentenceScrollPane(c : Component) extends ScrollPane(c) {
@@ -52,7 +61,7 @@ class SentencePanel extends BorderPanel {
     verticalScrollBarPolicy = BarPolicy.AsNeeded
   }
  
-  def newSentence(sentenceId : Int) {
+  def updatePanel(sentenceId : Int) {
     this.sentenceId = sentenceId;
     if (sentenceId >= 0) { 
       this.sentence = Driver.sentences(sentenceId);
@@ -63,14 +72,7 @@ class SentencePanel extends BorderPanel {
     revalidateAll
   }
 
-  def revalidateAll {
-    jsp.revalidate;
-    jsp.repaint;
-    sentenceHolder.revalidate;
-    sentenceHolder.repaint;
-  }
-
-  class SentenceHolder extends Component {
+  class Display extends DisplayPanel {
     minimumSize = (MIN_WIDTH, MIN_HEIGHT)
     preferredSize = (MIN_WIDTH, MIN_HEIGHT)
 
@@ -103,11 +105,8 @@ class SentencePanel extends BorderPanel {
     }
 
     override def paintComponent(g2: Graphics2D) {
+      clear(g2)
       if (sentence != null) {
-        g2.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON)
-        g2.setColor(Color.WHITE);
-        g2.fillRect(0,0,size.width, size.height);
-
         displayWords(g2);
         //displaySentenceFingerprint(g2);
 
@@ -210,6 +209,14 @@ class SentencePanel extends BorderPanel {
 
     }
   }
+
+
+   class Control extends ControlPanel("") {
+      val labelT = new Label("add real panel soon...") {}
+      add(labelT, "")
+    }
+
+
 
 }
 

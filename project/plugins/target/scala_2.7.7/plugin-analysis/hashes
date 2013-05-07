@@ -1,12 +1,8 @@
 #Source Hashes
-#Sun Nov 28 18:11:27 PST 2010
-src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/Utils.scala=100b94b0475288d1756b1a2c04cbb1cc28e1aed3
-src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ProjectFile.scala=353e4c7f863fac77a826e13514769ea3565350b2
-src_managed/sbt-scalariform-1.0.1/SourceTask.scala=5f40ce5462a9bf9e54e1f0976f0e405ef1290504
-src_managed/sbt-scalariform-1.0.1/ScalariformPlugin.scala=0040cf8d49f6b7cb68076cfd6db3f78ad2d4a78a
-src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathFile.scala=f44d4c5a34a895ded1540d6741ae3028e1b5fd66
+#Tue May 07 11:45:53 MST 2013
 src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathEntry.scala=0a5c9e963b69d7f607501c666c6d84baccf50f3e
-src_managed/sbt-scalariform-1.0.1/ScalariformOptions.scala=73f04549cdbd1f86f3e75db3f2dde4ff82217caa
-src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/Filter.scala=71521b7360f0403d147b4f51671731aeab69d3f9
-src_managed/sbt-scalariform-1.0.1/Actions.scala=55b6acefd3bf32cd0854518bdefb4c4911045e12
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ClasspathFile.scala=f44d4c5a34a895ded1540d6741ae3028e1b5fd66
 src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/SbtEclipsify.scala=4b5131c1eeeebbfbe54a4ccbb6ce866c689a647d
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/ProjectFile.scala=353e4c7f863fac77a826e13514769ea3565350b2
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/Filter.scala=71521b7360f0403d147b4f51671731aeab69d3f9
+src_managed/sbt-eclipsify-0.6.0/de/element34/sbteclipsify/Utils.scala=100b94b0475288d1756b1a2c04cbb1cc28e1aed3

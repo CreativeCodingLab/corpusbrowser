@@ -33,15 +33,25 @@ class DispersionPanel extends PatternPanel {
   val TITLE_MARGIN = 5
   val INC_MARGIN = 2
 
+  updateAlways = true 
+
   val display = new Display
   val control = new Control
+  val jsp = new DisplayScrollPane(BarPolicy.AsNeeded, BarPolicy.AsNeeded)
 
   add(display, Position.Center);
   add(control, Position.South);
+  turnOffControlPanel
 
   val patternToPositionIdxs : ConcurrentMap[SearchPattern, List[Int]] = new ConcurrentHashMap[SearchPattern, List[Int]] 
-  
   var numSentenceIdxs = 0
+
+  override def clearPanel {
+    super.clearPanel
+    numSentenceIdxs = 0
+    patternToPositionIdxs.clear
+    revalidateAll
+  }
 
   override def updatePanel(sIdxs: List[Int]) {
     super.updatePanel(sIdxs)
@@ -62,19 +72,13 @@ class DispersionPanel extends PatternPanel {
     g2.getFontMetrics
   }
 
-  class Display extends Component {
-
-    def clear(g2: Graphics2D) {
-      g2.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON)
-      g2.setColor(Color.WHITE);
-      g2.fillRect(0,0, size.width, size.height);
-    }
+  class Display extends DisplayPanel {
 
     override def paintComponent(g2: Graphics2D) {
-
       clear(g2)
 
-      
+      if (patternToPositionIdxs.size <= 0) { return }
+
       for (i <- 0 until patterns.size; p = patterns(i)) {
         val sectionWidth = dividerWidth(patterns.size)
         val plotPerc = calculatePlotPercent
@@ -141,8 +145,11 @@ class DispersionPanel extends PatternPanel {
 
   }
 
-  class Control extends Component {
+    class Control extends ControlPanel("") {
+
+      val labelT = new Label("add real panel soon...") {}
+      add(labelT, "")
+
+    }
 
   }
-
-}

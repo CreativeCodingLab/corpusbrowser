@@ -28,8 +28,6 @@ import java.util.concurrent._
 
 class ConcordancePanel extends PatternPanel {
 
-  implicit def tuple2Dimension(tuple: Tuple2[Int, Int]) = new Dimension(tuple._1, tuple._2)
-
   val LEFT_MARGIN = 5
   val RIGHT_MARGIN = 5
   val TOP_MARGIN = 0
@@ -50,7 +48,6 @@ class ConcordancePanel extends PatternPanel {
 
   var longestRightMatch = -1
 
-  //val linesToRects : ConcurrentMap[Line, List[Rect]] = new ConcurrentHashMap[Line, List[Rect]] 
   val rects = new ListBuffer[Rect]
   val patternToLines : ConcurrentMap[SearchPattern, List[Line]] = new ConcurrentHashMap[SearchPattern, List[Line]] 
   var numSentenceIdxs = 0
@@ -58,32 +55,18 @@ class ConcordancePanel extends PatternPanel {
   var leftWindow = 10
   var rightWindow = 10
 
-
   val display = new Display
   val control = new Control
-
-
-  val jsp = new ConcordanceScrollPane(display) 
+  val jsp = new DisplayScrollPane(BarPolicy.AsNeeded, BarPolicy.AsNeeded)
   add(jsp, Position.Center);
   add(control, Position.South);
-
-  listenTo(this)
-  reactions += {
-    case scala.swing.event.ComponentResized(src) => revalidateAll
-    case _ =>
-  }
-
-  class ConcordanceScrollPane(c : Component) extends ScrollPane(c) {
-    border=null
-    horizontalScrollBarPolicy = BarPolicy.AsNeeded
-    verticalScrollBarPolicy = BarPolicy.AsNeeded
-  }
-
-  def revalidateAll {
-    jsp.revalidate;
-    jsp.repaint;
-    display.revalidate;
-    display.repaint;
+  turnOffControlPanel
+ 
+  override def clearPanel {
+    super.clearPanel
+    patternToLines.clear
+    rects.clear
+    revalidateAll
   }
 
   override def updatePanel(sIdxs: List[Int]) {
@@ -105,7 +88,7 @@ class ConcordancePanel extends PatternPanel {
 
     var i = 0;
     for ((p, lines) <- patternToLines; line <- lines) {
-      rects ++= makeRects(line, i) //will be added to linesToRects which is what will be used in drawing/selecting
+      rects ++= makeRects(line, i)
       i+=1
     }
 
@@ -248,24 +231,16 @@ class ConcordancePanel extends PatternPanel {
     g2.getFontMetrics
   }
 
-  class Display extends Component {
+  class Display extends DisplayPanel {
     minimumSize = (MIN_WIDTH, MIN_HEIGHT)
     preferredSize = (MIN_WIDTH, MIN_HEIGHT)
-
-    listenTo(this.mouse.clicks, this.mouse.moves, this.keys)
-    reactions += {
-      case MouseMoved(src, point, mods) ⇒ {handleMoved(point, mods)}
-      case MousePressed(src, point, i1, i2, b) ⇒  handlePressed(point, i1, i2) 
-      case KeyPressed(src, key, modifiers, location) ⇒ Main.handleKeyPress(key, modifiers)
-      case _ =>
-    }
-
+   
     def mouseInRect(r:Rect, x:Int, y:Int) : Boolean = {
       if (x > r.x && x < r.x + r.w && y > r.y && y < r.y + r.h) true else false
     }
 
-    def handlePressed(me: Point, modifiers: Int, clickCount: Int) {
-      requestFocus
+    override def handlePressed(me: Point, modifiers: Int, clickCount: Int) {
+      super.handlePressed(me, modifiers, clickCount)
 
       val x = me.getX.toInt
       val y = me.getY.toInt
@@ -277,7 +252,7 @@ class ConcordancePanel extends PatternPanel {
       repaint
     }
 
-    def handleMoved(me: Point, mods: Int) {
+    override def handleMoved(me: Point, mods: Int) {
       val x = me.getX.toInt
       val y = me.getY.toInt
 
@@ -289,82 +264,94 @@ class ConcordancePanel extends PatternPanel {
     }
 
 
-    def clear(g2: Graphics2D) {
-      g2.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON)
-      g2.setColor(Color.WHITE);
-      g2.fillRect(0,0, size.width, size.height);
-    }
-
     override def paintComponent(g2: Graphics2D) {
       clear(g2)
+
+      val viewportRect = jsp.peer.getViewport.getViewRect() 
 
       val metrics = getFontMetrics(g2, CONCORDANCE_FONT_PLAIN)
       g2.setColor(Color.BLACK);
 
       for (r <- rects) {
-        if (r.isHovered) {
-          g2.setColor(new Color(255,0,0, 200));
-          g2.drawRect(r.x, r.y , r.w, r.h)
-          g2.setColor(Color.BLACK);
-        }
 
-        if (r.isSelected) {
-          g2.setColor(new Color(255,0,0, 128));
-          g2.fillRect(r.x, r.y , r.w, r.h)
-          g2.setColor(Color.BLACK);
-        }
+        if (r.y + r.h > viewportRect.y && r.y < viewportRect.y + viewportRect.height) {
 
-        if (r.hasBold) {
-          g2.setColor(WINDOW_TEXT_COLOR);
-          g2.setFont(CONCORDANCE_FONT_PLAIN)
-          g2.drawString(r.part1, r.part1x, r.y + FONT_HEIGHT)
+          if (r.isHovered) {
+            g2.setColor(new Color(255,0,0, 200));
+            g2.drawRect(r.x, r.y , r.w, r.h)
+            g2.setColor(Color.BLACK);
+          }
 
-          g2.setColor(MATCH_TEXT_COLOR);
-          g2.setFont(CONCORDANCE_FONT_BOLD)
-          g2.drawString(r.part2, r.part2x, r.y + FONT_HEIGHT)
+          if (r.isSelected) {
+            g2.setColor(new Color(255,0,0, 128));
+            g2.fillRect(r.x, r.y , r.w, r.h)
+            g2.setColor(Color.BLACK);
+          }
 
-          g2.setColor(WINDOW_TEXT_COLOR);
-          g2.setFont(CONCORDANCE_FONT_PLAIN)
-          g2.drawString(r.part3, r.part3x, r.y + FONT_HEIGHT)
-        } else {
-          g2.setColor(WINDOW_TEXT_COLOR);
-          g2.setFont(CONCORDANCE_FONT_PLAIN)
-          g2.drawString(r.chunk.str, r.x, r.y + FONT_HEIGHT)
+          if (r.hasBold) {
+            g2.setColor(WINDOW_TEXT_COLOR);
+            g2.setFont(CONCORDANCE_FONT_PLAIN)
+            g2.drawString(r.part1, r.part1x, r.y + FONT_HEIGHT)
+
+            g2.setColor(MATCH_TEXT_COLOR);
+            g2.setFont(CONCORDANCE_FONT_BOLD)
+            g2.drawString(r.part2, r.part2x, r.y + FONT_HEIGHT)
+
+            g2.setColor(WINDOW_TEXT_COLOR);
+            g2.setFont(CONCORDANCE_FONT_PLAIN)
+            g2.drawString(r.part3, r.part3x, r.y + FONT_HEIGHT)
+          } else {
+            g2.setColor(WINDOW_TEXT_COLOR);
+            g2.setFont(CONCORDANCE_FONT_PLAIN)
+            g2.drawString(r.chunk.str, r.x, r.y + FONT_HEIGHT)
+          }
         }
       }
     }
   }
 
-  class Control extends BorderPanel {
+  class Control extends ControlPanel("wrap 4") { 
+    val hstr = ""//"h 20:20:20"
+    val labelL = new Label("L") 
+    add(labelL, hstr)
 
-    val slider = new Slider {
+    val sliderL = new Slider {
+      orientation = Orientation.Horizontal
       min              = 0
       value            = leftWindow
       max              = 50
       majorTickSpacing = 5
       paintTicks       = false
-      /*labels           = Map(0 -> new Label("Aut."),
-        1 -> new Label("Winter"),
-        2 -> new Label("Summer"),
-        3 -> new Label("Sea Shr."),
-        4 -> new Label("Mon/re"))
-      */
-      //paintLabels      = true        
     }
-    //layout(slider) = South
+    add(sliderL, hstr)
 
-    listenTo(slider)
+
+    val labelR = new Label("R") 
+    add(labelR, hstr)
+
+    val sliderR = new Slider {
+      orientation = Orientation.Horizontal
+      min              = 0
+      value            = rightWindow
+      max              = 50
+      majorTickSpacing = 5
+      paintTicks       = false
+    }
+    add(sliderR, hstr)
+
+    listenTo(sliderL, sliderR, this.keys)
     reactions += {
-      case ValueChanged(`slider`) => {
-        //if ( !slider.adjusting ) {
-          println("moved slider... " + slider.value)
-          leftWindow = slider.value
-          rightWindow = slider.value
-          updatePanel(currentIdxs)
-          //}
-        }
+      case ValueChanged(`sliderL`) => {
+        leftWindow = sliderL.value
+        updatePanel(currentIdxs) 
       }
-
-      add(slider, Position.Center)
+      case ValueChanged(`sliderR`) => {
+        rightWindow = sliderR.value
+        updatePanel(currentIdxs)
+      }
+      case KeyPressed(src, key, modifiers, location) ⇒ handleKeyPress(key, modifiers)
+      case _ =>
     }
+
   }
+}

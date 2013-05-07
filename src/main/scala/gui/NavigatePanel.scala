@@ -96,13 +96,19 @@ class NavigatePanel extends Panel{
 
   var rm = RepaintManager.currentManager(this.peer);
   rm.setDoubleBufferingEnabled(true);
+
   
-  listenTo(this.mouse.clicks, this.mouse.moves, this.keys)
+  listenTo(this, this.mouse.clicks, this.mouse.moves, this.keys)
   reactions += {
+    case scala.swing.event.ComponentResized(src) => {
+      //display.preferredSize = (size.width, TOP_MARGIN + HEADER_HEIGHT + (biggestSize * COLOCATION_HEIGHT) + BOTTOM_MARGIN)
+      paintNow
+    }
     case MouseDragged(src, point, mods) ⇒ {handleDrag(point, mods)}
     case MousePressed(src, point, i1, i2, b) ⇒  {handlePressed(point, i1, i2); println(i1 + "," + i2 + "," + b);}
     case MouseReleased(src,  point, i1, i2, b) => handleReleased
     case KeyPressed(src, key, modifiers, location) ⇒ this.handleKeyPress(key, modifiers)
+    case KeyReleased(src, key, modifiers, location) ⇒ this.handleKeyRelease(key, modifiers)
     case _ =>
   }
 
@@ -155,7 +161,13 @@ class NavigatePanel extends Panel{
     paintNow
 
     //println("about to call newSentence with val of " + currentSentence)
-    updateWidgets
+    if (currentCorpusNodes.size > 0) {
+      updateWidgets(true, true)
+    } else {
+      Main.currentView.clearPanels
+    }
+
+
     //Main.sentencePanel.newSentence(currentSentence)
     //handleDatabaseConnections(false)
   }
@@ -711,18 +723,17 @@ class NavigatePanel extends Panel{
     }
   }
 
-  def updateWidgets {
+  def updateWidgets(updateOnMove:Boolean, updateOnRelease:Boolean) {
     if (currentCorpusNodes.size > 0) {
-    if (checkIfWindowIdxsChanged) {
-     Main.updatePatternPanels(getCurrentWindowRawIndexes)
-      // debugCurrentWindow
-    }
+      if (checkIfWindowIdxsChanged || updateOnRelease) {
+        Main.currentView.updatePatternPanels(getCurrentWindowRawIndexes, updateOnMove, updateOnRelease)
+      }
 
-    if (checkIfSentenceIdxChanged) {
-      Main.updateSentencePanels(currentSentence)
-    //  debugCurrentSentence
-    }
-  }
+      if (checkIfSentenceIdxChanged || updateOnRelease) {
+        Main.currentView.updateSentencePanels(currentSentence, updateOnMove, updateOnRelease)
+        //  debugCurrentSentence
+      }
+    } 
   }
 
   def handleDrag(me: Point, mods: Int) {
@@ -807,12 +818,14 @@ class NavigatePanel extends Panel{
     leftWindowSizerShapeSelected = false
     rightWindowSizerShapeSelected = false
     sentenceShapeSelected = false
+  
+    updateWidgets(false, true)
   }
 
   def processNavigationChange {
     keepInRange
     checkIfIdxsChanged
-    updateWidgets
+    updateWidgets(true, false)
     paintNow 
   }
 
@@ -851,6 +864,10 @@ class NavigatePanel extends Panel{
       println("Indexes have changed!");
       isExpanded = false 
     }
+  }
+
+  def handleKeyRelease(key: Value, modifiers: Int) {
+    updateWidgets(true, true)  
   }
 
   def handleKeyPress(key: Value, modifiers: Int) {

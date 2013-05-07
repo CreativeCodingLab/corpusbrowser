@@ -21,13 +21,10 @@ case class ExactIdx(sid: Int, si: Int, ei: Int) {
 abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
   val title = t
 
-  //var sentenceIds = new HashSet[Int]
-  //var sentenceIndexes = new HashSet[SentenceIdx2]
   var sentence2matchIdxs = new HashMap[Int, ListBuffer[MatchIdx]]
   var sentence2exactIdxs = new HashMap[Int, ListBuffer[ExactIdx]]
 
   findPatternMatches
-
 
   case class MatchIdx(sid: Int, tokenPositions:List[Int]) {
     override def toString : String = "sid: " + sid + ", tokenPositions: " + tokenPositions
@@ -37,8 +34,17 @@ abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
     "title: " + title + ", regex: " + re + ", mode: " + mode
   }
 
-   def getTokensForMatchIdx(mi: MatchIdx) : List[Token] = {
-    for (tp <- mi.tokenPositions) yield tokens(sentences(mi.sid).tokens(tp)) 
+  def getTokenForTokenPosition(sid: Int, tokenPosition: Int) : Token = {
+    tokens(getTokenIdForTokenPosition(sid, tokenPosition))
+  }
+
+  def getTokenIdForTokenPosition(sid: Int, tokenPosition: Int) : Int = {
+    sentences(sid).tokens(tokenPosition)
+  }
+
+  def getTokensForMatchIdx(mi: MatchIdx) : List[Token] = {
+    //for (tp <- mi.tokenPositions) yield tokens(sentences(mi.sid).tokens(tp)) 
+    for (tp <- mi.tokenPositions) yield getTokenForTokenPosition(mi.sid, tp) 
   }
 
   def getMode(s:Sentence) : String = {
@@ -62,12 +68,13 @@ abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
 
     def checkIfTokensIntersectMatch(p:PositionIdx) : Boolean = {
       val (ps, pe) = getPositionsForMode(p);
-      println("[" + sentences(p.sentenceId).clean.substring(ps, pe) + "] ps/pe = " + ps + "/" + pe + " esi/eei = " + eidx.si + "/" + eidx.ei)
+      //println("[" + sentences(p.sentenceId).clean.substring(ps, pe) + "] ps/pe = " + ps + "/" + pe + " esi/eei = " + eidx.si + "/" + eidx.ei)
 
-      //def checkIfBeginningOverlaps : Boolean = (eidx.si >= ps && eidx.si < pe)
-      //def checkIfEndOverlaps : Boolean = (eidx.ei >= ps && eidx.ei <= pe)
-      //def checkIfContainedWithin : Boolean = (eidx.si <= ps && eidx.ei > pe)
-      
+      def checkIfBeginningOverlaps : Boolean = (eidx.si >= ps && eidx.si < pe)
+      def checkIfEndOverlaps : Boolean = (eidx.ei >= ps && eidx.ei <= pe)
+      def checkIfContainedWithin : Boolean = (eidx.si <= ps && eidx.ei > pe)
+     
+      /*
       //debugging versions...
       def checkIfBeginningOverlaps : Boolean = {
         if (eidx.si >= ps && eidx.si < pe) {
@@ -87,7 +94,7 @@ abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
           true
         } else false
       }
-
+      */
       ( checkIfContainedWithin || checkIfBeginningOverlaps || checkIfEndOverlaps ) 
     }
 
@@ -106,10 +113,10 @@ abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
       val mi = MatchIdx(s.id, findTokenPositions(ei))
       sentence2matchIdxs(s.id) = if (!sentence2matchIdxs.contains(s.id)) { new ListBuffer[MatchIdx] += mi } else { sentence2matchIdxs(s.id) += mi }
 
-      println(m.matched)
+      //println(m.matched)
     }
 
-    println(sentence2matchIdxs)  
+    //println(sentence2matchIdxs)  
   }
 
   //ideas...
@@ -123,6 +130,12 @@ abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
   //s+e idx created in concordance using window
 
 
+
+  def getCurrentMatchIdxs(idxs: List[Int]) : List[MatchIdx] = {
+    val intersect = (sentence2matchIdxs.keySet.toList intersect idxs).sortWith{(a,b) => a < b}
+    (for (i <- intersect) yield sentence2matchIdxs(i)).flatten
+  }
+
   def getCurrentWindowedAndUnwindowedExactIdxs(idxs: List[Int], leftWindow:Int, rightWindow:Int) : List[(ExactIdx,ExactIdx)] = {
     for (eidx <- getCurrentExactIdxs(idxs)) yield {
       val uei = ExactIdx(eidx.sid, eidx.si, eidx.ei)
@@ -130,7 +143,6 @@ abstract class SearchPattern(t:String, re:Regex, mode:Mode) {
       (uei, wei)
     }
   }
-
 
   def getCurrentWindowedExactIdxs(idxs: List[Int], leftWindow:Int, rightWindow:Int) : List[ExactIdx] = {
     for (eidx <- getCurrentExactIdxs(idxs)) yield {
